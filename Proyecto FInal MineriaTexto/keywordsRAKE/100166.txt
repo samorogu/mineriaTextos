@@ -1,0 +1,1806 @@
+probabilistic graphical models
+nir friedman
+high-throughput genome-wide molecular assays
+probabilistic graphical models represent multivariate joint probability distributions
+org science vol 303 6 february 2004
+
+maximum likelihood problem
+biology
+
+special section
+
+review
+
+inferring cellular networks
+[koninklijke nederlandse academie van wetenschappen
+mitogen-activated protein kinase signaling cascades
+ob-
+
+802
+
+6 february 2004 vol 303 science www
+permission]
+
+804
+
+6 february 2004 vol 303 science www
+org science vol 303 6 february 2004
+
+799
+
+downloaded
+org science vol 303 6 february 2004
+
+805
+
+downloaded
+org science vol 303 6 february 2004
+
+803
+
+downloaded
+transforming high-throughput heterogeneous data sets
+repular gene cluster­array cluster pair
+relating transcription factor binding sites
+notes
+
+supporting online material www
+cellular regulatory circuits coordinate activation
+probabilistic graphical models nir friedman
+biology
+
+special section
+
+bayesian network
+finds transcription factor binding sites
+gene exprescan explain observed coexpression
+active transcription factor binding sites
+6th annual international conference
+7th annual international conference
+800
+
+6 february 2004 vol 303 science www
+biology
+
+special section
+
+conclusion
+random variables include observed attributes
+austrian science fund wk 10008
+complete genome sequences facilitates
+data source considered independently
+yeast cell cycle expression data
+org/cgi/content/full/303/5659/799 supporting online material
+typical data set reinclude observations
+unobserved posttranscriptional events affect
+hightranscription factor binding sites
+expression random variables requires 31 parameters
+biology
+
+special section
+
+reconstruction
+fairly simple modeling asoversimplifies
+yeast cell cycle stages
+include mrna transcript quantities
+transcription factor location data
+yeast gene expression data sets
+assays measure molecular networks
+combining multiple local models
+normalizing variables cj constant
+capture relevant biological network structure
+extracting meaningful biological insights
+org/cgi/content/full/303/5659/799/ dc1 glossary
+
+www
+finding computationally efficient algorithms
+shared regulation programs require
+random binary variable rg
+apply wellunderstood statistical principles
+introduce binding site attributes
+presence influences gene expression
+constraining regulatory network structure
+simple thought experiment suggests
+boxes delimit entity types
+science web sites related
+provide deeper biological insight
+identify significant network features
+combining additional data sources
+involve fairly generic representation
+significant gene ontology annotations
+biology
+
+special section
+dozen binding site motifs
+learning procedure simultaneously identifies
+prefers coordinated cluster assignments
+markov network pairwise potential
+key regulation mechanism el
+current biological data sets
+random variables denote attributes
+relational bayesian network template
+learning involves information flow
+graphical models provide foundations
+yeast gene expression profiles
+module network representation forces
+actual network structure depends
+gene/ array cluster combination
+high-throughput data sets
+binding sites problem
+discrete optimization problem
+maximum likelihood estimation
+resulting gene clusters corresponded
+high-throughput assays provide
+challenge involves statistical robustness
+computational molecular biology
+probabilistic graphical models
+adding random vari-
+yeast transcriptional circuits
+binary random variables
+unobserved random variables
+describing probability distributions
+jth transcription factor
+miss fine points
+print issn 0036-8075
+significant gene ontology
+online issn 1095-9203
+construct simple submodels
+random variable represents
+network architecture forces
+achieve high likelihood
+methods examine expression profiles
+significant annotations matched
+underlying asdirectly influences
+regulatory network architectures
+resulting data sets
+multiple data sets
+diverse data sets
+total probability mass
+selected additional articles
+predicting functional annotations
+adopt generic strategies
+ab initio fashion
+rich data illuminate
+relational data mining
+inferring cellular networks
+complex cellular networks
+latest ancestral sequence
+probabilistic sequence models
+gleaning biological insight
+approximately uniform expression
+explain differential expression
+similar binding sites
+proteinprotein interaction maps
+clustering eral dozens
+includes combining tools
+including high-resolution figures
+binding site motifs
+specific motif recognized
+pairwise interaction model
+accurate regulatory models [
+characterized binding sites
+independent experimental assays
+bayesian network associates
+incorporating biological principles
+posttranscriptional protein modifications
+general outline faces
+involve feedforward loops
+dotted lines correspond
+gen-
+
+erates predictions
+ab initio exploration
+environmental stress conditions
+expres-
+
+sion data
+probabilistic cluster assignment
+includes promoter sequences
+random variable xg
+mrna expression
+
+level
+probe cellular networks
+markov network structure
+shared regulatory program
+promoter region determines
+promoter region content
+apply well-understood principles
+additional data sources
+protein-protein interaction data
+il
+
+biological insights
+prefer regulator-target pairs
+promoter sequence seqg
+construct-
+
+ing models
+random variable names
+including signal transduction
+capture additional insight
+coherent expression profiles
+simple data set
+conditional probability characterize
+unconstrained acyclic network
+model combines similarity
+established sequence models
+alternative experimental strategy
+interactive web page
+parents directly influence
+making strong assumptions
+individual regulatory program
+direct neighbor relations
+basic well-understood principles
+bayesian network semantics
+gene expression proregularities
+captures additional structure
+hidden markov models
+specific cis-regulatory circuit
+methods discover direct
+actual promoter sequence
+biological regulatory mechanisms
+york avenue nw
+stochastic differential equations
+genome-wide scale
+evolutionary game theory
+modeling cellular pathways
+israel science foundation
+clustering bayesian network
+examines networks composed
+colors highlight genes
+discovered regulatory relations
+candidate structure matches
+learning cellular networks
+conditional probabilities explored
+modeling complex systems
+relevant biological entities
+composing simpler submodels
+nir@ cs
+product form requires 10
+significant regulation relations
+joint probability distribution
+expectation maximization procedure
+reconstruct detailed models
+gene assignment partitions
+joint activity levels
+specific parametric representation
+joint expression levels
+high-throughput assays
+coherent probability distribution
+statistical regression model
+discrete variable xi
+modeling promoter sequences
+pinpoint genes downstream
+gene expression data
+conditional regulation program
+similar expression patterns
+protein activity levels
+multiple interacting entities
+biological sequence analysis
+careful experimental design
+simplifying spatial complexity
+technical terms appears
+downstream transcriptional targets
+article cites 25 articles
+unified learning algorithms
+tailor learning procedures
+gene cluster variables
+prior biological knowledge
+joint global model
+examine cellular systems
+expression attribute xg
+incorporate protein-protein interactions
+regulator-target pairs correspond
+promoter regions
+
+www
+molecular biology
+annotate promoters context
+gene cluster depends
+college london press
+modeling decision depends
+gene expression analysis
+transcription factor
+basic clustering model
+current research focuses
+gene entity denotes
+infer indirect regulation
+gene knockout experiments
+genes reflects coregulawe
+standard clusters learned
+computational analysis methods
+module network approach
+extensive form games
+examining gene expression
+model explicitly describes
+binding sites
+learning temporal model
+clustering problem
+observed data
+probabilistic models
+gene knockout perturbations
+binding site
+science online
+random variable
+conditional distributions
+data sets
+protein quantities
+graphical models
+random variables
+computational biology
+markov network
+typical exregulation
+subset notes
+obtaining permission
+15th conference
+cellular networks
+probabilistic model
+regulatory networks
+ulatory circuits
+ing site
+involves binding
+include components
+org
+
+downloaded
+graphical modtion
+graphical representation
+joint probability
+additional structure
+explain assignments
+markov networks
+underlying biology
+network architecture
+sion profiles
+explicitly represent
+significant annotation
+experimental assays
+network structure
+well-understood principles
+bayesian network
+multiple levels
+transcript levels
+expression profiles
+biological principles
+protein annotations
+probabilistic reasoning
+specific assays
+general
+
+801
+
+downloaded
+coherent reconstruction
+efficient computation
+cellular machinery
+relational erned
+expectation maximization
+simultaneously characterizes
+greatly affect
+isi web
+incorporate data
+protein activity
+basic principles
+dtl
+
+science
+computer science
+title science
+regulatory relationships
+regulatory machinery
+heterogeneous observations
+observed measurements
+finding clusters
+promoter region
+regulation program
+online version
+signal pathways
+hidden attributes
+bayesian networks
+2008
+
+bayesian networks
+promoter sequence
+direct regulation
+van strien
+rapidly apply
+joint distribution
+van heerwarden
+van valen
+sequence attribute
+biological regulation
+cis-regulatory motifs
+conditional probability
+transcription factors
+two-level network
+network learned
+expression attributes
+model rg
+finds regulators
+provide principles
+dozen examples
+cellular components
+detect coordinated
+downstream effectors
+26 articles hosted
+biological interpretability
+biological mechanisms
+biological mechasumption
+gene expression
+promoter entity
+unified models
+thouer sequences
+cellular processes
+promoter regions
+represent clusters
+cluster assignments
+gene cluster
+tional probability
+probability theory
+module network
+standard deviation
+kinematic equations
+global picture
+extensive validation
+apply inference
+org/cgi/content/full/303/5659/799#otherarticles
+simplifying abstraction
+understandable fashion
+jth potential
+probe cells
+packard foundation
+evolutionary games
+evolutionary dynamics
+org/cgi/content/full/303/5659/799#related-content
+main sources
+computational advantages
+linear regression
+closely related
+resulting product
+computational procedures
+resources related
+cluster xg
+models provide
+throughput data
+data analysis
+activity levels
+activity level
+gene entity
+indirect regulation
+expression levels
+expression level
+learned networks
+array-cluster variables
+key strength
+key ingredient
+chromatin structure
+cisregulatory motifs
+network structures
+biological question
+expression profile
+conditional probabilities
+structure learning
+additional aspects
+gene depends
+single cell
+proteinprotein interactions
+important strategy
+general-purpose strategy
+increases robustness
+cis-regulatory elegenes
+prior knowledge
+indirect relations
+single attribute
+experimental designs
+potential captures
+decision trees
+involves thousands
+yeast-mating pathways
+coregulated cluster
+cluster assignment
+biological parents
+procedure identified
+obtaining models
+phylogenetic models
+mathematical models
+build models
+develop models
+actual details
+declarative semantics
+gene belongs
+gene annotation
+gene scheme
+data set
+module networks
+array cluster
+learning procedure
+provide methodologies
+specific conditions
+biological system
+biological processes
+intelligent systems
+dynamical systems
+conditional distribution
+knockout strains
+300 knockout variants
+glean insights
+model focuses
+basic model
+regulators explain
+variable xi
+current parameters
+array entity
+spatial structures
+modeling toolbox
+underlying mechanisms
+underlying logic
+modeling choices
+underlying distribution
+actual observations
+key challenge
+array xg
+biological phenomena
+regulation mechanisms
+indicator depends
+approaches represent
+model structure
+pression level
+bottom level
+top level
+function annotations
+key challenges
+unified model
+clustering model
+bootstrap procedure
+important aspect
+respective gene-cluster
+varying detail
+single tool
+parameter estimation
+gaussian distribution
+rights reserved
+easier interpretation
+gcg denotes
+registered trademark
+trends ecol
+edges correspond
+earlier versions
+develop methodologies
+reconstruct reg-
+
+1
+org/cgi/collection/comp_math information
+bauer center
+large body
+extremely problematic
+contradictory aims
+aca denotes
+edge thickness
+updated information
+de monte
+hypergeometric p-
+nucleic acids
+coexregulation pression
+london ser
+enable researchers
+potential functions
+/ virtuallabs
+distribution describes
+weak evidence
+ecological interactions
+true correlations
+harvard university
+insightful discussions
+problematic assumption
+gradient ascent
+hebrew university
+elements captures
+empower researchers
+intermediate steps--
+straightforward apsands
+gratefully acknowledged
+high-confidence relations
+recent works
+recent applications
+model-based analysis
+chain graphs
+first-order titioned
+feedback mechanisms
+obtaining reprints
+natural selection
+subject collections
+published weekly
+population dynamics
+ultimate goal
+composite organ
+high-confidence interconnections
+main strategies
+put edges
+american association
+darwinian dynamics
+full specification
+san francisco
+magnetic particle
+gibbs sampling
+verduyn lunel
+representations manage
+compiled subnetworks
+fully characterized
+systematic evaluation
+systematic validation
+intriguing prospects
+distinguishing correlation
+vertices translate
+recurring theme
+morgan kaufmann
+including inference
+additive votes
+properties entailed
+artificial intelligence
+data facilitate
+spot entity
+distinguish
+
+www
+machine learning
+learning procedures
+similar promoters
+template model
+model gene
+relates variables
+dna sequence
+current understanding
+temporal observations
+similar model
+approximate methods
+harvard univ
+distinguish regulation
+predict expression
+measures expression
+model-based approach
+combine evidence
+combine annotation
+array clusters
+single module
+article appears
+parameters relate
+fewer parameters
+underlying processes
+smaller set
+concise representation
+major challenge
+target set
+related class
+effective inference
+difficult challenge
+bootstrap estimates
+experimental results
+attempt www
+entities assignment
+model suggests
+model completely
+full model
+ising model
+model learned
+model ecosystems
+undirected model
+model selection
+model embodies
+model assumes
+mathematical model
+learned model
+discovered regulators
+procedures based
+measurement noise
+protein-dna interactions
+overrepresented elements
+main challenges
+main tasks
+smaller number
+evidence based
+model-based methodology
+automatically identify
+procedural methodology
+numerous examples
+make predictions
+representation leads
+find patterns
+analysis tasks
+crucial detail
+specific genes
+capture aspects
+highwire press
+mit press
+acm press
+interacting proteins
+directed graph
+system identification
+tools tailored
+sparse graph
+genomics research
+geneclusterg denotes
+declarative approach
+function annotation
+stochastic function
+nature genet
+combine components
+orthogonal extension
+noisy sensor
+distributions
+experience shows
+testable hypotheses
+reverse engineering
+common term
+concrete implementations
+pair
+lose flexibility
+errors made
+product decomposition
+combine protein-dna
+apdirect dependencies
+figure 2b
+unselfish behavior
+pedigree analysis
+experimental literature
+important aspects
+group genes
+differpressed genes
+genes memes 2
+coregulated genes
+target genes
+reassign genes
+genes upstream
+genes ences
+stronger conclusions
+model-based approaches
+crucial question
+original measurements
+results show
+sequential observations
+procedural method
+discussed capture
+princeton univ
+model structures
+wide choice
+transcriptionally regulated
+cluswe treat
+social evolution
+general aim
+acta appl
+arrayclustera denotes
+declarative nature
+product form
+parents geneclusterg
+small number
+system components
+cases corresponds
+mere description
+analysis showed
+addition associate
+spot measures
+35 modules agree
+model details
+unknown regulators
+cambridge univ
+sites
+system behavior
+concise language
+regulator set
+in-
+
+fig
+method leads
+biology
+xi ui
+form
+
+mathematics
+activation
+active
+downloaded
+statistical
+review 41
+inferring
+review
+binding
+relevant
+assign confidence
+science
+science 298
+science 296
+science 290
+science 303
+coexpressed genes
+reach conclusions
+robust conclusions
+transcription
+geneclusterg alternatively
+graph specifies
+involved 800 genes
+involved 1000 genes
+online
+assays
+yeast
+genes shown
+regulator genes
+insight
+joint
+network
+likelihood
+pronounced regulators
+algorithms
+represent
+variable
+sequences
+protein
+probability
+annotations
+corresponded
+[cj]
+friedman
+glossary
+foundations
+experiment
+mechanism
+sources
+denote
+data
+networks
+variables
+sequence
+current
+structure
+motifs
+mathematics http
+bayesian
+promoter
+expression
+reconstruction
+submodels
+cell 9
+cell 102
+robustness
+clustering
+cell 11
+involves
+attributes
+protein-protein
+coexpression
+org
+cluster
+models
+template
+shared
+assignments
+including
+gene
+provide
+specific
+www
+knockout
+insights
+xg
+systems
+similar
+modeling
+capture
+regulation
+depends
+levels
+theory 1
+involve
+complexity
+reconstruct
+games
+predictions
+representation
+experiments
+matches
+theory
+mechanisms
+potential
+london
+exploration
+composing
+acyclic
+general
+stochastic
+learned
+israel
+strategies
+information
+characterized
+denotes
+conditions
+context
+describes
+assignment
+analysis
+modifications
+suggests
+names
+reflects
+correspond
+interactions
+relations
+individual
+knowledge
+procedures
+estimation
+examines
+infer
+distribution
+learning
+array
+methods
+clusters
+univ
+approach
+combine
+pairs
+module 1
+module
+factors
+form
+parameters
+concise
+combination
+declarative
+inference
+spot
+bootstrap
+set
+distinguish
+question
+challenge
+promoters
+entities
+examine
+model
+methodology
+crucial
+design
+make
+identify
+leads
+tasks
+challenges
+protein-dna
+structures
+components
+number
+parents
+examples
+elements
+noise
+examining
+assumptions
+based
+page
+press
+graph
+processes
+geneclusterg
+research
+small
+tools
+system
+function
+xi
+nature
+nature 418
+nature 380
+nature 400
+nature 359
+nature 327
+coexpressed
+dna
+attempt
+hypotheses
+perturbations
+princeton
+terms
+understanding
+flexibility
+predict
+product
+shows
+dependencies
+aspects
+assign
+measures
+reach
+common
+behavior
+robust
+concrete
+pronounced
+ui
+engineering
+confidence
+relates
+york
+facilitate
+pedigree
+figure 3
+phenomena
+noisy
+extension
+made
+details
+565 genes
+55 genes
+genes
+2450 genes
+approaches
+types
+conclusions
+observations
+method
+measurements
+results
+involved
+regulator
+aim
+choice
+targets
+shown
+language
+reasoning
+arrayclustera
+regulated
+evolution
+treat
+appl
+cambridge
+115 article
+article
+proteins
+description
+showed
+cases
+specifies
+mathematics
+discussed
+2008
+
+mathematics
+class
+addition
+alternatively
+50 modules
+modules
+regulators
+find
+literature
+http
+fig
+rev
+yellow
+parvinen
+wapinski
+eshel
+school
+natl
+fudenberg
+disciplines
+consistent
+evaluated
+chen
+blue
+designing
+deemed
+evaluating
+hundreds
+represented
+obtained
+study
+ignoring
+suitable
+schwikowski
+explained
+yeang
+s243
+s241
+type
+berlin
+wang
+cited
+answer
+undergoing
+proach
+law
+vance
+resentation
+perform
+maintain
+restriction
+doebeli
+fit
+fragment
+ong
+effects
+173 arrays
+development
+principled
+restricted
+rj
+free
+nisbet
+stochasticity
+org/
+proteomics
+restrict
+downside
+sober
+toh
+intell
+wenburg
+mind
+govagain
+{x1
+bentzen
+mcadams
+regular
+doi
+partition
+mating
+availability
+tavazoie
+i273
+nachman
+coexsignal
+congruent
+hammerstein
+fields
+contrast
+gasch
+result
+buntine
+score
+//www
+discovery
+extend
+durrett
+restricting
+improve
+uncertainty
+mangan
+advancement
+quinn
+basis
+interest
+riley
+arkin
+applied
+reports
+conf
+confirmed
+suggest
+hand
+kim
+potentials
+chickering
+91904 jerusalem
+philos
+gyllenberg
+campbell
+visualization
+steps
+arraycluster
+deal
+goto
+cooper
+comments
+repression
+genotypes
+pose
+soc
+amsterdam
+rely
+suffice
+ozier
+offer
+arrays
+meszena
+lander
+nj
+reestimates
+interested
+test
+biocomput
+parnism
+perrin
+assume
+time
+ii227
+focus
+milo
+i264
+finally
+brown
+advantage
+taskar
+ma
+exact
+revolution
+prediction
+ashburner
+explosion
+channeled
+groups
+change
+shift
+domains
+myers
+studies
+aaas
+working
+regev
+encode
+krebs
+mitchison
+capturing
+values
+december
+performed
+heckerman
+syst
+improving
+compatibility
+stability
+nee
+sevproach
+encompasses
+correspondence
+evol
+half
+discuss
+kisdi
+kerr
+domain
+significantly
+ed
+eq
+er
+space
+increase
+matessi
+derived
+training
+support
+intuition
+simplifies
+genotype
+miyano
+dvzeroski
+cope
+future
+accessed
+answering
+emphasis
+green
+dieckmann
+diversity
+quantity
+dissecting
+m-step
+1126/science
+bioinformatics 17
+bioinformatics 19
+bioinformatics 18
+summary
+predicted
+variability
+ables
+ability
+ways
+shen-orr
+dc 20005
+comp
+jacobs
+successes
+lorberbaum
+characterization
+pop
+sciencemag
+exploit
+garwin
+maxichoices
+kinases
+hartemink
+direction
+hughes
+spirtes
+christiansen
+orientation
+microarrays
+bias
+pac
+week
+extended
+siegel
+roughly
+captured
+segal
+ross
+mol
+intel
+linial
+benefit
+suppl
+critical
+symp
+artif
+spellman
+central
+diekmann
+xn}
+act
+references
+lively
+determine
+springerverlag
+assumed
+start
+huji
+ubeda
+ac
+describe
+al
+formulation
+fill
+yoo
+ideally
+tradeoff
+phys
+open-ended
+suited
+building
+partitioned
+ments
+sci
+jensen
+glymour
+treating
+list
+springer-verlag
+promotports
+burger
+ter
+canonical
+sun
+jaakkola
+search
+elidan
+e-step
+select
+levine
+vingron
+pearl
+jonker
+kaminski
+caveat
+learn
+share
+sense
+lavrac
+developed
+existence
+resort
+barash
+knocking
+reflected
+2d
+2a
+found
+subnetwork
+referred
+org/cgi/content/full/303/5659/799/dc1
+desirability
+reduce
+gifford
+expect
+sinervo
+psychology
+induces
+denoted
+localization
+reason
+proxy
+generate
+computers
+consequence
+introduction
+eddy
+reestimate
+part
+jordan
+determined
+wilson
+depending
+geritz
+copyright 2004
+services
+measured
+clear
+particfiles
+organism
+relation
+/permissions
+spurious
+competing
+roles
+vincent
+art
+glasner
+close
+getoor
+knaw
+recently
+alon
+regulates
+church
+pp
+perspectives
+pe
+lett
+granularity--
+understand
+mylius
+clutton-brock
+demodel
+grant
+belong
+imoto
+widely
+composition
+univie
+scheines
+sudarsanam
+s215
+task
+database
+durbin
+ii138
+guaranteed
+couple
+phylogeny
+reduces
+acad
+integration
+proc
+viewpoints
+dictated
+range
+block
+causation
+statistics
+lond
+biol
+mach
+boyd
+gimelfarb
+weibull
+called
+sasaki
+nat
+generated
+silencing
+illustrated
+eds
+sigmund
+compact
+simon
+young
+epstein
+tanay
+index
+labeled
+access
+3c
+3b
+3a
+3f
+3e
+3d
+justification
+lee
+explore
+trans
+yelensky
+holmes
+examinations
+volk
+addressed
+cho
+account
+augment
+reproduce
+meet
+process
+blocks
+fits
+marrow
+tamada
+element
+2008
+
+servations
+genetics 93
+bindof
+77 arrays
+degrees
+defining
+washington
+hendry
+s233
+atarrays
+metz
+cressman
+society
+geiger
+horimoto
+res
+similarly
+math
+frank
+clarify
+slatkin
+geometry
+distinctions
+manuscript
+koller
+tributes
+intuitively
+occurrences
+bohannan
+hofbauer
+siam
+suitability
+behaviors
+false
+instance
+hauert
+illuminates
+proceedings
+deng
+supported
+nowak
+receptors
+condisumption
+prade
+michod
+gavrilets
+queries
+view
+predictive
+reggenes
+exploited
+attempting
+state
+bruno
+reproduced
+bioinform
+hypothesis
+laskey
+taylor
+maximize
+nelken
+krogh
+ulate
+indicators
+controlled
+bull
+biosci
+ferriere
+ideker
+hamilton
+predicts
+field
+capabilities
+reasons
+troduce
+kinds
+lead
+e-mail
+ensures
+feldman
+s258
+carried
+freedom
+introduced
+pfeffer
+promise
+naturally
+gain
+iterates
+compute
+mize
+int
+condition
+ind
+model--
+compared
+pilpel
+theor
+297
+109
+103
+99
+91
+93
+94
+1991
+1990
+1993
+1992
+1995
+1997
+1996
+1999
+1998
+1996]
+247
+240
+176
+175
+171
+692
+166
+160
+1979
+1978
+1973
+1607
+32
+59
+58
+55
+57
+56
+51
+50
+53
+52
+531
+54
+202
+422
+307­337
+228
+153
+814
+1994
+1129
+[
+437
+5816
+237
+1
+145
+142
+826
+799
+511
+516
+2
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+26­29
+]
+33­35
+3273
+3
+60
+63
+64
+65
+66
+67
+68
+69
+159
+95­103
+4241
+211
+219
+4
+61
+62
+¨ 76
+755
+601
+5
+485
+198
+197
+6
+79 ­105
+183­231
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+7
+77
+75
+74
+73
+72
+71
+70
+78
+661
+2024
+1094068
+116 ­125
+38
+33
+31
+35
+9
+761
+677
+79
+2002
+2003
+2000
+2001
+2008
+39
+30
+37
+36
+34
+8
+138
+147
+82
+80
+81
+84
+2008
+
+41
+125
+579
+1200
+2004
+355
+354
+42
+312­321
+281
+287
+269
+1987
+1983
+1988
+1989
+83
+48
+49
+46
+47
+44
+45
+43
+40
+41
+169

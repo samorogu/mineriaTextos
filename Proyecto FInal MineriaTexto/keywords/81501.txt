@@ -1,0 +1,236 @@
+represent
+different communities
+similarity
+Conclusions
+possible definition
+desirable
+Possible
+Betweenness
+scientist
+statistical
+Department
+clustering calculation
+tendency
+Community Structure
+Foundation
+Ulanowicz
+probability
+DMS-0109086
+interesting
+self-contained ecological
+clustering coefficient
+betweenness centrality
+community-structure algorithm
+Hierarchical
+intraconference
+node-independent
+represent regular-season
+conference structure
+Unfortunately
+interdisciplinary
+Mid-American
+MATHEMATICS APPLIED
+Interconference
+disagreement
+possible
+Analysis
+standard hierarchical
+Fundamenta Mathematicae
+Algorithms
+background
+polynomial-time
+communities
+prominent
+eigenvalue
+evolution
+intercommunity
+reciprocal
+worst-case
+preceding
+interconference
+component
+reasonable
+detecting community
+Chesapeake
+previous
+friendship
+Networks
+grouping
+mathematical
+weighted
+sensitivity
+connections
+Samukhin
+Handbook
+interplay
+Psychometrika
+metabolic networks
+techniques
+Worldwide
+biological networks
+describing
+acquaintance networks
+Michigan
+schedule
+technological networks
+artificial
+disciplinary
+boundaries
+sociological
+real-world networks
+Magnanti
+correctly
+real-world
+reproducible
+Naturally
+augmenting
+available
+recalculating
+classification
+football
+Applying
+communities themselves
+confusion
+University
+hierarchical clustering
+Calculate
+excellent agreement
+separation
+extracting community
+detecting
+Recalculate
+Researchers
+definition
+Cambridge
+language
+technical
+December
+experience
+conference
+practical
+sensitive
+Collaboration
+schematic representation
+formation
+predictor
+frequent
+otherwise
+Certainly
+Football
+significant
+§Department
+regularseason Division
+functional
+Piscataway
+subcommunity
+Salganik
+Jersey­New Brunswick
+power-law
+traditional hierarchical
+community structure
+clustering
+addition
+removing
+Barabasi
+Winemiller
+centrality
+figurative
+traditional division
+betweenness
+Newman*§
+Communities
+subsequent
+peripheral
+agent-based
+direction
+corresponding
+surface-dwelling
+comparison
+Interestingly
+adjacency
+ecosystem
+informative community
+hierarchical
+Wasserman
+particular
+instructor
+peculiar
+population
+detection
+exception
+impractical
+surprising
+exponential
+Athletic
+Institute collaboration
+robustness
+modified
+break-up
+alternative approach
+distinctive statistical
+residence
+distribution
+Rajagopalan
+institute
+Conference
+intracommunity
+collaboration networks
+associated
+division
+calculation
+contribute
+influence
+conjecture
+Detecting communities
+Prentice­Hall
+substantial
+community-finding
+scheduling
+controlled
+Jennifer
+Williams
+guarantee
+information
+different
+disparate
+Computer-Generated
+small-world
+application
+Sociometry
+performance
+constructed
+Raghavan
+independent
+administrator
+computer-generated
+Division
+Institute
+collaboration
+correlation
+Traditional
+applications
+edge-independent
+Barthelemy
+right-skewed
+Dorogovtsev
+infinite
+Faloutsos
+Although computer-generated
+intergroup
+algorithm
+max-flow
+correspond
+analysis
+Krapivsky
+traditional
+academic
+algorithms
+Examples
+fundamental
+Detecting Community
+determination
+Strogatz
+geographic
+transitivity
+original
+Community structure

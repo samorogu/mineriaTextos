@@ -1,0 +1,1628 @@
+über die statistik verkettete vorgänge
+80 70 60
+
+bookmarks received
+
+120 100 80 60 40 20 0 0 5 10 day 15 20 25
+
+bookmarks received
+
+50 40 30 20 10 0
+
+0
+
+100
+
+200
+
+300 day
+
+400
+
+500
+
+600
+
+fig
+usa received 31 august 2005 revised 13 october 2005
+
+abstract
+stochastic urn model originally proposed
+international world wide web conference 20­24
+international world wide web conference
+prominent web sites feature collaborative tagging
+12
+
+10 medium rank
+
+8
+
+6
+
+4
+
+2
+
+0 1 2 3 4 5 6 nth tag 7 8 9 10
+
+fig
+efficiently organized file hierarchy neatly
+cloudalicious chart shows surging growth
+angewandte mathematik und mechanik 1
+retrieving public rss feeds
+studying computer-mediated collaborative systems
+domains demonstrated basic levels
+finding previously encountered information
+users
+1000 900 800 700 600
+user #575
+
+tags
+
+500 400 300 200 100 0 0 500 1000 1500 2000 2500
+user #635
+
+3000
+
+3500
+
+4000
+
+4500
+
+bookmarks
+
+fig
+collaborative tagging
+
+semantic relations
+vertical axis denotes fractions
+polysemy dilutes query results
+coexist alongside extremely popular
+newly growing tag represents
+huberman
+
+support collaborative tagging
+huberman
+information dynamics lab
+203
+
+collaborative tagging
+
+include toread
+stable consensus choices made
+dewey decimal system category 916
+collaborative tagging systems
+scott
+collaborative tagging systems
+
+scott
+items include common nouns
+begin bookmarking web pages
+information professionals
+
+additional services
+users add bookmarks shows users
+collaborative tagging users exhibit
+experiments demonstrate general agreement
+dewey decimal classification
+collaborative tagging system del
+reflecting continual interests tagged
+contributions collectively produce
+usages grow steadily
+highest median rank
+systems collaboratively generate
+support collaborative tagging
+bookmark represent basic levels
+model disease contagion [22]
+conducting keyword-based searches
+folksonomies ­ cooperative classification
+strong technical backgrounds
+collaborative tagging offers
+decreasing median rank
+fad formation demonstrate
+checking multiple locations
+collaborative tagging systems
+grouping task-related information
+venn diagram showing
+explicitly providing recommendations
+potentially inapplicable items
+bookmarks give rise
+tags user #635
+
+times tag
+qualify existing categories
+introduction
+marking content
+familiar taxonomies include
+cat species native
+collaboratively generated data
+tag grows rapidly
+provide fertile ground
+freely attach keywords
+boundaries exhibit vagueness [14]
+collaborative tagging
+
+fraction
+necessarily explicitly personal
+reverse chronological order
+personally oriented tags
+flat tagging system
+computer file systems
+collaborative tagging system
+alter previous bookmarks
+basic level differences
+conflicting basic levels
+collaborative tagging describes
+document tagged programming
+contrast tagging-based systems
+200
+
+350 300 250 200 150 100 50 3
+
+150
+
+2
+
+100 1 50 2 0 0 500 1000 3 1500 2000 2500 3000 3500 4000 4500
+
+0
+
+1 0 500 1000 1500 2000 2500 3000 3500 bookmark
+
+bookmark
+
+fig
+7b show url #1209
+comparatively small sets
+collecting information related
+closely related meanings
+probabilistic model consists
+folder hierarchy assures
+larger classification system
+semantic web ontologies [2]
+search multiple locations
+similar tagging systems
+`social bookmarks manager
+continually add bookmarks
+stable pattern persists
+widely read weblog
+idiosyncratically personal categories
+users vary greatly
+comparatively large sets
+collectively organize knowledge
+classifying living things
+organizing electronic content
+varying tag collections
+tag lists grow
+stable patterns emerge
+web documents interact
+basic levels vary
+users add metadata
+organizing electronic files
+inspirational tag bookmarks
+personal information retrieval
+content discussing people
+documents tagged perl
+successive tags generally
+functions tags play
+hierarchical file system
+users bookmark primarily
+huberman
+
+meaning emerges [13]
+identifying content ownership
+visualizes delicious data
+delicious dynamics
+del
+suggested popular tags
+individual tagging behavior
+basic level variation
+browsing specific people
+main feature
+delicious tagging community
+users save bookmarks
+organizing personal information
+recently added bookmarks
+briefly describe delicious
+horizontal axis time
+items marked cats
+bird expert `robin
+expect significant overlap
+people find interesting
+shared website bookmarks [5]
+continually growing
+acm conference
+experiments demonstrate
+207
+
+collaborative tagging
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+collaborative tagging
+question make sense
+problems discussed earlier
+tagging systems
+800 700 600 500 400 300 200 100 0 0 50 100 users 150 200 250
+
+fig
+functions tags perform
+information science
+http
+probabilistic model
+personal pages
+proper nouns
+venn diagram
+day
+collaborative system
+semantic web
+relative fractions
+computing systems
+[18] demonstrate `burstiness
+vertical axis
+times tag
+extremely important [15]
+consensus choices
+called cloudalicious [21]
+nascent consensus
+dynamic model
+information retrieval
+weblog posts
+shared metadata
+horizontal axis
+necessarily imperfect
+web tool
+tagging system
+collaborative form
+public good
+public aspects
+classification choices
+collective tagging
+save bookmarks
+widely agreed
+`basic levels
+document repositories
+widely agree
+basic levels
+line represents
+`basic level
+basic level
+strong bias
+significant amount
+dog experiments
+web bookmarks
+stable patterns
+stable fraction
+accessed 10 october 2005
+keyword-based search
+uncover patterns
+usage patterns
+fraction converges
+additional ball
+document tagged
+add `tag 1
+information professionals
+shared knowledge
+issue multiple
+multiple computers
+related senses
+directly related
+returning related
+pattern emerges
+semantically related
+bookmarks decreasing
+web documents
+system consists
+system seeking
+recommendation system
+linnaean system
+small scale
+previous users
+organizing knowledge
+public nature
+huberman
+
+bookmark
+stable states
+stable place
+450 400
+
+growth rates
+growth rates
+250
+
+growth rates
+information science
+past information
+information held
+information science 2006
+spread information
+information intrinsic
+current efforts
+underlying factor
+participating actors
+nav
+
+downloaded
+/cgi/alerts subscriptions
+rights reserved
+generally agreed
+online version
+chartered institute
+makes sense
+unrelated meanings
+properly considered
+differentiate beagles
+human factors
+cognitive psychology 23
+personal preferences
+fauxonomies collide
+replacements built
+humans interact
+colors differ
+reasonable likelihood
+complete history
+folder names
+/cgi/content/abstract/32/2/198
+
+published
+combined description
+researcher wanted
+social aspect
+weblogging community
+cognitive boundaries
+nav permissions
+social factors [13]
+discovered regularities
+organizational science 16
+hypothetical researcher
+generative lexicon
+introducing del
+dynamic aspects
+joshua schachter
+cognitive aspects
+coordinate action
+rapid jump
+unambiguously bounds
+`social proof
+bursty evolution
+longest amount
+material provided
+palo alto
+email alerts
+strong relationship
+main features
+strictly speaking
+unwanted homonym
+peaks immediately
+mit press
+acm press
+generally meaningful
+power struggles
+prove disastrous
+features ­ storage
+practical usefulness
+unauthorized distribution
+collective usefulness
+easily select
+collective good
+run forever
+academic publications
+randomly selected
+interesting alternative
+2008 © 2006 chartered institute
+`fashion leaders
+family felidae
+hypothetical options
+cognitive aspect
+occupy roughly
+/subscriptions reprints
+current proliferation
+complex queries
+daily practices
+considered `social
+south america
+informational cascades
+/writings/ ontology_overrated
+`folk taxonomy
+greater detail
+largely ruled
+tag growth
+multiple categories
+organizing information
+web page
+1177/0165551506062337
+downloaded
+information tagged
+applicable items
+figure 4a
+figure 4b
+figure 6b
+figure 6a
+figure 7a
+422 bookmarks comprise
+earlier 2200 bookmarks
+bookmarks added
+668 bookmarks comprise
+personal bookmarks
+stable pattern
+significant problem
+stability emerges
+find websites
+refining categories
+relative importance
+broad categories
+dog expert
+opinion formation
+marked africa
+tags tagging
+shared content
+bookmark records
+analyzing variation
+individual treats
+specialized meaning
+ascribing meaning
+systematic variation
+bookmarking service
+tagbased search
+growth rate
+related term
+chaotic pattern
+tag system
+bird expert
+hp labs
+random limit
+large scale
+decreasing order
+larger function
+things simultaneously
+urn initially
+items tagged
+organizing content
+tagged bookmarks
+interests develop
+common interests
+delicious shows
+analyzed data
+people thought
+user perspective
+user adds
+tag selection
+tag `ajax
+tag frequencies
+tag collections
+tag quantity
+publicly tag
+information categorized
+future information
+delicious system
+term `ajax
+assigned keywords
+random nature
+deeply problematic
+called keywords
+important implications
+upper end
+future navigation
+low end
+making sense
+great variety
+higher proportions
+prove problematic
+world
+subjects expert
+item vary
+public benefit
+small number
+decreasing frequency
+make central
+considered descriptive
+delicious functions
+delicious community
+multiple tags
+extreme users
+providing users
+active users
+users thought
+fig
+6
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+fig
+unambiguous category
+tagging practice
+related terms
+relevant items
+bookmarked items
+user bookmarks
+tag bookmarks
+find people
+huberman journal
+identifying qualities
+significantly changed
+minority opinions
+relative proportions
+expertise plays
+round numbers
+reasonable ways
+subjects responded
+remarkable stability
+taxonomy
+proponents
+unifying characteristic
+random sample
+economic perspectives 12
+plausible primary
+simplest form
+hierarchical taxonomies
+digital libraries
+genus felis
+initial distributions
+ultimately draws
+problem lies
+domain expertise
+providing salient
+identify dogs
+genus panthera
+usa
+figures 6b
+single authority
+greater problem
+1 august 2003
+oneself reflect
+discover regularities
+monday june 27
+tigers fall
+replacement schemes
+bookmarked content
+waikato library
+create tags
+unique tags
+combined tags
+choosing tags
+tags beginning
+common tags
+selected tags
+earlier tags
+multiple words
+personal page
+front page
+1501 page mill
+user activity
+greater specificity
+specificity makes
+specificity ranging
+organize content
+users find
+domestic cats
+african cats
+users bookmark
+tag data
+individual users
+greatest frequency
+varied items
+tag proportions
+analyze bookmarks
+bookmarks constitute
+remarkable property
+quickly identified
+object categories
+newfound interest
+good reasons
+study showed
+choice reflects
+social structure
+identify content
+bookmark list
+delicious `popular
+large number
+ever-increasing number
+gaining popularity
+apparent popularity
+time step
+long time
+require time
+delicious data
+created haphazardly
+created accounts
+categorize information
+valuable
+
+journal
+creating 199
+
+journal
+/
+
+[20]
+
+[21] [22]
+
+[23] [24]
+
+research/idl/papers/opinions/opinions
+retrospective process
+thing falls [16]
+similar ways
+users categorized
+grown popular
+tags cat
++ 2 balls
+fewer people
+url receives
+tag list
+delicious users
+weak relationship
+distinction important
+cultural categories
+task organizing
+share content
+tags user #575
+fixed limit
+collective sensemaking
+downloaded articles
+reach delicious
+delicious interface
+establish categories
+fewer users
+bookmarked item
+descriptive terms
+general tags
+tag increases
+organized
+rank
+sharing
+
+folksonomy
+polysemous word
+yield variations
+equally problematically
+include
+tags identify
+examine tags
+analyze tags
+terms chosen
+212 popular urls
+popular urls
+fixed proportion
+important part
+golder@hp
+bookmarked urls
+including africa
+distinction 202
+
+1000 900
+
+number
+popularity burst
+systems
+tags represented
+finally created
+2200th
+
+journal
+evolving process
+total frequency
+tagger demonstrates
+africa africa
+dynamics
+cloudalicious
+exhibit
+file
+model
+peak popularity
+likewise change
+begin
+toread
+represent
+semantic
+scott
+services
+agreement
+coexist
+add
+web
+classification
+tagging
+`tagging
+represents
+`basic
+emerge
+growth
+vary
+vertical
+huberman
+urn
+multiple
+shows
+related
+system
+stable
+information
+consists
+classifying
+earlier
+personal
+levels
+lists
+folder
+levels [12]
+collections
+meanings
+generally
+`robin
+level
+science
+shared
+polysemy
+[5] del
+interesting
+boundaries
+level [12]
+read
+large
+choices
+social
+del
+sense
+horizontal
+hierarchy
+added
+common
+recently
+community
+describes
+behavior
+providing
+computer
+ontologies
+overlap
+previously
+functions
+1177/0165551506062337
+organizing
+items
+items `
+tagged
+figure 5
+100 bookmarks
+bookmarks
+500 bookmarks
+bookmarks ­
+30 bookmarks
+relative
+find
+categories
+content
+bookmark
+bookmarking
+meaning [13]
+meaning
+search
+sets
+individual
+variation
+pattern
+`cat
+rates
+things
+taxonomies
+cat
+activity
+scale
+similar
+reflecting
+hp
+hierarchical
+limit
+`popular
+sites
+popular
+interests
+data
+people
+`people
+user # 635
+user
+tag ­
+`tag 1
+tag
+end
+provide
+keywords
+nature
+website
+perform
+bookmarked
+problematic
+making
+term
+2 1
+
+proportions
+future
+`dog
+discussed
+important
+relationship
+categorized
+question
+files
+proportions
+35
+
+proportions
+relevant
+variety
+documents [1]
+documents
+organize
+make
+query
+bird
+descriptive
+`bird
+delicious
+229 users
+users
+900 category
+general
+category
+evolving
+changed
+word
+june 23
+order
+panthera
+primary
+rate
+subjects
+object
+draws
+weak
+distinction
+grown
+opinions
+problematically
+identify
+initial
+form
+tigers
+expertise
+finally
+discover
+sharing
+numbers
+sample
+stability
+proportion
+polysemous
+yield
+burst
+ways
+figures 2
+identifying
+felis
+examine
+oneself
+list
+reach
+libraries
+initially
+interface
+2200th
+analyze
+authority
+characteristic
+problems
+fewer
+varied
+including
+chosen
+constitute
+salient
+equally
+proponents
+`folksonomy
+humans
+replacement
+demonstrates
+perspectives
+variations
+problem
+library
+tags
+page
+terms
+specificity
+specific
+item
+contrast
+expect
+`cats
+cats
+fixed
+frequency
+represented
+study
+total
+quickly
+interest
+property
+cultural
+choice
+africa
+share
+reasons
+opinion
+`africa
+likewise
+structure
+words
+increases
+number
+popularity
+time
+created
+198
+
+journal
+200
+
+journal
+204
+
+journal
+205
+
+journal
+208
+
+journal
+201
+
+journal
+journal
+206
+
+journal
+categorize
+/
+task [10]
+thing
+benefit
+peak
+establish
+task
+process
+ball
+function
+describe
+change
+part
+balls
+practice
+urls
+212 urls
+url #1310
+url
+tagger
+sensemaking
+golder
+articles
+http
+presents
+superficially
+school
+myweb 2
+33 months
+consistent
+bacon
+subordinate
+obtained
+explained
+org
+welch
+spoke
+browse
+spike
+robbins
+yahoo
+glass
+mathes
+hole
+hold
+circumstances
+kumar
+work
+/pub/
+blogspace
+turn
+cheetah
+classify
+suggest
+synonymy
+fads
+pustejovsky
+affected
+literature
+widespread
+starts
+days
+filter
+198 doi
+illustrate
+similarly
+observed [17]
+approximately
+fuzziness
+`siamese
+honolulu
+toronto
+tomkins
+sees
+boston
+spectrum
+talking
+tells
+contents
+traditionally
+198­208 © cilip
+bruce
+inconsistency
+doi
+don
+principle
+spite
+implementation
+explain
+compounded
+societies
+runs
+covering
+jancke
+black
+reference
+imitate
+observed
+decided
+result
+subject
+timeframe
+encounters
+//www
+wu
+extent
+asked
+appeared
+`window
+union
+halevy
+//jis
+experts
+interacts
+objects ­
+citeulike
+myweb [6]
+opportunity
+foldering
+beset
+unifies
+//blog
+background
+performing
+informative
+steps
+overrated
+www
+relatedly
+individuals
+taggers
+months
+madhavan
+categorization
+biddulph
+seeker
+true
+inclusive
+bikhchandani
+role
+picture
+reconsider
+jones
+concept
+[8] connotea
+focus
+2­7 april 2005
+advantage
+turns
+findings
+groups
+commonly
+28 july
+visit
+opposed
+scope
+beholder
+cases
+effort
+behalf
+organizations
+labeled
+performed
+occur
+consumers ­
+discussion
+map
+influenced
+natural
+exclusive
+displayed
+entity
+birds
+group
+decreases
+constitutes
+correspondence
+technorati [9]
+bursts
+individually
+retrieve
+shown
+navigating
+correct
+possibility
+[6] yahoo
+weick
+impose
+impossible
+org/
+returns
+convention
+television
+browser
+surname
+topics
+`beagle
+eggenberger
+ideas
+note
+potential
+bailey
+librarian
+arguably
+typically
+geography
+xml
+title
+`semy
+secondary
+morning
+stupid
+notice
+sutcliffe
+article
+non-exclusive
+resides
+`well-connected
+filtering
+color
+[9] technorati
+linguistic
+peaking
+cutrell
+case
+exist
+prevalence
+characteristics
+//cloudalicio
+media
+html
+speech
+status
+downloads
+actions
+compromising
+blog
+bernardo
+/myweb/
+`persian
+shirky
+learning
+circumscribing
+/journalsreprints
+confirm
+refer
+ontology
+comparison
+stand
+act
+cambridge
+communication
+determine
+pietrosperoni
+distinctions
+cultures
+technologies
+sarin
+datasets
+taylor
+al
+`animal
+fruitless
+re-
+/journalspermissions
+calls
+odds
+browsers
+tv
+accurate [4]
+returned
+decide
+difference
+technorati
+section
+10 days
+intersect
+method
+cheetahs
+ma
+experience
+adjectives
+eye
+distinct
+subsumed
+recall
+categorizing
+learn
+accept
+imitation
+stymie
+derived
+ensue [13]
+short
+paper
+pane
+ceo
+labeling
+capability
+stopped
+found
+portland
+hirshleifer
+discrete
+research
+plotting
+friday
+reason
+plurals
+earliest
+/academic/computermediated-communication/folksonomies
+sagepublications
+story
+felines
+authors
+kind
+critically
+novak
+lie
+depending
+empirically
+`librarian
+gill
+experiences
+measured
+ca 94304
+cover
+/2004/11/10/delicious
+converge
+relation
+`rediscovered
+poodles
+discuss
+//del
+imitating
+budapest
+continuum
+obscure
+set
+creator
+culture
+attention
+pdf
+simply
+pp
+lives
+ms 1139
+replaced
+funny
+suggests
+conflict
+doan
+aggregate
+analysis
+references
+[1]
+domingos
+citeulike [7]
+collected
+interestingly
+continue
+folders
+traits
+trends
+examples
+describing
+decision
+mycomments
+innovation
+brookfield
+100 days
+unnoticed
+specifically
+posted
+elide
+defined
+influence
+home
+jobsearch
+tagclouds
+expected
+draw
+allowing
+gower
+implies
+age
+receive
+[7] citeulike
+illustrates
+eds
+`safe
+continues
+speroni
+//plasticbag
+exacerbate
+degree
+commercial
+explore
+objects
+focused
+rowley
+contradiction
+stabilization
+apple
+mystuff
+apply
+superordinate
+chi
+allyn
+account
+animals
+/username
+conformity
+refine
+weaker
+links
+purposes
+educational
+located
+animal
+tension
+spelling
+connotea [8]
+lines
+crawling
+perfect
+obstfeld
+labov
+resorting
+choose
+defining
+indexing
+mention
+university
+references
+books
+relates
+fundamentally
+red
+interactions
+retrieved
+york
+conflicts
+non-hierarchical
+scary
+cadiz
+raghavan
+reaches
+reached
+precisely
+extrinsic
+observes
+lions
+final
+self-sustaining
+arduous
+viewed
+concerns
+clash
+tanaka
+technology-related
+proceedings
+fact
+//myweb2
+debate
+photographs
+dumais
+means
+flattens
+shy
+stuff
+homonyms
+homonymy
+javascript
+adammathes
+estimation
+conclude
+wall
+connotea
+ca
+respect
+addition
+sagepub
+overwhelmingly
+present
+unlike
+`poly
+owns
+ve
+zeitschrift
+site
+vt
+referents
+parts
+units
+difficult
+frequently
+english
+polya
+machines [2
+predicts
+skill
+icio
+intersection
+helpful
+accessible
+cialdini
+searching
+kinds
+employment
+disrupting
+possibilities
+weblogs
+avoid
+e-mail
+limitations
+reaching
+selecting
+coates
+dataset
+speroni [24]
+phuwanartnurak
+touted
+naturally
+convergence
+evident
+universal
+exogenous
+book
+hpl
+conclusion
+conveys
+additionally
+portion
+100
+[11]
+1991
+1998
+8 0
+ü
+7
+17%
+­
+340­73
+25 0
+1 0
+1973
+4 0
+52
+#1209
+0
+1995
+72­9
+1
+142
+#635
+2
+10
+14
+19
+20]
+2 = 0
+457­82
+1923
+151­70
+3
+68
+[19
+4
+[10]
+918
+2003
+5
+2 0
+`
+409­21
+6
+25
+#1209
+
+0
+[12]
+[3]
+1505­8
+= 36
+= 39
+[13]
+[2]
+568­76
+279­89
+67%
+[15]
+[14]
+[5]
+= 229
+2002
+2006
+2004
+2005
+[23]
+3]
+33
+32
+37
+[4]
+#1310
+#575
+05 0 0 50 100 150 200 250 300 350 400 450 0
+3 0
+2 0 0
+180 160 140
+[17]
+15 0
+662­73

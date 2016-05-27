@@ -1,0 +1,13 @@
+nucleotidepocket
+239581txt
+global
+state
+myosins
+pocket
+switch
+master
+mode
+samorogu
+dynamics
+changes
+structural

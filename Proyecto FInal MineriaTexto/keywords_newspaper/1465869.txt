@@ -1,0 +1,13 @@
+origin
+distance
+climate
+origins
+1465869txt
+variability
+measurements
+africa
+genetic
+master
+phenotypic
+samorogu
+model

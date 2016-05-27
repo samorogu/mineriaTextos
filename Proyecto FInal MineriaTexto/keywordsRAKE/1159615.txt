@@ -1,0 +1,2514 @@
+p1
+
+p2 p1 p2
+
+high medium sensitivity sensitivity
+
+high-confidence medium-confidence interaction interaction
+
+tf binding
+
+phenotypes
+
+protein interactions
+
+genes
+
+properties
+
+figure 4 integration
+strong medium medium strong induction induction repression repression
+
+p1
+strong binding
+pathways
+
+joint module identification
+
+integrating diverse genomic data genetic interactions phenotypic profiles heterogeneous data sources
+
+kelley
+gene expression
+
+complex membership p2 p1
+strong confidence
+nature publishing group
+
+graph clustering methods
+numerous graph-clustering algorithms
+p1
+
+p2
+
+p3
+
+p4
+gene
+proc int conf intell syst mol biol 8
+molecular systems biology 2007 3
+
+integrating gene expression data networks active
+minimum multiway
+2 molecular systems biology 2007
+
+network-based function prediction
+hierarchical clustering setting include czekanovski­dice distance
+additional graph clustering techniques applied include clique percolation
+publicly
+molecular systems biology 2007 9
+
+network-based function prediction
+mining large scale protein­protein interaction screens
+p2
+medium binding
+nature publishing group
+
+molecular systems biology 2007 13
+maximum likelihood scoring maximum likelihood-based scoring
+½xfug ð1 à xfvg þ þ xfvg ð1 à xfug þ à ð1 à xfug þð1 à xfvg þ 1 à
+nature publishing group
+
+network-based function prediction
+proc natl acad sci usa 99
+proc natl acad sci usa 102
+proc natl acad sci usa 101
+proc natl acad sci usa 100
+4 molecular systems biology 2007
+
+network-based function prediction
+molecular systems biology 2007 5
+
+network-based function prediction
+compre10 molecular systems biology 2007
+
+hensive
+systems-level analyses identify extensive coupling
+nature publishing group
+
+discussion
+efforts
+probabilistic integrating multiple data sources deng
+nature publishing group
+
+figure 3 correlation
+regulatory network dynamics reveals large topological
+statistic combining detection sensitivity
+diffusion kernel-based logistic regression models
+ppi data
+6 molecular systems biology 2007
+diverse functional genomic data sources
+methods integrating multiple data sources
+equally valid hierarchical clustering solutions
+identifying statistically significant modular structures
+physical
+8 molecular systems biology 2007
+
+network
+detecting dense structures loosely connected
+molecular systems biology 13 march 2007
+al
+
+figure 2 direct versus module-assisted approaches
+functional annotation methods
+direct neighborhood based schwikowski
+similar shortest path distance profiles
+detecting sparsely connected functional modules
+12 molecular systems biology 2007
+
+hughes
+malaria parasite plasmodium falciparum
+rights reserved 1744-4292/07 www
+samba algorithm seeks modules consisting
+identify evolutionarily conserved functional modules
+diverse genomic data
+kelley
+transcription factor binding sites
+phenotypic sensitivity
+combining multiple data types constructs
+all-pair shortest path distances matrix
+integrating multiple information sources
+highly heterogeneous genomewide data
+molecular systems biology 2007 1
+
+introduction
+methods integrating expression data
+optimization criterion concerns unannotated proteins
+high sensitivity
+7821­7826 molecular systems biology 2007 11
+
+& 2007 embo
+employ loopy belief propagation
+s145­s154 hart gt
+i197­i204 lord pw
+discovering statistically significant biclusters
+matrix ajvjâjvj ¼ faij
+additional large-scale genomic data
+true positive rate versus
+yielding 1200 statistically significant modules
+monte carlo algorithm maximizing
+human protein­protein interaction network
+learning optimal relative weights
+nature publishing group
+evolutionarily cohesive functional modules
+protein/ protein interaction data
+bacterial protein interaction data
+greedily building protein networks
+protein function
+roded sharan1
+proteome survey reveals modularity
+network-based functional annotation tools
+relating whole-genome expression data
+molecular systems biology 2007 7
+molecular systems biology 3
+relating protein interaction networks
+scale-free protein interaction networks
+medium confidence
+multiple large interaction networks
+diverse additional sources
+provide accurate function prediction
+share similar expression patterns
+al
+
+box 3 detecting dense subgraphs
+human protein interaction data
+large protein interaction networks
+protein­protein interaction data
+c47­c52 haugen ac
+restricted neighborhood search clustering
+integrating phenotypic
+utilize addition data sources
+naturally produce overlapping modules
+genome-scale gene function prediction
+stable protein interactions exists
+recent publications describing & 2007 embo
+protein complex model versus
+acm press pereira-leal jb
+large high-throughput data compendium
+large-scale protein interaction networks
+joint probabilistic model
+ppi graphs formed based
+isolate densely connected regions
+protein­protein interaction networks
+provide network-based explanations
+assessing experimentally derived interactions
+predicting protein complex membership
+gene expression machinery network
+finding complexes de novo
+heavily interconnected graph regions
+functional modules based solely
+global protein function prediction
+network-based function prediction
+protein­protein interaction network
+protein interaction data set
+methods exhibited similar performance
+cytoscape network visualization software
+infer annotation rules based
+genetic interaction data
+molecular complex detection algorithm
+quantitative phenotypic profiling
+mol syst biol 2
+mol syst biol 1
+minimum multiway cut
+molecular cell biology
+solely network topology information
+gene expression measurements combined
+expanding seed complex
+
+asthana
+additional studies developed methods
+loopy belief propagation
+genomic data fusion
+global protein network alignment
+review
+
+network-based prediction
+additional similarity measures proposed
+investigating semantic similarity measures
+molecular interaction networks
+false positive rate
+discovering molecular pathways
+greedy network search algorithm
+local neighborhood counting methods
+high pairwise similarities
+multiple data sources
+measured deletion phenotypes
+modular cell biology
+active research area
+large interaction networks
+protein interaction data
+large-scale interaction mappings
+detecting molecular complexes
+al
+
+figure 5 performance comparison
+genetic interactions occur
+gene expression data
+al
+
+box 1 graph-theoretic concepts
+high-throughput genomic information
+tf property represents
+identifying functional modules
+shortest path length
+hierarchical clustering setting
+expression data derived
+interactome-transcriptome analysis reveals
+processes imposing subgraphs
+created large-scale data
+gene expression experiment
+gene expression machines
+gene expression patterns
+gene expression omnibus
+large-scale interaction networks
+biomolecular interaction networks
+detecting signaling pathways
+protein complex prediction
+dense interaction pattern
+human expression data
+protein­protein interaction
+rich genomic information
+finding molecular complexes
+fly interaction datasets
+subnetwork scoring model
+function prediction determines
+expression level ranges
+actual function prediction
+severe growth effect
+highlighted intrinsic strengths
+appealing concept adopted
+post-processing step filters
+optional post-processing step
+generated 41 altered graphs
+receiver operating characteristic
+integer programming reformulation
+exploiting indirect neighbours
+fewest false positives
+phys rev lett 76
+environmental signal processing
+stat soc ser
+protein interaction networks
+detecting protein modules
+dynamic complex formation
+detect sparser structures
+gene expression levels
+function prediction setting
+infer modular structures
+involved module-assisted mcode algorithm
+protein function prediction
+organelle protein expression
+gene expression measurements
+al
+
+box 2 function prediction
+detecting functional modules
+exact optimization criterion
+protein structure prediction
+interactome mapping data
+highly connected subgraphs
+xfug xfvg à
+v2v
+
+h1 ðxfvg þ þ
+assess prediction performance
+binary interaction networks
+standard hierarchical algorithms
+direct method versus
+standard clustering coefficient
+hierarchical clustering-based methods
+mapk signaling cascade
+human protein interactome
+signal transduction networks
+intuitive similarity metric
+topology general methods
+
+bader
+precision ¼ recall ¼ mi ni
+protein­ protein interactions
+protein­protein interactions
+potent function predictors
+graphical user interface
+module-assisted function prediction
+common interaction partners
+seedy constructs complexes
+module-assisted based solely
+human protein-interaction networks
+gene ontology consortium
+authors contributed equally
+joint distribution
+annual international conference
+lung cancer tissues
+nucleic acids res 34
+nucleic acids res 30
+nucleic acids res 31
+assessing computational tools
+detecting protein complexes
+heterogeneous data
+modular structures led
+detects `community structures
+molecular techniques capable
+expression profiles
+identify coherent groups
+protein interaction network
+gene annotation collect
+elucidate protein function
+maximum likelihoodbased score
+fast protein classification
+mapping protein interactions
+al
+
+figure 1 extent
+hypergeometric enrichment p-
+gene functional classification
+transcription pattern similarity
+detect overlapping modules
+real data sets
+large-scale data sets
+systematic evaluation efforts
+average functional similarity
+make interaction networks
+physical interaction network
+breadth-first-search graph traversal
+test graph constructed
+mutual clustering coefficient
+protein modules
+
+networks
+single nonessential gene
+modeling cellular machinery
+global interactome networks
+map arsenic-response networks
+ppi networks induced
+phenotypically sensitive pathways
+homogeneous second-order mrf
+differential network expression
+good graphical interface
+including neighborhood counting
+annotate additional proteins
+mapping gene ontology
+inform process lett 76
+i264­i271 shannon
+mass spectrometry-based proteomics
+avoid cycling back
+common principle underlying
+d535­d539 steffen
+likelihood ratio score
+s233­s240 ihmels
+special weighted form
+complementary dna microarray
+module-assisted clustering algorithms
+propagate functional information
+random variable corresponds
+including direct methods
+direct methods section
+highly connected components
+kernel similarity values
+random networks preserving
+optimization algorithms based
+transcriptional regulatory network
+measure expression levels
+investigate biological function
+apply machine-learning algorithms
+predicting protein function
+single growth condition
+hierarchical clustering-based
+
+arnau
+yeast molecular network
+mips complexes catalog
+israeli science foundation
+deletion phenotypes
+account global properties
+interaction weights based
+genome-scale functional annotation
+microarray data sets
+probabilistic graphical model
+high-throughput two-hybrid analysis
+infer functional modules
+reveal proteins central
+proteins remain uncharacterized
+mips interaction set
+classical computational approaches
+clustering algorithm based
+i302­i310 pavlidis
+ii59­ii65 vazquez
+biochemical purification experiments
+detect highscoring subnetworks
+local search procedure
+protein functional distance
+s38­s45 segal
+yeast cell machinery
+integrated ppi data
+logistic function logit
+module finding algorithms
+core clustering coefficient
+graph theoretic methods
+integrative framework allowing
+utilizes simulated annealing
+1038/msb4100129
+subject categories
+reward local proximity
+þ2e
+
+h2 ðxfu
+apply gibbs sampling
+prodistin web site
+previously explored partitions
+revealing modular organization
+unknown functional annotations
+protein cellular localization
+computational tools widely
+fully connected subgraph
+sophisticated probabilistic model
+genomic data
+sole information source
+tel aviv university
+heterogeneous experiments
+specific biological function
+study protein function
+single tissue type
+highly connected subgraph
+safra bioinformatics program
+yeast cell cycle
+data source independently
+hcs algorithm finds
+functional similarity score
+giving small weights
+module-assisted approach attempts
+interacting proteins tend
+sv þ þ hv ðsv þ
+ð
+s136­s144 tanay
+topological structure analysis
+genes differentially expressed
+comprehensive analysis alongside
+genetic interactions
+second-order mrf model
+data integration
+works attempted prediction
+markov random field
+algorithm simulates flow
+account multiple annotations
+adds proteins based
+apply graph algorithms
+integrative annotation methods
+predict protein function
+bipartite graph correspond
+bipartite graph represents
+current computational approaches
+`node score cutoff
+inadvertent evaluation bias
+made readily accessible
+predicting protein functions
+lattice systems
+graph clusteringbased
+
+spirin
+diverse conditions
+main mips categories
+iterative cluster analysis
+mrf method outperformed
+computational biology
+molecular interactions
+module-assisted methods differ
+high centrality
+specific time point
+high diversity
+key comparisons reported
+active subnetworks
+binding
+direct annotation schemes
+case edge reliabilities
+computationally hard problem
+interaction data
+earlier mrf approach
+edges represent interactions
+edges connecting pairs
+probabilistic network reliability
+systematic quantitative evaluation
+high flow
+simplest approach treats
+graph theoretic
+
+letovsky
+data sources
+random variable states
+direct annotation method
+yeast transcriptional network
+multiple sources
+simple neighbor-counting method
+algorithm called seedy
+molecular networks
+hierarchical clustering
+specific condition
+
+balazsi
+modular structures
+edges connect genes
+yeast saccharomyces cerevisiae
+biological network comparison
+module-assisted integration
+complex prediction
+yeast ppi network
+annotation studies reviewed
+multiway cut
+complex membership
+minimum cut
+protein interaction
+edges connecting proteins
+shortest path
+single reliability score
+ron shamir*
+school
+properties derived
+biological process annotations
+expression data
+discovering regulatory
+samba biclustering algorithm
+side represent genes
+report complexes covering
+gene expression
+interaction networks
+interaction pattern
+high probability
+al
+
+direct methods
+identify modules
+genomic analysis
+maximize su sv
+previously annotated proteins
+ppi network obtained
+molecular complexes
+path consisting
+module detection technique
+interaction datasets
+high-throughput data
+prediction function
+function prediction
+expression patterns
+graph flow simulation
+prediction techniques
+collective dynamics
+likelihood ratio
+transcription factor
+topological properties
+annotate yeast proteins
+confidence levels
+related method suggested
+evidence integration
+information sources
+markov clustering
+kernel-based methods
+maximum clique
+phenotypes
+multiple networks
+protein interactions
+predicted functions based
+conserved pathways
+signaling pathways
+gene function
+random cluster assignment
+overlapping modules
+ðxfvg ¼ 1jxnð
+clustering coefficient
+ppi data
+¼ exp à hc ðxc þ
+genome-wide scale
+al
+
+goldberg ds
+large-scale networks
+genome-scale networks
+densely connected
+semantic similarity
+maximum distance
+2888­2893 kelley bp
+physical interactions
+protein­protein
+logistic function
+molecular functions
+graphical interface
+random data
+interaction maps
+interaction reliabilities
+gene ontology
+dense structure
+binary interactions
+clustering algorithms
+genome-wide prediction
+wholeproteome prediction
+þ ¼
+
+log
+
+bpðou
+large compendia
+sources determine
+protein networks
+protein function
+accurate methods
+interaction type
+multiple studies
+expression distance
+functional modules
+additional vertices
+regulatory network
+þ2e
+
+cut problem
+protein­dna
+single protein
+network data
+specific setting
+heavy subgraphs
+data sets
+comparison data
+specific protein
+functional similarity
+whole-genome annotation
+module finding
+human genes
+direct neighborhood
+gene characteristics
+gene promoter
+entrez gene
+function sv
+highly expressed
+dense subnetworks
+significant portion
+significant margin
+local search
+revealing modularity
+multiple organisms
+vertices represent proteins
+protein based
+integrated data
+probabilistic approaches
+protein localization
+edge-betweenness clustering
+superparamagnetic clustering
+cost-based clustering
+edgebetweenness clustering
+ppi networks
+gene-regulatory pathways
+defining pathways
+module-assisted techniques
+functional classification
+functional topology
+biochemical function
+neighborhood counting
+spatial interaction
+data type
+optimization problem
+expression coherence
+similar function
+biological networks
+topological distance
+large set
+robust alignment
+local modeling
+collins jb
+coexpression interactions
+relevant interactions
+computationally hard
+mit press
+hughes tr
+modular organization
+gibbs sampling
+greedy fashion
+tf-binding sites
+weighted graphs
+protein complexes
+cellular networks
+random variable
+direct methods
+random networks
+expression analysis
+complex seeds
+complex organisms
+samba models
+protein pairs
+function based
+true annotations
+techniques based
+cellular function
+similarity measure
+probabilistic framework
+large size
+human eye
+module-assisted methods
+large-scale detection
+functional distance
+distance function
+global survey
+highly visualizable
+differentially expressed
+cellular components
+obtaining multiple
+nonessential genes
+complex detection
+high-throughput technologies
+nodes representing proteins
+specific algorithms
+prediction accuracy
+prediction success
+computational methods
+data set
+connected regions
+protein community
+target protein
+protein families
+unannotated protein
+protein sequences
+protein subcomplexes
+07
+
+functional annotation
+functional annotation
+functional module
+high-scoring modules
+outlined modules
+produced modules
+large number
+topological units
+tel aviv 69978
+property represents
+tel aviv
+clique graph
+annotated protein
+protein annotated
+tf
+tel-aviv university
+complexpander software
+software environment
+modularity paradigm
+heuristic search
+graph-theoretic definitions
+genome biol 5
+genome biol 6
+genome biol 7
+transcriptional regulation
+unweighted networks
+functional-linkage networks
+samba algorithm
+similarity score
+combines similarity
+interacting pairs
+comparing direct
+ppi graph
+group
+prediction threshold
+usa
+proteomic measurements
+graph-theoretic analysis
+probabilistic approach
+functional aspect
+functional homogeneity
+functional association
+functional unit
+unique function
+potential function
+function shared
+main approaches
+leading techniques
+reliable path
+short path
+neighborhood system
+distance measure
+network topology
+comprehensive comparisons
+annotation methods
+module based
+module-assisted schemes
+bipartite graph
+subnetworks based
+microarray technologies
+quantifying similarities
+rich source
+microarray technology
+quantitative characteristics
+transcriptomic profiling
+full topology
+show significant
+interconnected pipes
+column represents
+single study
+web server
+global landscape
+key decision
+sophisticated version
+johnson ds
+1038/msb4100129 citation
+global effects
+adjacency matrix
+simulated annealing
+proteome-scale map
+procedure guarantees
+integrative framework
+saccharomyces cerevisiae
+community structure
+15th conference
+understanding cancer
+quantitative monitoring
+functional analysis
+ppi network
+functional annotations
+pattern detection
+genome res 14
+genome res 13
+genome res 12
+genome res 16
+measures similar
+similar methodology
+candidate protein
+protein seed
+represent genes
+computational intelligence
+direct method
+samba framework
+biology
+global analysis
+integrative analysis
+comput biol 10
+comput biol 13
+comput biol 12
+temporal information
+systematic annotation
+functional flow
+`functional flow
+previously annotated
+probabilistic formulation
+integrated models
+shortest-paths algorithms
+algorithms vary
+biological community
+algorithms developed
+biological process
+algorithms require
+efficient algorithms
+pairwise distances
+methods utilizing
+methods presented
+spectral methods
+basic methods
+presented methods
+methods calls
+tuned based
+filtered based
+identified based
+network distance
+called bipartite
+subcellular localization
+comparisons made
+subnetwork exists
+log-likelihood ratio
+small world
+significance values
+current limitations
+default values
+cellular role
+module-assisted method
+random choice
+individual genes
+general model
+864­894 de lichtenberg
+de lichtenberg
+experimentally shown
+root de
+de moor
+de bie
+protein pair
+general repository
+comparative performance
+performance comparison
+similar problem
+current yeast
+maximum-cut-based approaches
+approaches differ
+cut-based approaches
+onedimensional approaches
+interesting approaches
+systematic evaluation
+systematic comparison
+activemodules algorithm
+algorithm starts
+algorithm assigns
+algorithm traverses
+k-means algorithm
+efficient algorithm
+topological weight
+determine complexes
+connect proteins
+related proteins
+pearson correlation
+property ensures
+evident correlation
+cluster property
+comprehensive comparison
+predicting functions
+annotation process
+graph connectivity
+weighted graph
+0/1 annotation
+annotation types
+graph alternations
+single species
+states correspond
+2000 distinct experiments
+casp experiments
+recent availability
+genome-wide experiments
+recent years
+highthroughput experiments
+focused subnetworks
+high-scoring subnetworks
+techniques suggested
+high-flow regions
+similar approach
+recently applied
+successfully applied
+mrf model
+simple methods
+figure 1
+figure 2
+figure 3
+figure 4
+figure 5
+limited information
+cost function
+proteins based
+module detection
+subnetwork model
+null model
+entire network
+metabolic network
+specific conditions
+combined algorithm
+clusters based
+nat biotechnol 24
+nat biotechnol 21
+nat biotechnol 23
+continuously improving
+la jolla
+noble ws
+45 000 hybridization samples
+troyanskaya og
+697­700 von mering
+van houten
+altschuler sj
+log-likelihood score
+wodak sj
+howson rw
+davis rw
+weighted matches
+gradually grown
+mcadams hh
+ramani ak
+mccann ke
+metabolic enzymes
+murali tm
+neighborhood-counting variant
+stress response
+close variants
+community evaluations
+scheme shows
+unusually prevalent
+cherry jm
+mohan ss
+edge-weighted version
+teichmann sa
+disjoint sets
+nat biotechnol 18
+cantor cr
+broad variety
+forst cv
+weissman js
+commercial solver
+2005 ieee symposium
+connectivity criteria
+wide range
+hesselberth jr
+remarkably robust
+fundamental challenge
+rubin gm
+huge body
+hill dp
+sung wk
+grundy wn
+arrayexpress databases
+presented recently
+arsenic response
+common behavior
+advanced considerably
+baliga ns
+van dongen
+empirical study
+manual inspection
+recently employed
+van helden
+curves comparing
+withinand between-types
+well-studied organisms
+seymour pd
+escherichia coli
+nat genet 25
+statistical score
+synthetic lethality
+ieee pp
+rshamir@tau
+nat genet 38
+typically means
+cohen gn
+leiserson ce
+nat genet 37
+successive powers
+nat genet 29
+dwight ss
+matese jc
+gramolini ao
+wigle da
+slack md
+schoenfeld lw
+farkas ij
+post-genomic era
+hsu ak
+blake ja
+becker jm
+oltvai zn
+stockwell br
+increasing accessibility
+largest source
+igor ulitsky1
+falvo jv
+wormbase databases
+gerke lc
+golden standards
+siegel af
+mak hc
+srinivasan bs
+hopfield jj
+p-values calculated
+thompson mj
+exact definition
+alon fellowship
+main assumption
+bailey tl
+shed light
+modified version
+recall measures
+successful history
+oliver sg
+basic idea
+statistical significance
+greenblatt jf
+prevalent instrument
+eppig jt
+davis ap
+synthetic sickness
+þ2e0 v2v
+von mering
+murray aw
+boeke jd
+sanderson cm
+sequencing technologies
+technique compares
+richardson je
+generate `mega-complexes
+hallett mt
+research groups
+heuristically solved
+babu mm
+papadimitriou ch
+chandrika kn
+multiterminal cuts
+gibbons fd
+rivest rl
+growing body
+burrows nm
+non-overlapping sets
+myers cl
+identification
+shea ek
+nat genet 31
+karp rm
+normalizing constant
+potential bicluster
+jensen lj
+suppose water
+binomially distributed
+repeated recursively
+simplistic comparison
+automated modelling
+statistical framework
+tucker cj
+artificial intelligence
+signalling circuits
+function assignment
+graph representing
+random variables
+annotation problem
+biclustering methods
+side represent
+vertices connected
+connected vertices
+state sv
+network annotated
+statistical analysis
+simultaneous analysis
+coexpression analysis
+comparative analysis
+obtaining p-
+budding yeast
+flow-based algorithm
+mrf method
+random addition
+integration
+network flow
+molecular
+cluster detection
+spc algorithms
+algorithm proposed
+annotation task
+methods aimed
+combined network
+jordan mi
+cytoscape plug-
+285­293 gavin ac
+ouzounis ca
+goble ca
+ball ca
+afshari ca
+mutual influence
+integrated analysis
+automated method
+quasi-likelihood method
+w2 method
+neighborhood-counting method
+combined deletion
+edge reliabilities
+methodological side
+edge connects
+combined proteomic
+single nodes
+proximity problem
+fundamental problem
+comprehensive set
+r33 spirin
+systematic interpretation
+spc algorithm
+xfvg à
+model species
+proteins identified
+adding proteins
+proteins lying
+unannotated proteins
+proteins keywords
+nuclear proteins
+functions enriched
+efficient approach
+two-step approach
+reverse approach
+approach approximates
+brown jm
+488 brown ja
+detected ppis
+1901­1908 krogan nj
+3 marcotte em
+recently performed
+candidate subnetwork
+discrete states
+marcotte em
+brown po
+approximate inference
+assign 0 potentials
+markovian assumption
+church gm
+higher specificity
+comparative assessment
+krogan nj
+roc curve
+roth fp
+limited comparison
+combined distances
+good partition
+initially proposed
+recently proposed
+works attempted
+þ þ ¼ logit log
+works focused
+/2 edges
+edges incident
+module size
+number based
+nature 425
+nature 393
+nature 440
+nature 437
+nature 438
+nature 422
+review focused
+nature 402
+nature 417
+nature 431
+annotated proteins
+small fraction
+mcode cluster
+integrated ppis
+networkblast algorithm
+node set
+1170­1175 bader gd
+2 bader js
+bader js
+interaction
+interact directly
+561­566 king ad
+135­141 yeang ch
+significantly increase
+spc tended
+1128­1133 rual jf
+past decade
+enright aj
+charts give
+co-clustering methodology
+computing w2-
+39 enright aj
+wang jt
+largest k-core
+poorly exploited
+slightly superior
+mcgraw-hill cplex
+tabu list
+low flow
+greatly outnumbered
+175­181 hartwell lh
+methodological improvement
+225­236 lacount dj
+obvious caveats
+king od
+4205­4208 watts dj
+120 hartigan ja
+sequenced genomes
+important prerequisite
+2082­2089 huh wk
+nf -ef
+strogatz sh
+/products/cplex/ dahlhaus
+wiley hartuv
+features characterizing
+sequence homology
+1169­1181 gandhi tk
+harris ma
+breitkreutz bj
+connections arise
+flow-based method
+computer science
+prediction
+detecting
+sources
+predicted functions
+module members
+unit time
+size greater
+edges representing
+membership
+mcode method
+mcl algorithm
+candidate proteins
+vertex pairs
+assign functions
+combining
+ki ki
+low specificity
+maximum
+mewes hw
+374­382 chua hn
+1173­1178 samanta mp
+wu lf
+pathway scores
+fundamental differences
+r6 bu
+1275­1283 luscombe nm
+440­442 wu dd
+vg þ
+
+deng
+minimal degree
+83­86 mewes hw
+term accounts
+produces groups
+scott ms
+ken chua
+model parameters
+added nodes
+reassigning nodes
+suboptimal parameters
+priori probability
+properties
+obtained clusters
+bmc bioinformatics 3
+bmc bioinformatics 7
+bmc bioinformatics 6
+bmc bioinformatics 4
+works proposed
+total number
+article number 88
+number averaged
+340­348 rives aw
+mirny la
+r95 hishigaki
+103­107 lanckriet gr
+mcode clusters
+amount exiting
+mcode performed
+r62 zien
+confidence
+references
+adamcsek
+data
+parameter set
+candidate set
+member proteins
+40­55 lee hk
+identical functions
+context aii¼0
+locating cliques
+perform inference
+simulating flow
+barabasi al
+al
+
+conducted
+hogue cw
+clustering
+11394­11399 kelley
+kelley
+pathways
+expression
+solutions
+sought clusters
+dense
+criterion
+lie closer
+extensive
+parameter depends
+discussion
+interactions
+þ log pu
+complex
+human
+setting
+authors found
+natural question
+specifically shown
+protein
+al
+
+segal
+proteins assigned
+commonly represented
+modules
+conserved
+assessing
+search
+probability pu
+networks
+connected
+direct
+physical
+mips
+measurements
+coefficient
+functional
+function
+path
+vertex weighting
+techniques
+neighborhood
+module-assisted
+lord
+predicting
+ni
+models
+global
+counting
+detect
+investigating
+clique
+mapping
+hart
+involved
+apply
+matrix
+local
+compendium
+naturally
+al
+
+table
+similar
+ppi
+samba
+information
+infer
+algorithms
+methods
+based
+cytoscape
+mi
+cell 125
+annotate
+ac
+condition
+cell
+survey
+occur
+exists
+seedy
+random
+genes
+distance
+performance
+general
+p-
+approaches
+algorithm
+complexes
+correlation
+studies
+tel
+graph
+annotation
+module
+represent
+regions
+applied
+mrf
+model
+network
+school
+reported
+study
+types
+schemes
+report
+covering
+score
+simplest
+25­29 asthana
+make
+simulated
+ihmels
+attempted
+node
+technique
+groups
+weighted
+hcs
+xc
+called
+cluster
+bias
+v2v ð
+`community
+comparison
+capable
+asthana
+field
+pereira-leal
+recall
+developed
+partitions
+framework
+subnetwork
+evaluation
+ðsu
+differ
+introduction
+measures
+measured
+common
+sensitive
+haugen
+steffen
+deletion
+organization
+reviewed
+cut
+source
+prodistin
+simulation
+research
+independently
+categories
+led
+unannotated
+account
+process
+shannon
+goldberg
+reliabilities
+logit
+proteomics 5
+sets
+proximity
+cerevisiae
+accessible
+avoid
+hv
+hc
+made
+analysis
+annotations
+yeast
+yeast 18
+annotated
+integrated
+weights
+detection
+schwikowski
+core
+3548­3557 schwikowski
+distances
+`core
+flow
+ca
+method
+type
+science 307
+representing 220
+side
+representing
+combined
+reliability
+edge
+subgraph
+science 270
+problem
+comput 23
+predicted
+spirin
+simple
+precision
+proteins
+proteins 54
+proteins 61
+functions
+approach
+limited
+seed
+candidate
+obtaining
+assessment
+brown
+inference
+ppis
+predict
+performed
+parameter
+variables
+specificity
+marcotte
+low
+roc
+states
+species
+flow-based
+assign
+assumption
+ki
+exp
+balazsi
+church
+þ 1 states
+1869­1874 balazsi
+task
+vazquez
+roth
+pavlidis
+clusters
+widely
+computer
+1 1 exp
+krogan
+proposed
+logð
+þ ¼ à log
+þ ¼
+
+log
+works
+edges
+obtained
+suggested
+biclustering
+review
+segal
+conditions
+box 2
+box 3
+box 1
+mcode
+addition
+set
+bader
+yeang
+wang
+give
+þ2e
+interpretation
+6 years
+features
+hartuv
+availability
+perform
+hartigan
+rual
+gandhi
+slightly
+computing
+arnau
+nf
+207 arnau
+ma
+cost
+commonly
+cplex
+natural
+increase
+watts
+plug-
+huh
+1085­1094 letovsky
+pair
+sequence
+lacount
+connections
+letovsky
+k-core
+gavin
+improvement
+þ2e ð
+þ2eð
+maximize
+strogatz
+enright
+formulation
+spatial
+important
+caveats
+co-clustering
+list
+aimed
+greatly
+weight
+definition
+interact
+jordan
+authors
+king
+lie
+dahlhaus
+specifically
+pipes
+spc
+genomes
+breitkreutz
+decade
+hartwell
+closer
+exploited
+member
+identical
+distribution
+133­144
+
+& 2007 embo
+time
+88 & 2007 embo
+size
+& 2007 embo
+assignment
+407­417
+
+& 2007 embo
+þ þ ð1 à pu
+þ 1 à pu
+pu
+þ pu
+sought
+samanta
+depends
+wu
+895­902 deng
+differences
+scores
+weighting
+show
+mewes
+ou
+ðou
+724­727 deng
+scott
+found
+1257­1261 scott
+simulating
+bu
+question
+influence
+luscombe
+degree
+produces
+accuracy
+deng
+state
+table
+networkblast
+term
+success
+chua
+vertices
+nodes
+shamir
+shown
+probability
+parameters
+bioinformatics
+bioinformatics 19
+bioinformatics 18
+bioinformatics 20
+bioinformatics 21
+bioinformatics 22
+number
+represented
+fraction
+hishigaki
+amount
+mirny
+members
+rives
+adamcsek
+zien
+lanckriet
+vertex
+2626­2635 lee
+lee
+mcl
+cliques
+context
+al
+partition
+2981­2986
+
+tanay
+threshold
+34 tanay
+hogue
+tanay
+assigned
+consists
+rise
+jacq
+summarized
+thiele
+omics 8
+solution
+vicsek
+consistent
+chen
+estimated
+þ þ bnð
+nakai
+pandey
+fidelis
+sinks
+hundreds
+flannick
+changed
+coexpressed
+equals þ 1
+diameter
+explained
+il 1
+removal
+ozier
+fractions
+hahn
+shinbo
+work
+worm
+implementations
+unordered
+beyer
+mouse
+brunak
+summarize
+amin
+effective
+summing
+complexity
+order
+transcriptome
+steinfeld
+fit
+hidden
+overcome
+graemlin
+vidal
+phansalkar
+development
+maritan
+kannan
+extract
+newly
+xu
+frey
+estimate
+recovering
+xue
+clear
+top
+ramage
+observations
+febs
+2/ef
+tool
+serve
+peril
+equals 1
+mishra
+reguly
+implemented
+nagaraju
+marin
+acknowledgements
+manifested
+doi
+observation
+mouren
+incorporate
+signatures
+lewis
+lethal
+implementation
+cfinder
+uetz
+`ties
+1021­1023 aebersold
+fields
+kernels
+tornow
+optimum
+gentleman
+c2c
+cooperation
+//www
+discovery
+terms
+talwar
+received
+providing
+refinement
+cox
+uncertainty
+receives
+campillos
+factorize
+extraction
+petti
+expected
+knowledge
+krause
+input
+aim
+scholtens
+pellegrini
+iu
+ii
+wojcik
+interacts
+agarwal
+suggest
+4372­4376 hahn
+nij
+independent
+6283­6289 tsuda
+left
+opinions
+spurred
+hao
+cornell
+weiss
+spread
+suppl 7
+yeates
+suppl 2
+suppl 1
+unification
+clustered
+singh
+mayer
+deal
+maintained
+bork
+523­531 hollunder
+/
+presence
+one-fourth
+deshpande
+initial
+removed
+cibcb 2005
+august 2006
+discretized
+stages
+separated
+qin
+shin
+flammini
+hashing
+assume
+rossant
+scholkopf
+sarker
+neighbors
+alternatives
+focus
+bergmann
+abundant
+barkai
+depend
+finally
+3251­3254 brohee
+supported
+advantage
+kaminski
+guo
+revolution
+eskin
+ashburner
+bacteria
+baudot
+appears
+received 20
+accomplished
+newcomer
+venkatesan
+wealth
+predictions
+regev
+accepted 9
+pre-
+boucher
+198­207 altaf-ul-amin
+zhao
+carroll
+palla
+divided
+sittler
+prelic
+product
+moduleassisted
+date
+hollunder
+marzioch
+pointed
+galitski
+derive
+jim
+12123­12128 stark
+edmond
+half
+y-axis
+wong
+ef
+fulmer
+rahnenfuhrer
+fu
+botstein
+chazelle
+e0
+moult
+turn
+xn
+ono
+stevens
+cabusora
+long
+carry
+org/
+white
+x1
+impractical
+1+
+1-
+decompose
+inferring
+2898­2905 campillos
+1 brun
+note
+emphasis
+192­236 blatt
+n1 1
+friedman
+sutton
+room
+ways
+mokrejs
+hirozane-kishikawa
+joshi
+expectation
+zhu
+conjunction
+workman
+ignatchenko
+summary
+pereiraleal
+jtu
+sarig
+482­486 girvan
+takagi
+yannakakis
+835­846 simonis
+364­378 ashburner
+ringwald
+cagney
+leibler
+guenoche
+mann
+characterization
+color
+37­46 joshi
+exploit
+zimmermann
+snel
+mars
+direction
+2443­2450 cabusora
+maciag
+promising
+parmigiani
+prevalence
+microarrays
+drug
+author
+yoneda
+wilhelm
+extended
+322­333 karaoz
+chettier
+minimize
+solve
+jfu
+zhong
+yu
+dricot
+7841­7846 baudot
+2498­2504 sharan
+kupiec
+buhlmann
+superiority
+exposed
+shortcoming
+respect
+provided
+considers
+exit
+measuring
+notably
+686­691 ideker
+637­643 kryshtafovych
+cambridge
+besag
+munsterkotter
+assumed
+stark
+liang
+complete
+370­377 jansen
+applying
+describe
+examine
+associating
+tompa
+suited
+included
+brass
+partitioned
+rs
+starting
+lack
+emili
+hennig
+denotes
+308­312 maciag
+tu
+fax
+interpreting
+decide
+fall
+treating
+¼1/
+subsets
+applicable
+girvan
+september 2006
+quebec
+173­186 krause
+sun
+contrast
+wachi
+jaakkola
+dimensionality
+vespignani
+handful
+social
+tsuda
+analyzing
+probabilities
+israel
+fellow
+varying
+1623­1630 cormen
+isseltarver
+mehta
+sharan
+numbers
+venclovas
+goal
+zhang
+schultz
+rudd
+weaknesses
+reflect
+631­636 ge
+grandi
+bleuler
+zitzler
+hierarchy
+existence
+boesche
+periaswamy
+467­470 scholtens
+pinkert
+propose
+1575­1584 fields
+expect
+measurement
+loops
+1122­1129 przulj
+mathivanan
+hanisch
+2-neighborhoods
+occurs
+dunn
+sajdak
+947­960 dunn
+imagine
+ding
+jurisica
+utilization
+relationship
+part
+co-complexed
+kurschner
+aims
+treated
+shalon
+generalizes
+majority
+generalized
+molecularsystemsbiology
+reach
+undertaken
+performances
+converge
+relation
+morgenstern
+dudbridge
+plotting
+leave-one-
+ranked
+distinguish
+relying
+improved
+aloy
+bell
+generating
+kislinger
+assigning
+novak
+wiseman
+resulting
+evaluated
+computed
+mccuine
+encountered
+grant
+products
+karthick
+purpose
+dolinski
+simonis
+database
+137­144 tornow
+montreal
+liu
+associations
+evaluate
+capacities
+interestingly
+manifest
+5391­5399 flannick
+kasif
+sharma
+ziv
+weil
+redundancies
+prove
+kuffner
+wille
+plethora
+suppl
+proportional
+brun
+analyze
+murphy
+ling
+line
+partitioning
+highlight
+defined
+maniatis
+nandakumar
+calculating
+problems
+methodologies
+jansen
+markiel
+partial
+results
+ge
+contributions
+stably
+young
+chevenet
+confirmation
+matrices
+homogenize
+exits
+positions
+n-neighborhood
+assignments
+tyers
+sahasrabudhe
+49­57 prelic
+friedlander
+cai
+find
+3013­3020 kislinger
+haeseleer
+equals à1
+sink
+ia{0
+makes
+addressed
+formulates
+canada
+butler
+noisy
+zimmer
+benchmark
+meet
+1 yields
+proportions
+þ bnð
+aij¼1
+cormen
+varies
+collection
+ties
+israel *
+subsequently
+eisenberg
+cristianini
+þþn1
+mentioned
+pathblast
+li
+degrees
+schena
+479 nabieva
+practice
+newman
+morris
+identifies
+subset
+chung
+frequency
+interplay
+nayak
+york
+399­403 wachi
+altaf-ul-amin
+koller
+reached
+precisely
+quality
+revealed
+siam
+karaoz
+lot
+greenbaum
+lists
+248­250
+
+besag
+exhibit
+lengauer
+31­34 murphy
+112 hanisch
+frishman
+pipe
+guldener
+proceedings
+goals
+selection
+chances
+agreed
+postulated
+inferior
+handle
+an01+bn11+n00
+areas
+organ
+biogrid
+gruissem
+constructing
+2 tompa
+blatt
+nabieva
+progress
+mannhaupt
+ability
+disconnect
+taking
+attributed
+strains
+attributes
+aach
+vignali
+brohee
+lu
+treat
+ontologies
+define
+427­433 sharan
+derenyi
+ota
+denote
+ilog
+contexts
+aebersold
+vi
+vj
+sherlock
+omics 10
+capture
+batzoglou
+difficult
+x-axis
+mihara
+obstacles
+ideker
+filamentation
+increasingly
+obtain
+small-world
+density
+kanaya
+increases
+alternatively
+martin
+exceed
+alexandrov
+przulj
+shen
+overlap
+e-mail
+tanigami
+expansion
+hiding
+http
+kasarskis
+recognized
+carries
+introduced
+tackle
+promise
+gleaned
+snyder
+kurokawa
+hu
+convergence
+partially
+owing
+devise
+dissemination
+weston
+proceeds
+12579­12583 schena
+compared
+detail
+rnsc
+zheng
+chance
+kryshtafovych
+domany
+gerstein
+validation
+expands
+1þ þ
+1þ à
+¼
+272
+1990
+1995
+1994
+1996
+1999
+1998
+2
+1974
+0þ
+06
+05
+1975
+0
+1þþ
+ð
+1
+þ ¼
+à1
+1}
+10
+1à
+0þþ à
+=ð1 à
+95 000
+à
+þ=
+9
+=1 à
+2002
+2003
+2000
+2001
+2006
+2004
+2005
+0þ 1à
+36
+þ
+þ 972 3 6405383
+þ 972 3 6405384
+þ þ ð1 à

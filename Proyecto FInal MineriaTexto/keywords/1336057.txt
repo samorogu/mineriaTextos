@@ -1,0 +1,301 @@
+transcriptome
+transport adenosine
+Biochemistry
+Wilcoxon nonparametric
+accuracy comparable
+antisense
+accession
+ATPase-regulatory
+adenosine triphosphatase
+statistical
+Department
+promoter-associated
+Molecular
+Hobbs,2,9
+retention
+Nussbacher
+Supporting
+termini-associated
+Velculescu
+Martianov
+Gingeras1* Significant
+proportion
+exclusively
+Bienengraeber
+production
+publication
+transfrags overlapping
+imbalance
+periostin
+Protocols
+revascularization
+correspondence
+chromatin
+frequency distribution
+permission
+important biological
+activation
+confounding
+whole-cell
+functional
+Roberts,1
+large-scale transcript
+Relations
+cellular
+hs_whole_genome
+2University
+heritable
+Minnesota
+prominent
+Drenkow,1
+biological relevance
+Immunology
+Tybjaerg-Hansen,6
+Washington
+Minneapolis
+genome-wide association
+Willingham
+genomewide association
+magnitude
+nonrandom association
+nonrepeat
+characteristic
+potential processing
+unannotated transcripts
+Ramadass
+therapeutic
+Conservatively
+Hofacker,4
+protein-coding
+Georgakopoulos
+supporting
+Biotechnology Information
+Sementchenko,1
+sensitivity
+sequences
+Biological relevance
+product-precursor
+Akoulitchev
+trans-regulatory potential
+significant concordance
+Affymetrix Laboratory
+hybridization analysis
+transfrag
+biological significance
+Kavaslar,1 Alexandre
+subcellular compartmentalization
+interleaved organization
+myocardial
+Szallasi
+Development
+single-nucleotide
+potential biological
+assistance
+associate
+Radharani Duttagupta,1
+connective
+ENCODE-Project-Consortium
+reminiscent
+Copenhagen University
+Conversely
+G-C-matched
+reproducible
+illustrate
+overlapping transfrags
+orchestrate
+available
+physiologic abnormality
+Srivastava
+profiling
+Abcc9-null
+conservation analysis
+localization
+eukaryotic
+SCIENCE
+University
+cholesterol
+Unannotated
+possibility
+REPORTS References
+following
+deposition
+amplification
+58-kilobase
+relaxation
+regulatory
+cardiomyopathy
+Distribution
+remainder
+PhastCons
+available transcription
+contraction
+interleaved transcription
+transcription polymerase
+technical
+unannotated
+comprehensive assessment
+Pennacchio,4,5
+transcripts overlapping
+Cheung,1
+Genealogy
+proteincoding
+Tammana,1
+high-resolution
+Published
+SCIENCE Downloaded
+phospholamban
+Nutrition
+Associated
+Copyright
+Subcellular
+unannotated transcription
+boundaries
+significance threshold
+Advancement
+REPORTS
+sarcomere
+involvement
+4Institute
+contributor
+Piccolboni,1
+Downregulation
+Cohen2,10
+Pervasive Transcription
+occurrence
+one-fifth
+transfrags
+Myocardial
+Epidemiology
+permutation
+important
+Alexandre Stewart,1
+Teekakirikul
+trademark
+Ponjavic
+Quantile-quantile
+Downloaded
+regulation
+conservation
+Blackshaw
+consistent
+cardiovascular
+Wiley-Interscience
+percentage
+molecular
+Vogelstein
+annotations
+Association
+Alexander
+Circulation
+populations
+distribution
+overlapping
+adenosine triphosphate
+sarcoplasmic reticulum
+Abramow-Newerly
+Caucasians
+real-time
+Madhavan Ganesh,1
+array-detected transcription
+Expression
+pervasive transcription
+correlate
+genealogy
+Characterization
+Stadler,2
+wildtype
+intergenic
+Rigshospitalet
+premature
+species-specific
+McDermott
+precursor
+Conserved
+References
+verification
+different technological
+fundamental physiologic
+In-depth characterization
+transcripts
+conserved functional
+­binding
+Information
+Kapranov,1
+transcriptional
+Publishing
+indicated
+Caucasian
+Furthermore
+Reynolds Cardiovascular
+One-third
+quantification
+conserved
+hypertension
+Fejes-Toth
+Hackermüller,3
+pathology
+Expressway
+conserved transfrags
+interrogating
+different subcellular
+tom_gingeras
+conserved sequences
+information
+nonrepetitive
+procurement
+sequential case-control
+transcription
+Southwestern
+composing
+rmcpherson
+mechanism
+Loscalzo
+technical discussion
+chromosome
+established
+genome-wide
+prehypertrophic
+impairment
+composition
+particular
+worldwide
+manuscript preparation
+investigated
+energetic
+noncoding
+transcription profiling
+transforming
+prehypertrophic aMHC403/+
+collection
+secondary phenomenon
+steady-state
+HighWire
+biologic
+appreciable
+significant
+Fraunhofer Institute
+U01HG003147
+Folsom,7
+structure
+Geisterfer-Lowrance
+non­protein
+transcript identification
+Churchill
+cytosolic
+nevertheless
+expression
+Cardiology
+Community
+Theoretical Chemistry
+complexity
+Draghici
+Examples
+Dumais,1
+correlation
+independent
+Boerwinkle,8
+accessible
+Willingham,1
+resolution
+enrichment
+Chromosome

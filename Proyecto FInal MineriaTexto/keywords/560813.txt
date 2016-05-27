@@ -1,0 +1,339 @@
+restriction
+protein-protein interactions
+4Department
+copurifying
+similarity
+Biochemistry
+co-localization
+Regelmann
+Microbiology
+homogeneity
+cross-validation
+computational
+interaction information
+deacetylation
+Investigating
+Department
+taxonomic
+Tikuisis1
+consensus sequences
+Eissenberg
+Supplementary Information
+overproduction
+post-translational modification
+experimental inaccuracy
+spectrometry14
+Vid30-containing
+intragenic
+polymerases
+large-scale
+proportion
+Richards6
+environment
+microarray
+Connecticut
+Systematic identification
+DNA-binding
+Emergence
+largescale
+miniarray
+affinity-based purification
+McLaughlin
+desorption/ ionization­time
+Cohabitation
+prokaryotic
+chromatography
+identifying sequences
+Schuldiner
+transposon
+Parkinson5
+fructose-1,6-bisphosphatase
+quantified
+high-confidence
+gold-standard
+compendium
+significant similarity
+transposition
+extrapolating
+Proteome-wide purification
+Organization
+catabolite-induced degradation
+expression2
+polyacrylamide
+Experimental
+experimental reproducibility
+fructose-1,6-bisphosphatase-degrading
+Molecular Biophysics
+Elucidation
+identifying
+RNAPII45
+transposition40
+ARTICLES NATURE|Vol
+expressed proteome18
+Functional organization
+phosphorylation
+Escherichia
+technology9
+Reliability
+Proteasome involvement
+comprehensive two-hybrid
+reasonable
+arbitrary
+environment33
+biological
+Saccharomyces cerevisiae
+Chandran1
+Comparative assessment
+chromatin44
+DDDDDDDSFASADGE
+Drosophila homologue
+Functional discovery
+Thompson1
+phosphorylated
+consistent
+similarity32
+synthetic lethal/sick
+High-definition macromolecular
+individual
+silencing36,37
+RNAprocessing
+RNAPII-associated
+repressive
+Supplementary
+intersection
+interacting
+Relationship
+Subcellular localization
+Ignatchenko1
+Molecular Interaction
+Hughes1,2
+localization
+membrane-associated
+expressed
+hypomorphic
+Complexes
+system-wide
+Zinc-finger
+identification
+Massachusetts
+systematic characterization
+clustering algorithm
+throughput experimental
+conditions
+University
+multitude
+Evolutionary conservation
+available
+studies17,35
+localization categories5
+accessing
+database23
+complementary
+importance
+interactome
+protein­protein interactions
+Conclusions
+Predictive sensitivity
+low-femtomole
+amino-terminal
+eukaryotic
+Ross-Macdonald
+`snapshot
+chromosomal
+anti-peptide
+consideration
+properties
+comparison
+Cambridge
+Shigehiko
+methylation
+connectivity
+heteromeric
+fungi-specific
+scale-free
+non-overlapping
+nomenclature
+McCormack
+data-dependent
+protein­protein interactions38
+Assignment
+consequence
+Laboratory
+Technology
+Published
+chromatinboundary-element-binding
+Synthetic
+Boulevard
+Precision/sensitivity
+probability
+desorption/ionization­
+information
+multi-subunit
+Cytoscape
+two-hybrid
+Graphical representation
+functional
+fructose-1,6-bisphosphatase39
+Microarray
+high-density
+Analyzing
+specificity
+proportional
+landscape
+six-subunit holo-elongator
+additional interactions
+confidence
+High-betweenness
+available comprehensive
+subcellular
+subtelomeric
+repeat-binding
+biomolecular interaction
+predictions
+endoplasmic reticulum
+physiology
+SDS­PAGE
+extraction
+betweenness
+cytoplasmic ribosomal
+California
+`Betweenness
+5Hospital
+Co-localization
+initiation
+`intersection
+molecular
+non-membrane
+homologous recombination
+´n-Alvarez5
+two-dimensional hierarchical
+macromolecular composition
+hypothetical
+relationship
+promoter-specific transcriptional
+successful
+MALDI­TOF
+Bioinformatics
+Vlasblom5
+individual complexes
+Purification
+sequence1
+RNAPII-interacting
+particular
+convergence
+Robinson1
+translation
+Correspondence
+evolutionary conservation
+abundance
+annotation
+Acknowledgements
+high-quality
+cytosolic
+Characterization
+Shilatifard9
+Rpd3-containing
+Large-scale
+robustness
+heptapeptide
+metabolism
+preparation
+microarray-based
+Engineering
+frequency
+monoclonal
+integrating
+studies27
+distribution
+spectrometry
+approximate stoichiometry
+assistance
+Markov-clustercomputed complexes
+Confidence
+proteasome-dependent
+Publishing
+processing
+2Department
+protein­protein interaction
+hand-curated
+phylogenetic
+chromosome segregation
+preferential interaction
+co-evolution
+dependence
+International Molecular
+polymerase
+reliability
+transcriptional repression30,31
+carboxy-terminal
+modifying complexes
+transcriptionrelated
+Precision-sensitivity
+regression
+Interaction
+kinetochore
+Ghaemmaghami
+different
+Francisco
+combination
+Functional characterization
+biochemistry
+transcription
+Starostine1
+transmembrane
+consortium
+blotting18
+manuscript
+matrix-assisted
+essentiality
+connectedness
+Systematic
+Cotranscriptional
+performance
+genome-wide
+biochemical activities3,4
+Ingles1,2
+double-strand
+Biomolecular
+independent
+nonspecific
+calculating
+established
+Institute
+pie-chart
+consistency
+9Department
+`extended
+collection
+complexes
+Greenblatt1,2 Identification
+Paccanaro4
+significant
+Altaf-Ul8
+`biological
+Greenblatt
+degradation
+probabilistic
+Weissman7
+Furthermore
+ARTICLES
+organization
+Catabolite degradation
+surprising
+Phylogenetic
+pre-ribosomes
+Consistent
+intracellular localization
+Cytoscape/
+sub-complex
+purification
+methyltransferase
+deacetylase
+high-throughput
+expression
+affinity-tagged
+correlation
+Exploration
+Molecular Pharmacology
+transcription elongation
+protein­protein interactions11­14

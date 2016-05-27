@@ -1,0 +1,13 @@
+autoencoder
+science
+j
+778023txt
+m
+s
+master
+fig
+shg
+units
+samorogu
+data
+weights

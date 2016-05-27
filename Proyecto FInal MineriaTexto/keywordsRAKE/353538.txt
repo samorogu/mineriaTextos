@@ -1,0 +1,2119 @@
+/nature
+
+insight review articles
+box 1 contrasting weight versus wiring plasticity
+/nature
+
+784
+©2004 nature publishing group
+
+insight review articles
+evidence
+/nature
+
+©2004 nature publishing group
+
+insight review articles
+synapses
+783
+
+©2004 nature publishing group
+
+insight review articles
+divided
+/nature
+
+787
+©2004 nature publishing group
+
+insight review articles
+18
+785
+
+©2004 nature publishing group
+
+insight review articles
+reversible nr1 knockout reveals crucial role
+insight review articles
+
+cortical rewiring
+subsequent anatomical studies directly demonstrated growth
+unconnected local neurons contribute potential synapses proportionately
+learning rules involving wiring plasticity confirm
+usa 3 howard hughes medical institute
+calcium/calmodulin-dependent protein kinase ii contributes
+synaptic circuits defining entire cortical columns
+long-term memories survive surgical anaesthesia
+subsequent electron microscopic analysis revealed
+include high-throughput serial-section electron microscopy
+putatively manages learning-related cortical rewiring
+electrical growth cone guidance found
+commonly accepted learning mode based
+activity level controls postsynaptic composition
+potential synapses outnumber actual synapses
+dendritic branch growth
+
+figure 3 actual
+receptive field properties change gradually
+direct anatomical analysis reveals
+demand essentially single-molecule precision
+axonal sprouting accompanies functional reorganization
+100 functionally distinct potential presynaptic partners
+788
+©2004 nature publishing group
+
+nature
+postsynaptic unit wiring change
+
+presynaptic units
+camkii function prevents experience-dependent plasticity
+statistically significant higher-order correlation
+/nature
+
+cortical axons span
+experimental manipulations beginning immediately
+3
+1 2
+
+cold spring harbour laboratory
+larger presynaptic candidate pool accessible
+remote contextual fear memory
+thick tufted pyramidal neurones
+heavily overlapping receptive fields
+small fraction form actual connections
+direct experimental evidence bearing
+axon pass sufficiently close
+model ca1 pyramidal cell
+activity-dependent responses involve camkii signalling
+782
+©2004 nature publishing group
+golgi­cox morphological analysis
+disease-related long-term memory deficits
+temporally precise molecular perturbations
+hard combinatorial search problem
+forming actual synaptic connections
+cultured hippocampal brain slices
+suggesting large-scale cortical rewiring
+functionally distinct neural circuits
+key questions remain unanswered
+proof requires retrospective analysis
+significant nonlinear spatial interactions
+share cell biological mechanisms
+rodent primary sensory areas
+calcium/calmodulin-dependent protein kinase
+simply observing synapse addition
+potential presynaptic partners consists
+white lines denote axons
+long-range structural plasticity makes
+stabilize newly formed connections
+electron microscopic analysis
+adult brain
+
+presynaptic population
+connected
+impoverished versus complex
+total learning-related storage capacity
+neural information processing systems
+structural rewiring learning rule22
+experiments provide convincing evidence
+developing rat barrel cortex
+newly formed dendritic spine
+presynaptic units provide input
+synaptic nmda receptor activation
+figure 1 structural circuit plasticity
+hippocampal long-term synaptic plasticity
+imply short-range wiring flexibility
+dendritic branching occur selectively
+ten physical input connections
+adult cat striate cortex
+rat visual cortical plasticity
+ca1 hippocampal dendrites induced
+additional storage capacity made
+synapses involves hebbian forms
+99
+
+100
+
+presynaptic units
+
+presynaptic units
+wiring change
+
+wiring change
+cortical circuit structurally plastic
+functionally distinct circuits
+cold spring harbour
+layer 2/3 pyramidal neurons
+rat visual cortex synapses
+weight versus wiring
+long-term memory -- remains
+long-term information storage
+nature
+postsynaptic unit weight change
+synapses underlie memory storage
+preserving remote memories
+computational20­24 considerations demand
+long-term dendritic spine stability
+classic golgi technique45
+competing interests statement
+structure-based rewiring mode10
+glutamate receptor number67
+flexibility jointly contribute
+competing financial interests
+subsampled quadratic classifier
+static experimental design
+metabotropic glutamate receptor
+untrained hemispheres revealed
+previously unconnected units
+adult brain
+
+synapse formation
+vivo dendritic calcium dynamics
+total learning-related flexibility
+pyramidal cell communication
+pyramidal cell morphologies
+experiments involving perturbations
+develop input connections
+optical fluctuation analysis
+optical quantal analysis
+dashed white lines
+produces large-scale rearrangements
+shared cell biological
+called potential synapses23
+better-studied pathways involves
+experience strengthening transmission
+optical resolution element
+glutamate receptors opened
+human brain consists
+previously unconnected neurons
+rat barrel cortex
+functionally equivalent axons
+cortical pyramidal cell
+ca3­ca1 synapses
+figure 2 structural plasticity
+concentric cylinders surrounding
+focal retinal lesions13
+causal relationship
+
+experiences
+excitable dendritic tree
+experiments involving lesions
+pre-screened candidate pool
+sensory experience modifies
+distinct presynaptic unit
+physical constraints restrict
+single dendritic branch
+subthreshold synaptic summation
+synaptic glutamate receptors7
+bona fide wiring
+actual synapse connected
+golgi method complicates
+geometric factors bearing
+lacking ampa receptors
+driving ampa receptors
+candidate biological mechanisms
+bilateral foveal lesions
+simulation experiments
+786
+
+interdependence
+long-range growth potential
+cortical pyramidal cells
+central glutamatergic synapse
+poorly performing synapse
+minimal structural adjustments23
+retinal ganglion cells
+visual cortical responsiveness
+mammalian cerebral cortex
+anterior cingulate cortex
+total storage capacity
+including transneuronal atrophy53
+basal dendritic branching
+foveal v1 neurons
+cell biological mechanisms
+primary visual cortex
+open questions remain
+potentiate synaptic transmission
+synaptic receptors tagged
+underlying experience-dependent plasticity
+dendritic growth rates
+neuroscience annual meeting
+rapid dendritic morphogenesis
+labelled vesicle clusters
+additional question involves
+single synapses probed
+poorly correlated connections
+single hippocampal spines
+experimental evidence suggests
+adult olfactory bulb
+adult split-brain rats
+complementary learning systems
+single synapse sensitivity43
+long-term stable states57
+fixed potential connectivity
+massive cortical reorganization
+cortical spiny neurons
+target diverse areas
+storage capacity lies
+storage capacity attributable
+postsynaptic unit sequentially
+compatible postsynaptic unit
+postsynaptic unit includes
+sufficiently long periods
+initial wiring diagram
+massive synapse formation82
+accessible wiring diagrams
+vivo multiphoton microscopy
+comparing dendritic arbors
+red arrowheads point
+efficient search scheme
+weights held fixed
+postsynaptic signalling pathway
+cortical network implies
+nmda receptor-dependent ltp
+somatic sensory cortex
+rat visual cortex
+open questions relating
+exhaustive physical search
+gabaergic synapses induced
+primate somatosensory cortex
+ongoing structural plasticity
+ten candidate axons
+detecting synaptic strength
+adult brain maintains
+adult cortex retains
+dendritic arbor structure
+shared molecular pathways
+deriving physical connectivity
+single integrative units
+biological neural circuit
+issue remains controversial
+stable synapses differs
+individual firing rates
+produce weight changes7
+single integrative unit
+neocortical pyramidal neurons
+potential synapse inaccessible
+maximum spatial extent
+cortical `wiring diagram
+cortical wiring diagram
+experience-dependent synaptic plasticity
+longer-range wiring connections
+excitable dendritic spines
+multiple spine synapses
+accompanying memory formation
+adult macaque monkeys
+glutamatergic synapse formation
+modelling studies suggest
+long-term stable values
+developing rat neocortex
+ten axons expresses
+encode learned information
+deep brain tissue
+adult brain remains
+including synapse formation/elimination
+previously connected neurons
+largest integrative unit
+subcellular functional imaging
+voltage imaging methods
+presynaptic release machinery
+activity-dependent filopodia growth
+postsynaptically silent synapses
+individual dendritic branches
+boost storage capacity
+postsynaptic units involved
+structural learning rule
+individual cortical neurons
+high-resolution optical measurements
+adult cortical dynamics
+previously connected pre-
+dendritic plasticity make
+change synaptic strength
+vivo timelapse imaging
+encoding learned information4­6
+diverse experiential conditions
+long synaptic connections
+yield important information
+remarkable dendritic stability
+wiring plasticity mode
+elaborate biological machinery
+somatosensory cortical map
+single time point
+individual neurons function
+cortical axons maintain
+neural learning research
+potential synapses considered
+adult motor cortex
+weight­plasticity scenario
+differential rearing effects
+memory requires understanding
+explain long-term memory
+high-resolution imaging experiments
+single axon terminal
+inherently slow process
+choose presynaptic partners
+postsynaptic dendrite show
+ltp promotes formation
+adult learning depends
+to-be-selected group
+sparsely connected network
+difficult questions relating
+biological machinery required
+correlated axon terminals
+rapid spine delivery
+nervous system organization
+neural network depends
+behaving adult animals
+early studies focused
+spines make synapses
+review
+finding good partnerships
+including synapse formation
+slower learning rate
+individual synaptic weights
+unconnected presynaptic
+vivo imaging experiments
+molecular pathways exists
+large-scale sprouting
+require structural plasticity
+structural learning process
+nmda receptor
+entire lifetime
+visual responses
+actual synapse
+substantial -- log2
+significant growth
+input connections
+dendritic branch
+cortical rewiring
+rapid analysis
+neurons physically exist
+cortical circuits
+/nature
+learning-related plasticity
+pyramidal cells
+receptive fields
+long-range growth
+combines anatomical
+potential partners
+optical microscopy
+thick lines
+candidate synapse
+presynaptic partners
+distinct timescales
+hippocampal slice
+learning-related structural
+underlie rewiring
+ampa receptors
+long-term storage
+cortical reorganization
+form synapses
+neural circuits
+synaptic circuits
+ca1 region
+local level
+pre-screened pool
+cortical connections
+actual number
+visual systems
+anatomical data
+differential rearing
+activity-dependent plasticity
+biological machinery
+synaptic partners
+large-scale plasticity
+massive reorganization
+dendritic branching
+local connectivity
+quantitative analysis
+biological mechanisms
+cortical plasticity
+physical change
+presynaptic units
+99
+
+100
+
+presynaptic units
+activity-dependent release
+synaptic transmission
+postsynaptic receptors
+wiring change
+presynaptic unit
+longer-range connections
+experience-dependent plasticity
+potential synapses
+layer 2/3
+white arrow
+structurally encoded
+higher-order dendrites11
+local networks
+key aim
+local area25
+dendritic arbor
+similar rewiring
+rewiring correlates
+hebbian ltp-
+imply rewiring
+cell biology
+dendritic growth
+cultured neurons85
+long-term imaging
+diverse synapses
+pyramidal neurons
+potential synapse
+neural activity
+synaptic connections
+experiments point
+cortical tissue
+long-term memory
+synaptic structure
+synaptic activity
+spines form
+synaptic function
+wiring diagrams
+dendritic plasticity
+pyramidal neurons57­59
+cortical areas
+structural change
+dendritic branches
+rat neocortex
+potential connectivity
+learned information
+information storage
+long-term stability
+activity-dependent remodeling
+previously noted
+learning64 remains
+volume accessible
+two-photon microscopy
+challenges remains
+neocortical synapses
+neural unit
+storage capacity
+storage capacity 22
+weight change
+postsynaptic units
+molecular perturbations
+guidance mechanisms
+postsynaptic unit
+thin lines
+retinal lesions
+sparsely connected
+global `systems
+substantial boost
+signalling occurs
+static measurements
+individual synapses
+neural circuit
+synaptic mechanisms
+single neurons
+synaptic plasticity
+wiring plasticity
+biological wiring44
+membrane potential
+action potential
+cortical area23
+cortical neuropil
+cortical microcircuit
+cortical territory
+synaptic terminals
+wiring diagram
+wiring flexibility
+group
+circuit mechanisms
+circuit plasticity
+maintain
+nature
+physiological rewiring
+vivo microscopy
+optical techniques
+dendritic arbors
+thick line
+developing brain
+dendritic stability
+single variable
+motor cortex
+100 accessible axons
+remarkable capacity
+release mechanisms
+including dendritic
+slower learning
+genetic perturbations
+integrative properties
+sensory cortex
+dendritic spine
+neural tissue
+visual cortex
+individual neurons
+cortical column
+including visual
+somatosensory cortex
+cortical axons
+structural plasticity
+molecular mechanisms
+existing connections
+single spines
+synaptic strength
+adult brain
+brain plasticity
+1011 neurons connected
+learning mode
+adult cortex
+dendritic arbors70
+distinguishable values
+massive subcortical
+olfactory bulb10
+future research
+functional subunits
+dendritic arbors36
+dendritic spines76
+dendritic arbors23
+cell types
+retinal lesion
+additional space
+molecular pathways
+experiment rats
+translate experiences
+developing brain83
+worst-case scenario
+subcellular visualization
+dendritic morphology
+functional architecture
+largest subdomain
+growth related
+camkii pathway
+surrounding regions
+experiential conditions
+rapid remodeling
+efficient triage
+behaving brain
+including wiring
+weight plasticity
+presynaptic axons
+biological limitations
+synaptic connectivity
+adult learning
+sensory periphery
+sensory deafferentiation
+sensory stimulation9
+sensory experience10
+integrative subunit
+integrative subunits
+spatial extent
+visual world
+visual contours
+spatial intercalation
+integrative operation
+spatial range
+causally connected
+neural circuits1
+neural hardware
+neural substrate
+neural networks
+neural comput
+presynaptic population
+physical convergence
+somatosensory cortex10
+somatosensory cortices
+strongly correlated
+physical components
+physical instantiations
+physical substrate
+correlated afferents
+neurite guidance
+provided evidence
+cortical area
+term `unit
+axonal branching
+postsynaptic components
+dendritic spines
+synaptic structures
+synaptic efficacy
+synaptic contact
+postsynaptic targets
+synaptic stimulation
+synaptic integration
+synaptic diversity
+synaptic plasticity80
+learninginduced wiring
+wiring flexibility22
+achieve wiring
+substantial capacity
+adult monkeys
+adult brain14
+adult monkey
+adult mice
+adult brain8­14
+adult macaques
+synapse formation
+bridging mechanisms
+triage mechanisms
+plasticity phenomena
+alpha-camkii-dependent plasticity
+deprivation-induced plasticity
+developmental plasticity
+memory --
+synapse --
+synapse stability
+diffusible factors
+computer-simulated interactions
+modelling literature21
+most-distal branches
+terminal bouton
+modelling studies
+produce ltp-
+factors contributing
+open question
+layers 2/3
+developing neocortex
+memory capacity
+inaccessible axons
+ten axons
+presynaptic candidates
+brain tissue
+neural network
+imaging depth
+existing synapses
+silent synapses
+ampa-silent synapses
+synapses persists
+thalamocortical synapses
+individual animals
+axonal growth
+provide answers
+axon guidance
+usa department
+electrophysiological measurements
+substantial redundancy
+longitudinal measurements
+release probability66
+long distances
+spine formation
+axons connected
+experiments hint
+experiments reveal
+permanent memory
+distributed memory
+neuronal wiring
+plastic synapse
+small fraction
+adult animals
+vivo imaging
+involve structural
+structural differences
+behaving animals
+geometric models
+tissue volume
+short-term dynamics
+detect dynamics
+long-term potentiation
+molecular biology
+topographic properties
+molecular techniques
+molecular interventions
+contact formation
+presynaptic inputs
+incoming information
+information theory
+brain res
+larger population
+engram --
+temporal cortex
+axonal plasticity
+final capacity
+activitydependent `weight
+pure weight
+unlike weight
+capacity assumes
+including synaptogenesis
+axonal terminals
+learning algorithms
+learning episode
+episodic learning
+learning progresses
+hippocampal-dependent learning
+connectivity matrix
+pyramidal neuron
+neurons]2/number
+neurons located
+neurons belonging
+spine synapses84
+abstract units
+dendritic remodelling
+inform unambiguously
+thin line
+tangential direction
+fuller description
+authors declare
+involve modifications
+natl acad
+binocular interaction
+wrong path
+activated persistently
+san mateo
+class-specific features
+fuller understanding
+phantom-limb pain50
+lawrence erlbaum
+weighted interconnections4­6
+behavioural training45
+electric fields61
+behavioural enrichment8
+neurotransmitter released
+use-dependent manner
+short lifetimes74
+unknown mechanisms62
+environmental enrichment
+aid robustness
+two-photon microscopy35
+firing pattern
+substantially increased
+vice versa
+modifiable parameters
+include modulation
+yellow arrow
+issues involved
+rapidly encoded
+chronic enrichment
+mglur1 alpha
+empirical study
+current thinking
+cell-to-cell redundancy
+necessarily imply
+computational subunits
+challenge faced
+visualized conveniently
+red circles
+immunogold reaction
+large scale
+pathological subcortical
+scientific american
+biomedical engineering
+fluorescent proteins75
+slow learner
+genetic disruption
+expensive proposition
+1038/nature03012 mcgaugh
+logic operations
+clinical importance
+representational redundancies
+calculation shows
+large class
+early development
+gill-withdrawal reflex
+horizontal connections65
+definitional matter
+critical period
+developmental periods
+left unchanged
+synaptic weights
+experiencedependent plasticity63
+red arrow
+computer simulations
+sparse networks
+whisker stimulation
+support `selection-at-a-distance
+pattern recognition
+future directions
+encode log2
+morphometric parameters
+late phase
+cellular substrates
+redundancy reduces
+line thickness
+parameters influencing
+important determinants
+great challenge
+involve alterations
+refer strictly
+temporal scales
+major role
+epileptic episodes
+perceptual correlate
+simultaneously reflect
+eds moody
+estimated geometrically
+los angeles
+hundred micrometres
+vast numbers
+scale bar
+perceptual fill-
+prominent role
+activated camkii
+perisynaptic membrane
+morgan kaufmann
+delayed compared
+highly relevant
+core pathways
+unique signal
+correlate strongly
+rearing complexity
+eds edelman
+brainstem contributions
+phantom-limb pain
+learning rate
+plasticity limited
+axonal arbors
+learning process
+produce ltp
+larger number
+correlated cohort
+awesome network
+larger set
+dendrite growth
+single neuron
+discuss evidence
+postsynaptic site
+existing spines
+synaptic potentiation
+synaptic modification
+learning task
+optimal rate
+axon triggers
+axon represents
+axon carries
+firing rate
+calcium channels
+neuronal morphology
+column]2/number
+neuronal subpopulations
+intracortical axons
+axons representing
+like-activated axons
+horizontal axons
+axons passing
+time-lapse imaging
+imaging technologies
+capacity advantage
+axonal varicosities
+axonal growth49
+postsynaptic response
+specific information
+task facing
+practical limitations
+obvious limitations
+functional interpretation
+spike time
+number depends
+monocular task
+structural remodelling
+specific areas
+nature neurosci
+lateralized effects
+postsynaptic expression
+synaptic strengths
+synaptic connection
+1% synapse turnover
+synapse turnover
+individual neuron
+small number
+learning system
+proper mapping
+superficial layers
+longer `wires
+theoretical methods
+digit amputation
+theoretical handle
+arm amputation
+in-principle advantage
+connectionist models
+physiological recordings
+core operation
+finer-grained mapping
+important question
+longer periods2
+contribute
+postsynaptic neuron
+assuming weight
+stable dendrites
+learning consist
+specific tasks
+limited range
+term ltp
+pairinginduced ltp
+ubiquitinproteasome system
+response properties
+abstract network
+trends neurosci
+eds levy
+generate-and-test operations21
+dramatically increase
+spine/dendrite/axon outgrowth
+analogous results
+cambridge univ
+physically maintained
+potentially connect
+alternative approach
+expected number
+monocular training
+monocular deprivation
+large number
+mechanistically linked
+moving vertically
+dynamic approaches
+behavioural training
+oxford univ
+complete description
+molecular mechanism
+wide variety
+outer cylinder
+basic modes
+mutually exclusive
+fluorescent labelling
+defining
+interdisciplinary approach
+schematic shows
+virtually hardwired
+limbs49 leads
+present discussion86­88
+active dendrites
+dendrites retain
+thin dendrites
+learning operate
+axon remodelling
+learning lead
+axonal remodelling
+special case
+peripheral injury
+southern california
+exquisitely sensitive
+steady presence
+partnership choice
+`grain size
+neuronal density
+blue arrow
+axons fire
+nature rev
+neuron selectivity
+neonatal hippocampus
+overlap exists
+green denotes
+data showing
+axons grow
+mel@usc
+elimination occurs
+limited number
+analysis
+induce ltp
+learning-induced ltp
+terms ltp
+rat
+revealed
+accepted
+memories
+similarly difficult
+field
+profound implications
+found
+dendrite outgrowth
+reasonable assumption
+dendrites grow
+pool
+signalling
+potential
+experience-dependent
+long-term
+change
+requires
+include
+storage
+presynaptic
+provide
+reorganization
+blue neuron
+connections
+activation
+stabilize
+morphological
+formed
+ten
+beginning
+dendritic
+activity
+proof
+growth
+functional
+function
+made
+problem
+visual
+spatial
+connected
+units
+machinery
+guidance
+physical
+larger
+mode
+evidence
+unit
+synaptic
+wiring
+adult
+plasticity
+interactions
+layer 4
+underlie
+calcium
+make
+flexibility
+high-resolution
+circuit
+pathways
+imaging
+synapses
+1015 synapses
+box 1
+lesions
+level
+induced
+usa 95
+long
+usa
+depends
+experiments
+memory
+synapse
+small
+nature
+nature 399
+nature 420
+nature 411
+nature 385
+nature 408
+nature 404
+nature 402
+nature 400
+nature 368
+nature 375
+structural
+properties
+search
+molecular
+stable
+dynamics
+formation
+information
+brain
+strength
+22 --
+stability
+56 --
+cortex
+cortex 14
+areas
+capacity
+weight
+including
+learning
+connectivity
+neurons
+spine
+monkeys
+red
+elaborate
+involve
+extent
+neuroscience 21
+fraction
+role
+understanding
+studies
+camkii
+pre-
+cat
+plastic
+considered
+slow
+physically
+important
+method
+finding
+`silent
+conditions
+organization
+firing
+imply
+focused
+suggests
+explain
+labelled
+filopodia
+map
+methods 111
+delivery
+periods
+network
+questions
+spines
+vivo
+rate
+axon
+neuronal
+neocortex
+animals
+process
+column
+axons
+axonal
+time
+population
+task
+limitations
+exists
+difficult
+effects
+physiological
+core
+abstract
+models
+longer
+layers
+advantage
+theoretical
+require
+data
+amputation
+case
+answers
+mapping
+issue
+area
+question
+special
+candidates
+weights
+limited
+specific
+occur
+forms
+addition
+ltp
+remodelling
+system
+neurosci
+complexity
+reasonable
+log2
+channels
+mechanistically
+approach
+terms
+cylinder
+exist
+leads
+analogous
+inputs
+levy
+exclusive
+space
+increase
+training
+deprivation
+types
+implications
+learning-induced
+maintained
+modes
+[number
+cambridge
+labelling
+complete
+technologies
+connect
+induce
+potentiation
+outgrowth
+partnerships
+turnover
+oxford
+encoding
+number
+discuss
+time-lapse
+set
+fire
+virtually
+modification
+development
+moving
+showing
+consist
+required
+issues
+operations21
+profound
+approaches
+variety
+present
+site
+cohort
+schematic
+density
+overlap
+assuming
+dendrites
+dendrite
+100 choose 10
+response
+choose
+blue
+california
+modulation
+operate
+presence
+california 90089
+choice
+grow
+expression
+size
+strengths
+injury
+assumption
+sensitive
+connection
+mechanism
+interpretation
+neuron 29
+neuron 27
+similarly
+neuron 43
+neuron 41
+neuron 15
+neuron 11
+hippocampus
+lead
+neuron 39
+neuron 37
+neuron 34
+neuron
+green
+mel
+& mel
+rev
+elimination
+consolidated
+violate
+chaigneau
+buchs
+reconstructions
+ref
+chklovskii1
+neuron27
+force
+maravall
+infancy
+consistent
+estimates
+chen
+reconstruction
+pratt
+represented
+interpret
+calculate
+hanse
+millimetres
+explained
+replace
+brought
+modulated
+mizrahi
+populations
+berlin
+hold
+lisman
+give
+harkany
+validated
+23 bits
+recovery
+answer
+fukunaga
+& malenka
+talton
+& tank
+order
+& greenough
+subpopulation
+fig
+weeks
+reilly
+& webb
+capricious
+principles
+perception
+linear
+estimate
+daunting
+vitro
+adopted
+robust
+dysfunction
+buonomano
+top
+needed
+& cowan
+gilbert
+serve
+roles
+iteration
+bridge
+& goodman
+convenient
+`generate
+& svoboda
+anatomy
+extending
+coin
+doi
+flor
+calculated
+svoboda1
+flow
+ohno
+points
+principle
+hellwig
+heuristics
+subtle
+orleans
+maturation
+curr
+silberberg
+>10 mm
+16 days
+testing
+result
+& muller
+quairiaux
+& garner
+vol 431
+hebb
+wu
+synapses79
+synapses78
+behaviour
+uncertainty
+hillsdale
+toni
+basis
+quickly
+life
+& zilberter
+science 260
+20 bits
+3­4 bits
+chklovskii
+antonini
+disappear
+digits48
+modality
+dombeck
+hand
+& squire
+genoud
+stimuli
+greatest
+identify
+molloy
+advances
+neurophysiol
+them36­39
+www
+& donoghue
+stern
+all-to-
+dendrites60
+recently
+/
+hubel
+months
+lichtman
+soc
+bound
+[1011]2/1015
+anderson
+psychol
+& whishaw
+them36
+underestimates
+& connors
+& rumelhart
+polsky
+setting
+test
+node
+picture
+assume
+necessitates
+focus
+depend
+graph
+& stryker
+environment
+consolidation
+emphasized
+neocortex41
+heynen
+& skavenski
+cost
+volkmar
+& gilbert
+baude
+receptors72
+groups
+svennenfors
+opin
+frotscher
+petersen
+domains
+inference
+rioult-pedotti
+hessler
+undergone
+live
+opposed
+cases
+& gan
+insights
+trans
+frogs
+efficacies
+beaurepaire
+mcnaughton
+& torre
+trachtenberg
+lindquist
+accelerated
+representation
+pointed
+years
+physiol
+argued
+interesting
+takahashi
+decades
+hirsh
+& katz
+developments
+martinez
+mel2 &
+neighbourhood
+shown
+lubke
+possibility
+[105]2/109
+transition
+place
+development55
+biol
+facilitation
+bits
+& morris
+cope
+brains
+eliminated
+modelled
+accessed
+gathering
+turned
+turner
+crair
+grutzendler
+answering
+note
+bailey
+buffer
+friedman
+pair
+frankland
+phil
+ratio
+& zhao
+cybern
+stabilization
+gen
+poirazi
+trade-
+svoboda
+uk
+comp
+2 bits
+concentrated
+realizable
+successes
+sparseness
+mccaig
+absence
+conceptualized
+coupled
+engaged
+malenka
+bron
+holtmaat
+electronmicroscopy10
+& segev
+relied
+rest
+identifying
+science 287
+benefit
+& siegelbaum
+& gustafsson
+nicoll
+kolb
+seconds
+drawn
+comparison
+discussed
+& bonhoeffer
+involvement
+assumed
+fates
+generation
+jones
+promote
+pull
+mertz
+quantitatively
+rewire
+& lippmann
+hebbing
+all-or-
+describe
+al
+general
+bishop
+forcing
+kandel
+track
+kaczmarek
+nelson
+represent
+sci
+skeleton
+kleinfeld
+neurobiol
+liao
+song
+prolonged
+past
+& smeyne
+brien
+jourdain
+contrast
+hours
+mcclelland
+weaning
+amount
+& turrigiano
+trained
+establish
+non-
+levene
+darian-smith
+tested
+taub
+dev
+evolved
+learn
+strategies
+mackay
+pons
+goal
+biological8­19
+maps
+cline
+& markram
+simplicity
+wiley
+kasischke
+memory-related
+cereb
+existence
+knott
+detected
+science 176
+isaac
+return
+heinen
+science 284
+science 283
+science 282
+braitenberg
+fish
+idea
+maletic-savatic
+expect
+denoted
+6 bits
+qualify
+definition
+pairs
+5 neurons12
+koh
+& sakmann
+part
+signaling
+& welker
+& hopfield
+kind
+determines
+grey
+determined
+merzenich
+gall
+built
+depending
+stepanyants
+engert
+reach
+watt
+clear
+exp
+completion
+factor
+intractable
+trees
+combinations
+inducible
+resolve
+unpublished
+& merzenich
+normalizing
+evaluation
+science 299
+science 290
+complement
+& kandel
+succeed
+distinguish
+finnerty
+consume
+yasuda
+reduction
+generating
+mind
+& chklovskii
+gap
+tessier-lavigne
+less33
+uncertain
+behavior
+century
+xiao
+kullmann
+belong
+florence
+deletion
+higher
+koch
+recent
+ltd-
+redistribution
+comprise
+& juraska
+spatially
+signals
+cui
+& wiesel
+indication
+creation
+accelerate
+pronounced
+annu
+proc
+martin
+& cline
+kerley
+& lehmkuhle
+`algorithmic
+springer
+lond
+synapses2
+bontempi
+& schiller
+nikonenko
+priori
+retract
+arithmetic
+meaning
+hanson
+sides
+failures
+inter-accessibility
+indicating
+& smith
+assignments
+configurations
+smaller
+noise
+giving
+impact
+led
+& schutz
+physiology
+chang
+manage
+decrease
+elimination71
+ziv
+hypothetically
+reflects
+science 252
+averages
+shepherd
+forest
+animal
+brannon
+realized
+light
+correspond
+14 october 2004
+complicate
+chosen
+nimchinsky
+greater
+frontal
+oertner
+subtraction
+day
+university
+identified
+society
+measure
+relates
+mediated
+induction
+york
+rajnicek
+geometry
+length
+approaching
+random22
+`interviews
+greenough
+& charpak
+retraction
+congenital
+observed
+& silva
+roberts
+lendvai
+distinguished
+faherty
+viewed
+york 11724
+apposition
+grimwood
+denk
+fact
+aplysia2
+supported
+longevity
+jontes
+poggio
+knowledge
+molecules
+fuel
+means
+oheim
+words
+thalamic
+shi
+view
+correlations
+& malinow
+operates
+state
+identification
+progress
+ability
+interfere
+hypothesis
+limits
+ehlers
+jersey
+& desmond
+coexistence
+copies
+malinow
+slowly
+& brayton
+proposal
+sufficient
+46 bits
+appearance
+hof
+& koulakov
+neurol
+cross
+parts
+& pons
+science 274
+science 279
+patterns
+comparisons
+science 304
+17 trillion
+griffith
+kalisman
+adoption
+frontolateral
+definitive
+disappearance
+sabatini
+press
+loss
+roth
+mountcastle
+works
+wasling
+shed
+proteins
+perils
+interdependencies
+holmgren
+e-mail
+rall
+illustrate
+analysed
+kirkwood
+& sanes
+kasthuri
+tamas
+& kaas
+triggered
+evident
+pin
+space54
+axonal69
+nonetheless
+markram
+chance
+298
+409­440
+536­543
+657­664
+91
+90
+1991
+1993
+1995
+1997
+1996
+1999
+1998
+551
+649­711
+9
+876­881
+­
+1857­1860
+1972
+781­793
+1962
+779­796
+16
+66­70
+621­627
+369­392
+43­64
+102
+997­1002
+977­987
+1973
+812­816
+59
+58
+55
+54
+57
+56
+51
+50
+53
+52
+224
+400­404
+371­378
+972­976
+275­288
+1819­1821
+1949
+0
+397­426
+1992
+1994
+248­251
+104­111
+1086­1101
+49
+39
+11­14
+222­226
+232
+1
+141
+148
+87
+1957
+85
+111­121
+248­249
+2
+1201­1207
+11
+10
+13
+12
+15
+14
+17
+19
+18
+533­536
+251­259
+149­186
+3
+25
+161­165
+60
+63
+64
+65
+68
+69
+50%
+500
+231­242
+269­281
+788­794
+881­883
+4
+609­617
+367­371
+66
+427­434
+2054­2064
+175­177
+5
+283­292
+210­208
+`
+1908­1912
+1
+
+2
+6
+139­153
+482­484
+1123­1133
+24
+26
+27
+20
+21
+22
+23
+28
+29
+7
+1585­1588
+99
+
+100
+
+1
+
+2
+61
+62
+1117­1121
+926­929
+854­862
+77
+76
+75
+74
+73
+71
+70
+79
+78
+325­328
+8
+419­457
+309­313
+655­664
+30
+1445­1447
+72
+354­359
+1811­1816
+467­485
+1923­1927
+421­425
+159­197
+2002
+2003
+2000
+2001
+2004
+408­434
+265­273
+38
+33
+32
+31
+37
+36
+35
+34
+&
+670­674
+105­121
+589­593
+67
+29­37
+29­32
+88
+89
+82
+80
+81
+86
+1121­1125
+1189­1205
+55­61
+195­203
+329
+591­605
+227­263
+737­740
+151­165
+10645­10649
+236­243
+47
+41
+114
+35­42
+771­787
+4732­4737
+574­591
+1987
+1984
+1985
+1982
+*
+603­636
+83
+48
+46
+44
+45
+42
+43
+40
+84

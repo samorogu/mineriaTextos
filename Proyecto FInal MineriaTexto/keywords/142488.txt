@@ -1,0 +1,285 @@
+stringent
+feedback
+Sep-tRNA
+Michelini
+Biochemistry
+Microbiology
+Phillips
+gel-electrophoretic separation
+statistical
+Assuming
+Department
+Molecular
+intrinsic fluctuations
+networks
+4Department
+isopropyl-b-D-thiogalactopyranoside
+Shen-Orr
+execution
+measuring
+sigmoidal
+run-to-run
+Similarly
+prolyl-tRNA synthetase
+Biosynthesis
+noise-tolerant synthetic
+repressor
+production
+cysteinyltRNA synthetase
+cellfree
+designing noise-tolerant
+undialyzed
+stochastic simulation
+downstream fluctuations
+correspondence
+Blackwell
+intrinsic component
+descriptive
+downstream
+permission
+dependent
+quantified
+Analysis
+Predictions
+expression distribution
+Palioura,1
+fundamental tradeoff
+cellular
+Experimentally
+difference
+32P-labeled
+conversion
+selenocysteinyl-tRNA
+Savageau
+Molecular Biophysics
+necessary
+Consistently
+transmission
+North-Holland
+Methanococcus maripaludis
+Washington
+Technische Universitat
+extrinsic fluctuations
+Escherichia
+specific
+Duplicated measurements
+transmitted
+standard deviation
+biological
+anhydrotetracycline
+Networks
+Clifford
+coefficient
+Whitman,4
+O-phosphoseryl-tRNA synthetase
+RNA-Dependent
+methanogenic
+tetracycline repressor
+sensitivity
+jannaschii cell-free
+single-cell measurements
+individual
+Methanothermobacter thermautotrophicus
+measurement
+AddisonWesley
+aminoacyltRNA
+cellular components
+susceptibility
+conclusive
+repression
+interactions
+otherwise
+symmetric
+Ehrenberg
+acylation
+respectively
+cysteinyltRNA
+approach
+integrated
+Universitat Braunschweig
+discovery
+available
+supporting
+Kaufmann
+Measuring
+aminoacyl-tRNA synthetase
+Supporting
+importance
+SCIENCE
+University
+component
+conventional
+metabolic apparatus
+understanding
+biosynthesis
+Propagation
+eukaryotic organisms
+formation
+selenocysteine
+fluctuations
+regulatory
+fluorescent
+contentious
+Ben-Haim
+O-phosphoserine
+logarithmic
+Itzkovitz
+Cambridge
+stochastic variation
+difficulty
+December
+Supported
+essential
+propagation
+Methanocaldococcus jannaschii
+HighWire
+simulations
+constitutive
+consequence
+Previous
+expression
+experimental
+self-correlation
+cysteinyl­transfer
+understanding faithful
+Copyright
+predictive
+Stochastic Processes
+Burroughs Wellcome
+cell-free
+Correlation
+Advancement
+REPORTS
+SepRS-encoding
+addressed
+determine
+proportional
+Davidson
+electrophoresis
+Columbus
+perturbation
+additional
+different intrinsic
+sequence-specific
+extrinsic
+intracellular
+trademark
+systems-level
+Downloaded
+tintrinsic
+transmitted fluctuations
+expression SCIENCE
+averaging
+analytical
+Oudenaarden
+consistent
+Association
+Alexander
+corresponding
+nonintuitive
+difficult
+D-38106 Braunschweig
+constructs
+jannaschii indicated
+environmental
+simulation algorithm
+building synthetic
+maripaludis Cys-tRNACys
+Biochemical
+translation
+concentrations unavoidable
+analogous
+single-cell
+population
+Grossman
+Machleder
+Rosenfeld
+related-content
+systematic interpretation
+Comparative
+Cys-tRNA
+6Department
+synthetase
+hydrolysis
+Engineering
+different expression
+dialyzed
+amplitude
+interaction
+following
+biochemical
+distribution
+synthesis
+5Department
+Information
+individuality
+transcriptional
+Organisms
+2Department
+fluctuation
+correction
+transmitted intrinsic
+successful formation
+discussions
+Sauerwald,1
+substantial
+expression fluctuations
+Frontiers
+concentration
+deterministic differential
+h2-IPTG
+anaerobic
+stochastic fluctuations
+Coefficient
+information
+different
+Goldbeter
+monitoring
+faithful
+Chemistry
+sensitive
+transcription
+different components
+mechanism
+cellular responses
+Cys-tRNACys
+schematic
+significant
+single-valued
+3Department
+Methanopyrus
+optimization
+uncharged
+accuracy
+independent
+February
+complementary
+modulation
+identical
+phosphoserine
+quantitative characterization
+Cys-tRNACys formation
+autocorrelation
+steady-state
+Feliciano
+Technology
+catalytic activity
+Hill-type
+aggregate
+adenosine triphosphate
+intrinsic
+Massachusetts Institute
+homology
+Paulsson
+corresponding activity
+fluorescence
+McMillen
+high-resolution
+correspond
+purification
+Accurately predicting
+correlation
+Amsterdam
+subsequent detection
+Gillespie
+noncognate aminoacyl-tRNA

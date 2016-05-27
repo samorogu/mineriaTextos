@@ -1,0 +1,266 @@
+represent
+ballistic transition
+feedback
+extrinsic components
+Abbreviations
+Deterministic
+stability
+discreteness
+expression dynamics
+Department
+fluorescent molecules
+Although deterministic
+macroscopic
+networks
+previous
+Foundation
+dissociation
+parameters
+theoretical monostable­
+technique
+Biophysics
+TMG-transporting
+subpopulation
+production
+microscopic
+Experimental
+molecules
+relevance
+stochastic
+endogenous
+correspondence
+Grossman
+individual parameters
+population heterogeneity
+combination
+important stochastic
+OFF-to-ON switching
+activation
+Measurement
+measurement
+possible
+degradation
+indicative
+cellular
+upstream
+population distributions
+nonlinearity
+difference
+association
+conversion
+magnitude dependent
+modified Gillespie
+necessary
+exponential
+transmission
+induction
+quantitative information
+integrating
+specific
+magnitude
+parameters necessary
+activity
+multiplicative
+biological
+decreasing
+essential
+induced-touninduced
+Oudenaarden*§ *Department
+predictive
+Intrinsic
+determine
+Parameters
+metabolic
+generation
+robustness
+Monte-Carlo
+prediction
+population survival
+stochasticity characteristic
+intensity
+individual
+combining
+corresponding intrinsic
+Stephanopoulos
+Parameter
+Lengeler
+Yildirim
+fractional asymmetry
+subsequent
+instantaneous
+repression
+inactivated
+ballistic switching
+Characteristic
+approach
+Escherichia
+bacterial persistence
+pioneering
+agreement
+epigenetic
+standard deviation
+respectively
+University
+predicting
+TMG-bound
+possibility
+understanding
+stochastic dynamics
+experimental distributions
+Resnekov
+intermediate concentration
+regulatory
+Fluctuations
+binomial distribution
+BIOPHYSICS
+extracellular concentration
+correlated extrinsic
+Monte-Carlo simulation
+predicting stochastic
+ON-to-OFF transition
+Cambridge
+daughter
+Oudenaarden
+Hooshangi
+simulation
+propagation
+connection
+resuspension
+represent intracellular
+Technology
+repressor
+additional parameters
+examining
+technical assistance
+probability
+transcripConflict
+Extrinsic
+Simulations
+functional
+Ertugrul
+Colman-Lerner
+Therefore
+applicability
+fluorescent
+wild-type
+proportional
+considering
+noise-induced population
+utilization
+equivalent
+equations
+extrinsic
+intracellular
+available
+interesting quantitative
+comparing
+intermediate
+ballistic
+presteadystate
+statement
+cell-tocell
+November
+molecular
+consistent
+synthesis
+Comparison
+Additionally
+population distribution
+intracellular environment
+sufficient
+continuous
+Thiberge
+precision
+Muller-Hill
+environmental
+simulation algorithm
+transient
+intermediate distributions
+translation
+integrated experimental
+equilibrium distribution
+single-cell
+population
+measuring
+approximation
+Rosenfeld
+explicit molecular
+fluorescence
+stochastic component
+respective lowercase
+MathWorks
+characterization
+Ozbudak
+stochastic simulation
+preparation
+different expression
+fruitful discussions
+Nobelmann
+biochemical
+distribution
+Alexander
+Demonstration
+identical
+steady-state population
+generality
+Furthermore
+Histograms
+characterize
+Kaufmann
+calibration
+analytical stochastic
+experimental dynamics
+deterministic differential
+distributions
+absolute
+Development
+different
+faithful
+multistability
+sensitive
+effective inactivation
+transcription
+transmembrane
+Steady-state
+potential
+activator
+parameter
+low-noise
+difficult
+independent
+extended
+calculating
+GM068957
+comprehensive
+Discussion
+published
+Stochastic Measurements
+variation
+hysteresis
+polymerase
+steady-state
+important
+Derivations
+implementation
+deterministic equations
+supporting information
+intrinsic
+cell-to-cell variability
+Massachusetts Institute
+destruction
+significant cell-to-cell
+Paulsson
+computational approach
+effective
+noteworthy
+Conversely
+monostable
+stochastic switching
+extraction
+analysis
+paramMettetal
+principle
+correlation
+thiomethylgalactoside
+stochastic cellular
+original

@@ -1,0 +1,946 @@
+biological sciences research council provided financial support
+hgdp-ceph human genome diversity cell line panel
+detecting interregionally diversifying natural selection
+computed local false discovery rates
+high resolution interpolated climate surfaces
+recent large scale genetic analyses4­7
+spatially explicit stochastic population model
+human phenotypic variation
+andrea manica1
+347
+
+©2007 nature publishing group
+
+letters
+
+nature
+false discovery rate procedure24
+geography predicts neutral genetic diversity
+francois balloux2 & tsunehiko hanihara3 ¸
+backwards stepwise elimination selected
+gave similarly good fits
+346
+©2007 nature publishing group
+
+nature
+late pleistocene human skull
+recently received empirical support4­6
+present day modern humans2
+348
+©2007 nature publishing group
+
+doi
+erase ancient demographic signals
+require substantial land bridges
+global climatic gis layers
+major human population groups
+south american populations carrying 64%
+modern human cranial form
+geographically explicit genetic model
+serial founder effect originating
+modern human populations disperse
+modern human origins --
+total within-population phenotypic variability
+©2007 nature publishing group
+competing financial interests
+spatially explicit simulations
+large genetic data set
+backwards stepwise elimination
+1038/nature05951
+
+methods
+data sets
+geographic distance revealed outliers
+implying natural selection17
+phenotypic variability versus distance
+modern human colonization
+hgdp-ceph data set
+neutral microsatellite markers5
+ad hoc removal
+variance/ covariance matrix
+worldwide human-settlement history
+lighter colours represent
+differential gene flow
+development core team
+modern applied statistics
+supplementary table s4
+supplementary table s1
+supplementary table s2
+supplementary table s3
+exceptional data set
+smaller data set
+human genetic differentiation
+human craniometric heritabilities
+789 autosomal neutral microsatellites
+789 neutral autosomal microsatellites
+saga medical school
+dbayesian information criterion
+nasion prosthion height
+author information reprints
+solid line represents
+highest intra-population diversity
+large data set
+early modern humans
+modern humans originated
+human skull variability
+standardized phenotypic variance19
+craniometric inter-population differences
+anatomically modern humans
+major human populations
+genetic data set
+additional data set
+modern human origins
+minimal model including
+cambridge cb2 3eh
+cambridge cb2 3ej
+make clear predictions
+yielded mixed results8­12
+metric dental variation
+worldwide hla class
+within-population cranial variability
+within-population phenotypic variability
+nonafrican origin capable
+male data set
+key climatic variables
+observed smooth loss
+imply progressive loss
+ancient demographic signal
+phenotypic data sets
+putative origin giving
+includes 971 individuals belonging
+smoothing spline approach
+female data set
+phenotypic variability analogous
+strongest cline originates
+analytical framework equivalent
+heterozygosity declines monotonically
+global land areas
+include south africa
+global genetic analyses
+standardized values divided
+standardized phenotypic variance
+strong demographic signal
+skull measurements correlate
+putative locations improved
+maximum likelihood estimation
+minimum sample size
+ancient population bottlenecks
+putative african origin
+methods summary
+thirty-
+morphometric cranial measurements
+support multiple origins
+model including distance
+genome res
+biological perspectives
+provided elsewhere15
+average annual precipitation
+individual cranial measurements
+realistic geographic distances
+minimal climate model
+potential origins distributed
+single origin model
+compared patterns found
+remarkably strong effect
+1038/nature05951
+
+letters
+showing patterns similar
+modern humans2
+human diversity
+anatomically modern
+666 male skulls drawn
+666 male skulls measured
+30 arcsec resolution
+land bridges
+recent tests
+hgdp-ceph panel21
+supplementary information
+modern humans
+neutral variability
+human revolution
+demographic signal
+regression line
+cranial data
+human populations
+morphometric data
+minimal model
+founder events
+global pattern
+mixed results8­12
+received 8 january
+recently derived25
+blue line
+major cline
+genetic data
+craniometric data
+phenotypic diversity
+climatic variables
+standardized subsets
+genetic diversity
+putative cradle
+skull shape
+``considerable support
+craniometric diversity
+cranial variability
+geographic origin
+skull measurements
+phenotypic variability
+genetic variability
+maps showing
+ancient demography
+remarkably strong
+correlate significantly
+saga 849-8501
+nasal height
+permissions information
+analytical approaches
+african model
+archaic humans
+0 phenotypic variance
+phenotypic variance
+37 morphometric characteristics
+south africa
+genetic factors
+genetic structure
+genetic variation
+37 cranial measurements
+cranial measurements
+19 july 2007
+
+letters
+potential origins
+linear model
+full model
+phenotypic measurements
+craniometric variation
+craniometric measurements--
+morphometric measurements
+data analysis
+model selection
+individual responses
+multiple exoduses
+geographic distance
+single connection
+african origin
+craniometric measurements
+00 3 male slope
+genetic traits
+climate data
+craniometric origins
+multiple origin
+important role
+small amplitude
+authors declare
+william amos1
+figs 2a
+slight difference
+estimate g0
+r159­r160
+latest version
+median size
+parsimonious explanation
+exact timing
+fdrtools package
+robustbase package
+visual inspection
+localized episodes
+important step
+matched molecular
+explained variance
+malaysian peninsula
+nested tests
+maximum temperature
+natl acad
+noticeable difference
+morphological basis
+standard deviation
+central/southern part
+heritable variation
+variance explained
+explain variance
+unequivocal answer
+large number
+scenario implies
+minimum temperature
+am315@cam
+relative contribution
+destabilize canalization
+downing street
+statistical computing
+robust regression23
+upper limit
+archaic human-
+zygomaxillary subtense
+homo sapiens
+mhc genes
+close relatives
+monotonic decrease
+online version
+quantitative variation
+compare hundreds
+formulate exact
+suitable envelope
+previous versions
+primary cline
+heated debate1
+5 degrees latitude/longitude
+os incae
+panel
+lambda-opisthion chord
+bering strait
+explanatory power
+upper ceiling
+sampling process
+infectious diseases26
+strong pattern
+considerable debate1­3
+`single origin
+factors select
+single origin
+statistical significance
+anthropological evidence1
+african populations
+individual measurements
+male skulls
+additional predictor
+multiple origins
+real origin
+main origin
+full methods
+pathogen-driven selection
+skulls older
+measurements included
+multiregional model
+individual traits
+female slope
+mid-oceanic populations
+mainland populations
+island populations
+non-african origins
+select origins
+climate variables
+adding distances
+climate model
+female skulls
+579 female skulls
+robust regression
+estimates based
+studies point
+strongest relationship
+genomewide studies
+biased estimates
+multiple testing
+predictor variable
+conservative approach
+statistical analysis
+single location
+alternative models
+linear models
+multiregional scenario
+main continents
+precise location
+archaeological perspectives
+equivalent values
+princeton univ
+response variable
+average precipitation
+r2/ h2 5 0
+starting point
+avoid areas
+trait affected
+partially determined
+shortest route
+find evidence
+similar analysis
+mm-estimators23 fitted
+central/southern africa
+africa explains
+africa ca
+africa accounts
+similar models
+measurements showed
+eds mellars
+duplicated samples
+authors argued
+000 years ago
+supporting ray
+binomial test
+dimensionless measure
+fitting distances
+multiregional hypothesis
+nature
+rapid expansion
+effectively assuming
+evolution int
+clines detected
+geography
+signature left
+africa hypothesis
+fitted models
+east africa
+increasing distance
+population
+support
+identical results
+large
+measurement coefficient
+sets
+data
+cranial
+fits
+climatic
+doi
+land
+diversity
+humans
+phenotypic
+genetic
+microsatellites
+model
+signal
+variability
+single
+male
+666 male
+realistic
+equivalent
+strong
+predictions
+minimum
+cline
+represents
+size
+class
+distributed
+areas
+variance
+estimation
+outliers
+analyses
+cambridge
+thirty-
+maximum
+variation
+origin
+selection
+skulls
+245 skulls
+methods
+measurements
+579 female
+female
+computed
+loss
+similar
+105 populations
+populations
+54 populations
+39 populations
+origins
+find
+average 19­25%
+average
+precipitation
+evidence
+distances
+traits
+estimates
+studies
+15 individuals
+regression
+579 individuals
+measured
+drawn
+patterns
+bottlenecks
+approach
+hypothesis
+analysis
+predictor
+multiregional
+`multiregional
+models
+effect
+assuming
+blue
+increasing
+values
+response
+detected
+found
+int
+continents
+route
+signature
+clines
+determined
+fitting
+heterozygosity
+princeton
+34 showed
+testing
+location
+east
+affected
+effectively
+left
+rapid
+identical
+archaeological
+avoid
+expansion
+h2
+evolution 53
+starting
+climate 0
+climate
+fitted
+africa
+distance
+000 distance
+argued
+mellars
+number
+000 years
+ray
+coefficient
+19 july 2007
+samples
+measurement
+locations
+results
+measure
+test
+relationship
+sci
+/nature
+focus
+cameron
+environment
+finally
+excluded
+goudet
+indicating
+& ishida
+& excoffier
+phenotypes
+lahr
+anat
+level
+frankham
+resorting
+prediction
+sss
+
+0
+enclosed
+estimated
+science 298
+ramachandran
+expressed
+hanihara
+inferences
+contrast
+relationships
+led
+genet
+represented
+obtained
+climatol
+suggests
+prugnolle
+& caspari
+inbreeding
+brauer
+composed
+technique
+rosenberg
+proportion
+marked
+/reprints
+plot
+2department
+levant
+scenarios
+& tibshirani
+corrected
+tested
+springer
+vienna
+& balloux
+males
+f1
+heredity 78
+figure
+sought
+predictors
+provide
+s-
+map
+nph
+typed
+wiley
+minimized
+explored
+reassessment
+computations
+deterioration
+parra
+undetected
+interpreted
+paper
+london
+japan
+fig
+heteroskedasticity
+correspondence
+foundation
+evol
+material
+units
+university
+classified
+magnitude
+2b
+melanesia
+series
+globe
+idea
+expect
+burnham
+rev
+investigation
+venables
+ref
+correct
+red
+harbours
+interactions
+york
+org
+pairs
+interaction
+r2
+dispersal
+americas
+altitude
+biol
+quality
+introduction
+berthier
+top
+hawks
+carson
+isolation
+grey
+sinai
+enforced
+correction
+grine
+strength
+depending
+liu
+hum
+science 313
+science 315
+trace
+iceland
+anatomy
+accepted 22
+significant
+assessed
+acknowledgements
+considered
+atypical
+km
+playing
+accounted
+fowler
+subtly
+show
+supported
+recovering
+nlh
+1 department
+impact
+ratio
+occ
+failed
+comparison
+admixture
+eurasia
+connections
+account
+sss
+hijmans
+investigate
+intervals
+predicted
+view
+relethford
+detection
+identified
+migration
+discussions
+chose
+arguably
+extent
+distinguish
+improve
+dbic 5 22
+fit
+acknowledge
+sexes
+context
+requests
+unclear
+boas
+cv
+decline
+estimating
+bic28
+collected
+ann
+determinant
+3department
+reliable
+& ripley
+roseman
+goodness
+disappointing
+bias
+accounting
+manica
+ethnicity
+& blangero
+null
+linked
+potentially
+difficult
+investigated
+hand
+figure 1
+figure 2
+figure 3
+figure 4
+usa 100
+rec
+materials
+comparisons
+looked
+africa4­7
+storey
+press
+identify
+usa 102
+continent
+mirrored
+found18
+collard
+australia
+vol 448
+providing
+bic
+usa 103
+world
+usa 101
+r2 5 0
+correcting
+interestingly
+addressed
+dbic 5 212
+crawley
+www
+phys
+investigating
+genetics
+confirm
+purple
+wolpoff
+hofmeyr
+centroid
+proc
+genotypes
+& stringer
+oceania5
+references
+rare
+range
+insufficient
+presence
+landmasses
+zoology
+madagascar
+area
+r30
+specifically
+r2/h2 5 0
+fraction
+slopes
+land5
+analyse
+repeated
+properly
+owing
+made
+currat
+frequency
+uk
+distribution
+discriminate
+ac
+curr
+subtracting
+influence
+al
+reliability
+trinkaus
+females
+defines
+detail
+& whitlock
+details
+anthropol
+scored
+repeat
+shown
+wordclim27
+allowing
+jones
+heritability
+lead
+searched
+biotechnology
+& anderson
+annu
+& jarvis
+2 0
+012
+0
+1994
+701­707
+198
+279
+169­180
+105
+30
+36
+34
+311­327
+3%
+4 0
+5 1
+6
+10
+0
+1990
+1997
+1998
+1
+1022­1027
+23­56
+62­108
+8 0
+287­298
+131
+24
+25
+27
+20
+22
+23
+29
+000 35
+000 30
+06 0
+00 0 10
+87%
+2381­2385
+5­25
+24 6 0
+15942­15947
+7
+21
+0 0 5
+01 0
+2
+1999
+11
+13
+12
+15
+14
+17
+16
+19
+1%
+03 0
+9440­9445
+6 0
+20 0
+17­35%
+70
+79
+129­136
+000
+
+2
+230­237
+5 0
+8
+10
+128
+02 0
+18
+06
+3
+0%
+366­371
+137­152
+26
+05 0
+1143­1156
+28
+60
+62
+36 5 124
+207­230
+1161­1167
+000 15
+000 10
+9
+08 0
+796­800
+001
+000
+2002
+379­386
+4
+56
+25 6 0
+226­229
+112
+05
+0
+118
+10 0
+12824­12829
+77
+15 0
+9381­9386
+1989
+04 0
+1965­1978
+5
+2007
+9%
+2005
+841­847
+000 20
+2003
+2000
+2001
+2006
+000 25
+2004

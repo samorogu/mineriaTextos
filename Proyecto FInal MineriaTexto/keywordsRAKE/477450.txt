@@ -1,0 +1,1492 @@
+saccharomyces cerevisiae cortical actin patch protein rvs167p
+recreate numbers approximating physical measurements purely
+analyzing yeast protein­ -protein interaction data obtained
+exponentially growing haploid yeast strains grown
+1038/nature04532
+
+articles
+proteome survey reveals modularity
+saccharomyces cerevisiae rna-binding protein rbp29 functions
+/ nf-kb signal transduction pathway
+de novo sphingoid base biosynthesis
+baits
+
+© 2006 nature publishing group
+
+635
+
+articles
+
+nature
+heat-induced transient cell cycle arrest
+a-ketoglutarate dehydrogenase complexes show similar phenotypes
+lpd1 gene encoding lipoamide dehydrogenase
+eukaryotic translation initiation factor 4g
+cytoplasmic messenger rna 3 0 -to-5 0 decay28
+jji¼bait ¼ log bait prey prey
+serine palmitoyltransferase complex lcb1­lcb2
+© 2006 nature publishing group
+
+631
+
+articles
+
+nature
+633
+
+© 2006 nature publishing group
+
+articles
+
+nature
+yeast cell machinery
+anne-claude gavin1*
+shared proteins play wider roles
+human protein­ -protein interaction network
+found 20
+
+© 2006 nature publishing group
+
+nature
+physically determined eukaryotic cellular machines
+previous high-frequency filtering strategies8
+cell cycle co-regulated genes found
+tailless complex
+
+1 ´ cellzome ag
+yeast nuclear cap binding complex
+fi fj nprey ðnprey 2 1þ=2
+supplementary figs s2­s5
+© 2006 nature publishing group
+
+nature
+potential upstream control sites
+translation initiation complex eif4g
+large-scale yeast two-hybrid studies12
+core components represent functional units
+multidimensional protein identification technology
+individual gene products form
+16 showed similar phenotypic patterns
+integrate multiple gene products
+mutually exclusive cap-binding modules
+assessing protein interaction data
+identified 87 mutually exclusive modules
+supporting previous genetic evidence
+generic protein purification method
+a-ketoglutarate dehydrogenase complexes43
+phenotypically derived gene function
+experimentally determined protein complexes
+protein sequences/saccharomyces genome
+632
+
+database
+large protein interaction networks
+975 differentially expressed genes derived
+genetic data interaction networks
+¼ log@ prey prey
+636
+
+© 2006 nature publishing group
+translation factor eif4g
+exponentially growing yeast19­21
+200 human phosphoproteins reveals
+lipoamide dehydrogenase subunit
+mediate translation initiation
+ni¼bait 0 1 prey ni
+evidence supporting complex organization
+yeast 14-3-3 protein bmh2
+organization structure proposed previously
+protein­ -protein interactions
+accession numbers ebi-768904
+finding overlooked genes
+manually curated group
+supporting previous reports
+30 march 2006
+
+articles
+
+components
+yeast two-hybrid system
+de novo invention
+individual integrative subsystems--
+heat shock response--trehalose
+naturally discriminates true
+employed standardized protocols
+specific post-translational modifications
+open reading frames
+false-positive/ negative rates
+edc3­dcp1­dcp2
+lars juhl jensen2
+risc requires xrn1
+de-adenylation-dependent mrna degradation
+russell2 & giulio superti-furga1
+charite campus mitte
+rvs161­rvs167 amphiphysin-
+competing financial interests
+akr1 palmitoyl transferase
+m7 guanosine cap
+anti-fungal drug discovery
+predicted 14-3-3-binding motifs
+heat stress response32
+supplementary table s2
+similar coordinated control
+protein interaction verification
+pheromone response pathway
+de-adenylation-dependent rna degradation
+messenger rna occur
+yeast twohybrid experiments
+purification dropped asymptotically
+published online 22 january 2006
+prepared protein extracts
+yeast saccharomyces cerevisiae
+30 march 2006
+
+articles
+
+figure 5
+spurious interactions involving
+eukaryotic cellular machinery
+authors contributed equally
+microarray analyses15 showed
+line attribute corresponds
+tandem-affinity-purification method coupled
+omnipotent metabolic phosphopartners
+grouped similar complexes
+supplementary table s4
+supplementary table s3
+ap1 adaptor complex
+complex relied heavily
+mrna de-capping complex
+bro1­snf7 complex
+munich information center
+require precise organization
+key molecular entities
+tandem affinity purification
+nucleic acids res
+attachment protein kem1
+de novo characterization
+additional 300 core machines
+similar copy number
+cytoplasmic processing bodies
+additional biological data14­16
+yeast cellular machinery
+axes show modules
+de novo definition
+iii large-scale analysis
+author information purification
+require energy-driven conformational
+underlying organizational principles
+special protocol provided
+module gyl1­gyp542
+quality controlled set
+golgi vesicle trafficking
+technologies enable predictive
+peripheral membrane machinery
+dynamic complex formation
+represent non-stoichiometric components
+phenotypic data mapped
+assigning binary interactions
+protein­protein interactions
+nuclear capbinding complex
+coordinate cellular functions
+perform cellular functions
+bridging structural biology
+published online 29 march 2005
+slightly poorer accuracy
+significantly decreased accuracy
+probing protein-complex architecture
+protein complex purification
+993 unique tap-fusion proteins
+direct physical contact
+integral membrane components
+author inferred complexes
+capture sequential events
+dotted lines show
+vacuole protein sorting
+ms protein identifications
+yeast cell cycle
+global network analysis
+common control mechanism
+cellular processes mediated
+modified purification procedure
+average dispersion ranges
+supplementary table s1
+define protein-complex architecture
+complex biochemical properties
+discrete functional stages
+jji¼bait þ si
+data set enabled
+shuffling functional modules
+sharing functional modules
+protein complex characterization
+define complexes computationally
+capture architectural details
+cytoplasmic mrna metabolism
+genome-wide protein abundance
+yeast metabolic pathways
+cellular proteins partitions
+showed high indices
+preys prey retrieved
+matrix model term
+gene numbers
+methods
+experimental procedures
+affinity purification methods
+additional attachment proteins
+termed `complex isoforms
+identified proteins show
+metabolic enzymes involved
+complete ski complex
+finding molecular complexes
+single clustering step
+profile similarity supported
+complexes recovered suggests
+000 core human complexes
+complex cores ranged
+biological data integration
+interactions observed repeatedly
+prey total number
+core­module interactions
+high socio-affinity indices
+prey prey
+procedure partitions proteins
+partially recovered cct
+interaction network
+initial matrix values
+expect protein-complex cores
+essential protein complexes
+applied cluster analysis
+spoke model terms
+core­module cross-talk
+generate protein-complex sets
+coverage varied considerably
+nature cell biol
+lcb1­lcb2
+protein machines
+group expressed
+saccharomyces cerevisiae
+yeast strains
+retrieved complexes components
+jji¼bait
+protein structure
+genetic interactions
+fundamental units
+subsequent binding
+gene knockouts
+macromolecules physically
+cap-dependent translation
+direct interaction
+genome res
+affinity purification
+protein networks
+cellular machinery
+potential functions
+growing list
+yeast proteome
+protein interactions
+eukaryotic cells
+interaction interfaces23
+arrows show
+bar show
+protein abundance
+suggesting screen saturation
+cap-binding complex
+molecular machinery
+purification data
+phenotypes shared
+additional functions
+biochemical properties
+sporulation genes
+genetic evidence25
+large-scale screens
+human tnf-
+human cells34
+cytoplasmic functions
+complex components
+indices capture
+binary interactions
+supplementary information
+complex data
+cellular functions
+pheromone response
+cell cycle
+yeast phenotypes38
+budding yeast
+strongly supporting
+rna metabolism35
+cell machinery
+protein-complex architecture
+ski complex
+functional organization
+growing collection
+nature biotechnol
+metabolic enzymes
+direct contact
+core components
+individual complexes
+`reverse purification
+online version
+genome sequencing
+14-3-3-affinity purification
+ni¼bait
+amino acids
+tandem-affinity purification
+networks tend
+protein fate
+protein acylation
+six-transmembrane-segment protein
+protein synthesis
+sec1/munc18 protein
+protein akr1p
+protein sequences
+partially found
+transcriptional control
+protein modules
+de lichtenberg
+protein-complex variations
+cellular machines8­11
+cellular requirements
+cellular processes
+authors declare
+automated method
+phenotypic signature
+structural analysis14
+high salt
+physical association
+jjj¼bait þ
+coordinated production
+phenotypic profiles
+pre-mrna processing
+general attribute
+differentially combine
+initial list
+expect significant
+dotted lines
+data analysis
+modules showed
+/t-snare complex
+complex components38
+single complex
+complex assembly8
+complex lie
+complex sets
+complex binds
+functional similarity
+proteome averaged
+estimated proteome
+functional classes
+functional category
+functional categories
+proteome exploration
+functional map
+genome-wide characterization
+genome-scale data
+proteomics data
+nuclear cbc
+sensitivity phenotypes
+red
+
+represent
+biological phenomena
+raw data
+data set
+biological activity
+biological processes
+attachment proteins
+cap-binding proteins
+permissions information
+molecular medicine
+experimental stringency
+systems biology
+binary interactions26
+organization level
+molecular rationale
+form partnerships
+intact database
+systematic identification
+pheromone receptor-coupled
+ski module
+molecular biologists
+modular organization
+experimental strategy
+multiple complexes
+protein complexes
+protein localization
+4
+protein complexes
+protein expression
+cellular function
+suggest functions
+global analysis
+subunit orientation
+complete linkage
+gb subunit
+complete medium
+socioaffinity indices
+complex
+
+figure 1
+cellular metabolism
+bait proteins
+large percentage
+recovered automatically
+spoke model
+modular architecture
+matrix model
+cytoplasmic eif4f
+30 march 2006
+
+polypeptide 1
+socio-affinity indices
+retrieved repeatedly
+dynamic view
+preys observed
+analysis represents
+integrated analysis
+analysis makes
+comprehensive analysis
+systematic analysis
+bioinformatics analysis
+proteins involved
+cell transport
+cell fate
+genome-wide screen
+simplify temporal
+tap-tag cassettes
+regulatory mechanisms
+¨ christina rau1
+dashed lines
+preventative medicine
+entire systems
+tentative correlation
+near-physiological conditions4
+andreas bauer1
+subcellular localizations
+subcellular locations
+malgorzata schelder1
+gerard drewes1
+austrian academy
+proper formation3
+angela edelmann1
+trimeric receptor
+current approaches
+previously described8
+cct microcomplexes
+architectures hinted
+gene-to-phenotype relationships
+definitive set
+multiply functionality
+martina marzioch1
+bernhard kuster1
+phenotypic effects
+cluster generation
+ankyrin repeat-
+phenotypic effect
+d41­ -d44
+build polypeptides
+tif4632­cdc33
+sonja bastuck1
+gitte neubauer1
+plant 14-3-3s
+gradually eroded
+­mass spectrometry
+markus schirle1
+tight associations
+module combines
+evolutionary conservation
+greater heterogeneity
+christian hoefert
+anne-marie michon1
+matrix representing
+define clusters
+bmc bioinformatics 4
+// web
+received 17 october
+mass spectrometry
+manuela hudak1
+integrated approach
+absolute abundances
+powerful integrators
+marie-anne heurtier1
+georg casari1
+oc program
+macromolecular organization2
+homotypic fusion
+markus boesche1
+living matter
+trends genet
+shaded cells
+birgit dumpelfeld1
+ribosome biogenesis
+growth defect
+gsuperti@cemm
+endoplasmic reticulum
+clustering parameters
+sean hooper2
+nucleotide sequence
+arbitrary thresholds
+russell@embl-heidelberg
+pozuelo rubio
+physiological states
+promiscuous partners
+mrnas targeted
+low phosphate
+directly inferable
+neutral trehalase
+slow growth
+patrick aloy2*
+dissociation constants
+toxicity modulation
+transcriptional regulation36
+phylogenetic conservation
+metabolites central
+1 1 1 verena hoffman
+homologous recombination
+accepted 15 december 2005
+recent findings
+three-dimensional structures
+peer bork2
+paola grandi1
+systematic tagging
+mass spectrometry6
+karin klein
+tatjana rudi1
+roland krause1
+shaded circles
+iterative clustering
+drastically affected
+escherichia coli
+plain lines
+future exploration
+explicitly avoided
+module suggested
+de-adenylated mrnas
+efficient means
+proteome-scale map
+marita remor1
+small-scale analysis27
+systematically monitored
+tewis bouwmeester1
+schumannstrasse 21/22
+tag interferes
+carboxy termini
+protein-complex cores
+30 march 2006
+
+figure 4
+call `modules
+complex 281 captured
+retrieved preys
+functional genomics
+functional annotation
+proteins identified
+membrane proteins
+recovered proteins
+attachments showed
+present partially
+socio-affinity threshold
+modularity matrix
+general procedure
+procedure increased
+iterative procedure
+high coverage
+protein pairs
+global view
+complete collection
+subunit composition
+well-studied proteins
+create proteins
+abundant proteins
+coregulated proteins
+tap-tagged proteins
+orthologous proteins
+rarest proteins
+proteins studied
+proteins central
+cores involved
+cell metabolism
+direct link
+related enzymes
+tagged bait
+defining complexes
+localization studies19
+alternative complexes
+successfully purified 340
+studying complexes
+parameters resulting
+successfully purified 1
+prior knowledge
+expression levels
+greatest degree
+index accounts
+complexes run
+partial knowledge
+supplementary fig
+clustering conditions
+suggesting coherence
+growth conditions
+present address
+socio-affinity index
+present initially
+strong tendency
+prokaryotic sequences
+distinct families
+pair-wise matrix
+highly reminiscent
+structure-based assembly
+module composition
+chaperone assistance
+defence argue
+group
+wide range
+small compared
+subtle differences
+rational models
+rough approximation
+repeated clustering
+growth relative
+random behaviour
+vary extensively
+systematic interpretation
+clustering type
+examples highlight
+spatial regulation
+inspection revealed
+largest collection
+total number
+components/total number
+direct role
+accuracy/ coverage
+determined
+literature mining
+tap­ms
+extrapolation based
+prey
+proteins present
+strong links
+structures required
+annotated function
+eukaryotic
+penalty values
+time adding
+interaction
+single purifications
+performing 139 purifications
+conditions generated
+physical
+roles
+nprey
+signal
+measured reproducibility
+lpd1
+5 0 cap
+strains
+attachments present
+times resulting
+nth1 contained
+yeast
+supporting
+rna 11
+nature 425
+nature
+nature 437
+nature 411
+nature 415
+nature 403
+nature 433
+cytoplasmic
+shared
+baits
+protein
+control
+de
+interactions
+showed
+bait
+integrate
+proposed
+evidence
+components
+method
+derived
+14-3-3
+complex
+complex 490
+complex 64
+complex 437
+proteome
+data
+represent
+phenotypes
+nuclear
+form
+database
+organization
+expressed
+identification
+found
+functions
+characterization
+architecture
+identified 36
+model
+40 membrane
+recovered
+identified
+core
+ni
+30 march 2006
+analysis
+cell 6
+cell 9
+cell 92
+cell
+cell 15
+cell 16
+similarity
+total
+ms
+principles
+terms
+module 78
+cross-talk
+stages
+values
+module 115
+s1
+trafficking
+bmh2
+enable
+events
+cct
+conformational
+`matrix
+definition
+common
+set
+essential
+integration
+clustering
+single
+provided
+occur
+lines
+`spoke
+matrix
+supported
+processes
+module
+sets
+previously
+vacuole
+pathways
+modules
+`socio-affinity
+socio-affinity
+procedure
+modularity
+screen
+figure 3
+methods
+methods 24
+78% accuracy
+accuracy
+figure 2
+observed
+function
+000 proteins
+proteins
+1­23 proteins
+resulting 5
+complexes
+applied
+metabolism
+isoforms
+48 complexes
+si
+491 complexes
+þ ¼ si
+expression
+217 complexes
+62 complexes
+localization
+20 complexes
+index
+degree
+varied
+knowledge
+purified
+saturation
+details
+88% retrieved
+retrieved
+suggesting
+conditions
+view
+present
+approximation
+genomics
+type
+interpretation
+vary
+effects
+average 3
+annotated
+random
+sporulation
+pair-wise
+reproducibility
+differences
+models
+reminiscent
+annotation
+average
+relative
+captured
+eif4f
+assembly
+defence
+distinct
+association
+generation
+generate
+regulation
+measured
+assistance
+composition
+examples
+range
+link
+generated
+collection
+related
+20 revealed
+634
+
+contained
+tendency
+prokaryotic
+effect
+combine
+repeated
+compared
+number
+attachments
+6 cores
+cores
+80% coverage
+coverage
+40% coverage
+83% coverage
+nth1
+literature
+tap
+clusters
+based
+required
+links
+biol
+percentage
+time
+tagged
+role
+penalty
+pairs
+552 purifications
+times
+purifications
+fig
+& hannun
+kemmeren
+cacl2
+boxed
+replication
+progression
+tip20
+consistent
+benomyl
+deemed
+database22
+ebi-765905
+ethanol
+study
+coexpressed
+complex--
+500 copies
+counts
+circumvent
+robertson
+/reprintsandpermissions
+kumar
+work
+rna29
+looser
+provide
+brunak
+coloured
+types
+attempt
+order
+highlights
+& hogue
+combination
+barton
+endosome
+series
+goh
+mason
+combinatorial
+associate
+estimate
+created
+cell19
+4center
+hood
+similarly
+biochem
+2a­
+seek
+chem
+-
+established
+germany
+cycloheximide
+assessed
+acknowledgements
+doi
+calculated
+principle
+notion
+lethal
+situations
+uetz
+stability24
+report
+//www
+-63 ghaemmaghami
+weak
+ring-
+& sachs
+1090 vienna
+expected
+oppenheim
+meyerhofstrasse 1
+property
+uni-frankfurt
+sehnke
+materials
+refs 17
+assigned
+identify
+similarities
+rual
+5d
+5f
+5a
+reuse
+possibly
+clustered
+usa 101
+dsl1
+schub
+steps
+www
+acad
+& izaurralde
+s6b
+s6a
+31 appeared
+hydroxyurea
+shamir
+bold
+3mpi-mg
+opin
+ensure
+terminology
+lacked
+presence
+jens
+pair
+support
+coenzymes
+fraction
+lowest
+removes
+incorporation
+absent
+ste4
+conserved
+generally
+jenkins
+& shi
+& dawes
+remarkable
+cdcl2
+ygr145w
+environment
+mpi-ib
+2embl
+targets
+scaffold
+groups
+lazarettgasse 19
+domains
+studies
+vma2
+vma5
+vma6
+stke 2000
+centrality
+bender
+encode
+weisbrodt
+caution
+euroscarf
+predict
+performed
+redundancy
+processed 52
+s7
+applications
+orban
+purify
+stability
+peterson
+encompasses
+platform
+lethality
+correspondence
+rapamycin
+vma10
+upgma
+pleiotropy
+begley
+& yates
+authenticity
+reprints
+er
+shown
+space
+increase
+correct
+microbiol
+orf
+milburn
+000 copies
+000 samples
+size
+re-engineer
+barabasi
+1126/stke
+exosome
+huh
+washburn
+transcription
+sciences
+ideal
+considered
+uk/intact/
+ratio
+proportion
+thompson
+complex41
+gen
+summary
+paper
+mewes
+jeong
+oeaw
+5 0 ­3 0 exonuclease
+conditions38
+ji
+bader
+iterations
+orfs
+detected
+sheth
+combined
+direction
+formed
+& andrews
+case
+complexes22
+bias
+parts-list
+transcription--
+html
+wolters
+localization20
+subunits
+gavin
+struct
+ross
+wahle
+embl
+phelps
+embo
+mol
+dezso
+serves
+sec39
+dudley
+notably
+& lewis
+assemble
+comparison
+2j
+inclusion
+re-evaluation
+deposited
+arranged
+alberts
+ac
+al
+colwill
+briefly
+rigaut
+signalling
+sci
+ferreira
+99 soluble
+chaperonin-
+norm
+jensen
+morley
+phosphorylation
+co-localized
+caffeine
+thickness
+component
+sec20
+finally
+decapping
+tested
+//yeastcomplexes
+& ideker
+suggestions
+species
+sphingolipids
+ensemble
+absence
+pyruvate
+& oltvai
+co-purify
+2e
+2f
+2g
+2h
+2i
+referred
+energy
+artavanis-tsakonas
+robert
+& ferl
+galactose
+woolford
+plants33
+instances
+leading
+interact
+lauffenburger
+part
+winstall
+janse
+majority
+populate
+measures
+kao
+ufe1
+cover
+organism
+machines--
+connections
+preparing
+3a
+investigate
+liou
+recently
+aloy
+rav1
+modelling
+1038/msb4100004
+reliable
+replaced
+guide
+elucidation
+use1
+& jones
+puig
+deletion
+kraynack
+466 orfs
+assignment
+mips
+deleted37
+synopsis
+hygromycin-
+3 0 end
+showing
+& lin
+dsl3
+addressed
+proc
+pe1
+proportional
+& parker
+tcp1
+tip20p
+kuhn
+export30
+curr
+defined
+bouwmeester
+edwards
+reasoned
+rescued
+& barabasi
+heath
+10117 berlin
+sgn1
+& church
+butland
+plays
+giving
+3c
+3b
+proliferation
+led
+log-odds
+upper-diagonal
+glycerol
+vol 440
+austria
+de/fb15/mikro/euroscarf/col_index
+synthetic-biology
+duplicate
+paraquat
+propagation1
+challenge
+process
+genomes
+friesen
+ygr250c
+npg
+serrano
+raffinose
+lactate
+discussion
+sadowski
+produced
+including
+decay
+richness
+university
+requests
+frequency
+supports
+retrieves
+rick1
+kre33
+unknown
+providing
+cohen
+kelley
+linked
+instance
+nbait
+subtracted
+snapshot
+/nature
+mips/sgd
+hops
+molecules
+digests
+syst
+quantifies
+reid
+shi
+computed
+ebi
+mckendrick
+phases
+exploited
+39 leading
+dundee
+chaperonin
+& bork
+& gerstein
+genetics 170
+vps33p
+addition
+& bender
+graphics
+fortes
+diversification
+partner
+69117 heidelberg
+highlighted
+propensity
+parts
+http
+reflection
+& samson
+thought
+science 306
+science 307
+science 303
+science 300
+sources
+produce 1
+natl
+match
+nano-
+intersection
+loss
+excluding
+accessible
+oltvai
+belonged
+library
+subramanian
+tanay
+rare
+& willison
+suited
+promise
+noticed
+ho
+highest
+`guilt-by-association
+dsl1p
+seraphin
+4b
+4a
+1131­ -1139
+275
+276
+279
+1997
+1996
+1999
+1998
+379
+­
+3632­ -3641
+18006­ -18011
+2450­ -2454
+69%
+760
+08
+555­ -568
+257
+800
+180­ -183
+56
+1 ^ 2
+1­16
+1­10
+1­12
+2­10
+8574­ -8581
+2593­ -2605
+5­10
+3963­ -3977
+0
+991­ -997
+104­ -109
+ð
+242­ -247
+1
+10­15
+459­ -469
+6­8
+31­ -34
+628
+291­ -294
+2
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+21817­ -21826
+3
+784
+805­ -808
+4
+623­ -627
+500
+60%
+5
+191­ -196
+90%
+6
+24
+25
+26
+27
+20
+21
+22
+23
+640­ -643
+28
+29
+529­ -536
+7
+74
+8
+531­ -537
+2026­ -2029
+737­ -741
+36
+9
+89%
+561­ -566
+1133­ -1143
+30%
+2002
+2003
+2000
+2001
+2004
+2005
+39
+38
+64%
+33
+32
+31
+30
+37
+35
+34
+141­ -147
+4311­ -4316
+134
+395­ -408
+58­
+70%
+218­ -229
+3 ^ 1
+41­ -42
+73%
+168­ -178
+445­ -452
+1173­ -1178
+488
+97­ -105
+686­ -691
+724­ -727
+*
+1988
+1030­ -1032
+42
+43
+40
+41

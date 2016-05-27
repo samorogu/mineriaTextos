@@ -1,0 +1,3013 @@
+genome tilepath array reference dna test dna reference dna test dna test dna 1
+
+comparative intensity analysis affymetrix 500k early access snp chip test dna 1 styi test dna 2 test dna 2 styi
+
+nspi
+
+nspi
+
+combine chips genome profile 1 log2 0
+0 ­1 2 mb 4 mb 6 mb
+
+100 mb
+
+­1 150 mb 1 0 8 mb 10 mb ­1 2 mb
+
+50 mb
+
+100 mb
+
+150 mb
+
+4 mb
+
+6 mb
+
+8 mb
+
+10 mb
+
+figure 1
+affymetrix genechip human mapping 500k early access arrays
+100
+percentage cnvs tagged
+
+80
+
+60
+
+40
+
+20
+
+yri cnv ceu cnv chb+jpt cnv
+
+yri snp ceu snp chb+jpt snp
+
+0
+
+0
+
+0
+combine chips compare samples
+
+combine dye-swaps 1 0 ­1
+1 2 3 4 5 6
+
+7
+
+8
+
+9 10 11 12 13 14 15 16 17 1819202122
+`fondo de investigaciones sanitarias de la seguridad social
+448
+
+refseq genes omim genes ultra-conserved elements conserved non-coding elements non-coding rnas
+
+2
+segmental duplications
+
+call frequency 1 10 100
+
+cnvr length <10 kb 100 kb 1 mb
+
+figure 4
+0 ­1
+
+chromosome 8
+
+1 0
+
+chromosome 8
+
+50 mb 10 mb window 1 log2
+test experimentally cnvs called
+high density dna oligonucleotide arrays
+recent positive selection exhibit elevated population differentiation65
+cnvrs
+functional sequence wgtp cnvrs 500k ea cnvrs merged cnvrs
+
+20 15 10 5 0
+­0
+test
+strongest factor decreasing apparent linkage disequilibrium
+recent population-specific positive selection elevates population differentiation
+highly enriched categories include sensory perception
+wgtp cnvs partially reflects inevitable overestimation
+estimate relative extended haplotype homozygosity values
+human dna polymorphism resulting
+hapmap phase ii snp genotypes compatible
+micro array comparative genomic hybridization
+authors declare competing financial interests
+genome tilepath
+instituto de salud carlos iii
+de novo pathogenic duplications strongly suggests
+23 november 2006
+
+articles
+
+ ceu  chb  jpt  yri
+reciprocal dna duplication/deletion
+collectively termed copy number variations
+quantitative snp gen452
+
+otyping data
+chromosome profile 1 log2
+international hapmap dna
+dna segments ranging
+genome assembly comparison identifies structural variants
+genome canada joint r1d1i projects
+microarray based comparative genomic hybridisation
+genome
+
+profile shows
+reference human genome assembly
+500k ea platforms largely complement
+reference genome assembly sharing
+maximal squared pearson correlation coefficient
+predicting diploid genome copy number
+data obtained delineate linkage disequilibrium patterns
+array comparative genomic hybridization
+´ ~ societat de la informacio
+500k ea intensity data
+comparative intensity analysis
+453
+©2006 nature publishing group
+
+articles
+
+nature
+447
+
+©2006 nature publishing group
+
+articles
+
+nature
+451
+
+©2006 nature publishing group
+
+articles
+
+nature
+445
+
+©2006 nature publishing group
+
+articles
+
+nature
+449
+
+©2006 nature publishing group
+
+articles
+
+nature
+early association
+genomic dna
+dna sequences
+copy number variation remains unexplored
+genome-wide human variation data reveals signals
+autosomal dominant earlyonset alzheimer disease
+dna deletion
+set exhibiting highest population differentiation
+blood dna
+dna segment
+discrete diploid genome copy numbers
+snp genotypes deletions perturb patterns
+national genotyping ~ center barcelona node
+dna duplication
+treated diploid genome copy number
+500k ea array revealed
+human chromosome 21 conserved nongenic sequences
+fewer inferred recombination hotspots reside
+500k ea experiment detects cnv
+reference genome sequence
+clone-based comparative genomic hybridization
+cnvs exhibiting high population differentiation
+99% overlap conserved non-coding sequences43
+highest resolution breakpoint mapping
+discrete copy number variable regions
+extrapolating
+
+comparative genome hybridization
+dna
+epstein­barrvirus-transformed lymphoblastoid cell-lines
+1038/nature05329
+
+articles
+global variation
+exhibit haplotype patterns suggestive
+perfect sequence identity longer
+cnvs exhibited lower linkage disequilibrium
+snp genotype patterns characteristic
+23 november 2006
+
+articles
+
+received 13 june
+howard hughes medical institute
+microscopically visible chromosome anomalies
+wellcome trust genome campus
+normal redgreen color vision
+independently assembled whole-genome sequences
+charcot-marie-tooth disease type 1a
+truncating splice site mutation
+quantitative intensity data
+driven extensive structural polymorphism
+444
+©2006 nature publishing group
+
+nature
+©2006 nature publishing group
+
+nature
+2
+
+446
+©2006 nature publishing group
+
+nature
+omim morbid map overlapped
+human genome
+richard redon1
+conserved non-coding elements
+identifying haplotypes conferring risk
+wellcome trust sanger institute
+detecting recent positive selection
+meiotic recombination hot spots
+conserved non-coding sequences43
+maximal pairwise linkage disequilibrium
+copy number variation suggests
+human copy number variations
+mars centre­east tower
+estimates population differentiation based
+500k ea platform superimposed
+hurles1
+copy number variation
+submicroscopic copy number variation
+genome canada/ontario genomics institute
+genome-wide snp genotyping platforms
+reflects purifying selection acting
+righthand side lines represents
+overlaps >threshold cnv ends enriched
+conserved non-coding elements75
+delineate unstable genomic regions
+reference sequence
+barcelona biomedical research park
+discreet copy number genotypes
+31
+
+chr5tp-24d2
+10 0 0 log2 ratio
+
+r2 = 0
+sanger institute postdoctoral fellowship
+comparative genome hybridization
+entire hapmap collection suggests
+cluster intensity ratios
+promote non-allelic homologous recombination
+snps exhibiting mendelian inconsistencies
+snp-based whole-genome association studies
+resolving genotype­phenotype correlations
+greater copy numbers protect
+stringent quality control criteria
+reference genomes
+genomic locations previously shown66
+higher copy number alleles
+complex snp-related sequence variation
+platform comprising largeinsert clones
+gene families pays testament
+influence gene expression indirectly
+human genetic variation ties
+detects submicroscopic chromosomal deletions
+snp microarray analysis
+entire data set suggests
+histogram denote log2 ratios
+reference genome10
+447 copy number variable regions
+copy number variable regions
+large-scale copy number polymorphism
+comparative genomic hybridization
+copy number variation genotypes
+identify partial selective sweeps
+mb
+5 mb
+360 mb
+24 mb
+non-redundant biallelic cnvs suitable
+de novo events
+5 log2 ratio
+
+frequency
+
+r2 = 0
+2 0 log2 ratio
+
+frequency
+
+r2 = 0
+2 log2 ratio
+
+frequency
+
+r2 = 0
+quantified pairwise linkage disequilibrium
+lower apparent linkage disequilibrium
+2
+
+chr9tp-6g12
+frequency 8 4 0
+
+frequency
+
+r2 = 0
+chr9tp-13b1
+frequency 20 10 0
+
+frequency
+
+r2 = 0
+generating complex structural variation36
+analysing ten hapmap dnas
+benign genomic rearrangements occur
+additional locus-specific experimental validation
+biallelic alu insertion polymorphisms
+454
+©2006 nature publishing group
+priority areas `applied genomics
+blue lines denote cnvrs
+green lines denote cnvrs
+natural genetic variation caused
+wgtp experiment detects cnvs
+highly similar duplicated sequences32
+23 november 2006
+
+wgtp array
+harbour highly significant clusters
+intensity ratios
+performing technical replicate experiments
+heterozygous snp genotypes
+maximum call frequency
+diploid copy number
+500k ea arrays
+high-density snp maps
+hapmap snps 500 kb upstream
+supplementary note including supplementary fig
+snp failures enriched
+500k commercial arrays
+candidate recessive disease alleles
+elevated population differentiation7
+generalitat de catalunya
+hapmap snp genotypes
+aberrant snp genotypes
+cnvs influence gene expression
+recent positive selection
+human population genetic structure
+minor call frequency
+nearby proxy snp
+conserved noncoding sequences
+stringent merging criteria
+validate 50 singleton cnvs called
+merging overlapping cnvs identified
+500k ea data
+wgtp data quality assessment
+positive selection acting
+copy number variable
+variable copy number
+existing data suggests
+comparative analysis
+length 500k ea
+population differentiation suggestive
+cnvrs overlapping segmental duplications
+higher copy number
+copy number polymorphism
+23 november 2006
+
+articles
+
+japanese
+447 cnvrs overlapped
+figure 2
+500k ea platform
+2% exhibited mendelian discordance
+500k ea platforms
+copy number variation
+altered copy number
+crystallin copy number
+sequence assembly comparisons70
+diagnostic genome profiling
+explore population differentiation
+intervals
+
+encompassing cnv breakpoints
+pairwise linkage disequilibrium
+log2 ratios apparent
+2 log2 ratios chr6tp-5c12
+departament de salut
+high linkage disequilibrium
+copy number polymorphisms
+experimental replication revealed
+210 unrelated hapmap individuals assuming
+% segdup 500k ea
+500k ea coverage
+alu insertion variants60
+linkage disequilibrium properties
+5 log2 ratio
+
+r2 = 0
+2 log2 ratio
+
+r2 = 0
+accession number e-tabm-107
+lower copy number
+hardy­weinberg disequilibrium
+human genome demonstrates
+human genome takes
+human genome sequence
+high performance computing
+inherently relative nature
+national genotyping centre
+non-allelic homologous recombination58
+cell-signalling molecules vital
+regulate camp signaling
+passeig mari 37-49
+paired-end sequence relationships4
+eun kyung cho7
+congenital cardiac defects
+tumour suppressor genes47
+na12144 na12145
+
+na10846 0
+spinal muscular atrophy
+cambridge cb10 1sa
+920 east 58th street
+higher-resolution tiling arrays5
+sequence trace analysis71
+cerebral amyloid angiopathy
+non-allelic homologous recombination
+copy number information
+parental genome manifests
+delineate independent cnvs
+comparative data
+lower linkage disequilibrium
+population pairwise comparisons
+accession numbers gse5013
+homologous recombination generates
+highlighting variable regions
+analysing cnv genotypes
+overlaps >threshold
+thresholds
+existing linkage data
+wgtp array
+gene expression omnibus
+generate linkage disequilibrium
+20 frequency na18501 na18502
+
+10
+
+0 ­0
+final data sets
+array cgh
+array printing
+dispersed repetitive elements
+ontario m5g 1l7
+fine-scale structural variation
+recent segmental duplications
+future genome assemblies
+unusual chromosomal constitutions
+13harvard medical school
+false-negative percentage
+population-specific selective pressures
+cnv-specific genotyping assays
+single genome sequence
+complex multi-site variants9
+assessing genome-wide cnv
+reveal marked variation
+cnvrs contained hundreds
+crybb2-crybb3 b-crystallin genes
+pertinent candidate genes
+visual pigment genes
+candidate genes warrants
+van den ijssel
+learning disability/mental retardation
+increasing sequence similarity
+lens transparency properties
+require 97­100% sequence similarity
+age-related cataract applying
+lymphoblastoid cell lines
+left-hand side lines
+chemokine-encoding multi-copy gene
+altering gene dosage7
+human genetic variation
+potential assembly errors
+wgtp log2 ratios
+congenital heart disease
+locus-specific quantitative assays
+45 unrelated han chinese
+putatively functional sequences
+validate experimentally 203 cnvs
+validate experimentally 11 cnvs
+essentially arbitrary nature
+2 log2 ratios chr6tp-11a11
+5 0 log2 ratios chr1tp-31c8
+bar eye phenotype12
+stronger purifying selection
+human genomic variation
+engineering research council
+partial selective sweep
+filtered non-redundant phase
+human copynumber variants
+higher false-positive rates
+asian population samples60
+enriching future generations
+snp genotyping
+differential demographic history
+major psoriasis-susceptibility locus
+a-synuclein locus triplication
+genotyping error rate
+nucleic acids res
+cnvrs overlapped appreciably
+high carrier frequencies33
+international hapmap consortium
+smaller relative change
+snp genotypes
+multilocus genotype data
+removes deleterious variants
+targeting untaggable cnvs
+cnvs influencing risk
+separate juxtaposed cnvs
+segmental genome duplications
+high mutation rates
+undergo recurrent mutations
+produced conflicting evidence
+investigated genome-wide characteristics
+4-6-1 komaba meguro
+causing reversions back
+williams­beuren syndromes39
+higher false-negative rates
+assessing subtelomeric rearrangements
+alberta t6g 2h7
+toronto m5s 1a8
+structurally dynamic regions
+mining cnv information
+mutation cold spots
+putative cell-line artefacts
+author information reprints
+genome-wide association studies
+reliable high-throughput detection
+detecting smaller cnvs
+segmentally duplicated regions
+ontario
+
+innovation trust
+proxy snp
+first-generation cnv map
+extremely high likelihood
+extracted genotype information
+quantitative wgtp data
+apparently healthy individuals
+investigated functional categories
+previous genome-wide survey
+1 contiguous gene deletion
+060 biallelic cnv genotypes
+interacting genetic factors
+complex evolutionary history
+2
+
+na07029
+
+20 frequency 15 10 5 0
+
+chr5tp-22e4
+data sets required
+preliminary cnv calls
+resultant cnv calls
+genetic association studies
+annotated segmental duplications
+segmental duplications depended
+11pompeu fabra university
+574 large-insert clones representing 93
+methods
+cnv determination
+hapmap collection comprises
+268 hapmap cell lines
+dog genomes shows
+online mendelian inheritance
+independent juxtaposed cnvs
+cnvs causing severe
+30 parent­offspring trios
+parent­offspring trios
+common deletion polymorphism
+refseq genes
+triangle plot showing
+cell-line collection25 derived
+long duplications arise
+identified functional categories
+investigate population structure
+neighbouring snp
+single nucleotide polymorphisms
+pelizaeusmerzbacher disease suggest
+polymorphically duplicated genes
+represent transposition events
+duplicated genomic regions
+autosomal-dominant neuropathies result
+representing distinct events
+genetic disease studies
+yri samples
+270 hapmap individuals exhibits
+snp located
+snp genotypes5
+mendelian genetic diseases
+complex disease traits
+involve complex gains
+complete cnv map
+complex genetic diseases
+500k ea
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+500k ea
+human cancer genes
+including disease susceptibility
+common chromosomal inversion
+performed population clustering61
+cell adhesion genes
+identify causative variants
+common deletion polymorphisms
+future genetic studies
+approximately equal numbers
+sick children foundation
+12 ultra-conserved elements
+ultra-conserved elements
+segmental duplications cnvr
+defining segmental duplications
+intrachromosomal segmental duplications
+multiple experimental methods
+population genetic inference
+cnvs indirect methods
+precise chromosomal location
+wellcome trust
+supplementary table 5a
+supplementary table 13b
+provide statistical significance
+technical replicate experiments
+cnvs previously demonstrated
+app locus duplication
+false positives compared
+ceu samples
+correlation coefficient
+43 kb versus 120 kb
+regions commonly deleted
+inferred ancestral populations
+35 kb duplication involving
+5 log2 ratio
+
+1
+1 0 log2 ratio
+
+0
+4 log2 ratio
+
+0
+log2 ratio
+linkage analysis
+entire genome
+chromosomal duplication map
+cnv detection platforms
+identified 30 cell lines
+demonstrated population variability
+overlapping cnvs called
+allele frequency spectrum
+de vries
+array
+large world populations
+singleton cnvs called
+14 singleton cnvs called
+23 november 2006
+
+articles
+neighbouring polymorphic markers
+overlap segmental duplications
+differentiated somatic artefacts
+functional elements
+detect smaller cnvs
+genotyping arrays
+deletions outnumbered duplications
+copy number
+average false-positive rate
+provide greater power
+67 genotyped biallelic cnvs
+estimate false-positive
+breakpoints
+
+figure 3
+detect disease-related cnvs
+significantly lower proportion
+positive selection
+frequency analysis
+population differentiation
+2 log2 ratios 0
+log2 ratios
+2 0 log2 ratios
+1 0 log2 ratios 0
+length analysis
+average falsepositive proportion
+platforms reveals
+mapt
+
+figure 8
+observed numerous examples
+multiple pathogenic
+recent studies
+ugt2b17 gene linked
+450
+
+linkage disequilibrium
+linkage disequilibrium
+14 singleton cnvs replicated
+group membership
+larger median size
+structural variation
+human genome
+447 discrete cnvrs
+previous analysis
+discrete regions
+functional sequence
+parental genome
+false positive
+overlaps <threshold
+genetic variation
+duplicated copy
+identified 13 multi-allelic cnvs
+obtained previously
+gene expression
+cluster analysis
+analysis panels
+repeat analysis
+38 total validated cnvs
+haplotype maps
+large-scale variation
+structural variants
+transposable elements
+ultraconserved elements
+genome structure
+genomic variation
+chromosomal locations
+hapmap collection
+small deletion found
+hybridization intensities
+genome res
+single genome
+cnv assessment
+90% sequence similarity
+sequence similarity
+validation rates
+cold spots
+genotyped snps owing
+haplotype map
+haplotype structure
+population genetic
+build 35 assembly
+recombination rates
+variants tagged
+locus-specific assays
+deletion polymorphism
+genome diversity
+mutable genome
+genome profiles
+genome architecture
+genome biol
+genetic association
+functional sequences
+variable penetrance
+homologous sequences
+precise nature
+10-mb window
+fiveprobe window
+microarray facility
+omim
+evolutionary selection
+snp
+highly polymorphic
+selective pressures
+population-specific cnvs
+cnv genotypes
+cnv events
+partial deletion
+individuals remains
+highly enriched
+extrapolation based
+genome-wide map
+typically based
+deleterious genetic
+cnv data
+highly duplicated
+cnv ends
+large-scale cnv
+270 hapmap samples
+demographic history
+lowest number
+similar number
+pairwise comparison
+single-nucleotide polymorphism
+human disease
+structural dynamism
+1 2 3 4 5 6
+structural variation--
+autosomal cnvrs
+genomic variants
+genes overlapped
+high probability
+chromosomal change
+mendelian inheritance
+complex cnvrs
+causative alleles
+2 0
+
+frequency
+
+r2 = 0
+representing lower
+phenotypic variation
+copy-number variation
+cnvrs compared
+defining cnvrs
+sharing data
+genomic regions
+confer risk
+quantitative pcr
+experimentally validated
+inverted haplotypes
+additional ways26
+axis values
+sequence content
+sequence homologies
+williams­beuren
+occur preferentially
+sequence context
+cell lines
+diseases resulting
+sequence homology
+platformdependent criteria
+patterns highlight
+flanking areas
+biallelic cnv
+genetic structure
+genetic studies
+research center
+cnv regions
+population structure
+complex disease
+influence susceptibility
+arbitrary threshold
+average number
+hapmap trios
+single experiment
+recombination hotspots76
+nonhomologous recombination
+cell-line artefacts
+coupled homologous
+genome-wide detection
+experimental methods
+complex traits
+cnv encompassing
+meh@sanger
+data quality
+duplicated regions
+phosphorylation-related categories
+categories relating
+353* 67
+
+statistical significance
+dashed lines
+bar gene
+bar `gene
+highly correlated
+experiment beneath 5%
+alleles depicted
+highly replicable
+selective constraint
+causative variants
+cnv map
+8
+
+yri
+yri
+genotype information
+disease-related genes
+wgtp data
+ten individuals
+assembly gaps
+23 november 2006
+
+platforms
+overlapping cnvs
+alu repeats
+technical difficulties25
+fine-scale map
+false-positive rate
+missing genotypes
+alu elements40
+null genotypes
+technical assistance
+breakpoint region
+locus-specific assay
+false-negative rates
+genetic diversity
+clusters representing
+singleton cnvs
+population differences
+significantly enriched
+human genome26
+human genome44
+platforms identify
+data release
+absolute frequency
+0
+
+chr15tp-7c8
+frequency 12 6 0 ­0
+0
+
+chr7tp-1e4
+frequency 10 0 ­0
+6
+
+frequency
+
+chr8tp-10c3
+35 15 0 ­0
+data resulted
+5
+
+chr16tp-9c2
+frequency 10 0 ­0
+5 na18500
+
+frequency
+
+20 10 0 ­0
+raw data
+0
+
+chr9tp-13d11
+frequency 10 0 ­0
+cell adhesion
+strongly predictive
+sick children
+genome shown
+nature rev
+cnv calls
+15 cnv calls
+disease studies
+67 autosomal cnvs
+lower coverage
+lower densities
+necessarily lower
+single cnvr
+segmental duplications
+segmental aneuploidy--
+segmental duplicawgtp
+common inversion
+weaker signals
+candidate loci
+somatic artefacts
+autosomal probes
+convincing signals
+chromosomal abnormalities
+36 chromosomal arms
+including snps25
+sought signals
+hapmap snp--
+hapmap donors
+hapmap release 20
+genomic disorders
+genomic scale
+genomic biology
+genomic location34
+genomic regulation
+genomic location
+genomic trade
+complex cnvs
+mendelian discrepancies
+chromosome susceptible
+chromosome coordinates
+marker genotypes
+complex diseases
+assess cnv
+cnv calling
+cnv annotation
+cnv borders
+genotyped cnv
+cnv show
+cnv boundaries
+cnv formation
+supplementary information
+experiments representing
+447 cnvrs overlap
+flanking/encompassed genes
+168 genes related
+disrupting genes
+lage2 genes
+segmental duplication
+65 biallelic cnvs
+biallelic cnvs
+67 biallelic cnvs
+investigate mechanisms
+complete bars
+false positives
+& van broeckhoven
+international collaboration--
+age-related cataracts49
+polymorphically inverted
+101 college street
+quantitative trait
+mental retardation
+lens abnormalities52
+canada foundation
+international scholar
+cnv-95 involving
+6
+
+figure 6
+minor allele
+highresolution survey
+author contributions
+nucleotide content
+generate rearrangements
+intrachromosomal duplications
+figure 5
+figure 7
+severe phenotypes
+online version
+genetic basis
+multiple studies
+gene duplications
+gene ontology
+gene functions
+chd7 gene
+corneodesmosin gene
+gene encoding
+population average
+somatic deletion
+markedly enriched
+overlap >threshold
+threshold parameters
+identify cnvs
+crossover regions
+population distribution
+cnv detection
+populations obtained
+duplicated copies33
+information requires
+ceu
+phenotypic information
+permissions information
+vst values
+wgtp platform
+average length
+wgtp platforms
+encompass overlapping
+supplementary note
+applied genomics
+population size
+human populations
+autosomal phase
+hapmap phase
+gene duplication
+hapmap individuals
+natural science
+chromosomal region
+including ccl3l1
+34
+
+chr17tp-12b1
+10 0
+
+r2 = 0
+r2 close
+smaller rearrangements
+packard fellowship
+mapping
+genomic basis
+replicate experiments
+red lines
+hapmap snps
+core research
+scientific research
+experimental procedures
+health research
+nature genet
+genomic distribution
+wgtp clones
+population genetics
+human genetics
+previous studies1­3
+ancestral state
+genomes chromosome-by-chromosome
+sufficiently distinct
+provide substrates
+male genomes
+comprehensive map
+map depends
+cnv identified
+detect cnvs
+identified cnvrs
+cnvrs identified
+identified 913 cnvrs
+lower power
+mapt gene
+population clustering
+mclaughlin centre
+psoriasis susceptibility
+detect duplications
+hiv-1/aids susceptibility
+susceptibility locus51
+supplementary methods
+cnvrs encompass
+cell line
+cell signalling
+cell proliferation
+program sweep
+median size
+asian populations
+ontario ministry
+association results
+unrelated individuals
+medical genetics
+deletion & duplication
+
+20 15 10 5 0
+­0
+acceptor locus
+minimal set
+donor locus
+alleles present
+complex loci
+supplementary tables 4
+supplementary tables 8­10
+supplementary tables 1­4
+ophthalmic res
+single copy12
+noisier experiments
+neighbouring snps6­8
+common diseases
+hapmap project
+supplementary table 21
+supplementary table 20
+supplementary table 4
+supplementary table 5
+supplementary table 7
+supplementary table 6
+supplementary table 13
+supplementary table 19
+supplementary table 12
+supplementary table 11
+supplementary table 16
+supplementary table 17
+supplementary table 14
+supplementary table 15
+supplementary table 18
+disease program
+chromosome 1q21
+adapted methods
+cnv deletions
+nearby snps
+genotyped cnvs
+cnvs irrespective
+specific cnvs
+cnvs mentioned
+generating cnvs
+3 validated cnvs
+germline cnvs
+prioritise cnvs
+longest cnvs
+individual-specific cnvs
+13 multi-allelic cnvs
+multi-allelic cnvs
+cnvs validated
+long deletions
+reciprocal deletions
+individual overlapping
+cnvrs encompassed
+disease loci
+wenwei chen4
+spare parts
+hereditary neuropathy
+derived allele31
+suspected haplo-
+pressure palsies
+chemical stimulus
+uk/postgenomics/ decipher/
+humana press
+predominant strategy
+exhaustive search
+personal communication
+sporadic diseases
+regional biases
+dimitrios kalaitzopoulos1
+prader­willi
+room 14-701
+highlight cnv-507
+lluis armengol8
+threefold shorter
+definitive solution
+expanded plots
+significant difference
+sought evidence
+numerous kinase-
+immune function
+mammals examined11
+early-onset tumorigenesis
+duplications occurred
+udp-glucuronosyl transferase
+discerning uncharacterized
+kohji okamura5
+charles lee7
+glucuronidation activity
+na18504
+
+na18505
+
+­0
+junjun zhang5
+duplicative transposition57
+accepted 10 october 2006
+large stretches
+manifold applications
+santa clara
+similarly important
+cara woodwark1
+highlight challenges
+conveyed phenotypes
+filled circles
+finding highlights
+neurophysiological processes
+ca/ variation/
+chris tyler-smith1
+dosage sensitive
+scale bars
+fcgr3 predisposes
+ugt2b17 enzyme
+culture-induced rearrangements
+limited optimism
+longer-term evolution42
+drosophila melanogaster
+deep divergence
+fengtang yang1
+frontotemporal dementia
+principal investigators
+albeit derived
+euchromatic portion
+specific diseases
+70 yr ago
+joelle tchinda7
+well-characterized genomes4
+hiv-1 infection19
+androgen metabolism
+shumpei ishikawa2
+define precisely
+lpa apolipoprotein
+na06994
+
+na07000
+
+0
+genic environment
+heterogeneous manner
+xavier estivill8
+fully ascertained
+underlying mutation56
+monica gratacos8
+log transformed
+lighter colour
+equal contribution
+functionally significant
+120 trio parents
+stephanie dallaire7
+daisuke komura3
+dynamic range
+unequal crossing
+hiv-1 infection
+great merit
+point highlights
+unfilled circles
+randomly permuting
+heike fiegler1
+merged
+darker shade
+readily identifiable
+genoma espana
+clear discrimination
+hiroyuki aburatani2
+algorithm parameters
+charge syndrome21
+racial differences
+warrant consideration
+qualitatively similar
+determine unambiguously
+kunihiro nishimura2
+robust nomenclature
+balanced comparison
+mental retardation29
+selectively constrained
+dosage-sensitive oncogenes
+histograms showing
+duplications distinguishes
+poorly understood
+smith­magenis
+dosage effects53
+heterogeneous duplications
+canadian institutes
+lars feuk5
+fan shen4
+daniel andrews1
+unaffected parents
+jane zhang4
+charles darwin
+varying degrees
+interchromosomal duplications
+preferentially located
+continual refinement
+published data8
+neurodegenerative disorders
+armand valsesia1
+saitama 332-0012
+tatiana zerjal1
+lymphoma society
+plos biol
+advance progress
+microduplication disorders16­18
+angelman syndromes
+charge syndrome
+r57­r66
+rui mei4
+clinical diagnostics
+lyndal montgomery1
+jing huang4
+estimating f-statistics
+xenobiotic conjugation63
+similarly lead
+earlier versions
+wholegenome views
+similar rationale
+position effects
+young scientists
+protocol outline
+finding groups
+threshold proportion
+23 november 2006
+
+deletions
+cnvs called
+genomic impact
+447 cnvrs detected
+cnvrs detected
+disease-related snps
+called once26
+medical relevance
+neighbouring marker
+ancestral populations
+neighbouring phase
+duplication lie
+large duplication
+duplication specific
+larger duplication
+cnv varies
+cnv end
+smaller deletions
+individual variants
+neighbouring snps
+genes found
+supplementary fig
+marker genotypes53
+12 individuals represented
+cnvs identified
+identified 121 cnvs
+identified 88 cnvs
+chromosome-by-chromosome basis
+phenotypic spectrum
+1-mb region
+multiple sites
+linked markers
+491
+
+ugt2b17
+
+ccl3l1
+adjacent gains
+distinct algorithms
+distinct paucity
+ccl3l1 gene-
+molecular mechanisms
+combining information
+technology platforms
+somatic deletions
+analysis
+cumulative distribution
+continuous distribution
+snps genotyped
+tag snps
+flanking snps
+aberrant chromosomes
+commonly estimated
+nonafrican populations
+predicted reliably
+statistical analyses
+tandem duplications
+poorly predicted
+predictive ability
+arrays
+reflects
+impact significantly
+reveal classes
+common deletions
+performed experiments
+common apex
+´tim university
+multi-allelic loci
+nephronophthisis loci
+true positives
+tandem duplication
+33 homozygous deletions
+larger deletions
+homozygous deletions
+standard deviation
+red bracket
+substantial fraction
+evolution int
+atypical cases
+optimal clustering
+similarly confirmed
+dysmorphic features
+classification system
+drug metab
+european populations68
+complementary technologies
+inactive form
+related tauopathies
+mechanistically prone
+algorithms segment
+rehh analysis69
+rearrangements generated
+universitats recerca
+btnl2 gene50
+approximately half
+bioinformatics support
+70-kb interval
+important resource
+previous study
+european descent
+significant paucity
+cnvs detected
+causative variant
+single individual
+average fst
+trends genet
+plos genet
+steve@genet
+technology agency
+genome
+wgtp clone
+estimating vst
+classified cnvs
+evolutional science
+12japan science
+2genome science
+advanced science
+found cnvs
+individual cnvs
+statistic fst
+ongoing characterization
+tokyo 153-8904
+mosaic trisomy
+significant observations
+average proportion
+average variance
+population-specific
+sarcoidosis owing
+relative
+// www
+increasingly observed
+molecular medicine
+shown schematically
+na19007 identified
+details accompany
+database support
+genomics hum
+number
+significant enrichment
+high
+25 loci involved
+statistic vst
+variation
+snps
+
+individual
+08003 barcelona
+apparent
+strongly
+alzheimer
+authors
+treated
+reside
+inferred
+iii
+pearson
+appreciable minority
+patterns
+hotspots
+identified patients
+recombination
+`tagged
+tagged
+genotyping
+nature
+nature 437
+nature 439
+nature 419
+sanger
+numbers
+categories
+covering 360 megabases
+selection
+lines
+polymorphisms
+experiment
+obtained
+genotypes
+influence
+population
+human
+data
+2
+
+frequency
+
+98
+5
+
+30 frequency 20 10 0 ­0
+frequency 40 20 0 ­1
+frequency
+side
+singleton
+jpt
+chb
+greater
+ends
+center
+lower
+length
+270 samples
+overlapped
+signals
+including
+hapmap
+chromosome 8
+chromosome 6
+chromosome 12
+chromosome 16
+chromosome 17
+mendelian
+chromosome
+japan science
+variants
+12
+8 4 0
+
+complex 131
+cnv
+cnvrs
+980 cnvrs
+447 cnvrs
+genes
+recessive
+206 kb
+cnvr
+phenotype
+normal
+81 kb
+500 kb
+341 kb
+caused
+1 kb
+kb
+20 kb
+228 kb
+intervals
+extrapolating
+independent
+dnas
+quantified
+assuming
+gene
+sequences
+23 november 2006
+enriched
+23 november 2006
+
+72
+regions
+disease
+ratios
+identify
+duplicated
+45 unrelated
+
+1
+mutation
+genotype
+r2
+4 r2
+
+0
+encompassing
+fellowship
+trios
+8 shows
+sharing
+smaller
+clusters
+platform
+platforms
+research
+20 15 10 5 0
+
+deletion
+provide
+applied
+map
+note
+rate
+structure
+studies
+future
+replicate
+detect
+clones
+offspring
+centre
+cell 66
+cell 72
+quality
+set
+locus
+genomics 7
+experiments
+genomics 84
+calls
+single
+genomics 2
+res
+common
+wgtp
+methods
+cnvs
+39 cnvs
+67 cnvs
+53 cnvs
+203 cnvs
+differentiated
+blue
+diseases
+ranging
+toronto
+ugt2b17
+mutations
+families
+suggest
+genotyped
+deleted
+evidence
+2 versus 2
+duplications
+comprises 26
+canada
+factors
+rearrangements
+potential
+green
+dispersed
+cluster
+investigated
+% segdup
+comparison
+coverage
+alberta
+large
+small
+validated 173
+derived
+chr6tp-11a11
+reversions
+triangle
+numerous
+generating
+{ significant
+similar
+required
+markers
+larger
+carrier
+stronger
+meguro
+approximately 2
+breakpoints
+variability
+* significant
+cancer 4
+6 multi-allelic ­0
+chr1tp-31c8
+overlap
+demonstrated
+location
+chr5tp-22e4
+histogram
+table 1
+called
+detection
+duplication
+1
+
+duplication
+
+20 15 10 5 0
+0 0
+marker
+rev
+average 73%
+phase
+average
+82 individuals
+15 individuals
+individuals
+270 individuals
+spectrum
+basis
+mapt
+region
+ccl3l1
+molecular
+gains
+owing
+linked
+identified 1
+identified
+distribution
+642 snps
+snps
+fig
+total
+populations
+contribution
+statistic
+departament
+inference
+tandem
+predictive
+size
+predicted
+encompass
+fst
+represent
+program
+innovation
+`departament
+likelihood
+power
+loci
+university
+genetics 155
+genetics
+genetics 168
+genetics 166
+proportion
+deletions
+classification
+ministry
+minority
+algorithms
+medicine
+covering 12%
+appreciable
+features
+project
+metab
+confirmed
+1q21
+european
+fraction
+form
+interval
+`tauopathies
+cases
+performed
+apex
+encompassed
+half
+resource
+sites
+technologies
+standard
+paucity
+bioinformatics 21
+btnl2
+universitats
+na19007
+range
+clustering
+generated
+results
+replicated
+involved
+trait
+red
+histograms
+prone
+procedures
+evolution
+variance
+sarcoidosis
+rehh
+detected
+genet
+technology
+result
+vst
+
+0
+impact
+vst
+science 267
+science 310
+science 298
+science
+science 304
+science 305
+science 302
+science 297
+science 83
+science 307
+end
+classified
+combining
+observations
+true
+345 gaps
+trisomy
+tokyo
+clone
+gaps
+characterization
+present
+relevance
+varies
+analyses
+megabases
+found
+individual
+study
+observed
+www
+shown
+patients
+estimated
+japan
+variant
+chromosomes
+database
+chromosomes 9
+details
+classes
+enrichment
+hum
+desirable
+yellow
+pantano
+impoverishment
+downstream
+ca/variation/
+biometry
+investigator
+chen
+chouinard
+13
+
+chr11tp-5b1
+20 10 0 ­0
+asia
+med
+reported
+china
+langford
+ancestry
+population5
+altshuler
+databasing
+disease22
+hospital
+& rohlf
+singlenucleotide
+abundance
+bennett
+qi
+walsh
+aging
+poorer30
+cihr
+types
+cytogenetics
+acknowledged
+complexity
+operate
+order
+sickkids
+vary
+disease-
+manuscript
+ncbi
+arrayexpress
+& daly
+atherosclerosis
+parkinson
+matise
+webber
+3dependable
+wirtenberger
+xue
+nigel
+fitch4
+rats
+clarity
+genome-wide56
+17p
+roles
+probands
+duplications38
+illinois 60637
+24% multiplied
+responsible
+-
+haploview
+//projects
+assessed
+acknowledgements
+manifested
+doi
+inoue
+somerville9
+stephens
+khaja
+& jeffreys
+disc1
+asians
+flanked
+explanations
+//www
+terms
+cngs
+asked
+karen
+58 non-called
+ideograms
+union
+stankiewicz
+spread
+expected
+fry
+6department
+exception
+& scherer
+brewer
+reproducibility
+tions
+& stankiewicz
+pathology
+mouse
+nih
+categories3
+under-represented
+pittard
+normalization
+inherit
+materials
+mother
+iafrate
+edmonton
+mechanism
+visualization
+cnv-575
+brigham
+massachusetts 02115
+chr8tp-17e9
+clustered
+& cheng
+donald
+triplicates
+rovelet-lecrux
+/
+ubiquity
+landscape
+e72
+bold
+size37
+& pritchard
+census
+855
+
+chr17
+marshall
+schizophrenia48
+lies
+raises
+493
+
+chr4
+attempted
+cnvs14
+cnps
+removed
+considered
+kudaravalli
+covers
+kaufman
+distributions
+constructed
+role
+smell
+xenobiotics
+fell
+czabarka
+heritability
+fredman
+/nature
+& sherry
+comments
+discern
+maller
+circ
+jonasson
+emphasizes
+karyotyped
+catalonia
+unexpected
+prediction
+microsatellites59
+rosenberg
+weir
+exemplified
+cruts
+myers
+plotted
+/reprints
+kilobases
+confounded
+suppl
+sports
+nguyen
+cdsn
+kloek
+pritchard
+locke
+nemo
+sample
+na12056
+sharp
+r25
+snps66
+discussion
+flank
+coleman
+genes5
+man
+african
+sebat
+microdeletion
+forms
+correspondence
+evol
+wong
+square
+dispos
+er
+deletions7
+investigation
+selection-
+psors1
+org
+keith
+& belanger
+question
+frequent
+blind
+impossible
+george
+conrad10
+carson
+convention
+released
+oligonucleotides
+ann
+bailey
+opposite
+pair
+proxies
+hurles
+surprising
+discovered
+cegen
+nlm
+murvai
+black
+developed
+rademakers
+10department
+aitman
+freeman7
+mapped
+malformations
+reputer
+europeans
+importance
+test/reference
+jayanth
+christiansen
+filtering
+absence
+barrett
+6a
+perry7
+andrew
+glomerulonephritis
+paton
+e49
+royle
+gse5173
+prevalence
+aneuploidies
+bias
+duplications8
+verified
+marth
+html
+neitz
+pam
+jeffrey
+inability
+& fitzpatrick
+imprint
+totawa
+ca
+& cockerham
+implications
+preference
+mol
+stranger
+humans10
+undifferentiated
+interest
+futreal
+calculated
+schinzel
+provided
+triplolethality--
+biased
+notably
+broken
+chromosome-17
+lupski
+involvement
+exons
+area
+shago
+9departments
+outliers
+ac
+enable
+completeness
+studied
+29
+
+chr3tp-9h6
+12 6 0 ­0
+insertions
+pedigrees54
+mccarroll
+glomerulonephritis19
+chr6tp5c12
+shaw-smith
+fall
+eds
+--
+carter1
+design
+perspective
+valentonyte
+476
+
+chr17
+contrast
+christian
+kinds41
+andrews
+losses
+macdonald5
+requiring
+africa
+finally
+comparing
+tested
+share
+hampered
+frequencies
+& contu
+capture
+/mpg/sweep/resources
+advice
+wiley
+faculty
+liability
+e20
+k-means
+6 & matthew
+haploview73
+essence
+& donnelly
+paper
+existence
+stephen
+framework
+speculate
+orru
+drake
+characterized
+4affymetrix
+unravelling
+underscores
+carvalho
+giuressi
+pairs
+introduction
+leading
+trend
+assumption
+´ ` ` jennifer
+nigeria
+smoothed
+na15510
+cnv-1367
+jen
+pde4b
+california 95051
+wilson
+onset
+liu
+kawaguchi
+bac
+casula
+tuzun
+100 bp
+distributed
+shapero4
+& batzer
+schizophrenia
+& frazer
+25
+
+chr7tp-7h4
+10 0 ­1
+europe
+recently
+1
+
+0
+
+na18503
+& rousseeuw
+uk/humgen/cnv/data/
+simple
+decipher
+adaptation
+due
+screened
+6
+
+chr3
+boston
+fst62
+holloway
+size1­8
+cnv505
+baseline
+lengths
+sokal
+one-quarter
+devised
+development
+levels
+woodward
+array-cgh
+bejerano
+chi-squared
+impoverished
+jongmans
+independence46
+shaped
+parent5
+medoids
+uk/arrayexpress/
+annu
+integration
+buckland
+confidence
+flanks
+20
+
+chr1tp-30c7
+20 10 0 ­0
+changing
+& meijer
+shiina
+154 tested
+relaxed
+posted
+partitioning
+uk
+millar
+defined
+petes
+sasaki
+chance
+application
+department
+daly
+fahey
+feuk
+cheung
+carcassi
+insights
+gov/geo/
+misinterpretation
+michael
+underscored
+noted
+carter
+triplicate
+replicates
+chicago
+bird
+caspase-12
+pediatrics
+degree
+yoruba
+grants-in-aid
+vol 444
+kurtz
+& burwinkel
+addressed
+usa
+ugt2b15
+6b
+underscoring
+7department
+tcag
+joseph-george
+train
+labelled
+women
+account
+crest
+elsewhere26
+beijing
+repping
+deininger
+marshall5
+bamshad
+gonzalez8
+leukemia
+amenable
+6p21
+facilitated
+hirschhorn
+ld
+li
+lu
+disrupted
+documented
+requests
+subset
+& neitz
+& ponting
+category
+utility
+ref
+integrated
+approaches
+york
+jones4
+schachowsky
+dermitzakis
+carson5
+improvements
+digeorge
+accurate
+unknown
+adopted
+8genes
+stefansson
+pullenayegum
+culture
+providing
+bottolo
+vt 2
+delineated
+viewed
+kojima
+mit
+hu
+class
+komura
+fact
+na10851
+ylstra
+text
+supported
+brakenhoff
+thousands
+achieve
+tolerance
+turgeon
+fixed
+knowing
+humans
+ebi
+identification
+bridges
+aradhya
+voight
+tau
+predispose
+jersey
+relevant
+distinguish
+maximize
+respect
+addition
+copies
+hinds
+e206
+jpt+chb
+al
+spain
+subsets
+fcgr3b19
+/vt
+freeman
+scherer5
+examined
+vt
+hemminki
+education
+mutat
+russell
+juan
+difficult
+http
+mcvean
+zawalnyski
+frequently
+sixty-
+proximity
+& devine
+wen
+`tagging
+exempt
+utah
+increases
+lost
+conrad
+wintle
+searching
+broad
+evolution10
+analysed
+grant-in-aid
+& lupski
+structure61
+gained
+rare
+hinxton
+equally
+hirose
+weighted
+transfer
+refs 26
+fiegler
+pe
+repeated
+gain
+sabeti
+g-test
+demonstrate
+tsui
+co-segregation
+gonzalez
+ultimately
+martin
+34%
+3 ­0
+6 4 2 0 6 4 2 0
+345
+48
+10%
+74­82
+91
+94
+1990
+1993
+1994
+1999
+6
+
+­0
+40%
+406
+5 423
+3
+
+0
+6 ­0
+116 1
+966­987
+24%
+­
+80%
+707­714
+832­837
+01
+05
+6
+
+0
+5
+
+0
+
+0
+39
+
+1
+8
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14 15 16 17 18 19 20 21 22
+1 0
+16%
+164
+275­290
+1702­1708
+4 0
+2 6 4 2 0
+27
+
+0
+30
+59
+58
+177­183
+55
+54
+51
+50
+52
+5%
+57
+92­102
+8
+
+­1
+561 251 48{ 116
+210­211
+22%
+1
+
+0
+222­234
+220
+8
+
+0
+
+0
+58
+
+0
+0 6 4 2 0
+
+­0
+0
+13­15
+1991
+1995
+8
+
+1
+139{ 112{ 16{ 55
+277­295
+4
+
+0
+
+0
+43%
+4 2 0 0 0
+606­616
+463­467
+78­88
+578­589
+357­364
+1
+14%
+263­265
+1321­1325
+53
+360­369
+15
+
+­0
+31
+
+0
+743­31
+51%
+2
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+1413­1418
+183­193
+6 1
+6 0
+20%
+1358­1370
+2 10 5 0
+
+­0
+678* 57
+
+1
+223
+468­69
+804­41
+4 ­0
+143­151
+3
+1110­1121
+6%
+61
+62
+63
+64
+65
+66
+67
+68
+69
+635
+95­108
+32
+3
+
+­0
+5
+
+1
+2 0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14 15 16 17 18 19 20 21 22
+4
+0
+
+­0
+60
+73
+1936
+841
+­0
+752
+758
+1429­1435
+5
+48%
+2 0
+203 44
+852­859
+5
+
+0 0
+908{ 285 50{ 130
+19%
+5 0 0
+306­314
+5 3
+5 0
+5 1
+6
+321­324
+8 4 2 0
+659­670
+0
+
+0
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+219­232
+949­961
+351­372
+7
+2 0
+
+1
+1
+4
+
+0
+97%
+2 ­0
+1013­1016
+223­228
+727­732
+7%
+77
+76
+75
+74
+72
+71
+70
+79
+82­85
+389­397
+66%
+8 4 2 0
+
+­1
+8
+949­951
+1187­1191
+21
+
+0
+199­242
+13 14 15 16 17 18
+
+19
+
+20
+
+21
+
+22
+39
+2
+
+­0
+2
+
+­1
+0 6 4 2 0
+961
+5­8
+33
+2
+
+0
+
+0
+9
+8 6 4 2 0 0 0
+86­92
+2
+
+0
+1003­1007
+676
+945­959
+1566­1574
+241­248
+1434­1440
+30%
+78
+957
+2002
+2003
+2000
+2001
+2006
+2004
+2005
+129­137
+017
+5 ­0
+0 19
+937* 29{
+
+2
+445
+38
+31
+37
+36
+35
+34
+3%
+­1
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 1819 202122
+1299­1320
+0 ­0
+24­26
+670­676
+7 3 1029
+525­528
+4633­4642
+947
+13%
+0 0
+851­855
+2381­2385
+8%
+81
+85­97
+583
+58%
+3 0
+296
+651
+2 0 1
+2 0 0
+56
+1
+
+0
+
+0
+12%
+933­951
+6
+
+0
+
+0
+124
+126
+1575­1584
+445­450
+75­81
+770
+1
+
+­0
+223­227
+243­46
+1 0 0
+1 8 4 0 ­0
+49
+179­186
+44
+861­866
+32
+
+­0
+285
+4 2 0 ­0
+117
+116
+308­315
+119
+164­171
+4
+
+­0
+2557­2567
+047
+1984
+75­80%
+722
+332­340
+46
+47
+45
+42
+43
+40
+41
+8
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14 15 16 17 18 19 20 21 22
+5
+
+­0
+474

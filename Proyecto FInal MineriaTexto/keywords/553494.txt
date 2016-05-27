@@ -1,0 +1,247 @@
+measuring low-level
+permeable
+Monolithic
+Multistability
+all-or-none
+Measurements
+Enzymatic amplification
+Electrophoresis
+Fellowship
+statistical
+Department
+Whitesides
+Molecular
+Herzenberg
+Supplementary Information
+Foundation
+Pappenheimer
+amplification
+dissociation
+non-optimal
+MicroChem
+technique
+levels7,8
+suboptimal
+synthetic substrate
+environment
+burst-like production
+production
+single-cell
+molecules
+Real-time
+yKT0032
+stochastic
+high-sensitivity
+Microfabricated
+advantage
+objective
+low-level expression
+low-copy
+biochemical
+spin-coating
+synchronization
+patterning
+background
+Fluorescenceactivated
+Russo-Marie
+cerevisiae
+expð2n=bÞ
+differentiating
+multiplexing
+differentiated
+picoliter-scale
+probability distribution
+system-wide characterization
+induction
+cytoplasm14
+Previously
+Measurement
+fluorescent molecules
+repressed
+Ellsworth Adhesives
+substrate fluorescein-di-bD
+embryonic
+measuring
+equation25
+illuminate
+suspension
+sensitivity
+competition
+Microfluidic
+surrounding
+individual
+injecting
+measurement
+ampicillin resistance
+estimated
+motorized
+enclosure
+techniques
+mammalian
+calculating
+Actuation
+Transcription
+NATURE|Vol
+thickness
+Ehrenberg
+Cohen-Bazire
+Massachusetts
+re-sampled
+conditions
+Escherichia
+microfluidic-based
+particular
+Bootstrap
+whole-genome
+University
+agreement
+biosynthesis
+eukaryotic
+Prevention
+Guptasarma
+chromosomal
+stochasticity
+fluorescent
+Chemistry
+Typically
+stochastic burst-like
+METHODS
+Cambridge
+enzymatic
+September
+determining
+utilization
+prokaryotic
+Balagadde
+Bioscience
+miniature
+subpopulation
+consequence
+Laboratory
+expression
+repressor
+regardless
+significant
+promoter­reporter
+burst-like expression
+LETTERS NATURE|Vol
+fluorescein concentration
+autohydrolysis
+fluorogenic substrate
+involvement
+steady-state distribution
+Biological
+financial
+Histogram
+mRNA27,28
+Additional
+chloroform-treated
+compression
+polydimethylsiloxane
+multilayer
+intracellular
+available
+enzymatic amplification
+microfluidic
+Environmental
+regulation
+Mathworks
+Oudenaarden
+consistent
+synthesis
+leakiness
+Guillerez
+single-molecule experiment
+continuous
+histogram
+Long-term monitoring
+derivative
+Quantitative
+translation
+step-wise
+population
+`all-or-none
+steady-state probability
+effective
+exponential
+Application
+Rosenfeld
+fluorescence microscope
+challenge
+high-resolution transparency
+hydrolysis
+exponential distribution
+frequency
+replication-induced transcription
+demonstrate
+distribution
+acquisition
+bootstrap
+Publishing
+well-fitted
+Tibshirani
+Introduction
+attribute
+correction
+inaccessible
+microbial
+Regulation
+Nanoscale
+Schematic
+glucose-containing
+conferring ampicillin
+b-D-galactosidase
+Fluorescein concentration
+PageWorks
+guarantee
+transduction
+information
+different
+permeability
+monitoring
+Fluorescence
+calibration
+transcription
+cytometry
+mechanism
+Steady-state
+resolution
+Stochasticity
+photoresist
+protein29
+Fabrication
+Single-cell
+difficult
+Correspondence
+photo-damage
+excitation
+Institute
+chloroform
+collection
+steady-state
+important
+demonstrate applicability
+fluorescein photobleaching
+synthetic fluorogenic
+proteomic
+degradation
+Differential interference
+normalization
+translation initiation
+instantaneous variability
+threefold difference
+b-galactosidase
+observation
+fluorescence
+Technology
+two-layer
+correspond
+autofluorescence
+Experiments
+Ghaemmaghami
+Interdependence
+decreasing
+fluorescein-di-bD -galactopyranoside
+quantitative
+LETTERS Stochastic
+dimethylsiloxane

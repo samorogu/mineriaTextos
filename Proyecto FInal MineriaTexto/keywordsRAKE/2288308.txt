@@ -1,0 +1,1161 @@
+par
+
+muscle
+
+t-coffee
+
+dialign 2
+
+mafft
+
+dca
+
+probcons
+
+clustal/dialign
+previously identified orthologous open reading frames
+individual steps involve procedures originally developed
+org/cgi/content/full/319/5862/473/dc1 som text references 9 october 2007
+identify individual amino acid residues
+cells vol 319 science
+
+*present address
+average pairwise sequence similarity ranging
+cytoplasmic scaffolding homer proteins
+guo
+org
+
+reports
+ambiguous alignment regions
+org
+
+science
+
+vol 319
+
+25 january 2008
+
+475
+
+downloaded
+org
+
+science
+
+vol 319
+
+25 january 2008
+
+473
+
+downloaded
+texas southwestern medical center
+active serine-threonine kinase akt
+markov chain monte carlo
+positively selected maximum maximum sites
+explores posterior probability distributions
+johns hopkins university school
+highly variable evolutionary parameter estimates
+marginal posterior probability distribution
+complex discrete random variables
+aligned amino acid sequences
+posi0 0 0 0 0 0 0 0 0 3 1 3 2 0 3 3 tively selected sites
+bootstrap proportions shown parenthetically
+org/cgi/content/full/319/5862/473 supporting online material
+alignment uncertainty affect genomic studies
+474
+
+25 january 2008
+
+vol 319
+
+science
+
+www
+confirming previous studies showing
+figure 2e shows results
+supporting online material
+www
+positively selected sites differ
+science web sites related
+costimulatory pathways predominantly mediated
+expressed shrnas targeting homer3
+identifying orthologous gene sets
+il-2 promoter integrates signals
+homer tko mice relative
+properly accommodate alignment uncertainty
+commonly estimated evolutionary parameters
+positive selection 0 0 0 1 0 0 0 0 6 6 varied depending
+amino acid sequence
+cell surface receptor cd28
+earlier molecular evolution studies
+cytoplasmic scaffolding proteins
+reports
+probability distribution
+individual transcription factors
+positively selected sites
+wide tissue distribution
+reports
+cedure advocated
+neuronal excitatory synapse
+figure 2a shows
+luciferase reporter driven
+short hairpin rnas
+great practical difficulty
+authors contributed equally
+york avenue nw
+displayed lymphocyte infiltration
+print issn 0036-8075
+crude summary statistic
+luciferase reporter constructs
+selected additional articles
+pairwise homology statements
+finding fewer sites
+online issn 1095-9203
+proper evolutionary relationships
+homer proteins typically
+differing trees depending
+nucleic acids res
+comparative genomics studies
+maximum likelihood estimate
+removing gapped sites
+earlier data sets
+orthologous gene set
+strong positive relation
+flow diagram showing
+default program settings
+average symmetric-difference distance
+align0 0 7 0 0 0 7 0 ment treatment
+detected orthologous sequence
+comparative genomics study
+unique trees outputted
+sloan research fellowship
+align-
+
+ments produced
+examined genomic data
+find strongly supported
+multimerized binding elements
+evolutionary biology literature
+orf positively correlates
+orthologous gene sequences
+2008
+
+reports
+
+alignment uncertainty
+average topological distance
+low bootstrap support
+estimated divergence dates
+produce discordant inferences
+subsequent inferences depend
+positive natural selection
+positive selection differ
+comparative genomics analysis
+enhancing tcr signaling
+including high-resolution figures
+gapped position leads
+alignment programs resulted
+involving orf ypl077c
+genomic analysis
+karen
+genomic analysis karen
+statistical alignment pro-
+construct nucleotide alignments
+examined alignment variability
+bayesian-inferred alignment variability
+inherent alignment uncertainty
+alignment methods produce
+alignment methods examined
+alignment methods focused
+nonparametric bootstrap method
+reflects underlying variability
+alignment treatments tend
+article cites 24 articles
+discarding considerable portions
+phylogenetic inferences differ
+anciently diverged species
+homer gene expression
+alignment methods resulting
+inferring positive 0 0 9 9 selection
+estimated nonsynonymous substitutions
+individual programs
+minimum minimum
+
+www
+phylogenetic model parameters
+conflicting trees estimated
+alignment uncertainty problem
+common statistical procedure
+alignment procedures
+current alignment algorithms
+perform phylogeny estimation
+figure 1 shows
+statistical methods applied
+476
+
+25 january 2008
+
+www
+previous studies
+orthologous sequences
+homer proteins
+cerevisiae ranging
+maximum likelihood
+gapped sites
+cases alignment treatments
+genomic studies
+carefully selected
+pairwise distances
+average distance
+nonparametric bootstrap
+il-2 promoter
+costimulatory receptor
+sequence alignment
+random variable
+org
+
+downloaded
+orf affect
+developed autoimmune-
+kud
+
+dca
+results demonstrate
+properly accounted
+genomic data
+bay
+
+probcons
+differ significantly
+orthologs identified
+resources related
+kud
+
+t-coffee
+prior probability
+evolutionary parameters
+cell receptor
+comparative pathobiology
+costimulatory signals
+phylogenetic studies
+homer gene
+flow diagram
+klu
+
+mafft
+flagging sites
+80
+
+bootstrap support
+online version
+evolutionary biologist
+reflects variability
+positive selection
+molecular sequences
+1 articles hosted
+title science
+dtl
+
+science
+topological distance
+orf varied
+nonsynonymous divergence
+org/cgi/content/full/319/5862/473#related-content
+org/cgi/content/full/319/5862/473#otherarticles
+sequence comparisons
+compared sequences
+evaluate homology
+underlying assumptions
+dialign 2
+parameter uncertainty
+sites inferred
+inferred sites
+statistical methods
+phylogenetic study
+statistical alignment
+generated mice
+calcium signals
+homer-deficient mice
+homer3-deficient mice
+signals cooperate
+molecular biology
+alignment variability
+trees estimated
+estimated trees
+alignment uncertainty
+positive correlation
+alignment treatment
+program bali-phy
+nonsynonymous substitutions
+difference
+1 program
+flow charts
+maximum number
+statistical phylo-alignment
+statistical method
+alignment methods
+cell populations
+evolutionary processes
+phylogenies estimated
+genome res
+homer family
+discarding information
+phylogenetic problem
+primary data
+--aligning data
+phylogenetic marker
+incorporating uncertainty
+30
+
+alignment distance
+7 6
+
+alignment distance
+40
+
+alignment distance
+alignment distance
+integrative biology
+study designed
+animal biology
+alignment treatments
+alignment 0 0 19 9 1 0 0 0 1 0 0 31 17 8 3 8 2 1 1 1 treatments
+alignment procedure
+alignment dependent
+alignment programs--clustal
+single alignment
+alignment differs
+alignment method
+maximum-likelihood trees
+cell activation
+variable alignments
+2 katharine whartenby
+saccharomyces cerevisiae
+common theme
+python cobbling
+american association
+negative regulators
+carefully chosen
+stochastic model
+intensive undertaking
+considerable effect
+biophysical chemistry
+key point
+assaying interleukin-2
+generally lower
+la jolla
+bayesian model
+5 million years
+7 marlin dehoff
+reducing conflict
+branch lengths
+poorly supported
+kruskal-wallis test
+redundant roles
+simply throwing
+3 samuel bouyain
+nfatc2 isoform
+largely automated
+4 jianchen tu
+basal conditions
+m2 model
+carefully constructed
+lymph nodes
+org/abs/ q-bio
+rights reserved
+excluding substitutions
+5 yuwen zhu
+quality checks
+san diego
+obtaining reprints
+7 daniel leahy
+remove conflict
+30
+
+nonsynonymous rate
+pworley@jhmi
+highwire press
+los angeles
+nonsynonymous rate
+7 samuel collins
+phylogenies produced
+effects produced
+measurable difference
+subject collections
+rank correlation
+registered trademark
+published weekly
+uncertain quality
+calcineurin-dependent dephosphorylation
+special importance
+homer-nfat binding
+formidable task
+immune system
+100 million years
+cytokine expression
+scripting languages
+2 shin kang
+baliphy implements
+multiple organs
+carefully designed
+phylogeny estimation
+7 jonathan powell
+generally assumes
+exclude
+
+clustal
+increasing 8 0 0 8 0 0 stringency
+obtaining permission
+anti-cd3­stimulated
+resulting alignments
+excluding data
+species established
+species contained
+il-2 production
+nf-kb pathways
+statistical analyses
+sloppy analysis
+updated information
+org/cgi/collection/genetics information
+phylogenetic analyses
+inconsistent inferences
+substitution rate
+substitution rates
+dna substitution
+tree distance
+00
+
+tree distance
+redundant functions
+preferentially enhanced
+homer3 appeared
+align sequences
+vivo functions
+cells lacking
+cells depleted
+enhanced dephosphorylation
+mafft
+probcons
+t-coffee
+dca
+tree topology
+yeast species
+orf ranged
+suffer disproportionately
+control self-reactivity
+human jurkat
+calcineurin-nfat pathway
+applied repeatedly
+greatest interest
+phylogeny simultaneously
+accurate inference
+correct identification
+positive-selection inference
+6 michael lutz
+potential role
+metric counts
+accepted 6 december 2007 10
+immune function
+wild-type controls
+alignments disagree
+sampled alignments
+alignments produced
+alignments sampled
+article appears
+muscle
+2008
+muscle
+johnh@berkeley
+nuclear factor
+deletion events
+carefully performed
+large number
+conflicting orfs
+orfs inherently
+remaining 470 orfs
+measure distances
+1151532
+
+nfat binding
+snyder department
+concordant inferences
+bmc evol
+orthologous
+necessarily result
+developed
+identified
+org/cgi/content/full/319/5862/473/dc1
+probability
+make conclusions
+references
+identify
+maximum
+sites
+consistent number
+downloaded
+online
+university
+science
+science 319
+science 301
+1502 sets
+science 302
+steps
+studies
+genetics http
+homer
+shown
+shrnas
+evolution
+tko
+bay
+
+fig
+minimum 0 0 3 5 1 1 0 0 0 0 10 1 4 0 1 2 2 2
+org
+estimated
+gene
+gene 211
+parameter
+variability
+uncertainty
+study
+molecular
+parameters
+il-2
+par
+methods
+alignment
+trees
+distance
+treatments
+estimates
+current
+method
+algorithms
+produced
+detected
+research
+inferring
+position
+cd28
+supported
+common
+procedure
+binding
+perform
+conflicting
+model
+nonsynonymous
+expression
+support
+portions
+problem
+diverged
+species
+www
+activation
+pathways
+analysis
+yeast
+information
+inferences
+50 inferences
+inferences 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+substitution
+enhanced
+including
+homer3
+inferred
+production
+tcr
+family
+excluding
+cells
+functions
+genome
+tree
+orf 1258 148 29 18 3 0 1 3 0 1032 138 62 1 45 14 25 12 10 5 0 9 0
+orf
+consistent
+5 michael
+inference
+control
+december
+concordant
+genetics 155
+suffer
+calcineurin-nfat
+correct
+wild-type
+necessarily
+result
+interest
+applied
+processes
+make
+effect
+comparisons
+conclusions
+role
+phylogeny
+analyses
+function
+metric
+jurkat
+1502 × 7 alignments
+alignments
+article
+kud
+performed
+bay
+berkeley
+deletion
+factor
+number
+1502 orfs
+1032 orfs
+orfs
+cases
+nfat
+measure
+6 department
+4 department
+department
+evol
+klu
+align
+http
+fig
+sci
+redelings
+subjected
+excluded
+95 decreases
+case
+jensen
+cellular
+mccorkell
+higgins
+natl
+list
+noted
+genomicist
+lander
+cost
+insertion
+sum
+44 showed
+rs = 0
+genes
+understanding
+morrison
+design
+notes
+1
+paradoxus
+kudriavzevii
+suggests
+amount
+pick
+holmes
+clark
+addressed
+apply
+total
+//arxiv
+reflected
+usa
+2department
+perl
+7department
+sort
+kuma
+detail
+inadvisable
+hein
+thompson
+dephosphorylated
+reeb
+account
+calcineurin
+weighting
+cas
+work
+morgenstern
+reproduce
+remain
+4 paul
+spearman
+aaas
+cited
+effectively
+1
+
+section
+robinson
+dissimilar
+castellii
+pachter
+s1
+means
+pedersen
+activated
+occur
+neuroscience
+criterion
+5department
+ca 90095
+biophysics
+end
+types
+goal
+overexpression
+s2
+thorne
+schwartz
+cd3
+filters
+knock
+activating
+treat
+hypothesize
+correspondence
+questions
+age
+cer
+1b
+possess
+mcmc
+2d
+wong
+2b
+2c
+found
+referred
+biol
+frequency
+katoh
+foulds
+increase
+ca 92093
+medicine
+math
+free
+contrast
+california
+members
+org/
+pairs
+endrizzi
+times
+place
+bioinformatics 22
+appropriateness
+mapk-ap1
+synonymous
+graybeal
+bayanus
+huelsenbeck3*
+biomathematics
+1c
+1a
+regulation
+1e
+alfred
+1f
+95 reduced
+pathology
+dn/ds
+ca 94720
+rescue
+costimulation
+part
+corresponded
+homer2
+pennsylvania
+assays
+accessed
+treated
+brudno
+misawa
+mik
+antagonized
+qm/0510052
+copyright 2008
+patterson
+md 21205
+goldman
+chart
+services
+measured
+inconsistency
+rs = -0
+doi
+observation
+considered
+face
+yang
+quantifying
+incomplete
+show
+homer1
+innate
+lutzoni
+threshold
+trivial
+consistently
+1126/science
+tx 75235
+bioinformatics 15
+bioinformatics 17
+integrate
+thousands
+worley2
+dn
+/permissions
+mikatae
+syst
+hyperplasia
+competing
+ds
+investigate
+2 kelly
+uncover
+gibson
+respond
+proportion
+achieved
+approximating
+violated
+birren
+assessed
+nature 423
+fail
+cliften
+exploited
+1 marc
+increased
+initially
+bruno
+1d
+//www
+felsenstein
+recently
+dc 20005
+paml
+huang
+suggested
+fault
+edgar
+sensitive
+mugridge
+gtr+
+finds
+baltimore
+albeit
+reasons
+lake
+sciencemag
+mahabhashyam
+suchard
+regulated
+table
+addition
+aligning
+gm-069801
+al
+3department
+2 john
+10 weeks
+mle
+miyata
+behavior
+kishino
+site
+dallas
+examine
+nielsen
+batzoglou
+things
+difficult
+week
+nih
+advocate
+identity
+heringa
+relies
+myers
+possibly
+makes
+biochemistry
+solve
+observed
+wagner
+overlapped
+zoller
+ease
+advancement
+easy
+problematic
+resolved
+8department
+2* david
+loss
+biologists
+pa 19104
+mol
+0 0 0 0 1 0 0 1 0 5 2 5 psel > 0
+performing
+unnecessary
+informative
+grants
+ecology
+kluyveri
+selectivity
+huso
+dermatology
+lead
+broad
+e-mail
+equal
+proc
+notredame
+reasonable
+deleted
+step
+carried
+tracing
+deb-0445453
+range
+washington
+nsf
+acad
+loci
+philadelphia
+specifically
+analyze
+combined
+sophisticated
+knockdown
+repeated
+gc45
+level
+raising
+condition
+stoye
+2solomon
+kellis
+neurology
+similar
+calculated
+defined
+influence
+general
+oncology-immunology/hematopoiesis
+accounting
+biosci
+95 psel > 0
+problems
+allowing
+included
+ellis
+effector-memory
+0 0 0 0 1 0 0 0 1 1 0 1 4 4
+92
+428
+0
+1792
+35
+1994
+1998
+05 0
+33
+30
+37
+= 0
+241
+431
+330
+25
+
+0
+05
+
+3
+
+0
+14960
+< 0
+1991
+30 0
+1997
+00 0
+1151532
+1
+1175
+00
+
+0
+131
+20
+
+0
+24
+26
+20
+21
+22
+23
+28
+2%
+5
+
+4
+
+0
+378
+25
+8%
+35
+
+0
+35 0
+05
+
+0
+7
+00
+
+2
+
+5
+10
+
+0
+00 30
+628
+4673
+1999
+40
+
+2
+
+0
+30
+
+0
+11
+10
+22­24
+12
+15
+14
+17
+19
+18
+25 0
+30
+
+0 0
+1960
+20 0
+205
+803
+15
+
+0
+08
+00
+
+3
+
+10
+8
+13
+2
+16
+00
+05
+3
+2­4
+67
+100
+0001
+2047
+401
+20
+
+1
+
+0 0
+174
+9
+2008
+
+0
+89%
+49
+00
+
+1
+
+0
+211
+60
+
+0
+00
+
+5
+
+20
+32
+4
+12­14
+59
+54
+51
+53
+52
+71
+114
+10 0
+7 6
+426
+302
+1842
+15 0
+40 0 1 2 3 4 5 6 7
+
+0
+3059
+1981
+*
+6
+40 0
+222
+1200
+00
+
+4
+
+15
+2003
+46
+42
+43
+40
+5
+4%
+5­11
+2002
+473
+2000
+2001
+2006
+2007
+2004
+2005
+2008

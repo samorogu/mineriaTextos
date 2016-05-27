@@ -1,0 +1,113 @@
+restriction
+different substitution
+statistical
+Department
+Metropolis
+command-driven
+convergence acceleration
+parameters
+application
+Applications
+heterogeneity
+Likelihood
+correspondence
+computational efficiency
+Evolution
+non-statistical
+dependent
+morphological
+parameter-rich
+framework
+phylogeny
+posterior distribution
+computational complexity
+Evolutionary
+investigator
+graphical representation
+nonsynonymous/synonymous
+magnitude
+analytical
+Availability
+homogeneous
+hallmark
+generation
+Currently
+acceleration technique
+morphology
+autocorrelated
+standard statistical
+moderate-sized empirical
+Available
+consensus
+parallelization
+compilation
+available
+different stochastic
+University
+standard
+Partition-specific
+substitution
+analyzed
+likelihood
+topology
+installation
+partition-unique
+constraint
+December
+covarion/covariotide
+Individual
+computational
+probability
+Message-Passing Interface
+Macintosh
+probability distribution
+appropriate
+mitochondrial
+individual parameter
+standard molecular
+so-called posterior
+realistic evolutionary
+introduction
+Huelsenbeck
+phylogenetic inference
+assumption
+California
+precompiled
+Bioinformatics
+posterior probability
+correction
+specifying character
+composite
+Metropolis­Hastings
+Consensus
+bootstrapping approach
+phylogenetic analysis
+evolution
+birth-and-death
+heterogeneous
+distribution
+Different
+ABSTRACT
+Computational complexity
+metropolis-coupled
+stochastic evolutionary
+ACKNOWLEDGEMENTS
+information
+different
+efficient
+coalescent
+potential
+Systematic
+development
+independent
+February
+variation
+important
+Biological
+nucleotide
+structure
+partition
+tab-delimited
+Bollback
+MPI-enabled
+different parameter

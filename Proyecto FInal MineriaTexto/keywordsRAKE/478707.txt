@@ -1,0 +1,596 @@
+culture
+
+cell number doublings
+
+phenotype
+
+figure 1 neural progenitor cells isolated
+20 ng ml 1 basic fibroblast growth factor
+20 ng ml 1 platelet-derived growth factor ab
+future systematic protein­protein interaction studies
+tissue samples gave neural progenitor cells
+20 ng ml 1 epidermal growth factor
+death
+ulturing neural progenitor cells
+adult cultures produced similar proportions
+esitmated cells / doublings 1014 10
+12
+
+adult
+esitmated cells / doublings 1014 1012 1010 108 106 104 102 100 0
+
+neonatal
+initially plated isolated cells
+cerevisiae protein­protein interaction network
+yielded viable progenitor cells
+glial fibrillary acidic protein
+cell culture
+
+progenitor cells
+remaining cortical grey matter
+essentially identical protein-network topology
+protein interaction networks suggests
+northwestern university medical school
+network diameter increases rapidly
+highly heterogeneous scale-free topology
+inherently uniform exponential topology
+protein­protein interaction network
+neural progenitor cells
+240 identified direct physical interactions
+001
+
+-tubulin
+
+neun
+
+gfap
+
+o4
+
+100 200 300 days
+randomly selected yeast proteins
+highly inhomogeneous scale-free network
+highly connected proteins play
+fetal progenitor cells
+stem cell technologies
+systematic twohybrid analyses3
+pure scale-free networks
+rat stem cells
+post-mitotic neuron marker
+detailed statistical analysis
+longest post-mortem interval
+complex hierarchical web
+relative therapeutic merits
+bacterium helicobacter pylori 7
+bovine serum albumin
+short-length scale correction
+provide quantitative support
+provided en bloc
+nucleic acids res
+10% fetal bovine serum
+resectioned temporal cortex
+human fetal tissue3
+withdrawing growth factors
+temporal cortex tissue
+immature oligodendrocyte marker
+postmortem human brain
+yeast saccharomyces cerevisiae
+complex cellular networks
+adult human tissue
+protein­protein interactions
+linear correlation coefficient
+separate organisms forms
+figure 1 characteristics
+interacting proteins based
+common large-scale structure
+yeast protein interacts
+human postmortem tissues
+processed 23 tissue samples
+adult rodent brain
+highly connected proteins
+progenitor cells
+fewer links constitute
+accommodate proliferative expansion
+individual biochemical function
+single gene deletion
+100 10
+
+neonatal adult
+
+% positive
+
+1010 108 106 104 102
+
+1 0
+interacting yeast proteins
+cultures reached senescence
+prove lethal correlates
+70 population doublings
+spontaneously generated neurons
+/~networks/cell
+cell dynamics
+protein networks
+culture
+
+0
+
+100 200 300 days
+highly connected
+systematic mutagenesis
+adult cells
+proliferative cells
+protein interacts
+growth factors
+human brain
+culture 3 hours
+brain tissue
+differentiated cells
+protein interactions
+protein product
+protein confirms
+growth rate
+inhomogeneous structure
+slow growth
+spontaneously generated
+cellular function
+biological networks
+connective tissue
+tissue grew
+fetal cultures3
+exponential cut-
+motor cortex
+30 doublings
+adult tissues
+single deletion
+growth medium
+positive correlation
+large-scale characteristics
+rodent tissue1
+differentiated neonatal
+substantial number
+connected nodes8
+traditionally identified
+immature glia
+total number
+small number
+cells obtained
+yeast proteome
+connected proteins
+white matter
+yeast proteins
+representative sections
+computationally eliminated
+retinoic acid
+phenotypic profile
+cold antibiotic-
+phenotypic effect
+cell
+glycosylated form
+vitro senescence
+phenotypic counts
+barabási*
+corpus callosum
+© 2001 macmillan magazines
+eds hofmeyr
+highest yields
+parameter controlling
+molecular interactions
+striking capacity
+long-term storage
+significant reduction
+random errors
+post-genomic view
+natl acad
+evolutionary selection
+node signifies
+signalling molecules
+notre dame
+fibronectin-coated plates
+stem-cell cofactor
+neutral protease
+finely diced
+communications
+department
+successful propagation
+functional modules1
+complete differentiation
+ethical reasons
+surface area
+error tolerance
+surgical specimens
+phase-contrast microscopy
+log phase
+& barabási
+additional details
+extracerebral complications
+proteome database13
+simultaneous tolerance
+mediating interactions
+dapi stain
+buffered-salt solution
+building blocks
+27-yearold male
+age groups
+power law5
+proves lethal
+zno008@nwu
+secreted form
+simultaneous emergence
+enzymic digestion
+ventricular zone
+genetically modified
+neurodegenerative diseases
+random mutation
+decreased significantly
+stellenbosch univ
+topological position
+cellular map
+greatly improved
+genetic redundancy
+individual actions
+topological component
+showing signs
+non-overlapping data3
+hippocampal formation
+link directions
+largest cluster
+limited success
+encountered problems5­8
+topological positions
+integrated approach
+phenotypic profiles
+individual proteins12
+large extent
+simultaneously incorporates
+simulated tolerance
+immature neurons
+individual proteins
+sectioned 2 hours
+central role
+complete map
+f-12 medium
+contextual properties
+postnatal male
+communications
+
+lethality
+phenotypic consequence
+average possessing
+plating efficiency
+links versus
+random mutations
+culture
+f12 supplemented
+oltvai
+*department
+initial survival
+bottom row
+chilled hank
+25% conditioned medium
+samples
+usa e-mail
+connectivity distribution
+individual removal
+essential proteins
+nature genet
+cells
+protein
+neun
+death
+cerevisiae
+growth
+o4
+topology
+tissue
+adult
+university
+neonatal
+identified
+number
+connected
+-tubulin
+yeast
+days
+network
+senescence
+organisms
+prove
+correlation
+interactions
+lethal
+individual
+tissues
+deletion
+expansion
+20 interactions
+cultures
+proteins
+870 proteins
+24 hours
+map
+gfap
+role
+processed
+neurons
+row
+links
+lethality
+consequence
+supplemented
+medium
+average
+contextual
+15 links
+mutations
+postnatal
+hank
+plating
+survival
+oltvai
+usa
+1
+usa 97
+obtained
+connectivity
+essential
+removal
+white
+nature 409
+nature 407
+nature 406
+nature 405
+nature 403
+nature 402
+41
+
+nature
+nature
+sci
+results
+yellow
+& stanley
+overproduce
+nodes
+affect
+list
+a2b5
+fragility
+mason
+blue
+chicago
+giving
+shared
+contrast
+understanding
+reported
+kc 20
+changed
+572 mutants
+rank-ordered
+amaral
+stimulating
+expanding
+goal
+alb@
+divided
+immunostaining
+papain
+651-654
+derived
+demonstrating
+data
+element
+green
+eisenberg
+fgf-2
+constituents
+insight
+experiments
+including
+map2abc
+& wagner
+absence
+offers
+fig
+orange
+affected
+widely
+males
+1b
+transferrin
+cystatin
+idea
+fibronectin
+owing
+penicillin
+shown
+induced
+ref
+jeong*
+red
+forskolin
+bidirectional
+likelihood
+proteome9
+determining
+times
+probability
+metabolic5
+42
+
+fibronectin
+
+100
+size
+unknown
+1a
+1c
+brains
+albert
+bit-9500
+isolation
+modelled
+barthelemy
+alksney
+courtesy
+astrocytes
+hopfield
+-
+neurofilament 150
+assessed
+dmem
+streptomycin
+considered
+physics
+d-
+show
+d7
+find
+stained
+uetz
+winzeler
+preferred
+pearson
+investigate
+hartwell
+architecture
+uncover
+jeong
+roteins
+glutamine
+numerous
+//www
+hippocampus
+extend
+importance
+centrality
+leibler
+rinsed
+routine1
+basis
+rohwer
+due
+combined
+expected
+& murray
+treatment
+costanzo
+connectivities5
+expanded
+tolerate
+replaced
+coupled
+tions
+pathology
+d14
+insulin
+http
+indispensability
+rain
+lower
+colour
+xenarios
+organization
+wagner
+identify
+ross-macdonald
+oligodendrocytes
+replated
+source
+press
+fibroblasts
+informative
+animating
+science 285
+marcotte
+www
+illinois 60611
+dissociated
+scala
+demonstrates
+& snoep
+proc
+myofibromatosis
+agreement
+& yeates
+condi-
+rare
+amphotericin-
+important
+trypsin
+slightly
+indiana 46556
+tombor
+removing
+people
+k0 1
+catalysts
+dnase
+11-week-
+fraction
+neonate
+cryopreserved
+removed
+microorganisms
+robustness
+10% dimethylsulphoxide
+stages
+nonlethal
+describe
+al
+27-year-
+application
+genome
+test
+stained1
+vol 411
+fell
+died
+correlated
+implies
+d21
+nuclei
+45 min
+0
+413­418
+823­826
+37
+289­291
+6
+1999
+1
+24
+21
+28
+93%
+47­52
+7
+62%
+01 0
+­
+2
+73­76
+11
+10
+13
+12
+14
+7%
+75
+355­361
+11149­11152
+8
+211­215
+378­382
+3
+1 0
+9
+21%
+4
+623­627
+79­85
+901­906
+5
+~78%
+2000
+2001

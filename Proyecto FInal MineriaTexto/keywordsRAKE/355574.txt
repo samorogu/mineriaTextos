@@ -1,0 +1,1183 @@
+nucleic acid metabolism sensory perception molecular function actin family cytoskeletal protein cytoskeletal protein defence/immunity protein extracellular matrix homeotic transcription factor immunoglobulin receptor family member kinase modulator krab box transcription factor membrane traffic protein microtubule-binding motor protein microtubule family cytoskeletal protein non-motor actin-binding protein nuclear hormone receptor protein kinase receptor rna helicase transcription factor voltage-gated potassium channel zinc finger transcription factor
+
+0
+motility ectoderm development gametogenesis general vesicle transport intracellular protein traffic mrna transcription natural-killer-cell-mediated immunity nucleoside
+nucleic acid metabolism
+sensory perception
+nuclear hormone receptors
+adaptive protein evolution
+dystrophin related protein 2
+cornell university theory center computational biology service unit
+transcription factors
+including defence/immunity proteins
+mann­whitney u-test comparing disease versus non-disease loci
+actin binding
+observed species nonpffiffiffiffiffiffi synonymous substitution rate dn
+panther molecular function classification
+cytoskeletal protein-coding genes
+loci exhibiting excess amino acid polymorphism relative
+general vesicle transport
+cytoskeletal proteins
+205 cytoskeletal proteins
+cytoskeletal formation
+site amino acid substitution rate
+celera genomics applied exon-specific pcr amplification
+gene harbours excess amino acid variation
+nuclear
+amino acid fixed differences relative
+wright­fisher genic selection model
+9 myosin heavy chain loci exhibit
+excess amino acid variation relative
+likelihood function
+biological process apoptosis cell structure
+show
+1156
+
+excess amino acid polymorphism
+show excess amino acid polymorphism
+exon-specific polymerase chain reaction
+mcdonald­kreitman cell entries show
+contingency tables comparing polymorphism
+ectoderm development
+amino acid polymorphism relative
+amino acid variation relative
+© 2005 nature publishing group
+
+1153
+
+letters
+
+nature
+1155
+
+© 2005 nature publishing group
+
+letters
+
+nature
+highly significant negative association ðbpffiffiffiffi ¼ 27
+function
+variable amino acid positions
+mann­whitney u-test
+extensive amino acid polymorphism
+positively selected genes varies greatly
+amino acid divergence relative
+dbsnp numbers ss48401226­ss48429818
+rapid amino acid evolution
+fixed amino acid differences
+amino acid fixed differences
+98 exhibiting significantly elevated levels
+1 amino acid variable sites
+amino acid variable sites
+case western reserve university
+high genomic deleterious mutation rates
+excess amino acid polymorphism
+amino acid selection map
+non-lethal amino acid mutations
+mcdonald­kreitman cell entries
+negatively selected genes
+category p-
+poisson random field setting4
+genes remain prime candidates
+neutral molecular evolution based
+comparative population genomic data4
+1038/nature04240
+
+letters
+natural selection
+red denoting cis completely
+20 october 2005
+
+letters
+
+adaptive differences
+show weak familial tendencies
+selfing weed arabidopsis thaliana
+equal tail credibility intervals
+377 potentially informative loci showing evidence
+amino acid differences
+1154
+
+© 2005 nature publishing group
+
+nature
+© 2005 nature publishing group
+
+nature
+amino acid variability
+amino acid polymorphism
+amino acid replacements
+amino acid variation
+conventional mcdonald­kreitman table
+amino acid polymorphisms
+amino acid evolution
+molecular functions showing
+bayesian population genetic inference
+human populations include myomesin 2
+slightly deleterious mutations increases
+coding sequence polymorphism identified
+recent molecular evolution
+author information accession numbers
+amino acid divergence
+identify non-neutrally evolving loci
+nonsynonymous single nucleotide polymorphisms
+identifying rapidly evolving genes
+strong purifying selection operating
+method estimates posterior distributions
+genomic average synonymous divergence
+molecular biology
+033 potentially informative loci show
+estimated average selection coefficient
+non-synonymous cell entries
+indicating weak negative selection
+celera ips data set
+population genetic selection parameter
+celera genomics sequenced
+poisson random field
+1157
+
+© 2005 nature publishing group
+467 non-synonymous differences ðdn ¼ 0
+non-synonymous polymorphisms relative
+20 october 2005
+
+letters
+
+selection
+highly significant excess
+species varies greatly5­16
+molecular evolution
+non-parametric bootstrap re-sampling
+computational biology
+competing financial interests
+1401 harbor bay parkway
+melissa todd hubisz1
+solanaceae predates speciation
+45 west gude drive
+renal sodium handling
+internal stop codon
+michele cargill4* & andrew
+panther classifications enriched
+non-synonymous fixed differences
+mildly deleterious variation
+099 fixed synonymous differences
+synonymous fixed differences
+effective population size
+significantly negatively selected
+rapidly evolving due
+disease versus non-disease
+molecular functions
+pool genomic polymorphism
+marginally significant excess
+including non-muscle myosin
+highly deleterious mutations
+highly polymorphic loci
+yielding average synonymous
+variable non-synonymous sites
+rate dn
+indicating good agreement
+complementary dna support
+ncbi reference sequence
+celera data
+
+conditioning
+bayesian confidence intervals
+molecular adaptation
+authors contributed equally
+discernable darwinian consequences
+locus mutation rates
+essential hypertensive patients
+reach appreciable frequencies
+balancing selection operating
+count data denote
+mendelian dis1 orders
+strong purifying selection1­4
+mcdonald­kreitman analysis
+deleterious human alleles
+pervasive positive selection6­9
+non-synonymous snp densities
+coding nucleotide variability
+rapidly evolving proteins
+obtain sequence variants
+low posterior probabilities
+biological processes showing
+neutral demographic scenarios
+negatively selected loci
+ips data contained
+000 replicate data sets
+motility
+add1 460w allele
+nucleoside
+gametogenesis
+diploid selection models
+213 environmental response genes
+exclude paralogous genes
+evolutionarily constrained genes
+online mendelian inheritance
+strong balancing selection
+bars represent 95% cis
+negatively selected genes
+rapidly evolving genes
+likelihood-ratio test ðlrtþ ¼ 14
+weakly deleterious mutations
+facing positive selection
+positive darwinian selection
+weak negative selection
+snp markers analysed
+aligned coding dna
+ips data sets
+20 october 2005
+
+negative selection
+arbitrary standard deviation
+species divergence time
+identifying candidate genes
+showing strong evidence
+informative data sets
+cell structure
+gaussian prior distribution
+marginal posterior distributions
+positively selected genes
+human genome
+carlos
+ips data set
+bayesian analysis suggests
+individual gene parameters
+figure 1c shows
+logistic regression analysis
+neutral theory
+association mapping studies
+drosophila homologue implicated
+observed level
+fixed differences
+cornell university
+versus non-synonymous
+find strong evidence
+variable sites
+genomic average
+alignment reduces power
+versus divergence
+deleterious variation
+rapidly evolving
+negatively selected
+synonymous differences
+dna polymorphism
+potentially informative
+celera data
+sequence variation
+deleterious consequences
+weakly deleterious
+purifying selection
+natural selection
+selection map
+selection operating
+population genetic
+category genes
+positively selected
+synonymous sites
+panther classification
+95% confidence intervals
+arabidopsis thaliana
+human polymorphism
+genomic data
+non-lethal mutations
+50 loci identified
+high levels
+red bars
+weak negative
+fixed difference
+non-synonymous snp
+weak selection
+selection coefficient
+genomic parameters
+133 biological processes
+biological processes
+ips data
+synonymous polymorphisms
+cdb28@cornell
+author contributions
+logistic regression
+credibility intervals
+local populations
+contribute significantly
+simultaneous inference
+negative selection
+non-disease genes
+haplotype variation
+population growth
+invariant sites
+demographic models
+interesting group
+group constitutes
+human evolution
+myosin viia
+significant categories
+selection parameter
+loci sequenced
+positive selection
+95% sequence identity
+genetic disease
+nucleotide data
+divergence data
+informative loci
+genetic variance
+single-nucleotide polymorphisms
+alpha-adducin polymorphisms
+genetic basis
+identify loci
+non-neutral evolution
+nonneutral evolution
+clear excess
+large excess
+data set
+method quantifies
+arbitrary dominance
+hypertensive individuals
+recent analytical
+authors declare
+online version
+mkprf method
+negative
+
+1 department
+segregating variants
+selection coefficients
+detect selection
+selection based
+mendelian disease
+genomic location
+informative set
+nature genet
+supplementary data 1
+protein-coding genes
+mendelian disorder
+mendelian diseases
+strong evidence
+20 october 2005
+
+figure 1
+demographic model
+unique accession
+proteins encoded
+non-synonymous snps
+coding regions
+chimpanzee sequence
+311 non-synonymous snps
+biological statistics
+posterior distributions
+synonymous snps
+permissions information
+95% credibility level
+arabidopsis genome
+supplementary information
+human subjects
+human genome
+positive selection23
+selection analysis
+species enables
+non-neutral loci
+classify 813 loci
+sixteen loci
+weak over-dominance
+black bars
+high degree
+grey bars
+population genetics
+human genes
+313 human genes
+summary distributions
+dystrophin gene
+cardiovascular disease
+disease susceptibility
+disease status
+diverse array
+prevents fixation
+20 european americans
+received 24 april
+227 biotechnology building
+direct sequencing
+nih grants
+plos biol
+19 african americans
+101 biotechnology building
+broad level
+initial intention
+3applied biosystems
+genome res
+handle applera_gi
+medical geneticists
+linkage disequilibrium
+hierarchical model
+smooth muscle
+4celera diagnostics
+nm series
+non-repetitive elements
+blood-pressure homeostasis
+substantial portion
+cerebral arteriopathy
+conservative assumption
+chief advantage
+natl acad
+african americans
+small minority
+non-bold text
+ss48429821­ ss48431291
+evolutionary past
+kidney int
+phylogenetic approaches
+european americans
+morbidity entry
+rasmus nielsen1
+simulation work22
+interesting result
+colorectal carcinoma
+clark6*
+
+comparisons
+selective effects
+medical conditions
+scott williamson1
+considerable interest
+// cbsuapps
+stephen glanowski3
+pathogen pressure
+10900 euclid avenue
+keen interest
+daniel civello4
+makes efficient
+muscular dystrophy
+congenital deafness
+usher syndrome
+developed countries
+s154­ -s164
+previous studies
+self-incompatibility alleles24
+alternative explanation
+adi fledel-alon1
+slight modification
+1d shows
+adult skeletal
+bold text
+add1 g460w
+causative variant
+local populations9
+morbidity status
+complex disorders
+accepted 14 september 2005
+ins data
+simulated data
+classify genes
+genes contributing
+candidate genes
+genes classified
+non-neutral genes
+032 genes shared
+posterior probability
+loci involved
+moderate frequencies
+posterior mass
+test statistic
+deeper analysis
+find evidence
+omim status
+blue bars
+chimpanzee yield
+supplementary methods
+male chimpanzee
+methods
+sequencing
+gene shows
+gene implicated
+supplementary table 1
+genes involved
+self-incompatibility locus
+blat­ -
+shows histograms
+pcr
+contrast patterns
+mitochondrial genomes
+p2 ¼ pr {
+adh locus
+considerable overlap
+applied
+cambridge univ
+moderately deleterious11­16
+contrasting patterns
+priori assumptions
+non-significant categories
+mcdonald
+amplification 20
+dk-2100 copenhagen
+drosophila melanogaster
+posterior distribution
+omim database
+b-adducin genes
+university
+alignment tool
+mkprf analyses
+large proportion
+null hypothesis
+becker types
+refseq portion
+conditionally independent
+medical genetics
+figure 1b
+analysis discovered 304
+full details
+statistical approach
+celera
+kreitman
+& kreitman
+apoptosis
+polymorphism
+0 ¼ non-disease
+non-disease
+cornell
+p-
+showing
+mutation
+locus mapped
+variation
+negatively
+group
+nature 397
+nature 351
+nature
+nature 415
+nature 416
+myosin
+weak
+indicating
+cis
+ips
+2 show
+show
+20 october 2005
+sets
+total number
+non-synonymous
+excess
+negative
+include
+association
+nonsynonymous
+slightly
+selection
+synonymous
+750 synonymous
+data
+strong
+positively
+informative
+classification
+identify
+accession
+information
+parameter
+99%
+
+credibility
+arabidopsis
+positive
+species
+mutations
+362 loci
+loci
+438 loci
+12 loci
+high
+divergence
+nucleotide
+posterior
+distributions
+set
+1 ¼ disease
+disease
+aligned
+estimated
+2 shows
+studies
+mapping
+implicated
+analysed
+based
+add1
+model
+candidate
+evidence
+genome
+deviation
+23 suggests
+genes
+624 genes
+767 genes
+277 genes
+000 genes
+snps
+figure 2
+figure 3
+omim
+probability
+find
+analysis
+test
+involved
+99% mass
+chimpanzee
+genet
+power
+0 database
+location
+methods
+gene
+table 1
+table
+overlap
+genomes
+categories
+copenhagen
+blue
+assumptions
+discovered 15
+cambridge
+1b
+simulated 10
+mapped
+histograms
+moderately
+þ ¼ pr {
+99% categories
+patterns
+-
+over-dominance
+drosophila
+ins
+b-adducin
+locus
+statistics
+alignment
+moderate
+total
+types
+regions
+proportion
+hypothesis
+independent
+refseq
+analyses
+genetics 156
+genetics 116
+genetics 163
+genetics 132
+genetics
+genetics 168
+distribution
+approach
+details
+¼ number
+number
+0 number
+sunyaev
+sspn
+sci
+/nature
+results
+tested
+calculate
+inbreeding
+aspx
+tc
+fay
+ohio 44106
+overdominance
+coloured
+suggesting
+summarized
+affect
+presented
+make
+ryan
+over-representation
+team
+study
+smaller
+consistent
+prediction
+cost
+3a
+targets
+hum
+þ greater
+& aguade
+& purugganan
+inferences
+3b
+york 14853
+5department
+ioerger
+add2
+weinreich
+cargill
+myom3
+myom2
+drp2
+understanding
+addressed
+pooled
+usa
+2 greater
+opposed
+& rand
+type
+formally
+/reprintsandpermissions
+sec31l1
+correspondingly
+mb
+work
+control
+define
+sample
+performed
+hit
+ratio
+& eyre-walker
+hugo
+feature
+& wu
+eyre-walker
+npg
+fledel-alon
+sarcospan
+bioinformatics
+inform
+e170
+order
+notch3
+payseur
+myh3
+0jdata}
+thornton
+fig
+polydactyly
+myh9
+evol
+hypertension 39
+yields
+pn ¼ 0
+mutable
+wyckoff
+yu
+folsom
+gli3
+rockville
+analyse 11
+square-root
+bustamante1
+found
+generations/2n
+huntington
+shown
+suggestions
+quantify
+increase
+denoted
+ref
+paucity
+reason
+estimate
+david
+livingston
+signature
+consequence
+designed
+omitted
+stx11
+adams5
+sharpen
+& hartl
+& bustamante
+similarly
+unknown
+1a
+ds ¼ 1
+listed
+majority
+john
+myo7a
+px2 ¼ 1
+testing
+fraction
+cope
+b0 ¼ 20
+alameda
+require
+submitted
+classes
+prf
+build 34
+linked
+strength
+responsible
+note
+materials
+finding
+class
+deviations
+doi
+5% cutoff
+fact
+thomas
+stephens
+ps ¼ 0
+supported
+3/1/2005
+lethal
+hernandez1
+2001 build
+acknowledge
+duchenne
+familiar
+barrier
+showed
+pillardy
+denmark
+reprints
+paper
+common
+embryonic
+sensitivity
+humans
+/mkprf
+subject
+error
+pattern
+science 293
+blast-
+vol 437
+chimpanzees
+discovery
+halushka
+terms
+acknowledgements
+concentrate
+extent
+bustamante
+myh11
+parentheses
+bray
+requests
+e196
+harbour
+maximize
+uncorrected
+simplification
+informed
+detected
+mark
+interpret
+undertook
+direction
+6department
+manunta
+myh13
+present
+kimura
+subsets
+directionality
+remaining 11
+guide
+correspondence
+& kao
+simulations
+perinatal
+california 94502
+usa 102
+suggest
+¼ 2n
+conceived
+driven
+refs 19
+plotted
+mol
+ci
+differentiation
+ithaca
+clark
+conclusions
+thinking
+maryland 20850
+characterization
+smith
+nielsen
+tanenbaum3
+quest
+press
+& boerwinkle
+hominids
+scan
+shaped
+interestingly
+www
+conditional
+briefly
+experiments
+cleveland
+man
+scale
+´ hudson
+/
+proc
+a-
+dcc
+notably
+found 20
+figs 1
+neurogenesis
+http
+& keightley
+81 megabases
+39 humans
+blat21
+myh4
+myh8
+usa 87
+assess
+neutrality
+low9
+long
+kulathinal
+examination
+morrison
+williamson
+form
+white4
+universitetsparken 15
+blindness
+hd
+made
+dmd
+robustness
+kif4a
+exploration
+nordborg
+influence
+al
+hypertension
+sawyer
+2center
+compared
+scinderin
+deviate
+kent
+scin
+hd--
+suppl
+provided
+orthology
+sninsky4
+asterisk
+sites3
+important
+implies
+restricted
+2 £ 10216
+01691 0
+1990
+0
+343
+04366 0
+813
+531­ -534
+1992
+231­ -238
+1999
+292
+242%þ
+304
+489­ -493
+108
+101
+104
+38
+33
+31
+37
+36
+34
+{
+3%
+00002 0
+229
+6
+9%
+99
+98
+92
+94
+97
+1991
+1471­ -1478
+2 ¼ 816
+1998
+0374
+00467
+02701 0
+03948 0
+03411 0
+00016
+169%
+1
+141
+946
+29
+00143 0
+¼ 4
+¼ 3
+¼ 0
+139
+24
+27
+20
+21
+23
+28
+962
+2%
+02%
+00965 0
+02586 0
+89
+82
+83
+00336
+7
+03411
+22
+176
+2
+04577 0
+185
+1022­ -1024
+11
+10
+12
+15
+14
+17
+16
+19
+00008 0
+1%
+54
+277
+239­ -247
+57
+2 ¼
+00336 0
+7%
+205
+207
+01478 0
+00013
+00211 0
+70
+78
+00538 0
+9732­ -9735
+3
+¼ 6
+8
+999
+13
+¼ 1
+18
+7882­ -7887
+591­ -597
+033
+03
+0%
+1987
+652­ -654
+$ 4
+02805 0
+6%
+01373 0
+25%
+60
+61
+65
+103
+4
+0001
+1­5%
+39
+03109 0
+168
+969
+32
+1 £ 1024
+03299 0
+9
+00004 0
+1053­ -1057
+1161­ -1176
+03943 0
+00467 0
+þ
+385­ -399
+76%
+470%
+00074
+
+12 4 1 5 0 8 29 1 38 9 4 7 10 3 2 7 0 17 2 1 2 3 3 6 31 0 39 0 20
+
+10
+153­ -159
+02805
+333
+00143
+58
+56
+53
+52
+5%
+656­ -664
+983
+118
+344­ -347
+42%
+428
+916
+04577
+00965
+240
+2005
+1821­ -1831
+1983
+957
+*
+311
+568
+1024­ -1026
+723­ -733
+4555þ
+04558 0
+159
+00016 0
+6941
+45
+40
+41
+2001
+5
+95%
+463­ -475
+00000 0
+01151 0
+2002
+2003
+2000
+00001
+2004
+00008

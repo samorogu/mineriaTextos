@@ -1,0 +1,1773 @@
+poor outcome glycolysis gluconeogenesis vegf pathway insulin up-regulated genes insulin signalling telomerase up-regulated genes glutamate metabolism ceramide pathway p53 signalling trna synthetases breast cancer estrogen signalling aminoacyl trna biosynthesis
+
+fdr
+
+0
+cardiovascular system aminoacyl trna biosynthesis insulin upregulated genes trna synthetases leucine deprivation down-regulated genes telomerase up-regulated genes glutamine deprivation down-regulated genes cell cycle checkpoint data set
+hsp regulation p53 signaling pathway p53 up-regulated genes radiation sensitivity genes data set
+males chry chryp11 chryq11 testis expressed genes enriched
+inactivation genes female reproductive tissue expressed genes data set
+chr6q21 chr5q31 chr13q14 chr14q32 chr17q23 data set
+recent work reporting 57 commonly conserved regulatory motifs
+powerful analytical method called gene set enrichment analysis
+cardiovascular system stress induction
+trna synthesis-related sets
+interpreting genome-wide expression profiles
+aravind subramaniana
+p53 mutant ras signaling pathway enriched
+increased amino acid biosynthesis
+compare independently derived gene expression data sets
+genes encoding heat shock-protein signaling pathways
+amino acid deprivation
+set up-regulated
+genes down-regulated
+amino acid biosynthesis
+oxidative phosphorylation pathway significantly enriched
+significant gene sets include hypoxia-response genes
+ranked gene list reflecting differential expression
+gfred hutchinson cancer research center
+method called gene set enrichment analysis
+oxidative phosphorylation show reduced expression
+male female lymphoblastoid cell line
+gene set exhibit strong crosscorrelation
+cell cycle
+nkt pathway
+
+original method nominal
+previously generated microarray data sets
+lung cancer cell line
+analyzing molecular profiling data
+michigan lung cancer data sets
+glycolysis
+vegf
+standard kolmogorov­smirnov statis1
+full mapk pathway appears
+empirical phenotype-based permutation test procedure
+initial molecular signature database consisting
+non-small cell lung cancer
+poor outcome set smichigan
+oxidative phosphorylation results discussed
+lymphoblastoid cell lines derived
+p53 wild type hypoxia
+ig heavy chain locus
+lymphoblast cell lines enriched
+ncl-60 cell lines enriched
+igf1 signaling pathways points
+discern telltale biological clues
+independently derived gene set
+telomerase activation
+independently derived data sets
+class labels preserves gene-gene correlations
+dana­farber cancer institute
+identifying important functional sets correlated
+p53 p53 analysis identified
+25
+gene set
+data set
+future web-based gsea server
+genomewide rna expression analysis
+expression data set sorted
+interpreting gene expression data
+single false-positive gene set
+biological system
+refine manually curated pathways
+obtaining gene expression profiles
+carbohydrate metabolism
+nucleotide metabolism
+remaining high scoring band
+negatively scoring gene sets
+genes encoding products involved
+studies determined gene-expression profiles
+mitogen-activated protein kinase
+15548 www
+provide biologically meaningful insights
+pnas open access option
+genepattern microarray analysis package
+identify chromosomal aberrations common
+generated mrna expression profiles
+ras signaling pathway
+genes sets significantly correlated
+ranked gene lists arising
+examined gene expression patterns
+diverse experimental data sets
+high scoring gene sets
+poor outcome data
+gene set enrichment analysis
+discover metabolic pathways altered
+identify functional gene sets
+clear common themes emerge
+significantly enriched gene sets
+telomerase
+ras mapk activation genes
+manually curated gene sets
+estimated signif-
+
+icance level
+cancer cell lines
+igf1 gene sets correlated
+differentially expressed genes
+identify gene sets correlated
+pathway describing vitamin
+p53-mediated pathway distinct
+includes 100 genes expressed
+gene sets significantly correlated
+poor outcome hypoxia
+p53 defined
+pnas october 25
+top scoring 20 gene sets
+60 top scoring gene sets
+high scoring genes
+poor outcome signal
+software tool called gsea-
+upstream cis motifs
+lung cancer outcome
+share common biological function
+comparing gene expression profiles
+genes encoding proteins
+represent biologically relevant correlation
+cyclin d1 list ranked
+325 biologically defined gene sets
+igf1 signaling pathways
+common approach involves focusing
+chemokine receptors expressed
+expression data set
+genes encoding products
+methods
+gene set
+s1
+study acute lymphoid leukemia
+
+0
+entire ranked gene list
+chromosomal bands showing enrichment
+transcription factor p53
+poor outcome cases
+43 15547
+
+microarray data set
+poor outcome samples
+statistically significant genes
+nci-60 cell lines
+detect subtle enrichment signals
+newly generated data
+mitogenactivated protein kinase
+genomewide
+
+expression profiles
+vitcb pathway s3
+human cell lines
+rapid cell proliferation
+software package includes tools
+gene expression data
+molecular signature database
+serum proteomics data
+ignores gene-gene correlations
+gsea shows broad applicability
+high scoring sets
+female lymphoblastoid cells
+distinctions ``male female
+significant gene set
+strong significant enrichment
+manually curated databases
+computationally derived cluster
+mrna expression profiles
+biologically reasonable assessment
+additional themes emerge
+small data set
+genes encoding members
+normal p53 function
+diverse biological problems
+expression neighborhoods centered
+preserves gene-gene correlations
+evaluates microarray data
+lung data sets
+enomewide expression analysis
+barely statistically significant
+male female comparison
+female male comparison
+identifying individual genes
+regulates gene expression
+provided clinical outcomes
+platform-independent desktop application
+org cgi doi 10
+putative cis-regulatory element
+graphical user interface
+van de rijn
+data sets share
+biologically informative sets
+robust analytical method
+gene expression analysis
+top 100 genes correlated
+curated pathway
+cancer-related data sets
+significantly enriched bands
+multiple hypotheses testing
+gene set sboston
+key regulon altered
+extracting biological insight
+multiple hypothesis testing
+unifying biological theme
+single gene analysis
+lung cancer reported
+functional gene sets
+set sboston shows
+p53 p53
+poor outcome
+priori defined set
+represent frequent amplification
+enrich-
+
+ment score
+strong common signal
+dark vertical stripe
+frequent cytogenetic alteration
+discussion traditional strategies
+weighted kolmogorov­smirnov-
+malignant tumor microenvironments
+full mathematical description
+significant gene sets
+inactivation genes
+acute lymphoid leukemia
+gene sets correspond
+gene sets attaining
+acute leukemias enriched
+1100 fairview avenue north
+generate compelling hypotheses
+common biological function
+nutrient-sensing pathways involved
+common chromosomal fragility
+provide biological insight
+relevant biological differences
+single-gene analysis finds
+conventional single-gene analysis
+provide greater insight
+discover processes involved
+additional biological annotation
+gene set size
+false discovery rate
+acute myeloid leukemia
+considerable background information
+biologically important subset
+vivo functional studies
+previously introduced gsea
+harvard medical school
+leading edge overlap
+metabolic pathway
+yielded high scores
+enrichment score behavior
+normalized enrichment score
+additional sets consist
+statistically significant results
+mapk pathway
+rapid cellular proliferation
+prior biological knowledge
+cytogenetic gene sets
+produce gene list
+reflects tissue-specific expression
+maximum enrichment score
+tumor cells leads
+represent distinct processes
+analyze gene expression
+enrichment scores esnull
+miss important effects
+human gene sets
+accurate null model
+pnas web site
+gsea yields insights
+clustering leading-edge subsets
+leading-edge subsets consist
+entire ranked list
+cumulative hypergeometric distribution
+michigan study enriched
+p53-signaling pathway
+nonparametric statistical methods
+hypoxia including angiogenesis
+catalog includes 472 sets
+catalog includes 24 sets
+reproductive tissues
+critical care medicine
+chrx inactive s2
+underlying biological processes
+genes enriched
+biologically annotated collection
+complex correlation structure
+data set
+running sum reaches
+p53 function
+define gene subsets
+phenotypic class distinction
+massachusetts general hospital
+gsea overview illustrating
+link prior knowledge
+p53 gene
+signaling pathways
+detect biological processes
+regulation
+radiation
+weak signals found
+lung cancer
+enrichment score es
+boston study enriched
+find strong evidence
+msigdb gene sets
+response pathway
+scores esnull computed
+gsea method differs
+commentary
+
+leading-edge sets
+chromosome 5q deletions
+gsea considers experiments
+identifying effects related
+highly expressed
+randomly assigned phenotypes
+significantly enriched
+cancer-related genes
+c2 functional collection
+``female male
+called gsea-
+differential expression
+genes involved
+commonly deleted
+derived computationally
+expression profiles
+gsea produced chromosome
+human genes
+gene set
+p53 study
+reveal greater similarity
+inactivation [merged
+analytical challenges
+data sets
+p53 clustered
+p53 status
+involve p53
+mtor signaling
+signaling subpathway
+individual genes
+cell lymphoma
+independently validated
+recent studies
+mrna expression
+original phenotype labels
+prostate cancer
+cancer subtypes
+cancer res
+aml comparison yielded
+normalized scores nes
+genes induced
+genes coregulated
+autosomal genes
+linked genes
+genes acting
+genes escaping
+female cells
+false positive finding
+including sets related
+heat map
+cyclin d1
+amino acid
+michigan data
+cell biol
+functional sets
+single gene
+lymphoblastoid cells
+p53 tumors
+permuted data
+reanalyzed data
+stanford data
+unpublished data
+boston michigan overlap
+experimental induction
+significant sets
+identifying pathways
+compare
+subramanian
+analysis shows
+observed es scores
+encounter genes
+nh genes
+reorder genes
+ninth set
+biological pathways
+pathway
+manually identified
+analyze data
+ras activation
+exhibit differences
+enrichment score
+enrichment signal
+web site
+gene sets
+427 gene sets
+57 gene sets
+60 gene sets
+17 gene sets
+319 gene sets
+522 gene sets
+325 gene sets
+permuting genes
+include sets
+generate hypotheses
+correspondingly high
+metabolite profiles
+boston data
+metabolic pathways
+expression pattern
+expression correlates
+single-gene analysis
+identify targets
+class labels
+prior knowledge
+statistical analysis
+leading-edge analysis
+entire
+
+database
+software package
+remains significant
+analysis yielded
+cytogenetic sets
+sorted list
+individual gene
+rb locus
+acute leukemias
+permutation test
+gain insights
+mathematical description
+previously obtained
+biological processes
+additional sets
+pnas october 25
+0506580102
+
+pnas
+
+october 25
+tested enrichment
+cellular stress
+ranked list
+analysis directly
+gene-set analysis
+reciprocal analysis
+complementary analysis
+computational analysis
+2005
+abroad
+
+microarray
+initial database
+biochemical pathways
+``gene tags
+methods
+overview
+lung adenocarcinomas
+lung adenocarcinoma
+original method
+resources include
+highly correlated
+simple test
+phenotypic distinction
+hypothesis generation
+genomics research
+biomedical research
+biological process
+entire network
+class distinction
+biological mechanisms
+test robustness
+chromosomal abnormality
+chromosomal deletions
+cytogenetic bands
+leading-edge subsets
+enrichment statistic
+single-gene methods
+initial catalog
+myeloid malignancies
+medical oncology
+greater consistency
+broader applicability
+randomly assigned
+empirical evaluation
+familywise-error rate
+experimental papers
+ranking procedure
+enhanced proliferation
+method derives
+method revealed
+method nominal
+compute fdr
+broad institute
+cytogenetic band
+microarray experiment
+``poor
+microarray studies
+insulin-related sets
+p53-related sets
+regulatory-motif sets
+sets reflect
+affect sets
+neighborhood sets
+sets clustered
+common features
+common subgroup
+critical region
+dark blue
+collective behavior
+previous experiments
+robust signals
+testis
+lymphoid lineage
+initial inventory
+scores poorly
+key distinction
+strictly accurate
+15 males
+current knowledge
+similarly smichigan
+important ways
+cellular processes
+false positives
+leadingedge subsets
+expected enrichment
+considered enrichment
+maximum deviation
+specific metabolic
+massachusetts institute
+large database
+leading-edge subset
+300 longwood avenue
+methods
+inputs
+200 longwood avenue
+routine tool
+running sum
+helper cells
+human diabetes
+protect cells
+gsea method
+initial collection
+nci-60 collection
+p53
+michigan study
+cell 114
+ranked based
+cell
+represent regions
+including leukemia
+cellular stresses
+regional effects
+plot shows
+key elements
+key aspect
+table 2 lists
+interacting processes
+applications yielded
+null distributions
+poorly annotated
+sets related
+gsea considers
+gsea differs
+gsea evaluates
+gsea signal
+traditional approach
+underlying biology
+negative scores
+randomly assign
+detect modest
+detect similarities
+method reduces
+jwhitehead institute
+6q21 band
+13q14 band
+17q23 band
+microarray technology
+genes
+12 genes
+13 genes
+15 genes
+chromosomal location
+phenotype labels
+software supports
+large subset
+software environments
+tumor samples
+previous study
+stanford study
+information remains
+genomic information
+genotyping information
+ontology information
+long list
+false positive
+annotated collection
+supporting information
+55 fruit street
+preliminary version
+dosage compensation
+modest relative
+equal weights
+substantially revised
+largely overlap]
+immune modulation
+average decrease
+random walk
+44 binney street
+target pattern
+metastatic progression
+ad hoc
+& le beau
+major limitations
+distressingly small
+conserved
+hematologic malignancies
+duke university
+work
+accompanying documentation
+low oxygen
+carrying mutations
+national academy
+rank order
+outcome
+mesirov@broad
+interdisciplinary engineering
+ontology term
+temperature-sensitive allele
+analytic module
+epigenetic silencing
+relative infrequency
+dna microarrays
+muscle biopsies
+healthy controls
+acknowledge discussions
+genome res
+robust technique
+author reply 393
+inhibiting growth
+arbitrary cutoff
+pablo tamayoa
+typically participate
+output format
+sayan mukherjeed
+approximately half
+320 charles street
+largest difference
+noise inherent
+amanda paulovichg
+wa 98109-1024
+increment depends
+patient survival
+cell-cycle arrest
+ranking metric
+overlap statistics
+diffuse large
+rigorous evaluation
+large overlap
+mutational status
+arrows show
+glucose levels
+dna damage
+chemical perturbations
+den boer
+show distressingly
+contributed equally
+chemical perturbation
+frequently deleted
+simultaneous presence
+dramatically alter
+brain res
+effectively revealed
+involving 24 adenocarcinomas
+suitable metric
+prevent overestimation
+original results
+randomly distributed
+supporting text
+statistical significance
+stress responses
+individual studies
+fixed level
+query
+
+results
+24 human chromosomes
+tumor types
+null distribution
+nonrandomly distributed
+original implementation
+original approach
+data
+striking evidence
+largescale experiment
+developed resources
+typical experiment
+running-sum statistic
+lander@broad
+studies give
+independent studies
+studies show
+gsea features
+performed gsea
+gsea assesses
+gsea reveals
+preliminary implementation
+negative portion
+genome sciences
+significance levels
+knowledge-based approach
+consistent picture
+promoter regions
+systems biology
+rapamycin treatment
+separately rescaling
+subsequently applied
+genome biol
+estimating significance
+possibly obtained
+downstream targets
+interpreting
+c2 catalog
+5q31 band
+set
+normal samples
+smaller number
+large number
+samples belonging
+boston study
+groups study
+results reported
+reported results
+gsea results
+consistent results
+significance level
+conservative correction
+real power
+20-fold increase
+calculated relative
+extract meaning
+advanced users
+criterion turned
+1000 fixed permutations
+readily interpreted
+weighted steps
+drug treatment
+signal-to-noise ratio
+specific component
+estimated probability
+longer lies
+simply due
+primarily found
+call msigdb 1
+transcriptional programs
+re-compute es
+defined based
+developed gsea
+shared subset
+detailed results
+applied gsea
+enriched
+applied sciences
+significance separately
+major challenge
+current paper
+101 science drive
+missing values
+genetic rearrangements
+estimate nominal
+significantly
+p-53 response
+nr 1
+gj
+recently developed
+table 1 compares
+subcatalogs c1
+commentary
+
+table 2
+commentary
+
+table 1
+generated
+expression
+primary goal
+gsea methodology
+usa
+
+www
+significance threshold
+repeat step 1
+published information
+ma 02142 contributed
+fdr 0
+fdr
+fdr < 0
+observed es
+total number
+reported result
+consisting
+phit pmiss
+blood rev
+correlations
+center
+aml patients
+24 aml patients
+core members
+enrichment
+analysis
+determine es
+pathways
+gene
+male
+ranked
+ras
+identifying
+includes
+hypoxia
+correlated
+include
+procedure
+share
+empirical
+products
+method
+nes represents
+represent
+expect
+freely
+295 sets
+sets
+50 sets
+score
+common
+provide
+subtle
+scores
+comparison
+important
+preserves
+option
+focusing
+clear
+signals
+showing
+normalized
+class
+site
+examined
+leukemia 13
+involved
+leukemia
+additional
+database
+tool
+esnull
+harvard
+mapk
+sboston
+methods
+identified
+1073 pnas
+pnas
+effects
+permutation
+processes
+yielded
+bands
+michigan
+detect
+catalog
+institute
+band
+original
+software
+study
+list
+similarity
+medicine
+top
+15546
+
+www
+estimated
+normal
+hospital
+differences
+leukemias
+weighted
+nominal
+show
+deletions
+define
+small
+sum
+finding
+commentary
+robust
+link
+defined
+phenotypes
+tools
+computed
+15550
+
+www
+overlap
+supporting
+level
+results
+including
+collection
+distributed
+chromosome
+statistic
+evidence
+s1
+developed
+analyze
+experiment
+studies
+reported
+gsea
+consistent
+obtained
+negative
+significance
+implementation
+observed
+approach
+applied
+targets
+cases
+rapamycin
+biol
+size
+sciences
+reveal
+find
+separately
+reflects
+regions
+biology
+related
+distribution
+positive
+samples
+comparing
+number
+gsea-
+encounter
+total
+plot
+methodology
+extract
+similarly
+boston
+calculated
+mesirov
+expected
+programs
+steps
+core
+lies
+considered
+nh
+groups
+s2
+lineage
+increase
+chromosomes
+phit
+threshold
+ratio
+msigdb
+represents
+conservative
+power
+5q31
+component
+found
+probability
+msigdb 1
+000 permutations
+tumors
+recently
+due
+[1] pmiss
+reduces
+reorder
+users
+blood 105
+interpreted
+rev
+patients
+drug
+detailed
+c2
+25 criterion
+compute
+es
+phenotype
+aml
+based
+members
+15 members
+s3
+determine
+location
+correlation
+types
+estimate
+result
+paper
+expect
+values
+challenge
+genetic
+science 270
+science 302
+response
+permuting
+table 8
+table 3
+table 2
+table 1
+table 7
+table 6
+table 5
+table 4
+shared
+technology
+lander
+responses
+gj
+freely
+c1
+goal
+usa 100
+usa 98
+usa 96
+usa 94
+step
+step 3
+step 1
+step 2
+ma 02446
+ma 02114
+ma 02115
+0506580102
+
+subramanian
+ma 02141
+ma 02142
+subramanian
+nes
+nes 2
+nes 1
+nes*
+nes* 0
+published
+miyazaki
+eriksson
+calculate
+vasa
+sellers
+& willard
+crunkhorn
+amplifications
+troyanskaya
+consists
+chee
+chen
+implemented
+localized
+increasing
+seeks
+med
+2005
+
+vol
+met
+florez
+barbouti
+altshuler
+reiner
+engl
+kobayashi
+comments
+abbreviations
+{g1
+females
+fwer
+& panning
+kurtin
+mu
+petersen
+wang
+seattle
+nutt
+045
+
+fig
+& fioretos
+cytogenetics
+lockhart
+interpretation
+befroy
+``hits
+fig
+fadd
+overcome
+classified
+negrini
+costello
+bikoff
+storch
+eguchi
+restricted
+enders 260
+rj
+vranizan
+laurila
+created
+hdepartment
+daunting
+illustrate
+xie
+carrel
+percentage
+positively
+hollander
+classes
+yp11
+& ewen
+43
+
+15545­15550
+
+genetics
+oncogene 21
+& shulman
+incorporate
+kashyap
+probe
+larson
+mittmann
+follettie
+plath
+hatzfeld
+represented
+fail
+kto
+subject
+exponent
+manola
+terms
+handful
+wu
+chevassut
+huang
+resistant
+kohane
+schluens
+basis
+beer
+interest
+efficacy
+johansson
+publicly
+gn}
+lawlor
+iv
+ii
+clin
+mouse
+dohy
+confirmed
+make
+mukherjee
+sallan
+weitz
+left
+silverman
+acad
+embodied
+bottom
+nusinow
+elucidate
+salomonis
+kutok
+importantly
+luan
+diabetics
+refined
+approximate
+joseph
+fraction
+rela
+form
+ford
+expertise
+zhong
+ng
+golub
+tic
+& bloomfield
+lindblad-toh
+sihag
+reviewers
+focus
+17 females
+landera
+& jacks
+box 19024
+finally
+discovering
+-ph
+coller
+sign
+boost
+genet
+studied
+flexibility
+durham
+rarely
+sharing
+apparent
+brugarolas
+appendix
+zhao
+believed
+``misses
+kyo
+fortunel
+weighting
+hoglund
+conversely
+occur
+normalize
+dinstitute
+lehar
+ensure
+explored
+edepartment
+yielding
+& benjamini
+group
+policy
+correspondence
+nature 434
+tails
+nc 27708
+maintaining
+& plate
+shown
+3rd
+majumder
+correct
+filippova
+advantages
+lagman
+sweet-cordero
+1a
+1b
+pomeroyh
+magnanini
+asymmetric
+hum
+sturla
+cytogenet
+& kamada
+eisenbart
+note
+online
+bailey
+performance
+decreasing
+map2k1
+``good
+walking
+puigserver
+proportion
+bioinformatics 19
+import
+& hainaut
+settings
+yield
+summary
+uncover
+concert
+kafkafi
+hollstein
+reproducible
+alpert 536
+yekutieli
+ramaswamy
+concentrated
+lipan
+butte
+armstrong
+case
+characteristics
+middle
+whyte
+febbo
+& kellis
+extended
+& golani
+& wolfe
+researchers
+death
+ladd
+mol
+correcting
+kittrell
+& barbanti-brodano
+generates
+genetics
+pathogenesis
+r7
+pik3ca
+notable
+notably
+act
+berger
+cambridge
+accounts
+area
+aguiar
+mice
+applying
+strongly
+describe
+al
+examine
+rosen
+hayashi
+sci
+monti
+children
+fall
+minden
+vamsi
+adjust
+nonrandom
+disteche
+perspective
+dahlquist
+extremes
+goluba
+thorland
+gadd45a
+khan
+& brown
+controlling
+lindgren
+raf1
+states
+xue
+upregulation
+prognostic
+cdepartment
+wiley
+asaoku
+short
+scott
+eeles
+peng
+pieters
+speculate
+mootha
+weight
+guo
+neurology
+todd
+stoffel
+health
+issue
+benjamin
+yq11
+morelli
+espinosa
+harris
+expecting
+dong
+mainstay
+boffa
+king
+biotechnol
+august 2
+shalon
+2005 vol
+dufour
+lin
+generalized
+added
+patterson
+kao
+hif1a
+measured
+thomas
+dividing
+gharib
+54
+
+fig
+subsection
+dependent
+& tsuchiya
+garcia
+crk
+mrozek
+bhattacharjee
+garber
+chose
+neuberg
+initially
+ridderstrale
+& roberts
+patti
+sensitive
+point
+perou
+corresponds
+java
+create
+understand
+goglin
+evaluated
+heerema
+encountered
+neurons
+deletion
+horton
+behav
+purpose
+-
+eberta
+exclusively
+nfkb1
+evaluate
+fold-change
+lassen
+helpful
+interestingly
+flux
+alternatively
+examples
+savage
+sharma
+annu
+proc
+run
+ba
+plots
+martinez
+zahnow
+contreras
+& conklin
+specifically
+byrne
+groupings
+exploration
+43 15549
+
+genetics
+ordered
+saccone
+feuerhake
+grouped
+yang
+nat
+mcdonnell
+interpretable
+calculating
+drai
+& wong
+uterus
+illustrates
+adjustment
+amalgamation
+arif
+overlaps
+staunton
+bryant
+gender
+michael
+kulbokas
+noted
+beheshti
+doniger
+misek
+labeled 1
+degree
+eif2b2
+eif2b1
+explore
+focused
+brunet
+olivier
+makes
+examining
+addressed
+pxn
+examination
+iii
+& korsmeyer
+account
+crosses
+meet
+control
+calculation
+sought
+thaesler
+lamb
+fdivision
+located
+gallo
+profile
+mlynarczyk-evans
+divided
+hras
+li
+lu
+mitelman
+benjamini
+schena
+cusi
+cottle
+documented
+mihm
+bourquin
+magnitude
+identifies
+eases
+bueno
+& sabatini
+category
+mcmahon
+giordano
+ref
+karayianni
+sander
+c2-023
+jill
+york
+acker
+laddacosta
+davis
+facilitate
+noticed
+mesirova
+nilsson
+mit
+tanaka
+overrepresented
+request
+disease
+one-
+ngf
+thousands
+richards
+levin
+humans
+tend
+mungall
+carlsson
+ability
+pacyna-gengelbach
+& roth
+roix
+estimation
+pasqualucci
+pulmonary
+idepartment
+gillette
+addition
+elmer
+moothaa
+c3
+otu
+present
+c4
+mutat
+eric
+effect
+compendium
+variety
+page 15278
+position
+obtain
+sources
+biologist
+permute
+smith
+natl
+identical
+bioinformatics 3
+success
+platforms
+lead
+e-mail
+berria
+14q32
+& suthanthiran
+elk1
+analyses
+berriz
+assess
+utility
+overestimate
+appl
+recompute
+histogram
+eif2s2
+gillettea
+variations
+demonstrate
+contribute
+compared
+nonetheless
+coexpression
+details
+kardia
+variation
+searched
+hagemeijer
+up-regulation
+474­479
+14440­14444
+102
+99
+1995
+1997
+1999
+216
+
+0
+13790­13795
+393
+2
+204 0
+011 0
+071
+
+0
+04
+08
+1675­1680
+050 0
+115­136
+38 0
+012 0
+078
+323­334
+32
+50
+5%
+229
+233­278
+013 0
+90
+0
+1996
+467­470
+225 0
+1
+7266­7276
+028 0
+338­345
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+20%
+3
+78%
+200 0
+267­273
+60
+62
+63
+6948­6953
+41­47
+664­671
+1851­1861
+8466­8471
+4
+51 0
+5
+© 2005
+279­284
+607­614
+118 0
+6
+001 0
+1202­1206
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+7
+007 0
+350
+8
+368­375
+293­300
+082 0
+33
+9
+001
+006 0
+008
+5575­5584
+057 0
+188 0
+2002
+2003
+2001
+250 0
+2004
+2005
+13784­13789
+012
+146 0
+261­264
+128 0
+31
+30
+37
+36
+34
+36­43
+32­34
+2502­2504
+48­55
+023
+80
+86
+562­575
+147 0
+816­824
+594­601
+0506580102
+171 0
+125
+046 0
+144 0
+170 0
+1367­1373
+179 0
+40
+157 0

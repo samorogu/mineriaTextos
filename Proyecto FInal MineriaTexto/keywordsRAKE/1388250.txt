@@ -1,0 +1,5343 @@
+14 june 2007
+
+1/11
+
+2/11
+
+3/11
+
+4/11
+
+5/11
+
+6/11
+
+7/11
+
+8/11
+
+9/11
+
+10/11
+
+annotated transcripts
+
+10 8
+
+tiling array nucleotides
+cpg
+aggregate normalized intensity
+
+h3k4me1 h3k4me2 h3k4me3 h3ac h4ac faire dnasei
+
+myc e2f1 e2f4 ctcf smarcc1 pol ii
+
+4
+gencode 59 ends gencode sense exons gencode antisense exons unbiased transcription survey cpg island unsupported
+txfrags
+
+5 utrs
+
+rfbrs
+
+cdss
+
+ars
+
+8 7
+cdss rxfrags
+
+rna transcription
+
+open chromatin
+
+dna/protein
+
+6 5
+css
+
+figure 11
+5 0
+
+h3k4me1 h3k4me2 h3k4me3 h3ac h4ac faire dnasei
+
+aggregate normalized intensity
+
+5
+5
+
+h3k4me1 h3k4me2 h3k4me3 h3ac h4ac faire dnasei
+
+aggregate normalized intensity
+
+1
+txfrag rxfrag pseudogene rfbr rfbr-seqsp dhs faire tss ar cs
+
+coding exons
+sequence-specific binding factors rt­pcr reverse transcriptase polymerase chain reaction
+unsupported tags
+aggregate normalized intensity aggregate normalized intensity
+1
+gencode tss
+aggregate normalized intensity aggregate normalized intensity
+1
+cpg
+aggregate normalized intensity aggregate normalized intensity
+5
+000
+
+itsn1 cryzl1 donson atp5o
+
+donson
+
+cloned rt-pcr product
+
+atp5o
+
+figure 3
+tss
+aggregate normalized intensity aggregate normalized intensity
+
+0
+3
+stat1
+
+taf1
+
+sequence-specific >200 >100 > 50 > 25  25 h3k4me3 general >200 >100 > 50 > 25  25 myc h3k4me2
+
+smarcc1 smarcc2
+
+0
+0
+
+signal/control
+
+25 15 0
+
+16-kb scale
+
+h3ac h3k4me2 h3k4me3
+
+8 4 0
+
+dnasei sensitivity
+
+density
+
+0
+5
+
+h3k4me1 h3k4me2 h3k4me3 h3ac h4ac faire dnasei
+
+0
+5
+
+h3k4me1 h3k4me2 h3k4me3 h3ac h4ac faire dnasei
+
+1
+5
+
+myc e2f1 e2f4 ctcf smarcc1 pol ii
+
+0 -5000 -3
+5 0
+
+myc e2f1 e2f4 ctcf smarcc1 pol ii
+
+-5
+5
+
+myc e2f1 e2f4 ctcf smarcc1 pol ii
+
+1
+5
+
+myc e2f1 e2f4 ctcf smarcc1 pol ii
+
+0
+5
+
+myc e2f1 e2f4 ctcf smarcc1 pol ii
+
+0 -5
+faire assay transcription start site ancient repeat inserted early
+ests intergenic distal intergenic proximal intronic distal intronic proximal
+specific genomic position tss transcription start site txfrag fragment
+32fraunhofer institut fur zelltherapie und immunologie
+stefan washietl24 & deyou zheng11 management group laura
+exons inside annotated loci versus unrelated exons
+protein factor rfbr-seqsp regulatory factor binding regions
+rfbr cluster 80 analysis methods 125 10 16 126 127 genomic comparative cs 87 sequencing
+genomic tiling array cnv copy number variants
+transcript-survey methods
+category transcript survey method number
+distal dhs
+aggregate normalized intensity
+
+0
+sequencing90 individual bacterial artificial chromosome clones
+consensus pseudogene analysis regulatory factor binding region identified
+unbiased tiling-array assay snp single nucleotide polymorphism
+expected synonymous versus non-synonymous substitution patterns
+washington university genome sequencing center tina graves64
+51 124 49 33 40 replication tiling array tr50 59 75 computational computational cci
+txfrags ars 5 utrs tsss dhss rfbrs fa ir
+hospital oakland research institute maxim koriabine67
+integrated annotation tag sequencing tiling array
+
+txfrag
+sarah
+
+815
+©2007 nature publishing group
+
+articles
+variation emmanouil
+genomic tiling array fdr false discovery rate
+genomic tiling arrays svm support vector machine
+00406855 1_
+
+active repressed
+­1
+_
+
+gencode genes
+
+figure 9
+experimentally identified functional elements lacking evolutionary constraint
+constrained bases overlap experimentally identified non-coding functional regions
+experimental testing procedures gsc genome structure correction
+human genome1­3 provided highly accurate dna sequences
+clustering methods represent bona fide promoters
+numerous orthogonal data sets firmly establish
+$ numerous previously unrecognized transcription start sites
+chip-chip assay regulatory factor binding region identified
+sequence-specific factors remain largely symmetrically distributed
+metabolic disease related transcription factors inferred
+teleost fish tetraodon nigroviridis reveals
+hypo-phosphorylated carboxy-terminal domain51--confirming previous expectations
+distinctive hydroxyl radical cleavage patterns
+standard tests hmm hidden markov model
+de novo ncrna prediction algorithms--evofold
+faire
+
+rfbrs-seqsp
+
+rxfrags
+
+dhss
+
+pseudogenes
+
+3 utrs
+experimental data points
+
+transcription
+
+tiling array
+non-constrained
+
+40%
+
+unannotated
+
+cds 59 utr 39 utr
+brown norway rat yields insights
+protein sequence
+
+©2007 nature publishing group
+
+nature
+similar hydroxyl radical cleavage patterns79
+wilson64 broad institute michele clamp65
+typical transcription factor binding site
+rna polymerase ii core promoter
+dog genomes examined bulk evolutionary properties
+encode project consortium analysis coordination ewan birney1
+rx
+
+rf
+
+ar fa
+analysed sequence-specific transcription factor binding data
+59 end rfbr regulatory factor binding region
+unannotated transcripts show weaker evolutionary conservation
+encode experimental annotations utrs
+
+coding
+
+figure 10
+international chicken genome sequencing consortium
+correction procedure genome structure correction
+experimentally identified functional elements show evidence
+constrained sequence experimental annotation overlap bases regions 20%
+37spanish national cancer research centre
+*nisc comparative sequencing program gerard
+human population cs constrained sequence
+orthologous sequence-ready clone contig maps
+ss
+
+©2007 nature publishing group
+
+nature
+12the wellcome trust sanger institute
+expressed retrosequence lacking protein-coding ability
+803
+
+©2007 nature publishing group
+
+articles
+
+nature
+813
+©2007 nature publishing group
+
+articles
+
+nature
+799
+©2007 nature publishing group
+
+articles
+
+nature
+811
+
+©2007 nature publishing group
+
+articles
+
+nature
+801
+©2007 nature publishing group
+
+articles
+
+nature
+805
+
+©2007 nature publishing group
+
+articles
+
+nature
+tiling array pseudogene identified
+functional annotation utr untranslated region
+sequence-specificity dnasei hypersensitive sites found
+yeast cell-cycle transcription factors sbf
+drosophila polycomb group repressor complex
+locale est expressed sequence tag
+human encode genome annotation assessment project
+barcelona biomedical research park building
+hydroxyl radical cleavage patterns
+myers33 bing ren68 & michael snyder10
+sequenced clones confirmed transcript extensions
+experimentally identified functional elements show
+human population stage sequence tag analysis
+international human genome sequencing consortium
+computational analyses cnv 103 polymorphisms* resequencing
+sequenced rt­pcr product
+detecting protein factor binding regions
+distal dhss show characteristic patterns
+chicken genome provide unique perspectives
+constrained experimentally identified functional elements
+promoter proximal regulatory clusters identified
+multiple testing gencode integrated annotation
+unconstrained experimentally identified functional elements
+tiling array nucleotides present
+paper ar ancient repeat
+collins52 multi-species sequence analysis elliott
+rat genome sequencing project consortium
+resulting subtypes showing significant overlap
+23genome exploration research group
+dhs dnasei hypersensitive site
+european union biosapiens noe
+point faire formaldehyde-assisted isolation
+high-density tiling microarray strategies
+transcription start site catalogue
+sequence-specific protein-binding properties similar
+assays included 18 sequence-specific transcription factors
+actively transcribed genes replicate late
+ian dunham12 & anindya dutta3 ´ genes
+transcripts* histone modifications chromatin{ structure
+
+pet
+surround transcription start sites
+genome-wide experimental data sets akin
+national human genome research institute
+experimental annotation overlapping constrained sequence
+0
+human genome sequencing center donna
+neutrally evolving constrained sequence identified
+sequence-specific regulatory factor binding
+8
+e2f1 pol ii
+
+0
+sequence-specific transcription factor binding
+investigacio medica/universitat pompeu fabra
+h3ac show similarly high correlation
+62 transcriptional regulatory elements zhiping weng8
+represent higherorder functional domains
+p53 transcription-factor binding sites
+equally important mechanistic findings relating
+48nih intramural sequencing center
+identified dnasei hypersensitive sites
+gencode tsss cpg islands
+
+_
+128 copy number variation
+
+qt-pcr
+810
+©2007 nature publishing group
+
+nature
+814
+©2007 nature publishing group
+
+nature
+©2007 nature publishing group
+
+nature
+accurately predict gene activity based
+multiple small nucleolar rna species
+distal 59 transcription start sites
+lymphocytes delays chromatid resolution
+est sequences involving computational
+hospital oakland research institute
+hospital oakland research institute*
+protein factor binding led
+ic-snurf­snrpn transcript serves
+$ distal dnasei hypersensitive sites
+experimentally defined regions show evidence
+stringent false discovery rate
+gata-1 binding sites mapped
+809
+
+©2007 nature publishing group
+
+lines
+60 howard hughes medical institute
+howard hughes medical institute
+spanish ministerio de educacion
+detecting factor binding sites
+disrupting higher-order chromatin folding
+nisc comparative sequencing program*
+nisc comparative sequencing program
+finished genomic sequence suitable
+common hnf4a binding site
+polycomb target genes unravels
+well-defined rna secondary structure
+experimentally identified functional elements
+encodes proteins chip-chip chromatin immunoprecipitation
+distal sites show marks consistent
+generated highly concordant results97
+transcription factor binding sites
+open reading frames revealed
+functional elements vary greatly
+characteristic histone modification patterns
+selected transcription factor binding
+mad/mnt transcription factor network
+numerous intercalated transcripts spanning
+developmentally regulated gene clusters77
+medicine human genome sequencing center*
+washington university genome sequencing center*
+63human genome sequencing center
+includes comparative sequencing bases
+putative distal regulatory elements
+mutational cold spots account
+single base pair change
+rna pol ii
+human embryonic stem cells
+txfrag
+gencode exon txfrag
+encode scientific advisory panel
+transcription factor binding regions
+unconstrained experimentally functional sequences
+scanning human gene deserts
+population-genetics analyses
+abbreviation description
+close precise initiation sites47
+regions overlap constrained sequences compared
+1 0
+
+spi1 h3k27me3 sirt1 ctcf
+
+0
+
+0
+generally considered non-functional copies
+correctly predicts expression status
+repressed active
+
+depletion enrichment
+
+rna
+0
+numerous rxfrag extensions coupled
+increasingly rich data sets
+non-experimentally derived data sets
+transcript race rapid amplification
+rna polymerase ii
+human polycomb target genes
+plotting pearson correlation values
+non-coding genomic regions show
+isolates active regulatory elements
+distal regulatory elements coupled
+identify specific functional elements83­85
+400 million experimental data points
+2 0
+
+tx cs fr
+dnasei sensitivity data sets
+numerous unannotated transcripts coupled
+transcript cds coding sequence
+45the santa fe institute
+aligning multiple genomic sequences
+highly conserved non-coding sequences
+multisequence 86 sequence analysis* 26 alignments
+encode
+feature class experimental technique
+14 june 2007
+
+articles
+
+constrained sequences
+genome structure correction statistic
+rt­pcr product
+future genome exploration efforts
+tiling arrays confirmed connectivity
+identified 70 active regions spanning 11
+unannotated transcripts remains unanswered
+support vector machine
+spatially regulate gene expression
+consistently transforming continuous signals
+orthologous genomic sequence derived
+sequencespecific transcription factors show
+constrained sequences varies considerably
+pol ii signals
+bulk fitting procedures
+median size 136 kb versus 104 kb
+individual cis-acting regulatory elements
+specific dna structures78 prompted
+detecting evolutionarily constrained sequence
+wellcome trust genome campus
+14 june 2007
+
+supplementary information section 5
+mouse genome sequencing consortium
+active versus repressed domains
+european molecular biology laboratory
+histone modification data anchored
+comparative sequence data sets
+©2007 nature publishing group
+
+10 10 ­2 5 25 ­5 50 0 ­1 10 00 0­ 2 20 00 0­ 3 30 00 0­ 4 40 00 0­ 50 0  50 0
+
+5
+
+5­
+
+0
+816
+©2007 nature publishing group
+807
+
+©2007 nature publishing group
+analysing multi-sequence alignments
+
+20% 8% constrained 4
+encode pilot project aimed
+transcript rxfrag fragment
+higher-order functional domains defined
+swiss ´ national science foundation
+extensive short sequence determination
+specific binding site
+execute complex cellular processes
+transcription start sites
+methods recapitulate previous findings
+existing selected functional element
+higher average dnasei sensitivity
+gencode unannotated region detected
+encode multiple protein products
+riken genomic sciences center
+supplementary information section s3
+integrated pseudogene annotation
+swi/snf components smarcc2
+figure 5 shows representative profiles
+analysing multiple data sets
+section show extensive amounts
+comparing multiple mammalian sequences
+histone h3 lysine 27 methylation
+unbiased tiling-array assay
+h4ac histone modifications
+unbiased tiling arrays
+studies complement experimental assays
+comparative genome sequence analysis
+transcription factors previously thought
+dramatically increased indel rates
+mapping dna­protein interactions
+tiling-array data provided evidence
+assay open chromatin
+specific genomic regions determine
+negative
+
+positive
+
+genomic position
+high-density tiling arrays
+lower indel rates compared
+neutral biochemically active elements
+primarily bind promoters bind
+provide enhanced resolution owing
+reflect genomic regions thought
+recently discovered regulatory rnas
+sequence-specific factors points
+isolated loci transcribed independently
+transcription factor binding
+high h3k4me1 accompanied
+experimentally identified elements
+`cpg island
+clustering method involved analysing
+detailed evolutionary information derived
+reflect false positives
+suggesting shared insulator mechanisms
+rt­pcr products
+specific factor binding
+whole-genome tiling arrays
+smarcc1 binding
+genome-wide dna replication profile
+international hapmap consortium
+segments showing interallelic variation
+global transcriptional regulatory role
+open chromatin identified
+cpg islands show
+open reading frame
+mammalian gene regulatory regions
+sliding window correlation analysis
+results demonstrate remarkable concordance
+bulk rna transcription
+80
+
+90
+
+12
+
+11/11 cell lines
+
+15
+
+cumulative
+studies provide convincing evidence
+standard mcdonald­kreitman test
+ss br 5 s-
+mutation cold spots
+69the linnaeus centre
+80universitat pompeu fabra
+encode functional data types
+la h3 e1 k4
+performed rt­pcr
+pol ii
+120 promoter assays rfbr 123 81 34
+histone modification h3k4me2
+low-redundancy comparative sequencing
+transcripts link distal regions
+functional data akin
+biological statistics & computational biology
+experimentally derived information
+early mid late pan-
+14 june 2007
+
+articles
+
+chr
+genomic binding sites
+repressing histone modification peaks
+non-coding functional elements
+swedish research council
+danish research council
+11 ucsc genome browser daryl
+analysis coordination group
+rigorous pilot testing
+64genome sequencing center
+gencode 59 untranslated region
+gencode 39 untranslated region
+phase extends previous work
+open chromatin fibers
+cent enrichment genomic position
+genome tiling arrays
+multi-species sequence alignments
+data sets relating
+normalized scores
+identify clear biological roles
+base pair resolution
+163796
+
+100 %
+
+dhs
+
+50 %
+
+0
+
+50 %
+
+articles
+
+nature
+labelled training data tr50
+experimentally annotated regions
+603 million data points
+genes include histone modifications
+conserved cleavage signature
+rf nc br
+human genome function made
+tata box-binding protein
+regulatory factor assays
+biological chemistry & molecular pharmacology
+examine general chromatin accessibility
+genome-wide sequencing efforts3­8
+national cancer institute
+multiple activating histone modifications
+considerable intronic transcription
+cis-acting regulatory sequences--promoters
+14 june 2007
+
+articles
+wilcox12
+detected constrained sequences
+table 4
+encode protein complement
+consensus data sets
+distal regulatory sites
+aggregate relative
+complex intercalated transcription
+higher-order functional domains
+neutral molecular evolution based
+tiling array
+tiling array
+
+15
+aggregate signals
+figure 8c shows
+numerous genomic regions
+52 specific factors sequencing
+large structural rnas
+table 1
+cis-acting regulatory elements
+functional genomic elements
+polymorphic indels
+
+figure 12
+14 june 2007
+
+articles
+
+complexity
+encode-region sequences identified
+generalitat de catalunya
+facultat de biologia
+lineagespecific functional elements
+small nucleolar rnas
+unbiased transcript surveys
+numerous rna species
+functional genomic sequences
+transcribed versus non-transcribed
+transcription factor-binding sites110
+genomic sequence orthologous
+dna replication data set
+structural non-coding rnas
+distal regulatory elements
+deutscher platz 5e
+baoli zhu67 & pieter
+whole-genome shotgun assembly
+mail stop cbse/iti
+chiou yu choo34
+kuo ping chiu34
+imprinted air ncrna
+london w2 1pg
+tae hoon kim68
+threaded blockset aligner
+escapes nuclear export
+shelley force aldred33
+hong sain ooi34
+competing financial interests
+mathematical tool pioneered
+derived allele-frequency spectra
+experimental datasets reveals
+siew woh choo34
+ts ge ne
+computational data sets
+8 wellcharacterized ncrna genes
+txfrag
+
+na
+
+na
+
+*
+genomic regions identified
+dna binding proteins
+dhs subclasses differed
+histone modification patterns
+multi-species conserved sequences
+encode project consortium
+encode project consortium*
+universitat de barcelona
+structurally variable region
+18 rt­pcr-positive extensions
+14 june 2007
+
+regulatory sequences
+14 june 2007
+
+articles
+
+augmented
+specific dhs sites
+gencode annotations cover
+genomic elements subjected
+promoter-proximal regulatory elements
+generalized dnasei sensitivity
+analysing brd-u-labelled fractions
+san diego school
+noted complex transcription
+unconstrained functional elements
+data sources provide insight
+pet tag shows
+austrian gen-au program
+swi/snf chromatinmodifying complex
+genomic information directs
+intra-species sequence comparisons
+schematic depiction shows
+barcelona supercomputing center
+functional genomic regions
+regulatory clusters identified
+344 regulatory clusters identified
+supplement information section 2
+race/ tiling-array analysis
+neutrally evolving sequence
+supplementary information section 5
+supplementary information section 4
+supplementary information section 1
+supplementary information section 3
+supplementary information section 2
+author information reprints
+previously identified tss
+simultaneous hmm segmentation
+race yielded products consistent
+show chromatin structure
+jerome lejeune foundation
+molecular biology research
+tiling dna microarrays
+de jong67
+affiliations
+261 longest extensions identified
+normal human fibroblasts
+genome-wide functional data
+200 experimental data sets
+hmm training routines
+single small segment
+1300 jefferson park ave
+1399 hyde park road
+sequence tag analysis
+comparing observed substitutions
+enhance existing assays
+transient-transfection reporter assays
+h4ac modifications
+multiple regulatory elements
+specific sequence elements
+early replicating dna
+polycomb-mediated transcriptional repression70­74
+specific regulatory sequences
+joint 59/39 ends
+600 potential promoter fragments
+sequence elements shows
+non-exonic constrained sequences
+unexplained constrained sequences
+specific transcription factors
+harbour equal proportions
+sliding 250-kb window
+1/11
+considerably altered karyotype
+pan-vertebrate ultraconserved regions108
+4444 forest park avenue
+1038/nature05874
+
+articles
+identification
+conserved genomic elements
+complex inter-factor interactions
+analysing continuous data
+cage/ pet data
+regulatory regions identifiable
+3 utrs rfbrs-seqsp
+
+0
+mammalian genomic sequence
+sites showing evidence
+stratified random-sampling method
+transcriptional regulatory elements
+early vertebrate proto-karyotype
+707 candidate ncrna loci
+supplementary
+
+information sections 2
+supplementary information sections 3
+supplementary information sections 2
+supplementary information sections
+multiple transcription factors
+histone modifications vary
+constrained ancestral alignment
+intra-species constrained sequences
+blocks labelled `active
+overlap transcripts identified
+whole-genome vertebrate sequences99­102
+gibbs sampling algorithm
+non-polymorphic segmental duplications
+chip-chip data sets
+129 chip-chip data sets
+reflect orthologous human
+resulting general principles
+assessing functional constraint85
+illustrative encode region
+statistically significant under-representation
+data sets reflect
+sequence-specific factor
+functional elements encoded
+1705 ne pacific street
+82 inactive regions spanning 17
+alu repetitive elements
+28 non-gencode-based regulatory clusters
+general transcription machinery
+encode regions identified
+ensembl-based gene definition
+active chromatin hub
+providing graphical expertise
+inactive multigene families
+make quantitative comparisons
+conserved non-genic sequences
+highly significant overlap
+chip-chip platform comparison10
+pronounced doublet peaks
+genomic regions replicate
+pseudogene transcription
+diffuse components related
+nih biowulf cluster
+race reaction
+primary sequence similarity
+h4ac acetylation
+kernel density method
+selected experimental annotations
+transcriptional promoter structure
+previously annotated tss
+riken wako institute
+stefan washietl24
+biologically informative representation
+riken yokohama institute
+surrounding bases apparently
+large-scale genome projects
+small intestine rna
+establish optimal parameters
+combining sequence constraint
+primary transcript identified
+tnan dna sequences
+underlying dna sequences
+low informationcontent elements
+hela cells led
+defining chip-chip-positive sites
+intervening proteincoding genes
+close sequence similarity
+newly identified tsss
+highly sensitive means
+solid line shows
+small nuclear rnas
+ctcf tethers
+harvard medical school
+higher values signifying
+human c-myc protein
+ucsc genome browser
+predictive chromatin signatures
+nucleic acids res
+cell fate transitions
+antisense transcription
+analyse transcription comprehensively
+antisense rna
+messenger rna splicing
+chromatin structure information
+1embl-european bioinformatics institute
+showing evolutionary constraint
+large-scale multiple alignment
+sara van calcar68
+current mechanistic models
+`non-cpg island
+hnf4a site
+interesting mechanistic questions
+adenine tract depends
+oxford ox1 3tg
+intensity
+polymorphic indel rate
+higher indel rate
+temporally specific window
+evolutionarily conserved elements
+human hl60 cells
+sequencing based technologies
+multiple extant species
+human segmental duplications
+accessible chromatin regions
+dna replication-timing analysis
+previous studies comparing
+encode project provided
+single biological role
+show lower correlation
+dna structural motifs
+present numerous times
+experimental assays performed
+largerscale chromosomal architecture
+atypical rnapii transcript
+provided genome-wide insights
+chromatin structure assays
+5
+
+regions
+
+show evidence
+adapt statistical tests
+generated data sets
+806
+
+cross-integrating data generated
+largescale data-generation methods
+1 university station a4800
+michael smith building
+traditional promoter sequences
+population variability overview
+chip-chip data revealed
+constrained sequence exist
+entire intervening dna
+e2f1-binding sites suggests
+coding exons
+histone h3 lys 27
+conserved orthologous bases
+make effective predictions
+make fewer assumptions
+histone modification data
+conserved noncoding sequences
+unbiased location analysis
+77 avenue louis pasteur
+observed data
+800
+
+indel
+subtree power analysis
+evolutionary conservation profiles
+histone modification assays
+28 regulatory clusters analysed
+specific histone modifications
+examined structural variation
+mediating chromatin accessibility
+human transcribed sequences
+measuring relative sensitivity
+vertebrate genome sequences4­8
+correlating genomic features
+16 human cell lines33
+drosophila myc
+alice wallenberg foundation
+fully exploiting inter-
+mammalian promoter architecture
+transcripts based solely
+encode pilot project
+individual histone modifications
+4genomic bioinformatics program
+previous genome-wide estimates
+40genome science laboratory
+biomedical research
+encode selected regions
+encode region enm013
+overlapping primary transcripts
+define high-enrichment regions
+synchronized hela cells
+transcriptional regulation involves
+find sequence motifs
+genomic region found
+rt­pcr
+computational biology & bioinformatics
+mammalian chip-chip analysis
+genome previously thought
+large genomic regions
+mapped replication timing
+national science foundation
+genomic domains overview
+reflect longer transcripts
+histone methyltransferase activity
+billion bases encode
+normalized
+quantitative chromatin profiling
+dna replication emerges
+genome sciences & policy
+sensitivity threshold capable
+increase protein complexity
+biologically active molecules
+regulatory elements residing
+larger neutral pools
+disparate cell lines
+intra-species variation studies
+cdss
+sense
+widely accepted notion
+kerstin lindblad-toh65 & eric
+16-kb scale
+551 north 34th street
+early mammalian lineage
+annotated sequence features
+chromatin structure involved
+current assays detect
+examined chromatin structure
+human transcriptome revealed
+constrained bases analysed
+h3 e2 k4
+large-scale transcriptional activity
+histone modification marks
+include structural rnas
+general chromatin accessibility
+encoded rna molecules
+race experiments showing
+rfbr dhs
+previous section focused
+local dna structure
+specific rfbrs relative
+human encode regions
+multiple tissues region
+tissue specificity contributes
+3-fold enrichment compared
+main analysis groups
+large-scale chromatin organization
+major experimental techniques
+histone modification peaks
+h3k27me3 marks show
+wisconsin medical school
+geneva medical school
+h3ac modifications
+reflecting positive selection
+approximately 60-kb scale
+top dashed line
+reveal important principles
+deyou ¸ zheng11
+explanations fully accounts
+deyou zheng11
+previously annotated tsss
+adaptive protein evolution
+constrained bases reside
+encode region enm006
+predicted protein-coding sequences
+genomic bases detected
+overlapping protein-coding loci
+chromosomal domains defined
+similar conservation profiles
+extensive experimental studies
+cellular & molecular biology
+indel measures owing
+tiling arrays
+encode analysis groups
+chip-chip results reflect
+low h3ac
+20 kb window centred
+heritable gene silencing
+rfbr density
+donson
+
+100
+
+nature
+massachusetts medical school
+markedly higher resolution
+h3 k2 7
+
+0
+
+enrichment
+
+2
+multiple tissue experiments
+aggregate
+substantial biological knowledge
+differing scales decomposed
+early replication timing
+59 race products generated
+mapping race products
+consensus annotation
+temporally specific probes
+sequence-specific factors
+histone modification enrichments
+human cell lines
+detect potential signals
+large tss catalogue
+similar broad amount
+identify transcripts emanating
+inserted early
+human transcriptional promoters
+histone h3k4 mono-
+histone modification levels
+columns provide data
+transcripts roderic guigo4
+mapping transcribed regions
+mammalian evolution based
+strong evolutionary constraint
+intergenic transcription
+histone modification studies
+remaining constrained bases
+research institute
+advance online publication
+undergo purifying selection
+polymerase jumping
+left plot depicts
+ltrs sine alus
+anindya dutta3
+snp consortium
+symmetrically distributed
+sarah wilcox12
+cell line data
+selected 577 gencode-defined tsss
+multiple data types
+gencode annotation
+predominantly positive correlation
+human genome function
+atp5o genes
+strand reference genes
+gene expression variation
+wellcome trust
+race product
+replication pattern arises
+7genome technology branch
+unannotated txfrags detected
+reflect neutral turnover
+transcript-tiling array
+combination method previously
+291
+
+42 43 44 122 sequencetiling array
+array hybridizations
+hypersensitive sites
+pseudogene end
+exhibit coordinated expression
+experimental techniques table 1
+tag sequencing
+neutral rates calculated
+similar structural pattern
+differential epigenetic modifications
+14 june 2007
+
+articles
+110 high-scoring predicted tsss
+yale university school
+tissue distribution comparable
+dnasei sensitivity
+distinct biological differences
+washington university school
+12 tested rna sources
+126 tested regulatory clusters
+cancer research
+chip-chip assay
+transcription factor
+assayed rna samples
+providing increasing power
+unsupported tsss
+findings reveal evidence
+predicting algorithm incorporated
+encountered significant overrepresentation
+cpg islands
+binding sites
+conserved function encoded
+h3 e3 k4
+highly accurate
+gingeras6 integrated analysis
+define promoter proximity
+manuscript preparation james
+atp5o gene
+unexpectedly large fraction
+dnasei compared
+genomic binding
+h3k4me3
+encode pilot phase
+cage histone nomenclature{
+{ histone code nomenclature
+44 encode regions provide
+specific positions defined
+distinguish `biochemical function
+cell line rearrangements
+enrichment
+h3k4me2
+4
+faire
+
+117 118 19 119 121 13 46
+
+63
+faire
+single cluster
+open chromatin
+primary transcripts detected
+gene identification signature
+hela cell line
+nature cell biol
+extensive testing
+histone modifications consistent
+800
+
+articles
+
+nature
+smarcc1
+conservative correction
+cnv enrichment
+donson gene
+including results falling
+established proteincoding loci
+produce uninteresting correlations
+$ dna replication timing
+splicing signals coordinated
+rfbr signals
+sph ii
+evolutionary constraint ranging
+promoter binding
+h4 hel ac
+genetic variants
+zhiping weng8
+amplifying cdna sequences
+constrained versus
+measured histone modifications
+examined transcript levels
+stanford university school
+dnasei correlation
+race assays suggests
+dnasei accessibility
+unbiased maps
+additional 14 vertebrate species
+national institute
+diverse experiments performed
+unannotated txfrag
+consensus sequences
+protein-coding exons
+predict structured ncrnas
+gm06990 cell line
+intergenic regions
+lower heterozygosity compared
+tiling arrays43
+tiling arrays20
+gm06990 cells allowed
+abbreviations references number
+examine genome function
+multiple tsss resided
+experimentally examined 50
+experimentally examined
+binding equally
+5research group
+30bioinformatics group
+dnasei digestion
+examine 399 protein-coding loci
+including non-protein-coding transcripts
+specific protein
+distal sites
+identified elements
+figure 2 shows
+ancient repeats
+non-coding dna
+analysis consortium
+e2f4
+biochemical function reflects
+locus control regions31
+dna sequencing
+genomic position
+600
+
+genomic position
+h4ac
+6
+h4ac
+
+0
+hela cells correlated
+gencode data
+exons involved
+riken institute
+assess expression status
+coding regions
+understand transcriptional regulation
+gencode 59 ends
+gencode
+
+59 ends
+functional elements
+ian dunham12
+ctcf
+rna transcription
+pennsylvania state university
+integrated annotation
+rna derived
+gencode genes
+functional information
+pet tag
+standard deviation
+yeast genomes
+2
+h3k4me1
+
+0
+genopode building
+institut municipal ´ `
+component exons
+5 0
+
+h3k4me1
+domestic dog
+hudson­kreitman­aguade
+h3k4me1
+genomic region
+approximately 15 mb reside
+data show
+human population
+specific sites
+gencode transcripts
+distal elements
+highly predictive
+unbiased mapping
+rfbrs
+
+figure 6
+functional data
+reference annotation
+initial sequencing
+hidden correlations
+gencode annotations
+genomic elements
+indel rates
+larger relative proportion
+regulatory proteins
+replication patterns
+regulatory elements
+regions identified
+snp data
+regulated promoter
+additional exons
+transcripts
+
+4 6 8 10 12
+
+figure 1
+extramural research
+replicate early
+statistical analysis shown
+unannotated transcription
+multiple sites
+80 & ewan ¸ birney1
+ewan birney1
+constrained sequence
+factor ctcf50
+factor implicated
+confounding factor
+neutrally evolving
+9biomedical engineering department
+biomedical informatics
+experimental elements
+regulatory information
+functional dna
+functional analysis
+3 replacement patterns
+specific sequence
+functional genes
+consistent comparison framework
+genome annotation
+tiling-array analysis
+unannotated sequence
+sequence elements
+modifications show
+high-throughput sequencing
+chimpanzee sequencing
+computational methods
+gencode exon
+specific region
+resulting transcripts
+pet tags
+multiple experimental
+regulatory factors
+transcription prompted
+hmm segmentation
+evolutionary rates
+unbiased manner
+biochemically active
+dhs density
+transcription factors
+supplementary information 3
+supplementary information
+myc
+tag stage
+broad institute*
+77 broad institute
+stefan enroth69
+orthologous sequences
+comparative analysis
+genome-wide sequence
+sequencespecific factors
+untranslated regions
+orthologous human
+correlation
+
+figure 8
+transcribed processed pseudogenes
+data sets
+experimental data
+150 data sets
+continuous profiles
+experimental assays
+individual elements
+chromatin immunoprecipitation
+repressed chromatin
+strand gencode
+structural variation
+cell-cycle regulation
+genomic dna
+element level suggests
+14 june 2007
+
+transcripts
+initial results suggested
+nucleotide sequence
+constrained sequences
+`constrained sequences
+show evidence
+donna karolchik26
+nucleotides
+performance assessment
+md4@sanger
+single predictor
+intronic mirna
+repressed domains
+cloned
+genome showing
+functional constraint
+confidently identified
+figure 4 summarizes
+figure 3 illustrates
+protein resources
+protein structure18
+44 genomic regions
+genomic regions
+evolutionarily constrained
+overlapping genes
+evolutionarily selected
+sequence variability
+extensive transcription
+rna transcripts
+genomic rearrangements
+biologically important
+growing annotation
+human variation
+evolutionary information
+annotated genes
+broad region
+imprinted region
+computational genomics
+repressed regions
+regions demonstrate
+previous work
+sequence conservation
+tiling-array experiments
+multiple tests
+general factors
+general
+
+factors
+rxfrag extensions
+59 rxfrag extensions
+multiple sequences
+clustering methods
+nucleotide variation
+genome center
+transcript sequence
+protein-coding sequence
+multiple factors
+tag support
+experimental findings
+common feature
+css
+chip-chip data
+analysed region
+chromatin structure
+gencode classification
+experimental annotations
+functional snrnas
+functional structures
+`functional peering
+transcriptional maps
+encode region
+significant clustering
+chip-chip assays
+genome sequence
+large-scale domains
+disease program
+ultraconserved elements
+h3 e1
+interallelic variation
+santa fe
+cluster txfrags
+`regulatory clusters
+regulatory clusters
+1 show enrichment
+dna elements
+national institutes
+overlapping gene
+nature methods 1
+nature methods 3
+nature methods 2
+fdr rate
+active chromatin
+previously thought
+non-coding portion
+genomic processes
+pilot project
+snp frequencies
+related species
+genomic bases
+studies show
+chromatin signature
+rna molecules
+non-protein-coding rna
+individual genes
+computational analyses
+genomic extensions
+dna structure
+chromatin modification
+multiple alignment
+general overlap
+transcription owing
+annotated gene
+gencode tsss
+two-state hmm
+unsupported
+complex architecture
+unbiased fashion
+positive promoter
+human chromatin
+early replication
+active domains
+nucleotide data
+35 groups provided
+comparative genomics
+functional evolution
+34genome institute
+66whitehead institute
+18allen institute
+cage tag
+29bioinformatics institute
+14 june 2007
+
+behaviour
+gsc statistic
+65broad institute
+experimental evidence
+68ludwig institute
+genome-wide analysis
+orthologous bases
+encode project
+distal dhss49
+transcript maps
+transcript density
+short sequence
+genomic regulation
+active genes
+histone modification
+tiling-array analyses
+computational approach
+tsss coupled
+regulatory signals
+regulatory role
+sequence constraint
+dna sequences
+nucleotide resolution
+internal position
+de laat
+subnuclear sites
+de bakker77
+evolutionary insights
+initial sequence
+tsss identified
+experimental techniques
+references provided
+740 na
+
+compared
+unconstrained transcripts
+integrated analysis
+small intestine
+enriched binding
+histone data
+late replication
+menlo park
+svm performed
+genomic coordinates
+e2f1
+distal dhss
+largescale assays
+regulatory information--
+0
+
+10
+
+20
+
+30
+
+5
+
+40
+
+2
+
+50
+
+60
+
+10
+
+70
+
+6
+
+gencode exonic
+reading signals
+high resolution
+protein-coding sequences
+polymorphic regions
+previous findings
+transcription specificity
+associating transcription
+transcription overview
+cap-selected rna
+neutral elements
+identify sequences
+comparative analyses
+constrained bases
+genome encodes
+biochemical elements
+encode data
+genomic enrichment
+gene density
+transcript data
+structural element
+31 center drive
+noncoding rnas
+randomized sets
+uniformly distributed
+highly correlated
+multi-sequence alignments86­88
+messenger rnas
+structured rnas
+temporal profile
+washington school
+carolina center
+proximal
+31interdisciplinary center
+adenine tract
+experimental approaches16
+rudbeck laboratory
+median length
+unexpected feature
+zhiping@bu
+medical informatics
+stat1
+58national center
+human chromosome 22
+human chromosome 21
+general complexity
+general concordance
+functional landscape
+human genome
+$
+
+human genome
+representative factors
+chromatin architecture
+previous estimates
+chromatin modifications
+large window
+multiple species
+region detected
+local structure
+low-complexity sequence
+euchromatic sequence
+promoter activity
+university park
+genome-wide mapping
+h3ac
+h3ac
+0
+individual bases
+biological assays
+genomic analyses
+nearest dhs -0
+array
+rfbrs overlap
+technologies
+
+figure 4
+multiple components
+mammalian genomes
+analysis method
+1-mb region
+enhancer region
+genic region
+nature struct
+nature biotechnol
+experimental studies
+replication program
+neutral sequences
+unconstrained bases
+genomic microarrays
+unannotated txfrags
+gencode-defined transcripts
+optimal sensitivity
+active molecules
+histone modifications
+chromatin marks
+extensive overlap
+evolutionary constraint
+tss groups
+individual experiments
+statistical tests
+selectively constrained
+genomic segments
+biological machinery
+804
+
+generated data
+data generated
+promoter predictions
+pet/cage tags
+singleton tags
+cage tags
+protein-coding genes
+annotated loci
+michael snyder10
+evolutionarily neutral
+intra-species polymorphisms
+10-kb window
+existing cdna
+precise bases
+specific antibodies
+specific benefit
+specific function
+specific genes69
+include sequences
+residing distal
+histone methylation
+chip-chip experiments
+alternative proteins
+complex situation
+coordinated program
+8bioinformatics program
+protein-coding transcript
+1156 high street
+transcriptionally complex
+fast evolving
+large duplications
+general role
+mobile elements
+encodedetected elements
+non-orthologous elements
+nonorthologous elements
+lineage-specific elements
+histone marks
+molecular biology
+encode regions
+44 encode regions
+h3k4me2
+1
+h3k4me2
+data support
+biological insights
+considerably larger
+genetic variation
+significant overlap
+protein-coding transcripts
+protein-coding regions
+*
+plot shows
+late-replicating based
+predominantly hela
+histone h3
+chromatin state
+similar overrepresentation
+mammalian cells
+molecular pharmacology
+mammalian genome
+specific enrichment
+methods detect
+quantitative estimates
+predicted solely
+genomic targets
+previously suspected
+make predictions
+haplotype structure
+previously available82
+mammalian transcriptome
+regulatory control
+extensive rearrangements
+traditional protein-coding
+transcript connectivity
+specific loci
+rxfrags defining
+seemingly unconstrained
+transcripts emanating
+biotechnology information
+entire regions
+information content
+permissions information
+previous work14
+previous estimates24
+multiple parts
+inactive genes
+chromatin accessibility
+$ chromatin accessibility
+bars reflect
+statistical framework
+non-protein-coding rnas
+method similar
+evolutionary selection
+examining evolutionary
+evolutionary dynamics
+genome-wide associations
+specific scales
+tss clusters
+157 tss clusters
+molecular mechanisms
+providing insights
+human cell
+statistical analysis
+roderic ´ guigo4
+variables distributed
+´ roderic guigo4
+increasing knowledge
+experimental variables
+segmental duplications104
+decrease dramatically
+dramatically overestimate
+jaspar motifs
+direct isolation
+formaldehydeassisted isolation
+ongoing work
+proteincoding genes4
+childcare foundation
+chromosomal processes
+expression status
+mammalian species
+14 mammalian species
+gencode-annotated sequences
+distal enhancers
+repressive modification
+transcriptional activity
+primary transcript
+plotted showing
+longer extensions
+larger number
+primary transcripts
+define transcripts
+consistently found
+large domains
+large genomes
+statistical method
+hela cells
+hela genome
+transcriptional regulation
+human tafii250
+e3 h3
+neutral regions
+sequence divergence
+rfbrs close
+biological mechanisms
+complementary data
+unsmoothed data
+raw data
+data sets17
+previous studies
+small insertions/deletions
+ian bell6
+small size
+ian holmes57
+small scale
+reproducibly confirmed
+applied science & technology
+dhss prompted
+replication times
+conserved function
+functionally conserved
+rfbrs relative
+h3k4 mono-
+non-protein-coding transcripts
+transcript support
+detect constraint
+correlation values
+active promoters
+chromatin remodelling
+chromatin maintenance
+chromatin territories
+chromatin structure59
+multiple scales
+general pool
+dna replication
+broad signals
+transcriptional activity59­66
+transcriptional events
+ii
+5-nucleotide resolution
+100-kb resolution
+considerable number
+genome sciences
+massachusetts institute
+genomic distribution
+annotated features
+evolutionary analyses
+genome-wide analyses
+race-detected ends
+terminal ends
+considerable amount
+performed race
+significant peaks
+approach based
+structural details
+biological processes
+similar measures
+cell lines
+11 cell lines
+virginia school
+multiple samples
+reflected domains
+la jolla
+high occupancy
+gene-rich domains
+cellular functions
+alu repeats
+8-base segment
+rich source
+main portal
+ir
+online version
+cap-selected rnas
+transfer rnas
+ribosomal rnas
+accepted 23 april 2007
+14 june 2007
+
+replicated
+spanish ministry
+substantial intragenic
+oxford road
+gsc methodology
+atp5o
+quantitative pcr42
+epigenetic deregulation
+evades splicing
+rfbr
+­0
+possibility remains
+genome-scale profiling
+starred columns
+marked differences
+current dogma
+affiliations appears
+mouse genomes
+richer description
+mouse27 genomes
+ewan birney*
+16genetics branch
+broad collection
+global map
+impressive platform
+alternative splicing
+good models
+reliably distinguish
+additional factors
+histone displacement
+histone modifications--
+histone acetylation
+histone composition45
+large number
+assessing overlap
+tr50 data
+complementary dna
+wavelet analysis
+race/tiling-array analysis
+comprehensive analysis
+complicate analysis
+nearest tss -0
+nearest tss -1
+000 rxfrag pets
+5% fdr level
+total rna
+large amounts
+large amount
+neutral element
+well-established genes
+established genes
+parent genes
+neighbouring genes
+gencode-annotated genes
+success rate
+statistical power
+sequence context
+transcriptional promoters
+59 utrs
+utrs
+individual authors
+39 utrs
+transcripts
+
+detected
+transcripts detected
+transcripts detected 1
+rna hybridization
+similar technique
+chromosome res
+molecular biophysics
+molecular function
+fdr-based method
+lower plot
+including information
+molecular bioscience
+albeit lower
+insights gained
+dhss harbour
+high-resolution method
+high levels
+`biological role
+biological role
+local peaks
+pervasively transcribed
+encode portal
+mammalian constraint4
+mammalian lineage
+genome res
+data suggest
+590 commonwealth avenue
+unsupervised training
+global correlations
+unambiguously detect 4
+fusion transcript
+parent transcript
+240 longwood avenue
+55 lake avenue
+organizational groups
+unconstrained portions
+examined measures
+studies revealed
+biochemical processes
+cell line
+mature transcripts
+gencode-annotated transcripts
+alternative transcripts
+reproducible transcripts
+5-kb regions
+tiled regions
+10 re-sequenced regions
+previous insertion
+remaining regions
+multiple intervals
+drosophila chromosome
+cdna ends
+txfrags reside
+animal biology
+developmental biology
+medical genetics
+biological function
+biological importance
+biological reasons
+biological relevance
+fdr-based methods
+independent methods
+high-throughput methods
+results advance
+atypical pattern
+allowed methods
+complementary methods
+1300 university ave
+data-analysis methods
+broad set
+lower levels
+limited number
+lymphoma cells
+gm06990 cells
+mouse genome
+genome function
+chimpanzee genome
+genome duplication
+genome organization
+local correlation
+references reporting
+discrete islands
+insulator function
+theoretical ¨ chemistry
+saint louis
+optimal classifier
+collective knowledge
+14 june 2007
+
+majority
+donson
+remarkable excess
+cumulative frequency
+pilot phase
+additional analysis
+similar signals
+gene regulation
+active tsss
+additional genes
+dnasei
+nature genet
+multiple observations
+protein-coding loci
+364 plantation street
+60 biopolis street
+current view
+333 cedar street
+747 52nd street
+320 charles street
+30 biopolis street
+establish redundancy
+extensive correlations
+establish connections
+race experiments
+genes dev
+human chromosomes
+human chromosomes 21
+10 human chromosomes
+7 cambridge center
+larger scale
+santa cruz
+santa clara
+9 cambridge center
+14 june 2007
+
+california 94305
+categories based
+similar headings
+precise positions
+mammalian evolution
+genome-wide location
+differing levels
+low levels
+gene function
+snorna gene
+gene fusion
+training set
+estimates assume
+negative selection
+species selection
+elliott@nhgri
+brno nomenclature
+genome-scale mapping
+global identification
+principles agree
+complete concordance
+critical questions
+nucleotide insertion
+neutral turnover
+individual classes
+nature rev
+transcriptional landscape
+transcriptional control
+biochemical events
+biochemical function
+newer element
+technologies provided
+lineage-specific element
+older element
+bases detected
+dhss reside
+* singleton clusters{
+curves reflect
+phenomena independently
+north carolina 27599
+dispersed independently
+north carolina 27708
+life sciences
+north carolina
+high h3k27me3
+large signals
+genome-wide comparison
+entire set
+vertebrate evolution
+differing scales
+deletion pet
+funding support
+processed data
+gene expression
+chromatin features
+intronic
+chromosomal targets
+higher categories
+initial conclusions
+machine-learning technique
+considered exceptions
+initial strategy
+supporting evidence
+strong signals10
+involved isolating89
+transcript consistent
+bases tiled
+fewer bases
+mouse bases
+biological samples
+defined set
+1420 washington heights
+replication signals
+gene promoters
+regional correlation
+wavelet correlation
+activating marks
+traditional view
+connected transcripts
+catalogue tsss
+predicting tsss
+sufficiently large
+large scale
+`open
+assay
+human genome--
+`histone mark
+genome-analysis techniques
+techniques assayed
+major results
+harvard university
+local correlations
+xist replication
+replication overview
+replication stems
+race-array experiments
+replication timing
+clear combination
+correlations support
+relative enrichment
+2 relative enrichment 1
+neutral pool
+general observation
+bind downstream
+unique opportunity
+protein-coding portions
+widespread regulation
+central role
+widespread role
+genome biol
+element class
+cell cycle-
+cell cycle
+encoding proteins
+051 unique tsss
+unique tsss
+yale university
+washington university
+h3k27me3 marks
+claes wadelius74
+novartis foundations
+encode_chairs@ebi
+nuria lopez-bigas5
+fundamental difficulty
+mikhail nefedov67
+shamil sunyaev14
+48 baylor college
+parallel construction
+lluis armengol76
+jorg hackermuller32
+alfonso valencia37
+itsn1
+prompting speculation
+sharon squazzo70
+cryptic store
+hua cao13
+identify 201 pseudogenes
+xiaobin guan48
+202 fordham hall
+ac la
+functions conferred
+shaded boxes
+sandeep patel6
+neat `dictionary
+zhou zhu27
+deeper investigation
+gained subtler
+upper plot
+mouse genes110
+hallgri sidow33
+cb10 1sd
+haplotype map
+direct behaviour
+imperial college
+dinucleotide composition
+aberrant growth
+xiaodong zhao34
+overly simplified
+systematic examination
+give rise
+repeatedly suggested13
+48 & arend sidow33
+formaldehyde crosslinking
+madhavan ganesh6
+fetal liver
+ola wallerman74
+rosa luna75
+constitutive baseline
+se-75185 uppsala
+alvaro rada-iglesias74
+adam frankish12
+evelyn cheung6
+2-1 hirosawa
+zarmik moqtaderi27
+remarkably informative
+arbitrary threshold
+kun wang68
+yuko yoshinaga67
+larger-scale relationships
+transcriptionally silent
+xiaoling zhang8
+haiyan huang43
+generally anti-correlated
+hiram clawson26
+jonghwan kim71
+jorg drenkow6
+recent years12
+neerja karnani3
+jiaqian wu10
+alexandre reymond21
+coordinated behaviour
+switchgear genomics
+polycomb-group silencing
+generally corresponded
+heike fiegler12
+tim massingham1
+eugene davydov53
+internal bars
+albin sandelin23
+integrative genomics
+julian huppert12
+spatial organization
+tuf love
+1455 adams drive
+tim hubbard12
+jana hertel30
+selective advantage
+kirsten lee2
+hapmap project103
+abigail woodroffe78
+aggressive schemes
+yong yu9
+w191­w194
+sean davis16
+ivan adzhubei14
+chia-lin wei34
+webb miller49
+yoshihide hayashizaki23
+mousheng xu8
+olof emanuelsson11
+caroline manzano22
+arend eyras5
+m13 9pt
+cb10 1sa
+man yu13
+kayla smith26
+embl/genbank archives
+physical contact
+av diagonal
+inserted
+pawandeep dhami12
+erica sodergren63
+jill cheng6
+saurabh asthana14
+philipp kapranov6
+ugrappa nagalakshmi10
+ankit malhotra3
+srinka ghosh6
+julien lagarde5
+acetylation occur
+deanna church58
+widespread occurrence
+nicholas matthews12
+nick goldman1
+hari tammana6
+methodological reasons
+xavier estivill76
+developmental regulators
+carine wyss22
+adjacent plots
+10-kb window75
+manja lindemeyer30
+ulas karaoz8
+project9 aims
+nccr frontiers
+yutao fu8
+random expectation
+antigone dimas12
+occasionally acquire
+high-resolution map
+andrea tanzer24
+wing-kin sung34
+adam siepel25
+high-throughput localization
+5635 fishers lane
+archana thakkapallayil26
+adam ameur69
+anti-sense transcripts35
+sylvain foissac4
+812
+
+ps eu
+norfolk place
+cis-regulatory module
+¨ kristin missal30
+rguigo@imim
+#07-01 matrix
+alternative tsss32
+poses
+
+dh
+
+1
+exons
+tyler alioto4
+companion papers
+jan korbel11
+gm 5 gm06990
+job dekker19
+atif shahab29
+72nimblegen systems
+catherine ucla22
+gary hon68
+leah barrera68
+lior pachter36
+9500 gilman drive
+simon whelan1{
+se-75124 uppsala
+vice versa61
+distinct regions57
+yutao ¨ fu8
+observe trimethylation
+fidencio neri2
+natural selection
+fei yao34
+striking deviation
+natl acad
+serafim batzoglou53
+sergey nikolaev22
+intergenic
+annie yang27
+recent chimpanzee
+330-kb interval
+striking outliers
+heatmap represents
+xueqing zhang42
+uk/ doc_wtd003208
+completely separate
+decision trees
+retinoic-acid stimulation
+notably symmetric
+received 2 march
+jacqueline chrast21
+kazutoyo osoegawa67
+bacpac resources
+plos comp
+nicely dovetail
+3 exons
+benedict paten1
+michigan 48109-2029
+jeff goldy2
+minmei hou49
+chikatoshi kai23
+ari loytynoja1
+anason halees8
+febs lett
+ghia euskirchen10
+drosophila melanogaster
+carefully coordinated
+chunxu qu68
+efficient tools
+ltr transposons
+jun liu34
+galt barber26
+4
+fr ag
+damian keefe1
+chapel hill
+baishali maskeri48
+purifying selection
+h4 acetylation
+a-1090 wien
+nan jiang72
+kevin struhl27
+congenital diseases
+sante gnerre65
+rhona stuart68
+huaiyang jiang63
+tandem chimerism
+ruth taylor12
+geoff rosenfeld75
+jun kawai23
+gc content
+deletions incompatible
+france denoeud5
+jin lian41
+baylor college
+facilitate cross-referencing
+intermediate grade
+fugu rubripes
+delocalized behaviours
+anthony shafer2
+59-end-capture technologies--cage
+piero carninci40
+developmental states
+dual predictions
+huck institutes
+yijun ruan34
+chimaeric-gene structures
+nearest dhs-0
+cryzl1
+kate rosenbloom26
+molly weaver2
+biggest surprise
+random placements
+computer facilities
+phillippe couttet12
+fabio pardi1
+frequent cage
+papers reporting
+sujit dike6
+4-kb scale
+nate heintzman68
+technical reasons
+abel ureta-vidal1
+sherman weissman41
+striking difference
+easily explained
+`community resource
+everdeclining costs
+¸ alexandre reymond21
+eduardo ´ ´msdottir79
+user-friendly manner
+deutsche forschungsgemeinschaft
+setting thresholds
+jan komorowski69
+claudia fried30
+xiaoqin xu70
+human genetics
+campus box 1045
+campus box 8501
+axis shows
+extensively overlap
+tss categories
+large increase
+large pool
+detected correlations
+vertebrate pseudogenes
+processed transcripts
+connected components
+replication pattern
+evolutionary time
+2 kb revealed
+tsss defined
+enrichment ratio
+marked enrichment
+5-fold enrichment
+6-fold enrichment
+partitioned dhss
+promoterproximal dhss
+promoter-distal dhss
+tssproximal dhss
+tss-distal dhss
+varied levels
+values greater
+tss classes
+classification evidence
+fully explain
+coordinated expression
+separate loci
+race-positive loci
+neighbouring loci
+distinct loci
+dermitzakis12 chromatin
+enriched dna
+wavelet correlations
+transcript imply
+studies reported
+studies examining
+studies convincingly
+smaller-scale studies
+classic promoters
+undiscovered promoters
+wellunderstood promoters
+upstream regions
+30 regions chosen
+identify dnase
+observed fraction
+biological conditions
+duke university
+combined results
+ars
+limited set
+uppsala university
+cornell university
+evergrowing set
+results obtained
+adaptive evolution
+smaller scales
+sizable set
+full set
+fewer analyses
+michael hawrylycz18
+michael brent35
+michael seringhaus11
+general relationship
+expression levels
+el e3
+increasing appreciation
+increased spans
+transcriptome characterization
+vertebrate development
+marginally increase
+interesting observation
+marked increase
+alignment programs
+cdna indicative
+ensembl annotations
+case considered
+significant challenge
+significant overestimation
+factor 1
+factor
+tsss close
+tiled microarrays
+broader range
+broader enrichments
+conventional view
+tissues sampled
+transparent view
+sophisticated view
+complete view
+molecular genetics
+9
+
+bases fraction
+late-replicating segments
+numerous
+james kent25
+james taylor49
+james gilbert12
+james cuff65
+consistent manner
+cell biol
+upstream gene
+large fraction
+intimately connected
+systematic identification
+24 cummington st
+st mary
+hospital
+details remaining
+expected outlier
+wavelet approach
+critical coupling
+consortium
+repeat
+
+0
+critical link
+dart classification
+44 cummington st
+major areas
+technical details
+oakland
+base-pair measures
+joel rozowsky11
+repeat
+sequencing
+tissue sample
+findings represented
+cell types
+location relative
+potential presence
+plos biol
+11 major classes
+north worcester
+average tr50
+brain sciences
+unbiased
+h3k4 enriched
+d-04107 leipzig
+d-04103 leipzig
+authors declare
+persistent level
+jennifer harrow12
+jennifer hillman-jackson26
+birney@ebi
+extension lengths
+shed light
+inter-species divergence
+95% confidence intervals
+ad8q@virginia
+commonplace assumption
+excellent opportunity
+rat
+ests
+evidence indicating
+binding
+strong bias
+results suggest
+1 science court
+101 science drive
+biomolecular science
+computer science
+15 mb reside
+considerable proportion
+correlation strength
+{present addresses
+tsss continue
+608 transcripts clustered
+grouped tsss
+excluding tsss
+versus
+25% versus 87%
+mark gerstein11
+txfrag
+generated 206 mb
+relative distribution
+stanford university
+independent observations
+david vetrie12
+david haussler25
+david inman73
+david swarbreck12
+biomolecular engineering
+measured continuously
+total bases
+relative proportion
+paul flicek1
+mardis64 & richard
+richard sandstrom2
+richard humbert2
+weinstock63 & richard
+gencode
+statistical genetics
+bases represented
+b-globin locus
+broadly correlated
+strongly correlated
+adh locus
+h19/igf2 locus
+loci found
+genome spain
+downstream analyses
+determining constraint
+date include
+begin cataloguing
+technical issues
+long-range enhancers
+released openly
+detecting
+andrew haydock2
+polycomb
+jane rogers12
+typically concentrated
+guyer51 & francis
+manual review
+ann arbor
+symmetrical signal
+heather trumbower26
+peter bickel43
+length difference
+tr eqs
+bar overlaps
+intermediate form
+aid navigation
+largely
+line1 repeats
+tom_gingeras@affymetrix
+comprehensive characterization
+throughput improvements
+randomized placement
+more-conservative refseq
+nathan day2
+opposite strands
+observable mrnas
+morgan park48
+strong association
+part owing
+peter newburger42
+stephen hartman10
+targeted epitope
+mixed opinions
+signal processing
+gm ac
+effort yielded 7
+completely absent
+substantially grown
+george asimenos53
+nucleosome occupancy
+element-level overlaps
+long distances
+targeted strategy
+emerging links
+peter kraus10
+coordinated actions
+snyder@yale
+long termini
+bmc genomics 7
+internal validation
+identified 1
+identified 4
+identified
+mutations relative
+0
+
+figure 5
+figure
+5
+
+­40
+
+­80
+
+figure 7
+802
+
+0
+
+1 1­ 5
+
+figure 2
+figure 13
+null distribution
+commonplace view
+protein
+phylogenetic distribution
+genetic medicine
+eleven classes
+independently validated
+robert fulton64
+young48 & robert
+robert castelo5
+robert baertsch25
+16 kb scale
+markedly enriched
+unprecedented detail
+strongly enriched
+total detectable 1
+plos genet 1
+plos genet
+connecticut 06520-8114
+roughly 30 mb--equivalent
+22 points
+studies confirm
+po box 208114
+computational
+tr50 signal
+tr50 partitions
+results presented
+high-confidence set
+show
+replication john
+replication time
+modified histones
+considerable distance
+cds
+accurate
+investigator developed
+nancy holroyd12
+chance events
+christoph ¨ flamm24
+maryland 20892-2152
+relevant acronyms
+genomics hum
+detectable coverage
+organized systematically
+apparent excess
+poorly developed
+exotic examples
+6-mb enm005
+computed histograms
+evolve detectably
+incomplete understanding
+maryland 20892-9305
+potentially acting
+significance moving
+patrick ng34
+shane neph2
+functional
+simple view
+testis tissues
+tsss residing
+test statistics
+segments bound
+broader distribution
+hybridization results
+discovery
+suite 4b09
+boston university
+studies focus
+rxfrag
+wellcome
+zheng lian41
+complete due
+cluster
+great majority
+<
+
+5­
+
+extension length
+14 june 2007
+institute
+tag
+14 june 2007
+
+46
+distal
+sites
+identifying pseudogenes
+public health
+position
+california 92093-0653
+california 94720-1762
+early
+broader extent
+transcription
+rna
+center
+clone
+biologists studying
+reveals
+significantly distinguished
+11 & emmanouil
+included
+200 experimental
+derived
+late
+`repressed
+taf1
+alignments
+clustering
+mechanistic
+related
+ability
+light blue
+sets
+coordination
+emmanouil
+present understanding
+average distance
+length classes
+sequence
+annotated
+300 kb intron
+significantly enriched
+greater detail
+dhs
+arrays
+region
+split roughly
+nature 432
+nature
+nature 436
+nature 437
+nature 438
+nature 420
+nature 428
+nature 409
+nature 362
+nature 331
+nature 351
+nature 431
+indel
+constrained
+selected 2
+analysing
+depicted separately
+egasp experiment
+specific
+complex
+fdr
+program
+establish
+unannotated
+elements
+variation
+08003 barcelona
+barcelona
+provided
+based
+project
+replicate
+svm
+important
+structure
+density
+previously
+general
+573 rxfrags
+rxfrags
+59 rxfrags
+unconstrained
+chip-chip
+information
+sections
+products
+multiple
+reflect
+evolutionary
+active
+`active
+antonarakis22 & thomas
+sliding
+foundation
+03637
+_
+114405
+_
+encodes
+80729
+_
+higher
+labelled
+interactions
+71716
+_
+equally
+tests
+sequences
+modification
+factors
+17 factors
+integrated
+human
+data
+small
+confirmed
+profiles
+campus
+conserved
+assays
+nucleotide
+chromatin
+resolution
+sensitivity
+98883
+
+sensitivity
+39 ends
+59 ends
+roles
+network
+catalogue
+panel
+change
+domains
+s3
+considerably
+discovered
+predict
+determine
+sirt1
+11/11
+mcdonald
+point
+gsc
+rnas
+cellular
+repressing
+revealed
+mid
+disease
+recently
+thought
+spi1
+extends
+stage
+made
+histone
+overlap
+dna
+analysis
+tss
+genes
+63% rate
+rate
+00030 rate
+rfbrs
+compared
+conservation
+insights
+molecular
+method
+lower
+analysed
+transcribed
+encode
+tissue
+unique
+ucsc
+transcript
+training
+extensive
+bind
+transcripts
+4 transcripts
+14 regions
+regions
+chromosome 7
+identify
+biology
+methods
+4
+
+290
+
+* number
+number
+cells
+genome
+temporally
+findings
+positive
+performed
+reveal
+insulator
+connectivity
+clear
+common
+vertebrate
+representative
+increased
+myers33
+line
+amounts
+algorithm
+chemistry
+approximately 60%
+pharmacology
+enm013
+methylation
+annotations
+marks
+significant
+defined 4
+defined
+reside
+h3
+hela
+similar
+gene
+mechanisms
+negative
+complexity
+elliott
+principles
+primary
+providing
+predicted
+nomenclature
+model
+power
+species
+mapping
+`inactive
+generated
+observed
+harvard
+define
+concordance
+sources
+`neutral
+neutral
+peaks
+element
+393 clusters
+clusters
+{ clusters
+sciences
+encoded
+components
+short
+race
+independently
+category
+molecules
+state
+support
+constraint
+evidence
+technique
+processes
+exon
+owing
+strong
+k4
+close
+k4 2
+include
+involved
+200 bases
+10 bases
+bases
+19 bases
+washington 98103
+washington 98195
+washington
+correlation
+relative
+400
+
+correlation
+extensions
+examined
+accessibility
+large
+techniques
+replication
+experiments
+activity
+7 txfrags
+txfrags
+role
+regulation
+signals
+detected
+cell 125
+cell 124
+cell 118
+cell 111
+cell 116
+cell 13
+cell
+adaptive
+strand
+
+33
+established
+purifying
+plot
+mouse
+amplifying
+incorporated
+similarly
+top
+hapmap
+organization
+81 resided
+yielded
+alus
+nih
+left
+inter-
+efforts
+analyse
+exist
+generally
+allowed
+coordinated
+differential
+specificity
+size
+assessing
+scale
+
+0
+probes
+turnover
+threshold
+hudson
+overview
+markedly
+wako
+fewer
+oxford
+drosophila
+depletion
+ltrs
+polymorphisms
+detailed
+examine
+yokohama
+distinct
+kreitman
+generalized
+pennsylvania 16802
+remaining
+scale
+enrichments
+link
+diverse
+predictions
+assayed
+notion
+code
+expressed
+reflects
+account
+& kreitman
+insight
+defining
+cage
+& aguade
+accompanied
+alice
+manuscript
+publication
+selection
+timing
+gm06990
+sara
+enm006
+encountered
+smith
+lineage
+silencing
+find 4
+h4
+function
+c-myc
+augmented
+provide
+enrichment
+levels
+573 dhss
+dhss
+expression
+268 loci
+224 loci
+359 loci
+loci
+487 loci
+correlations
+studies
+41 studies
+promoters
+tr50
+000
+
+100 %
+
+tr50
+2
+5
+
+0
+
+tr50
+
+3
+additional 20%
+bioinformatics
+¨ university
+results
+scales
+university
+set
+evolution
+pattern
+additional
+analyses
+michael
+activating
+`activating
+phase
+increase
+average
+pool
+cdna
+dev
+class
+suggest
+12 tissues
+table 3
+table 2
+table 1
+table 4
+microarrays
+samples
+statistics
+broader
+view
+tissues
+segments
+48 james
+james
+consistent
+classification
+end
+combination
+identification
+approach
+expected
+st
+suggesting
+critical
+stanford
+paper
+joel
+59 end
+connected
+daryl
+39 end
+details
+including
+biol
+5
+
+h3k27me3
+
+40
+
+1
+h3k27me3
+0
+h3k27me3
+downstream
+abbreviations
+types
+calculated
+explanations
+opportunity
+landscape
+portions
+targets
+modified
+means
+produce
+variables
+commonplace
+24 chromosomes
+level
+virginia 22908
+authors
+histones
+intervals
+jennifer
+chromosomes 21
+insertion
+focused
+suggests
+control
+divergence
+light
+gingeras6
+leipzig
+ranging
+birney
+residing
+proximity
+extension
+science 306
+science 302
+science 296
+science
+science 309
+science 297
+science 290
+science 291
+science 298
+science 308
+science 304
+present
+tsss
+
+0
+tsss
+500 found
+found
+8 pseudogenes
+25 pseudogenes
+fraction
+pseudogenes
+mark
+7
+
+fraction
+3
+
+fraction
+14 pseudogenes
+160 pseudogenes
+engineering
+features
+observations
+measured
+positions
+david
+engineering 2
+124 processed
+richard
+tested
+location
+111 processed
+processed
+paul
+8 processed
+locus
+correlated
+intron
+upstream
+antonarakis22
+1205 geneva
+base-pair
+partitions
+substantially
+geneva
+fashion
+strength
+distances
+suggested
+worcester
+applied
+aid
+split
+performance
+manual
+eric ¨
+bound
+overestimation
+jane
+affymetrix
+mrnas
+test
+enhancers
+wisconsin 53711
+remarkably
+morgan
+exceptions
+plotted
+effort
+high-confidence
+redundancy
+brain
+el
+significantly
+possibility
+improvements
+released
+ann
+form
+begin
+ensembl
+testis
+0
+
+signal
+absent
+connections
+strands
+characterization
+spans
+egasp
+bias
+actions
+113 test
+identifying
+extensively
+mixed
+1
+
+9
+heterozygosity
+typically 6
+dnase
+targeted 1%
+ac
+ag
+bmc
+heather
+andrew
+exonic
+issues
+nathan
+targeted 29
+1211 geneva
+genome--
+nucleosome
+appreciation
+ministry
+conditions
+simple
+understand
+presented
+development
+source
+signal
+separately
+wisconsin 53706
+stephen
+confirm
+indicating
+overlaps
+categories
+imply
+francis
+comparison
+challenge
+line1
+heterozygosity
+chosen
+greater
+assess
+refseq
+length
+tr
+richer
+distinguished
+curves
+studying
+placement
+emerging
+areas
+portion
+george
+cent
+context
+biologists
+eric
+peter
+termini
+validation
+distribution
+classes
+medicine
+´^ technology
+proportion
+technology
+technologies
+robert
+100 kb
+50 kb
+200 kb
+998 kb
+kb
+20 kb
+2 kb
+5 kb
+total
+enriched
+enriched 10
+detail
+genet
+represented
+roughly 50%
+ncrnas
+roughly 25%
+roughly
+connecticut 06510
+hybridization
+connecticut 06520
+box 1
+massachusetts 02115
+massachusetts 02215
+box
+box 800733
+massachusetts 02142
+massachusetts 02141
+box 357730
+box 598
+massachusetts 01605
+box 357720
+boston
+genetics 116
+8 mb
+340 mb
+genetics
+6 mb
+11 mb
+30 mb
+4 mb
+6 mb
+33
+blue
+christoph
+organized
+observation
+mutations
+potentially
+evolve
+programs
+mirna
+focus
+understanding
+date
+significance
+patrick
+excess
+dermitzakis12
+maryland 20894
+coverage
+relevant
+developed
+association
+part
+maryland 20892
+deletion
+examples
+replicated
+experiment
+depicted
+sample
+hum
+nancy
+frequency
+rev
+determining
+computed
+enm005
+snyder
+shane
+chance
+pan-
+cambridge
+explain
+pets
+extent
+suite 501
+clustered
+time
+suite 2015
+encoding
+john
+suite 4076
+validated
+25 department
+zheng
+axis
+due
+department
+49 department
+shown
+thomas
+spain
+majority
+case
+distance
+0
+
+distance
+5
+
+distance
+000
+
+distance
+health
+california
+california 94609
+california 95051
+california 95064
+california 94025
+california 94720
+california 94305
+california 92093
+california 95616
+relationship
+presence
+reymond
+73university
+cooper33
+consolidated
+consists
+andrews12
+edward
+hennady
+arranged
+79department
+lack
+/encode/
+elegant
+cross-hybridization
+cheng
+/reprints
+met
+pursuit
+& scherer
+path
+study
+alleles76
+dovey12
+dutta
+frum13
+e7
+pet-tagging
+collins7
+¨ montoya-burgos55
+chip-pet
+call
+tsss52
+separated
+delaval
+horak
+langford12
+aligned
+abundance
+heterogeneity
+worm
+seidl
+predictors
+1-7-22
+150 dhss80
+carriero
+classify
+qld 4072
+coloured
+pamela
+hypotheses
+green
+urban10
+44institute
+evans
+fit
+highlights
+s13
+15department
+fig
+mattick44
+non-random
+harte26
+arrayexpress
+rachel
+enrich
+amenable
+19program
+willingham
+vidal
+weng
+classified
+cawley
+1­s13
+vinsensius
+inter-relationship
+rine
+iyer
+blanchette
+singer72
+synthesizing
+lindblad-toh
+reader
+king50
+xu
+hogan
+karnani
+mavid
+fowler12
+muller
+cnvs
+ube3a
+& dutta
+biochemistry 32
+nigel
+koch
+disappearing
+snornas
+confirming
+gilbert
+genesis
+army
+serve
+6 non-processed
+mir-196
+replication75
+burkhoff
+white
+begins
+& pachter
+polya-selected
+acquisition
+dickson33
+kyle
+well-
+crawford20
+seek
+denoeud
+feingold51
+forces
+351-0198
+21center
+germany
+acknowledgements
+jean
+es
+singer
+doi
+bracken
+katayama
+translocations114
+usa 104
++
+66 children
+availability
+green7
+weirauch25
+situations
+summarizing
+integrate
+mixture
+usa 100
+ds
+noble2
+mir-483
+ludwig
+& markham
+detection
+australia
+cloning
+42department
+sub-regions
+//www
+hinrichs26
+handful
+kanagawa
+improve
+blakesley7
+positive-correlation
+participating
+brigham
+requests
+dietrich
+abbreviate
+ciberesp
+& ayala
+saitama
+basis
+fluctuation
+jeon
+dnase-chip
+allele
+exception
+roland
+originate
+s4
+62department
+dillon
+cooper
+tress
+characterize
+36department
+pathology
+hartelstraß
+perform
+texas 77030
+kim
+chip-chip37­39
+charlie
+74department
+jordan 1240
+silencers
+biostatistics
+assigned
+usa 101
+visualization
+cherry
+mirnas
+outset
+suppl 1
+richmond72
+maduro7
+disadvantage
+appearing
+interestingly
+www
+hofacker24
+trained
+stadler24
+mammals110
+evofold
+bottom
+purple
+e78
+confer
+tbp-
+e158
+switzerland
+peer
+ovcharenko
+opin
+ensure
+importantly
+raised
+runte
+mbf
+muzny63
+gis
+akshay
+& sidow
+synthesis
+attempted
+& barlow
+gingeras
+lineages
+harrison
+mullikin
+stamatoyannopoulos ´
+phastcons88
+result
+discriminate
+churchill
+ng
+mighell
+picture
+kuhn26
+chr21
+uncovered
+ren
+fact
+japan
+invent
+/
+row
+di-
+maston
+srinivasan34
+pasini
+finally
+transfac
+analogous
+aca36
+zhang
+71institute
+balakirev
+mi
+acknowledged
+subdivided
+cross-validation
+address
+hansen
+delimited
+yeast48
+cases16
+suggestion
+drosophila115
+dillon12
+bhinge71
+durham
+marker
+`warehouse
+wang
+noncoding27
+wealth
+2department
+tightly
+sports
+scenarios
+rodriguez
+black
+laboratory-specific
+& kadonaga
+boyle3
+duality
+euskirchen
+nguyen
+orian
+cases
+haidar9
+minimum
+believed
+bioengineering
+dedicated
+chip
+coincident
+myc54­56
+normalize
+koch12
+jaafar
+s2
+s5
+jaillon
+bird12
+dominance
+inputs
+proc
+max
+processivity
+correlate
+missouri 63108
+wei
+stamatoyannopoulos
+gerp87
+margulies7
+bhinge
+14division
+encompasses
+co-chairs
+liefer51
+decades
+insect
+correspondence
+half
+matched
+term
+24institute
+possibilities
+aca56
+domain
+trade-offs
+`closed
+sabo2
+blakesley
+abril5
+emerged
+correct
+charlotte
+53department
+keith
+turn
+& felsenfeld
+glass75
+directly
+necessarily
+acquired
+zamore
+giresi17
+gov/10506161
+representing
+catalonia
+& green
+intercalate
+corcs
+8 bases--roughly
+turner
+& helin
+note
+hatton
+coincide
+price
+molecule
+good51
+contrasts
+surprising
+adopt
+implications
+order
+promoser
+madison
+refs 28­30
+stamatoyannopoulos2
+removed
+essence
+farnham70
+10department
+trnas
+andolfatto
+geo
+summary
+finishing
+parker
+26center
+lausanne
+page
+ways
+representatives
+materials
+colours
+snps
+affecting
+missouri 63130
+enabling
+hypothesis
+nearby
+maintained
+curr
+67 children
+oliver
+heintzman
+s_
+margulies
+elgin
+ivo
+discrepancy
+thomas48
+& iyer
+verified
+9-fold
+html
+martin50
+breakdown
+noble
+investigated
+multi-lagan
+director
+47program
+cb# 3280
+showed
+summed
+ithaca
+captured
+wagschal
+harrow
+imprinting
+guigo
+embo
+mol
+stranger
+carter12
+reduced
+randomizations
+madrid
+suppl
+& gerstein
+matching
+christopher
+wheeler63
+studies14
+refer
+biased
+59department
+vishwanath
+discussed
+meaning
+cut-offs
+gregory
+leja
+tullius15
+assumed
+bieda70
+slowly
+jacquelyn
+mammals
+regard
+co-occurrence
+york 14853
+crawford
+dorschner2
+´ guigo
+27department
+weinstock
+lefebvre12
+migrate
+tba94
+describe
+knut
+conversely
+biochemistry
+pu1
+field
+narrowing
+valid
+tss58
+nucleus
+peak
+websites
+restricted
+feuk
+starting
+sci
+underestimation
+4-fold
+green72
+children
+22department
+bioessays 28
+asterisks
+rnaz--
+20institute
+schubeler
+mcdowell48
+parra
+zody77
+gov
+trans-splicing
+list
+smale
+inversions
+& grosveld
+gayle
+bbsrc
+& schubeler
+perspective
+attributable
+rozowsky
+learned
+contrast
+38department
+doggett
+inverse
+observing
+1101/gr
+33department
+cordelia
+dorschner
+extinction
+estimate
+revelation
+tyler-freer
+ciencia
+producing
+presumed
+h19
+tss-centric
+learn
+& henikoff
+3department
+jakob
+challenging
+robinson
+dismissed
+thomas25
+reject
+lee34
+develop
+clark38
+dr
+idol7
+6720 msc
+charlottesville
+match
+transition52
+woodfine
+bouffard7
+chang65
+instructions
+goldstein
+drake
+micro
+difficult
+characterized
+generation
+aldred
+idea
+dermitzakis
+expect
+todd
+unspliced
+izi
+singapore
+participants
+dominated
+harbours
+hirsch27
+paucity
+exon-
+non-specific
+persists
+consequence
+assign
+burkitt
+explored
+nakatani
+instances
+defects
+kapranov
+leading
+hindered
+smoothed
+listed
+21 november 2006
+jordan
+biomolecules
+focusing
+valerie
+colin
+woolfe
+determined
+colour
+brown39
+7b
+7a
+dewey54
+categorized
+elise
+nobrega
+59-
+berkeley
+& hansen
+finding
+index
+scone98
+stringency
+28department
+jaffe65
+coincided
+organism
+``junk
+mullikin7
+wisconsin-madison
+bethesda
+56% overlapped
+e-28029
+azuara
+zhang11
+relation
+100 bp
+continuous-
+52office
+e10
+circle
+kirmizis
+even-skipped
+gartler
+rest
+alexander
+yusufzai
+mexico 87501
+method19
+investigate
+mavid95
+achieved
+culture
+angie
+ingileif
+usa 99
+enrichments/depletions
+17department
+kuehn2
+yelin
+prospects
+improved
+texas 78712
+cs_non-cds
+regulates
+reconsidered
+acted
+hka
+pedersen26
+tri-methylation
+henrichsen21
+collected
+indifferent
+zhang43
+bieda
+repertoire
+brudno
+expanded
+& gingeras
+lander65
+eddy
+fernandez
+depleted
+lagan
+ruppert
+zweig26
+70department
+principally
+percentages
+saldanha
+consistency
+aiguader 88
+reviewed
+confined
+& tjian
+summaries
+& myers
+surprises
+bejerano
+tristan
+lis
+& sunyaev
+sekinger27
+emergence
+seattle
+clelland12
+thurman
+christine
+austria
+individuals
+indication
+& rubin
+suehiro-cho
+16-18
+& lieb
+ross
+describing
+annu
+integration
+agreement
+dormant
+stricker
+confounded
+//genome
+lin9
+¨ germany
+question
+specifically
+e93
+& bell
+vienna
+adjusting
+rejection
+rnaz
+bio-
+verification
+uk
+50center
+singapore 138672
+lucia
+william
+snorna-derived
+eisen
+chip41
+depth
+correlates
+intentional
+jason
+advice
+stage40
+phenomenon
+wetterstrand51
+bertone
+g1
+afzal
+goncalo
+43department
+distal-element-
+human14
+barbara
+lowe25
+tress37
+mcdaniell
+non-redundant
+kris
+anton
+61department
+trinklein33{
+cao
+oberley73
+lee
+degree
+peggy
+epidemiology
+befits
+mlagan96
+stranger12
+vol 447
+clark
+stylianos
+addressed
+usa
+trinklein
+faculty
+stone
+sharply
+women
+76genes
+augment
+integrating
+averaged
+haussler
+obvious
+sabo
+general--
+bend
+sought
+56department
+worley63
+generated31
+solidifying
+located
+35laboratory
+constraints
+41department
+parker15
+13division
+host
+correspond
+thurman2
+encyclopedia
+subsequently
+divided
+& tullius
+houston
+greenbaum15
+report
+joanna
+macalpine
+hypothesize
+li
+orange
+hardison50
+mitigates
+77 non-processed
+75university
+asymmetrical
+stone33
+55department
+l1
+interplay
+measure
+mid-
+mediated
+ref
+red
+navas13
+furey
+tsurumi-ku
+approaches
+likelihood
+feasible
+zhengdong
+jstam@
+davis
+bruce12
+austin
+distal-dhs-
+washietl
+mir-194-2
+biochem
+mir-192
+venter
+& clark
+explanation
+contribute
+greenbaum
+lists
+cooper33{
+cnio
+nix6
+orchestrates
+malhotra
+collectively
+elizabeth
+submitted
+asthana
+230-0045
+sweden
+intriguingly
+& antonarakis
+linked
+abecasis78
+54department
+mit
+accuracy
+bincons86
+munn72
+taylor3
+/nature
+insulators
+text
+supported
+998 kilobases
+siepel
+lieb17
+insulator-
+haven
+organ
+ascertain
+early-
+requirement
+humans
+phases
+mcauliffe
+& stamatoyannopoulos
+& farnham
+restricting
+key
+roytberg
+problem
+chipchip
+57department
+conclude
+taylor
+carson
+packaging
+respect
+forms
+shulha9
+addition
+& weng
+diversity
+al
+evol
+49 non-processed
+glossary
+harder
+bray
+texas
+motif
+surprisingly
+emanuelsson
+josep
+39department
+batzoglou
+juan
+51division
+member
+matthew
+gibbs63
+http
+effect
+frequently
+kern26
+wavelet-smoothed
+taane
+2 stamatoyannopoulos
+wahringerstraß
+distant
+pediatrics
+vivo
+day
+$ surprisingly
+schwaiger
+46department
+ericka
+giresi
+mathematics
+prominent
+brett
+proteinpseudogenes
+rosenzweig13
+usa 102
+aparicio
+bajic
+cdnas/ests
+cross-analysed
+james12
+ellis12
+johnson13
+1015 lausanne
+mito
+tenfold
+& kaufman
+hinxton
+introduced
+create
+classified13­15
+artefact
+78center
+queensland
+zoology
+cohen
+tagami
+refs 21
+mk-test111
+6affymetrix
+manchester
+halees
+iyer71
+u70
+11department
+absence
+{ probability
+henikoff
+vega34
+hansen48
+universal
+48 individuals
+education
+tfiib/gtf2b
+variety
+refseq-
+conclusion
+carninci
+& feil
+rada-iglesias
+modelling
+additionally
+svms
+elaine
+sub-classified
+indirectly
+37­44
+3
+
+80
+
+1
+
+2
+120
+
+1
+301­313
+344
+348
+85­97
+800 153
+60 &
+69­87
+29%
+964 4
+200 153
+10%
+108
+109
+100
+101
+106
+105
+693­699
+050
+645
+695­716
+9%
+99
+98
+90
+93
+94
+97
+1993
+1995
+55%
+8 0
+105­111
+499­509
+29
+852­864
+1559­1563
+40%
+1­31
+`
+37%
+437 521 639 164 2
+393
+000 153
+7 0
+0 2
+65%
+000
+910­916
+­
+1085­1089
+720­731
+291­298
+379­386
+5 3 10233
+721­731
+104
+877­885
+127
+901­913
+000 ­5
+324
+
+324
+413
+1123­1136
+5 1023
+369
+92
+946­957
+5
+
+0
+
+1
+3565­3575
+102
+103
+1 0
+107
+163
+931­945
+808
+4 0
+6 0
+119
+59
+58
+177­183
+666
+
+2 3 10270 6 3 10239 3 3 1028 7 3 10 4 3 10 263
+
+25
+54
+57
+56
+53
+52
+5%
+636­640
+656
+
+864
+50
+2 4 8 16 89
+1­10
+1­13
+207­219
+42%
+1
+
+0
+150
+152
+157
+138671
+123
+2235­2244
+1277­1285
+1034­1050
+236546 2
+25% 75%
+91
+95
+0
+128
+96
+1991
+110­112
+1999
+1039­1043
+987­997
+1301­1310
+2149­2158
+64 65 71 60 83
+00020 0
+2924­2929
+25
+
+0
+550
+760­774
+1
+120
+121
+4795­4800
+349
+93%
+1321­1325
+760276 0
+85
+00025 0
+519
+455­457
+898­909
+2
+018
+
+14
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+1%
+652­654
+28
+200
+15
+
+0
+20%
+7900­7905
+9 0
+839­851
+00010 0
+3
+83%
+876­880
+000 -0
+000 -3
+000 -5
+27­45
+6%
+60
+61
+63
+64
+65
+68
+50%
+000 -1
+401
+63%
+5
+
+1
+5
+
+4
+31
+191­202
+21%
+626­635
+76
+4
+64­68
+1115­1129
+62
+737867 3
+73
+67
+91%
+846
+2374­2383
+84%
+000
+
+-3
+91­93
+1023
+500
+60%
+468
+4 2 0
+2003
+2000
+5
+2006
+2007
+2004
+2 1
+5 0 -5
+5 0 -1
+813­820
+800
+
+90
+123­151
+503­509
+493­521
+708­715
+192
+19%
+5 0 1
+803­819
+900
+90%
+5 4
+5 2
+5 3
+5 0
+5 1
+81%
+6
+668­674
+74%
+787­797
+611
+0
+
+0
+0
+
+1
+0
+
+3
+0
+
+5
+3094­3105
+730 1
+491
+24
+25
+26
+27
+20
+21
+22
+23
+2%
+2 0 ­1
+47­53
+5495­5500
+000
+
+34
+7
+2242­2246
+180
+311­318
+189
+35%
+917­927
+830­839
+2
+
+0
+691­707
+000 5
+7%
+776
+000 3
+595­605
+75
+72
+79
+78
+3435­3447
+197­208
+66
+1299­1320
+8
+1304­1351
+69
+555­566
+318
+1101­1114
+219­225
+4 0 0
+865­876
+600 153
+0001
+32
+37
+36
+34
+9
+001
+1564­1566
+$
+67%
+301
+303
+21 33
+1090­1097
+2306­2309
+77
+74
+1149­1152
+1149­1154
+71
+70
+05
+
+0
+114
+308­312
+%
+950
+88­93
+00426965 0
+2002
+533­538
+86­88
+84
+511­518
+1215­1220
+17771­17776
+447
+39
+38
+33
+30
+35
+{
+3%
+14%
+33%
+400 153
+000
+
+0 -1
+0 ­0
+×10­4
+1002­1011
+6419­6424
+2001
+000
+
+3
+000
+
+5
+000
+
+-1
+143­164
+000 0 1
+175­179
+111
+0 3
+0 1
+0 0
+0 4
+8164­8169
+08028
+8%
+82
+70%
+80
+81
+86
+87
+916­919
+117­126
+0
+
+89
+3 0
+45%
+860­921
+438­442
+55
+0005 0
+9% 32%
+1­9
+324
+000
+
+90
+51
+109­114
+00015 0
+12%
+122
+124
+125
+126
+129
+223­227
+940­946
+57%
+735
+1114­1121
+449­479
+26
+
+118
+1592­1605
+2687­2700
+958
+453­459
+2005
+48
+49
+5014606
+43
+200
+
+90
+26{
+86774 9
+153­159
+280
+25%
+732­745
+447­459
+986
+115
+117
+116
+110
+113
+112
+29­59
+746­759
+151­157
+1987
+1988
+56%
+88
+127­136
+2507­2518
+89
+6 1
+83
+46
+47
+44
+45
+42
+40
+41
+4%
+377­383
+520­562
+47%
+539­548

@@ -1,0 +1,392 @@
+fluxbalance analysis
+System-state
+exmetabolic/regulatory
+protein­DNA interaction
+nonlinear objective
+Foundation
+depletion
+widespread availability
+Frequently
+data-driven
+Verifying
+activation
+Herrgård
+phenotypes
+particular estimation
+TF-binding
+Aebersold
+High-throughput
+noncyclic
+cellular
+model-based analysis
+Experimental
+constraints-based metabolic
+graph-based
+environmental conditions
+biological
+Thorsson
+iMH805/775 assuming
+prediction
+Comparison
+microarray analysis
+bacterial
+metabolic networks
+up/down-regulated
+organisms
+Transcriptional regulation
+Bumgarner
+significant expression
+Involving
+reconstruction
+integrated metabolic
+integrated regulatory
+Escherichia
+Supplemental
+iMH805/837 Ethanol/glucose
+understanding
+selective
+Published
+Bioengineering
+Transcriptional profiling
+knowledge
+Regulated
+repressor
+hypothetical regulatory
+sensitivity analysis
+strain­carbon
+wild-type condition
+optimization-based approach
+Transcriptional regulatory
+Corresponding
+microbial transcriptional
+individual expression
+predictions
+metabolite concentrations
+diagrams
+Kaeberlein
+iMH805/775 Ethanol/glucose
+estimation approach
+microarray-assisted
+particular
+Kauffman
+nonlinear constraints
+additional experimentation
+Addison-Wesley
+Transmitting
+challenge
+Large-scale
+Dumpelfeld
+nonfermentable
+literature-derived information
+large-scale experimental
+repressing
+protein­reaction
+TF­promoter interaction
+nutritional environment
+logic-based representation
+Mannhaupt
+iterative
+expression profiling
+Christmas
+transduction
+information
+ketogenesis
+experimental standard
+consistent mathematical
+noisiness
+genomescale metabolic
+cerevisiae phenotypes
+collection
+connectivity
+systematic approach
+particular regulatory
+Regulatory interactions
+summarize
+different environmental
+annotation
+overexpression
+expression comparison
+BioKnowledge
+constraint-based analysis
+genome-scale regulatory
+experimental conditions
+raffinose
+correlation
+restriction
+interpretation
+feedback
+parameter estimation
+literature-based reconstruction
+Robertson
+carbon-source-dependent transcriptional
+multifunctional transcriptional
+Connecting large-scale
+incompleteness
+combination
+Analysis
+framework
+metabolite
+Natarajan
+Systematic expansion
+appropriate auxotrophic
+magnitude
+Saccharomyces cerevisiae
+controlled conditions
+Subramaniam
+knockout
+McBurney
+constraint-based
+Villas-Boas
+large-scale integrated
+Expansion
+combinatorial
+specific transcription
+evaluation
+interactions
+regulatory mechanisms
+University
+provisional regulatory
+regulatory
+glucose-grown Saccharomyces
+galactose
+interaction
+Reconstructed transcriptional
+modularity
+nutrient-regulated transcription
+systematic inclusion
+probability
+coherence criterion
+constraint-based framework
+metabolic processes
+interaction information
+wild-type
+Shoemaker
+Labsystems
+publication
+Scatterplots
+utilization
+chromatin immunoprecipitation
+co-regulated
+occupancy
+binding-site-motif
+Downloaded
+assumption
+Albermann
+Regulatory
+percentage
+TF-target
+model-based integragration
+intracellular metabolite
+relationship
+different expansion
+Marzioch
+nutrient-controlled transcriptional
+Integrating high-throughput
+reconstructing
+regulatory interactions
+unchanged
+appealing alternative
+predicted TF-binding
+phenotyping
+Crawford
+Acknowledgments
+analythese interactions
+biochemical networks
+studying
+Santangelo
+responsible
+Component
+Hap4/Hap5
+potential
+Steensma
+performance
+stoichiometry
+fermentative
+iMH805/775
+Specific misprenetwork
+Topark-Ngarm
+Spellman
+nucleotide
+integrated metabolic/regulatory
+calculated
+Functional characterization
+Goldberg
+Schilling
+programming
+Oliveira
+participate
+principal
+Goodlett
+chromatin structure
+Defossez
+extracellular
+environmental perturbations
+Bioscreen
+Astromoff
+source/strain combinations
+substrate
+GM071808
+Skrzypek
+activity
+binding-site
+extracellular concentrations
+predictive
+cerevisiae chromosome
+individual
+genome-scale metabolic
+BES-0331342
+flux-balance analysis
+biological networks
+constraint-based approaches
+suggested regulatory
+identification
+approach
+Advanced
+available
+transcriptional regulation
+eukaryotic
+Magasanik particular
+-mediated transcriptional
+iMH805/837
+Munsterkotter
+Laboratory
+ChIP-chip/
+expression
+Functional profiling
+experimental
+well-studied
+combining ChIP-chip
+Discussion
+protein­DNA interactions
+mobilization
+condition dependent
+intracellular
+transcription
+California
+Veronneau
+Bussemaker
+Dolinski
+Feierbach
+suggested
+direction
+corresponding
+ChIPchip
+systematic
+Regulation
+predicted expression
+Supplementary
+optimization
+Hinnebusch
+pleiotropic
+Stumpflen
+Additional
+Furthermore
+different
+model-driven analysis
+High-throughput metabolic
+schematic
+GSM/GPR
+composition
+Balakrishnan
+independent
+literature
+Institute
+particular potential
+specific regulatory
+Macisaac
+phenotyping experiments
+phenotyping expression
+cellular objective
+quantitative
+Similarly
+Carmel-Harel
+valuable
+Reconstruction
+integrated functional
+candidate
+biochemical interaction
+Treasures
+expression prediction
+Baek-Seok
+interactions suggested
+possible
+Regulator
+predetermined
+chromatin-modifying
+qualitative
+genome-scale stoichiometric
+phenotypic predictions
+starvation
+presence/absence
+fermentable
+conditional
+model-based approach
+Cooperation
+phenotype predictions
+Overlaps
+integration
+repression
+up-regulated
+TF­target
+Exploring
+Galactose/glucose Anaerobic/aerobic
+agreement
+expansion
+knockout/overexpression
+glycerol
+Stephanopoulos
+expression predictions
+comparison
+Ethanol/glucose Galactose/glucose
+Promoter-specific
+simulation
+Narlikar
+concentrations
+computational
+Integrated analysis
+analysis approach
+Hirschman
+Tsuruoka
+network-level interplay
+additional
+rule-based formalism
+down-regulated
+Tachibana
+Yamagata
+ChIP-chip
+metabolism
+strain-condition
+regulator
+Frishman
+Interestingly
+mechanistic
+TF/carbon
+activator depending
+Interpretation
+robustness
+distribution
+Connelly
+regulatory networks
+transcriptional regulatory
+large-scale component
+one-third
+iMH805/775 predictions
+Grunenfelder
+completeness
+application
+Genome-wide analysis
+systematic iterative
+February
+specific nutrient-regulated
+Palsson2 Department
+expansion approach
+Genome-scale
+proteomic
+structure
+building
+algorithm
+Reynolds
+Prediction
+Lucau-Danila
+validation
+genome-wide chromatin

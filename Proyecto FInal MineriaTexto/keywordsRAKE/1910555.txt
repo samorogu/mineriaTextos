@@ -1,0 +1,2374 @@
+5 â103 230±180 230±50 110±30 id d18 b10 b19 a9 b22 b4 a81 a38 a87 a52 d49 d80 a79 a1 distal con0 con0 ara3 con0 con4 lac1 lac2 lac1 con0 lac1 lux1 lux3 ara2 ara2 à35 ttgaca ttgaca ttgaca ttgaca ttgaca ttgaca ttgact ttgaca ttgaca ttgaca tttact tttaca tagaca tagact
+
+genotypea core tet1 tet1 tet2 tet2 con4 lac2 con1 con0 ara1 ara1 con2 lux2 ara1 con2 à10 gatact gatact gatact tagagt tagatt gatact gatact tataat gatact gatact gataat tataat gatact gataat proximal con1 con3 tet1 ara2 tet1 con0 lux1 lac4 lac4 con1 lux2 con3 lux2 con1
+
+laci
+
+luxr arac
+10 5 10 4
+
+core
+
+­10 tagagt
+tagagt gatact tagagt tataat gatact gatact gatact gatact tataat
+
+arac/laci genotype
+tagact tagaca tagaca tagact tagact tagact tataat tataat tagaat tataat gatact gataat
+
+lara ­ + ­ + iptg ­ ­ + +
+a12 b31 a54 d91 d61 b81
+
+10 3 10 2 10 1
+
+figure 5 combinatorial promoter architecture reveals rules
+rr promoter
+
+tetr
+
+arac architecture arac / tetr genotype
+tagaca tagaca tagaca tagagt tagatt tataat
+
+input /output iptg ­ + ­ + atc ­ ­ + +
+proximal
+
+input /output lara ­ + ­ + atc ­ ­ + + clone
+d46 a78 d29
+
+clone
+b83 c61 a3 a60 d8 a90 a28 c68 d56 d9
+
+10 6
+laci architecture laci/tetr genotype
+distal
+­35 ttgaca
+ttgaca ttgaca ttgaca ttgaca ttgaca ttgaca ttgaca ttgact ttgaca
+
+triangle
+catgttgcagcacaatcgacggaaaatcgttaaaataggtatctgaacactcgcgagtgttaa atattaagcacgttaaaaatttggacatcctagcatgtcca cctag
+
+arac i1 operator
+
+laci os operator
+distal core
+
+luxr operator
+proximal arac
+
+laci
+
+kan sc101
+
+luxcdabe
+
+luxr
+
+tetr
+lara atc
+
+­ ­
+
+­ ­
+
+10 7 10 5 10 3
++ +
+10 6 10 5 10 4 10 3 10 2 10 1 10
+2
+
++ + ­ ­ ­ + + ­ + iptg + vai
+distal
+10 6 10 5 10 4 10 3 10 2 10 1
+
+10 1
+
+core/proximal
+
+induced activity
+gates
+inputs
+­ ­ + + ­ + ­ +
+
+describe idealized logic functions intermediate
+activated sigs
+arac proximal arac core luxr core luxr proximal
+
+activation ceiling arac distal luxr distal 10
+4
+
+10
+
+6
+
+uninduced activity
+nature publishing group
+
+molecular systems biology 2007 5
+
+programming gene expression rs cox iii
+1 þ c1 þ c2 þ oc1 c2 2 2 logð1 þ c1 þ c2 þ oc1 c2 þ ¼ð1 þ c1 þð1 þ c2 þ
+proximal
+molecular systems biology 2007 3
+
+programming gene expression rs cox iii
+laci tetr background
+
+core
+laci tetr background
+
+proximal
+repressed activity
+nature publishing group
+
+programming gene expression rs cox iii
+b4 log b3 à log b2 2 log b4 à logðb2 b3 þ
+2 molecular systems biology 2007
+
+programming gene expression rs cox iii
+molecular systems biology 2007 1
+
+programming gene expression rs cox iii
+1 þ c1 r1 þ c2 r2 þ oc1 r1 c2 r2
+
+logic-symmetry space
+b10 alu
+a38
+d18
+b19
+repressors 40 35 30 25 20 15 10 5 0 ­180 ­160 ­140 ­120 ­100 ­80 ­60 ­40 ­20 +1 20 40 60 80 100 120 140 160 180 200 40 35 30 25 20 15 10 5 0
+
+activators
+
+70 60 50 40 30 20 10 0 distal core proximal 5 remote 3 remote activators repressors
+clone a3
+bacterial repression loops require enhanced dna flexibility
+nature publishing group
+
+molecular systems biology 2007 11
+combinatorial promoters
+robert sidney cox iii1
+approach reveals fundamental features
+al
+
+distal
+
+­35
+
+core
+
+­10
+
++1
+
+proximal
+
+tcgagtacaacgtcgtgttagctgccttttagcaattttatccatagacttgtgagcgctcacaatt tataattcgtgcaatttttaaacctgtaggatcgtacaggt
+nature publishing group
+
+activated expression level
+nature publishing group
+
+results
+combinatorial library design
+cold spring harb symp quant biol 63
+constitutively bright clone
+repressor operator location trend corexproximalx distal explains
+nature publishing group
+
+primary binding sites
+proximal slightly dominates laci acting
+laci tetr background
+
+10 4
+
+10 4
+
+10 4
+
+10 2
+
+10 2
+
+10 2
+
+10
+
+2
+
+10
+
+4
+
+10
+
+6
+
+10
+
+2
+
+10
+
+4
+
+10
+
+6
+
+10
+
+2
+
+10
+
+4
+
+10
+
+6
+
+unrepressed activity
+gene expression underlies diverse cellular programs
+¼1 þ c1 þ c2 þ oc1 c2
+tandem
+8 molecular systems biology 2007
+
+­180 ­160 ­140 ­120 ­100 ­80 ­60 ­40 ­20 +1 20 40 60 80 100 120 140 160 180 200 operator center
+cold spring harbor laboratory press ptashne
+coli strain mgz1x expressing laci
+d46
+d8
+sequence genotype
+a28
+b83
+genotype refers
+proc natl acad sci usa 66
+proc natl acad sci usa 77
+proc natl acad sci usa 85
+proc natl acad sci usa 103
+proc natl acad sci usa 101
+proc natl acad sci usa 100
+rules relating promoter architecture
+escherichia coli galactose operon p1 promoter
+þ 1 þ c2 logðð1 þ c1 þð1 þ c2 þþ
+d61
+a54
+escherichia coli k-12 transcriptional regulatory network
+repressed sigs exhibited higher regulatory ranges
+asymmetric cases core dominated proximal
+genetic circuitry exhibiting toggle switch
+activated sigs showed regulatory ranges
+luxr activates luminescence genes
+molecular systems biology 2007 7
+
+ar promoters
+b3¼b2¼b4
+nature publishing group
+molecular systems biology 13 november 2007
+molecular systems biology website
+examples
+4 molecular systems biology 2007
+bacterial luciferase reporter plasmid pcs26
+require extremely high cooperative interaction
+1
+
+figure 4 dual-input gates exhibit diverse functions
+promoter architecture constrain function
+constitutively expresses luxr
+arac protein
+synthetic phage lambda regulatory circuit
+figure 1 random assembly ligation generates
+ar-promoters rr-promoters activity sig asymmetry
+þ atc
+atc
+1130­1134 10 molecular systems biology 2007
+
+basu
+feed-forward loop network motif
+programming gene expression
+proximal dominated distal
+simplest promoters termed single-input gates
+operator proximity increases competitive interactions
+6 molecular systems biology 2007
+
+& 2007 embo
+¼ 1 molecular systems biology 2007 9
+
+& 2007 embo
+b3¼b4
+d9
+/
+activator arac
+natural promoters reflects functional trends
+1 logðð1 þ c1 þð1 þ c2 þþ ¼
+sffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi     db1 2 db2 2 dr ¼
+natural lac promoter increased activity
+european molecular biology organization
+arac regulation
+high unregulated activity contained strong à10
+disrupting normal cellular processes
+arac induction
+500 mm iptg
+randomized assembly ligation method produced
+curr opin genet dev 15
+cis-regulatory input function
+cisregulatory input function
+escherichia coli promoter dna sequences
+104­110
+
+molecular systems biology
+molecular systems biology 3
+rr promoters exhibiting strong and-
+crc press vilar jm
+creative commons attribution license
+qiagen plasmid midi kit
+synthetic combinatorial promoter responding
+encourage diverse expression levels
+al
+
+distal
+repressed activity
+àlara
+lara
+clones a3
+achieve extremely high levels
+cold spring harbor
+salmonella enterica serovar typhimurium
+rights reserved 1744-4292/07 www
+dalal provided helpful discussions
+bacterial luciferase reporter cassette
+explicit tf­tf contacts
+96 page-purified synthetic dna oligonucleotides
+lac promoter architecture
+bacterial promoters typically occupy
+bulls-eye pattern formation system
+maher iii lj
+tetr 26±8 14±4 14±3 23±7 15±5 12±0 18±3 86±25 273±92 58±17 130±50 420±310 310±60 250±30
+
+expression induced
+explicit protein­protein cooperativity
+tecan safire plate reader
+þ logð1 þ 2c þ c2
+arac
+independently interacting rr promoter
+output levels determine promoter logic
+iptg
+þ iptg
+luxr regulation
+luxr operators
+single tetr operator
+escherichia coli l-arabinose operon
+polymerase initiation complex clears
+sterically block polymerase contact
+cooperatively developed annotation snapshot--2005
+bacteriophage lambda ci protein
+b4 ¼
+b4
+dual-input gates exhibited differing
+duplex dna fragments comprising
+coli camp receptor protein
+predict unregulated promoter activity
+input occur
+explicit tf­tf interactions
+controls tn10-encoded tetracycline resistance
+a3
+asm press gross ca
+specific protein­protein interactions
+find luxr-regulated ar promoters
+inputs restricts promoter logic
+combinatorial promoter behaviors shown
+randomized assembly ligation
+promoters
+sig promoters
+
+tf uninduced
+strongest activated sigs
+effectively block polymerase binding
+national physical science consortium
+heuristic rules apply
+inducer concentrations primarily affected
+input concentration
+combinatorial gene regulation
+microbial gene expression
+random genetic control networks
+generate additive logic functions
+proximal positions produced
+gates exhibited strong regulation
+microbiol mol biol rev 55
+input state
+promoter architecture
+region enable bound tfs
+repressor operator location trend
+coli regulatory promoter sequences
+maximum expression level divided
+exhibited asym-slope logic approaching
+strongest promoter activity measured
+luxr
+exhibits near-symmetric slope logic
+repressor laci
+identified heuristic rules
+strongest unregulated promoter activities
+distal sites bind
+strong negative regulatory effects
+synthetic duplex dna units
+input inducers
+small regulatory effect observed
+repressors laci
+understand natural genetic circuits
+promoters gene expression
+laci operators
+activator operators occur principally
+describe combinatorial regulation
+simplest combinatorial promoters
+simplest promoter architectures regulated
+¼c1¼c2
+phenotype space triangle
+trends biochem sci 30
+cell density-responsive transcriptional regulators
+multiple tf binding sites
+corexproximalx distal
+o41 represents cooperative binding
+understand natural promoter function
+previous result relating activation
+sandia national laboratory
+dual-input promoters measured increased
+promoter exhibited asym-slope logic
+dual-input regulatory logic including
+rr promoters
+dual repression
+rr promoter activity
+vector background level
+escherichia coli k-12
+require infinite cooperativity
+promoter produced higher regulation
+represent relative promoter activities
+natural combinatorial promoters
+observed varied promoter strength
+competing transcription factor modules
+tetr acting
+ar promoters b2 corresponded
+discussion
+combinatorial synthesis
+completely repressed expression
+gates exhibiting strong
+synthetic biology keywords
+engineered gene circuits
+83% produced measurable expression
+phage lambda revisited
+plunkett iii
+repressed sigs exhibited
+randomized assembly ligation
+input
+close operator proximity
+proximal sites
+1 1 þ c1 log
+programmed pattern formation
+modular combinatorial promoters
+relative expression levels
+increases expression due
+rr promoter architectures
+al
+
+relative operator density
+rr promoter phenotypes
+luciferase reporter plasmid
+luciferase reporter vector
+supplementary information
+supplementary information
+unregulated activity increases
+distal produced
+rr promoter logic
+bacterial transcription initiation
+molecular biology
+maximal promoter activity
+repressing promoter activity
+intrinsic promoter activity
+heuristic rules
+computed standard relative errors
+rr promoters produced
+operator location trend
+combinatorial transcription logic
+tetr-overexpressing z1 cassette
+tetr represses
+simplest genetic elements
+nat rev microbiol 2
+repressors tetr
+explore regulatory dna
+strongest rr promoters
+activity threshold chosen
+logic-symmetry space formalism
+exhibits logic intermediate
+t4 dna ligase
+synthetic biology applications
+unregulated expression level
+compared rules 2
+laci
+expression levels b1
+strong unregulated activity
+genetic pulse generator
+rr promoters displayed
+proximal regions
+simultaneously decreases expression
+proximal locations
+strong cooperative interaction
+functional repressor operators occurred
+unregulated promoter activity
+intrinsic promoter strengths
+found 280 correctly assembled promoters
+operator binding sites
+repressor operator location
+promoter functions controlled
+absolute expression level
+random promoter architectures
+diverse promoter library
+gene expression
+core sites
+rr promoter class
+unregulated activity exceeded
+open-access journal published
+equal 50 nm proportions
+murine antibody fragment
+mutually incompatible xhoi
+nucleic acids res 11
+avidgor eldar contributed
+nucleic acids res 34
+permit commercial exploitation
+providing fivefold coverage
+nucleic acids res 25
+t4 ligase buffer
+create sign-sensitive filters
+considered dual-input gates
+promoter activity depends
+elucidate complicated functions
+independent regulators generate slope-
+biological circuit design
+synthetic multicellular system
+promoter library exhibited
+two-input gates displayed
+distal activator
+non-coding dna sequences
+random promoter library
+tetracycline resistance genes
+nonfunctioning sigs lie
+promoter functions observed
+generate diverse phenotypes
+synthetic library-based approach
+low intrinsic activity
+library rr promoters
+implement specific functions
+architecture
+2-bp cohesive ends
+dual-input promoters responding
+distal units
+tf binding sites
+distal region
+assayed promoter activity
+single operator located
+canonical binary gates
+intrinsic promoter strength
+arac/i1-i2 regulatory elements
+arbitrary tf regulators
+repressed single-input promoters
+control site location
+distal operators
+medium-copy plasmid pcd136
+plos comput biol 2
+operators operator center
+escherichia coli promoters
+regions distal
+rr promoters correspond
+supplementary figure s5
+supplementary figure s4
+supplementary figure s3
+supplementary figure s1
+supplementary figure s2
+b3¼b2¼b1
+combinatorial promoter
+native ara operon
+core region
+diverse logic phenotypes
+minimum promoter activity
+symmetric rr promoters
+regulated promoter activity
+achieving strong regulation
+intermediate logical function
+core produces
+genetic regulatory mechanisms
+triplicate measures gave
+low unregulated activity
+low copy plasmid
+promoters activated
+10 2 10 4 10 6 uninduced activity
+uninduced activity
+tf regulation functions--implies
+repression dominates activation
+rrna promoter regulation
+logical phenotype space
+mechanistic model involving
+distal position
+dashed triangle
+gray dashed lines
+recent theoretical descriptions
+monotonic dual-input promoters
+rr promoters respond
+intermediate logical behavior
+strongest asym-slope gates
+natural activator sites
+figure 2 activation functions
+logic functions displayed
+coli define efficiency
+repressor operator density
+activated regulation
+288 randomly chosen transformants
+solid black line
+overhanging phosphorylated tt
+references
+atkinson mr
+non-boolean logical phenotypes
+open-access article distributed
+coli operators compiled
+identified 50 dual-input gates
+positive control system
+maximal observed activation
+internal 50 overhangs determine
+operator positions relative
+c2 represent
+promoters largely determine
+logic phenotype displayed
+multiple binding sites
+1038/msb4100187 subject categories
+dual-input promoter regulated
+ideal logic gates
+correctly assembled promoters
+ar promoters produced
+gate responds identically
+negative effect downstream
+mobile dna-binding proteins
+small effect compared
+synthetic activator­activator
+repressor operator resulted
+asymmetric logic functions
+tf operators annotated
+quantify dynamic range
+d394­d397 schleif
+recent theoretical work
+generate robust oscillations
+produced strong asym-
+promoter response phenotypes
+pffiffiffiffiffiffiffiffiffiffi ¼ pffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi ¼ ¼ b1
+boolean logic functions
+transcription regulatory elements
+high repressor concentrations
+normalized repressor concentrations
+promoters contained operators
+`activation ceiling
+activation ceiling
+repression occurred effectively
+alberta heritage foundation
+canada research chair
+tetr
+consensus box sequences
+love­hate relationship
+combinatorial promoters
+combinatorial library
+exhibiting effective repression
+including upstream sites
+¼ 1 2
+
+promoter function analysis
+sig responds completely
+logic behaviors including
+supplementary table s1
+synthetic biology
+rules
+rules 2
+proximal
+luciferase detection limits
+compatible 50 cohesive ends
+allowed logical phenotypes
+asymmetric logic observed
+gene networks
+arbitrary luminescence units
+calgary dna synthesis
+figure 6c shows
+characterized promoter set
+strong balanced repression
+combinatorial regulation
+tightly regulated production
+producing asymmetric logic
+expression levels
+repressor operators cluster
+annotated binding sequence
+¼0 represents exclusive binding
+highest activities observed
+promoter logic types
+additional recognition element
+completely asymmetric sig
+predicted start site
+operator proximity
+bamhi 4 bp 50 overhangs
+ideal quantitative representation
+30-bp region downstream
+lower repressor concentrations
+b1 log
+continuous nature
+library design allowed
+polymerase box sequences
+polymerase subunit s70
+complex effects found
+red dashed line
+group
+regulates arabinose metabolism
+overhanging phosphorylated aa
+annotated transcription start
+strain mgz1x
+permits systematic analysis
+logic approaches pure
+repressor­repressor interaction
+additional activator operators
+background conditions
+repressed activity
+single repression site
+approximately 22 000 independent assemblies
+operator location
+gene regulation
+lb growth media
+versus uninduced
+multifunctional gene
+microscopic model parameters
+modular biology
+positive monotonic response
+expression level
+logical output states
+fully assembled promoters
+repressed sigs
+activator operators centered
+genetic switch
+b400 bp total
+1 mm oxo-c6-homoserine lactone
+average replicate error
+ar promoters generated
+multiple repressor operators
+typical induction response
+functional activator operators
+promoter activity
+triangular region shown
+distal
+modular sequence units
+al
+
+dual-input logic
+low expression
+bacterial promoters
+rr promoters
+symmetric repression occurred
+unrepressed activity
+logic-symmetry space
+assess day-to-day error
+ar promoters respond
+ideal slope gate
+core
+promoter assembly
+fourth induction column
+promoters respond monotonically
+b2¼b3
+þ b2 b3
+engineering biology
+slope gate represents
+model interaction parameter
+tandem promoters
+49% changed expression
+competitive binding
+escherichia coli
+tetracycline promoter
+promoter fragments
+chaudhuri rr
+operator strength
+promoter functions
+functional operator
+tfs bind specifically
+measured response values
+single operator
+dna binding
+rna polymerase boxes
+dual repression discussed
+dominant repressor predicted
+found ar promoters
+c2
+cooperative interactions
+repressor operator
+promoter activities
+al
+
+simple model
+unregulated activity
+5pl p1
+lac operon
+dual-input gates
+fully repressed
+45 bp region upstream
+promoters increased
+specific promoter
+arbitrary promoter
+approached symmetric response
+previously defined model
+single-input gates
+induced activity
+symmetric slope gate
+`intermediate logic
+promoter responds
+b3 corresponded
+tf occurred
+b2 corresponded
+activity monotonically
+single-input functions
+operator density
+weaker operator
+genetic circuits
+operator variant
+operator multiplicity
+operator colors
+operator affinities
+operator overlap
+output levels
+operon organization
+decrease expression
+logic type ranging
+promoter independently
+promoter architectures
+genes dev 3
+logic-symmetry parameters
+promoter design
+single-input activities
+repressor operators found
+operator locations
+library contained
+ar promoter
+regulatory sequences
+regulatory networks
+intermediate behavior
+al
+
+expression
+asymmetric gates
+promoter logic
+ðr1
+r1
+plos biol 4
+triangle
+logic-symmetry parameterization
+plasmid pcd136
+exhibited regulation
+exhibit phenotypes
+promoter function
+binding sites
+random libraries
+mol biol 3
+mol biol 349
+mol microbiol 31
+mol biol 331
+relative errors
+dna bending
+1102 natural promoters
+natural promoters
+primary inducers
+activators function
+synthetic promoters
+operator position
+assembly method
+moderately strong
+absolute levels
+dominated activation
+standard errors
+coli promoters
+best-activated sigs
+identified sigs
+figure 6c
+repressor acting
+strong operators
+high concentrations
+logic functions
+þ b1 b2
+b2¼b1
+plasmid library
+repressed state
+stronger operator
+promoter region
+library functions
+diverse set
+promoter recognition
+luxl promoter
+target promoter
+promoter sequence
+tf operators
+background
+completely asymmetric
+50 dual-input promoters
+dual-input promoters
+unregulated level
+relative strength
+competing effects
+logic displayed
+start site
+asym-slope gates
+regulatory roles
+operator affinity
+c1
+07
+
+promoters control
+48 duplex units
+promoter regions
+transcriptional logic
+observed phenotypes
+promoter locations
+nature
+nature 434
+nature 438
+nature 439
+nature 420
+nature 224
+sigs regulated
+activator binding
+negative regulation
+strongest regulation
+50 remote
+physical constraints
+oxo-c6-homoserine lactone
+overhanging phosphorylated
+ligation reactions
+phosphorylated overhanging
+logical phenotypes
+small molecules
+30 remote
+annotation reveal
+solid line
+directly contact
+regulation functions
+slope gates
+functions encoded
+parameterized functions
+library showed
+logð
+2 log
+¼ 2 logð
+¼ logð1 þ
+strongest symmetric
+absolute level
+represents interactions
+dna interact
+functional behaviors
+dna looping
+logical categories
+supplementary information 1
+supplementary information 2
+supplementary information
+promoter structure
+regulatory proteins
+lb media
+respective activities
+sequences varied
+uninduced
+gene 84
+gene 151
+gene
+transcriptional units
+tetr-regulated sigs
+additional upstream
+figure 1b
+figure 1c
+figure 1a
+figure 1d
+figure 2b
+figure 2a
+figure 3a
+figure 3b
+figure 3c
+figure 5b
+figure 4a
+figure 4b
+figure 5a
+figure 6b
+figure 6a
+spatiotemporal control
+caltech center
+rna polymerase
+transcriptional regulation
+characterized 288 promoters
+simple promoters
+regulatory range
+6 â104 regulatory range
+specific permission
+promoter shown
+binary function
+asymmetric logic
+relative size
+relative scarcity
+nonoptimal binding
+design promoters
+figure 3 repression
+library design
+exclusive interactions
+non-neighboring sites
+neighboring sites
+ar promoters
+repressor interaction
+highlighted trends
+previous studies
+previous suggestions
+clear trend
+terminal ends
+trend corexproximalxdistal
+boolean logic
+logic depends
+microscopic parameters
+r2
+þ ¼ ¼ r2
+r2 þ ¼
+activator­repressor
+repression trend
+designed 5 unregulated
+single-cell level
+repressor­repressor
+noncooperative interactions
+logic function
+logical behavior
+lac operators
+excluding polymerase
+exclusive interaction
+40-fold lower
+alpha subunit
+classical descriptions
+act independently
+effectively repress
+biological feedback
+actual luminescence
+systematic investigation
+packard foundation
+tightly coupled
+pulse-generating networks
+modular components
+previously reported
+recognition element
+repressors independently
+¼ pffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi ¼ pffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi ¼
+full sequences
+1038/msb4100187 citation
+medical research
+nucleotide sequences
+sequencing center
+logic parameters
+multiple signals
+operators centered
+producing symmetric
+dual repression
+logic gate
+multiple operators
+functional characterization
+functional repertoire
+functional dissection
+standard error
+unregulated state
+results imply
+results show
+iron-responsive genes
+synergistic activation
+inducible activation
+regulatory ratio
+catabolite-sensitive genes
+qualitative categories
+solid triangles
+growth media
+activation functioned
+transcription activation
+functional operators
+position relative
+minimum level
+single operators
+activator crp
+activator functioned
+observed data
+sig logic
+biology
+repressor acts
+repressor action
+repressor functioned
+repressor concentration
+weaker repressor
+prokaryotic promoters
+luxr-activated promoters
+554 s70 promoters
+s70 promoters
+luxractivated promoters
+yeast promoters
+assembling promoters
+promoters fail
+independent interaction
+library highlights
+regulation function
+activator operators
+ideal locations
+phenotype revealed
+repression depends
+limits apply
+total synthesis
+vai
+multiple tfs
+expression
+relative fraction
+repressor operators
+allowing binding
+single inducer
+luminescence measurements
+nonfunctioning clones
+luminescence data
+efficient method
+model demonstrates
+mathematical model
+exclusive regulation
+rr
+diagonal lines
+recent study
+parameters span
+50 upstream end
+numerical parameters
+upstream 50 end
+phenotypic parameters
+multiplicity effects
+density effects
+measured response
+conflicting effects
+inducer concentrations
+including responses
+asymor gate
+andlike gate
+repressor dominant
+repressor tfs
+units correspond
+25-bp region
+transcribed region
+triplicate measurements
+logical functionality
+transcription regulation
+guarantee regulation
+tight regulation
+logic type
+logic parameter
+regions upstream
+symmetric gate
+promoters regulated
+winans sc
+high-throughput screening
+50 mg/ml kanamycin
+oscillatory behavior
+1 mg/ml bsa
+thomson nr
+analysis made
+collins jj
+california institute
+three-dimensional parameterization
+upper limit
+blattner fr
+intuitive interpretations
+consecutive days
+mercedes paulino
+gourse rl
+serres mh
+multicellular development
+chen mt
+earlier versions
+band-pass filter
+significantly enriched
+rapid identification
+phenotypic behavior
+arrows signify
+genomic profiling
+default settings
+collins ch
+sequence includes
+total variance
+downstream 50 end
+potential diversity
+carla davidson
+sig showing
+perna nt
+gosink kk
+reference mg1655
+opposite extreme
+myers jt
+closely representing
+chose 288 randomly
+arnaud mb
+signal averaging
+wolde pr
+engender exceptions
+arnold fh
+2nd edn
+detailed map
+lux refer
+vibrio fischeri
+100 ng/ml anhydrotetracycline
+wanner bl
+elston tc
+empty wells
+prior analysis
+weak à35 box
+koepp dm
+assembled sequence
+base pair
+describe
+1 count/100 ms
+von wilcken-bergmann
+studies proposed
+infectious diseases
+grants r01gm079771
+melowitz@caltech
+appreciable difference
+technical assistance
+5p50 gm068763
+strongly affect
+response values
+remained unphosphorylated
+berkmen mb
+isopropyl b-d-1thiogalactopyranoside
+neighboring wells
+cross fr
+transposon tn10
+applied physics
+southward cm
+reduced occupancy
+neidhardt fc
+rudd ke
+gold disks
+siggia ed
+savageau ma
+intuitive understanding
+wells neighboring
+derivative works
+result shows
+swain ps
+response acceleration
+berlyn mk
+total 24 wells
+diagram showing
+sffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi sffiffiffiffiffiffiffiffiffiffiffiffi 1
+surette mg
+detection limit
+288 sequenced transformants
+paper proposed
+transcription factors
+stoner cm
+related works
+closely spaced
+cantor cr
+ninfa aj
+keseler im
+glasner jd
+100 mg/ml ampicillin
+3rd edn
+luxr-luxi family
+aaron white
+computations performed
+eukaryotic organisms
+boca raton
+points located
+quorum sensing
+kahn jd
+activator induction
+promoters respond
+repressor structure
+217 unique promoters
+redundant operators
+incorporated operators
+well-defined operators
+operators responsive
+perfectly symmetric
+full repression
+inducible repression
+usa
+usa *
+permits distribution
+slope theorem
+greater asymmetry
+al
+
+architectures
+à35 polymerase boxes
+accurately represent
+luminescent crosstalk
+activator-induced state
+crosstalk matrix
+strongly dominant
+neighbor crosstalk
+repressor-induced state
+produces slope-
+tfs regulate
+repressor dominance
+554 promoters recognized
+increasing concentrations
+environmental conditions
+experimental conditions
+operator
+growth conditions
+48 unique units
+slope
+
+asymmetry
+sigma region 1
+brightest clones
+picked 10 000 clones
+identifying clones
+data reported
+grows large
+pure sig
+linear fit
+approached pure
+genome sequencing
+garcia hg
+full range
+100 ms integration
+triplicate 96-
+signal integration
+sigma factors
+greenberg ep
+narrowest range
+largest range
+plate-to-plate variation
+elowitz mb
+cellular
+asymmetric asym-
+promoters responded
+16 inducer conditions
+intermediate
+region include
+effective parameterizations
+significant regulation
+633­642 becker na
+stationary phase
+davis rw
+1197­1204 elledge sj
+open triangles
+318­356 joung jk
+original author
+1069­1082 hawley dk
+general scarcity
+449­453 fuqua wc
+gralla jd
+6355­6360 beck cf
+limit logc
+classic question
+purple circles
+141­155 guido nj
+mcclure wr
+mixed ligations
+clear exception
+late steps
+article number 145
+e45 oehler
+buchler ne
+starting point
+269­275 gralla jd
+understood intuitively
+metric reached
+generally true
+4973­4982 browning df
+number refers
+371­394 egland ka
+224­230 haugen sp
+mutational plasticity
+002% diagonal crosstalk
+`effective repression
+effective repression
+repressed
+exhibited
+activity
+highest variation
+11980­11985 mayo ae
+wide distribution
+mayo ae
+þ
+
+regulondb analysis
+slope responses
+inducers anhydrotetracycline
+chemical inducers
+operators found
+al
+
+371c
+large range
+ebright rh
+e164 jacob
+partially supported
+thomas gh
+oo1 corresponds
+variables requires
+sigs
+overlapping distributions
+preparing figures
+lambda
+depend strongly
+special case
+saturating combinations
+data points
+reporter
+appears consistent
+promoter
+b106 alu
+approximately 105 alu
+inputs
+b3 ¼
+b3
+operators determined
+ð##þ b2
+b2 ¼
+assembly
+busby sj
+b2
+rule corexproximalxdistal
+activators
+location
+methods
+reagents
+position weighted
+inducer combination
+gates
+coli
+median measurements
+young jw
+license
+ligation
+high
+exhibit
+data provide
+functions
+database regulondb
+space
+al
+
+kauffman
+figure
+figure 3
+center
+figure 1
+figure 2
+figure 4
+figure 5
+figure 6
+output
+effect
+binding
+sites
+showed
+approach
+trend
+cooperativity
+generate
+lac
+determine
+occurred
+including
+regulators
+observed
+unregulated
+level
+interactions
+polymerase
+salmonella
+annotated
+camp
+behaviors
+www
+maximum
+controls
+divided
+o41
+provided
+`dual
+developed
+circuits
+elements
+gross
+ci
+sequences
+architectures
+vilar
+understand
+induced
+phenotypes
+design
+multiple à10
+asymmetric
+strength
+ideal
+ar
+interaction
+functional
+results
+activation
+represents
+genes
+allowed
+higher
+organization
+50 overhangs
+varied
+bind
+activator
+75 logic
+logic
+low
+repressor
+promoters
+554 promoters
+concentrations
+library
+synthesis
+heuristic
+function
+information
+method
+model
+upstream
+effects
+measured
+b1
+b1 ¼
+gate
+16 units
+units
+region
+regulation
+1
+
+regulation
+assembled
+downstream
+3346­3350 ptashne
+total
+à35 box
+approximately
+plate
+detection
+à10 box
+result
+simultaneously
+s70
+balanced
+metabolism
+arabinose
+work
+cases
+values
+applications
+canada
+shows
+mechanisms
+5 asym-slope 0
+transcription
+average
+predicted
+article
+asym-slope
+aa
+alberta
+response
+ara
+density
+due
+ptashne
+behavior
+robust
+analysis
+specifically
+assayed
+generated
+sig
+correspond
+identified
+approached
+atkinson
+efficiency
+sequence
+growth
+recognition
+repressors
+compared
+operators
+symmetric
+repression
+independent
+regions
+slope
+asymmetry
+locations
+inducer
+represent
+positive
+slope-
+tfs
+dominant
+crosstalk
+state
+table
+science 307
+2­4 mm
+cell 125
+cell 113
+ca 91125
+proteins
+16 conditions
+19045­19050 basu
+minimum
+basu
+100 bp
+1 mm
+bp
+cell 79
+science 265
+science 262
+highest
+limits
+ca
+regulated
+error
+type
+parameter
+106 clones
+measurements
+96 clones
+data
+respond
+types
+linear
+ranging
+unique
+resulted
+calgary
+pure
+representation
+greenberg
+sigma
+discussed
+large
+schleif
+integration
+range
+structure
+garcia
+induction
+red
+diagonal
+class
+elowitz
+sequencing
+column
+compatible
+assess
+variation
+position
+set
+shown
+effective
+increasing
+beck
+study
+elledge
+joung
+tetr-regulated
+oehler
+circles
+egland
+points
+steps
+% 1 2 þ logc ð
+fraction
+true
+classic
+kauffman
+dominance
+revealed
+weighted
+open
+browning
+fuqua
+jw
+metric
+author
+allowing
+general
+becker
+hawley
+states
+number
+interact
+relationship
+significant
+factor
+plasticity
+responses
+point
+57­65 buchler
+guido
+haugen
+development
+database
+decrease
+stationary
+mcclure
+exception
+functionality
+young
+include
+chose
+mixed
+looping
+repress
+gralla
+davis
+intuitively
+stronger
+computed
+buchler
+sequenced
+recognized
+positions
+positions à75
+2995­3000
+
+& 2007 embo
+& 2007 embo
+embo
+145 & 2007 embo
+regulondb
+mayo
+found
+and-
+regulondb 5
+distribution
+inducers
+al
+jacob
+responded
+443­448 thomas
+affinity
+variables
+median
+ebright
+thomas
+corresponds
+96-
+27 responded
+supported
+highlighted
+à35 boxes
+à10 boxes
+provide
+combination
+combinations
+distributions
+depend
+ratio
+figures 2
+case
+16 combinations
+asym-
+75 asym-
+defined
+consistent
+determined
+determined 217
+alu
+4106 alu
+busby
+5136­5141 busby
+rule 4
+rule 5
+rule 1
+rule 2
+rule 3
+methods
+limited
+yellow
+winfree
+calculate
+list
+surrounding
+disk
+reconstruction
+suppose
+active
+obtained
+diameter
+kuhlman
+prokaryotes
+unit
+plot
+981­989 zubay
+annealed
+hold
+wang
+hfsp
+tetr/
+hasty
+gentz
+overcome
+schemes
+% 1 1 þ ð1= log2 ð
+ligr
+1863­1866 kammerer
+þ iptg/atc
+beckwith
+muller
+thiberge
+switch-
+histograms
+igarashi
+similarly
+top
+distance
+regulator
+classes
+spectrum
+2113­2122 lutz
+magasanik
+effectiveness
+597­607 atsumi
+acknowledgements
+doi
+calculated
+principle
+heuristics
+41c
+horiuchi
+kolodrubetz
+dc
+report
+8973­8977 ligr
+compilation
+terms
+improve
+expense
+con
+bujard
+represented
+haggerty
+generality
+251c
+expected
+transformed
+riley
+¼ax
+inhibit
+tans
+grown
+confirmed
+make
+plates
+nih
+kim
+c1xc240
+materials
+pp 2
+op1
+weiss
+boxed
+clustered
+triplicates
+bold
+-arabinose
+presence
+mbe
+raises
+anderson
+medium
+form
+bintu
+differences
+removed
+¼oxà1
+constructed
+ny
+pasadena
+models
+ogden
+time
+datum
+focus
+ward
+finally
+division
+274­282 setty
+inoculated
+choice
+856­860 hasty
+martinez-flores
+solved
+bacteria
+lennox
+sprinzak
+filled
+sig-
+change
+ineffective
+plotted
+jimenez-jacinto
+atsumi
+logarithm
+making
+ishihama
+locke
+3348­3355 ogden
+weighting
+conversely
+strikingly
+produce
+11 operator-
+schwartz
+experiments
+apex
+decades
+half
+term
+corners
+y-axis
+116­124 bjarnason
+1962­1965
+
+ross
+martinez-antonio
+7702­7707 skerra
+or-
+plasmids
+increase
+squares
+kondev
+716­730 bintu
+2005a
+2005b
+symmetry
+xx
+deuschle
+version 5
+curtiss
+skerra
+activated/repressed
+227­236 collado-vides
+j1
+l40
+accordance
+recruit
+lacr/
+variable à10
+mangan
+note
+phillips
+zou
+begin
+converse
+falls
+asymand
+1xox0
+gerland
+rp105
+rp103
+ahfmr
+salomon
+attenuated
+j2
+adalsteinsson
+endy
+trade-
+leibler
+color
+considers
+/msb
+laci-
+177­178 lanzer
+3 department
+orientation
+middle
+3 summarize
+anti-induction
+technology
+shavit
+lutz
+gama-castro
+differentiation
+homeostasis
+ross
+horizontal/vertical
+2 department
+dark
+preference
+kishony
+well-to-
+respect
+santos-zavaleta
+zaslaver
+1-bp
+notably
+broken
+comparison
+removing
+b50%
+regard
+cloned
+tupy
+lo0
+separate
+important
+bacteriol 185
+observe
+20 ml
+3*
+1 division
+received 19
+125­135 bintu
+bioessays 25
+fax
+condition
+kolkhof
+tel
+tet
+abe
+microbiology
+row
+contrast
+revealing
+2822 pp
+colored
+mori
+gaal
+antibiotics
+foundations
+compare
+rosenfeld
+stated
+numbers
+purchased
+sharp
+barbe
+dispensable
+kammerer
+dombroski
+scientist
+arac-
+asymslope
+rapidly
+examined 1102
+diaz-peredo
+inactivated
+definition
+instances
+hochschild
+introduction
+construct
+identity
+scheme
+1­9 rosenfeld
+authors
+collado-vides
+orders
+depending
+wishart
+molecularsystemsbiology
+columns
+hermsen
+dependent
+017% horizontal/vertical
+common
+achieved
+tended
+ari
+mehreja
+smallest
+alon
+sensitive
+context
+lx0
+zubay
+twofold
+mutzel
+siddharthan
+repeatability
+mcmillen
+source
+essential
+metabolic
+creation
+114­96 pasadena
+severinov
+nonfunctional
+agreement
+segura-salazar
+oe0
+proportional
+kosuge
+analyze
+bjarnason
+capitalized
+paired
+continuously
+likewise
+131­135 sprinzak
+chan
+singly
+department
+seelig
+enrichment
+eds
+lanzer
+indicating
+michael
+inspection
+smaller
+variables--
+licensed
+2237­2255 hermsen
+c1ec2b1
+focused
+separation
+mullerhill
+involved
+resulting
+makes
+surette2
+bonavides-martinez
+averaged
+process
+holds
+arrangement
+delay
+insight
+perfect
+day
+university
+morris
+magnitude
+invitrogen
+length
+assumed
+repeats
+facilitate
+bacteriol 150
+quality
+sternberg
+rsc
+chemicals
+ligated
+peralta-gil
+reproduction
+1 week
+mechanism
+sufficiency
+accepted 21
+eukaryotes
+placement
+subtracted
+fact
+ae1
+1407­1413 salgado
+dual-repression
+credited
+employed
+mgs
+quantifies
+steepness
+monod
+185­197 endy
+view
+recently
+tend
+ao0
+1203­1210 mangan
+genetics 172
+salgado
+addition
+gerchman
+elowitz1
+sanchezsolano
+gruber
+x-axis
+vizcarra
+743­746 chan
+bottom-
+sources
+purified
+loss
+06pap0
+accessible
+setty
+amouyal
+e-mail
+mutation
+hwa
+carried
+275­279 riley
+irie
+introduced
+washington
+histogram
+construction
+compute
+cells
+b4xb3xb2xb1
+laci-regulated
+variety
+oa1
+lactose
+bacteriol 176
+1±0
+1 â103 2
+4 â104 3
+99
+1991
+1990
+1993
+1994
+1997
+1996
+1999
+1998
+75 0
+24%
+4 â103 4
+4±0
+4±1
+25 0
+1969
+1961
+14
+06
+07
+à10
+1970
+4 3
+50
+53
+5%
+8±0
+þ 20
+1
+
+0
+þ 25
+ð#þ
+¼3272
+0
+7±2
+ð
+25
+
+0
+±
+9 â104
+10 1
+
+0
+
+0
+à35
+þ 1
+2
+10
+18
+1%
+#þ
+10
+5
+
+1 0
+5±0
+à40
+3
+¼9112
+6%
+65
+6 â103 2
+1102
+4
+7 â104 4
+¼100
+¼103
+¼105
+¼104
+25 0 0
+
+10 10 10
+
+4
+
+3
+
+2
+2±0
+2±1
+5
+2006
+13
+9±1
+9±0
+`
+5 0
+6
+à60
+163¼4096
+25
+7
+3±0
+8 â104 6
+6±0
+6±1
+75
+79
+8
+þþ
+â 2
+9
+0±0
+9 â104 2
+7±1
+7±0
+16­22
+ð#
+11%
+¼0
+¼1
+¼8
+2 â106 1
+3 â104 7
+3 â104 3
+3 â104 1
+%
+2002
+2003
+2004
+2005
+44%
+54%
+ð##þ
+1
+81
+86
+¼
+1 â105 4
+1 â105 9
+9 â102 1
+9 â102 6
+2 â104 1
+2 â104 3
+þ 1 626 395 5972
+þ 1 626 395 8871
+1 â104 3
+þ
+2 â105 7
+2 â105 2
+2 â105 9
+1986
+1982
+1983
+1980
+1988
+1989
+48
+46
+47

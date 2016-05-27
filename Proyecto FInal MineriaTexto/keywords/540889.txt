@@ -1,0 +1,213 @@
+species16
+evolutionary
+Inhibitory
+particular
+inter-primate comparisons2
+identifying promising
+adenosine triphosphatase
+stringent
+Controlling
+Department
+Molecular
+reasoning
+Supplementary Information
+Foundation
+indicator
+Estimation
+Parkville
+directional
+physiological
+interspecific
+proportion
+inter-block information
+successful polymerase
+Connecticut
+investigation
+Hypothesis
+log2-fold
+chimpanzees
+suppressor p33ING1b
+Acknowledgements
+Likelihood
+mismatches
+downstream
+evolution
+accession
+phylogeny
+transcriptome
+Anticancer
+difference
+LETTERS NATURE|Vol
+significant enrichment
+Evolutionary
+Mixed-model reanalysis
+ancestral expression
+organismal
+steady-state messenger
+deleterious
+over-representation
+interspecific hybridization
+accumulation
+protein-coding
+Statistics
+financial
+Castillo-Davis
+reference
+variability
+generation
+consistent
+disease-association
+Gentleman
+phylogenetic shadowing
+Benjamini
+individual
+log-likelihood
+oligonucleotide-based
+non-human
+mutational
+multi-species complementary
+Caenorhabditis
+subsequent
+NATURE|Vol
+pressures
+expression difference
+magnitude
+identification
+downregulation
+intensities
+statistical meta-analysis11
+equivalent
+discovery
+available
+foreground
+meta-analysis
+intensity-dependent normalization
+Wolfinger
+University
+divergence
+agreement
+possibility
+background fluorescence
+hypothesis
+likelihood
+LETTERS Expression
+METHODS
+comparison
+limitation
+interaction
+Biostatistics
+technical
+phenotypic evolution
+Phylogenetic shadowing
+practical
+SpringerVerlag
+considerable uncertainty
+orangutan
+Oshlack2
+expression
+Sex-dependent
+regardless
+probability
+inclusion
+nucleotide polymorphism
+problematic
+synonymous
+functional
+Information Expression
+approximate
+neutrality
+Identification
+copper-transporting
+sequences25
+reduction
+Bioconductor
+regulation
+differential degradation
+California
+assigning expression
+highest-ranked
+Bioinformatics
+candidates
+symmetrical
+electrophoretic
+preparation
+human-specific
+Przeworski
+Chimpanzee Orangutan
+background correction
+chimpanzee
+environmental
+Computational
+Evolution
+discrepancy
+hybridization intensity
+stabilizing
+Khaitovich
+statistic comparing
+Correspondence
+Multi-species
+likelihood15
+technical explanation
+Backgroundcorrected
+hepatocellular
+Meiklejohn
+gene-expression
+Drosophila
+computing environment
+sub-model
+Supplementary
+Biometrika
+different expression
+human­chimpanzee
+structure
+promising
+Comparative
+phenotypic
+distribution
+Estimated
+Different
+transcriptional
+Publishing
+Bustamante
+Functional evolution
+phylogenetic
+influence
+one-tailed
+Speed2,3
+regulation1
+`regulation
+promising candidates
+Development
+represent promising
+transcription
+between-to-within individual
+application
+interested
+Drosophila melanogaster
+functional characteristics
+3Department
+parameter
+lineage-specific
+microarray
+conserved expression
+suggestion
+developmental
+Institute
+assignment
+Mixed-Effects
+expression differences
+significant
+representation
+cis-regulatory
+annotation
+normalization
+Patterson
+observation
+proteins27
+orthologous
+Consistent
+accelerated
+non-synonymous nucleotide
+correlation
+indicative
+validation

@@ -1,0 +1,1145 @@
+human frontiers science program long term fellowship
+national science foundation graduate research fellowship
+keeping existing b-gal molecules active inside
+mouse embryonic stem cells es54a
+single molecule level
+long cai1*
+16 march 2006
+
+letters
+
+foreign organic molecules
+© 2006 nature publishing group
+
+361
+
+letters
+
+nature
+359
+
+© 2006 nature publishing group
+
+letters
+
+nature
+mouse embryonic stem cells demonstrates
+measured steady-state protein copy number distributions
+bacteria undergoing programmed population control
+myriad low copy number proteins
+average hydrolysis rate grows linearly
+1038/nature04599
+
+letters
+stochastic protein expression
+steady-state protein copy number distributions
+cold spring harbor laboratory
+embryonic mouse stem cells
+high na objective
+
+lens
+glutamic acid codons gaa
+fluorogenic substrate fluorescein-di-bd -galactopyranoside
+plasmid conferring ampicillin resistance
+nikon 60 £ plan apo na ¼ 1
+© 2006 nature publishing group
+
+nature
+358
+
+© 2006 nature publishing group
+
+nature
+tightly focused laser beam
+completely permeabilizes cell membrane
+low copy number plasmid
+replication-induced transcription regulate synthesis
+newly developed single cell
+picoliter-scale integrated microfluidic chip
+viable mammalian cells based
+sd glucose ­ura medium
+exhibits single molecule sensitivity
+microfluidic single cell assay opens
+permeable mutant yeast strain
+protein molecule copy numbers
+studying low-level gene expression
+medium copy number plasmid
+detect single enzyme molecules
+provide quantitative real-time information
+low copy number proteins
+single-cell gene expression profiling
+single differentiating bacterial cells
+single enzyme molecules inside
+dividing cells shows abrupt
+single reporter molecule sensitivity
+362
+
+© 2006 nature publishing group
+steady-state copy number distribution
+reporter enzyme b-gal yields
+observe abrupt large jumps
+cell types expressing b-gal
+individual protein expression events
+control layer pdms mould
+tightly focused beam
+chambers shows quantized peaks
+coli cells shows discrete
+escherichia coli lac operon
+budding yeast cells trapped
+living escherichia coli cells
+confers ampicillin resistance
+synthetic fluorogenic substrate
+repressed gal1 promoter carried
+low copy number
+488-nm ar-ion laser
+single copy sensitivity
+495 nm high pass
+single molecule enzymology
+stem cell strains
+differential interference contrast
+1 dow corning sylgard 184
+high-resolution transparency mask
+non-optimal codon usage
+shipley spr 220-7
+competing financial interests
+underlying dynamic process
+single molecule sensitivity
+cell membrane actively
+transient dissociation events
+protein copy number
+avoiding cellular autofluorescence
+diverse cell types
+cell wall synthesis
+measured fluorescence time traces
+chambers shows quantized
+low expression levels
+single molecule techniques
+induced lac operon2
+individual budding yeast
+figure 3c shows
+authors contributed equally
+top control layer
+supposedly silenced promoters
+control layer forms
+488 nm narrow bandpass
+single-molecule experiment demonstrates
+multilayer soft lithography
+low-copy 2 mm plasmid
+resolve individual events
+high expression levels
+large dynamic range
+synthetic substrate fdg
+lactose utilization network
+inverted fluorescence microscope
+high-sensitivity cellular reporter
+steady-state probability distribution
+cell wall acts
+author information reprints
+efficiently expel
+
+figure 1
+original data set
+solid line shows
+fluorescent product expelled
+single cell suspension
+b-gal assay9 presented
+cells accurately reflects
+spin-coating positive photoresist
+effective time resolution
+short mixing time
+m9 media supplemented
+asi ms2000 xy
+suboptimal inducer concentrations11
+monolithic microfabricated valves
+bacterial reporter gene
+measuring low-level expression
+monitored gene expression
+probe gene expression
+monitor gene expression
+probing gene expression
+enzymatic activity inside
+copy number distribution
+repressed gal1 promoter
+promoter­reporter fusion
+transcription factors involved
+translation initiation frequencies
+evenly spaced peaks
+empty chamber shows
+miniature chambers guarantee
+control layer master
+chloroform-treated saccharomyces cerevisiae
+stops protein production
+protein production occurs
+repressed lac operon
+single cell version
+protein dilution due
+fluorescent product molecules
+average expression level
+fast efflux rate
+quantitative real-time measurement
+eukaryotic gene expression
+escherichia coli lacz
+low burst size
+stochastic gene expression
+repressed lac promoter
+figure 3b shows
+coli lacz gene
+fluorescenceactivated cell analysis
+re-sampled data sets
+purified b-gal enzyme
+exponential cellular lifetime
+protein molecules produced
+microfluidic chip fabrication
+mrna molecules involved1­6
+cells expressing b-gal
+single cells lack
+vivo translation rates
+live cells compared
+methods
+cell strains
+conditions cells grow
+closed microfluidic chambers
+chloroform-treated yeast cells
+16 march 2006
+
+letters
+fluorescein concentration increases
+single copy
+gtl program
+existing molecules
+average burst size
+cell cycle time
+measured b-gal expression
+fdg hydrolysis rates
+fluorescence signal due
+increase fdg influx
+hydrolysis rates measured
+individual bacteria
+copy number
+single molecule
+national institute
+environmental research
+trapped inside
+enzyme molecule
+protein molecule
+individual codons
+single-cell level
+discrete jumps
+low levels7
+single gene
+single molecules
+gal1 promoter
+observed abrupt
+2 enzyme molecules
+enzyme molecules
+expression events
+cellular lifetime
+active efflux
+master mould
+steady-state distribution
+stochastic events
+living cell
+lac operon
+fluorescent product
+expression level
+single cell
+reporter protein
+purified enzyme
+protein number
+protein molecules
+protein expression
+microfluidic chip
+escherichia coli
+yeast strains
+expressing b-gal
+mammalian cells
+dividing cells
+repressed promoters
+nature genet
+integer numbers
+flow layer
+nature biotechnol
+bacterial targets
+reporter number
+gene expression
+single cells
+average number
+large number
+lacz gene
+lac promoter
+real-time experiment
+fluorescent molecules
+fluctuationenhanced sensitivity
+enzyme induction
+microfluidic assay
+solid line
+protein production
+individual cells
+protein29 levels
+real-time assay
+protein expression--
+lactose concentration
+lac repressor
+coli cell
+real-time data
+hydrolysis rate
+eukaryotic cells
+cerevisiae cells
+b-gal number
+b-gal molecules
+8 b-gal molecules
+7 b-gal molecules
+highly repressed
+control channels
+positive feedback
+adjacent valves
+535 nm/50 bandpass
+negative photoresist
+standard reporter
+gene activity
+authors declare
+surrounding medium
+soft polymer
+microfabricated arrays
+repressed condition
+minimal medium
+online version
+proteomic techniques
+fdg influx
+eukaryotic cells9­12
+gene expression--
+discrete slopes
+enzymatic assay
+microfluidic systems
+microfluidic device
+microfluidic fabrication
+expression event
+average frequency
+stochastic mechanisms
+stochastic focusing
+large fraction
+large subpopulation
+large ensembles
+single prokaryotic
+rosa26 laczþ
+fluorescent products
+real-time monitoring
+fluorescent signal
+16 march 2006
+
+figure 3
+cell cycle
+purified b-gal
+coli cells
+rosa26 promoter
+observe directly
+important proteins
+coli k12
+step-wise increases
+hydrolysis rates
+discrete peaks
+lac permease
+sampling rate
+microfluidic-based assay
+fluorescence signal
+fluorescence microscopy2
+chloroform-treated cells
+cells trapped
+gene regulation
+master equation25
+black line
+bottom master
+efflux problem
+fluorescein concentration
+fdg hydrolysis
+supplementary information
+cell culture
+permissions information
+data acquisition
+data analysis
+data fits
+live cell
+express b-gal
+cells owing
+differentiated cells
+trap cells
+cells exhibit
+messenger rna
+natl acad
+chemical cytometry
+system-wide characterization
+xa21 e2x=
+100 brightest pixels
+andor technology
+exponentially distributed21
+chemical biology
+schematically illustrated
+biochemical estimates
+bottom channels
+uniquely determined
+careful reading
+chapman & hall
+pdms pieces
+& van oudenaarden
+partially inhibited
+equal widths
+correction factor
+allowing multiplexing
+bonded permanently
+current genomic
+schematic diagram
+bd bioscience
+induction responses
+additional details
+analytically describe
+real time
+prevent differentiation
+university wafer
+ccd camera
+standard deviation
+silicon wafer
+cured overnight
+flow channel
+rapidly diffuse
+global analysis
+received 12 september 2005
+flow cytometry3
+accepted 23 january 2006
+time derivative
+60 pm min21
+temporal evolution
+adding trypsin
+threefold difference
+smo þ /2
+temporally uncorrelated
+statistical fluctuations
+enable characterization
+median filter
+motorized stage
+sunney xie1
+directly illuminate
+pioneer award
+immediately injected
+protein--occurs stochastically
+long-term monitoring
+continuous form
+drug access
+nir friedman1* &
+molecular genetics
+b-lactam antibiotics
+chroma corp
+dimensions 100 £ 100 £ 10 mm3
+12 oxford street
+early involvement
+slopes give
+highly repressed20
+jr & cohen-bazire
+theoretically predicted 1
+expð2n=
+permeability barriers
+pdr1 2 pdr3 2
+whole-genome scale
+plasma oxidized
+temporal fluctuations
+amino acids
+nanoscale systems
+partially cured
+decreasing order
+enzymatic amplification
+determined directly
+es 54a
+normalization constant
+two-layer device
+melles griot
+ellsworth adhesives
+distributions
+black curve
+instantaneous variability
+cell growth
+burst size
+stochastic burst-
+cell population
+closed chamber
+real-time kinetics
+real-time observation
+exponential phase
+live cells
+cell division
+microfluidic chamber
+defined medium
+on-chip amplification
+fluorescence signals
+efflux pumps
+femtoliter chambers
+intracellular regulation
+multiple chambers
+poisson distribution
+gamma distribution
+chamber increases
+microbial population
+cells treated
+treated cells
+300 mm fdg
+129svj background
+harvard center
+harvard university
+constant background
+red curve
+exponential growth
+exponential distribution
+fluorescence detection
+ensemble measurement
+expression bursts
+mrna degradation
+burst dynamics
+burst frequency
+25­30 b-gal monomers
+xie@chemistry
+gamma function
+growth conditions
+diluted solution
+fluorescein photobleaching
+chambers increase
+zare groups
+unexplored regime
+nih grant
+permeability ratio
+small volume
+bootstrap analysis30
+b-d-galactosidase activity
+repeatedly scanning
+steady-state
+exponential function
+measured previously
+realtime experiments
+spacing equal
+error bars
+demonstrate applicability
+chromosomal dna
+key parameters
+cells cultured
+b-galactosidase activity
+supplementary fig
+enzymes produced
+40 mm height
+3b inset
+nature 425
+opens
+active
+vitro calibration
+nature
+nature 427
+nature 422
+demonstrates
+single
+sensitivity
+dic image
+level
+protein
+operon
+gene
+control
+traces
+glucose
+permeable
+reporter
+nikon
+repressed
+medium
+number
+molecules
+expression
+average
+stochastic
+yeast
+coli
+proteins
+observe
+promoter
+assay
+rate
+fluorescence
+chloroform-treated
+trapped
+hydrolysis
+cell
+16 march 2006
+information
+cell 123
+16 march 2006
+
+25
+figure 2
+figure 4
+data
+production
+rates
+science 307
+science 304
+science 297
+science 264
+science 309
+science 311
+science 288
+b-gal
+5 b-gal
+120 cells
+cells
+116 cells
+lack
+re-sampled 1
+produced
+inducer
+asi
+due
+fdg
+activity
+fluorescein
+pdms
+media
+fabrication
+analysis
+signal
+methods
+measuring
+carried
+time
+exponential
+measured
+live
+transcription
+amplification
+translation
+peaks
+3b
+100 chambers
+increase
+regulation
+permease
+48 chambers
+chambers
+conditions
+growth
+distribution
+population
+division
+red
+7 mm
+300 mm
+harvard
+treated
+background
+5 mm
+measurement
+mrna
+burst
+dic
+ratio
+bootstrap
+burst-
+nih
+photobleaching
+vitro
+observation
+scanning
+diluted
+prokaryotic
+height
+& zare
+chemistry
+signals
+function
+20 ^ 8 monomers
+previously
+volume
+b-d-galactosidase
+regime
+calibration
+pumps
+kinetics
+chamber
+error
+spacing
+dna
+experiments
+detection
+image
+demonstrate
+defined
+inset
+parameters
+cultured
+b-galactosidase
+fig
+enzymes
+9 enzymes
+425 ^ 80 enzymes
+¼ 5 ^ 2 enzymes
+05 bursts
+08 bursts
+16 bursts
+03 bursts
+bursts
+sci
+limited
+acknowledgements
+electrophoresis 21
+consists
+30 8c
+phenomenon
+technique
+created
+environment
+finally
+preserved
+supported
+advantage
+rise
+induce
+introduction
+& herzenberg
+kennell
+proc
+biological
+usa 47
+& swain
+xiao
+usa 43
+grateful
+miller
+consistent
+& ehrenberg
+mrna21
+filters
+blue
+fact
+expressed
+agrees
+3a
+method
+actuation
+agreement
+`all-or-
+& singer
+funded
+balagadde
+fiering
+york
+vol 440
+young
+addressed
+circumvent
+mg1655
+27 mw
+genomics
+usa
+2 min
+distinct
+non-
+ozbudak
+/reprintsandpermissions
+emission
+cases
+mounted
+herzenberg
+challenge
+work
+values
+choi
+making
+hansen
+performed
+rosenfeld
+attribute
+inaccessible
+levsky
+transduction
+s1
+ærn
+requests
+absolute
+multiplexed
+pageworks
+derived
+pappenheimer
+collection
+reflect
+produce
+noise
+guillerez
+guptasarma
+shraiman
+correspond
+grossman
+office
+3 min
+arnold
+fit
+rnasee
+2/
+correspondence
+-21 sorensen
+usa 85
+length 11
+significant
+gudiksen
+scaling
+alon
+accumulate
+1b
+yu
+monod
+microchemostat
+possibilities
+applied
+/nature
+2a
+2c
+found
+characterized
+npg
+energy
+& dreyfus
+extract
+enclosure
+shown
+quantify
+denotes
+massachusetts 02138
+mechanism
+health
+gaussians
+aligned
+ref
+barrier
+members
+stochasticity
+retained
+recovering
+determining
+cell10
+consequence
+exhibited
+features
+manuscript
+relate
+autohydrolysis
+paulsson
+unger
+xu
+& tibshirani
+leading
+response
+1a
+1c
+1f
+1e
+matlab
+360
+
+related
+part
+lim
+grew
+000 times
+shea
+project
+4 reporters
+generality
+-73 blake
+measure
+4 min
+hydrolysing
+linked
+estimated
+multistability
+mrna27
+extracted
+potential
+rotman
+trace
+mcadams
+& elowitz
+achilles
+patterned
+doi
+lacz2
+elowitz
+accounted
+typically
+fitted
+slope
+show
+145 min
+rounded
+degraded
+thickness
+1 department
+acknowledge
+4 copies
+spun
+biophys
+raser
+compiled
+synchronization
+& quake
+averaged
+pbr293
+nikaido
+100 pl
+respond
+07 reporters
+markson
+injecting
+discussions
+russo-marie
+vitamins
+halved
+materials
+boundaries
+case
+& arkin
+ability
+usa 90
+usa 97
+usa 94
+wu
+s4a
+biosynthesis
+heating15
+taking
+attributed
+all-or-
+department
+poly
+polydimethylsiloxane
+addition
+copies
+compensating
+leakiness
+biochim
+formed
+al
+gag
+cantor
+shenoy
+siggia
+& collins
+ykt0032
+& kaiser
+grown
+ribosome
+yarchuk
+difficult
+& riezman
+photo-damage
+6 reporters
+calculating
+chloroform
+effect
+ykt32
+frequency--
+director
+lower
+nicolas
+model
+prevention
+obtain
+roederer
+cut
+coverslip
+ease
+elf
+transformed
+golding
+excited
+resuspending
+boxed
+dimethylsiloxane
+mol
+usa 101
+whitesides
+sorting
+lost
+cytoplasm14
+sager
+efron
+translated
+s4b
+www
+berg
+arrows
+baked
+competition
+ghaemmaghami
+provided
+measurements
+1 min
+demonstrated
+microchem
+rondelez
+power
+s12
+notably
+tetramer
+& pedersen
+levine
+thattai
+bioessays 17
+nolan
+heel
+acta 9
+jacques
+cambridge
+pezo
+presence
+swain
+paper
+interdependence
+balanced
+dichroic
+compression
+mcdonald
+equation
+cultured17
+histogram
+expected
+profile
+subtracted
+made
+evident
+smooth
+zawilski
+& weiner
+pumped
+calculated
+regimes
+well-fitted
+glucose-
+scanned
+pyes2-lacz
+novick
+mathworks
+generally
+application
+biol
+patterning
+theor
+wheeler
+excitation
+corrected
+& cox
+transported
+kurtser
+es17
+mcmahon
+assume
+4b
+thorn
+chambers19
+4a
+581­ -596
+0
+1992
+137­ -140
+737­ -741
+2603­ -2607
+31
+ð
+7148­ -7153
+836­ -840
+648­ -660
+1991
+8 ^ 2
+1993
+1995
+1994
+1997
+1­
+737­ -740
+553­ -566
+¼ 2 ^ 0
+1
+265­ -280
+361­ -365
+¼ 7
+¼ 3
+¼ 2
+¼ 1
+¼ 0
+24
+26
+27
+20
+23
+28
+þ ¼
+¼ 375
+7 ^ 0
+1957
+1952
+16 ^ 0
+&
+4 ^ 0
+29
+7
+1962­ -1965
+12809­ -12813
+1183­ -1186
+2
+¼ 13
+11
+13
+15
+14
+17
+16
+18
+1961
+814­ -819
+587­ -603
+113­ -116
+633­ -637
+8
+10
+19
+1811­ -1814
+3
+ð1þ
+69­
+987­ -997
+27­ -40
+1600­ -1603
+2000
+1981­ -1991
+11 ^ 0
+9
+2 ^ 0
+000
+1988
+8194­ -8198
+1977
+1975
+1972
+21
+þ
+4
+1025­ -1036
+1 ^ 0
+30
+22
+114
+71
+¼
+*
+6
+226
+222
+382­ -388
+5
+2005
+2002
+2003
+2006
+2004
+12

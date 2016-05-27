@@ -1,0 +1,1151 @@
+find dense naturalistic visual representations
+mini-chromosome maintenance dna replication complex
+genes encoding numerous glycolytic enzymes
+full-color range represents log ratios
+coexpressed genes imparts biological significance
+measured cy5 cy3 fluorescence ratio
+coexpressed genes representing diverse expression patterns
+spindle pole body assembly
+howard hughes medical institute
+2n 1 linear orderings consistent
+lower average weight earlier
+discussion
+microarray-based genomic surveys
+observed coregulation occurs primarily
+measurement quality parameters produced
+applied pairwise average-linkage cluster analysis
+viewing complex data sets
+increasingly positive log ratios
+increasingly negative log ratios
+columns represent individual array experiments
+genome-wide expression patterns
+michael
+underlying expression data simultaneously
+mitotic cell division cycle
+genes encoding ribosomal proteins
+update master data tables
+primary human fibroblasts stimulated
+clustering gene expression data groups
+gene expression patterns suffice
+expected gene expression patterns
+organizing gene expression data
+complex gene expression data
+similar function cluster tightly
+budding yeast saccharomyces cerevisiae
+mitochondrial protein synthesis genes
+share similar expression patterns
+functionally related genes involved
+combined yeast data sets
+human growth response experiment
+human tissue culture cells
+f1f0 atpase complex
+red-fluorescent dye cy5
+green-fluorescent dye cy3
+december 1998 genetics
+
+cluster analysis
+alternative encoding preserves
+gene expression data collected
+measured fluorescence ratio
+naturalistic color scale
+find alternative algorithms
+branch lengths reflect
+enzymic reaction catalyzed
+sciences 0027-8424 98 9514863-6$2
+national eye institute
+excellent technical assistance
+large protein complexes
+significant differential expression
+computer-generated expression profiles
+saccharomyces genome database
+ylic acid cycle
+tricarboxylic acid cycle
+112 ribosomal protein genes
+large contiguous patches
+potential tumor markers
+consistently arrange nodes
+continuing comprehensive window
+alternate cdna clones
+repeated n-1 times
+fluorescence intensity ratios
+pearson correlation coefficient
+cell division cycle
+genome-wide expression data
+gene expression profile
+page charge payment
+functionally related genes
+supervised clustering methods based
+primary human fibroblasts
+optimal linear ordering
+standard statistical algorithms
+pairwise similarity function
+800 cdnas representing approximately 8
+underlying tree exists
+intuitive biological notion
+expression level deviated
+standard correlation coefficient
+similar expression patterns
+genome-wide expression experiments
+alpha factor arrest
+exact protein function
+share common roles
+spotted dna microarrays
+temperature-sensitive cdc15 mutant
+color scale ranges
+actively exploring alternatives
+human data sets
+clustering correlation matrixes
+n-dimensional vectors representing
+detailed expression patterns
+large data sets
+genomic data sets
+statistic captures similarity
+predefined reference vectors
+2 depict biological order
+126 genes strongly down-regulated
+highly homologous genes
+searching large tables
+average expression level
+numbers remains difficult
+represent varying degrees
+apparently unrelated function
+favorable growth conditions
+assimilating quantitative data
+numerous uncharacterized genes
+extremely tight cluster
+gene expression data
+characterizing biological processes
+make repeat observations
+including time courses
+pnas web site
+similar structure resulted
+color representing groups
+pattern roughly similar
+yeast cell cycle
+nutrient-limited sporulation media
+gene expression response
+oxygen-related transcriptional regulation
+human gene sequences
+stanford university school
+sequence-verified named genes
+closely related genes
+arrays representing essentially
+600 distinct human transcripts
+original data table
+randomized data sets
+full gene names
+single element remains
+functional genomic data
+natural intuitive manner
+separate unsynchronized sample
+similar function cluster
+elements representing approximately 8
+dna microarray hybridization
+share common functions
+quantitative information effectively
+coexpressed genes involved
+combine clustering methods
+separate time courses
+gene similarity score
+primary data table
+upper-diagonal similarity matrix
+usefully organize tables
+gene expression measurements
+reference sample labeled
+original experimental observations
+general individual genes
+complete functional annotation
+favored unsupervised methods
+time 0 reference sample
+common cellular processes
+image analysis software
+dna replication
+multiple genes involved
+gene similarity metric
+fully sequenced organism
+hierarchical clustering algorithm
+david botstein*
+
+*department
+fluorescence ratio
+entire clustered image
+reference state represented
+log ratios 3
+log ratios
+diverse conditions
+budding yeast
+human fibroblasts
+proteins involved
+redundant representations
+numerous groups
+correlation coefficient
+expression patterns
+gene expression
+genes encoding
+increasingly important
+human genome
+human arrays
+related function
+similar patterns
+genomic scale
+expression data
+human cells
+dna microarrays
+log transformed
+growth response
+fully sequenced
+human data
+similar function
+primary data
+genomic data
+gene names
+reference vectors
+full potential
+reference sample
+individual samples
+coexpressed genes
+large cluster
+foreskin fibroblasts
+ratio values
+cell cycle
+average-linkage method
+elements representing
+standard deviation
+atp synthesis
+tissue remodeling
+similar pair
+yeast responds
+large fraction
+unsynchronized sample
+cell represents
+biological origins
+biological insight
+biological origin
+biological necessity
+hierarchical clustering
+broad patterns
+gene product
+individual observations
+yeast experiments
+time courses
+common role
+mitochondrial ribosome
+statistical organization
+genome res
+detailed description
+high degrees
+software implementation
+extremely efficient
+varying levels
+cdna microarray
+complete repertoire
+based closely
+supervised clustering
+experimental data
+similar approaches
+cellular function
+clustering analysis
+cerevisiae genome
+similarity score
+national institutes
+full descriptions
+national academy
+transcriptional regulation
+transcriptional response
+entire repertoire
+opposite page
+similar tendency
+data tables
+david botstein
+botstein@
+
+genome
+uncharacterized genes
+named genes
+arrange genes
+human brains
+cluster analysis
+experimental details
+illuminating order
+specific function
+array element
+rows represent
+order inherent
+finest level
+asynchronous cells
+designated supervised
+unrelated sequence
+clustering yeastall
+unsupervised clustering
+functional categories
+functional concordance
+functional category
+functional annotation
+data points
+data presented
+numerical data
+initial data
+gene-expression data
+acquire data
+normalized vectors
+multiple conditions
+biological information
+separate genes
+selected times
+cellular processes
+inclusive analysis
+phylogenetic analysis
+quantitative values
+single column
+larger groups
+single timepoints
+single row
+smaller tables
+extensive cluster
+massive tables
+observed pattern
+600 distinct
+
+14866
+
+genetics
+identify patterns
+experimental samples
+order genes
+single time
+qualitatively reflects
+reducing agents
+figure legends
+canonical model
+opposite sign
+evolutionary history
+target element
+interesting details
+colored bars
+oxidative phosphorylation
+marked ``advertisement
+cholesterol biosynthesis
+characterized extensively
+poorly characterized
+centrifugal elutriation
+glucose levels
+displayed graphically
+chromosomal position
+treat inductions
+created joining
+mathematical description
+trna synthetases
+simple technique
+transcript abundance
+equally important
+representative handpicked
+wound healing
+saturated green
+elongation factors
+colored table
+reverse transcription
+subsequent report
+drug targets
+publication costs
+saturated red
+resulting ordered
+associate investigator
+genome-scale sequencing
+reprint requests
+assumed unchanged
+sloan foundation
+readily zoom
+oxygen utilization
+differing length
+inherent structures
+self-organizing maps
+subtle differences
+colored image
+larger version
+ca 94305
+
+contributed
+dot products
+striking property
+maximal induction
+colored black
+dot product
+redundant collection
+large-scale features
+ordered table
+inferred quickly
+inherent specificity
+quantitative information
+final datapoint
+postdoctoral fellowship
+mrna splicing
+training grant
+provisional attribution
+square root
+contribute significantly
+­early response
+de risi
+noise present
+histones h2a
+gaining leads
+legend appears
+rapid advance
+euclidean distance
+massive collection
+washing steps
+300 pasteur avenue
+colored boxes
+important test
+ordered ahead
+colored branches
+general classes
+diauxic shift
+increasing intensity
+added back
+coding sequences
+coming flood
+clustering algorithm
+genes involved
+clustering methods
+exact representation
+comprehensive representation
+elements joined
+joined elements
+separate images
+target elements
+cluster genes
+genes cluster
+data analyzed
+data point
+biological process
+cell-cycle experiments
+designing experiments
+genome-scale experiments
+similarity scores
+similarity matrix
+experiments conducted
+18 time points
+2 time points
+15 time points
+14 time points
+6 time points
+4 time points
+7 time points
+form intuitive
+quantitative measurements
+functional information
+arbitrary structure
+chromatin structure
+additional samples
+high-throughput approaches
+approaches produce
+simple approaches
+intuitive process
+genes contributing
+identified genes
+weighting genes
+tricarboxhuman genes
+0 genes unchanged
+histone genes
+numbers produced
+missing values
+sequence comparison
+single tree
+clustering serum
+clustering procedure
+simple methods
+methods
+sources
+computation methods
+sampled conditions
+nonidentical conditions
+identical conditions
+single observations
+final ordering
+parametric ordering
+shock responses
+central feature
+represented graphically
+low temperature
+high temperature
+strong tendency
+numerically equal
+cellular biology
+separate clusters
+examples presented
+poor state
+examples emphasize
+unpublished results
+presenting information
+entire set
+shock experiments
+organize genes
+time point
+serum stimulation
+higher-bandwidth channel
+wide variety
+serum starvation
+invites development
+expressed concordantly
+combinatorial chemistry
+identical coloring
+averaging observation
+immense amount
+predominantly members
+unpublished work
+identical magnitude
+integrated understanding
+reading digits
+priori knowledge
+reducing shocks
+graphical display
+samples analyzed
+clustered genes
+genes represented
+selected genes
+graphical representation
+adjacent elements
+computed trees
+simple means
+striking result
+rate-limiting step
+analyses presented
+studied processes
+holistic approach
+commonsense approach
+efficiently genes
+random permutation
+distant relationships
+end product
+representative clusters
+allowing biologists
+node replacing
+clustered images
+gi equal
+valuable feature
+clustered display
+usa vol
+found repeatedly
+genes studied
+sequence identity
+time series
+coexpressed
+columns
+``coexpressed
+find
+measured
+sets
+computed relationship
+ratios
+expression
+translation initiation
+representing
+natural basis
+represent
+serum shown
+small number
+yeast
+represents
+average
+patterns
+gene
+experiment
+share
+culture
+common
+color
+combined
+approximately 6
+observed
+level
+array
+supervised
+function
+cells
+clustering
+data
+vectors
+involved
+analysis
+groups
+sample
+cluster
+tables
+14865
+
+regulation
+cdc15
+factor
+labeled
+element
+produced
+matrix
+response
+exploring
+unsupervised
+based
+processes
+essentially
+sequences
+annotation
+transcripts
+microarrays
+metric
+microarray
+randomized
+hybridization
+table
+image
+general
+functions
+department
+cell
+cell 24
+elements
+cerevisiae
+similarity
+experiments
+time 0
+time
+botstein
+approaches
+applied
+samples
+structure
+genes
+112 genes
+200 genes
+467 genes
+values
+numbers
+organize
+pattern
+collected
+sequence
+algorithm
+methods
+conditions
+selected
+increasing
+represented
+feature
+temperature
+ordering
+tendency
+analyzed
+point
+equal
+clustered
+shock
+results
+information
+natural
+tree
+state
+examples
+14868
+
+genetics
+14863
+
+14864
+
+genetics
+genetics
+observations
+gi
+understanding
+amount
+serum
+adjacent
+efficiently
+magnitude
+development
+small
+members
+coloring
+relationship
+brains
+channel
+chemistry
+expressed
+knowledge
+shocks
+reading
+initiation
+procedure
+ribosome
+valuable
+identify
+images
+pnas
+biology
+rows
+00 0 pnas
+observation
+display
+work
+variety
+representation
+measurements
+organism
+sporulation
+computed
+studied
+analyses
+translation
+means
+result
+identity
+step
+form
+process
+approach
+stanford
+relationships
+end
+clusters
+set
+random 1
+random 3
+random 2
+method
+series
+shown
+number
+biologists
+node
+basis
+found
+usa 93
+usa 95
+1998
+
+abstract
+sci
+duplicates
+illustrated
+heller
+concerned
+& warner
+supported
+finally
+health
+assembles
+indicating
+brown
+updated
+focus
+reordering
+& poyton
+kraakman
+base 2
+condition
+ca77097
+proc
+juvik
+list
+md
+science
+enhance
+gm 46406
+zerp
+chee
+trent
+mittmann
+amersham
+zhang
+dendrogram
+focuses
+degree
+``shape
+explore
+objects
+address
+vogelstein
+respiration
+study
+extremes
+survey
+16 hr
+makes
+3 hr
+reds
+repressions
+requiring
+screens
+orf
+addressed
+analyzing
+univ
+kobayashi
+wang
+confidence
+wealth
+hudson
+comparing
+chu
+crosshybridization
+generally
+& brown
+suggestions
+48 hr
+cases
+easiest
+keeping
+evolved
+deprived
+mager
+scan
+assumptions
+thevelein
+8 hr
+provide
+divided
+proteasome
+boguski
+gallo
+30 min
+simplicity
+parallel
+nonetheless
+stress
+maintain
+verify
+lockhart
+figs
+developed
+& herskowitz
+interpreted
+paper
+difference
+rapidly
+monitor
+vicinity
+production
+fig
+schmidt
+alter
+yi
+conveying
+offset 2
+glycolysis
+kohonen
+``number-reading
+goffset
+classified
+science 282
+composition
+2e
+2f
+2i
+2k
+weighted
+science 270
+combining
+maximizes
+ludwig
+contained
+lashkari
+dominated
+kief
+medicine
+horton
+ref
+burke
+dunn
+possibility
+labs
+eisen*
+org
+pairs
+diminished
+place
+transfer
+davis
+rana
+omitted
+& futcher
+dong
+illustrate
+system
+needed
+alfred
+expanded
+ranging
+relative
+lists
+part
+§1734 solely
+signaling
+authors
+impractical
+accordance
+conforms
+biotechnol
+providing
+distinguished
+extracting
+mind
+michener
+angle
+october 13
+instance
+emphasis
+materials
+transcribed
+generalized
+online
+xi
+shalon
+kans
+14867
+
+fig
+measures
+rejected
+assessed
+kwast
+lee
+surprising
+adopt
+face
+eisen
+fact
+h2b
+show
+text
+bring
+trivial
+staff
+4 hr
+appended
+follettie
+covary
+thousands
+familiar
+synchronization
+dx
+clearest
+greens
+assimilate
+dwight
+london
+transmits
+acquired
+reported
+hereford
+techniques
+probable
+ways
+case
+& michener
+tens
+ability
+nature
+subject
+york
+extent
+demonstrate
+group
+hundreds
+region
+log-transformed
+contribution
+spo
+exploit
+simply
+respect
+ribosomes
+moore
+pp
+orfs
+addition
+interest
+velculescu
+obtained
+gen
+bull
+aim
+behavior
+elu
+examined
+12 hr
+sherlock
+technology
+grown
+develop
+schena
+groeneveld
+html
+virtually
+bethesda
+infer
+status
+clear
+ball
+http
+science 278
+driven
+purpose
+spellman
+adapted
+& planta
+components
+laboratories
+coexpression
+mortimer
+press
+hg 00983
+anders
+paul
+cherry
+smith
+20 hr
+treatment
+natl
+osley
+15 min
+sokal
+rna
+aggregation
+mol
+making
+2nd
+cuoczo
+& davis
+success
+dramatic
+weng
+patrick
+maintained
+grants
+output
+reduced
+www
+acad
+convey
+ross
+iyer
+provided
+bottom
+highest
+alph
+e-mail
+2g
+derisi
+object
+genomics
+2c
+likewise
+offset
+defrayed
+drawn
+article
+obscured
+metrics
+1 hr
+genet
+kaiser
+mixed
+mulholland
+& mclaughlin
+presence
+h3
+indications
+h4
+24 hr
+& kinzler
+2 hr
+springer
+biol
+riles
+griffioen
+byrne
+coregulated
+ht
+adler
+inverse
+made
+compute
+places
+quantitatively
+problem
+stages
+recognizing
+artifact
+chai
+al
+examine
+scanned
+identities
+compared
+biochemistry
+hybrid
+detail
+application
+nat
+ny
+schuler
+briefly
+kinds
+exp
+fluor
+included
+bulk
+mating
+observe
+mass
+spellman*
+recognize
+angiogenesis
+0
+14863­14868
+16
+1007­1015
+6
+196­204
+95
+1995
+1997
+1996
+1998
+1
+1409­1438
+484­487
+``
+10614­10619
+1958
+7
+1993
+639­645
+­
+2
+11
+10
+13
+12
+14
+467­470
+3
+8
+67­73
+15
+1177­1195
+18
+367­375
+387
+4
+467
+38
+680­686
+9
+35%
+1675­1680
+201
+1981
+1­3
+© 1998
+5
+239
+699­705

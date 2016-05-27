@@ -1,0 +1,1584 @@
+tor signalling pathway controls nuclear localization
+paul matsudaira2 & wah chiu1
+1 national center
+meiotic checkpoint monitoring synapsis eliminates spermatocytes
+small mus musculus repetitive dna library
+saccharomyces cerevisiae dal80 repressor protein binds
+protein dnmt3l stimulates de novo methylation
+mouse germ cell nuclear antigen examined
+genome-wide location analysis
+genome-wide location analysis
+cytosine methylation mediates sexual conflict
+regulatory elements predicts mechanistic models
+yeast cell-cycle transcription factors sbf
+target genes/promoters represent
+
+binding events
+put3 transcriptional activator protein detected
+regulatory sites encompassing larger numbers
+actin­ scruin subunits deviate widely
+motif discovery process identified highly significant
+h19 methylation imprint occurs differentially
+well-studied cell cycle transcriptional regulators bind
+authors declare competing financial interests
+/nature
+
+dna-binding transcriptional regulators interpret
+/nature
+
+©2004 nature publishing group
+
+letters
+/nature
+
+©2004 nature publishing group
+
+103
+
+letters
+de novo methyltransferase 3a
+map describes transcriptional regulatory potential
+gcn4
+102
+
+figure 3 yeast promoter architectures
+ty1 sterile responsive element
+de novo dna methyltransferases
+increased nuclear protein stability21
+ectopic transcription units 21 activated
+dlk1­gtl2 imprinted cluster
+tomographic reconstruction7 revealed periodic
+rett syndrome research foundation
+respiration hap5 binds upstream
+regulatory code
+potential binding sites
+msn2-dependent transcription provide clues
+yeast leu3p transcriptional activator
+respiratory electron transport chain
+meiotic recombination hot spots
+w303 yeast strain z1256
+thiamine biosynthetic regulator thi2
+promoter architectures provide clues
+conducting genome-wide binding experiments
+figure 1 discovering binding-site specificities
+transcriptional regulator binding sites lie
+sensu stricto saccharomyces species
+common biological
+
+figure 2 drafting
+©2004 nature publishing group
+
+101
+
+letters
+99
+
+©2004 nature publishing group
+
+letters
+intracisternal a-particle gene family
+/nature
+
+104
+
+©2004 nature publishing group
+spotted pcr products representing
+sensu stricto saccharomyces genomes
+genome-wide location data identified 11
+transcriptional regulators reveals constraints
+eukaryotic transcription regulating sequences
+leucine-independent dna site occupancy
+dna-binding transcriptional regulators encoded
+dnmt3l tm1bes mutant mice
+unaligned noncoding sequences clustered
+©2004 nature publishing group
+
+nature
+native extended bundle shows
+884-base-pair intergenic region upstream
+finding protein-dna binding sites
+short nucleotide sequence required
+transcription factor binding sites
+dna methyltransferase expression profiles
+finding dna regulatory motifs
+reveal individual subunit variations
+discovered motifs provide significantly
+coloured circles represent regulators
+cooperative binding interactions required
+yeast transcriptional regulatory map
+amino-acid biosynthetic regulators gcn4
+competing financial interests
+combining regulator binding data
+regulator dna binding specificities
+map includes binding data
+zinc cluster type regulators
+dna binding sites occur
+genome-wide location analysis7­10
+sensu stricto species
+genome-wide location data
+regulator binding site distribution
+identify potential cis-regulatory sequences
+competing interests statement
+differentially fluorescently labelled
+nutrient-regulated transcription factors
+yeast transcriptional regulators function
+partner transcription factor
+red line shows
+category encode products
+polymerase chain reaction
+usa 3 mit computer science
+intrinsic protein affinity
+limulus acrosomal process
+transcriptional regulatory networks
+transcription initiation apparatus
+coloured boxes represent
+regulatory potential embedded
+yeast saccharomyces cerevisiae
+graded transcriptional response
+transcriptional regulatory code
+finding functional features
+paternal methylation imprint
+sex-specific methylation marked
+genome-wide functional data
+higher protein concentrations
+transcription factor gcn4
+published online 18 august 2004
+tong ihn lee1
+execute differential responses
+adjacent subunits ranges
+retrotransposon insertional mutagenesis
+procedure typically produced
+srb10 cyclin-dependent kinase
+open reading frames
+unusual actin-based engine
+region typically includes
+forward genetic screens
+nih/nigms nrsa award
+selectable marker flanked
+jelly layer surrounding
+green line represents
+unactivated limulus sperm
+artificial intelligence laboratory
+leucine metabolic precursor
+genome-wide binding behaviour
+motif discovery methods11­13
+canonical actin helix
+chromatin-immunoprecipitation microarray experiments
+actin polymeriza° tion1
+repetitive motif architecture
+transcription start site
+combining binding data
+repetitive dna sequences
+iap endogenous retroviruses
+adjacent upstream region
+saccharomyces cerevisiae genome
+msn2 transcription factors
+repeated myc-epitopecoding sequence
+dna binding site
+nucleic acids res
+203 dna-binding transcriptional regulators
+14 actin­scruin subunits
+final extended state3
+transcription factor dependent
+repetitive promoter architecture
+repress gene expression1
+cytosine-5-methyltransferase 3 gene family
+eukaryotic genome
+christopher
+electron cryomicroscopic reconstruction
+stored elastic energy
+gcn4 proteinmediated response
+stringent statistical tests
+statistically significant preference
+whole-genome mrna quantitation
+drug-induced conditional alleles
+chromosomes illustrating locations
+genetic regulatory mechanisms
+regulatory mechanisms employed
+binding sites identified
+repeated binding sites
+fewer binding sites
+display consensus sequences
+yeast proteome database
+electron cryomicroscopic structure
+multiple metabolic pathways
+authors contributed equally
+motif architecture implies
+carboxy-terminal 30 amino acids
+mouse h19 locus
+binding site sequence
+promoter arrangement implies
+mouse germ cells
+detailed probability matrices
+average actin monomer
+yield representative motifs
+passed conservation tests
+distinct consensus motifs
+binding behaviour falls
+actin crystal structure
+usa
+
+* present address
+establish maternal imprints
+developmental regulator rim101
+nitrogen regulator gat1
+endogenous gene encoding
+binding site sequences
+multiple yeast species
+scruin-crosslinked actin filaments
+sharply peaked distribution
+reflect increased levels
+existing meme program
+incorporate conservation data
+promoter architecture consists
+simplest promoter architecture
+combining phylogenetic data
+dna binding sequences
+eukaryotic genome sequence
+global gene expression
+nature
+
+figure 4 environment-specific
+nature
+breaks induced
+selected sequence specificities
+transcriptional regulators occupy
+transcriptional regulators aft2
+zinc finger gene
+genomic binding sites
+intergenic sequences identified
+foetal testis development
+single high-confidence motif
+individual azimuthal distortion
+twist accompanies uncoiling
+synaptonemal complex proteins
+resulting specificity predictions
+groups suggests hypotheses
+regulatory sequence motifs
+randomly selected sequences
+secondary structure elements
+yeast transcriptional regulators
+regulators interact physically
+maternal genomic imprints
+related yeast species
+extended bundle yield
+sequence conservation data
+marrs mclean department
+usa 4 broad institute
+279 dna sequence motifs
+dna binding proteins
+conserved regulatory sites
+general control system
+network model database
+map regulatory sequences
+computationally derived motif
+yeast genome sequence
+genome-wide location
+regulator binding behaviour
+arrayexpress number e-wmit-10
+randomly selected sets
+mammalian l1 retrotransposons
+significant statistical score
+genomic methylation patterns
+multiple cell-growth conditions
+/nature
+
+sequences bound
+biological engineering mit
+specific transcriptional regulators
+phylogenetically conserved sequences
+multiple regulator architecture
+single regulator architecture
+control genome expression
+previously published evidence
+male germ cells
+produce consensus motifs
+conserved dna sequences
+environment-dependent binding behaviour
+target genes/ promoters
+identify regulatory motifs
+varied growth conditions
+filamentous growth conditions
+methods
+strain information
+genome­ wide maps
+developmentally regulated expression
+actin filaments crosslinked
+transfac retrieval program
+higher resolution structure
+usa 2 whitehead institute
+regulator binding specificity
+regulators bind essentially
+dna sequences bound
+co-occurring regulator architecture
+region 100 base pairs
+locations match a-helices
+supplementary information accompanies
+acrosomal bundle
+michael
+previously reported site
+regulate genes involved
+mus musculus
+specific promoter regions
+specific sequences bound
+rich media conditions
+/nature
+
+letters
+multiple growth environments
+nuclear exclusion
+additional criteria including
+gcn4 binds
+saccharomyces cerevisiae
+established functions bind
+nature
+regulator interactions
+acrosomal process
+saccharomyces species
+individual letters
+regulator dal80
+protein scruin
+prior specificity information
+conditions examined
+cytosine methylation
+cell cycle
+discovering specificities
+meiotic catastrophe
+national institutes
+& de boer
+saccharomyces genomes
+regulatory code
+dna methylation
+authors declare
+well-studied regulators
+yeast species
+whole-genome discovery
+coloured circles
+regulatory control
+binding data
+repetitive motifs
+dna binding
+germ cells
+correlation analysis
+genomic occupancy
+subsequent analysis
+comparative analysis
+intergenic region
+regulatory elements
+regulatory sequences
+dna-binding specificity25
+regulatory mechanisms
+binding sites
+programs report results
+protein concentration
+epitope-tagged protein
+amino acids 79­91
+cerevisiae genome
+significant motifs
+dna sequences
+coloured boxes
+regulatory map
+microarray data
+cambridge center
+promoter architecture
+map includes 3
+gene expression
+cis-regulatory sequences
+sequence elements
+transcriptional regulators
+actin subunit
+regulator binding
+multiple genomes
+actin bundle
+promoter database
+putative specificities
+dnmt3 family
+biomedical research
+discovery programs
+electron micrograph
+rap1 revealed
+yeast genome
+combining information
+gcn4-binding site
+mouse genome
+yeast cells
+methylation patterns
+genome res
+sequence motifs
+merged data
+/young/regulatory_ code
+data presented
+environment-specific binding
+condition-specific binding
+binding specificity
+stable binding
+promoter-specific binding
+proline-independent binding
+binding interactions
+shear dna
+dna methyltransferase-
+separate dna
+linear dna
+4
+1 whitehead institute
+specific sequences
+preferred target
+highly dependent
+common patterns
+highly ordered
+dnmt3l gene
+binding information
+extended bundle
+genome expression
+biological sciences
+biological spring
+mouse spermatogenic
+mouse chromosome 12
+motif
+nature
+chromosome res
+cancer res
+transcriptional regulation
+amino-acid biosynthesis
+higher eukaryotes
+amino-acid transporter
+endogenous retrotransposons
+single regulator
+satellite sequence
+sequence logos
+recognition sites
+myc-epitope-coding sequence
+genomic integration
+protein-coding sequence
+extended state
+extended states
+sequence information
+targeted gene
+intergenic regions
+mechanisms
+nature
+substantial number
+functional processes
+including dig1
+short distances
+start codon
+parental alleles
+statistical measures
+rich medium
+reconstruction process8
+releasing energy
+evidence implicating
+mammalian meiocytes
+functional aspects
+average twist
+protein-dna association
+paternal chromosomes
+target genes
+discovered motifs
+aligned sequences
+protein-coding sequences
+satellite sequences
+sequences matching
+conserved sequences
+mechanisms involved
+single specificity
+specific pairs
+specific arrangements
+immunoprecipitated dna
+female mice
+fourth type
+empirical probability
+whitehead fellow
+probability score
+cold spots
+500 bp upstream
+established previously
+aligned motifs
+additional motifs
+network-level conservation
+true motifs
+promoter regions
+296 promoter regions
+target promoters
+subunit relative
+dnmt3l cooperates
+phylogenetic conservation2­6
+positive regulator
+yeast promoters
+specific regulators
+bundle uncoils
+newly discovered
+prior knowledge
+60-mm-long bundle
+rigid bundle
+genome detectably
+regulators occur
+randomized distribution
+program 50 times
+program designed
+program `helixhunter
+program-specific distribution
+prior information
+initial map
+three-dimensional map
+highly consistent
+cells grown
+growth environments
+cells grow
+nature
+analyses
+nature biotechnol
+conserved
+nature
+environmental conditions
+multiple genes
+cell lysis
+regulators bind
+extended form
+gene bap2
+supplementary tables 4­6
+100
+
+supplementary table 3
+supplementary table 1
+supplementary table 2
+supplementary table 3
+supplementary table 4
+supplementary table 5
+supplementary table 6
+supplementary table 7
+statistical scores
+g1 phase
+highest resolution
+jackson labs
+natl acad
+diagram depicts
+somatic dnas
+anti-myc antibody
+jean-bosco tagne1
+julia zeitlinger1
+p53-independent apoptosis
+similar score
+uniformly distributed
+heritable silencing
+crosslinked material
+two-dimensional cross-correlation
+embryonic day 11
+menlo park
+vast majority
+accumulates rapidly
+axial positions
+mechanical measurements
+female germline
+purdue university
+32 vassar street
+details accompany
+environment-specific fashion
+unenriched sample
+000 unique interactions
+axial direction
+western blotting
+la salle
+kendall square
+additional details
+microarrray consisting
+asymmetric unit
+gonocyte stage
+a-helix search
+large population
+chromosome iv
+chromosome ii
+benjamin gordon1*
+initial version
+thb12@columbia
+// web
+total height
+error model
+leu3-regulated genes17
+technical assistance
+limiting nutrients22
+mapk signaling
+high confidence
+simple model
+indiana 47907-139
+ernest fraenkel1
+relative intensities
+fully extends
+scpd29 databases
+usa 2 department
+extreme version
+upper panel
+similar manner18
+runtime parameters
+temporary deprivation
+cellular function24
+owing largely
+recurrent pairs
+increase sixfold
+f-actin filaments10­15
+intragenomic parasites
+initial characterization
+macromolecular imaging
+motor proteins
+dense packing
+non-crystallographic symmetry
+grey rectangles
+repeat-induced g-
+aaai press
+baylor college
+west lafayette
+computational assistance
+alex rolfe3
+manolis kellis1
+uniform metrics
+chromosome vii
+report motifs14
+controlled mobilization
+van vugt
+jane yoo1
+nih grant
+specificity model
+chromosome disjunction
+situ hybridization
+f-actin filament
+ligation-mediated pcr
+supplementary information
+additional information
+lower-confidence information
+information content
+information content30
+merged information
+nature
+function
+condition-altered behaviour
+condition-enabled behaviour
+phylogenetic footprinting
+multiple copies
+nature genet
+specific examples
+group
+selecting regulators
+unknown function
+altered preference
+genes cells 5
+supplementary methods
+bound exclusively
+probe bound
+bound proteins
+rediscovered motifs
+trends genet
+maternal imprinting
+genes requires
+nearby genes
+co-regulated genes
+related functions
+massachusetts institute
+k-medoids algorithm
+accepted 26 july 2004
+-based algorithm
+ten probes
+repression functions
+accepted 1 july 2004
+ncs
+nature
+nature rev
+regulated degradation
+cell sci
+identify genes
+egg membrane
+essential role
+received 11 march
+monitoring
+height proportional
+newly implicated
+molecular biology
+substantial portions
+azimuthal rotation
+bottom panel
+specificity based
+middle panel
+stiffness enables
+initial sequencing
+modified set
+averaged reconstructions
+largest difference
+core set
+jr biology
+environment-dependent behaviours
+his4 gene16
+coiled state
+high scores
+leu3 bind
+probes bound
+combinatorial regulation
+asymmetric regulation
+growth condition
+efraenkel@wi
+protein
+regulators exhibit
+profiled 84 regulators
+ste12 interacts
+random selections
+epitope mapping
+converge searches
+inappropriate activation
+comparative genomics
+supplementary fig
+transcription
+environmental condition
+letters
+provide
+/nature
+structural organization
+promoters bound
+genes dev
+best-studied regulators
+additional environment
+expanded set
+potential
+distortions found
+methylation
+detected
+cluster
+occurs
+lie
+significant
+larger
+14 subunits
+identified
+negative regulation
+site
+young@wi
+binding
+dna
+actin
+yeast
+scruin
+mouse
+show `condition-invariant
+upstream
+sites
+motif
+sequence
+expression
+gene
+selected
+reveal
+profiles
+elements
+gcn4
+required
+sequences
+behaviour
+structure
+multiple
+authors
+promoter
+type
+filaments
+occur
+mice
+spots
+motifs
+conservation
+usa
+
+*
+usa 99
+subunit
+usa
+maternal
+dnmt3l
+regulator
+bind
+discovered
+bundle
+genome
+program
+distribution
+map
+growth
+cells
+nature
+nature 420
+nature 423
+nature 429
+nature 409
+nature 402
+conditions
+cell 113
+cell 50
+cell
+cell 32
+reported
+retrotransposons
+arrayexpress
+report
+paternal
+score
+a-helices
+clustered
+development 129
+crosslinked
+conserved
+transfac
+environment-specific
+twist
+criteria
+produce
+proteins
+specificity
+353 interactions
+media
+model
+environments
+203 proteins
+° resolution
+maps
+derived
+environment-dependent
+pcr
+michael
+base
+pairs
+dependent
+azimuthal
+match
+`co-occurring
+involved
+suggests
+related
+interactions
+system
+finger
+sets
+additional
+information
+regions
+identify
+102 regulators
+203 regulators
+147 regulators
+regulators
+116 regulators
+17 regulators
+previously
+function
+patterns
+bound
+genet
+programs
+methods
+department
+mit
+genes
+msn2
+probes
+accepted
+male
+levels
+bp
+locus
+footprinting
+algorithm
+results
+`expanded
+functions
+regulated
+negative
+implicated
+`condition-altered
+stiffness
+bottom
+coiled
+form
+scores
+imprinting
+science 244
+proportional
+portions
+his4
+profiled
+sci
+`condition-invariant
+bap2
+difference
+young
+middle
+dev
+association
+ncs
+set
+science 298
+science 294
+science 290
+distances
+essential
+examples
+immunoprecipitated
+received 22
+`condition-enabled
+averaged
+biology
+rotation
+rev
+behaviours
+exhibit
+based
+membrane
+copies
+science 301
+sequencing
+rediscovered
+promoters
+regulation
+wi
+activation
+consistent
+genomics 58
+random
+`altered
+altered
+genomics 65
+mapping
+converge
+best-studied
+ste12
+fig
+condition
+leu3
+organization
+show
+environment
+massachusetts 02139
+cambridge
+massachusetts 02142
+found
+hata
+sanford
+kornitzer
+jacob
+pooled
+ueda
+ascobolus
+chem
+& bartolomei
+jennings1
+stresses
+study
+demethylation
+ttactaa
+criticism
+bundles
+lewitter
+hoffmann
+adult
+ma
+footprinter
+orientations8
+wang
+walsh
+feature
+previously8
+significance
+3 & richard
+hodges
+disassembly
+schneider
+1038/nature02886
+kulka
+chaillet
+satisfied
+neurospora
+manuscript
+40-
+young1
+filtered
+reasonable
+schmid1
+bollman
+fellowship
+& schimmel
+medicine
+donahue
+bestor
+estimate
+created
+enders
+vitro
+lehnberg
+forrester
+top
+twisted
+intell
+serve
+2 gpa
+showed
+acquisition
+tycko
+ran
+-
+ypd
+spermatogenesis
+coil
+acknowledgements
+doi
+yang
+left
+attempts
+judged
+reversal
+lucchini
+detection
+discussions
+subject
+vol 431
+kuff
+beck
+requests
+mutations
+represented
+damelin
+basis
+beer
+expected
+transformed
+website
+obtained
+baur
+applied
+applies
+property
+dobson
+conf
+& liu
+confirmed
+suggest
+texas 77030
+gataa-
+permit
+crosslinks
+materials
+reusser
+& stormo
+mckee
+5-
+www
+subdomain 1
+illustration
+plug
+ume6
+lieb
+presence
+mbf
+lieber
+approximate
+anderson
+kenzie
+synthesis
+21q22
+encodes
+incorporation
+maximum
+vivo
+constructed
+& garrels
+scale
+ursgata
+technique
+& kazazian
+division
+& braus
+cunningham
+& moens
+lander1
+ttacrtaa
+ezra
+work
+occurrence
+requirements
+majors
+maloisel
+hannett1
+regulatory2
+change
+studied
+funded
+domains
+studies
+& chapman
+`condition-expanded
+cases
+values
+believed
+dmitry
+dietze
+walonoski
+performed
+cambareri
+tilt
+chemical
+product
+& rossignol
+applications
+deviates
+spyropoulos
+meme13
+crystallinity
+sherman1*
+supplemented
+& li
+correspondence
+matches
+& tavazoie
+discuss
+drying-
+em
+variability
+shown
+botstein
+contained
+california
+support
+refs 4­6
+requirement
+blanchette
+xu
+org/
+1a
+1c
+1b
+kirkpatrick
+formaldehyde
+require
+harbison1
+crossing-
+structure2
+occupied
+note
+bailey
+modulus
+gifford3
+operate
+latek
+& stephens
+homology
+zeitlinger
+° penetrate
+transfac27
+bioinformatics 15
+bioinformatics 19
+paper
+spheroidal
+cliften
+pearlman
+pietras
+nicola
+hughes
+technology
+assigns
+//web
+& selker
+swi6
+samples
+embo
+pokholok1
+mol
+identifying
+reduces
+grants
+presentation
+& zhang
+seconds
+comparison
+discussed
+68 over-twist
+spreading
+determine
+loci
+low
+applying
+describe
+al
+1038/nature02800
+biochemistry
+mosch
+deviation
+a-
+nucleus
+included
+sonication
+referring
+albrecht
+subjected
+& wolgemuth
+jensen
+& bestor
+induce
+fall
+list
+& tycko
+matys
+learned
+method
+component
+amount
+action
+elongated
+h1t
+& brown
+constructs
+raboy
+include
+rodriguez
+suggestions
+letter `
+clarke
+odorisio
+`standard
+mcreynolds
+advice
+daves
+absence
+alter
+propose
+knuppel
+framework
+2a
+2b
+2c
+referred
+expect
+health
+timothy
+frech
+construct
+antibodies
+part
+comput
+depending
+lin
+liu
+/young/regulatory_code
+scpd
+gal4
+patterson
+position
+cin5
+windows
+axelrod
+goll
+find
+gcna1
+& ptashne
+birren
+moens
+lee
+determined
+recently
+bourc
+distinguish
+& monod
+bell
+48 under-twist
+modelling
+understand
+replaced
+pack
+mccuine
+vol
+averaging
+estep
+literature
+expectation-maximization
+3 0 end
+tec1
+shape9
+modifications
+ecology
+creation
+annu
+alignace11
+proc
+ill-defined
+pfizer
+& tompa
+bacteriol
+moss
+& burgoyne
+& hsieh
+clustering
+biol
+& brandriss
+kaneda
+zhu
+hybridized
+kellis
+approaches
+storing
+esch
+generated
+suppression
+& errede
+pritsker
+illustrated
+amplified
+& church
+excluded
+suite
+& wingender
+skn7
+chose
+fertilization
+lei
+schabtach
+convert
+addressed
+chi
+okano
+depicted
+2 september 2004
+ostertag
+payne
+mdscan12
+account
+ponzetto-zimmerman
+reynolds1
+bent
+purposes
+located
+establishment
+lines
+nancy
+houston
+meme_c
+yhp1
+aapola
+chedin
+choose
+identifies
+subset
+frequency
+measure
+ren
+waterston
+ref
+integrated
+david
+davis
+repeats
+building 300
+evans
+peters
+mbp1
+yoder
+observed
+isolation
+constrained
+karaiskakis
+viewed
+brutlag
+rinaldi1
+mechanism
+class
+takusagawa3
+& hall
+supported
+jax
+bases
+candidates
+molecules
+syst
+stress20
+acquired
+profiling
+& cooper
+identification
+ypd28
+ken
+strains
+cox4
+endrizzi
+macisaac3
+powered
+addition
+//jaxmice
+sufficient
+& lueders
+subsets
+gal80
+pixel
+° rise
+verna
+http
+frequently
+compendium
+ideker
+/fraenkel/regulatory_map
+comparisons
+adv
+& lander
+& elkan
+identical
+& fink
+trasler
+sizes
+roth
+searching
+petes
+iyer
+refs 8
+dnmt3a
+danford3
+limitations
+discover 68
+noise
+expansion
+column
+recognized
+introduced
+herbolsheimer
+utility
+construction
+converted
+int
+contribute
+eric
+compared
+detail
+chance
+3 21­29
+273
+100
+107
+1381­1389
+1991
+1990
+1993
+1994
+1997
+1996
+1999
+1998
+835­839
+191­198
+97­102
+900­903
+þ23
+9
+2822­2835
+293­298
+175
+2
+3840­3842
+1961
+533­538
+163
+335­340
+69­73
+53%
+58
+51
+66­68
+137­142
+137­144
+2749­2760
+153
+0
+1995
+113­125
+2536­2539
+89­98
+99­108
+257­261
+331­340
+116­117
+71­76
+12696­12702
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+327­334
+4330­4337
+2142
+3
+26
+65
+2*
+2369­2380
+210
+2306­2309
+2176
+501­538
+16916­16921
+60%
+1983­1993
+2807­2822
+607­611
+5 0
+6
+74%
+360­369
+363­367
+24
+25
+27
+20
+21
+22
+23
+28
+29
+7
+1078­1092
+18­28
+564­567
+939­945
+5851­5861
+4
+799­804
+001
+6097­6100
+5
+4021­4030
+2002
+2003
+2000
+2001
+2004
+689­692
+33
+31
+30
+35
+&
+6021­6030
+8
+241­254
+238
+# 0
+1
+84
+1983
+183­276
+1988
+185­190
+1571­1575
+395­404
+374­378
+268
+6965­6983
+403­415
+1987
+1984
+1989
+649­659
+318­356
+520­562

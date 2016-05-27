@@ -1,0 +1,13 @@
+yeast
+j
+proteins
+cell
+complexes
+complex
+master
+fig
+477450txt
+samorogu
+protein
+data
+nature

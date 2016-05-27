@@ -1,0 +1,533 @@
+two-dimensional
+similarity
+population probabilities
+N-acetyl N'-methylamide
+cooperative
+Assuming
+Department
+thatmany
+technique
+different structural
+dipeptide backbone
+Posterior
+sidechain prediction
+analogous
+dependent analysis
+probability Downloaded
+Informativc
+emphasized
+Experimental
+proteins-Comparison
+dExperimental
+OrnsteinRL
+positions
+integrating
+Conformational analvsis
+hypothetical
+inspection
+posterior parameters
+possibility
+neighborhood
+occurrence
+threonyl
+Post-doctoral
+consistent
+sampling distributions
+measurable
+Mathematically
+approximation
+insertion
+side-chain conformation
+estimated
+Dunhrack
+specPonder
+secondary structures
+probability distribution
+sp3-sp3 carbon-carbon
+reconstruction
+replicated
+backbone-independent interactions
+multinomial
+conformations correspond
+refinement
+syn-pentane interaction
+Published
+consideration
+acceptor
+backboneindependent
+neighboring rotameric
+site-directed mutagenesis
+Mutations
+rigorous statistical
+libraries dependent
+corresponding probabilities
+inference
+projection
+goodness-of-fit
+increased
+Flannery
+interactions responsible
+Discussion Understanding
+backbone-dependent posterior
+superpopulation parameters
+Dunbrack
+high-resolution structures
+predictions
+Residues
+guideline
+examination
+therefore
+N-acetyl-Xxx-N'methylamide
+Burholme
+theoretical
+side-chain conformations
+crudenoninformative distribution
+skewness
+acceptable
+Dependence
+statistical mechanical
+thebackboneindependent
+particular
+discreteness
+Bayesiandataanalysis
+polypeptide
+RECEIVED December
+determining
+following
+organizing principle
+statistical analysis
+calculation
+performed
+-dependent
+hydrogen
+information
+globular
+unnormalized posterior
+Weighting functions
+parameter
+Graphical analysis
+Sasisekharan
+folding-A perspective
+singular
+thermodynamic
+minimized
+residues
+Chemicalequilibria
+N-Ca-CP-Cy
+MathSoft
+horizontal
+Benedetti
+Cylbackbone
+distribution distribution
+traditional backbone-independent
+normalizing Equation
+resemble
+backbone-independent probabilities
+theP-unbranched
+canonical sp3-sp3
+Kuszewski
+independent backbone-side-chain
+-12OO-t
+interpretation
+DUNBRACK
+alternation
+minimized dihedral
+Thesyn-pentane interactions
+stability
+Eisenhaber
+unfavorable
+Biopolymers
+Copyright
+nonperiodic functions
+estimating
+Continued
+relationship Bromberg
+correspondence
+xIrotamer probabilities
+cysteinyl
+combination
+fragment
+Ca-CP-Cyl-CG
+experimentalbackbone-dependentside-chainconformaProtein
+Analysis
+predicting side-chain
+DunbrackRL
+framework
+ShibataM
+dielectric
+structural
+Noninformative
+backbone conformations
+Calculation
+Accurate
+Etchebest
+right-hand
+magnitude
+reasonable
+Dirichlet probability
+Backbone-dependent
+statistics analysis
+independent
+frequency
+different backbone
+combining
+ACCEPTED
+Swaminathan
+backbone-conformation-dependent interactions
+Ponnuswamy
+Posterior distribution
+interactions
+calcuThe
+Equation
+Wnon-per correlation
+standard
+complicated
+Shakhnovich
+Boltzmann calculation
+likelihood
+homologous
+posterior probability
+-conditional backbone-independent
+interaction
+rotameric
+backbone-conformation dependent
+Conformationalenergy analysis
+dihedral connecting
+side-chain
+proportionality
+crystallographic
+intermolecular interactions
+probability
+flipping
+frequency vibrational
+side-chain conformain
+asymmetric potential
+loglinear
+funcThere
+Conformations
+probability distributions
+assumption
+Determination
+Teukolsky
+connecting dihedrals
+compromise
+percentage
+molecular
+chainsdepend
+smoothed
+Cambridge University
+calculations
++dependent
+positionand
+continuous
+conditional backbone-independent
+predictable
+distinction
+conditional probabilities
+backbone-dependent
+BackboneDependent
+hformative
+Sommerfeldt
+sampling distribution
+Keywords
++-dependence
+OBSTRUCT
+Methionine backbone-independent
+Generally
+Philadelphia
+generalization
+Gaussian
+conjugate
+occupied
+backbone-conformation independent
+Backbonedependent
+areshown
+first-order
+correlation coefficient
+analysis Backbone-independent
+responsible
+refinement ofpenicillopepsin
+thorough
+norvalyl
+unconstrained
+accuracy
+Gronenborn
+dunbrack
+Sielecki
+nonpolar
+torsional
+theleft-hand
+self-backbone prediction
+traditional
+hindrance
+backbone-backbone
+alsoDirichlet
+aPrediction
+one-dimensional
+supposition
+Research
+minimizing
+aRotamer
+high-level
+homology
+indicator
+simulating
+parameters
+sponding probabilities
+proportion
+Biochemistry
+StrictFunct
+dependent
+expectation
+nonperiodic weighting
+dipeptide low-energy
+combinations
+abinitio
+Vetterling
+Comparative
+extended database
+substrate
+approach
+Sutcliffe McGregor
+denaturation
+side-chain prediction
+chainsin
+automatic
+hydrocarbons
+side-chain distributions
+Removing
+Hauptman
+individual
+intramolecular
+well-documented
+hydrocarbon
+probable
+CHARMM22 potential
+subsequent
+libraries
+backbone-dependent distributions
+multinomial likelihood
+methionine
+Richards
+consecutive
+dihedrals Posterior
+available
+Branching
+Rotational
+Mathsoft
+importance
+posterior distributions
+spectroscopic
+C-Ca-CP-Cy
+understanding
+experimental distributions
+Scheraga
+dependent hackhone-sidc-chain
+backbone-conformation-independent
+Statistical
+backbone-dependence
+Laboratory
+knowledge-based predictionsof
+expression
+Homology
+Ramachandran
+torSchrauber
+satisfaction
+Comparing
+resProtein
+considering
+significant improvement
+Sternberg
+addition
+Conformation
+different secondary
+California
+noninfonnative
+graphical
+thebackbone dihedrals
+completing
+Knowledge-based
+neighboring dihedrals
+~/Ziry~~~
+structure refinement
+systematic
+ShakhnovichEI
+ailoandp
+backbonedependent
+Blundell
+optimization
+Cleveland
+posteriordistribution
+situation
+accurate representation
+procedure
+distribution parametersa
+identical
+databases
+uncertainty
+orientation
+ofdipeptide
+backbone dihedral
+discrepancy
+distribution parameters
+sufficient information
+conformational analysis
+Division
+H-C-C-H dihedral
+not-so-rare
+Zimmerman
+enumeration
+classical statistics
+Sutcliffe
++-dependent probabilities
+difficult
+discrete side-chain
+Dirichlet
+Institute
+isshowninFigure
+infinite
+identity
+suitable
+secondary structure
+database
+Finkelstein
+analytical posterior
+backbone-dependent interactions
+quantitative
+chemistry
+Side-chaintorsional
+x2rotamer
+accurate
+polypepBeckerRA
+backbone conformation
+Connecting dihedrals
+backbonespatial
+yielding
+Downloaded
+previous
+Bromberg
+conformation distributions
+vibration
+'Address
+backbone-
++-dependent
+Rotamers
+Although
+relevance
+hybridization
+kcal/mol
+dihedral
+possible
+possible syn-pentane
+Cellular
+posterior distribution
+plausible conformation
+necessary
+synpentane interactions
+Sidechain
+qualitative
+side-chain placement
+specific
+informative
+Conformational analysis
+mathematical
+deviation
+Bruccoleri
+sidechain conformations
+Influence
+conditional
+pentanoic
+Application
+statistic
+Previous calculations
+protein-folding
+self-backbone side-chain
+backbone dihedrals
+wellpopulated
+syn-pentane interactions
+structural environment
+decomposition
+informationinthedatabase
+Backbone-independent
+Interaction
+andbackbonesyn-pentaneeffectswithbackbone conformation-dependent
+minimization
+probabilities correspond
+conformation
+dependent side-chain
+Side-chain
+weighting functions
+comparison
+extension
+constraint
+Hindered
+Abstract
+dependence
+simulation
+probabilities
+tribution
+probnbilir
+conformations
+computational
+functional
+appropriate
+determine
+proportional
+prediction prediction
+sequence identity
+statistics
+conformation-dependent electrostatic
+experimental probabilities
+backbone-dependent rotamerlibrary
+detectable
+Chandrasekaran
+non-neighboring dependencies
+equivalent statement
+complete
+backbone-side-chain
+conformaDunbrack
+sufficient magnitude
+experimental structure
+Dirichlet distribution
+McGregor
+backbone-independent
+hybridized
+high-energy conformation
+distribution
+UniPress
+influence
+formacromolecular
+probabilities significantly
+electrostatic interactions
+N-acetyl N'methyl
+distributions
+Low-frequency
+Francisco
+Numerical
+xo+yo+m+l
+backbone-independent posterior
+syn-pentane
+sponding
+extended backbone
+Improving
+Structure
+sidechain
+explaining
+butanoic
+calculating
+backbone
+variation
+hackhone-conformation dependent
+important
+enerMarcusE
+structure
+building
+algorithm
+original
+allosteric effector
+Schrauber
+thermodynamic functions
+determination
+Molecular Pharmacology
+resolution
+WHAT-IF

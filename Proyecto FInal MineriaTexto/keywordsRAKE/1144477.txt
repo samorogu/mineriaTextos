@@ -1,0 +1,2419 @@
+class primary association association association primary association association paralimbic association association association association association primary association association paralimbic association paralimbic association association association paralimbic association li 2
+statistical properties regions prcg sfg spl mtg pocg mfg ifg phg sog lotg motg mdfg stg op ang pcu cing cun mofg smg itg ling lofg iog
+sih sih ih sih ih sih sih sih sih sih ih ih ih sih ih 0
+dij = ðxi ­xj þ2 + ðyi ­yj þ2 + ðzi ­zj þ2
+unimodal association cortex receiving convergent inputs
+2d multislice fast spin echo scan
+crucial white matter structure providing interhemispheric communications
+highly connected association cortical hubs
+human brain anatomical network representing significant cortical thickness correlations
+regionally shortest path length li averaged
+lateral occipitotemporal gyrus [lotg]
+medial front-orbital gyrus [mofg]
+inferior temporal gyrus [itg]
+posterior parietal association cortex
+1093/cercor/bhl149 advance access publication january 4
+morphometry-based corticocortical correlates provide approximate reflection
+human corpus callosum revisited--comprehensive fiber tractography
+occipital association cortices
+regionally shortest path length li
+male schizophrenics reflect fronto-temporal dissociation
+unimodal association cortex
+3d fast field echo scan
+proc natl acad sci usa
+short association fibers
+subject gave written informed consent
+intrahemispheric association fibers
+language-related neural pathway connecting broca
+superior occipital gyrus [sog]
+interpreting cortical thickness correlations human neuroanatomy
+short paths assure effective interactions
+paralimbic cortex
+human brain project grant po1mho52176-11
+significant association
+statistically association
+human brain anatomical networks recently sparked
+regionally shortest path length averaged
+association cortex
+interhemispheric pathways connecting homologous brain areas
+diffusion tensor magnetic resonance imaging
+supplementary material
+supplementary material oxfordjournals
+recent noninvasive diffusion mri techniques
+previous human brain functional networks studies
+automatic 3d model-based neuroanatomical segmentation
+resulting networks remains significantly unaffected
+superior temporal gyrus [stg]
+paralimbic
+cortical thickness provide important connectivity information
+shortest path length li
+primary visual cortex
+evans mcconnell brain imaging centre
+supramarginal gyrus [smg]
+cortical thickness real real connectivity network
+class correlations
+reveal intrinsically structural organizational principles
+significant regional gray matter volumetric
+studies investigating functional connectivity networks
+previous human diffusion imaging studies
+inferior frontal gyrus [ifg]
+middle frontal gyrus [mfg]
+precuneus [pcu]
+exponentially truncated power-law degree distribution
+significant 15 interregional cortical thickness correlations
+gray lines represent short-range connections
+observed significant asymmetrically interhemispheric connections
+jeanne timmins costello fellowship
+black lines represent long-range connections
+middle temporal gyrus [mtg]
+previous functional brain networks studies
+human brain functional networks derived
+exponentially truncated power-law fits
+mcconnell brain imaging centre
+advanced neural net classifier
+transforming growth factor-alpha immunoreactivity
+significant cortical thickness correlations observed
+observed significant cortical thickness correlations
+previous studies brain networks human
+recent functional brain network study
+
+associations
+exponentially truncated power law
+automatic 3d intersubject registration
+investigated large-scale anatomical connection patterns
+significant 15 interregional cortical thickness connections
+superior frontal gyrus [sfg]
+human brain anatomical networks decreases
+study largescale anatomical connectivity patterns
+scale free brain functional networks
+human brain functional network derived
+human brain functional networks constructed
+automatically measured regional cortical thickness
+health research grant mop34996
+superior parietal lobe [spl]
+exponentially truncated powerlaw distribution
+partial volume effect classification
+previous cortical thickness correlation study
+functional magnetic resonance imaging
+characterize large-scale anatomical connectivity patterns
+lateral orbital frontal gyrus
+exponentially truncated power-law distributions
+primary motor
+exponentially truncated power-law distribution
+constrained laplacian-based automated segmentation
+dti tractography based parcellation
+comparing dynamic causal models
+exponentially truncated power-law form
+human brain remain unclear
+exhibits specific network behaviors
+binarized connection matrix captures
+brain functional states emerge
+functional brain states emerge
+functional brain states originate
+scale-free power-law connection degree distribution
+small-world human brain functional network
+diffusion imaging studies provide
+human brain anatomical network constructed
+left inferior occipital gyrus
+sih
+exponentially truncated power-law model
+common invasive tracer methods
+nonhuman cortical networks derived
+previous functional imaging studies
+qffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi ffi regional centroids
+left middle prefrontal gyrus
+plot showed
+
+2410 small-world anatomical networks
+individual cortical thickness maps
+functional magnetic resonance images
+representative
+
+cortical thickness map
+ih
+automated nonlinear image matching
+bilateral middle occipital gyrus
+characterizing human brain networks
+anatomical/ functional connection matrix
+significant cortical thickness correlations
+human white matter anatomy
+previous functional networks studies
+gray matter volume networks
+time echo [te] = 10 ms
+smg regions
+cortical surface reconstruction algorithms
+asymmetric cortical thickness associations
+thresholded cortical thickness correlations
+nonhuman cortical anatomical networks
+ieee trans med imaging
+binarized anatomical connection matrix
+regions showing significant correlations
+show statistically significant associations
+continuous weighted brain networks
+human occipital-callosal fiber tracts
+cortical thickness correlation maps
+white matter fibers measured
+experimentally activated fmri data
+real rand real rand
+real real primarily report
+raw cortical thickness values
+primary
+outer gray matter surfaces
+comparing spatial normalization methods
+image processing methods implemented
+human brain functional networks
+human cerebral cortical thickness
+time repetition [tr] = 18 ms
+large-scale anatomical connectivity patterns
+network topology remain unclear
+cortical thickness networks reflects
+demonstrated interregional asymmetric patterns
+recent functional connectivity studies
+cortical thickness correlation coefficients
+showed statistically significant correlations
+subsequent graph theoretical analysis
+cortical thickness correlation observed
+previous brain network studies
+human brain anatomical networks
+precentral gyrus [prcg]
+exponentially truncated power-law
+complex brain networks based
+largest component size decreases
+entire human cerebral cortex
+characteristic path length lp
+drawing general undirected graphs
+magnetic resonance imaging
+macaque white matter architecture
+human cortical anatomical network
+diffusion tensor maps
+anatomical connection matrix obtained
+edges represent undirected connections
+nodes represent brain regions
+underlying anatomical connection patterns
+human brain anatomical network
+clasp cortical thickness algorithm
+sog
+middle prefrontal gyrus
+small-world
+2416 small-world anatomical networks
+fdr thresholded correlation matrix
+cortical thickness analysis examined
+human diffusion imaging
+macaque cortical regions decreases
+shortest path length
+basic organizational principles
+truncated power-law distribution
+investigations provide important support
+euclidean distance dij
+gray matter induced
+cortical thickness measurement results
+cumulative probability degree versus
+black solid lines
+considered longrange connections shown
+magnetic resonance images
+observed significant intrahemispheric connections
+interregional statistical associations
+gray matter surfaces
+shortest path lengths
+functional brain states
+lofg
+phg
+voxel-based statistical analysis
+characteristic path length
+cortical thickness correlations
+morphometry-based connection concept
+mri acquisition mri scans
+superior longitudinal fascicle
+large-scale anatomical networks
+presegmented volumetric template
+complex weighted networks
+near-optimal organizational pattern
+human brain derived
+specific brain disorders
+lateral geniculate nucleus
+minimum path length
+smallest li
+included interregional pathways
+symmetrically interhemispheric correlations
+3d anatomical space
+human cortical networks
+dorsal auditory-language pathways
+large-scale connectivity pattern
+reveal general principles
+real rand greater
+correlation threshold values increased
+gray matter concentration
+cortical thickness correlation
+representing spatial information
+interregional anatomical connectivity
+lateral prefrontal cortex
+trends cogn sci
+interregional correlation matrix
+neural efficiency hypothesis
+comput assist tomogr
+false discovery rate
+canada h3a 2b4
+1-mm isotropic resolution
+brainstem reticular formation
+characteristic path lengths
+comparing functional connectivity
+frequency-dependent functional connectivity
+cortical thickness obtained
+numerous complex networks
+exploring complex networks
+human brain networks
+real brain networks
+hum brain mapp
+developing adult brain
+advanced database methodology
+absolute cortical thickness
+cortical thickness measurements
+significant anatomical connectivity
+complex brain networks
+functional connectivity patterns
+human brain revealed
+human brain structures
+human brain common
+real real indiscernible
+anatomical brain networks
+mapping cortical thickness
+reachability matrix recording
+anatomical connectional models
+anatomical labeling package
+correlated size variations
+van zijl pc
+black solid line
+statistical features descriptions
+short path length
+symmetric connection matrix
+thresholded connection matrix
+large-scale anatomical network
+med image anal
+drawing space approximates
+prefrontal cortex occupy
+caudodorsal prefrontal cortex
+highly local clustering
+cortical thickness network
+angular gyrus [ag]
+simple building blocks
+nontrivial topological properties
+exploring connectivity patterns
+cortical connection matrices
+brain networks included
+entire cerebral cortex
+anatomical connectivity defines
+interhemispheric cortical connections
+frontal area volumes
+bilaterally homologous regions
+human brain based
+anatomical connection matrix
+9-parameter linear transformation
+fiber tract-based atlas
+mutually trophic influences
+finer myeloarchitectonic feature
+152 unselected normal volunteers
+prior volumetric template
+phys rev lett
+inform process lett
+common experience-related plasticity
+growth factors decays
+discordant brainsurface anatomy
+data point represents
+smaller data set
+superconducting magnet system
+pajek software package
+neuroanatomical pathways measured
+mapping anatomical correlations
+brain networks shown
+human anatomical substrates
+selected threshold caused
+anatomical connectivity patterns
+superior parietal regions
+neuroanatomically interconnected systems
+mr volumetric data
+functional brain network
+resulting 2-group networks
+small-world scalar parameter
+versus anatomical distance
+anatomical connectivity pattern
+path length l9
+dr pedro rosa
+lambon ralph ma
+oxford university press
+greater local interconnectivity
+montreal neurological institute
+considered anatomically connected
+mapping brain asymmetry
+interregional anatomical connections
+supra-regional brain systems
+constructed random networks
+outer cortical surfaces
+small-world anatomical networks
+2408 small-world anatomical networks
+2414 small-world anatomical networks
+2412 small-world anatomical networks
+2418 small-world anatomical networks
+2007
+
+small-world anatomical networks
+significant connections appeared
+cerebral cortex october 2007
+connection patterns differences
+functional data obtained
+research ethics committee
+stg
+promising experimental route
+locating cortical regions
+27 separate cortical regions
+correlation threshold selections
+correlation threshold reaches
+relating functional segregation
+functional integration guarantees
+human cerebral cortex
+plos comput biol
+spatial scale analysis
+image analysis methods
+modularized information processing
+human visual system
+human visual cortex
+human brain compatible
+largest component size
+pearson correlation coefficient
+observed data points
+anatomical distance figure 2 demonstrated
+human brain network
+connection degree greater
+54 cortical areas displayed
+anatomical connectivity matrices
+symmetrically interhemispheric connections
+cortical development studies
+path length lp
+anatomically adjacent regions
+robust small-world properties
+high clustering assures
+monozygotic twins discordant
+140--160 2-mm slices
+kamada--kawai layout algorithm
+humans meet macaques
+higherorder cognitive control
+single acceptable strategy
+prominent feature shared
+brain anatomical network
+network structure shown
+cerebral cortex based
+regional parcellation schemes
+central brain regions
+involving brain regions
+adjacent areas participating
+cortical development based
+anatomical distance greater
+true anatomical connections
+occipital cortex transit
+small-world models shown
+previous optimal study
+anatomical tract-tracing method
+shorter anatomical distances
+large-scale structural organization
+co-planar stereotaxic atlas
+comparable random network
+graph theoretical analysis
+van der ka
+include surface area
+multi channel eeg
+connectivity degree distributions
+brain mapping database
+multiple cortical regions
+structural brain abnormalities
+strong local-range connections
+connectivity degree distribution
+well-connected local neighborhoods
+major fibers tracts
+anatomical network obtained
+strong correlations due
+low computational load
+estimated 3 important metrics
+matched random networks
+left plot showed
+important structural description
+correlation threshold increases
+primate cerebral cortex
+reduced small-world properties
+diffusion imaging
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 pocg
+multiple segregated sources
+pocg
+atlas-based parcellation strategy
+random rewiring procedure
+remaining 124 right-handed subjects
+conservative fdr threshold
+underlying structural substrates
+white matter
+anatomical connections obtained
+true physical distance
+long-range connections raised
+high clustering coefficient
+anterior part u-fibersc
+anterior part slfc
+right-left hemispheric connections
+small world introduction
+li
+restingstate fmri data
+short-range anatomical connections
+statistical maps
+navigation-related structural change
+basic structural elements
+cat anatomical networks
+centroid stereotaxic coordinates
+considered long-range connections
+nonhub regions separately
+native mr images
+long-range anatomical connections
+average cortical parcellation
+124 normal brains drawn
+higher structural similarity
+detailed structural description
+correlation threshold values
+3 correlation threshold values
+gray matter
+nat rev neurosci
+large network analysis
+defined anatomical connection
+clustering coefficient increases
+dr john mazziotta
+multiple comparisons correction
+log--log plot fitted
+cutoff degree kc 5 1
+cutoff degree kc 5 2
+cutoff degree kc = 2
+small-world attributes shown
+standardized talairach space
+adjacent areas stg--mtg
+simple quantitative measurement
+human magnetoencephalographic recordings
+altered smallworld properties
+related cortical regions
+macaque anatomical network
+correlation threshold rmax
+tracts connecting
+proton density images
+individual hub node
+small-world properties reported
+clustering coefficient ci
+statistical properties
+native space provided
+regions exhibited
+
+figure 1
+corpus callosum
+significant decreases
+twelve hub nodes
+unusually large number
+9 disconnected nodes including
+statistical threshold
+previous studies
+table 2 small-world properties
+cat anatomical network
+significant correlations
+statistical similarity
+cortical thickness
+statistical associations
+path length
+hubs included 9 regions
+functional networks
+cortical networks
+cutoff distance dc = 35
+exact biological nature
+imaging processing
+statistically significant
+found significant short-
+mdfg
+significant connection
+real rand 2006
+brain structure
+hub regions leads
+clustering coefficient cp
+symmetrically interhemispheric
+brain networks
+neuroanatomical pathway
+nonhuman neuroanatomy
+approximate reflection
+functional connectivity
+complex networks
+power-law form
+power analysis
+strong correlations
+anatomical networks
+recent studies
+2 recent studies
+mtg
+spl
+ifg
+t2 scan
+mfg
+functional properties
+human
+
+brain
+human brain
+real real
+scale free
+including frontal
+frontal cortex
+connection patterns
+networks properties
+color representing
+dotted lines
+anatomical connection
+path lengths
+cumulative distribution
+functional segregation
+functional anatomy
+cortical surface
+connection pattern
+lingual gyrus
+tr = 3300 ms
+morphometry-based approach
+previous section
+q-ball imaging
+connectivity patterns
+anatomical connectivity
+connection map
+statistical significance
+1000 random networks
+random networks
+connectivity distributions
+correlation matrix
+homologous regions
+cortical parcellation
+effective integration
+field strength
+fiber tracts
+theoretical neuroanatomy
+component size
+data acquisition
+automatic correction
+small-world networks
+functional network
+anatomical properties
+human neuroanatomy
+human cortex
+interhemispheric connections
+interhemispheric regions
+connectivity analysis
+resulting networks
+largest component
+occipital regions
+smallworld networks
+te = 35 ms
+te = 120 ms
+brain mapping
+correlation analysis
+regional centroids
+connectivity data
+real time
+relating anatomical
+anatomical abnormalities
+anatomical matrices
+parietal cortex
+significant connections
+cerebral cortex
+black arrows
+matrix shown
+biol sci
+significant levels
+concentration correlations
+visual cortex
+axonal length
+real network
+correlation threshold
+brain network
+functional integration
+functional asymmetries
+functional abnormality
+functional neuroimaging
+cortical intercorrelations
+cortical development
+detailed patterns
+posterior cortex
+correlation methods
+computational models
+previous results
+regional level
+observed differences
+complex network
+path exists
+biological networks
+protein networks
+cortical areas
+network connectivity
+connectivity network
+outer surfaces
+anatomical network
+single component
+short fibers
+structural substrates
+hub nodes identified
+functional organization
+small-world properties
+clustering coefficients
+140--160 slices
+automatically extracted
+continuous weighting
+multiple sources
+general principle
+xj
+xi
+yj
+prcg
+monozygotic twins
+u-fibersc slfc
+nonlinear deformations
+yi
+zj
+recent electroencephalogram
+tract-tracing data
+log--log plot
+permissions@oxfordjournals
+zi
+automatic ``pipeline
+fully automatic
+n3 algorithms
+fiber tracking
+common computations
+anatomical space
+significant short-
+small-world analysis
+posterior part
+higher threshold
+brain regions
+network properties
+degree distributions
+``human connectome
+human connectome
+bilingual brain
+mr volume
+scale-free distribution
+smallworld properties
+anterior part
+degree distribution
+anatomical distance
+cortical vertices
+cortical morphology
+undirected graph
+atlas-based parcellation
+parcellation schemes
+undirected graphs
+anatomical connections
+structural plasticity
+structural description
+native images
+labeled matrix
+spatial scales
+scale regimen
+sparse matrix
+spatial constraints
+anatomical boundaries
+anatomical distances
+anatomical label
+anatomical dysconnectivity
+random network
+correlation thresholds
+significantly affect
+supplementary motor
+significantly decreased
+significantly enhancing
+van erp
+important topic
+important implications
+important support
+clustering coefficient
+computational analysis
+longrange connections
+t1 image
+native space
+distribution model
+mr images
+macaque brain
+local clustering
+future studies
+small-world network
+recent study
+practicable strategy
+buchsbaum ms
+intersecting fibers
+laplacian map
+nerve fibers
+commissural fibers
+global properties
+computational neuroanatomy
+thresholding correlations
+random graphs
+real lp = 3
+mri data
+sfg
+language processing
+processing approaches
+current analysis
+resulting images
+integrating information
+resulting network
+automated 3-
+experimental network
+small-world features
+small-world attributes
+short-range connections
+connected regions
+mri database
+functional coexistence
+distance shown
+tissue volume
+proton density
+straight line
+multiple comparisons
+reference system
+functionally segregated
+probabilistic atlas
+multiple sclerosis
+mri-derived measurements
+reduced probabilities
+automatically parcellate
+psychol med
+normal development
+nonparametric method
+morphological feature
+morphological measurements
+pajek program
+morphometric feature
+optimal design
+major subdivisions
+manual measurements
+genetic influences
+nervous system
+fully connected
+prominent difference
+scale-free network
+cereb cortex
+sensorymotor cortex
+stereotaxic space
+average connectivity
+undirected edges
+random errors
+142 mri scans
+lower threshold
+definitive threshold
+fdr threshold
+resulting graphs
+absolute values
+real larger
+real removed
+brain complexity
+frontal-parietal systems
+ensure short
+philos trans
+biological systems
+long-range connections
+small-world model
+small-world architecture
+small-world topologies
+small-world property
+underlying architecture
+underlying architectures
+hemispheric regions
+2 hemispheric regions
+chialvo dr
+3801 university street
+physical constraints
+mcgill university
+neill ma
+small world
+largely compatible
+local specialization
+striking similarity
+weinberger dr
+local cluster
+single subject
+cohesive neighborhoods
+physical principle
+local circuitry
+proc
+analysis due
+structural underpinnings
+structural covariance
+structural asymmetries
+network motifs
+network architectures
+stereotaxic coordinates
+124 brains included
+euclidean distance
+brodmann area 44
+eeg data
+large overlap
+primate species
+important issue
+supplementary table
+exponential cutoff
+nonhub regions
+extrapersonal space
+bilateral uncus
+bilateral cuneus
+bilateral insula
+degree hki57
+degree hki55
+degree hki59
+normal brains
+simple definition
+morphological features
+2 main features
+small-word attributes
+high complexity
+average cortex
+computational simulation
+anatomical relationship
+neurosci lett
+largest ki
+nat neurosci
+mri phantom
+hub regions
+detailed investigation
+statistical
+table 1 included
+geometric distance
+linked distance
+reported structural
+future investigations
+9 disconnected nodes
+45 connected nodes
+existing connections
+weaker connections
+short-range/local connections
+connections required
+afferent connections
+connections forming
+limbic regions
+intercorrelated regions
+nonhomologous regions
+nagae-poetscher lm
+burns gapc
+pickard jd
+driving forces
+peters tm
+systematic exploration
+phillips gyroscan 1
+unadjusted estimate
+mcguire pk
+challenging scheme
+standertskjold-nordenstam cg
+pruessner jc
+scaling regimen
+highest occurrence
+rights reserved
+rex de
+subject populations
+macroscale description
+intellectual ability
+rapid transfer
+taxi drivers
+wandell ba
+good match
+crinion jt
+torrey ef
+remarkably affect
+changed slightly
+matthews pm
+scanner upgrade
+attack tolerance
+optic tract
+casanova mf
+teipel sj
+neighbors divided
+model characterizes
+killam foundation
+fitted curve
+friston kj
+lynch jc
+jurgen germann
+mesoscale descriptions
+burns ga
+schizophr res
+voxel label
+williams & wilkins
+poutanen vp
+sorensen ag
+khachaturian mh
+young mp
+symmetrical fashion
+ellison zr
+bilder rm
+neuronal development
+cannon td
+miller mi
+ccb slfc
+alexander dc
+mechanical factors
+voxel level
+routing efficiency
+prescott tj
+rightmost column
+potentially influenced
+canadian institutes
+command functions
+resting state
+evanc ac
+gadian dg
+focal decline
+existed predominantly
+diffusible signaling
+quantitative cross-validation
+standard deviation 4
+valuable comments
+ekstrom lb
+descending order
+neurophysiological architecture
+operator-independent procedures
+2407--2419 doi
+motor task
+linear regression
+soc lond
+frackowiak rs
+paper provided
+ages ranged
+howard rj
+simpler on--
+tissue density
+scannell jw
+simulation approaches
+intensity nonuniformity
+fdr procedure
+brewer aa
+ascending order
+le gg
+holmes cj
+good cd
+pandya dn
+cerebrospinal fluid
+szeszko pr
+edelman gm
+targeted attacks
+frith cd
+averaged
+scanning protocols
+hillis ae
+individually eliminated
+upright triangles
+exponential decay
+support render
+interindividual variability
+wisco jj
+small worldness
+biologically realistic
+international consortium
+global integration
+providing
+maximum range
+lazar na
+increased rapidly
+mechanistic modeling
+christison gw
+neuronal elements
+murray rm
+nonuniformity artifacts
+kennedy dn
+price cj
+cecchi ga
+clinical trials
+flip angle = 30°
+si/ pub/networks/pajek/
+brammer mj
+apkarian av
+incremental interval
+neuroimaging weighs
+halpern sd
+cerebral hemispheres
+talairach space
+important finding
+evans@mcgill
+evans ac
+estimated exponent
+estimated parameters
+small-world behavior
+underlying processes
+methods
+subjects
+network nodes
+kim iy
+kim js
+kim si
+applied atlas
+lee jm
+icbm database
+lee jk
+age--gender interaction
+methodological issues
+gender--age interaction
+representing
+l9 denote
+ci denote
+interest methods
+25and lp = 2
+hubs regions
+nonhub nodes
+huge hubs
+hubs attacks
+present investigation
+degree ki
+population simulation
+dtmri study
+population sample
+arcuate fasciculus
+mid-sagittal morphology
+dr alan
+validation study
+current study
+narr kl
+initial study
+woodruff pw
+low sparsity
+figure 1a
+figure shows
+figure 3b
+figure 3c
+mri
+
+yong
+consistently demonstrated
+hub nodes
+present study
+derived
+thompson pm
+stephan ke
+thompson aj
+experimental conditions
+recently applied
+vivo mri
+table 3 regions
+carpenter mb
+constitute shortcuts
+key issue
+sled jg
+sagittal view
+suddath rl
+collective dynamics
+approximately equivalent
+limb movement
+mountcastle vb
+maguire ea
+tootell rb
+watkins ke
+closer proximate
+discussion section
+unknown handedness
+collins dl
+measuring 2 aspects
+dougherty rf
+results provided
+toga aw
+chen ji
+eventually influence
+slight change
+woods rp
+tuch ds
+vital support
+lenroot rk
+penny wd
+parker gj
+corrected images
+amaral la
+wright ic
+greenstein dk
+made cautiously
+wang yp
+wheeler-kingshott ca
+coleman mr
+lp denote
+subjects scanned
+= lp =lp ~1
+magnitude ratio
+zijdenbos ap
+worsley kj
+unimodal
+segmentation
+mitelman sa
+direct evidence
+tremendous impact
+equally resilient
+smallest number
+red circles
+andrews tj
+evolutionary discrepancies
+small number
+provide
+54 3 53/2 = 1431 pairs
+lerch jp
+detected 104 pairs
+macaque monkey
+regions found
+shaw wp
+address correspondence
+inferring knowledge
+structure
+jones bf
+stam cj
+significant
+correlations
+genovese cr
+nonuniformity corrected
+poor understanding
+current findings
+integrative function
+pathways
+thickness
+functional
+strogatz sh
+episode schizophrenia
+eguiluz vm
+thresholding issues
+watts dj
+results demonstrated
+networks
+cingulate region
+hilgetag cc
+zwi jd
+1 mm overlap
+vertices defined
+references
+achard
+barabasi al
+humphries md
+thresholded
+investigated
+comparing
+male
+connection
+human
+real
+brain
+studies
+2 studies
+considered
+patterns
+residuals removed
+results demonstrate
+connectivity
+parietal
+matrix
+anatomical
+subjects applied
+size
+finding nodes
+constructed
+based
+distribution
+disease identified
+plot
+= cp =cp >1
+properties
+largest
+observed
+left
+=kc
+2 surfaces
+analysis
+obtained
+information
+med
+anatomy
+report
+short-range
+reveal
+medial
+data
+measurements
+reflects
+outer
+temporal
+connected
+clasp
+lobe
+surface
+volume
+cortex
+threshold
+shown
+mapping
+time
+short
+methods
+`small-world
+small-world
+underlying
+long-range
+characterize
+parcellation
+montreal
+scans
+local
+increases
+structural
+images
+network
+showed
+part
+measured
+resulting
+associations
+form
+investigations
+research
+large
+``primate
+area 5
+measurement
+cutoff
+space
+centroids
+scale-free
+bilateral
+recently
+graph
+degree æ
+degree
+graphs
+mri
+hub
+distance
+connections
+2 regions
+regions
+þ~ka­1
+biological
+fitted
+distances
+architecture
+subject
+procedure
+quantitative
+support
+approximate
+magnetoencephalographic
+leads
+change
+coordinates
+recordings
+altered
+31 l9
+intrahemispheric
+stg--mtg
+model
+provided
+ag
+small
+prior
+transit
+concentration
+integration
+fdr
+elements
+algorithm
+control
+matched
+humans
+00 ci 0
+efficiency
+comparisons
+density
+increased
+=dc
+development
+factors
+values
+present
+2 areas
+54 areas
+areas
+evans
+evans 2005
+estimated
+organization
+kim
+fmri
+future
+edges
+lee
+macaque [~15%
+macaque
+reported
+investigation
+due
+3-
+eeg
+issues
+interaction
+short-
+talairach
+topology
+denote
+55 lp 3
+lp = 3
+lp
+hubs
+< rmax
+study
+40 962 vertices
+mazziotta
+woodruff
+124 brains
+morphology
+rmax
+brains
+population
+average
+narr
+arcuate
+related
+10 2411
+
+figure 3
+figure 2
+figure 3
+figure 4
+figure 5
+figure 6
+figure 7
+hilgetag
+hilgetag 2004
+neurosci
+demonstrated
+thompson
+thompson 2003
+stephan
+nodes [
+nodes
+woods
+chen
+wang
+significance
+complexity
+yong
+t2
+approximately
+wright
+macroscale
+removed
+parker
+maguire
+amaral
+suddath
+discussion
+vital
+parcellate
+tuch
+humphries
+ccb
+ca
+measuring
+sled
+t1
+movement
+issue
+definition
+ki
+md
+toga
+behavior
+11 ki 9
+10 2409
+
+results
+influence
+greenstein
+results
+dynamics
+collins
+dougherty
+tootell
+mountcastle
+constitute
+carpenter 1995
+monkey
+unknown
+processes
+view
+closer
+mesoscale
+watkins
+examined
+regression
+permissions
+lenroot
+slight
+larger
+made
+penny
+10 2413
+
+table 1
+table 3
+table 2
+table 1
+subjects
+4 subjects
+14 subjects
+28 subjects
+10 subjects
+cc
+identified
+zijdenbos
+vivo
+thresholding
+cat
+ratio
+icbm
+worsley
+cat [~33%
+defined
+resilient
+discrepancies
+0 < cp < 1
+alan
+interest
+applied
+evidence
+andrews
+cp = 0
+cp = 1
+probability
+number
+relationship
+impact
+conditions
+mitelman
+red
+54 90 45 71 52 cp 0
+2 conditions
+coexistence
+cp
+residuals
+demonstrate
+lerch
+15 pairs
+pairs
+104 pairs
+nature
+jones
+address
+stam 2004
+found
+shaw
+disease
+knowledge
+jones 1993
+stam
+node
+genovese
+findings
+understanding
+05 corrected
+corrected
+hemispheres
+49 corrected
+function
+strogatz 2001
+strogatz 1998
+finding
+strogatz
+eguiluz
+schizophrenia
+watts
+31% sparsity
+15% sparsity
+sparsity
+region
+coleman
+zwi
+zwi 2004
+~35 mm
+[ 75 mm
+2 mm
+< 75 mm
+75 mm
+mm
+> 75 mm
+achard
+al
+limited
+dysplasia
+sfg--mfg
+ventral
+subcomponents
+summarized
+enhance
+consistent
+340--356
+blue
+established
+children
+sfg--mdfg
+meg
+simultaneously
+kamada
+error
+represented
+adolescents
+311--320
+explained
+hospital
+3981--3989
+kabani
+robbins
+training
+involve
+validated
+aging
+neurocomputing
+modulation
+92--99
+87--97
+meaningful
+green
+figs
+operations
+interpretation
+left-handedness
+kamper
+00 c9
+//vlado
+journals
+thieme
+fig
+damages
+prevented
+effects
+weng
+reasonable
+sevy
+hippocampi
+854--869
+specificity
+extract
+ciccarelli
+æ < logð
+barbas 2006
+zilles
+listed
+lprandom = 2
+albert
+preparation
+classes
+145--162
+parcellated
+assessed
+127--141
+calculated
+zarei
+labels
+implying
+keywords
+1157--1172
+busa
+pastor-satorras
+forghani
+frahm 2006
+753--770
+result
+patients
+//www
+63--71
+63--72
+terms
+extent
+suggested
+intra-
+estimable
+contribution
+503--511
+quinn
+midbody
+backwardness
+extraction
+expected
+slf
+189--199
+chklovskii
+46/104
+perform
+connectedness
+evaluate
+hand
+824--827
+neurophysiol
+materials
+proposed
+hofer
+han
+macdonald
+transformed
+whitesides
+insensitive
+background
+comparability
+5-
+giedd
+789--794
+7--15
+bold
+elucidate
+pajek--program
+splenium
+substituted
+abbreviations
+shihabuddin
+gogtay
+huttunen
+resulted
+head
+failure
+prevents
+871--908
+complications
+neuroimage
+computing
+zang
+generally
+role
+test
+neuroscience
+1257--1266
+lonnqvist
+scala
+n9
+menon
+/
+milo
+involved
+finally
+311--312
+zhang
+11149--11152
+presented
+jovicich
+3747--3752
+micheloyannis
+tononi 2002
+work
+sign
+batagelj
+ashburner
+evolved
+cercor
+groups
+problematic
+apparent
+440--442
+validity
+olive
+sneppen
+social
+1280--1291
+performed
+allowed
+macacc
+salat
+date
+00
+
+note
+268--276
+stability
+argued
+910--913
+interesting
+window
+avis
+evolution
+half
+increase
+53 female
+suggesting
+squares
+correct
+busch
+killiany
+possibility
+dependencies
+org/
+18/104
+1c
+1b
+1e
+1d
+1f
+fmf
+nonhubs
+caviness
+accordance
+acknowledged
+locations
+offer
+note
+hacklander
+registered
+importantly
+pair
+hemisphere
+typically
+itzkovitz
+poetscher
+mapped
+sfg--prcg
+declared
+stanley
+jeong
+concern
+registering
+review
+proximities
+shen-orr
+parent
+jr
+schwarzbauer
+steinmetz
+org
+
+2006
+characterization
+capable
+combined
+4398--4403
+johansen-berg
+e42
+intimately
+1159--1186
+erimaki
+pertain
+planas
+characteristics
+bagh
+366--378
+913--920
+components
+ccd
+cca
+kawai
+1332--1342
+104/1431
+petrides 2005
+2-sample
+baliki
+gunduz-bruce
+confined
+paralimibic
+georgopoulos
+classified
+sequences
+kaiser
+architectonic
+visualize
+problems
+manufacturer
+comparison
+t2weighted
+lacquaniti
+practical
+sporns
+clasen
+40/104
+determine
+guigon
+7350--7355
+age 24
+log
+removing
+bianchi
+wernicke
+``seed
+elimination
+8303--8310
+kawai 1989
+taylor
+examine
+reliability
+vertex
+caminiti
+kaprio
+depends
+suspected
+follow
+378--382
+preserves
+tsirka
+belonging
+difficult
+cocomac
+anat
+evaluation
+draganski
+list
+hampel
+petrides
+revealing
+colored
+vespignani
+published
+collation
+premotor
+mori
+salvador
+science
+compare
+676--679
+impacts
+robinson
+2859--2868
+jiang
+e22
+tsao
+developed
+existence
+avenue
+neurolinguistics
+return
+noppeney
+propose
+speculate
+58--60
+2c
+tononi
+characterized
+referred
+bammer
+reduce
+1253--1258
+connect
+937--946
+denotes
+30
+
+note
+25--28
+alzheimer
+conducted
+869--879
+linking
+47--57
+purves
+leading
+construct
+hundred
+russouw
+alcantara
+barthelemy
+uni-lj
+951--952
+rushe
+approved
+czanner
+ferraina
+authors
+distributed
+condom
+708--719
+kashtan
+ferrer
+remove
+suckling
+vanduffel
+c9
+cprandom = 0
+close
+210--221
+t1-weighted
+656--666
+khaledy
+gurney
+109--110
+alon
+ben-shachar
+whitcher
+baltimore
+smith
+bullmore
+corresponds
+breakspear
+partly
+modelling
+understand
+assigning
+engl
+neurons
+993--1003
+870--878
+conflict
+covary
+comprehensive
+blanco
+segmented
+schuierer
+exclusively
+flowchart
+morphometry
+lacking
+frahm
+wakana
+emergence
+311--323
+individuals
+989--994
+essential
+doherty
+economic
+examples
+10 2417
+
+conclusion
+sharma
+barbas
+391--409
+johnsrude
+resilience
+u-fibers
+question
+gaser
+opens
+opposed
+link
+author 2007
+mrvar
+91--110
+kotter
+covariation
+application
+brickman
+generated
+neuropathology
+age
+bozkurt
+makris
+graves
+excluded
+decomposition
+continues
+nichols
+categories
+frontal-temporal
+gender
+notes
+noted
+concluded
+luzzi
+reaching
+body
+explore
+focused
+genu
+composed
+190--208
+herzog
+addressed
+decrease
+rabe-hesketh
+297--302
+heteromodal
+fulfill
+dropped
+crick
+pachou
+located
+singular
+spl--prcg
+element
+wytik
+781--795
+28--38
+arrangement
+chosen
+clusters
+defining
+sakata
+fourth
+lateralization
+maslov
+sneppen 2002
+111--126
+crossing
+frequency
+868--877
+measure
+820/
+radiology
+york
+likelihood
+sparser
+manuscript
+mrvar 1998
+mcinerney
+salient
+572--584
+neuroplasticity
+bogdahn
+suitability
+nolte
+scheltens
+995--1001
+mechanism
+instance
+singh
+lancaster
+77--87
+195--205
+acuna
+fact
+39 years
+selection
+supported
+visualized
+cliquishness
+474--484
+tournoux 1988
+employed
+means
+words
+fox
+qc
+acquired
+2d--
+interacting
+carulla
+difficulties
+email
+spl--pocg
+tuning
+importance
+barrat
+figures
+huang
+tournoux
+heredity
+addition
+127--135
+coherency
+appearance
+192--205
+neuron
+shuriquie
+163--173
+http
+273--277
+modeled
+5033--5037
+neuroglia
+rapoport
+neuroinformatics
+paus
+vourkas
+mechelli
+pacheco
+helpful
+topography
+ad-dab
+00 n9 43
+demonstrates
+avoid
+418--425
+e-mail
+limitations
+noise
+neelin
+pike
+microscale
+introduced
+previously
+37--48
+assess
+rostrum
+375--380
+repeated
+construction
+cells
+1293--1322
+low-frequency
+``core
+generating
+multimodal
+lobes
+compared
+nonetheless
+coexpression
+details
+180--194
+additionally
+746/
+4f
+4d
+4e
+simpson
+4a
+296
+22 3
+101
+99
+91
+92
+94
+97
+1990
+1993
+1995
+1994
+1997
+1999
+1998
+69 0
+16 7
+2 41
+406
+06 3
+63 3
+63 2
+393
+60 3
+60 0
+­
+2
+25 4
+25 0
+18 3
+18 1
+> 1
+17 3
+2 53
+16
+65 0
+04
+05
+08
+09
+361
+50 3 10­5
+05 0
+05 3
+05 2
+62 0
+62 2
+102
+38 1
+24 0
+1975
+17 0
+8 39
+5 3
+76 3 10à10
+50
+53
+5%
+10 3
+209
+427
+= 54
+04 2
+04 3
+04 7
+0
+55 0
+27 0
+ð
+431
+þ = 3
+9 14
+95 4
+50 44
+1
+03 4
+356
+26 0
+17 3 10à37
+11
+10
+13
+12
+15
+14
+17
+18
+0 3 10à05
+46 0
+12 1
+]
+96 1
+02 2
+02 3
+ó
+3
+86 2
+50 3
+50 2
+50 0
+50 7
+50 4
+65
+66
+69
+402
+< 1
+50 6
+1 39
+5 18
+45 0
+45 3
+4
+13 3
+32 2
+6 84
+33 0
+­1
+51 2
+51 0
+6 69
+85 1
+78 6
+2001
+5
+71 3 70
+9 26
+0 3 10­05
+50 10
+5 6
+5 0
+5 1
+6
+273
+30 0
+00 4
+00 5
+00 6
+00 0
+00 1
+00 2
+00 3
+00 8
+52 0
+84 0
+59 2
+24
+25
+26
+27
+21
+22
+23
+2%
+4 41
+78 2
+7
+= ­4
+36 2
+25 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 10à13 10à10 10à10 10à09 10à09 10à08 10à07 10à07 10à07 10à07 10à06 10à06 10à06 10à06 10à06 79
+91 1
+7%
+~3
+~7
+76
+70
+31 0
+53 0
+53 2
+52 3 51
+8
+98 3
+31%
+41 3
+þ~
+79 2
+19 2
+67 0
+30
+37 2
+70 1
+9
+005
+= 8
+4 105
+92 1
+92 3
+29 3
+29 0
+73 2
+82 4
+82 2
+71
+40 0
+49 0
+49 2
+2002
+2003
+2000
+2006
+2007
+2004
+2005
+97 3
+440
+38
+33
+32
+31
+37
+36
+35
+= 6
+= 4
+= 2
+= 0
+= 1
+3%
+331
+21 3
+00 43
+00 44
+018102
+47 2
+47 0
+æ
+0 <
+6 31
+82
+81
+410
+76 2
+298
+1431
+09 1
+03 3
+80 2
+757
+322
+=
+20 0
+20 6
+01
+10 2415
+10 2419
+99]
+360
+32 0
+58 0
+67 3 10­5
+08 1
+08 3
+355
+61 0
+5 87
+6 19
+15 1
+79 5
+1988
+1989
+80
+86
+44
+43
+07 3

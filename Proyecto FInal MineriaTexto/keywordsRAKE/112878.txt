@@ -1,0 +1,1580 @@
+chr14
+
+chr2
+bcl11a zfhx1b nr4a2 tbr1 fign hat1/dlx1/dlx2 sp3/ptd004 hoxd
+
+chr8
+
+chr15
+meis2 map2k5
+
+st18 bhlhb5
+
+zfpm2
+
+chr9
+dmrt1/dmrt3 c9orf39 elavl2 flj22611 tle4 hnrpk mnab pbx3
+
+chr16
+oaz irx3/irx5/irx6 nfat5 atbf1
+
+chr3
+
+chr17
+
+satb1
+
+foxp1
+
+znf288 sox14 zic4 shox2 evi1
+
+chr10
+
+chr18
+
+chr4
+drg11 c10orf11 lrba pax2 flj13188 bub3 ebf3 ehzf tcf4 taf4b znf407 brunol4
+
+lzk1/lhx1/aatf hoxb sfrs1
+
+chr11 chr5
+lmo1 pax6 sox6 kpnb2 orthopedia-ortholog mef2c nr2f1 ranbp17
+
+chr19
+kiaa1474
+
+chr20
+
+chr12
+hoxc
+
+chr21 chrx
+
+chr22
+
+chry
+
+chr6
+
+chr13
+
+tfap2b/pkhd1
+
+pou3f2
+
+dach
+
+pola/arx
+
+ddx3x
+
+nlgn3
+
+gria3/stag2
+
+base position chromosome band
+
+24000000 pdk3 xp22
+2008
+
+pou3f1 flj10597 faf1 castor-ortholog autl1
+
+lmo4 ptbp2
+
+pbx1
+
+akt3/znf238 hnrpu
+
+sp4/sp8 tra2a hoxa
+
+auts2
+
+dlx6 foxp2 hic/tfec
+
+nova1 foxg1b coch npas3 garnl1/garnl2 mipol1 prpf39
+
+vrk1
+
+reports
+flank intergenic ultraconserved elements
+dna binding homeobox rna binding type ii genes rna splicing rna rec
+bcl11a
+sfrs1
+evi1
+pbx3
+hnrpk
+aforementioned pola/arx elements
+mouse heat shock protein 69 minimal promoter coupled
+pola/arx elements
+phosphoinositide-3 phosphate-dependent kinase activities designated pdk1
+pax6
+dach
+hoxd
+573-bp ultraconserved self-regulated alternatively-spliced utr element
+national human genome research institute grant 1p41hg02371
+6medical research council epidemiology unit
+genes rna splicing rna rec
+shorter highly conserved rna hairpin structure
+national cancer institute contract 22xs013a
+dna polymerase alpha catalytic subunit
+type ii genes
+rna binding type
+genes show significant functional
+chr1
+
+enrichment
+thin blue tick mark extending
+detectable rna secondary structure preferences
+cultured cells disrupted insulin signaling
+human chromosome 21 found
+serine/ threonine kinase gene akt2
+38 single base
+single base
+100 base pairs
+200 base pairs
+chimp base
+exonic ultraconserved elements form pre-mrna structures
+neutral substitution rate analysis involving chicken
+highly elevated negative selection rate
+black tick mark centered
+maternal grandmother developed diabetes mellitus
+polypyrimidine tract­ binding protein
+chromosome
+exhibit clear mrna/ est evidence
+dna binding homeobox 0 10 20 30 40 50 60 70 observed expected
+public health service grants
+7th annual international conference
+wellcome prize traveling fellowship
+2howard hughes medical institute
+howard hughes medical institute
+9wellcome trust sanger institute
+green tick mark extending
+3arc special research centre
+tra2a
+shows autosomal dominant inheritance
+hnrpu
+ultraconserved elements represent chordate innovations
+monogenic examples offer insight
+exhibit extremely high levels
+highly conserved noncoding human dna
+multiple species contained significant numbers
+wellcome trust genome campus
+cold spring harbor symp
+slowest neutral substitution rate
+functionally equivalent positions relative
+accepted 27 april 2004 published online 6
+purple boxes represent centromeres
+accepted 14 april 2004
+
+ultraconserved elements
+arginine/serine-rich splicing factor sfrs3
+matching expressed sequence tag
+important rna secondary structure
+mating type gene mata2
+coding region steadily rises
+central nervous system development
+rna recognition motif rrm
+7-kb intergenic region
+human genome sequencing consortium
+2008
+
+reports
+exonic elements
+org/cgi/content/full/304/5675/1321 supporting online material
+20fold reduced mutation rates
+highly reduced mutation rate
+noncoding ultraconserved elements relative
+11 pola pcyt1b arx
+
+24500000 xp21
+human genome gill bejerano
+human genome
+gill bejerano
+pola ultraconserved elements discussed
+rat genome sequencing consortium
+supporting online material www
+org/cgi/content/full/1098119/dc1 som text figs
+explicitly studied ultraconserved element
+cell leukemia transcription factor 3
+call type ii genes
+possibly exonic ultraconserved elements
+human type 2 diabetes mellitus
+human protein-coding gene [including
+nih grant ai056094-01
+dna binding motifs
+rna secondary structure
+found specific noncoding segments
+form rna structures
+protein kinase akt2/pkb
+australian research council
+rna recognition motif
+statistically significant structure
+developed diabetes mellitus
+include alternatively spliced exons
+intergenic elements
+exhibits rna editing
+neutral substitution rates
+interpro annotated human genes
+strangeways research laboratory
+ultraconserved elements exhibit
+type ii genes
+2008
+
+reports
+ments
+maintain protein coding
+tale/pbx homeobox family
+312bp ultraconserved segment
+rna processing control
+protein/translated dna matches
+genome sequencing consortia
+online issn 1095-9203
+longest pola intronic elements
+shorter ultraconserved elements
+authors contributed equally
+chester beatty laboratories
+anciently derived rrnas
+partially traced back
+evolved fairly rapidly
+maximally con1 department
+100-bp exact match
+6 huw alban davies
+print issn 0036-8075
+org/cgi/content/full/304/5675/1318/ dc1 materials
+phred quality score
+20 times smaller chance
+highly regulated editing
+produced ultraconserved elements
+vertebrate ultraconserved elements
+rna binding
+arx homeobox gene
+screening genomic dna
+neutral mutation rates
+global control loci
+exonic ultraconserved elements
+validated singlenucleotide polymorphisms
+offering important clues
+highly conserved matches
+reduced mutation rates
+severe insulin resistance
+akt2 kinase
+
+www
+normal fasting glucose
+cambridge cb1 8rn
+kent da2 8da
+sequence similarity search
+x-linked mendelian diseases
+recent global clustering
+darenth wood road
+cambridge cb2 2qq
+signaling pathways downstream
+cambridge cb10 1sa
+length criteria defining
+alternative splicing overlapping
+alternative splicing events
+ultraconserved element extends
+harboring exonic elements
+roughly 20 times slower
+california santa cruz
+5000 highly conserved elements
+ptbp2 element
+shorter conserved elements
+nucleic acids res
+flanking exons abut
+including high-resolution figures
+ultraconserved intronic elements
+human genome aligns
+human genome organization
+involving rna
+call ultraconserved elements
+non-exonic ultraconserved elements
+bind splicing factors
+coding region overlapped
+overlapped coding exons
+london sw3 6jb
+computational molecular biology
+related observations made
+queensland state government
+consecutive mutually exclusive
+apparently unrelated sequence
+7darent valley hospital
+highly conserved intronic
+genes encoding well-
+similar-sized conserved region
+negative strand element
+species remains open
+dna binding
+possibly exonic element
+strong negative selection
+extreme negative selection
+approximately 50-kb intron
+motif transcription reg
+wild-type akt2 sequence
+303-kb pola gene
+1500 caucasian control subjects
+found significant divergence
+merge alignment blocks
+alternatively spliced exon
+20 times fewer mutations
+york avenue nw
+long genomic distances
+early developmental tasks
+drosophila dachshund gene
+gene family co-located
+protein-nucleic acid interactions
+reproducibly drive expression
+glutamate receptor gria3
+yeast shows 100% conservation
+map selected introns
+conserved sequence overlapping
+rna splicing
+2008
+
+reports
+16
+2008
+
+reports
+obtained 89 local clusters
+intergenic
+partly exonic element
+past 300 million years
+expected 119 validated sites
+rna structure
+28s rrna genes
+annotated human genes
+hundred nonexonic elements
+cancer research
+early developmental genes
+molecular function defined
+human genome appears
+human coding regions
+roughly 20-fold reduction
+article cites 33 articles
+metabolic end points
+3
+
+ultra-conserved elements
+
+fig
+s3 tables s1
+flanking intronic regions
+2004 vol 304 science www
+national center
+small coding exons
+ii genes
+secondary structure
+r274 forms part
+maternal grandmother
+molecular interactions involved
+ucsc genome browser
+rna processing
+nearby genes involved
+org science vol 304 28
+protein coding
+homeobox domain
+highly expressed
+ptbp2
+minimal region
+ribosomal rna
+rat rrna genes
+diabetes mellitus
+alternatively spliced
+flanking dna
+alternative splicing
+481 ultraconserved elements
+ultraconserved elements
+shorter boxes
+genomic dna
+mutant kinase
+ultraconserved region
+shorter elements
+noncoding elements
+highly conserved
+insulin signaling
+catalytic loop
+sequence motif
+ultraconserved segments
+functionally conserved
+ultraconserved element
+ultraconserved element [
+exonic elements
+111 exonic elements
+large relative
+extremely constraining
+santa cruz
+ultraconserved portions
+partly exonic
+supporting text
+alternate splicing
+multiple functions
+substitution predicted
+dna level
+human genome
+online version
+insulin receptor
+folded structure
+ultraconserved set
+gene encoding
+conserved elements
+104 unrelated subjects
+minimal energy
+published weekly
+metabolic diseases
+767 bases exhibit
+coding exons
+akt signaling
+central importance
+monogenic forms
+maternal uncle
+overlapping exons
+conserved region
+possibly
+
+www
+negative selection
+clear mrna
+neutral regions
+neutral evolution
+non-exonic elements
+developmental genes
+transcriptional control
+human element
+genome res
+dna sequences
+chordate evolution
+editing machinery
+blue bars
+tall boxes
+org/cgi/content/full/304/5675/1321#otherarticles
+insulin sensitivity
+elements play
+elements aligning
+genetic elements
+longest elements
+156 annotated genes
+genes annotated
+diabetes due
+arx gene
+gene ontology
+prominent gene
+gene deserts
+wt1 gene
+affected gene
+wild-type akt
+peat sites
+1-mb region
+amino acid 274
+browser team
+methods figs
+downstream neighbor
+hills road
+3160 porter drive
+structural biology
+19-fold reduction
+1046-bp region
+duplication events
+molecular bioscience
+stringent criteria
+cftr region
+344 overlapping hoxc5
+clinically normal
+genome annotation
+86 articles hosted
+james kent
+genes eif2c1
+paralogous genes
+genes involved
+absolutely conserved
+largely conserved
+yeast species
+missense mutation
+est evidence
+distinct enrichment
+300 million years
+annotation enrichment
+400 million years
+growth factors
+searched interpro
+validated snps
+homeobox
+human population
+akt2
+downloaded
+non-exonic element
+chimp genome
+fugu genome
+chicken genome [467
+chicken genome
+including epilepsy
+non-exonic ele-
+
+1324
+
+28
+dog genome
+extensive analysis
+evolutionary analysis
+rna 6
+transcription factors
+orthologous segments
+481 segments longer
+longest segments
+segments longer
+elements extend
+elements lies
+906-bp element
+275-bp element
+significantly conserved
+­named gene
+vary depending
+helpful discussions
+rnarna interactions
+randomly distributed
+8 markus stoffel
+long stretches
+table s5
+table s4
+table s7
+table s6
+top half
+rights reserved
+1* michael pheasant
+jill@soe
+evolutionary origins
+dbnp366-374 tetramers
+common forms
+genome sequences
+1* christian wolfrum
+registered trademark
+sensory organs
+1 ines barroso8
+table s2a
+table s2b
+hatched lines
+findings demonstrate
+similar results
+lineage-specific specializations
+first-degree relatives
+000 permuted versions
+reflect regulatory
+9 ^
+inherited defects
+molecular function
+preserve interaction
+independent substitutions
+holds true
+individual instance
+clinical biochemistry
+neuroretina-specific enhancer
+related stimuli
+questions remain
+sizes ranging
+cloned upstream
+ancestral re-
+recognizably similar
+generous gift
+widely distributed
+paralogy relationship
+table s3
+3 igor makunin
+self-regulating networks
+recent studies
+rate
+mental retardation
+technical assistance
+chr7
+
+attributes
+simple model
+obtaining reprints
+subject collections
+late thirties
+self-regulatory networks
+enhancer situated
+palo alto
+program rnafold
+sfrs family
+section s3
+genome alignments
+cerebral malformations
+uniquely abundant
+biomolecular engineering
+12 paralogous sets
+obtaining permission
+markedly hyperinsulinemic
+resist virtually
+sorahill@hgmp
+2008 stella george
+reliably aligned
+chromosomal location
+bind proteins
+1-mb windows
+isi web
+additional parts
+low level
+000 randomized versions
+margot umpleby
+united kingdom
+common ancestor
+sim2 locus
+worts causeway
+vital role
+1 sven schinner
+resources related
+nonobese 34year-
+maroon bars
+largest collections
+enclosing exons
+mammalian species
+distant species
+24 human chromosomes
+molecular study
+hundred bases
+genome biol
+functional study
+rat genomes
+early part
+orthologous intron
+caucasian proband
+600-bp intron 13
+single intron
+fourth intron
+retained intron
+165-kb intron
+mouse oocyte
+mouse genomes
+dtl
+
+science
+dna-related functions
+rna-related functions
+title science
+section s2
+paralogous set
+table s1
+section s1
+institute
+48 unvalidated snps
+biotechnology information
+untranslated regions
+orthologous regions
+s7 references
+notes 19 march 2004
+updated information
+notes 3 february 2004
+dog genomes
+3 david haussler2*
+distal enhancers
+org/cgi/collection/genetics information
+2 david barford
+previous exon
+considerably longer
+american association
+similar information
+genes
+
+fig
+research
+greater percentage
+snp database
+relevant database
+brain tissue
+unvalidated portion
+99% identical columns
+internal medicine
+bottom half
+drosophila ortholog
+note added
+structural domains
+000 random permutations
+insulin-sensitive tissues
+trends genet
+lower cutoffs
+pre-mrna
+practically frozen
+biological process
+processes similar
+nonobese mother
+applied genomics
+ortholog exd
+rna-binding proteins
+natural variation
+3 stuart stephen
+256 show
+drosoplila melanogaster
+largest introns
+conservation exhibited
+strongly enriched
+found revealed
+s2 references
+plos biol
+767 bases examined
+9 billion bases
+find evidence
+expected number
+represent
+trace archive
+mrna entry
+highwire press
+caenorhabditis elegans
+megabase scale
+ultraconserved
+nature rev
+splicing
+additionally supported
+similar case
+haussler@soe
+fugu rubripes
+substitution
+rockefeller university
+noncoding
+fugu introns
+dna
+percent identity
+34-bp exon
+genetics http
+org
+
+downloaded
+cluster representatives
+225 kb upstream
+online
+sequenced mammals
+uk
+
+tified
+711 bp formed
+1087 bp long
+structure
+article appears
+encompassing uc
+significantly enriched
+chimp suggests
+sharp contrast
+innovations
+reduced
+numbers
+bejerano
+transcription regulation
+total conservation
+negative
+ciona intestinalis
+type
+59 type
+akt2
+exonic
+nature genet
+showing 100% identity
+blue
+important
+human
+insulin
+66 elements
+elements
+68 elements
+diabetes
+coding
+gene
+green
+sfrs3
+studied
+org/cgi/content/full/1098119/dc1
+cambridge
+genome
+harbor
+sequence
+est
+rrm
+functional
+exons
+genes
+225 genes
+111 genes
+conserved
+100% conserved
+mutation
+interpro
+roughly
+enrichment
+intronic
+call
+early
+pola
+including
+expected
+analysis
+segments
+annotated
+element
+hospital
+30 years
+london
+cell 113
+form
+s3
+exclusive
+gria3
+forms
+contained
+divergence
+long
+expression
+nearby
+drosophila
+family
+nonexonic
+arx
+20-fold
+involved
+development
+cell
+longest
+interactions
+selection
+queensland
+related
+www
+species
+evidence
+rat
+intron
+intron 13
+transcription
+mouse
+observed
+rrna
+fugu
+chimp
+appears
+s2
+science
+science 288
+science 304
+set
+science 291
+science 249
+science 302
+functions
+s1
+chicken
+notes
+
+6
+dog
+mutations
+enhancers
+exon
+org
+population
+references
+small
+information
+association
+2 david
+alignment
+considerably
+regions
+york
+evolution
+snps
+1098119 include
+significantly
+part
+include
+rubripes
+enclosing
+total
+medicine
+percentage
+random
+contrast
+extend
+mother
+bottom
+ucsc
+2004
+
+1321
+
+downloaded
+lies
+genet
+downloaded
+domains
+studies
+brain
+processes
+proteins
+note
+3 portion
+sharp
+ortholog
+melanogaster
+2004
+
+1323
+
+downloaded
+99% identical
+find
+frozen
+lower
+database
+showing
+alignments
+methods
+named
+process
+genomics 83
+3 stephen
+34-bp
+5000 sequences
+sequences
+tissues
+function
+ciona
+variation
+introns
+conservation
+100% conservation
+enriched
+found
+200 bases
+study
+biol
+clusters
+20 bases
+bases
+203 bases
+elegans
+end
+mrna
+megabase
+trace
+3 end
+article
+256 article
+energy
+intestinalis
+8 ­megabase
+proband
+press
+nature 409
+nature 424
+nature 420
+nature 423
+nature 428
+nature 392
+nature 337
+chromosomes
+case
+chromosomes 21
+suggests
+haussler
+supported
+fig
+number
+university
+8% identity
+9% identity
+60% identity
+2% identity
+100% identity]
+100% identity
+99% identity
+80% identity
+7% identity
+100 kb
+675 kb
+38 kb
+cluster
+1 kb
+kb
+http
+mammals
+regulation
+uk
+7500 bp
+432 bp
+335 bp
+731 bp
+100 bp
+357 bp
+bp
+779 bp
+50 bp
+200 bp
+563 bp
+uc
+tantalizing
+school
+miller
+consistent
+estimated
+errors
+consisting
+mechanisms
+hundreds
+represented
+underrepresented
+changed
+coexpressed
+separated
+aware
+mb
+work
+1 john
+aaas
+give
+cited
+hnrph1
+adjacent
+answer
+types
+inconclusive
+manuscript
+ncbi
+quant
+combination
+saule
+effects
+classified
+phosphorylation
+recognizable
+477/481 99
+clade
+free
+sigal
+1 maria
+implicated
+underlie
+albert
+restifo
+preparation
+classes
+ny 10021
+rosenbloom
+endocrinology
+mishra
+sfrs7
+sfrs6
+kaye
+rodents
+doi
+flop
+pkb
+spitz
+481 cases
+venter
+result
+//www
+suggested
+purifying
+boxed
+addenbrooke
+potentially
+split
+mattick
+8incyte
+hand
+buschling
+immunol
+advancement
+obtain 1974
+schoenberger
+rahman
+iii/1
+1 rachel
+acad
+cooper
+core
+ovcharenko
+opin
+1 peter
+dozier
+lowe
+differences
+paediatrics
+adenosine
+exist
+ny
+walton
+precedent
+duboule
+grateful
+aruscavage
+finally
+analogous
+guy
+overlaid
+slowed
+ashburner
+current
+111 overlap
+understanding
+change
+frazer
+langlois
+2department
+positive
+apparent
+cases
+pre-
+utrs
+making
+trans
+figure
+december
+dbsnp
+rubin
+st
+hardison
+experiments
+limbs
+group
+correspondence
+evol
+bhardwaj
+7 alan
+rock
+owing
+hypomutable
+gonzalez
+shown
+suggesting
+possibility
+pollard
+origin
+blanchette
+org/
+participates
+1d
+williams
+tokarchick
+accessed
+locations
+potential
+paralogs
+average
+sfrs11
+sfrs10
+mrc
+zajac-kaye
+threshold
+specifically
+g-to-
+rahilly
+freezing
+5 nicholas
+reveals
+dartford
+hofacker
+deletions
+dc 20005
+sciencemag
+combined
+rochford
+margulies
+ongoing
+concatenation
+week
+devoid
+changing
+inability
+ca 94304
+brisbane
+rest
+guides
+multiples
+nielsen
+embo
+heterozygous
+mol
+served
+mulder
+sommer
+comparison
+acm
+4section
+bliskovski
+ares
+two-thirds
+age
+ac
+chiaromonte
+describe
+qld 4072
+time
+includes
+included
+insertions
+inhibited
+sci
+opportunities
+activated
+bennink
+1 jenny
+yewdell
+tracks
+comparing
+bellone
+lander
+hugo
+bioinformatics
+response
+short
+e29
+inosine
+soos
+paper
+existence
+skipped
+tevethia
+fish
+investigated
+expect
+bass
+10 kilobases
+acerini
+members
+elp4
+326/7
+predate
+probability
+king
+kind
+18s
+determined
+pcbp2
+nobrega
+lie
+wilson
+onset
+finding
+copyright 2004
+pediatr
+57-bp
+joining
+thomas
+injected
+pennacchio
+5department
+wolfe
+/permissions
+preparing
+467/481
+vertebrates
+birren
+jumaa
+birds
+recently
+soukhanova
+pp
+demand
+intriguing
+reads
+quail
+arrived
+chickens
+schell
+9 orders
+murgatroyd
+australia
+homozygous
+-galactosidase
+indels
+indication
+essential
+r-to-
+boffelli
+patterson
+sabarinadh
+proc
+ddx5
+tracing
+plaza
+repair
+suppl
+services
+retina
+idendepartment
+2 carlo
+clk4
+cis
+kellis
+dunger
+curr
+324/481 67
+allowing
+fishes
+sides
+required
+requires
+code
+citing
+indicating
+wareham
+afzal
+categories
+fold
+giving
+ec 2
+nonexistent
+objects
+physiology
+hnrpdl
+serna
+addressed
+names
+usa
+478/9
+calculation
+occurred
+reproduce
+proof
+effectively
+ontogeny
+located
+near-
+chosen
+li
+norbury
+magnitude
+hnrpm
+epler
+waterston
+salama
+dermitzakis
+hinrichs
+ancient
+explanation
+gagen
+providing
+cohen
+loots
+roskin
+mechanism
+remaining 114
+class
+zfr
+ramirez
+looked
+proceedings
+fact
+siepel
+chuang
+nearer
+based
+knowledge
+spliceosome
+thousands
+3 sarah
+gray
+fixed
+humans
+tend
+tens
+invariant
+email
+polygenic
+endrizzi
+addition
+1126/science
+al
+bulk
+1* justin
+site
+desilva
+member
+sauter
+schafer
+patterns
+ca 95064
+obtain
+3laboratory
+adv
+natl
+excluding
+shen
+subramanian
+sherr
+overlap
+host
+hyperrepaired
+rare
+hinxton
+recognized
+washington
+assess
+congregate
+female
+fast-evolving
+flip
+pdk2
+contribute
+autism
+compared
+calibration
+detail
+homolog
+inset
+diekhans
+4414
+273
+279
+1651
+108
+100
+101
+1322
+
+28
+99
+93
+95
+1990
+1995
+1997
+1999
+1998
+405
+7 10 5
+10 19
+245
+241
+171
+1611
+12
+413
+369
+367
+257
+106
+161
+3035
+5%
+539
+10 9
+154
+159
+2507
+10 6
+0
+10 200
+3808
+237
+1
+140
+14%
+5077
+257­266
+5391
+5668
+2
+11
+10
+13
+15
+14
+17
+16
+19
+18
+200
+]
+4­6
+3
+788
+2004
+
+1325
+62
+68
+1580
+1033
+10 18
+34­36
+4
+1200
+5
+481
+10 22
+852
+1
+
+*
+6
+1304
+493
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+2%
+10 17
+10 14
+7
+97%
+189
+7%
+779
+77
+76
+73
+70
+520
+860
+315
+39
+9
+892
+1321
+1098119
+3429
+2002
+2003
+2000
+2001
+2004
+2008
+716
+38
+33
+32
+31
+30
+37
+36
+35
+34
+3%
+8
+136
+8%
+88
+86
+328
+770
+578
+469
+468
+460
+351
+10 42
+283
+*
+1989
+1­3
+567
+44
+45
+4%
+7­13

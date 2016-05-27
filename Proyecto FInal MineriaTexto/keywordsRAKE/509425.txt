@@ -1,0 +1,1078 @@
+observational data
+time period shortwave radiation net radiation precipitation runoff
+
+south america north america africa europe asia
+
+1903­94 1960­94 1901­94 1960­94 1901­84 1960­84 1901­94 1960­94 1930­94 1960­94
+
+21
+laboratoire de mecanisme de ´ transferts en geologie
+direct co2 effect reduces surface energy loss due
+climate forcing produces considerable inter-annual variability
+analyse observation-based continental river runoff records1
+expanding irrigation reduces continental-scale runoff17
+global runoff combining observed river discharge
+physically reasonable precipitation event durations
+show fairly similar temporal patterns
+gswp2 near-surface meteorology data sets
+representing twentieth-century space-time climate variability
+© 2006 nature publishing group
+
+835
+
+letters
+
+nature
+© 2006 nature publishing group
+
+837
+
+letters
+
+nature
+hadley centre global climate model simulation
+global land cover characteristics database
+met office surface exchange scheme
+58 resolution observational data set
+surface downward shortwave radiation
+derive surface downward shortwave
+climate research unit data set
+attribute observational runoff changes1
+sensitivity studies produce similar
+monthly observational data set
+climatedriven inter-annual runoff variability
+© 2006 nature publishing group
+
+nature
+uk natural environment research council
+reconstructed clear-sky shortwave radiation
+surface shortwave radiation due
+standard optimal fingerprinting technique7
+combining urban population growth19
+total river basin area
+optimal fingerprinting statistical techniques7
+intensive human water consumption3
+global soil wetness project28
+north america
+atmospheric boundary layer feedbacks21
+total human water usage3
+observationally based data set1
+global human water consumption
+ordinary least-squares regression fitted
+increasing downward longwave radiation
+world continental runoff fluctuations
+direct atmospheric carbon dioxide
+direct carbon dioxide effect
+variability modify precipitation patterns
+south america 1903­1994
+south america
+modelled continental-scale water balance
+gcm land surface scheme
+observed annual anomalies relative
+continental river runoff records
+modelling long-term transpiration measurments
+observational runoff data
+global runoff increase related
+20th century land precipitation
+reconstructed shortwave radiation
+global urban runoff contribution
+hadley centre climate model
+838
+
+© 2006 nature publishing group
+hadley centre coupled model
+hadley centre climate
+
+figure 1
+modelled continental runoff anomalies
+20th century temperature change
+methods
+monthly forcing data
+longer time periods
+global river runoff
+shortwave radiation values
+surface solar radiation
+fitted standard errors
+rainfall event occurs
+atmospheric boundary layer
+net radiation
+precipitation forcing data
+optimal fingerprinting technique
+global urban map20
+continental river runoff
+solar radiation reaching
+indirect cloud albedo effects
+post-1960 observed runoff trends
+1-km avhrr data
+fossil-fuel black carbon
+physically plausible explanations
+distinct spatio-temporal patterns
+surface heat balance
+climatedriven simulated runoff
+total continental runoff
+leaf area index22
+convective precipitation events
+representative precipitation duration
+monthly data averaged
+monthly forcing data
+river runoff records
+world water resources
+total annual runoff
+global water cycle
+largest fractional growth
+neglect stomatalclosure effects23
+africa
+competing financial interests
+climatological wind speed
+north america29
+exeter ex1 3pb
+dorchester dt2 8zd
+ocean heat transports
+mechanistic landsurface model6
+faostat statistical databases
+land carbon sink
+surface pressure fields
+runoff enhancement due
+stott5
+continental runoff
+winfrith technology centre
+estimating global land
+land surface physics
+near-surface atmospheric conditions
+twentieth-century surface hydrology
+long-term river records
+simulated water balances
+continental water budgets
+direct human influence
+dark blue bar
+wallingford ox10 8bb
+light blue bar
+observed near-surface meteorology
+model successfully captures
+model slightly over-estimates
+surface energy increase
+shortwave radiation
+host climate model12
+climate research unit
+global climate model
+1038/nature04504
+
+letters
+detection
+prescribe related landcover
+sea ice extents
+plant cell environ
+twentieth-century temperature change7
+terrestrial surface climate
+kg m22 yr22
+enhanced cloudiness observed
+2 kg m22 yr22
+03 kg m22 yr 22
+observed annual anomalies
+co2-induced stomatal closure
+light blue bars
+author information reprints
+dark blue bars
+raised co2 levels
+doubled atmospheric co2
+observed runoff trends1
+observational records
+directly compare water
+fully transient simulation `
+runoff change due
+positive radiation trends
+indirect aerosol effect
+future water availability
+direct co2 effect
+structural vegetation feedbacks
+daily temperature cycle
+residual statistics calculated
+plant species reduce
+striped bars refer
+reading rg6 6bb
+solid bars refer
+hadgem1 climate model13
+increasing freshwater availability
+catchment area estimates
+long range stream-flow
+modelled patterns scaled
+6 kg m22 yr21
+transient climate simulation
+radiation data
+atmospheric water vapour
+analysing hadcm3 runs
+attribution techniques developed
+long-term modelled runoff
+global radiation
+16 february 2006
+
+letters
+
+table 1
+decreased pan evaporation
+atmospheric aerosol concentration
+random number generator
+moses plant types
+plant stomatal conductance
+plant transpiration due
+met office hadgem1
+observed runoff trends
+moses soil water
+net reduction
+monitor co2 effects
+combine approximately linearly
+past century appears
+direct co2 effects
+time series
+attributed runoff trends
+direct co2 signal
+hadley centre
+river runoff
+forcing data
+climate change simulations
+urban precipitation
+individual modelled response
+longwave radiation
+temporal patterns
+europe
+near-surface meteorology
+radiation terms
+first-indirect aerosol effects
+radiation components
+runoff due
+continental runoff
+scale factors obtained
+land surface
+modelled global
+analysis period
+direct effect
+land precipitation
+water balance
+observed precipitation
+observed anomalies
+hourly data
+gcm simulation
+twentieth-century climate
+climate sensitivity
+climate forcing
+1901­1994 study period
+hyde database
+climate effect
+global precipitation16
+global dimming
+human extraction
+land-surface scheme
+surface warming24
+reading unit
+increasing co2
+atmospheric co2
+precipitation trends
+affect precipitation
+direct influence
+observed runoff
+modelled runoff
+effect appears
+co2 effect
+monthly temperature
+modify runoff
+energy availability
+global signal
+land cover
+cloud cover
+water availability
+hydrology wallingford
+asia
+meteorology building
+temporal responses
+repeatedly forcing
+statistical advice
+26
+
+continental trends
+twentieth-century climate9
+clear-sky scattering
+time
+1 met office
+indirect effects
+observed climate
+runoff trend
+runoff trends
+affect runoff
+freshwater availability
+energy required
+climate change
+climate change 2001
+3met office
+5met office
+convert 1 kg
+contributions due
+1901­ -96 monthly grids
+past century
+extract water
+liquid water
+cloud albedo
+observed change
+red bar
+excluding irrigation
+co2 increase
+co2 concentration
+aerosol species
+small effect
+model set-
+model signals
+photosynthesis model
+model atmosphere
+model uncertainty
+climate prediction
+climate warming
+solar dimming
+high-resolution fields
+sea salt
+technique assumes
+attribute increases
+longer timescales
+solar dimming4
+winfrith newburgh
+terrestrial biosphere
+initial conditions
+catchment areas
+air temperature
+daily frequency
+plant leaves
+plant transpiration5
+canopy conductance
+approximately equal
+aerosol concentration
+include direct
+continental regions
+land use14
+836
+
+observed climatologies
+observed trends
+land-surface albedo
+observed response
+shortwave
+observed changes7
+modelled response
+stomatal apertures
+stomatal openings
+stomatal conductance10
+twentieth century
+stomatal responses
+appears closer
+supplementary information
+post-1960 trends
+red bars
+long-term trends
+remaining bars
+hydrology dorset
+permissions information
+nutrient availability
+92 £ 104 km3 yr21
+yellow bars
+94 £ 104 km3 yr21
+setting co2
+elevated co2
+cloud lifetime
+forcing factor
+water int
+fixedcomponent simulation
+fixed-co2 simulation
+biomass-burning aerosol
+individual effects
+aerosol effects
+gauged rivers
+physical parametrizations
+implicitly included
+umr cnrs
+united nations
+southern england
+accepted 7 december 2005
+twentieth century1
+including modifying
+earley gate
+1901­1994 period
+irrigated agriculture3
+combined observation
+real ecosystems
+covers unity
+scientific basis
+maclean building
+regional trends
+intriguing possibility
+regional data1
+initially apply
+sub-grid heterogeneity
+authors declare
+rural affairs
+typically limited
+igbp discover
+period 1901­1905
+laboratory experiments
+agricultural consequences
+1029/ 2000jd000028
+separate regressions
+trends attributable
+united states
+remote sens
+additional terms
+sres scenarios
+regional regressions
+lead directly
+variability
+eds houghton
+large drop
+gedney@metoffice
+partially offset
+four-component regression
+shortresidence-time sources
+fitzroy road
+alternative explanations
+ammonium sulphate
+flux adjustments
+open-pan evaporation8
+avoid over-fitting
+contemporary environmental
+close partially
+period
+approach assumes
+extensively validated
+eds mccarthy
+95 percentile ranges
+cola technic
+contrasting physiological
+
+23
+clear disparity
+increase include
+agriculture organisation
+gebruder -9 borntraeger
+response act
+panel refers
+modelled component
+increased co2
+figure 1 shows
+water res
+figure 3 shows
+16 february 2006
+
+figure 2
+individual components
+physiological effects
+anthropogenic effects
+observed reductions
+force moses
+drive moses
+moses ii
+stomatal control
+luse refer
+suppressing transpiration
+past 300 years
+spatial scale
+non-clim components
+95 percentile range
+5% significance level
+diurnal range
+5% change globally
+hadgem1--transient simulations
+anthropogenic contributions
+diagnosed contributions
+regression analysis
+individual component
+uk department
+data
+individual regions
+empirical formulations
+affect evapotranspiration
+explicit representation
+linear addition
+part ii
+potential drivers
+fitting process
+set
+online version
+significant reduction
+area-weighted sum
+cambridge univ
+field sites10
+formal detection
+analyse
+table 1 shows
+affect projections
+regions tend
+additionally carry
+nature 387
+initially carry
+nature
+individual region
+surface
+factors producing
+average difference
+received 5 july
+precipitation
+cloud-cover observations
+limited evidence
+compensating mechanisms
+supplementary fig
+analysis suggests
+negligible impact
+small reduction
+`continental
+natural
+environment
+due
+large-scale evapotranspiration
+effect
+runoff
+energy
+direct
+annual
+monthly
+water
+irrigation
+research
+soil
+records
+m22
+model
+climate
+coupled
+plant
+temperature
+population
+contribution
+`land
+land
+observed
+modelled
+century
+post-1960
+longwave
+increase
+bars
+modify
+long-term
+hadgem1
+co2
+change
+figure 3
+simulation
+met
+aerosol
+estimates
+obtained
+scaled
+positive
+response
+feedbacks
+calculated
+based
+reading
+`attributed
+first-indirect
+regression
+vapour
+trends
+landcover
+effects
+moses
+transpiration
+significance
+components
+range
+contributions
+table 1
+16 february 2006
+shows
+16 february 2006
+
+8
+analysis
+signal
+simulations
+small
+include
+hadcm3
+hadcm3 2
+combine
+increased
+attribution
+uk
+component
+methods
+study
+suggests
+field
+control
+process
+50 years
+representation
+version
+part
+detection
+projections
+potential
+reductions
+evaporation
+evapotranspiration
+addition
+int
+reduction
+formulations
+alternative
+large-scale
+1901 values
+increases
+lead
+cambridge
+sum
+globally
+values
+regions
+number
+carry
+factors
+difference
+july 2005
+spatial
+fig
+res
+mechanisms
+observations
+factor
+region
+evidence
+impact
+luse
+represent
+roo
+results
+daytime
+adjustment
+vulnerability
+calculate
+finally
+atlas
+plants
+amplitudes
+biogechem
+1029/2005gl023654
+beginning
+godderis
+humidity
+sexton
+gedney1
+consistent
+`detected
+functioning
+brackets
+contributed
+zhao
+boucher
+clim-
+reconstruction
+hydromet
+contrast
+lee
+`fingerprints
+science 298
+catchments
+geophys
+amount
+simultaneous
+resulting
+& stratton
+probable
+allen
+addressed
+continents 6­
+decrease
+negative
+france
+comparing
+assessment
+separated
+cycles 15
+& harding
+/reprintsandpermissions
+& karoly
+berlin
+carrying
+& jarvis
+account
+reproduce
+suggestive
+impacts
+boucher3
+arise
+exclude
+`spun
+s1
+widespread
+gordon
+harding
+jchmr
+climate-
+deforestation
+mcnaughton
+labat
+betts3
+arnell
+correlation
+discussion
+fao
+opens
+food
+vary
+paper
+& lui
+contaminated
+fit
+758 grid
+detected
+probst
+correspondence
+greater
+combination
+press
+represents
+university
+found
+constraints
+npg
+´ acknowledgements
+expect
+assumption
+shown
+jackson
+driving
+rep
+fekete
+performs
+adv
+gov
+ref
+essery
+estimate
+org/
+1029/1999gb001254
+loveland
+incorporated
+hulme
+probability
+global-scale
+adopted
+roderick
+henning
+kg21
+ratio
+review
+require
+biogeochem
+hydrol
+gallani
+assume
+amplitude
+providing
+minus
+-32 stanhill
+reanalysis
+appraisal
+clim
+linked
+agric
+isolate
+mechanism
+majority
+worldwide
+glob
+hadam3
+l10203
+importantly
+toulouse
+so-called
+doi
+5 wm22
+implications
+diagnostics
+grassland
+fact
+incorporate
+//faostat
+/nature
+pope
+supported
+implying
+threshold
+find
+cycles 16
+explain
+& mooney
+dyn
+half-sinewave
+aer
+sinewave
+khttp
+tended
+result
+existence
+discussions
+led
+ways
+sites
+continent
+converted
+& guyot
+source30
+vol 439
+vorosmarty
+extent
+cox
+& taylor
+albrecht27
+unclear
+reasons
+firstindirect
+adaptation
+& palmer
+radiative
+production
+define
+sufficient
+case
+exception
+& grabs
+mitchell
+huntingford
+& jones
+rowntree
+wind-speed
+& tardy
+lambert
+units
+higher
+development
+science 271
+regridded
+purpose
+changing
+& farquhar
+consistency
+shiklomanov
+proposed
+conclusions
+absorption
+cox2
+add
+insensitive
+sellers
+digital
+historic
+huntingford4 &
+lost
+reduced
+www
+ecology
+requests
+nicola
+myhre
+/
+assuming
+goldewijk
+noise
+run
+rescale
+equivalent
+preo
+comparison
+aerosols
+& myhre
+& woodward
+insufficient
+betts
+4centre
+three-
+assess
+-36 liepert
+disaggregated
+materials
+function
+1029/2002gl014910
+sst
+estimation
+land-
+2centre
+& dirmeyer
+& cohen
+considered
+jones
+contribute
+al
+stott
+compared
+fixing
+ascertained
+valid
+details
+models
+& cox
+variation
+includes
+important
+suppression
+tett
+depth
+lett
+16 0
+18 ^ 0
+97 ^ 0
+91 ^ 0
+1410­ -1411
+7
+89 0
+10 20
+55 0
+46 ^ 0
+27 1
+796­ -799
+2217­ -2238
+32 ^ 0
+309­ -322
+32
+0
+33 ^ 0
+6
+12 ^ 0
+94
+1991
+1990
+1995
+1997
+1999
+1998
+255­ -278
+53
+530­ -543
+58 £ 3
+5 £ 106
+41 20
+159
+71 ^ 0
+95 ^ 0
+01 ^ 0
+24
+26
+27
+21
+23
+28
+29
+16 ^ 0
+183­ -203
+78 0
+41 ^ 0
+20
+14 20
+13 23
+1996
+2
+53 ^ 0
+147­ -168
+11
+13
+12
+15
+17
+19
+18
+25 0
+33
+
+0
+1961
+289­ -311
+19 ^ 0
+1402­ -1406
+24 ^ 0
+24 ^ 1
+12 1
+12 0
+06
+78
+1­
+4306
+40 ^ 0
+37 ^ 0
+10
+14
+16
+191­ -234
+20 ^ 0
+417­ -433
+631­ -642
+02
+03
+00
+07
+04
+05
+08
+09
+3
+25
+50 ^ 0
+22
+123­ -146
+100
+2000
+107
+20%
+01
+þ0
+61 ^ 0
+19 0
+1214­ -1255
+08 ^ 0
+35 ^ 0
+1
+31
+213
+11­
+1960
+46 0
+45 0
+54 ^ 0
+4
+02 ^ 0
+30
+55
+54
+1303­ -1330
+13 ^ 0
+1421
+597­ -603
+697­ -738
+64 ^ 0
+05 ^ 0
+1987
+1989
+25 ^ 0
+9
+1042
+66 ^ 0
+27 ^ 0
+04 ^ 0
+79­ -94
+42
+40
+2001
+279­ -302
+5
+12 20
+07 1
+09 ^ 0
+2002
+2003
+2004
+06 21

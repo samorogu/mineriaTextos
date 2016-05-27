@@ -1,0 +1,1035 @@
+defense advanced research projects agency
+lowest minimum free energy secondary structures
+lowest minimum free energy secondary structure
+highly parallel molecular bar-coding strategy
+additionally impose primary sequence constraints
+rights reserved
+
+nucleic acids research
+minimum free energy pseudoknot free structure
+minimum free energy secondary structure formed
+standard free energy model pertains
+predicted minimum free energy secondary structure
+agreement number
+
+3422
+
+nucleic acids research
+minimum free energy secondary structure
+combinatorial set requires time proportional
+lowest minimum free energy
+massively parallel signature sequencing
+rna structure prediction including pseudoknots
+air force materiel command
+intel xeon 2 ghz cpus
+air force research laboratory
+design software tools
+´ ´ mirela andronescu
+non-standard base pairings a-
+minimum free energy values
+dynamically generated web page
+standard free energy model
+minimum free energy structure
+biologically plausible secondary structures
+combinatorial
+
+nucleic acids research
+experimentally obtained thermodynamic data
+empirically evaluated rna designer
+] forms unwanted secondary structure
+unwanted secondary structure forms
+base pairs define component loops
+ca
+
+nucleic acids research
+free energy model predicts
+rna designer rna designer takes
+support primary sequence constraints
+thermodynamically favorable base pairs
+vienna rna package publically
+building artificial rna structures
+rna secondary structure formation
+rna secondary structure modeling
+related programs include oligowalk
+rnainverse include bradyrhizobium sp
+pseudoknot free secondary structure
+typically finds rna sequences
+oligonucleotide dna nearest-neighbor thermodynamics
+rna secondary structure prediction
+n1 â n2 â á á á â nk â n3
+minimum free energy
+3416­3422 nucleic acids research
+3420
+
+nucleic acids research
+nucleic acids research
+3418
+
+nucleic acids research
+stochastic local search algorithm
+models including pseudoknots
+single secondary structure obtained
+nucleic acids arise
+nucleic acids res
+free energy values
+free energy calculation
+rna designer found solutions
+engineering research council
+rna designer user interface
+standard thermodynamic models
+420 artificially generated structures
+unwanted secondary structure
+nucleic acid structure
+pseudoknot free structures
+total free energy
+copyright annotation thereon
+sixth annual int
+eighth international workshop
+20-variable 3-sat problem
+quantitative phenotypic analysis
+collaborators dan tulpan
+good starting points
+kluwer academic publishers
+simple text area
+ribosomal database project
+nato asi series
+intermolecular initiation penalty
+yeast deletion mutants
+bc v6t 1z4
+indexed consecutively starting
+simple text boxes
+nucleic acid targets
+multistable secondary structures
+rna designer include
+secondary structure prediction
+secondary structure elements
+stable secondary structure
+molecular bar codes
+vienna rna package
+predicting oligonucleotide affinity
+rna secondary structures
+target gc content
+designing rna structures
+rna designer designs
+rna designer website
+pseudoknotted secondary structures
+rna secondary structure
+¼ n1 þ n2 þ á á á nk
+n1 â n2 â á á á â nk
+512 kb cpu cache
+vienna package program
+rna folding pathways
+web interface notifies
+specific secondary structures
+simple text box
+grant number 144-kn87
+cgi scripts implemented
+gene expression arrays
+governmental purposes notwithstanding
+methanocaldococcus fervens str
+deferentially expressed cdnas
+canada
+received february 15
+national science foundation
+performing multiple runs
+dynamic programming algorithm
+optimal dna oligos
+hairpin ´ ´ ribozyme-inhibitor complex
+correctly folding sequence
+desired gc content
+consensus rna sequence
+optimal computer folding
+combfold increases quickly
+secondary structure description
+secondary structure found
+john santalucia jr
+maximal processing time
+colleagues barry cohen
+24 computationally predicted structures
+apache web server
+cellular rna functions
+maximal cpu time
+input secondary structure
+output secondary structure
+13 # oxford university press 2003
+information storage media
+introduction software tools
+rnasoft web site
+large rna sequences
+pseudo-random number generator
+base pairs formed
+rna thermodynamic parameters
+simple combinatorial set
+single molecule r1r2
+rna designer input
+rna designer output
+computer operations needed
+predicting thermodynamic properties
+designing rna strands
+free energy à2
+free energy à36
+free energy
+free energy à19
+large tag library [
+target rna molecule
+design probe oligos
+pairfold include predicting
+current server machine
+running redhat linux
+combinatorial set formed
+dna words concatenate
+rna designer outputs
+standalone programs pairfold
+rnasoft web services
+dna based computers
+base pair indexes
+pairfold program predicts
+short single strands
+turner thermodynamic parameters
+pseudoknot free
+low response times
+design rna molecules
+energy models
+combfold combfold predicts
+sequences r1 ¼ ggccaccugacaguccucucc
+combinatorial tag sets
+vienna package
+component loops
+combfold user interface
+rna input strands
+hythertm software tool
+secondary structures
+dna tag set
+pairfold user interface
+zuker­stiegler algorithm
+secondary structure
+easily obtain sets
+minimum distance
+n2 â n3
+gc target
+rna designer
+molecular structure
+pseudoknotted structures
+rna solutions
+rna structure
+rna target
+web interface
+rna targets
+redhat linux
+machine runs
+spirochaeta sp
+n1 þ n2
+specific functions
+rna sequence
+solve structures
+handle structures
+base pairs
+thermodynamic parameters
+output strands fold
+response times
+stochastic steps
+predicted structures
+crystal structure
+structure s1s2
+mfe structure
+desired structure
+true structure
+output structures
+fast folding
+rna biochemistry
+seed values
+duplex formed
+base sequence
+input structure
+combfold predicts
+internal loops
+artificial selection
+information storage
+acm press
+complex mixtures
+finds strands
+molecular computation
+set formed
+software tools
+software based
+rna computation
+stacked pairs
+rna molecule
+target molecule
+current server
+thermodynamic stability
+rna molecules
+base occurring
+ith base
+short dna
+constant time
+search process
+hairpin ribozyme
+wall-clock time
+specific criteria
+stochastic nature
+molecular tags
+combinatorial set
+pairfold predicts
+user interface
+<60 cpu seconds
+1 cpu hour
+<700 cpu seconds
+<400 cpu seconds
+online services
+functional properties
+500 cpu seconds
+single molecule
+sequence augcaaugcgcaugcac
+program fails
+program starts
+sequence specification
+single molecules
+computation time
+running time
+find solutions
+structure reported
+minimum
+computer simulation
+computer science
+server manageable
+rna strands
+dna sequence
+combinatorial sets
+computation takes
+complexes consisting
+chess problems
+higher index
+probe oligo
+physical separation
+rnaml formats
+technical assistance
+tag individually
+closely match
+probabilistically sample
+fixed conditions
+gain insight
+official policies
+firas hamze
+crystallization construct
+screen shots
+ith symbol
+frank hutter
+connectivity table
+external loop
+rob corn
+hierarchical fashion
+ag86 dsm 4213
+practical guide
+made manually
+natl acad
+british columbia
+vitro cloning
+lloyd smith
+found online
+dave brent
+anthony fejes
+completely deterministic
+online access
+graphical depiction
+probabilistic bias
+shed insight
+desired number
+50 -arng-30 represents
+rosalia aguirre-hernandez
+anonymous reviewers
+significantly lower
+small compared
+van batenburg
+accepted april 7
+labeled stems
+conclusions contained
+ribozyme binds
+cellular rnas
+auxiliary information
+lower index
+/hyther/ hytherm1main
+¼ gccgcacgcgagaccgcgcacuccgcgggaug cccauaggagaagcggcauuaccuguagccaagccagua
+biomolecular computations
+context means
+straightforward variant
+lecture notes
+valuable suggestions
+distribute reprints
+hoos
+department
+selex experiments
+naive approach
+earlier versions
+gratefully acknowledge
+stems found
+significantly faster
+dna computer
+multiple strands
+rna strand
+folding temperature
+genetic algorithm
+nanostructure design
+algorithmic design
+1093/nar/gkg612
+
+rnasoft
+combfold takes
+dna nanotechnology
+represent dna
+dna computations
+2003
+
+abstract dna
+handle sequences
+biological sequences
+sequences exist
+accept sequences
+michael zuker
+dot-parenthesis representation
+iupac code
+structural properties
+partial view
+unified view
+input dna
+sequences input
+input sequences
+rnasoft tools
+dna sequences
+output sequences
+dot-parenthesis notation
+doug turner
+/~zukerm/
+anne condon*
+condon@cs
+form s1s2
+solution space
+nacl solution
+nature genet
+/~ivo/rna/rnalib
+pairfold takes
+dna molecules
+online version
+combfold input
+respective seed
+random seed
+combfold output
+88 dna tags
+predict interactions
+biological rnas
+current implementation
+necessarily representing
+ivo hofacker
+shelly zhao
+produce results
+matching positions
+laura slaybaugh
+natural sciences
+methods enzymol
+resulting substructures
+sequences form
+danielle dees
+polymer library
+biomolecular nanostructures
+individual strands
+pairfold differs
+design tasks
+strand exists
+rnasoft suite
+strand found
+individual strand
+fold routine
+figure 2 shows
+melting temperature
+figure 3b
+server load
+additional parameters
+dna strands
+output strands
+uracil bases
+steven skiena
+html pages
+future plans
+efficiently test
+maximum runtime
+chosen based
+output strand
+set si
+input temperature
+input r1
+case combfold
+sequences r1
+rnainverse solved
+uniquely represented
+r2 occurring
+r2 ¼ ggagagagaagucaaccagagaaacacaccaacccauugcacuccggguuggugguauauuaccugguacgggggaaacuucgugguggccg
+set s1
+extended version
+prediction
+andronescu
+model
+figure 1c
+figure 1d
+strands fold
+pairing bases
+left end
+structures
+temperature range
+unpaired bases
+software
+structure
+strand folds
+rna
+formed
+web
+strand length 20
+obtained
+oligowalk
+loops
+n1
+length $300 bases
+single
+n2
+pairs
+base
+processing
+search
+santalucia
+jr
+generator
+define
+time
+programs
+program
+sequence
+takes
+computer
+server
+expressed
+implemented
+total
+tag
+purposes
+information
+easily
+university
+found
+description
+canada
+thermodynamics
+number
+needed
+science
+probe
+words
+box
+desired
+ca
+str
+stiegler
+obtain
+library
+predicting
+arrays
+algorithm
+design
+set
+rnasoft
+predicted
+input
+computation
+parameters
+running
+dna
+output
+sequences
+code
+tools
+representation
+molecule
+based
+zuker
+molecules
+view
+combfold
+solution
+rnainverse
+tags
+low
+cohen
+turner
+condon
+notation
+nature
+88 ¼ 16 777 216 tags
+user
+sets
+/
+10 sets
+form
+hythertm
+version 2
+support
+seed
+suite
+solved
+reported
+tasks
+polymer
+distance
+outputs
+hofacker
+zhao
+predict
+[methods
+produce
+natural
+substructures
+stability
+structural
+positions
+slaybaugh
+1c
+1d
+tool
+representing
+selection
+find
+nanostructures
+chosen
+dees
+case
+extended
+left
+additional
+pairing
+rnas
+strands
+pairfold
+strand
+fold
+13
+
+3421
+
+figure 5
+13
+
+figure 2
+13
+
+figure 4
+temperature
+13
+
+3417
+
+figure 1
+figure 4
+figure 5
+13
+
+3419
+
+figure 3
+r1
+50 end
+1500 bases
+range 0­100
+<500 bases
+260­1475 bases
+future
+si
+bases
+unpaired
+html
+500 bases
+test
+range
+maximum
+skiena
+implementation
+load
+folds
+s1
+´ ´ pair
+pair
+represented
+r2
+length 16
+length 32
+length
+length 4 [
+limited
+sci
+pointing
+entropy
+contributions
+hairpins
+therapeutics
+calculate
+//ozone
+fax
+ferre-
+string
+g-
+difference
+list
+lashkari
+section
+clark
+tel
+chem
+addition
+wyatt
+dumbbell
+sum
+consistently
+vermaas
+contrast
+¼ 20--
+genes
+holger
+receive
+funded
+bulges
+implement
+probeselect
+addressed
+pp
+orderings
+stormo
+usa
+predictions
+perl
+wayne
+comparison
+ni ¼ 4
+employed
+iii
+avoiding
+work
+moon
+reproduce
+making
+control
+modulation
+conf
+authorized
+high
+performed
+allowed
+provide
+s2
+permission
+vancouver
+mfold
+proc
+intended
+4mers
+monatshefte
+landweber
+applications
+designed
+bioinformatics
+improving
+minimizes
+mao
+mutagenesis
+algorithms
+order
+developed
+kirchner
+interpreted
+concatenating
+energies
+li
+parts
+univie
+fig
+orange
+correspondence
+return
+views
+practice
+impossible
+1b
+cukras
+cases
+verifying
+routines
+morris
+subset
+inputs
+thymine
+283a
+springer-verlag
+measure
+storck
+shown
+eds
+fundamentally
+collaborated
+barciszewski
+rnafold
+york
+selections
+14 kcal/mol
+turn
+incorporated
+davis
+chelyapov
+24 instances
+aatcttaccaaaacatacattctactttaatc
+instances
+tacker
+illustrating
+size
+eddy
+1a
+< j0
+4 gb
+williams
+gultyaev
+testing
+lists
+part
+authors
+rivas
+accessed
+providing
+ram
+cgcggucucgcgugcuuggc
+faulhammer
+linked
+sk
+rochester
+efficient
+note
+finding
+size 88
+microbeads
+added
+acknowledgements
+class
+probes
+13 doi
+adenine
+calculated
+implications
+//rna
+fontana
+pasted
+calculates
+fact
+attempts
+columns
+endorsements
+tbi
+report
+mccollum
+chemie
+summed
+j0
+j-
+result
+ways
+libraries
+unable
+identification
+comp
+stadler
+email
+//www
+schuster
+reproduced
+darpa
+bonhoeffer
+essentially
+lipton
+attributed
+characterization
+overview
+rpi
+ct
+details
+50 -aurcaaugcsnaugcac-30
+due
+pc
+combined
+expected
+entered
+choose
+describe
+c-
+//ozone2
+understand
+replaces
+enthalpy
+behavior
+burkard
+study
+ni ¼ 8
+vol
+ni ¼ 2
+concatenation
+ii
+nserc
+serra
+protein
+13
+
+f30602-01-2-0555
+substructure
+luo
+eletr
+lengths
+highlighted
+adleman
+widely
+catalysis
+development
+http
+i0
+reporting
+references
+1
+freier
+functionality
+rothemund
+mathews
+cytosine
+bi-
+brenner
+increasingly
+identify
+pleij
+k--
+guanine
+biotechnology
+combine
+shoemaker
+government
+mol
+amare
+variants
+designers
+decomposes
+polymers
+reduced
+provided
+critical
+1 min
+refer
+measuring
+run
+bioinfo
+usaf
+18 smp
+hard
+braich
+extending
+column
+basis
+ensure
+70 kcal/mol
+determine
+< i0 <
+purine
+catalysts
+biol
+function
+revised
+multiloops
+construction
+line
+gccgcacgcgagaccgcgca
+paired
+limit
+similar
+examples
+ac
+al
+denote
+optionally
+file
+rupert
+ni
+fixing
+application
+accounted
+alphabet {
+mittman
+johnson
+drift
+meaning
+important
+bounded
+allowing
+ubc
+notion
+implied
+95
+2053­2068
+þ1 604 822 5485
+1995
+1994
+`
+296
+31
+450­456
+37­51
+6
+1460­1465
+97
+1996
+780­786
+1
+125
+¼ 2
+1458­1469
+7
+¼
+1000
+*
+2
+1999
+1998
+11
+10
+12
+15
+14
+þ1 6048228175
+1067­1076
+]
+}
+8
+1665­1670
+17
+16
+410
+3
+250
+2568
+500
+þþ
+133­148
+9
+4
+285
+3­5
+259
+182­195
+167­188
+13
+1981
+1385­1389
+243­261
+499­502
+5
+2001
+109­116
+2002
+2003
+2000

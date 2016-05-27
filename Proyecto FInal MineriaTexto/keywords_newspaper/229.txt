@@ -1,0 +1,13 @@
+regions
+chromosome
+sequence
+genomes
+content
+master
+genome
+human
+229txt
+samorogu
+repeats
+mouse
+gc

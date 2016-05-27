@@ -1,0 +1,2473 @@
+migration/specialization
+
+tfiid complex taf9 taf1 taf4 taf3 spt15 taf6
+taf2 taf7 taf14 taf10 taf13 taf8 taf5 taf11 taf12 sas2 sas5 sas4
+
+spt15
+
+taf9 taf1 taf4 taf3 taf6 taf14/ taf2 taf7 sas5 taf10 taf13 taf8 taf5 taf11 taf12
+
+sas2 sas4
+
+tfiid/sas complex
+
+sas complex
+
+figure 5
+a2 gene tree construction a3
+
+b2
+
+b3
+
+a2 a2 b2
+
+a3 a3 b3 a2 a3
+
+a2 a2 b3
+
+a3 a3 b2
+
+b2 choosing root x3
+
+b3
+
+x3 a2 a3 b2 b3
+
+x2
+
+a3
+
+a2 b2
+
+b3
+
+articles
+
+nature
+dna replication protein biosynthesis amino acyl-trna ligase endomembrane system amino acyl-trna biosynthesis replication fork translation initiation ribosome assembly golgi vesicle transport protein modification h00 erg11
+organelle lumen tfiid target complex cores rna metabolism primary metabolism rna processing nuclear lumen non-tata low expression divergence ribosome biogenesis mrna metabolism ribonuclear complex essential
+c1
+
+c2 y2 x2 c2 x3 c4
+
+c4
+
+y1 x1 c1 b1 a1
+
+y4 x4 a4
+
+b2 a2 b3 a3
+
+duplication
+
+loss
+complex attachment general pol ii transcription factor tfiih transcription factor proteasome proteasome complex lipoprotein metabolism h00 yor078w
+organellar ribosome low protein noise mitochondrial lumen complex modules nucleolus spliceosome complex rna binding non-membrane-binding organelle
+a1 x1 b1
+
+a2 x2 b2
+
+a3 x3 b3 3
+
+a4
+biogenesis ribosome dna replication initiation mitotic cell cycle lipid biosynthesis pyrimidine metabolism high expression divergence
+a1
+
+a2
+
+a3
+
+a4
+
+b1
+
+b2
+
+b3
+b1 b2 b3 a1 a2 a3 a4
+high protein noise vacuole high protein noise aryl-alcohol dehydrogenase extracellular region h00 qcr2 haploid
+000
+
+100
+
+10
+
+volatility
+
+1
+nt rm ste le fo si ti ni er ola
+function
+arg80 mcm1
+
+mcm1
+
+orc1
+
+orc1
+
+dna replication initiation
+59
+
+rpl43 rpl17
+
+rpl43a
+
+rpl17b
+
+rpl43b rpl17a
+
+cytoplasmic ribosomal large subunit
+nucleobase transport acid phosphatase amino acid transport s00 snf2 rich
+cell wall oxidoreductase organic acid transport saga target s00 swi1 rich
+1/2 1 2
+
+stress/starvation
+
+conditions
+
+sporulation transcription knockouts phosphate/sulphate depletion
+kos cell cycle long stress nitrogen/amino acid starvation
+pom
+
+ifh1 ylr223c-16000 ylr223c-14993 ylr223c-17022 cagl0c00759g scas679
+nid
+sen34 yar008w-160 yar008w-324 yar008w-371 cagl0g00748g scas670
+c1
+
+c2
+
+c4
+examples include `ribosome biogenesis
+pyridoxine metabolism h00 med2 haploid
+complex cores
+amino acid metabolism modules
+a1 1 a2 ­
+essential cellular machineries requiring stoichiometric balance
+thiamine metabolism h00 cup5
+`er protein modification
+tfiid transcription complexes42
+drug transporter s00 swi1 min
+carbohydrate metabolism
+
+cell cycle
+23 crf1 ydr223w-4579 ydr223w-4085 ydr223w-4559 scas721
+19 afl012c klla0a08932g kwal17541 deha0c16533g orf19
+86 klla0f13222g agr179w kwal11573 deha0e18865g orf19
+orthogroups
+
+­2
+
+0
+
++2
+
+0
+
+10­5
+
+©2007 nature publishing group
+
+articles
+
+nature
+338/844 complex `core
+rna binding proteins
+a2
+©2007 nature publishing group
+
+articles
+
+nature
+saga-tfiid target b00 hda1
+spotted complementary dna chips
+tata sugar transporter b00 sin3
+9/80 spindle pole body proteins
+nitrogen metabolism
+
+fundamental processes
+volatile orthogroups show diametrically opposed patterns
+saga complex
+duplicate genes increase gene expression diversity
+defining orthogroup copy number variation profiles
+saccharomyces complex
+dna microarray data set
+syntenic context reveals gene fate
+centroid extended copy number variation profile
+seventeen ascomycota fungi spanning 300 million years
+rice blast fungus magnaporthe grisea
+volatile orthogroups reflects global functional constraints
+amino acid similarities
+x3
+tfiid
+amino acid similarity
+variable rna expression
+meiosis
+
+amino acid
+rna expression shows
+x2
+results suggest evolutionary principles applicable
+complex
+cerevisiae genes encoding core components
+s00 snf2 min
+target genes harbouring
+nir friedman4 & aviv regev1
+broad institute fungal genome initiative
+s00 swi1 min
+modules representing essential machineries
+shared protein interaction neighbourhood
+h00 tup1 haploid
+h00 ssn6 haploid
+synergy showed high specificity
+1038/nature06107
+
+articles
+natural history
+golgi apparatus
+h00 rpd3 haploid
+orthogroup assembly
+manually curated protein complexes60
+60
+©2007 nature publishing group
+
+nature
+54
+©2007 nature publishing group
+
+nature
+©2007 nature publishing group
+
+nature
+carbohydrate metabolism
+predicted open reading frame
+gene classes representing regulatory mechanisms
+rich media essential-rich media
+transcriptional module hierarchy construction
+216 previously published microarray experiments
+main condition names marked
+neighbour-joining distance update rule
+©2007 nature publishing group
+
+doi
+61
+©2007 nature publishing group
+
+doi
+`ribosome
+hmmsearch profile search software
+genes encoding signalling molecules
+master meiosis regulator ime135
+genetic protein interaction networks
+cerevisiae protein interaction networks
+proteome survey reveals modularity
+bayesian gene/species tree reconciliation
+retention
+rpl12 rpl12b rpl12a
+accession number cr380947­cr380959
+accession number cr382127­cr382132
+accession number cr382121­ cr382126
+accession number cr382133­cr382139
+accession numbers cu329670­cu329672
+saccharomyces sensu stricto clade
+`rrna biogenesis
+low levels
+pom
+
+figure 2
+copy number variation occurs
+choosing
+moderately low
+gene trees reflecting divergence
+cell wall proteins
+fasta sequence alignment tool51
+optimizing gene family trees
+extended copy-number variation profile
+loss requires reliable resolution
+copy number volatility corresponds
+false discovery rate correction
+multiple site rate variation
+candida glabrata extensively overlap
+6 september 2007
+
+articles
+ditions34
+copy number variation profiles
+exhaustive sequence similarity search
+non-volatile orthogroups largely reproduces
+copy number variation profile
+cerevisiae transcription module map
+phenotypically derived gene function
+extended phylogenetic profiles belonging
+growth-related genes show selection
+yeast transcriptional system
+gene copy number variation
+tree-assisted multiple sequence alignment
+homologous protein search
+independent binary random variables
+yeast gene order browser
+complete sexual cycle
+paralogous gene pairs remain
+protein takes part
+puf family rna-binding proteins
+lose key growth genes
+reflecting similar functional constraints
+protein interaction networks
+homologous gene sequence databases
+demonstrating extensive genomic innovation
+paralogous pairs genetically interact
+55
+©2007 nature publishing group
+©2007 nature publishing group
+species tree topology representing
+6 september 2007
+
+articles
+
+methods
+increasing gene copy number
+updated version includes eukaryotes
+ancient saccharomyces cerevisiae genome
+fusarium graminearum sequencing project
+whole-genome duplication events reshape
+duplication add similar genes
+high throughput assays38
+copy number variation coherence
+significant array­gene class pairs
+highly regulated stress-related role
+evolutionary dichotomy aligns closely
+remaining paralogues typically share
+cluster boundaries defined automatically
+high volatility scores
+synergy made high-quality predictions
+orthogroups harbouring functionally related
+driving functional divergence
+predicted protein sequences
+gene ontology functional categories
+functional gene ontology categories
+modified neighbour-joining procedure based
+`cell cycle
+general bipolar principle
+general principle affecting
+cerevisiae genes displaying haploinsufficiency39
+methods summary
+orthology assignment
+regulatory data sources support
+transcription control reprogramming
+estimating functional divergence
+model organisms saccharomyces cerevisiae
+protein levels tend
+c1
+expression noise
+orthogroups representing ancestral genes
+increase morphological complexity
+m99 med2 heat
+saccharomyces genome database æhttp
+share significant sequence similarity
+candida genome database æhttp
+2
+
+5
+
+figure 4
+figure 1
+figure 3
+saccharomyces cerevisiae genes belong
+6 september 2007
+
+articles
+
+41
+6 september 2007
+
+articles
+extended phylogenetic profile
+orthogroup construction
+system evolution
+yeast cell machinery
+transcription module hierarchy
+biological noise
+limited biochemical divergence
+seventeen fungal genomes
+gene classes significantly change
+significantly high proportion
+copy number variation
+b1
+relax opposing constraints
+tata box control43
+global interaction networks
+h00 mac1
+h00 vma8
+h00 hydroxyurea
+paralogues non-wgd paralogues
+
+modules
+
+0
+216 gene expression profiles
+``gene balance hypothesis
+`gene balance hypothesis
+fasta identifies pairs
+paralogous pairs rarely migrate
+cytotopically related mrnas
+burroughs wellcome fund
+traversing backwards chronologically
+notoriously difficult problem22­31
+highlights inherent limitations
+r00 hog1 sorbitol
+responsive backup circuits
+truncating expression values
+occasional human pathogens
+overexpression reduces fitness44
+mann­whitney u-test
+competing financial interests
+coherent expression pattern37
+diverse ecological niches
+gene copy number
+duplicated genes rarely diverge
+regulatory motif discovery
+resolving gene ancestry
+systematic gene overexpression
+accession number
+
+aabx00000000
+accession number aaco01000000
+accession number ae016814-ae01682
+accession number aacd00000000
+accession number aaby01000000
+accession number aacm00000000
+accession number aadm01000000
+accession number aaca01000000
+accession number aacf00000000
+accession number aacu00000000
+accession number aabz01000000
+accession number aacq00000000
+essential growth processes
+shared functional constraints
+51/166 sporulation genes
+shared gene order32
+pairwise distance estimation
+evolutionary profiles correspond
+modified neighbour-joining procedure
+find coordinated gene losses
+companion technical manuscript32
+nucleic acids res
+high-throughput data sources46
+mutation data matrices
+phylogenetic gene tree
+000 randomly assigned orthogroup classes
+reciprocal gene loss
+providing global evidence
+avoid confounding factors
+nucleolus
+hybrid micro-macroevolutionary approach
+encode peripheral transporters
+saccharomyces genome database12
+predominant evolutionary mode
+shared interaction partners
+genetic backup circuits
+fungi
+ilan wapinski1
+massive duplication events4
+multiple sequence alignments
+ashbya genome database14
+candida genome database13
+animal gene families
+shuffling profile assignments
+0/2 paralogue pairs
+64/64 paralogue pairs
+`disjoint paralogue pairs
+author information reprints
+bootstrap-based confidence measures
+ancient genome duplication
+gene duplication innovates
+stress-related genes exhibit
+shared synteny scores53
+combining curated homology
+multiple sequence alignment
+cerevisiae-based gene classes
+whole-genome duplication circumvents
+whole-genome duplication alters
+high throughput
+similar volatility scores
+independent random variables
+disentangling cellular systems
+genetic networks improves
+shared regulatory mechanisms
+protein-coding gene predictions
+single hypothetical gene
+original orthologous pairs
+govern copy number
+gene tree reconstruction
+genome-wide housekeeping role
+gene duplication results
+networks roughly half
+functional principles generalize
+provide predictable drive
+hidden markov models
+phylip--phylogeny inference package
+single-cell proteomic analysis
+600 million years
+inferred root
+central limit theorem
+paralogous gene pairs
+independent manual assignments
+protein abundance41
+protein abundance
+protein complexes38
+protein sequences
+data set describing
+data set separately
+sequence profile analysis
+reflecting biological processes
+maximum-likelihood tree topology
+transcriptional modules exhibit
+forward simulated evolution
+general principles
+coarse functional classes
+roughly half show
+gene ancestry catalogue
+gene ontology36 hierarchy
+shared interacting partners
+fems yeast res
+transcriptional regulatory code
+regulatory divergence
+functional divergence
+similar sequence distances
+species tree showing
+pairwise species comparisons
+muscle alignment software61
+construction
+data sets generated
+tree represents genes
+paralogues systematic study
+uniform persistent essential
+biochemical interaction partners
+meiotic recombination genes
+synergy assigns orthologies
+single ancestral gene
+functional gene classes
+regulatory gene classes
+rooted tree determines
+tree pattern matching
+leftmost blue column
+system
+yeast saccharomyces cerevisiae
+rich media
+randomly generated duplications
+phylogenetic gene trees
+large group
+innovations typically arise
+provisional orthology assignments
+shared physical interactions
+single duplication event
+shared synteny scores
+human duplicate genes
+protein complexes
+reveal evolutionary innovations
+duplicate gene evolution
+reflecting molecular function
+root node
+050 predicted protein-coding genes
+gene ontology annotations
+dating gene duplications
+single common ancestor
+transcription factors
+expanded functional scope
+complete orthology assignment
+high level
+supplementary figs 7f
+supplementary figs 7d
+tree topology resulting
+method creates modules
+general trajectory
+reconfiguring molecular systems
+gene duplication events
+merges orthogroups formed
+conflicting phylogenetic position
+multigene sequence analyses
+computational sequence analysis
+determine precise orthology
+statistical enrichment tests
+implying divergence
+gene-bootstrap confidence measures
+cerevisiae transcriptional modules
+sequenced genomes enables
+functionally related genes
+reconstructed gene trees
+biological sequence comparison
+1038/nature06107
+
+methods
+pre-processing
+high accuracy
+yeast data set
+cerevisiae genes related
+accomplishing molecular innovation
+singleton arrow points
+expect coordinated migration
+coordinated manner resulting
+refining orthogroup assignments
+related biological process
+noise
+exact evolutionary history
+paralogous modules form
+transcription factor48
+transcription factors48
+orthogroup volatility scores
+hierarchical modular organization
+reconstructed functional history
+ashbya gossypii genome
+gene class clusters
+single-gene knockouts
+involving higher nodes
+specific gene class
+identify putative homologies
+rapid subfunctionalization accompanied
+standard poisson distribution
+full technical details
+relative enrichment compared
+automatic genome-wide reconstruction
+common ancestor identified
+homology relations based
+resulting module consists
+paralogues overwhelmingly disperse
+reconstructing phylogenetic trees
+israel science foundation
+reconstructed evolutionary events
+functional orthogroup classes
+modular gene regulation
+rich medium
+rich resource
+degree-preserving randomized network
+reconstructed orthogroups show
+hierarchical annotation data
+single concerted step
+constructed separate biochemical
+50 sampled uniform orthogroups
+uniform arrow points
+observed paralogous classes
+orthogroup evolutionary history
+gene class annotations
+common ancestral species
+orthogroups exhibit duplications
+sampling random orthogroups
+hemiascomycota
+
+ascomycota fungi
+chromosome-based evidence suggesting
+targets genes bound
+wgd events contribute
+combined score based
+physically interacting proteins
+a1
+genes rarely arise
+cell growth
+expression variation
+genes readily evolve
+expression profiles
+wgd paralogues wgd-
+define orthogroup classes
+projected orthogroup classes
+reconstructed ancestral genes
+b00 rpd3
+magnaporthe grisea
+essential essential-
+copy number
+retained paralogy relations
+cerevisiae reveals
+negative log p-
+functional fate
+root
+01% false rate
+1% false rate
+encode components
+typically diverge
+large levels
+systematically removing branches
+copy-number variation
+sequence profile
+genes essential
+047 genes essential
+730 genes essential
+36 essential genes
+essential genes
+functional discovery
+gene tree
+uniform persistent volatile
+gene expression
+manual correction
+clade spanning
+earlier studies suggested
+high
+gene ontology
+technical support
+cellular processes
+`fundamental processes
+pom spbc19c7
+closely related
+fewer induced genes
+single gene
+automatic search
+interaction partners
+nature genet
+pombe
+
+10 15 20 25 30 35 40 orthogroup size
+distant fungus
+bayesian inference
+principles similar
+global view
+saccharomyces cerevisiae
+essential functions
+gene function
+seventeen genomes
+gene families
+expression patterns
+fusarium graminearum
+tata box42
+divergence
+confidence measures
+sequence similarity
+gene duplication
+5
+gene duplication
+natural history
+functional networks
+stress modules
+manually curated
+curated database
+genome sequence
+gene orthology
+395 gene classes
+gene classes
+whole-genome duplication
+volatility scores
+functional innovations
+pairs show
+paralogous pairs
+biological processes
+paralogous modules
+full alignment
+multiple functional
+transcription
+gene trees
+observed variation
+ancestral gene
+complete set
+tree presented
+genome res
+pathway/genome databases
+cellular component
+expression measurements
+original assignment
+chromosomal order
+distinguishing homologous
+rna-binding motif49
+maximum-likelihood approach
+puf family49
+randomly permuted
+expanded scope
+affymetrix chips
+interacting partners
+`cellular component
+extensive association
+evolutionary principles
+data set
+phylogenetic relations
+molecular networks
+random networks
+163 transcriptional modules
+transcriptional modules
+specific points
+repeated ten times
+ascomycota fungi
+genome complexity
+gene present
+gene products
+modeling gene
+gene counts
+multiple tests
+coherence profile
+concerted patterns
+longer shared
+regulatory control
+sequence distances
+sequence segments
+species tree
+retention rate
+paralogous classes
+common ancestor
+significant similarity
+volatility metric
+~ {pa log pa
+paralogous relations
+evolutionary patterns
+homology relations
+volatile modules
+data sets
+non-wgd paralogues
+paralogues derived
+random pairs
+biochemical function
+phylogenetic trees
+average expression
+similar genes
+rarely share
+molecular function
+`molecular function
+synteny scores
+rooted tree
+tree descended
+evolutionary history
+/[min
+disparate mechanisms
+paralogue assumes
+results highlight
+l1 distance
+single component
+single hit
+6 september 2007
+
+volatility
+gene class
+evolutionary model
+random variable
+genome-wide history
+loss events
+exact numbers
+genomic evidence
+largely unknown
+largely unchanged
+stress responses
+previously described11
+previously described33
+closely approximated
+orthology assignments
+shared interactions
+predicted orthogroup
+duplicate genes
+phylogenetic attributes
+phylogenetic relationships
+136/318 pairs
+ignoring pairs
+1 broad institute
+broad institute
+predicted genes
+gene duplications
+growth modules
+modules based
+distinct function
+data attained
+albeit rarely
+rarely otherwise3
+multiple rounds
+includes orthogroups
+functional hierarchy
+functional properties
+functional innovation
+regulatory utilization
+regulatory elements
+functional dichotomy
+functional conservation
+inferred number
+growing number
+reveal innovation
+candida albicans
+formed gradually
+readily tolerate
+cog database
+manually selected
+module hierarchy
+unbiased manner
+manually selecting
+phylip package
+highly constrained
+homology searches
+rapid generation
+evolutionary analysis
+evolutionary characterization
+evolutionary potential
+evolutionary innovation
+evolutionary correlations
+evolutionary rates
+evolutionary forces
+evolutionary dichotomy
+evolutionary innovations4
+significantly volatile
+expression array
+supplementary figs 7
+supplementary figs 5
+supplementary figs 7­9
+genetic redundancy
+genetic signature
+genetic networks46
+genetic `back-ups
+gradual duplication
+simultaneous duplication
+cerevisiae cells41
+molecular systems
+significant change
+conserved synteny
+genome-wide catalogue
+hierarchical clustering
+genome-wide profiling
+paralogous proteins
+number orthogroups
+genome sequences
+neoformans genome
+eukaryotic genome
+gene identification
+supplementary information
+subsequent patterns
+000 hypothetical orthogroups
+103 multigene orthogroups
+orthogroups belonging
+regulatory branches
+phylogenetic position
+orthology analysis
+multiple paralogues
+multiple genomes
+ascomycota evolution
+saccharomyces castellii
+automatic clustering
+invoke fewer
+cytoskeleton organization
+analysis shows
+control sample
+finer resolution
+permissions information
+possibly reflecting
+manual curation33
+paralogy relations
+pre-duplication organization
+cell 102
+coordinated fashion
+cell
+cell 21
+cell 13
+computational method
+functional level
+average number
+number genes
+sequenced genomes
+interacting genes
+paralogous genes
+genes belonging
+module genes
+genome evolution
+cerevisiae annotations
+significant annotations
+volatility score
+000 uniform number
+observed number
+online version
+noisy levels
+standard deviations
+substitution model
+full details
+null hypothesis
+genomics data
+biochemical networks46
+cerevisiae genes
+putative orthogroups
+respective trees
+interim trees
+putative orthogroup
+singleton orthogroup
+orthogroup consists
+earlier stages
+coordinated migration
+genomic locations
+direct reconstruction
+phylogeny includes
+essential
+`biological process
+biological process
+genetic network
+singleton genes
+synergy produced
+synergy partitions
+synergy starts
+designed synergy
+specific annotations
+volatile orthogroups
+score assigns
+genome duplications
+yeast species
+deriving modules
+sampling procedure
+hierarchical fashion
+supplementary table 1
+supplementary table 2
+supplementary table 3
+supplementary table 4
+supplementary table 5
+supplementary table 6
+supplementary notes 2
+ancestral orthogroups
+multiple hypotheses
+paralogues share
+functional distinctions
+volatile genes
+reconstructed genes
+orthogroup reconstruction
+ancestral species
+2fas center
+arabidopsis suggests
+mechanistic dichotomy
+notably deletions
+authors declare
+7 divinity avenue
+post-wgd lineages
+functionally diverged
+natl acad
+fas center
+eventually simplify
+kyoto encyclopedia
+dashed oval
+massachusetts institute
+bootstrap evaluation
+chromosomal positions
+statistical benchmark
+longpostulated importance
+sporulation
+6879 yali0e28600g ncu08032
+aspergillus nidulans
+broader result
+detailed description
+tightly controlled
+grey bars
+subsequently treated
+schizosaccharomyces pombe
+1093/ bioinformatics/bmt193
+vast majority
+accepted 20 july 2007
+growing availability
+e136­e141
+temporally separated6
+remarkably synchronized
+numbered boxes
+overwhelming importance
+remarkably robust
+theory suggests4
+grey lines
+chromatin modifiers
+standard methods
+enrichment significance
+d572­d580
+subsequently performs
+notable exception
+analytical framework
+avi pfeffer3
+1 ja1 2 a2j
+variance s2
+subsequently normalize
+cis-regulatory motif48
+transcriptional program
+post-genome analysis
+bmc bioinform
+major forces
+hebrew university
+lenient threshold
+governs tolerance
+biocyc database59
+dichotomy extends
+career award
+higher nodes
+received 21 march
+trends genet
+default parameters56
+default parameters57
+euascomycota clade
+cryptococcus neoformans
+empirical rates
+endoplasmic reticulum
+alternative mechanism
+biologically meaningful
+full methods
+allowing adaptation
+optimally perform
+severing links
+aregev@broad
+previous drafts
+similarly define
+potential homologues
+haploinsufficient genes39
+cisregulatory element
+poorly understood
+broad distinction
+improved tools
+orange ovals
+33 oxford street
+double mutants
+d169­d172
+understanding cancer
+expected enrichment
+subsequent analyses
+1038/nature06107
+
+statistic
+haploinsufficiency revealed
+i7­i15
+intermediate behaviour
+lack thereof
+respective transcripts
+comparative analysis
+estimating significance
+s38­s45
+inferred solely
+single-gene knockouts40
+differential flexibility
+molecular interactions
+ancestral interactions
+specific duplications
+wgd show
+duplication occurred
+development
+
+stress
+biochemical network
+supplementary note 3
+supplementary note 2
+supplementary note 1
+supplementary note 5
+supplementary note 4
+vertebrate evolution
+wgd event
+molecular network
+analogous proteins
+genome correspondence
+orthogroups present
+builds orthogroups
+intermediate orthogroups
+candidate orthogroups
+random distribution
+permit retention
+post-wgd retention
+total number
+orthogroup sizes
+orthogroup depending
+candidate orthogroup
+orthogroup catalogue
+non-uniform orthogroup
+daughter species
+post-wgd species
+choice species
+polyploid species
+reconstruction algorithm
+previous stages
+systematically assess
+neighbor-joining method
+scalable method
+class sizes
+branches denote
+mips database
+major branches
+subsequent stages
+significant losses
+paralogues diversify
+paralogues specialized
+metazoan genomes
+glabrata owing
+colour scale
+consistent assignments
+current level
+genes present
+genes residing
+genes controlled
+genes inferred
+neighbouring genes
+stress-responsive genes
+genes involved
+synergy algorithm
+conserved interactions
+regulatory specialization
+persistent orthogroups
+ancestral node
+yeast species43
+saga
+computer science
+blue bars
+black line
+black bars
+blue strikes
+large
+spatial pattern
+studies addressing
+applied synergy
+significantly induced
+significantly consistent
+red star
+gene-balanced duplications
+simultaneous duplications
+persistent genes
+purple arrow
+random expectation
+synergy procedure
+resulting network
+real network
+orthogroup class
+independently lost
+bootstrap run
+hypergeometric distribution
+gaussian distribution
+annotation hierarchy
+synthetic phenotypes
+distinct complexes
+comparative genomics
+intricate complexes
+overexpression44 phenotypes
+phylogeny reconstruction
+log2 pa
+018 uniform orthogroups
+uniform orthogroups
+genome biol
+individual branch
+branch lengths
+internal node
+tail probability
+applied sciences
+uniform orthogroup
+exact test
+procedure presented
+paralogues retained
+nature
+nature 441
+nature 440
+nature 434
+nature 430
+nature 438
+nature 428
+nature 424
+nature 423
+nature 415
+nature 431
+genes descended
+appearing orthogroups
+systems biology
+neurospora crassa
+unrooted phylogeny
+recognizable orthologues
+mapping pathways
+comprehensive curation
+nidulans euascomycota
+epps consisting
+indicating major
+similarly executed
+darker pink
+testing consistency
+downloaded july 2005
+identifying orthologues
+harvard university
+interspecies variations
+measured sample
+swapping edges
+annotation class
+/ annotation/fgi/
+centroid
+// hmmer
+nodes 106 times
+dosage sensitivity
+powerful source
+scientific interface
+candidate orthologues
+genes lost
+wgd events
+green arrow
+supplementary fig
+trees obtained
+score based
+wgd paralogues45
+77 massachusetts avenue
+// www
+constraints
+identify genes
+orthogroups assembled
+significantly enriched
+species phylogeny
+extant species
+polyploid yeasts
+reasonable estimate
+partial `division
+yellow ovals
+biocyc collection
+subsequently validated
+kluyveromyces waltii
+qualitatively distinct
+debaryomyces hansenii
+estimated rates
+yarrowia lipolytica
+distinct functions
+variation
+originally assigned
+current stage
+previous stage
+stage pertaining
+profiles
+computed analytically
+blue arrows
+substantial neofunctionalization
+7 cambridge center
+probability 1 2 pa
+probability pa
+plos biol
+red columns
+step-wise process
+measure considers
+observed score
+expected distribution
+losses observed
+identifying arrays
+average differences
+left columns
+profile
+interaction
+tree
+sub-trees joined
+ag fa [
+nid
+expression
+bottom left
+left panel
+subfunctionalization index
+gene
+volatility
+alignment
+duplicate
+reflecting
+expected range
+doi
+input quality
+results
+mechanisms
+test sensitivity
+networks
+computing degree
+variables
+role
+grisea
+`stress
+loss
+pairs
+modules
+function
+rarely
+data
+show
+regulatory
+functional
+000 100 1
+
+number
+number
+organisms
+increasing
+principles
+assignment
+map
+functionally
+marked
+modularity
+interact
+belong
+database
+categories
+haploinsufficiency39
+eukaryotes
+module
+sources
+1038/nature06107
+
+57
+made
+similarity
+fungi
+ascomycota
+duplication
+cerevisiae
+topology
+significant
+set
+genome
+scores
+patterns
+orthology
+classes
+graminearum
+principle
+half
+resolution
+modular
+numbers
+transcriptional
+clusters
+history
+assignments
+ancestor
+yeast
+predictions
+version 3
+model
+meiosis
+sets
+313 `volatile
+volatile
+biochemical
+significantly
+share
+reconstructed
+arrow
+random
+systems
+molecular
+trees
+ancestral
+`ancestral
+ancestral `
+reconstruction
+synergy
+events
+limited
+govern
+reconstructing
+catalogue
+evolve
+`gene-bootstrap
+form
+evidence
+models
+change
+paralogy
+drive
+physically
+disperse
+degree-preserving
+comparison
+determine
+`growth
+nodes
+ten
+israel
+arise
+hierarchy
+dichotomy
+projected
+regulated
+higher
+analysis
+distances
+innovation
+resulting
+pombe
+identified
+based
+tend
+sequences
+define
+æhttp
+http
+muscle
+sequencing
+growth
+broad
+analyses
+limit
+details
+`persistent
+persistent
+evolution
+proteins 1
+proteins
+annotations
+6 september 2007
+726 orthogroups
+`orthogroups
+orthogroups 1
+orthogroups
+110 orthogroups
+100% retention
+retention
+note
+0%retention
+orthogroup
+species
+branches
+stages
+method
+class
+paralogues
+160 genomes
+level
+average
+glabrata
+scale
+genomes
+coherence
+047 genes
+genes
+17 genes
+25 genes
+84 genes
+interactions
+blue
+observed
+uniform
+descended
+black
+`uniform
+rooted
+retained
+find
+studies
+methods
+pattern
+position
+science 304
+science 302
+process
+red
+duplications
+network
+network 1
+fashion
+complexes
+suggested
+appearing
+targets
+annotation
+size
+genomics 88
+removing
+program
+gossypii
+run
+algorithm
+phenotypes
+lost
+hemiascomycota
+distribution
+1{pa
+pa
+identify
+applied
+left
+node
+duplicated
+cluster
+probability
+branch
+procedure
+­ log
+log
+procedure 10
+{ log
+~ { log
+assembled
+orthologues
+consistent
+species43
+significance
+hypotheses
+executed
+sensitivity
+harvard
+expected
+joined
+possibly
+statistic
+purple
+epps
+computing
+/
+swapping
+downloaded
+fa [
+pink
+expectation
+albicans
+correspondence
+arrows
+suggesting
+locations
+proportion
+sub-trees
+scientific
+ag
+000 times
+diverged
+extant
+mapping
+induced
+regulation
+measured
+columns
+migration
+p-
+comprehensive
+consistency
+source
+phylogeny
+step-wise
+benchmark
+indicating
+index
+occurred
+crassa
+hmmer
+times
+distinctions
+quality
+constrained
+accuracy
+euascomycota
+identification
+deriving
+variations
+array
+`migrate
+score
+subfunctionalization
+migrate
+defined
+losses
+wgd
+www
+026
+wgd
+
+5
+massachusetts 02139
+massachusetts 02138
+constructed
+step 1
+massachusetts 02142
+step 2
+step 3
+step 4
+repeated
+compared
+fig
+yellow
+qualitatively
+estimated
+total
+validated
+bottom
+functions
+differences
+division
+range
+lipolytica
+waltii
+yeasts
+hansenii
+estimate
+mips
+panel
+collection
+assess
+biology
+assigned
+stage
+obtained
+green
+specialization
+test
+cambridge
+castellii
+development
+input
+`development
+castellii ´
+computed
+neofunctionalization
+biol
+measure
+degree
+arrays
+enriched
+calculate
+summarizes
+wapinski
+reconstructions
+affect
+modularize
+candidagenome
+10b
+10a
+follow
+chen
+kanehisa
+& boekhout
+/regev/orthogroups/
+species41
+tirosh
+gla
+leaves
+changed
+9d
+9f
+neighbours
+separated
+organized
+node50
+suborthogroups
+end
+dietrich
+lac
+davis
+types
+summing
+deutschbauer
+maintain
+origin
+2 2 2 2 2 2 1 1 1 1 1 2 2 2 1 2 1 1 1 1 1 1 1 1 0 0 1 0 0 0 0 0
+
+spac22h10
+summarized
+london
+chance11
+difference
+sources33
+mcmc
+& sennblad
+reguly
+pombedb21
+arvestad
+gos
+created
+isf
+favoured
+log-ratio
+force
+janelia
+annotated
+top
+perturbations
+tool
+incur
+branch-
+increment
+circles
+calculated
+signatures
+participate
+pupko
+cerevisiae36
+bay
+architecture
+radius
+discussions
+cladistics 5
+extent
+& hurst
+edgar
+contribution
+subfunctionalization11
+reconstructs
+tzung
+r43
+union
+9 postulates
+lactis
+paralogy21
+remm
+characterizing
+cona
+hong
+make
+07c
+normalization
+epp
+000
+
+100
+
+10
+
+1
+
+1 archeascomycota
+
+5
+materials
+refinement11
+promoter48
+han
+& robnett
+5a
+tolerable
+5c
+5b
+unification
+usa 103
+usa 102
+saitou
+dean
+zool
+proceeding
+blomme
+comments
+repression
+e79
+shamir
+peer
+modularization
+oryzae
+obtaining
+beneficial
+wal
+inspected
+fraction
+& pugh
+yeastgenome
+ecvps
+& lipman
+benchmarks
+accounting
+generally
+corrected
+treefam
+jones
+assume
+time
+dujon
+grateful
+rectangles
+aligned
+gerber
+finally
+& petrov
+emphasizes
+inconsistent
+ecvp
+ashburner
+tasneem
+subtracting
+supporting
+climbs
+isf 5 1 2
+groups
+tallying
+studied
+& sonnhammer
+wealth
+regev
+kafri
+cases
+cas
+facilitating
+4school
+making
+performed
+counting
+conversely
+strikingly
+syst
+levy
+explored
+deviates
+derive
+evol
+wong
+pleiotropy
+tetraploidy
+genomes58
+shown
+contained
+sopko
+e-
+possibility
+statistics
+remainder
+unwin
+arnaud
+motion
+gordon
+ninio
+1a
+1b
+white
+participated
+org/æ
+3school
+berglund
+collects
+allen
+paralogs
+friedman
+zotenko
+pair
+considered
+orgæ
+dispersed
+pvalue
+coco-cl
+2 fg04275
+& barkai
+wood
+bioinformatics 19
+mikatae
+designated
+pre-computed
+consist
+sum
+paper
+mewes
+uncover
+violated
+label
+article
+snel
+absence
+225/543
+differently
+innovation1
+kurtzman
+opportunistic
+ethier
+case
+hughes
+variances
+halldorsson
+microarrays
+duplicating
+technology
+pruning
+par
+migration/
+scannell
+pal
+& farach-colton
+& wolfe
+taxa
+gavin
+segal
+mol
+gri
+`completeness
+dudley
+& zhang
+origins
+addition
+berger
+references
+tata-independent
+dufayard
+log-probability
+genolevures15
+agree
+al
+examine
+completeness
+attaining
+deviation
+briefly
+nucleus
+included
+starting
+migrated
+sci
+alb
+returning
+& thomas
+concatenating
+prolonged
+small
+employing
+computation
+rootings
+ohno
+section
+thickness
+11c
+
+1
+contrast
+pearson
+felsenstein
+concluding
+paradoxus
+amount
+specialize
+nigms
+& brown
+lander
+constructs
+tested
+kaminski
+compare
+subfunctions
+clades
+reflect
+bioinformatics
+develop
+response
+bioinformatics 23
+bipolarity
+lynch
+noughts
+solving
+kuramae
+cer
+soundness
+2d
+2e
+2f
+2a
+2b
+2c
+found
+constructing
+weight
+positioned
+connect
+robert
+viability
+difficulty
+reason
+members
+privman
+beginning
+excluding
+bioinformatics 21
+bioinformatics 22
+fischer
+bayanus
+eddy
+characterize
+storm
+lagergren
+`retain
+jerusalem 91904
+determined
+karp
+comput
+compromised6
+herschlag
+labour
+lip
+rifkin
+patterson
+evolution12­21
+& friedman
+in-paralogs
+isogenic
+5department
+occur
+compiled
+wgd4
+`age
+cra
+birren
+2-fold
+usa 98
+acknowledgements
+bar-
+hiding
+reduce
+acted
+create
+due
+describes
+4281 yali0e26873g
+evaluating
+averaging
+huisinga
+twofold
+questions3­11
+janse
+lower
+hypothesized
+& regev
+conclusions
+& nei
+evaluate
+interestingly
+manifest
+individuals
+/reprints
+proc
+& koller
+stem
+fumigatus
+analysing
+constraint
+tracing
+pie-charts
+cutoff
+usa 85
+suppl
+rows
+byrne
+relaxes
+kellis
+engineering
+sharing
+weinberger
+gra
+papp
+sir3
+normalized
+gu
+fitch
+& church
+base 2
+relation
+neofunctionalization11
+tanay
+1 mg07082
+11a
+experiment
+3b
+3a
+3d
+rando
+ones1
+vol 449
+addressed
+apply
+`soundness
+usa
+labelled
+freeling
+archeascomycota
+averaged
+proof
+tatusov
+induction
+counted
+bins
+including
+event14
+li
+inspecting
+greater
+attains
+newman
+requests
+attachments
+deviated
+ref
+8b
+& conery
+facilitate
+manuscript
+& vernot
+appl
+vertebrates
+completed
+carmi
+twos
+mitochondrion
+linked
+mik
+mit
+harbison
+fact
+/nature
+supported
+superimposed
+saturated
+principal
+knowledge
+receptors
+durand
+mantenuto
+means
+quantified
+aforementioned
+notung
+//www
+fixed
+euascomycota16
+species3
+comparable
+ability
+& li
+jothi
+hits
+equal
+attributed
+strains
+endrizzi
+taylor
+respect
+genetics 170
+describe
+biosci
+subsets
+4 an0190
+surprisingly
+examined
+& pilpel
+highlighted
+000
+singletons
+
+10
+tfiid42
+galagan
+appearances
+effect
+frequently
+compendium
+daneau
+records
+nonetheless
+`branch-bootstrap
+bottom-
+proximity
+point
+73 versus 6
+essentiality
+& lander
+identical
+resolves
+averages
+simply
+repressed
+assuming
+11c
+11b
+analysed
+expansion
+rare
+basis
+introduced
+pfeffer
+maere
+speciation
+regarded
+makova
+& thornton
+& przytycka
+kegg
+gain
+genetics 169
+highest
+compute
+partitioned
+cells
+projecting
+variety
+orthologs
+matrix
+duplication5
+4e
+4c
+4a
+805­814
+49
+164­166
+107
+1992
+1997
+41
+1157­1164
+1915­1925
+­
+666 10
+726 5
+54%
+604
+
+5
+11
+323 6
+406­425
+536 3
+163
+304­307
+1638­1645
+1970
+10215
+10211
+387­393
+58
+55
+56
+53
+52
+54
+50
+778 6
+64624
+2596­2603
+81%
+296 6
+417­432
+1456­1461
+846 6
+980­986
+57
+
+10
+483 5
+99­104
+10232
+10230
+10236
+794
+3249­3253
+295­299
+10
+13
+12
+15
+14
+17
+16
+19
+18
+]
+640 9
+99­113
+92%
+319­330
+1025­10222
+985 8
+3
+24
+10224
+10220
+60
+61
+62
+66
+99612
+5454­5459
+135 6
+275­282
+78%
+871­880
+84%
+103 6
+1025
+1024
+1026
+148 5
+1023
+1029
+1028
+2002
+5
+577­579
+1105­1115
+375­376
+0
+85%
+6
+927 6
+347 5
+25
+26
+27
+20
+21
+22
+23
+28
+29
+~
+
+2
+320­335
+533 9
+7
+779­788
+972
+979
+1401­1404
+331 4
+273
+5
+595 5
+45
+
+50
+70
+830­834
+194­197
+668
+429­447
+2
+310
+[
+109­126
+4
+0001
+873
+9
+006
+008
+541 4
+541 9
+1792­1797
+2003
+2000
+2001
+2006
+2007
+2004
+2005
+1041­1052
+620 11
+106
+
+5
+792 7
+25­29
+39
+38
+33
+32
+31
+30
+37
+36
+35
+34
+8
+241­254
+11653­11658
+027 5
+æ
+319­355
+1
+631­636
+573­585
+022
+87
+617­624
+047 9
+59
+314
+51
+127 7
+121
+72%
+548­551
+211 6
+686 6
+2444­2448
+26%
+840­846
+433­446
+35­44
+341­345
+1987
+1988
+1989
+70%
+48
+46
+47
+44
+45
+42
+43
+40
+6083­6089
+896 6

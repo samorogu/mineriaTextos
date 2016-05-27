@@ -1,0 +1,1619 @@
+fine glial processes wrapping purkinje cell synapses
+gal versus ­gal media significantly induced gal1
+mata his3 1 leu2 0 met15 0 ura3 0
+dotted interactions denote model refinements supported
+systematically perturbed metabolic network trey ideker
+wild-type haploid mata strain by4741
+provide vital innate host defense
+identify explicit physical interactions governing
+wt gal versus wt gal perturbation
+wt gal versus wt­gal perturbation
+gal80 exert tight transcriptional control
+biological processes [gene ontology database
+protein expression versus mrna expression ratios
+figure 3 shows protein-abundance ratios versus
+systematically perturbed metabolic network
+
+approaches
+amino acid synthesis genes regulated
+network connecting perturbed gal genes
+natural killer cell activation receptor
+molecular interactions governing pathway function
+gal1 gal10 double deletion growing
+identify 997 messenger rnas responding
+immunoreceptor tyrosine-based activation motif
+receptors functionally resembling itam-coupled
+accepted 5 april 2001
+
+vital involvement
+gal4 gal80 ­gal double deletion
+required interactions linking galactose utilization
+accepted 20 march 2001
+
+trey ideker
+inhibitory major histocompatibility complex
+lighter shades represent increased
+mouse genome informatics database
+express rearranged antigen receptors
+early innate host defense
+selective nk cell deficiency
+previous binding-site prediction study
+wt­gal versus reference
+nk cell activation receptor
+ribosomal-protein genes increased three-
+saccharomyces genome deletion project
+deletion strain versus reference
+design additional perturbation experiments
+identify potential binding sites
+correlations identify network interactions
+genetically altered yeast strains
+common transcription factor c3
+mrna levels differed significantly
+gene clusters [complete data provided
+transfac site matrix m00049
+gal10 deletions unexpectedly reduced
+amino acid synthesis
+317 protein3 dna interactions recorded
+nk cell activation receptors
+nk cell­ depleted mice
+bergmann glia elicited morphological
+org/cgi/content/full/292/5518/929 supporting online material
+strongly correlated expression profiles
+previously identified [web table 3
+­specific nk cell receptors
+log10 mrna expression ratios
+cells lacking functional gal7
+quantitatively measuring protein expression
+highly correlated target gene
+mrna expression profile correlations
+previously observed physical interactions
+approximately 6200 nuclear yeast genes
+mrna expression level differed
+nucleotide weight matrix model
+wt gal protein expression
+gal4p directly regulates genes
+unknown function [web table 1
+mrna expression ratios measured
+rearranged antigen receptors
+gal80 ­gal expression profile
+key molecular interactions
+significantly greater proportion
+approximately 30 proteins displayed clear
+clusters contained genes involved
+figure 2b shows
+common biological function
+identify putative interactions
+cell antigen receptors
+obtain robust estimates
+translation start sites
+tissue homogenates collected
+ca2 -impermeable receptors
+lymphocytic choriomeningitis virus
+small molecules constituting
+van den engh
+tandem mass spectrometry
+tandem mass spectra
+f1 hybrid offspring
+highly interconnected groups
+single purkinje cells
+sequence-tagged site markers
+fully sequenced genomes
+york avenue nw
+print issn 0036-8075
+yellow arrow directed
+log10 expression ratios
+yeast saccharomyces cerevisiae
+yokoyama1
+natural killer
+gal2 gal80 ­gal perturbation
+directed experimental approaches
+strongly activate transcription
+metabolic substrates required
+well-characterized gal4p-binding site
+established gal4p-binding sites
+ca2 -permeable ampars
+obtained protein-abundance ratios
+strongly correlated genes
+sensing toxic levels
+wt gal reference
+nk cell receptors
+matrix shows expression
+cytolytic granules [reviewed
+saturating mutant screens
+activate tumor cytotoxicity
+nucleic acids res
+isotopecoded affinity tag
+figure 4a displays
+predict cellular behaviors
+expression data suggests
+play key roles
+recurrent systemic infections
+f1 hybrid mice
+inbred progenitor strains
+mrna-expression ratios obtained
+log10 expression ratio
+normal icat isotopes
+online issn 1095-9203
+diverse data types
+reduced expression levels
+average expression profiles
+distinguishing cell types
+average titer determined
+gcr2­ gcr13 tpi1
+glutamatergic synaptic transmission
+caused multiple innervation
+limit metabolite accumulation
+gray scale intensity
+iteratively repeat steps
+nearest upstream orfs
+including high-resolution figures
+compare rightmost column
+extremely powerful technology
+physical linkage map
+preventing surplus cfs
+biorad 10dg columns
+protein3 dna interactions
+wt­gal conditions 0
+wt­gal conditions
+extensive biochemical studies
+nk cells participate
+gal4 colored red
+positive regulators gal3
+protein3 dna interaction
+wt­gal cultures
+specific peptides originated
+tree comparing gene-expression
+ly49 gene cluster
+gal genes compare
+997 significantly affected genes
+gal gene expression
+complete regulatory mechanism
+yeast galactose-utilization pathway
+regulatory factor thought
+genetic linkage map
+cellular doubling time
+viral infection
+michael
+gluconeogenic genes controlled
+mechanism consisting primarily
+gal model suggested
+mrna expression profiles
+global measurement mature
+critical pathway components
+genetic regulatory switch
+integrated physical-interaction network
+gal enzymes regulated
+bxd-8 chimeric chromosome 6
+resulting peptide mixture
+play important roles
+understanding biological systems
+high sequence similarity
+statistical method based
+organ viral titers
+underlying regulatory interactions
+289 proteins [web table 1
+repressor gal80 caused
+yeast metabolize galactose
+enzymes required specifically
+bxd-8 mice possess
+relevant genetic perturbation
+normal icat reagents
+cell populations compared
+fluorescently labeled cdna
+c57bl/6 alleles account
+mrna expression responses
+cluster contained genes
+contained genes involved
+gal gene due
+deletion strains grown
+2008
+
+reports
+expression resulting
+nodes represent genes
+twenty initial perturbations
+gal1 gal10 strain
+4 column self-organizing map
+article cites 27 articles
+systematically explain
+glial processes
+mcmv smith strain
+protein-abundance ratios
+gene clusters affected
+galactose utilization consists
+direct dna-binding assay
+explain
+
+reports
+observations
+gal4 gal perturbation
+perturbed strain
+significant expression decrease
+c57bl/6 nkc alleles
+gal80p binds gal4p
+org science vol 292 4
+global cellular response
+activation receptors
+strains gal2 gal80
+display mcmv susceptibility
+chromosomal regions derived
+innate defense
+similar expression responses
+glutamatergic synapses
+regulatory genes gal3
+2001 vol 292 science www
+metabolic processes
+bxd-8 loci reported
+enzymatic genes encodes
+purkinje cells
+applied 20 initial perturbations
+perturbed environmentally
+yeast growing
+natural killer
+increased levels
+nkc loci shown
+wt gal
+weight matrix
+complete deletion
+dotted branches
+glial cells
+producing synapses
+gal4p-binding sites
+log10 ratio
+significantly affected
+web table 1
+web table 2
+web table 4
+reduced expression
+pathway activation
+figure 2 displays
+binding site
+transcriptional interference
+control experiments
+deletion strain
+protein3 dna
+gene deletions
+reference strain
+specific infections
+bergmann glia
+gene deletion
+complete sequence
+dna-binding factor
+network display
+innate immunity
+moderately correlated
+half shows
+physical-interaction network
+yeast genome
+provide evidence
+mouse chromosome 6
+transcription factor
+physical interactions
+previous genetic
+expression levels
+gal1 gal
+global network
+matrix similarity 0
+expression profiles
+chromosomal interactions
+mrna levels
+peptide mixture
+physical map
+early access
+direct binding
+supplementary material
+directly involved
+extremely powerful
+biological models
+figure background
+biological states
+doubling time
+nucleotide sequences
+mrna expression
+­gal media
+gal media
+dna binding
+mrna populations
+gene expression
+unknown function
+network tend
+change significantly
+3% versus 2
+metabolic derivatives
+nk cells
+2008
+
+reports
+ampars
+transcriptionally regulated
+regulatory mechanism
+largescale data
+complete replacement
+regulated posttranscriptionally
+gal80 mutant
+gal pathway
+perturbation matrix
+expression clusters 1
+mrna measurement
+gal conditions
+­gal conditions
+unknown mechanism
+hypothesis-driven approaches
+protein expression
+protein interactions
+matrix summarizing
+isi web
+icat method
+cell biology
+critical involvement
+directly transmitting
+individual mouse
+org/cgi/content/full/292/5518/929#otherarticles
+gal genes
+gal10 gal
+regulatory interaction
+expression profile
+cellular pathway
+natural killing
+physical maps
+profile consists
+cellular perturbation
+perturbation profiles
+gal enzymes
+detectable levels
+proteins required
+constitutive expression
+widespread expression
+gal-enzyme expression
+interactions form
+interactions culled
+affected gene
+100 articles hosted
+synaptic activities
+mechanisms underlying
+respond specifically
+transcriptionally controlled
+viral replication
+fluorescent intensity
+medium gray
+affinity chromatography
+integrative studies
+generally thought
+self-organizing maps
+reviewed extensively
+glycogen accumulation
+negative control
+tumor killing
+displayed relative
+biochemical pathway
+mrna counterparts
+elevated mrna
+strong mrna
+expression observed
+mutants gal1
+gal1 gal10
+suppress transcription
+highly expressed
+gene products
+metabolic pathways
+gal80 perturbation
+protein responses
+observed mrna
+critically involved
+visual display
+protein-expression measurement
+nodes representing
+systems biology
+2008
+
+counter infections
+critical reading
+biochemical research
+c57bl/6-infected mice
+genes involved
+viral titers
+initial model
+cellular response
+identical strains
+regulatory phenomena
+identical media
+protein-protein interactions
+2709 protein-protein interactions
+mcmv replication
+wild-type cells
+galactose utilization
+dna microarrays
+protein metabolism
+signaling protein
+protein encoded
+icat technique
+perturbation conditions
+high level
+labeled cdna
+distinguish alleles
+c57bl/6 alleles
+strains grown
+online version
+integrated genomic
+integrated mrna-
+loci reported
+nkc-linked loci
+2008
+
+integrated genomic
+global measurements
+integrated analyses
+gal4 gal80
+pathway component
+997 affected genes
+drug-resistance pathway
+affected genes
+genetic position
+1% yeast extract
+protein-protein interaction
+perturbation leads
+gal transporter
+­gal set
+cell biol
+observed responses
+protein-dna interactions
+rosetta inpharmatics
+quantitative evaluation
+1 roger bumgarner
+ongoing attempt
+ketten¨ ¨ mann
+leda platform
+solid arrowheads
+signal transduction
+2-fold increase
+rights reserved
+cation-exchange-chromatography fraction
+distinct steps
+surrounding ly49h
+differential comparison
+confirmed experimentally
+higher eukaryotes
+registered trademark
+genes graphically
+assumption overestimates
+genes chosen
+cmv1 locus
+large-scale mrna-
+genes linked
+unanticipated observation
+1 jeremy buhler
+2 leroy hood1
+maximum-likelihood estimation
+results underscore
+87 remaining genes
+genes tend
+mcm13 far1
+physically interacting
+physically interact
+dramatic increase
+recombination breakpoints
+large-scale comparison
+open bars
+1 ruedi aebersold
+ly49n pseudogenes
+proven invaluable
+higher-than-expected frequencies
+hexose transporters
+loxp-kanr-loxp cassette
+replicate hybridizations
+promoter regions
+blue line
+multidimensional chromatography
+generous gift
+kill tumors
+drawtree programs
+leda toolbox
+genecluster application
+far1 alternatively
+interacting networks
+open arrowheads
+steps involving
+protein-expression measurements
+graphical layout
+enlarged version
+nkcb6 haplotype
+quantitative proteomics
+functions predominantly
+single-deletion mutants
+acquired immunity
+large quantities
+likelihood statistic
+obtaining reprints
+informative discussions
+salt gradient
+org/cgi/content/ full/292/5518/926/dc1
+two-hybrid assays
+subject collections
+published weekly
+monomeric avidin
+identified 997 genes
+geometric computing
+enabling construction
+wild type
+/­ gal
+closely paralleled
+febs lett
+including galactokinase
+horizontal bars
+inflammatory cytokines
+gal1-10-7 locus
+operation results
+2molecular biotechnology
+repressing sugars
+schematic diagram
+2 104 plaque-forming units
+published list
+800 bp upstream
+future publication
+solid bar
+equal amounts
+identically sized
+sloan foundation/
+derivative molecule
+proteomic analyses
+2 rowan christmas
+good agreement
+incompletely understood
+alternative scenarios
+two-hybrid system
+gal10 influences
+/nbt/web_extras/ supp_info/nbt1200_1257/] 4
+scatter plot
+initially characterized
+genes appearing
+resources related
+science online
+protein abundance
+gal1 activity
+expression change
+enzymes produced
+gene gal6
+observed expression-level
+global analysis
+cell mol
+grown overnight
+nature biotechnol
+nature genet
+core similarity 0
+nodes signifies
+liver titers
+350 mm kcl
+initial hypothesis
+clustered based
+5 mm kh2po4
+1 mm edta
+maximum obtained
+50 mm tris 8
+200 mm polysulfoethyl
+spleen titers
+software based
+gal4 led
+pathwayspecific model
+dtl
+
+science
+36 tested loci
+title science
+integrated approach
+3computer science
+transports galactose
+nonspecific response
+updated information
+gene shown
+galactose induction
+transporter gene
+org/cgi/collection/genetics information
+supplementary information
+converts galactose
+intracellular galactose
+virusencoded proteins
+proteins extracted
+289 detected proteins
+proteins enhance
+large distance
+metabolite gal-1-
+euclidean distance
+comprehensive analysis
+derived predominantly
+computational analysis
+hierarchical-clustering tree
+protein extracts
+growth conditions
+solid branches
+tested experimentally
+spot represents
+point represents
+mig13 fbp1
+sip43 fbp1
+american association
+providing evidence
+murine cytomegalovirus
+examined global
+selected loci
+genetic perturbations
+2% raffinose provided
+environmental perturbation
+slow growth
+mrna
+
+fig
+tideker@ systemsbiology
+large part
+5 ml h2o
+gal6 produces
+minimum number
+cambridge univ
+identify
+isotopically heavy
+manner similar
+relative abundances
+prevent build-
+potentially interfere
+constructed analogously
+large number
+refinements
+involves genes
+highwire press
+20 systematic perturbations
+existing databases
+org/cgi/content/full/292/5518/929/dc1 cells
+obtaining permission
+examined differences
+transmembrane molecule
+performed automatically
+detectable pfus
+current knowledge
+trypsin digestion
+transcription-factor databases
+node diameter
+dba/2 alleles
+ratios
+labeled peptides
+2008
+
+reports
+found
+differentially expressed
+997-gene set
+trends neurosci
+computational biol
+org/ cgi/content/full/292/5518/926/dc1
+2* vesteinn thorsson
+capillary-liquid-chromatography ms/ms
+reside close
+predicted behavior
+life sci
+prior work
+ly-49h requires
+article appears
+current model
+2008
+
+reports
+step
+galactose addition
+observed change
+left half
+nature neurosci
+model shown
+determine paths
+indirect effects
+predicted based
+processes
+dba/2 bxd-8
+gal2 transporter
+wt
+org
+
+downloaded
+receptors
+defense
+ideker
+network
+deletion
+metabolic
+nk
+reference
+data
+required
+org
+
+fig
+contained
+genome
+approaches
+cell
+represent
+gal
+­gal
+function
+natural
+suggesting hypotheses
+strain
+expression
+interactions
+target
+study
+complex
+transfac
+march 2001
+morphological
+profiles
+measuring
+clear
+control
+res
+genetics http
+yeast
+mrna
+gal1
+transcription
+map
+gene
+nkc
+involvement
+types
+roles
+cluster
+involved
+resulting
+mice
+glia
+regulatory
+strains
+gal80
+media
+16 clusters
+provided
+mcmv
+wild-type
+clusters 4
+unknown
+clusters
+approximately
+protein
+icat
+approximately 15
+alleles
+2008
+
+reports
+34
+global
+online
+10 loci
+responses
+affected
+pathway
+genetic
+20 conditions
+conditions
+profile
+perturbation
+upstream
+consisting
+reported
+applied
+289 genes
+steps
+encodes
+genes
+understanding
+reagents
+gal10
+enzymatic
+cultures
+important
+caused
+348 genes
+observations
+determined
+significant
+columns
+due
+tpi1 ­ 0
+cfs
+decrease
+column
+regions
+infection [
+including
+identified
+c57bl/6
+smith
+cells
+compared
+enzymes
+observed
+bxd-8
+nature
+grown
+obtained
+titers
+gal4
+gal4p
+1 mm
+based
+1 model [
+model
+science
+science 285
+science 292
+science 249
+science 252
+science 256
+science 290
+2% galactose
+microarrays
+information
+response
+galactose
+gal3
+proteins
+abundance
+distance
+tree
+peptides
+derived
+gal2
+analysis
+protein-protein
+gal80p
+represents
+extract
+fbp1 0
+approach
+evidence
+level
+labeled
+branches
+susceptibility
+org
+cytomegalovirus
+tested
+assay
+association
+measured
+growth
+selected
+perturbations
+20 perturbations
+environmental
+extracts
+core
+build-
+constructed
+100 ml
+current
+performed
+protein-dna
+signifies
+relative
+org/cgi/content/full/292/5518/929/dc1
+node
+trypsin
+cambridge
+pfus
+number
+heavy
+part
+gal6
+permission
+activity
+similar
+involves
+systemsbiology
+databases
+interfere
+addition
+examined
+transmembrane
+press
+pathways
+2001
+
+931
+
+downloaded
+2001
+
+933
+
+downloaded
+downloaded
+2001
+
+929
+
+downloaded
+transporter
+shown
+set
+expressed
+change
+neurosci
+biol
+genetics 49
+work
+hypotheses
+ms/ms
+org/] 37
+/
+org/
+predicted
+article
+genetics
+sci
+/] 38
+gal7
+reside
+749 article
+thorsson
+hypothesis
+2% raffinose
+ly-49h
+www
+[www
+dba/2
+left
+suggesting
+gal-1-
+found
+mol
+determine
+effects
+step
+[http
+http
+fig
+fig 1
+rev
+assembled
+figs
+tang
+//transfac
+chem
+organisms
+interdependent
+hundreds
+represented
+leaves
+yamada
+total
+aitchison
+neuron 8
+rohde
+separated
+pcl10
+aaas
+ymr318c
+cited
+eng
+auger
+30 min
+lai
+triggering
+hollmann
+summarized
+production
+gal5/pgm2
+inoculated
+series
+combining
+quantify
+washed
+combinatorial
+greger
+proof-of-principle
+associate
+free
+muller
+heck
+fleck
+isa
+vitro
+implicated
+hood
+100 epochs
+annotated
+needed
+listed
+consistent
+ranish
+1 chad
+regulate
+responsible
+-
+isolated
+itazawa
+isolates
+circled
+assessed
+doi
+mating
+scalzo
+d6mit370
+random
+dzubay
+elucidated
+uetz
+integrate
+biophys
+report
+sporulation
+schwikowski
+1 erika
+fields
+release
+1 anthony
+guldener
+pexton
+//www
+cladistics 5
+terms
+hunton
+extent
+icl1
+100% buffer
+brown
+dubbelde
+signals
+spleens
+detrimental
+interest
+expected
+deepen
+iv
+ii
+seattle
+suggest
+nih
+advancement
+trinh
+neurophysiol
+acad
+assimilating
+repression
+ly49g
+ly49a
+ly49k
+presence
+som
+pck1
+proudfoot
+2* jonathan
+names
+absent
+vivo
+3 jimmy
+classic
+ne
+test
+scored
+zlatanova
+wa 98195
+supplement
+morphology
+depend
+1 laurie
+finally
+chaudhry
+ashburner
+assistance
+address
+institute
+funded
+accomplished
+plotted
+rgcr2
+bedwell
+grosche
+cases
+de/transfac/]
+december
+conversely
+occur
+reece
+divided
+lohr
+produce
+d6mit86
+faseb
+physiol
+cshl
+group
+wingender
+correspondence
+developments
+kanr
+fu
+botstein
+noninducing
+ph 3
+#r4146
+05% sds
+july 2000
+xu
+attwell
+pathogens
+3 wayne
+accessed
+conversion
+jahr
+ideas
+mayer
+8 january 2001
+telomere
+xmmv54
+1126/science
+bioinformatics 15
+straightforwardly
+yeung
+ability
+detect
+review
+garrels
+org/veraandsam/]
+dc 20005
+comp
+implemented
+proteinprotein
+beckman
+monardo
+analyzed
+grants
+heusel
+absence
+combined
+case
+hughes
+coupled
+gal1-
+microarray
+week
+siegel
+running
+guided
+ozawa
+ribosomal
+embo
+department
+inhibition
+matinspector
+sciencemag
+serves
+iterations
+stone
+oe
+karas
+neighbor
+johnston
+berger
+references
+lastly
+detectably
+5 october 2000
+regard
+technologies
+darker
+detailed
+describe
+al
+general
+werner
+terminating
+moller
+hawthorne
+monyer
+lack
+follow
+gcn4
+asterisks
+centromere
+martegani
+induce
+prolonged
+flick
+goodlett
+felsenstein
+zong
+snap-frozen
+suite 200
+hegemann
+futcher
+25% ch3cn
+lander
+itam
+centimorgans
+scan
+days
+magenta
+zhang
+1 diana
+gygi
+catalog
+burnashev
+elsas
+peng
+yi
+propose
+accumulate
+iino
+2d
+2c
+spellman
+gal3p
+ceriani
+formulate
+tsuzuki
+energy
+expect
+hartley
+douglas
+effect
+tamayo
+perturb
+frech
+reflected
+1 hamish
+inhibits
+construct
+temperature
+regulation
+galinducing
+129 min
+desalted
+wa 98105
+mclaughlin
+glucose
+build
+scpd
+gal5
+copyright 2001
+dokun
+services
+d6rik59
+hopper
+winzeler
+/permissions
+dependent
+neuron 15
+neuron 12
+notes
+
+12
+sip4
+church
+strategy
+lymphocytes
+pierce
+wieczorke
+expanded
+error
+llano
+2 od600
+estep
+literature
+marchase
+barbour
+2 jeffrey
+] occurring
+4microbiology
+iva2
+d6rik61
+fractionated
+follow-
+seeburg
+modifications
+blattenberger
+methods
+annu
+fivefold
+slash
+proc
+d6mit198
+205 min
+atcc #201388
+question
+sakmann
+zhu
+hybridized
+transmits
+defined
+influence
+globally
+associates
+heinemann
+overexpressions
+eisen
+rmcm1
+practically
+kinetics
+departments
+resistance
+beinhauer
+manipulations
+harvest
+young
+wished
+deleting
+experiment
+explore
+l22
+respiration
+implement
+scales
+addressed
+apply
+usa
+commun
+steinhauser
+cho
+depicted
+attribute
+iii
+integrating
+reproduce
+refine
+4 row
+process
+algorithmic-solutions
+digested
+interferon-
+gallo
+uridylyltransferase
+sadowski
+catabolism
+polylc
+mehlhorn
+coccetti
+//cgsigma
+university
+morris
+magnitude
+transmitted
+subset
+1* ayotunde
+measure
+repress
+mediated
+ren
+2 ml/min
+d6wum4
+epimerase
+feasible
+assumed
+neuron 28
+manuscript
+phosphoglucomutase
+schnitzer
+notes
+
+23
+biochem
+mariani
+quandt
+detection
+lap3
+roberts
+distinguished
+naeher
+keller
+instance
+permease
+2% peptone
+class
+looked
+4 david
+superimposed
+subtracting
+controls
+25% buffer
+changeux
+drawn
+gbf
+partin
+computed
+humans
+closer
+importance
+marty
+dimitrov
+rmig1
+herpesviruses
+define
+glucose-6-phosphate
+present
+20 min
+144 min
+neurol
+indistinguishable
+highlighted
+org/jian/]
+complemented
+4225 roosevelt
+interconnections
+fielder
+center
+biochemistry
+density
+keinanen
+natl
+geneontology
+qualitative
+hxts
+mhc
+roth
+miseta
+transport
+lead
+kruglyak
+e-mail
+perforin-
+washington
+trigger
+rudoni
+venkov
+ly-49d
+harvested
+demonstrate
+int
+mauri
+variety
+coexpression
+zheng
+ultimately
+4b
+4c
+292
+271
+272
+275
+106
+95
+96
+1990
+1992
+1995
+1994
+1997
+1996
+1999
+1998
+556
+934
+
+4
+3834
+9
+932
+
+4
+392
+001
+­
+1964
+696
+547
+15
+418
+102
+362
+164
+2519
+14863
+80%
+805
+3 10 20
+32
+5518
+57
+424
+151
+8­11
+1991
+1993
+5265
+30350
+4771
+1
+939
+2
+11
+10
+13
+12
+14
+17
+16
+19
+18
+3904
+]
+929
+837
+3
+66
+215
+4
+63
+607
+5
+2306
+901
+851
+0
+1
+
+*
+6
+491
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+7
+189
+61
+7357
+316
+¨ 7
+002
+30°
+777
+1257
+300
+2000
+2001
+2008
+719
+711
+1331
+39
+38
+33
+31
+30
+37
+36
+35
+34
+339
+8
+139
+2907
+8%
+82
+86
+3880
+}
+994
+5140
+123
+4878
+5431
+464
+1200
+6634
+359
+930
+
+4
+1981
+1989
+1161
+45
+40
+1563
+1566

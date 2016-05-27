@@ -1,0 +1,1744 @@
+xestimated ¼ j2 j2 prior sensed ½1cm þ 2 xsensed j2 þ j2 jsensed þ j2 prior prior sensed
+12
+c2 cells recognize human leukocyte antigen-a3 mhc class
+kill cancer cells overexpressing fibroblast growth factor-5
+2 2 2 mse ¼ j2 sensed jprior =ðjsensed þ jprior þ
+posterior 2 1 2 pffiffiffiffiffiffi e2ðxtrue 2xsensed þ =2jsensed
+dpðxtrue þ 1  ðxestimated 2 xsensed þ  ¼ dxtrue
+actively investigating drug design
+
+figure 3 actual
+mata his3d1 leu2d0 met15d0 ura3d0
+ðxtrue þ j2
+xestimated sensed
+actual lateral shifts ð1 ð1 ðxestimated 2 xtrue þ2
+expression plasmids encoding truncated forms
+ðxtrue jxsensed þ ¼ jsensed 2p
+post-translational protein splicing
+ken-ichi hanada1
+signal-dependent noise determines motor planning
+internally deleted amino acid residues
+2 2 2 2 1 e2ðx2xsep =2þ =jprior þ e2ð
+authors declare competing financial interests
+/nature
+
+©2004 nature publishing group
+
+letters
+aromatic amino acid synthesis pathway
+destroy cells displaying class
+ase requires fewer trial iterations
+peptides bind mhc class
+doubly distributional population codes
+mse ¼ j2 sensed
+transfected human leukocyte antigen
+aromatic amino acid synthesis
+ðxtrue þdxsensed dxtrue mse ¼
+21 21
+human renal cancer antigen
+shortest stimulatory fragment identified
+end-product aromatic amino acids
+248
+
+©2004 nature publishing group
+
+letters
+249
+
+©2004 nature publishing group
+
+letters
+©2004 nature publishing group
+
+251
+
+letters
+shannon limit error-correcting coding
+aromatic amino acid pathway
+modern drug discovery relies
+/nature
+
+©2004 nature publishing group
+saccharomyces cerevisiae strain by4741
+neural information processing systems vol
+designer deletion strains derived
+combining inductive logic programming
+logic programming language prolog
+representing prior biological knowledge
+qualitative structure­activity relationships
+human frontiers science programme
+predicted amino acid residues 212
+predicted amino acid sequences
+couple scientific discovery software
+structure­activity relationships derived
+making acquired knowledge explicit
+similarly tested peptides encoded
+/nature supplementary information accompanies
+ðxtrue þ ¼ pffiffiffiffiffiffi 2 2pjprior
+abductive hypothesis generation method
+functional genomic hypothesis generation
+smallest decision tree-- experiments
+auxotrophic growth experiments consist
+guide auxotrophic growth experiments
+laboratory information management system
+physically implemented robotic system
+background cellular metabolism model
+normalized true experimental costs
+integrating scientific discovery software
+nine-residue fgf-5 peptide generated
+intelligent experiment selection strategy
+general robot scientist idea
+competing financial interests
+aromatic amino acids
+figure 1 genetic truncation analysis
+mutant yeast strains restricted
+-a3-expressing cos-7 cells
+amino acid positions
+machine learning system ase-progol23
+encoded 60 amino acids
+eukaryotic expression vector
+prior linear regression
+competing interests statement
+post-translational structural modification
+entails post-translational excision
+amino acid pathway
+nucleic acid positions
+national cancer institute
+orf ypr060c codes
+tool command language
+carefully checked aaa model
+j2
+inductive logic programming
+combining sensory information
+average experimental scaled price
+software platform consists
+induce genetic networks
+eighth european conference
+high-throughput screening robots
+10-residue peptides contained
+3rd international conference
+aberystwyth sy23 3db
+aberdeen ab10 1fr
+add inhibition effects
+great theoretical interest1
+increasing practical importance
+automatic growth-calling software
+apcs expressing hlaa3
+saccadic eye movements
+newly liberated carboxyterminal
+human intellectual input
+60 amino-acid fragment remained
+backpropagation neural networks
+unsupervised neural networks
+hardware platform consists
+present oligopeptides derived
+translates prolog commands
+predicted lateral deviations
+formal experimental design25
+renal cell carcinoma
+high-level creative leaps
+factory production techniques
+termination codon taa
+saccharomyces cerevisiae s288c
+statistically optimal fashion
+8th national conference
+human ctls infiltrating
+minimal human intervention
+controlling quantum phenomena
+manchester m60 1qd
+manchester m13 9pt
+widely accepted view
+left-hand side approximates
+auxotrophic growth experiments9
+selectable marker gene
+proteinencoding gene deleted
+pcr-mediated gene disruption
+automatically reconstruct parts
+bayesian wavelet coring
+auxotrophic experimental requirement
+complete reading frame
+non-revertible null mutants
+conducts biological assays
+þðmeant 0 [ðt2t þct 0 þ
+nucleic acids res
+obtaining individual examples
+kozak consensus sequence
+charles sanders pierce
+major histocompatibility complex
+defined 60 amino-acid fragment
+acquiring scientific knowledge
+model cellular metabolism
+growing auxotrophic mutants
+yang1
+surgery branch
+developing oculomotor commands
+robot conducts assays
+experimental selection strategies
+artificial intelligence devoted
+robert gordon university
+approximate recurrence formula
+made explicit contributions
+scientific inference tasks
+original bioinformatic information
+graduate computer scientists
+model correctly predicted
+point decided visually
+logical inference mechanism
+logical inference engine
+average classification accuracy
+robot scientist
+ross
+robot scientist automates
+robot scientist hypothesis-generation
+ðxsensed jxtrue þ
+constructs g6­g9
+developed automated systems
+london sw7 2az
+inferring metabolic pathways9
+adjacent plate reader
+falsify hypotheses inconsistent
+saccharomyces cerevisiae genome
+internal deletion
+252
+
+mutants
+current robot-scientist experiments
+sensed feedback position
+move amid uncertainty
+compared differing types
+hypothesis generation code
+measured c2 activation
+noise reduction strategies
+highly automated robotics
+growth phenotype reduced
+auxotrophic growth experiments
+experiment selection strategies
+open reading frames
+develop computer systems
+scientific experiment selection
+cerevisiae aaa pathway
+detailed logical model
+auxotrophic experiments involving
+tcl robot operations
+aaa metabolism mutants
+authors declare
+drug design
+humans integrate visual
+actual experimental results
+experiment selection code
+machine intelligence vol
+chemically defined media
+experimental strategies ase
+experimentally supported model
+aaa prolog model
+average scaled price
+evaluated accuracy versus
+performance measure
+nature
+amino acids
+fgf-5-derived epitope recognized
+choose efficient experiments
+minimum expected cost
+optimal estimation approach
+methods
+growth experiments
+robot scientist extends
+þxsep =2þ =jprior
+molecular genetics differs
+robot scientist system
+nature
+originates hypotheses
+plot predictive accuracy
+infer missing reactions
+antigen processing
+cells efficiently
+ase-progol inference system
+added random noise
+system automatically
+247
+
+nature
+/nature
+
+figure 1
+optimal feedback control
+prior lies
+single replacement metabolite
+human intervention
+cos-a3 cells
+protein splicing
+sensed shift
+sensed obtained
+sensed feedbacks
+chemical synthesis
+double-metabolite addition experiments
+p-hydroxyphenolpyruvic acid
+shikimic acid
+background knowledge
+ðxsensed þ
+automatic systems
+vectorial planning
+prior probability
+saccharomyces cerevisiae
+human genome
+carefully checked
+neuronal activity
+protein sequences
+þ2 reading frames
+hypothesis generation
+human performance
+supplementary information
+automated discovery
+deletion mutants
+explicit regard
+synthetic peptides
+þ â ðmeant 0 [ðt2tþ
+actual shift
+modern biology
+peptide ligands
+image processing
+physically implemented
+data-mining systems
+kozak consensus
+foreign peptides
+motor coordination
+nature
+smallest
+`scientific discovery
+scientific discovery
+experimental strategies
+biological knowledge
+test inferred hypotheses
+national institute
+genetic control
+predicted consequences
+metabolic pathway
+haptic information
+lateral shift
+motor learning
+`active selection
+actual performance
+experiment selection
+random-experiment selection
+neural computation
+neural netw
+neural correlates
+artificial intelligence
+generation comput
+orfs encoding
+aaa pathway
+conduct assays
+prolog definition
+physically runs
+prolog makes
+liquid-handling platform
+c2 ctls
+normalized price
+affect growth
+growth medium
+growth occurred
+competing hypotheses
+amino-terminal residues
+extract knowledge
+auxotrophic experiments
+experimental iterations
+experimental discrepancies
+average accuracy
+`robot scientist
+robot scientist
+proteincoding sequences
+g4/g5 plasmids
+g2­g9
+frees scientists
+plate reader
+decision variables
+perceptual decision
+initiation codon
+dna sequences
+efficiently automated
+applies techniques
+minimal determinant
+context estimation
+g8/g9 plasmids
+molecular genetics
+decision tree
+lateral deviation
+prolog model
+optimal percepts
+truncation mutants
+national institutes
+neural comput
+biological entities
+biological sciences
+biological assay
+scientific areas
+scientific knowledge4­8
+scientific expertise
+scientific reasoning
+scientific research
+25% experimental noise
+single hypothesis
+laboratory robot
+functional genomics
+integrating numerically
+accepted 14 november 2003
+internal estimates
+functional profiling
+right-hand side
+visual position-information
+bioinformatic databases
+discrete coding
+visual perception
+accepted 10 october 2003
+mhc
+optimal experiments
+logical inferences
+machine learning
+knockout mutant
+logical formulae
+laboratory instrumentation5
+cortical inference
+supplementary section 2
+experimental repeats
+biological experiments
+complete model
+original model
+automatically determine
+class
+automatically programmed
+bayesian analysis
+creative process
+automatically generated
+quantum control
+average performance
+defined medium
+defined base
+artificial intelligence3­8
+general cost-effectiveness
+general impact
+developed code
+auxotrophic experimentation
+experimental cost
+hypothesis makes
+double-metabolite experiments
+computer revolution
+computer simulations
+scientific process
+internal model
+aaa model
+bioinformatic model
+discovery tools
+yeast metabolism
+fgf-5 gene
+abductive process
+logical model
+liquid-handling robot
+plotting accuracy
+high accuracy
+laboratory robotics
+experimental iteration
+correct hypothesis
+bayesian model
+model automatically
+fungal species
+expected cost--
+similar experiment
+driving force
+000 pg ml21
+computational support
+biochemical equations
+nonlinear relationship
+pounds sterling
+infectious diseases
+natl acad
+reasonable expectation
+kyoto encyclopedia
+imposed shift
+consecutive days
+san mateo
+squared error
+near-optimal solutions
+konrad@koerding
+100 pg ml21
+imperial college
+chorismate mutase
+eds meltzer
+100­200 pg ml21
+paired t-test
+remains scope
+technical support
+motion cues
+active training
+sensorimotor adaptation
+liquid handling
+unicellular organisms4
+sufficiently complex
+wellcome trust
+completely dominates
+eds furukawa
+behavioral context
+arc corresponds
+205 stopford building
+right-hand gaussian
+effectively analysed
+potentially misleading
+cell surface1
+bimodally distributed
+deductive consequences
+convincing examples
+received 24 july
+reaching trajectories
+inverse entailment
+selective agent27
+`wake­sleep
+current state
+rewards learners
+specific facts
+mcdonnell foundation
+statistical models
+initial step
+obvious choice
+computationally intractable
+mixing liquids
+training examples
+predict mutagenicity
+eds qualini
+conversion rate
+oliver5
+1 department
+key relationship
+100 simulation runs
+subsequent 30 years
+parietal cortex
+vision res
+eds dietterich
+bimodal distribution
+narrow peak
+resultant models
+master pc
+technical assistance
+harvard univ
+two-dimensional gaussian
+polynomial time19
+visuomotor transformations
+9000 rockville pike
+analysis leads
+endoplasmic reticulum
+femtosecond lasers24
+oxford univ
+eds solla
+performance automatically
+motion illusions
+sensorimotor transformations
+magnitude range
+yewdell2 & james
+computational explorations
+open boxes
+mass-spectrometric data3
+filled boxes
+mandatory fusion
+received 30 june
+arm reaching
+bond connectivities
+lab-on-a-chip technology
+dopamine neurons
+ðxtrue þ=
+performed efficiently
+greater emphasis
+wild type
+vertebrate proteome
+expected cost20
+room 2b42
+classic technique
+microtitre trays
+fgf-5-encoded determinant
+polypeptide segment
+edinburgh univ
+greater elegance
+amplitude generalization
+25 spheres distributed
+technical reasons
+van beers
+morgan kaufmann
+microbial contamination
+unidirectional transformations
+viral diseases
+greater sophistication
+collected papers
+visuo-motor transformations
+genetically uncharacterized
+biological problem
+nature
+cost-effectiveness
+logical formalism
+experimental results
+system measures
+closed-loop system
+physical system
+aaa problem
+optimal integration
+devises experiments
+executes experiments
+sequential experiments
+manual experiments
+simulation experiments
+control pc
+sensorimotor control
+required structure
+knockout mutants
+input metabolites
+prior ¼ 0
+enzymic reactions
+reactions leading
+biochemical reactions
+prior
+scientific experimentation
+scientific problems
+ase strategy
+ase dominates
+ase shows
+ase stands
+letters
+noise removal
+missing arcs
+mutant data
+`active learning
+decision-tree learning
+active learning
+chemistry laboratory
+random strategies
+laboratory automation
+experimental designs
+computational model
+model infers
+model developed
+model directly
+optimal series
+ctl recognition
+sufficient repeats
+immune recognition
+microtitre plates
+simulated performance
+schematic representation
+simultaneous representation
+performance measures
+nature
+branch
+feedback midway
+sensed
+directed graph
+standard deviation
+pcr primers
+pcr product
+obtain log
+uk 2 school
+uk 3 department
+altered manually
+incubators manually
+uk 4 department
+log likelihood
+uk 5 school
+choose experiments
+monetary price
+computer programs
+cumulative price
+general hypotheses
+involving genes
+cost decrease
+expected cost
+gene function
+000 trials split
+key point
+initial trials
+candidate trials
+initial work
+pioneering work
+single metabolites
+bayesian theory
+reward probability
+highest probability
+performance curves
+correct wells
+usa 2 laboratory
+reaction chorismate
+high level
+applied directly
+twentieth-century change
+sensorimotor integration
+increased automation
+adequate test
+kell4 & stephen
+experimentation loop
+computed definition
+kegg13 catalogue
+desired question
+posterior
+important implications
+existing level
+cheapest experiment
+superior colliculus
+synthesize compounds
+sufficient complexity
+large library
+iterations required
+iterative cycle
+vivo investigations
+de vivie-riedle
+oliver@man
+weighted sum
+computer science
+nature
+acknowledgements
+eliminating hypotheses
+candidate hypotheses
+empirical results
+typical experiments
+single-metabolite experiments
+enzyme proteins
+foreign proteins
+estimated accuracy
+double metabolites
+metabolites unable
+intermediary metabolites
+terminal metabolites
+random sampling
+random experiment
+contemporary science
+generate data
+make reasoning
+details accompany
+eventually achieve
+maximum spend
+subjects participated
+molecules presenting
+subject performed 4
+understood intuitively
+construct g1
+nature neurosci
+learning algorithms
+blue curves
+green curves
+red curves
+correct predictions
+developing algorithms
+significantly outperforms
+figure 2
+related reactions
+kegg reactions
+positive outcome
+unit time
+constructs shown
+correct form
+observed phenotype
+simple problem
+naive spends
+data representation
+performance plots
+mit press
+relationships
+explain observations
+logic
+deleted
+positive function
+selected yeast
+design
+experimentation methodology
+increasingly important
+actual
+/nature
+science applications
+predicted
+significant difference
+target probability
+fragment
+sep ¼ 4 cm
+results show
+inductive
+scaled
+auxotrophic
+c2
+growth
+metabolism
+residues 161
+residues 161­220
+knowledge
+transfected
+making
+plasmids
+strains
+average
+mse
+strategies
+cerevisiae
+structure
+coding
+abductive
+implemented
+pathway
+checked
+aaa
+integrating
+manchester
+truncation
+inference
+gene
+general
+defined
+code
+hypothesis
+computer
+mutants
+robot
+accuracy
+open
+inferred
+ase-progol
+plate
+expected
+complex
+constructs
+trial
+differs
+inferring
+iterations
+develop
+epitope
+genetics
+developed
+strategy
+pierce
+analysis
+methods
+examples
+genome
+generated
+cell
+experiment
+res
+supported
+present
+infer
+position
+tcl
+extends
+replacement
+ctls
+nature
+nature 400
+nature 418
+nature 415
+nature 394
+nature 377
+system
+experiments
+control
+vol 427
+correct
+reactions
+ase
+0% noise
+25% noise
+0% noise
+250
+noise
+knockout
+learning
+fgf-5
+curves
+model
+model 1
+model 2
+plates
+representation
+performance
+recognition
+robotics
+developing
+process
+choose
+repeats
+branch
+feedback
+wells
+approach
+approximate
+graph
+positive
+uk
+media
+log
+deviation
+pcr
+measured
+­comput
+evaluated
+formalism
+university
+mit
+metabolite
+humans
+manually
+recognized
+made
+price
+cost
+work
+phenotype
+000 trials
+point
+problem
+trials
+probability
+blue
+selected
+experimentation
+methodology
+complexity
+algorithms
+london
+observations
+programs
+iteration
+acknowledgements
+explain
+de
+observed
+kegg13
+applied
+cycle
+vivo
+test
+integration
+yeast
+level
+cheapest
+change
+applications
+typical
+outcome
+compounds
+oliver
+reaction
+green
+important
+large
+single-metabolite
+sum
+tested
+stephen
+significant
+sep
+simple
+chemistry
+question
+problems
+required
+tools
+superior
+red
+cos-a3
+computed
+state
+yeast 14
+addition
+automation
+increasingly
+hypotheses
+results
+uncertainty
+predictions
+proteins
+press
+compared
+metabolites
+random
+science
+science 288
+science 299
+science 269
+science 268
+science 298
+estimated
+plot
+arcs
+series
+subjects
+subject
+make
+maximum
+data
+theory
+estimated ¼
+difference
+neurosci
+construct
+understood
+plots
+related
+molecules
+achieve
+function
+kegg
+details
+true
+target
+form
+significantly
+show
+usa 27
+usa 93
+usa
+designs
+5 cm
+25 cm
+3 cm
+4 cm
+orfs
+8 orfs
+time
+`time
+genes
+shown
+000 genes
+naive
+limited
+cytosol
+desirable
+atcc201388
+lack
+`hypotheticodeductive
+induction
+solution
+consistent
+approximation
+catalyses
+employ
+errors
+organisms
+kanehisa
+decoding
+seeks
+atoms
+interpret
+building10
+changed
+pipetting
+khttp
+york
+& kompa
+chooses
+aware
+berlin
+incubator
+acetylcholine
+involve
+returned
+end
+provide
+answer
+abduction10
+modulation
+minimizes
+interpretation
+neurospora
+fit
+drawback
+fig
+wales
+overcome
+beadle
+amenable
+academics
+& caminiti
+proprioceptive
+no-growth
+medicine
+written
+commercially
+frey
+estimate
+created
+speeds
+& sternberg
+sutherland
+needed
+reiser1
+bbsrc
+geneva
+anthranilate
+intell
+& landy
+twenty-
+approximations
+olshausen
+feeling
+achieved
+`floor
+rao
+-
+todorov
+fitting
+consistency
+optimized
+assessed
+doi
+observation
+availability
+depth
+tobler
+layout
+mixture
+platt
+christopher
+umist
+release
+þ ¼ 0 ecð
+sahani
+htmll
+discussions
+& muller
+pathway12
+//www
+terms
+extend
+improve
+cox
+variance
+requests
+argue
+adapted
+0l
+motzkus
+path
+quickly
+formalized
+air
+aim
+& banks
+de/proj/yeast/cygd/db/index
+plants3
+perform
+this12
+neurophysiol
+academic
+materials
+paradigm
+non-trivial
+left
+identify
+turbo-codes
+kell
+weiss
+fedorov
+interprets
+advances
+sussex
+`over-fitted
+www
+deal
+& goto
+icc
+hutchinson
+ensure
+soc
+refined
+automate
+failure
+& dayan
+removed
+stages
+ifn-
+computing
+evidence
+exist
+discriminate
+excel
+interested
+role
+uk/research/cogaff/crp/
+node
+transported
+transporter
+faster
+assume
+krakauer
+fiorillo
+& mussa-ivaldi
+occurrence
+trend
+discover
+þ blog2 ð
+ghilardi
+& tatum
+funded
+aaai-1990
+reagents
+rediscover
+plotted
+//mips
+working
+`real-world
+leaves19
+& shadlen
+& wurtz
+trans
+kenneth
+weighting
+pine
+ybr166c
+designed
+grow
+slightly
+ghabhramani
+correspondence
+scaling
+proteasomes
+possibilities
+ec
+challenges
+gaussians
+yer090w
+squares
+california
+inevitable
+& adelson
+þ < mint[
+basso
+place
+oper
+flipping
+transform
+bradshaw
+carry
+impossible
+1a
+returns
+kftp
+hum
+eliminated
+modelled
+future
+ann
+wolpert
+note
+online
+performance20
+phil
+¼ 2sh[
+vetter
+flach
+& haggard
+texture
+berrou
+diamonds
+differentiating
+& kaka
+mewes
+uncover
+blurred
+lausanne
+detect
+affecting
+import
+hundredth
+comp
+jacobs
+goodbody
+parentheses
+deduction
+ydr007w
+enable
+influence
+phenylpyruvate
+& page
+þ ¼ 0 ecð{
+extended
+structurally
+running
+harris
+minimize
+money
+michie
+speed
+setting
+aspects
+bernardo
+represents
+comparing
+leen
+process1
+superiority
+simulator
+mcgraw-hill
+provided
+progol
+inspect
+brachmann
+artif
+singlemetabolite
+comparison
+industry
+lacquaniti
+cambridge
+muggleton3
+area
+assumed
+strictly
+start
+bryant2
+uk/pub/staff/chb/systems/ase_progol/version_1
+cloned
+multiplicity
+muggleton
+ac
+ad
+describe
+moved
+al
+imagination
+reliability
+completeness
+biochemistry
+field
+caccatg
+phys
+hla
+carpenter
+sarkans
+massachusetts
+sci
+pointing
+& feigenbaum
+nodes
+unknown11
+zupan
+small
+imported
+movement
+behaviour
+maryland 20892
+observing
+aberrant
+select
+probabilities
+switzerland 1064­1070
+rabitz
+pairs
+-tryptophan
+learn
+compare
+challenging
+model12
+numbers
+srinivasan
+simplicity
+advice
+wiley
+langley
+enzymes
+3-fold
+banks
+september
+paper
+absence
+yu
+& flanders
+2a
+found
+desirability
+finish
+douglas
+health
+bham
+number
+incubated
+dayan
+whelan1
+compromise
+phosphoenolpyruvate
+prephenate
+ffion
+king
+grew
+determined
+recovered
+& michie
+categorized
+concentration
+orders
+& glimcher
+built
+depending
+lin
+finding
+reach
+allergy
+simoncelli
+& shaw
+degraded
+hassocks
+translation
+failed
+captures
+ingram
+3c
+compiler
+generally
+scheidt
+common
+switzerland
+np-hard
+set
+art
+vertebrates
+zytkow
+reverse
+focused
+due
+prices
+hillis
+9-residue
+reliable
+optimization
+mitchell
+century
+binding
+vanish
+-phenylalanine
+& thitimajshima
+bethesda
+development
+literature
+reiser
+levels
+mips
+lower
+task
+database
+nineteenth-century
+baraduc
+gsf
+buchanan
+competitive
+isolated
+sequencing
+rgu
+kluwer
+sittig
+ignore
+continue
+translated
+1038/nature02169
+essential
+springer
+eliminate
+proc
+1
+
+cytotoxic
+cochran
+subtract
+optimize
+plan
+integral
+valdes-perez
+statistics
+lond
+biol
+ligation
+hinton
+zhu
+ykl211c
+mature
+curr
+& neal
+application
+elements
+ydr035w
+prepared
+algorithm
+attaining
+oracle
+steve
+simon
+gold
+include
+g8
+electron
+abduction
+bryant
+deals
+giaever
+l-tyrosine
+find
+& millman
+8-residue
+3a
+chose
+degree
+deduces
+objects
+dingwell
+barahona
+suggests
+conveyed
+resulting
+lims
+addressed
+apply
+bindings
+commun
+struttman
+jonathan
+popper
+informally
+& smith
+genomes
+glavieux
+interferon-
+philosophy
+epsrc
+italics
+100-fold
+temporal
+derivative
+eur
+þ/2
+ecð
+documented
+frequency
+integrates
+stud
+ref
+100% accurate
+& andreassen
+& williams
+15 january 2004
+jones1
+philip
+antigenicity
+unknown
+intermediate
+& zytkow
+sternberg
+explanation
+secretion
+result
+cohen
+pharmdm
+instance
+& king
+proceedings
+based
+controls
+experience14
+employed
+acm 42
+cycles
+email
+ability
+freely
+ygl026c
+equal
+sloman
+unclear
+tamaddoni
+cs
+respect
+senses
+controlled
+bulk
+king1
+& swartout
+soechting
+examined
+ydr354w
+difficult
+ernst
+accurate
+half
+& jordan
+jp/kegg/
+lymphocytes
+biologists
+insert
+lost
+page
+choosing
+transport
+& ghez
+indole
+assuming
+demonstrated
+limitations
+selecting
+expansion
+carried
+introduced
+equally
+previously
+assess
+box 88
+synthesized
+transfer
+& wolpert
+compute
+harvester
+1038/nature02236
+int
+& hussam
+denote
+& muggleton
+functions
+& schultz
+ghahramani
+& gon
+ynl316c
+& cox
+variation
+abducing
+determination
+103
+9%
+98
+93
+1990
+1993
+1992
+1995
+1994
+1997
+1996
+1999
+1998
+20­22
+499­506
+1­36
+172
+1137­1145
+37­41
+190
+304­313
+1969
+379­382
+1963­1989
+07
+05
+0%
+824­828
+1978
+1972
+209­254
+129­145
+387­391
+57
+53
+5%
+1­13
+7519­7534
+220
+ð
+1941
+1946
+0
+30%
+1
+1958
+9385
+2
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+1%
+59­62
+3
+632­651
+1026­1034
+780­784
+31­34
+23
+1880­1882
+62
+1355­1364
+þ ð1 2
+4
+3621­3629
+223­244
+719­730
+5
+115­132
+193
+6
+834­837
+2255­2279
+393­410
+429­433
+24
+25
+26
+27
+20
+21
+22
+28
+29
+2%
+7
+971­985
+598­604
+595­608
+75
+74
+73
+72
+79
+8
+£102
+1825­1838
+1627­1630
+þ1
+633
+þþ
+9
+¨ 5
+001
+1898­1902
+200­1
+27­30
+889­894
+841­847
+2002
+2003
+2000
+2001
+39
+30
+8916­8924
+245­286
+70%
+80
+81
+86
+84
+0 þ
+248­267
+½
+438­442
+195­203
+1226­1235
+}
+57%
+357
+þ
+233­238
+1158­1161
+1987
+1989
+4%

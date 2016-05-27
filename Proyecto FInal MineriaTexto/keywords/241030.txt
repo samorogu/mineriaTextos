@@ -1,0 +1,245 @@
+Bar-Joseph
+systematic
+Similarly
+genomewide
+Abbreviations
+particular
+desirable
+researcher
+interpreted
+distribution regardless
+statistics literature
+threshold
+alternative
+adjustment
+availability
+incurring
+Calculate
+Estimating
+interquartile
+calculate
+interesting
+necessary intermediate
+inclusion
+proportion
+estimating
+Appendix
+treatment
+Hedenfalk
+occurring
+Discussion
+correspondence
+measurement exceeding
+straightforward
+Identifying
+apoptosis
+measurement
+introduce
+mathematical definition
+increases
+interpreting
+exon­intron
+FDR-based
+sequencing
+impractical
+difference
+inducing
+prominent
+Transcriptional
+BRCA1and BRCA2-mutation-positive
+worst-case
+parameter
+Kruglyak
+Washington
+distribution functions
+specific
+reasonable
+arbitrary
+difficult
+Hochberg
+above-mentioned
+Statistics
+sensitivity
+conditional
+estimates
+prediction
+Specifically
+mathematical formulation
+Benjamini
+Tibshirani *Department
+GENETICS STATISTICS
+statistic
+rigorous
+estimated
+detecting differential
+valuable theoretical
+expressed
+conservative
+approach
+University
+discovery
+available
+Gusterson
+simultaneously
+Algorithm
+transcriptional regulation
+equivalent
+attention
+Siegmund
+Differentially Expressed
+possibility
+standard
+difficulty
+hypothesis
+oligonucleotide
+Reasonable
+statistical hypothesis
+dependence requirement
+consideration
+Typically
+implicit
+interpret
+definition
+pointwise
+extension
+large-scale genotyping
+biological verification
+dependence
+BRCA1-mutation-positive
+practical
+connection
+simultaneous
+data-dependent
+permutation
+complicated
+Alternative
+expression
+conditioning
+Yekutieli
+examining
+legitimate regulator­DNA
+significant
+probability
+characterization
+significance simultaneously
+distributed
+Stanford University
+Detecting Differentially
+significance threshold
+Fairbrother
+analyzing
+Therefore
+specificity
+Kolodner
+specific transcriptional
+similarity
+splice-site
+considering
+Transcriptional regulatory
+additional
+inducing apoptosis
+nucleotide
+continuous
+Dissection
+quadratic
+Controlling
+hypotheses
+proposal
+probabilistic relationship
+theoretical justification
+direction
+alternative hypothesis
+Theoretical
+Harbison
+acceptable
+transcriptional regulators
+curvature
+histogram
+Equivalently
+Wasserman
+single-nucleotide polymorphism
+automated
+distinction
+convenient numerical
+trustworthy
+observation
+abundance
+Thompson
+Regardless
+Biostatistics
+Proposed
+exon­intron structure
+Hishikawa
+different
+regulator
+individual
+Radmacher
+following
+distribution
+familywise
+measuring statistical
+motivation
+important assumption
+empirical distribution
+calculation
+microarrays
+thresholding
+generalization
+comfortable
+quantification
+substantial
+statistical analysis
+two-sample
+statistical significance
+suppressing apoptosis
+information
+respective
+Statistical Hypotheses
+gene­marker
+exploratory
+automated algorithm
+Possible
+Motivating Examples
+microarray
+methodology
+interested
+criterion
+negligible
+interpretable
+preferable
+accuracy
+development
+independent
+commonplace
+Bonferroni
+simultaneously conservative
+Technical
+comprehensive
+BRCA1mutation-positive
+BRCA2mutation-positive
+plugging
+Altschul
+estimates available
+Analysis
+rationale
+quantitative
+positives
+meaningful
+implement
+Churchill
+gene-marker combination
+undefined
+Activity
+whenever
+analysis
+traditional
+tradeoff
+subsequent biological
+high-throughput
+specifying
+Statistical significance
+BRCA2-mutation-positive
+biological conditions
+differential expression
+Considering particular
+Kallioniemi

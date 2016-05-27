@@ -1,0 +1,1671 @@
+markov cluster algorithm displays good convergence
+data-dependent liquid chromatography tandem mass spectrometry
+rna polymerase ii mediates histone methylation
+previous tap tag study significantly influenced
+essential rna polymerase ii elongation factor
+matrix-assisted laser desorption/ ionization­time
+core data set protein­protein interaction network
+cytoscape/ genepro screenshot displays patterns
+probabilistic mass spectra database search scores
+previously published yeast protein localization data5
+liquid chromatography tandem mass spectrometry
+international molecular interaction exchange consortium
+global core protein­protein interaction network
+rna polymerase ii elongation factors
+expressed sequence tag consensus sequences
+core protein­protein interaction data set
+tbf1 binds subtelomeric ttaggg repeats
+histone h3 k4 methyltransferase complex
+landmark studies addressing key aspects
+identifying sequences sharing significant similarity
+orfs sharing significant sequence similarity
+budding yeast genome sequence1 initiated
+protein­protein interaction data set generated
+subunits sharing significant sequence similarity
+tblastx
+
+© 2006 nature publishing group
+
+nature
+markov cluster procedure identified 547 distinct
+matrix-assisted laser desorption/ionization­ time
+author information protein interaction information
+global protein­protein interaction network
+639
+
+© 2006 nature publishing group
+
+articles
+
+nature
+© 2006 nature publishing group
+
+637
+
+articles
+
+nature
+641
+
+© 2006 nature publishing group
+
+articles
+
+nature
+mediates promoter-specific transcriptional repression30
+systematically identify synthetic genetic interactions
+yeast protein­protein interaction network
+yeast protein­protein interaction studies
+avoided potential artefacts caused
+histone h3 lysine 36 recruits
+amino-terminal amino acid sequence
+1038/nature04670
+
+articles
+global landscape
+yeast early secretory pathway
+predicted open reading frame
+boosted stump decision trees
+suppress spurious intragenic transcription
+tap tags individually introduced
+multi-subunit rna polymerases performs
+unique rnapii subunits identified ydl115c
+general initiation factor tfiif
+single mass spectrometry method
+
+figure 1
+post-translational modification tentatively identified
+nucleosome assembly protein nap1
+transcription elongation factors spt4/spt5
+identify protein­protein interactions11­14
+existing highly connected proteins28
+identified provide entry points
+ensure greater data consistency
+synthetic lethal/sick genetic interactions
+rna polymerase ii
+7howard hughes medical institute
+howard hughes medical institute
+10howard hughes medical institute
+tested bayesian inference networks
+yeast protein­protein interactions11­14
+maldi­tof mass spectrometry
+yeast protein interaction network
+© 2006 nature publishing group
+
+nature
+317 protein­protein interactions involving 3
+protein­protein interactions deciding
+123 protein­protein interactions involving 2
+observed protein­protein interactions
+saint louis university school
+six-subunit holo-elongator complex required
+indicating scale-free network topology28
+essential yeast gene encoding
+supporting mass spectrometry data
+protein interaction network generated
+intersection data set proteins identified
+generic protein purification method
+identify highly connected modules
+protein complexes orfs encoding
+generate fewer peptides suited
+complementary mass spectrometry procedures
+elongation factor gene dst1
+protein­protein interaction details
+investigating semantic similarity measures
+yeast protein­protein interactions
+markov clustering algorithm organized
+markov cluster procedure
+histone h3 methylation
+yeast saccharomyces cerevisiae
+nevan
+previously unreported protein complexes
+evolutionarily conserved transcription factor
+markov cluster algorithm
+357 protein­ protein interactions based
+rnapii subunit rpb1 phosphorylated
+chromatin modifying complexes rpd3c
+highly connected modules identified
+blast bit score cut-
+independent mass spectrometry methods
+drosophila iwr1 partly co-localizes
+high throughput experimental methods
+30 march 2006
+
+articles
+
+search
+biological process functional annotations
+highly conserved proteins tend
+protein­protein interaction
+© 2006 nature publishing group
+
+643
+ttaggg repeat-binding protein
+standard cell growth conditions
+cotranscriptional set2 methylation
+variant histone htz1
+synthetic genetic array
+typically purified multiple subunits
+core data set
+synthetic genetic interactions
+prokaryotic rna polymerases
+synthetic growth defect
+yeast subtelomeric regions
+highly conserved complex involved
+protein­protein interactions--
+protein­protein interactions38
+complexes lacking connections shown
+mass spectrometry method
+rigorous computational procedures
+mass spectrometry scores
+protein evolution rate
+123 protein­protein interactions
+496 protein­protein interactions
+protein­protein interactions
+raw genomic sequences
+mass spectrometry spectra
+biomolecular interaction networks
+yeast two-hybrid method11
+4l yeast cultures
+high-quality data set
+learned data set
+peptide mass fingerprinting
+pie chart represents
+ontario m5s 3e1
+set2 directs deacetylation
+tentimes tenfold cross-validation
+ontario m4k 1x8
+inverse power law
+pearson correlation coefficients
+pie charts showing
+hypomorphic damp allele10
+cortical actin patches
+ontario m5s 1a8
+mediate dna binding
+high-definition macromolecular composition
+high-density e-map format10
+dna double-strand breaks
+enhance dna binding
+competing financial interests
+insets provide views
+genentech hall s472c
+ontario m5j 1v6
+natural chromosomal locations
+1402 south grand boulevard
+findings suggest caution
+protein­ -protein interactions
+ontario genomics institute
+identify protein complexes
+published online 22 march 2006
+histone deacetylase complex
+tandem affinity purification
+essential protein complexes
+mass spectrometry analyses
+catalogue physical interactions
+8comparative genomics laboratory
+colour key indicating
+protein chip technology
+yeast protein properties
+nucleic acids res
+1 kings college circle
+previous high-throughput studies
+extrapolating network properties
+yeast strain subjected
+merged data set
+`intersection data set
+`merged data set
+intersection data set
+authors contributed equally
+simulates random walks
+diwr1 anti-peptide antibody
+essential genes tend
+epistatic miniarray profile
+canadian cancer society
+peregri michael shales1
+terrence donnelly centre
+national cancer institute
+protein subcellular locations5
+supplementary tables s7
+supplementary table s10
+supplementary table s7
+supplementary table s9
+protein property analysis
+targeted proteomics approach
+two-dimensional hierarchical clustering
+processing 72 database searches
+previous high-throughput study
+handcurated protein complexes
+protein complexes underlying
+stable protein complexes
+547 protein complexes averaging 4
+heteromeric protein complexes
+established protein complexes
+detectably expressed proteome18
+actively transcribing rnapii
+yeast protein interactome
+predicting protein-protein interactions
+including predicted orfs
+predicted yeast proteome
+included microarray-based analysis
+dna microarray analyses
+reports gel images
+affinity-based purification studies13
+purification buffers contained 0
+yeast rnaprocessing complexes
+arp2/3 complex required
+mediator complex required
+analyzing protein function
+mips reference database23
+hand-curated mips complexes23
+flight mass spectrometry
+cytoplasmic ribosomal subunits
+yeast interactome encompasses
+extended data set
+bayesian networks combination
+engineering research council
+genome-wide western blotting18
+insulates adjacent genes
+lines connect genes
+distinct evolutionary groups
+visible bands removed
+sds polyacrylamide gel
+20s proteasomes involved
+relative molecular mass
+interacting protein partners
+large-scale affinity tagging13
+yeast saccharomyces cerevisiae
+bayesian networks approach
+false positive rate
+true positive rate
+bed zinc-finger domains
+30 march 2006
+
+articles
+
+calculated
+pairwise gene disruptions7­10
+essential tbf1 gene
+predicted non-membrane proteins
+systematic genetic analysis
+methods
+experimental procedures
+--detailing specific interactions
+highly connected proteins
+merged data sets
+genome-wide screen identifies
+large-scale data sets
+peter st onge1
+yeast deletion mutants
+fact explained partly
+biochemical genomics approach
+comprehensive two-hybrid analysis
+precision-sensitivity roc plot
+supplementary table s8
+supplementary table s4
+supplementary table s5
+supplementary table s1
+supplementary table s2
+supplementary table s3
+supplementary table s6
+drosophila polytene chromosomes
+relative size indicating
+hitherto unknown function
+average network properties
+purified protein preparation
+kinetochore complex required
+cytoscape software environment33
+maldi­tof
+smaller proteins stain
+define protein complexes
+figure 3e shows
+highly conserved fructose-1
+machine learning algorithms
+machine learning generates
+hand-curated mips complexes
+curated mips complexes
+integrate reliability scores
+identifying smaller proteins
+gave similar results
+expression log values
+affinity-tagged proteins expressed
+interaction network
+h5 monoclonal antibody
+distantly related organisms
+fully sequenced genomes
+reference mips complex
+protein complex characterization
+repressive rpd3 complex
+sharing information
+organism data sets
+high abundance proteins
+low abundance proteins
+university college dublin
+30 march 2006
+
+high proportion
+figure 4 highlights iwr1
+yeast cell biology
+node pairs passing
+rna polymerases
+identifying proteins involved
+individual gene products
+budding yeast
+individual mips complexes
+357 successful purifications underlying
+analyzing cellular biochemistry
+pairwise interaction
+increase interactome coverage
+429 edges connecting complexes
+identification success rate
+protein mass
+markov clustering
+30 march 2006
+
+articles
+network tend
+similar displays
+mass spectrometry
+genetic interactions
+transcription factors
+data set
+cerevisiae sequence
+mass spectra
+global analysis
+30 march 2006
+
+identify
+protein interactions
+highly connected
+preferential interaction
+assign confidence values
+semantic similarity
+protein localization
+proteins interact based
+chromatin assembly
+growth conditions
+rna metabolism
+intersection network
+previous studies
+highly conserved
+essential complexes
+yeast genome
+interaction probabilities
+bayesian networks
+rnapii-interacting factor
+genepro plug-
+evolutionarily conserved
+distinct complexes
+scale-free properties
+stacking algorithm
+efficient algorithm
+previous study
+protein expression
+extended set
+complete set
+bayesian combination
+protein complexes
+protein-protein interactions
+data sets
+taxonomic similarity
+translation factors
+12 data sets
+st louis
+large-scale studies
+raw data
+yeast proteome
+random networks
+protein families
+protein overproduction14
+protein overproduction
+protein identifications
+medical research
+systematically tagging
+genome res
+predicted proteome
+gel images
+network prediction
+3conway institute
+nara institute
+yeast complexes
+protein function
+highly conserved17
+evolutionary group
+false interactions
+functional genomics
+genomic data
+supplementary information
+mass spectrometry14
+mass spectrometry13
+confidence scores
+molecular networks
+protein degradation
+`gold standard
+antibody generated
+western blotting18
+complementary ways17
+monoclonal antibody
+decision trees24
+general role
+160 college st
+previous studies17
+identified previously
+cerevisiae genome
+saccharomyces cerevisiae
+yeast proteins
+regulated transcription
+identifying genes
+false positive
+true positive
+greater coverage
+independent methods
+training set
+tap tags13
+429 additional interactions
+high-confidence interactions
+subcellular localization
+data sets27
+possessing similarity
+future studies
+drosophila melanogaster
+interacting partners
+earlier studies
+unpublished data
+protein identification
+protein essentiality
+comprehensive database
+microarray analysis
+large-scale analysis
+medical genetics
+polytene chromosomes
+multiple roles
+relative distance
+multiple regulators
+remodels chromatin
+native conditions
+30 march 2006
+
+figure 3
+identifying proteins
+previously described47
+previously uncharacterized
+previously described43
+typically calculated
+experimental inaccuracy
+permissions information
+nature biotechnol
+complexes generated
+affinity purification
+protein frequency
+true based
+comprehensive analysis
+mclaughlin centre
+michael davey1
+authors declare
+insets highlight
+biomolecular research
+taxonomic groups
+initially generated
+3e reveals
+taxonomic profile
+conserved roles
+genome maintenance
+canadian institutes
+biochemical activities3
+localization categories5
+4e shows
+distantly related
+untagged strain
+transmembrane
+
+domains
+semantic similarity32
+peter wong1
+semantic classifications
+coding regions
+biological processes
+technology 8916-5
+intracellular localization
+mips database
+systematic analysis
+study increased
+affinity tags13
+gene expression
+single screen
+unknown function
+approach added
+biogrid database
+database searching
+individual complexes
+complexes identified
+sds­page
+bed finger
+bed domain
+software environment
+results comprise 7
+functional discovery
+national sciences
+encompass results
+genomic scale
+software pajek
+low thresholds
+low levels
+sds gels
+functional constraints
+national institutes
+increase coverage
+`biological process
+biological process
+gene ontology
+gene expression2
+gene disruption
+smaller proteins
+molecular biophysics
+molecular pharmacology
+000 correct interactions
+`systems biology
+subcellular compartment
+arc connecting
+systems biology
+drosophila homologue
+subcellular localizations
+kinetochore machinery
+co-localization studies
+600 16th st
+clustering methods
+high confidence
+machine learning
+molecular function
+direct analysis
+phylogenetic analysis
+mips complexes
+high success
+evolutionary grouping
+individual complex
+direct purification
+proteome-wide purification
+functional characterization
+555 university avenue
+harvard university
+yale university
+100 university avenue
+kinetochore complex
+expression level
+expression profiles
+regulated expression
+connected nodes
+experimental reproducibility
+proteins expressed
+individual proteins
+data represent
+small complexes
+markov-clustercomputed complexes
+proteins
+638
+
+identified
+proteins identified
+connecting proteins
+interacting proteins
+shared subunits
+subunits appearing
+largest subunits
+fungi-specific subunits
+systematic characterization
+cerevisiae strains
+266 whitney avenue
+in-frame insertions
+accepted 23 february 2006
+dna-binding domain
+samuel wu5
+gouqing zhong1
+alexandr ignatchenko1
+7 divinity avenue
+robin haw1
+natl acad
+gabe musso1
+lower abundance
+largescale detection
+atanas lalev1
+sample preparation
+anthony sheung1
+silencing elements
+inflation operators
+kiran gandi1
+nara 630-0101
+simple dependence
+online version
+stacked generalization
+chris orsi5
+predictive sensitivity
+andrei starostine1
+ali shilatifard9
+smaller number
+identifying effects
+sub-complex integral
+deal objectively
+bmc evol
+gid genes
+entire collection
+transcriptionrelated genes
+d41­ -d44
+chromosome segregation
+john parkinson5
+cytosolic ribosomes
+statistically evaluating
+joyce li1
+elongation
+vice versa
+po box 208114
+logistic regression
+approximate stoichiometry
+van dongen
+van helden
+taxonomic profiles
+bryan beattie6
+mcgraw hill
+low-femtomole level
+shamanta chandran1
+shortest paths
+necessarily separate
+achieved compared
+heptapeptide repeat
+blue borders
+precision/sensitivity values
+phylogenetic relationships
+nira datta1
+shaun ghanny1
+gerard cagney1
+system-wide level
+nonspecific contaminants
+taxonomic groupings
+selected complexes--
+genes dev
+frank mena6
+endoplasmic reticulum
+node demonstrates
+exosome involved
+received 20 december 2005
+von mering
+ribosome biogenesis22
+mrna levels
+alberto paccanaro4
+thanuja punna1
+strong co-evolution
+xin zhang1
+haiyuan yu4
+chose values
+genes
+642
+
+involved
+ordered arrays
+neural netw
+gareth butland1
+san francisco
+shigehiko kanaya8
+comparative assessment
+homologous recombination
+lc-ms/ ms
+ty transposition40
+xinghua guo1
+3 0 untranslated region
+carboxy-terminal domain48
+extensive homology
+veronica canadien6
+shuye pu5
+integrating role
+gold-standard positives
+web resources
+graphical representation
+si/pub/networks/ pajek/
+proteasome involvement
+figs 4b
+control preparation
+escherichia coli
+1% triton x-100
+roc curve
+trypsin digestion
+ty1 transposition
+pie-chart node
+integrated models
+telomeric silencing36
+purple borders
+sick children
+eukaryotic organisms
+6affinium pharmaceuticals
+mips complex
+gene deletion
+high degree
+cellular biology
+complex subunits
+common function
+large complexes
+trimeric complex
+swr complex
+6-bisphosphatase-degrading complex
+rsc complex
+complex size
+interaction
+weighted average
+lc-ms/ms analyses
+enhanced coverage
+chromatinboundary-element-binding proteins
+hypothetical proteins
+high-betweenness proteins
+proteins belonging
+proteins involved
+cytosolic proteins
+copurifying proteins
+large proportion
+catabolite-induced degradation
+molecular medicine
+degradation pathways
+success rates
+catabolite degradation
+repeat purifications
+relevant purifications
+attempted purifications
+subsequently identified
+evolutionary conservation
+systematic identification
+`core
+cellular processes
+cellular compartments
+similar function
+parallel analysis
+supplementary fig
+functional organization
+deletion mutations
+genome canada
+assign probabilities
+transposon tagging
+// www
+james vlasblom5
+deletion pair
+james ingles1
+proteome exploration
+sequence
+improve precision
+surprising degree
+organism deemed
+complexes displayed
+tagged subunits
+health research
+improved performance
+reasonable quality
+/ reprintsandpermissions
+trends biochem
+emili@utoronto
+factor
+iubmb life 57
+mark gerstein4
+// imex
+reliable predictions
+weighted graph
+optimized overlap
+andrew emili1
+increased number
+357 successful purifications
+successful purifications
+average degree
+cell physiology
+deletion strains
+higher values
+sector colours
+broadly defined
+silver staining
+average number
+probability cut-
+tagged proteins
+large number
+total precision
+similarity
+orfs
+hughes
+present address
+genetically linked
+method
+protein
+total number
+limited number
+network
+yeast
+modules
+aspects
+spectra
+ydl115c
+greenblatt@utoronto
+median precision
+group
+nature
+nature 425
+nature 415
+nature 417
+nature 403
+nature 402
+nature 433
+connected
+transcription
+tap
+2 interactions
+interactions
+studies
+data
+indicating
+3d inset
+partly
+single
+previously
+44 preys detected
+phosphorylated
+organized
+dst1
+score
+conserved
+blast
+peptides
+subunit
+`intersection
+`merged
+localization
+measures
+generated
+rpd3c
+intersection
+study
+approach
+properties
+clustering
+30 march 2006
+database
+high
+gene
+molecular
+figure
+rnapii
+expressed
+figure 2
+figure 4
+identified 47%
+identified
+analysis
+based
+purified
+purification
+university
+mips
+complexes
+275 complexes
+547 complexes
+9 subunits
+subunits
+cytoscape
+plot
+preparation
+tbf1
+integrate
+specific
+removed
+node
+genes
+rpd3
+s8
+s3
+s2
+s1
+s6
+s5
+s4
+cut-
+size
+online
+edges
+interactome
+reliability
+values
+6000 genes
+640
+
+proportion
+research
+generate
+assign
+connections
+`extended
+involved
+products
+genomes
+including
+related
+fact
+sequenced
+define
+colour
+dublin 4
+h5
+flight
+details
+function
+learning
+complex
+confidence
+99% confidence
+average 0
+coverage
+methods
+process 4
+process
+708 proteins
+672 proteins
+210 proteins
+proteins
+186 proteins
+degradation
+characterization
+large
+similar
+65% success
+success
+purifications
+357 purifications
+screen
+cellular
+limited
+tagging
+total
+successful
+www
+james
+biochemistry
+probabilities
+pairs
+interact
+fructose-1
+biotechnol
+deletion
+strains
+calculated
+conservation
+organism
+precision
+degree
+genetics 159
+parallel
+possessing
+medicine
+eukaryotic
+life
+reproducibility
+/
+graph
+health
+predictions
+tagged
+displayed
+correct
+training
+performance
+mark
+& greenblatt
+essentiality
+andrew
+utoronto
+curve
+number
+homologue
+2
+identification
+exploration
+subsequently
+quality
+biochem
+identification
+co-localization
+imex
+overlap
+inset
+iwr1
+cell 123
+cell 113
+cell 117
+cell 102
+cell 42
+cell
+cell 14
+cell 16
+cell 13
+silver
+colours
+represent
+detected
+probability
+higher
+lower
+organization
+defined
+frequency
+median 0
+shown
+preys
+nodes
+3d
+linked
+present
+fig
+effects
+canada
+lc-ms/ms
+rev
+assembles
+hampsey
+integrity
+& huang
+lord
+established5
+dell
+jack
+s5b
+s5a
+solution
+unrelated
+& hirsh
+consistent
+lc/ms/ms
+estimated
+net
+organisms15
+med
+studies27
+colocalize
+represented
+obtained
+approaches
+6-bisphosphatase
+intrigue
+collins7
+001 cases
+hospital
+separated
+greenblatt1
+kumar
+work
+robinson1
+partigenedb
+validated
+4department
+& snyder
+transcription46
+5hospital
+amin
+fyv10
+allison
+restriction
+japan
+iwr1d
+dawn
+mandy
+reciprocally
+biomed
+brock
+xia
+annotated
+toronto
+ran
+spectrum
+mint
+membrane-
+acknowledgements
+doi
+sum
+uetz
+revardel
+imperfect26
+consisting
+tfiis
+& sadhale
+testing
+unexpectedly
+//www
+terms
+reported
+rnapii45
+//genepro
+requests
+tong
+extraction
+interest
+expected
+mohammad
+publicly
+//tap
+purifying
+altaf-ul8
+interacts
+connectedness
+mixtures
+chromatin44
+materials
+homogeneity
+jose
+stained
+arbitrary
+bray1
+jennifer
+approximately 600
+ghaemmaghami
+bottom
+ucsf
+readily
+mpact
+& ingles
+shaken
+opin
+efforts
+ppi
+rnapii-
+rounds
+fraction
+lowest
+underestimated
+medium
+analyse
+yeastgenome
+absent
+5-based
+polypeptides
+grateful
+finally
+supported
+science
+dip
+round
+comprehensive16
+assistance
+richards6
+ikoma
+hughes1
+2department
+ca/
+scope
+tikuisis1
+accuracy16
+apparent
+distribution
+validity
+scholes
+thicknesses
+numbers
+proteasome-dependent
+ygr071c
+performed
+conversely
+map
+annotation
+sf
+correspondence
+scaling
+tails
+half
+reprints
+massachusetts 02138
+suggesting
+baits
+`snapshot
+orf
+org
+sickkids
+stevens
+specificity
+org/
+barabasi
+1a
+1c
+1b
+1e
+1d
+fmf
+huh
+connecticut 06520
+wolpert
+note
+objective
+importantly
+show
+bioinformatics 19
+takayama
+aravind
+summary
+paper
+mewes
+sean
+//vlado
+fails
+sites
+rilstone1
+deletions
+schuldiner
+vidali
+grants
+electrophoresed
+combined
+aliquot
+korber
+vid30
+nomenclature
+mccormack
+investigated
+components
+ccb
+gavin
+embo
+department
+mol
+output
+assemblies
+moyle
+california 94143
+intact
+provided
+6-bisphosphatase39
+jonathan
+accessing
+notably
+comparison
+central
+carrozza
+belfield
+chow
+timothy
+cambridge
+koering
+area
+& reinberg
+enright
+robustness
+transporters
+al
+sampath
+important
+rigaut
+natalie
+vid30-
+sci
+fourel
+tp
+aaron
+1 banting
+phosphorylation
+anal
+comprises 7
+thompson1
+section
+microbiology
+multitude
+ranged
+19s
+myra
+screens
+goffeau
+betweenness
+ingber
+recall
+goal
+maps
+fp
+connectivity
+ito
+fraser
+existence
+evaluate
+science 286
+science 285
+& curcio
+2a
+2b
+2c
+found
+characterized
+weight
+regelmann
+graphs29
+ymr135c
+consequence
+motility
+relationship
+part
+classifiers
+determined
+uni-lj
+2 & jack
+missouri 63104
+bowen
+fong
+relation
+distributed
+winzeler
+brigati
+& ouzounis
+shales
+compass
+activity
+vid22
+bars
+vid24
+vid28
+visualize
+science 294
+usa 98
+usa 99
+ross-macdonald
+non-overlapping
+sensitive
+ireland
+`central
+shea10
+microbiol
+evaluated
+mitchell
+two-hybrid11
+elucidation
+nonoverlapping
+previously43
+development
+assignment
+percentages
+3 0 end
+-
+c4
+`betweenness
+conclusions
+input
+remaining
+swrred
+emergence
+creation
+sga
+examples
+annu
+´ ´n-alvarez5
+proc
+negatives
+repair
+primarily
+proportional
+biol
+& horz
+link
+repeatedly
+zhu
+utr
+curr
+grouped
+calculating
+prepared
+jansen
+overlaps
+mixing
+butland
+balderes
+noise
+martzen
+3c
+3b
+3a
+3f
+led
+explore
+consideration
+settling
+vol 440
+kurtz
+ydl176w
+addressed
+sgd
+usa
+& goble
+rpd3-
+iii
+rpd3s
+proportions
+co-purifies
+digested
+npg
+bind
+weissman7
+lam1
+hold-
+insight
+superior
+dddddddsfasadge
+wodak5
+technology9
+chung
+measure
+shannon
+category
+//thebiogrid
+ref
+completely
+& gilson
+rpb4
+rpb7
+manuscript
+transposases
+publication
+revealed
+rtt109
+reflecting
+haven
+providing
+vps75
+learner25
+accuracy
+databases
+/nature
+insulators
+text
+visualized
+decade
+thousands
+quantified
+made
+previously30
+shoshana
+respectively18
+module
+cohabitation
+nuclear
+importance
+joy
+pre-ribosomes
+extent
+hemiascomycetes
+wall
+ca
+& gerstein
+brohee
+9department
+fructose1
+unlike
+member
+http
+science 274
+study--
+effect
+compendium
+canete1
+cg10528
+thought
+science 302
+& shore
+density
+geneontology
+match
+indications
+ydr255c
+highlighting
+eissenberg
+analysed
+expansion
+panel
+krogan1
+brass
+613 cases
+banerjee
+funds
+& albert
+ho
+krogan
+evident
+display
+erin
+histones
+identities
+functions
+keogh
+vacuole
+kinds
+chem
+4d
+4c
+4a
+273
+101
+95
+1993
+1992
+1997
+1996
+1999
+20­22
+241­ -259
+4569­ -4574
+­
+2
+676­ -682
+509­ -512
+707­ -719
+546
+563­ -567
+767­ -776
+80%
+1575­ -1584
+599­ -610
+2364­ -2368
+399­ -403
+180­ -183
+50
+429
+087
+1275­ -1283
+0
+2498­ -2504
+737­ -741
+1
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+593­ -605
+96­ -103
+3
+27
+68
+69
+50%
+507­ -519
+93­ -102
+41­43
+4
+535­ -545
+3­4
+´
+1051­ -1087
+5­ -7
+623­ -627
+141­ -147
+$3%
+90%
+6
+429­ -432
+61%
+49%
+24
+25
+26
+20
+21
+22
+23
+28
+29
+2*
+1449­ -1465
+7
+6979­ -6992
+9894­ -9899
+73
+66%
+8
+413­ -418
+225­ -239
+901­ -906
+531­ -537
+32
+8203­ -8212
+9
+000
+89%
+1153­ -1155
+2002
+2003
+2000
+2001
+2004
+2005
+1652­ -1663
+109­ -126
+59%
+$99%
+39
+38
+33
+31
+30
+37
+36
+35
+34
+3*
+33%
+421­ -423
+94%
+1027­ -1034
+55­ -63
+70%
+449­ -453
+5
+686­ -691
+2522­ -2537
+1985
+*
+562
+72%
+1306­ -1314
+1030­ -1032
+48
+46
+47
+44
+45
+42
+43
+40
+41
+581­ -592

@@ -1,0 +1,363 @@
+three-dimensional structure
+temperature dependence
+allosteric communication
+synthetic
+fluorescence experiments
+physiological
+producing
+quadruple
+environment
+Evolutionary information
+analogous
+energetic connectivity
+ARTICLES Evolutionary
+free-energy
+activation
+protein-water
+Lichtarge
+difference
+cavity-creating
+PROCHECKNMR49
+accompanying
+denaturation experiments
+Higher-order
+Simultaneous determination
+inspection
+unexpected
+disordered
+consistent
+higher-order
+perspective
+canonical
+non-redundant
+mutational
+specification
+solid-like arrangement
+Estabrook
+Escherichia
+multivariate
+Determinants
+DQF-COSY
+Departments
+understanding
+METHODS Statistical
+refinement
+excellent agreement
+physiology
+siteindependent conservation
+Allosteric
+Lindorff-Larsen
+couplings
+implement
+hydrophobic
+Myoglobin
+regardless
+Laskowski
+energylike statistical
+substitutions
+TALOS-based
+proline-containing
+achieving
+coevolutionary interactions
+CLUSTAL
+Expression
+polypeptide
+Schreiber
+correlation spectroscopy
+One-dimensional
+calculation
+PSI-BLAST
+Ligand-dependent
+Eisenmesser
+cooperativity
+monitoring
+well-expressed
+back-translating
+Kolmogorov­Smirnov
+Structural
+simplicity
+energetic architecture
+space-filling
+polymerase
+three-dimensional 15N-edited
+loss-of-function
+structure determination16
+mutagenesis
+SDS­polyacrylamide
+redundant
+hypotheses
+complexity
+specifying
+fundamental
+position-specific
+representation
+idiosyncratic
+evolutionary
+Biochemistry
+Sixty-seven
+spectrofluorometer
+statistical couplings
+DNA-oligonucleotide-based
+Gardner2,3
+manuscript
+PROCHECK-NMR
+compensatory
+Experimental
+derivative
+Evolutionarily
+combination
+protein-protein interactions
+solubility
+two-state approximation
+multidimensional
+structural
+investigator
+ARTICLES sequences
+Southwestern
+nucleotide-binding
+package44
+package46
+financial
+generation
+site-independent conservation
+constitute
+sequence43
+Construction
+thermodynamic
+foundation
+Long-range
+University
+divergence
+possibility
+threedimensional
+coevolution
+biological
+three-stranded antiparallel
+interaction
+different site-specific
+September
+counterpart
+Rockefeller University
+probability
+Mallinckrodt Foundation
+computational algorithms
+Accordingly
+specificity
+wild-type
+three-way
+perturbation
+temperature
+Overhauser
+2Pharmacology
+cavity-dependent
+conservation
+Structure-based alignment
+3Biochemistry
+molecular
+structures
+Monte-Carlo
+interactions specifying
+structure representative
+Ranganathan1,2 Classical
+Co-operative interactions
+biochemical
+Monte-Carlo-based
+substantial
+concentration
+MacArthur
+efficient
+mechanism
+sufficiency
+MacKinnon
+Forman-Kay
+correlation
+heterogeneous energetic
+significant
+intrinsic temperature
+intrinsic
+surprising
+reversible transition
+structure determination
+proline-rich
+principle
+two-dimensional homonuclear
+comparative statistical
+minimizing
+Supplementary Information
+knowledge
+electrophoresis
+dystrophin
+non-folded
+equilibrium
+frequency distribution
+Nevertheless
+BioMagResBank
+Frauenfelder
+recombinant
+staphylococcal
+progressive
+differential
+Statistical coevolution
+computational modelling18,19
+architecture
+Conclusions Classical
+allosteric
+sensitivity
+artificial sequences
+insoluble
+centrifugation
+Ranganathan
+heteronuclear
+inter-atomic interactions
+artificial
+near-independent
+Enzymology
+identification
+available
+importance
+Characteristic
+efficiency
+hypothesis
+configuration
+allosteric CRIB-PDZ
+coupled30
+mechanical interactions
+participating
+Statistical
+distinction
+contribution
+expression
+experimental
+Ramachandran
+intrinsic interactions
+barnase-barstar
+dimensional
+Intramolecular signalling
+sequences
+kinase-associated
+Cornilescu
+two-dimensional double-quantum
+incubation
+Reidhaar-Olson
+anisotropic
+SDS­PAGE
+Comparison
+corresponding
+Naturallike
+sufficient
+covariance
+Consequently
+equilibration
+evolutionary conservation
+mutation-induced
+Supplementary
+optimization
+Crystallography
+Energetics
+structure characteristic
+Additional
+Perturbation experiments
+Ranganathan laboratory
+Correspondence
+different
+chromatography
+indistinguishable
+Understanding
+one-quarter
+domain-ENaC
+composition
+difficult
+independent
+literature
+His8-tagged
+Institute
+counterparts
+statistical information
+necessity
+invariance
+magnitude nonadditivity
+secondary structure
+consistency
+mutation-based
+Vendruscolo
+proximity
+Molecular
+alignment
+visualization
+flowchart
+Acknowledgements
+Fluorescence
+independent biophysical
+cooperative denaturation
+Deciphering
+necessary
+ARTICLES NATURE|Vol
+Influence
+informative
+arbitrary
+alignments
+15N-labelled
+Hammes-Schiffer
+sitespecific information
+SCA-based
+Application
+evolution-based
+protein-folding
+NATURE|Vol
+imidazole
+phosphothreonine
+processing
+functional cooperativity
+canonical proline-binding
+absorbance
+Characterizing
+analysing
+comparison
+insufficient
+Gradient-tailored
+suppression
+functional
+energetic interactions
+structural similarity
+categorization
+additional
+dispersion
+O'Donoghue
+intramolecular signalling
+synthesis
+natural-like composition
+overlapping
+construction
+convergence
+tryptophan
+considerable
+algorithm
+well-packed
+phosphate
+Experimental evaluation
+heterogeneous
+highlight
+distribution
+perturbation experiment
+cooperative interactions
+Publishing
+Mangelsdorf
+macromolecular structure
+inter-strand
+biochemistry
+artificial alignment
+Structure
+excitation
+convincing
+functional importance
+flow-through
+important
+globule-like
+sonication
+structure
+energy-like statistical
+fluorescence
+FBP28WW
+Principles
+representative structure
+resolution

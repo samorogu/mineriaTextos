@@ -1,0 +1,613 @@
+neighbors
+represent
+Mathivanan
+integrative framework
+comprehensive analysis
+visualizable
+Investigating
+optimization criterion
+abundant
+Deshpande
+dimensionality
+expression experiment
+expression coherence
+technique
+environment
+Hishigaki
+Kislinger
+Papadimitriou
+advantage
+Integrative analysis
+phenotypes
+TF-binding
+Aebersold
+cellular
+Validation
+specific condition
+partitions
+homogenize
+Hirozane-Kishikawa
+n-neighborhood
+Discovering molecular
+functional annotations
+D'Haeseleer
+biological
+Teichmann
+graphical interface
+revolution
+neighborhood
+consistent
+Wholeproteome prediction
+post-processing
+structure prediction
+log-likelihood
+bacterial
+leave-one-out
+synthetic sickness
+Detection
+probabilistic framework
+machine-learning algorithms
+functional information
+different properties
+NetworkBlast algorithm
+different annotation
+molecular interaction
+Escherichia
+Categories
+ArrayExpress
+Venkatesan
+Chandrika
+Unannotated
+refinement
+Scholkopf
+Biotechnol
+knowledge
+Computational
+interaction networks
+Markovian assumption
+inference
+multiterminal
+Ulitsky1
+physical interactions
+analyzing
+graph-clustering algorithms
+Evaluation
+Flannick
+edge-weighted
+edgebetweenness clustering
+confidence
+network-based
+Network-based prediction
+different algorithms
+direction
+centrality
+comparative assessment
+Bioinformatics
+annotations
+fundamental challenge
+successful
+cellular localization
+adjacency
+benchmark
+particular
+Transcriptional regulation
+Expanding
+Topological structure
+Hartwell
+Comparative assessment
+Combining
+Conference
+immediate neighborhood
+multiway
+corresponding algorithm
+Barabasi
+Numerous graph-clustering
+Probabilistic Integrating
+Integration
+weighting
+Periaswamy
+Thompson
+Module-assisted
+Superparamagnetic clustering
+Steinfeld
+discussion
+Altschuler
+methodology
+detecting molecular
+significance
+genome-wide
+parameter
+Expression analysis
+transduction
+Kaminski
+whole-genome expression
+Scholtens
+Iterative
+Phansalkar
+collection
+detection sensitivity
+connectivity
+membership
+moduleassisted
+molecular interactions
+approximate inference
+Parmigiani
+effective
+correspond
+annealing
+fundamental
+correlation
+topological properties
+gene-regulatory pathways
+bipartite
+Nandakumar
+interpretation
+systematic annotation
+hierarchy
+Vespignani
+signaling pathways
+genome-scale networks
+existence
+protein­DNA
+quantitative phenotypic
+Quantitative monitoring
+statistic combining
+interesting
+comparative performance
+flow-based
+suboptimal
+induction repression
+standard clustering
+Stockwell
+inadvertent evaluation
+WormBase
+Zimmermann
+functional similarity
+fundamental differences
+Alternatively
+Analysis
+Heterogeneous
+`functional
+Synthetic lethality
+subnetwork
+Saccharomyces cerevisiae
+Chazelle
+nonessential
+Clustering
+Gentleman
+applicable
+frequency
+interplay
+measurement
+Hesselberth
+withinand
+physical interaction
+Revealing
+phenotypic sensitivity
+large-scale networks
+cut-based
+Expansion
+Buhlmann
+cost-based
+available large-scale
+Automated modelling
+integrative annotation
+specific algorithms
+simultaneous analysis
+interactions
+Gruissem
+University
+Uncertainty
+specific conditions
+formation
+Correlation
+regulatory
+detecting
+Eisenberg
+likelihood
+definition
+Cambridge
+Ouzounis
+efficient approach
+recovering
+September
+utilization
+modularity
+Graph-theoretic
+introduction
+probability
+Altaf-Ul-Amin
+Cytoscape
+Systems-level
+biological community
+Microarray
+IsselTarver
+Detecting functional
+specificity
+methodological
+Naturally
+identification Integrating
+clustering algorithms
+sensitivity sensitivity
+subnetworks
+biomolecular interaction
+Precision
+heterogeneous genomewide
+structures
+quantitative evaluation
+relationship
+likelihood-based
+immediate
+neighbor-counting
+environmental
+High-confidence Medium-confidence
+sensitive pathways
+functional association
+predicting functions
+Medium-confidence interaction
+representing
+maximum-cut-based
+impractical
+Marzioch
+normalizing
+propagate functional
+appealing
+different expression
+high-scoring
+onedimensional
+biochemical
+proteome-scale
+decompose
+inferring
+Venclovas
+Czekanovski­Dice
+Ringwald
+Development
+properties corresponding
+transcription
+systematic evaluation
+complexity
+emphasis
+potential
+Tel-Aviv
+all-pair
+performance
+high-flow
+accuracy
+module-assisted
+Classical computational
+Exploiting
+Collective
+'small-world
+biological networks
+topology information
+significant
+successive
+Biological
+sophisticated
+probabilistic
+High-throughput two-hybrid
+observation
+Hollunder
+pre-specified
+expression machinery
+partition
+highscoring
+probabilistic graphical
+Goldberg
+principle
+quantifying
+co-clustering methodology
+represent different
+selection
+Flammini
+co-complexed
+vÞ2EðCÞ
+Srinivasan
+convergence
+identifying functional
+threshold
+availability
+PRODISTIN
+Dahlhaus
+simulating
+parameters
+implementation
+theoretic Letovsky
+clustering coefficient
+topological
+probabilistic formulation
+Conserved pathways
+systematic quantitative
+comparative analysis
+intuitive similarity
+compendia
+Mannhaupt
+International Conference
+accessibility
+reliabilities
+arsenic-response
+expectation
+standard hierarchical
+interaction interaction
+Hierarchical clustering-based
+conjunction
+Additional similarity
+available annotation
+conditions
+Schoenfeld
+experiments
+Proteomics
+Ashburner
+highthroughput experiments
+Networks
+Galitski
+purification experiments
+constructing
+prediction accuracy
+spectrometry-based
+Specifically
+detection
+individual
+biclustering algorithm
+programming reformulation
+theoretic
+Sanderson
+important prerequisite
+exploited
+Kurschner
+transcriptomic
+complementary
+functional classification
+Cabusora
+cooperation
+clustering algorithm
+approach
+discovery
+superparamagnetic clustering
+heuristic
+commercial
+Differential
+Kasarskis
+graph-theoretic analysis
+interface
+different module-assisted
+Computational Intelligence
+topology
+Neighborhood
+homogeneous second-order
+scale-free
+non-overlapping
+detection algorithm
+Sherlock
+Munsterkotter
+expression
+otherwise
+Leiserson
+characterization
+Discussion
+community
+Comparing
+Pereira-Leal
+considering
+methodological improvement
+functional annotation
+efficient algorithm
+Predicting
+detecting signaling
+extraction
+functional-linkage
+breadth-first-search
+compre10 Molecular
+Ontology
+Properties
+transcriptional regulatory
+graphical
+large-scale interaction
+diversity
+Schwikowski
+Functional classification
+precision
+traversal
+PereiraLeal
+Hopfield
+Richardson
+assigning
+microarray technology
+empirical
+optimization algorithms
+Coexpression analysis
+investigating
+potential bicluster
+procedure
+molecular pathways
+Assessing
+fÀHðxÞg
+prevalence
+protein­protein interaction
+Yannakakis
+statistical analysis
+network-based functional
+Symposium
+Assessment
+regression
+protein-interaction networks
+Confirmation
+propagation
+Letovsky
+ActiveModules algorithm
+genome-wide experiments
+hierarchical clustering
+Functional topology
+molecular complexes
+development
+independent
+Lichtenberg
+percolation
+assignment
+Assessing computational
+Revealing modularity
+compendium
+Inference
+database
+different distances
+module-assisted clustering
+organization
+Strogatz
+well-studied
+filamentation
+Community structure
+kernel-based
+Guldener
+proximity
+identical functions
+Topological
+Molecular
+Morgenstern
+alignment
+visualization
+`community structures
+Nagaraju
+repression repression
+candidate
+Jaakkola
+analysis alongside
+Greenbaum
+combining detection
+candidate subnetwork
+Although
+extensive
+Acknowledgements
+hybridization
+identical
+Kryshtafovych
+Systematic interpretation
+AjVjÂjVj
+Ignatchenko
+post-genomic
+unification
+sequencing
+prevalent instrument
+`community
+simplistic comparison
+genome-wide prediction
+systematic comparison
+accessible
+metabolic
+neighborhood-counting
+shortcoming
+module-assisted approach
+Performance comparison
+transcriptome
+graph-theoretic
+Troyanskaya
+induction induction
+specific biological
+integration
+Integrating phenotypic
+landscape
+interactions Phenotypic
+Interactome-transcriptome analysis
+measuring
+repository
+processing
+Breitkreutz
+Proceedings
+ontology
+properties
+genome-scale functional
+Plasmodium
+Friedlander
+Additional large-scale
+Adamcsek
+Co-clustering
+Gramolini
+quasi-likelihood
+simulation
+organelle
+Rahnenfuhrer
+Efficient algorithms
+Precisely
+statistical framework
+Sahasrabudhe
+different pathways
+computational
+Functional annotation
+Integrated analysis
+obtaining
+one-fourth
+Identification
+Discovering regulatory
+proportional
+Tanigami
+additional
+subcellular
+large-scale detection
+intrinsic
+Complexpander
+Luscombe
+Pavlidis
+Greenblatt
+Dudbridge
+Batzoglou
+Frishman
+subgraph
+protein­protein interactions
+Interestingly
+differences
+Lanckriet
+overlapping
+comprehensive comparison
+automated
+Following
+Quantitative
+biochemical purification
+hypergeometric enrichment
+partitioning
+Dolinski
+applying
+Alexandrov
+characteristic
+McGraw-Hill
+heterogeneous
+distribution
+Publishing
+computing
+Introduction
+combining
+influence
+generating
+dissemination
+reliability
+associating
+module-assisted integration
+formulation
+statistical significance
+Kurokawa
+physical
+functions
+assessing
+coexpression
+Diffusion kernel-based
+biclustering
+edge-betweenness clustering
+structure analysis
+sophisticated probabilistic
+high-throughput
+two-step approach
+Pellegrini
+interactome
+Genome-scale
+pathways
+proteomic
+Campillos
+structure
+independently
+prevalent
+prediction performance
+cellular machinery
+Cristianini
+Prediction
+Whole-genome annotation
+Artificial Intelligence
+sensitivity High-confidence

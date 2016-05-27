@@ -1,0 +1,13 @@
+set
+input
+rna
+437770txt
+free
+designer
+master
+sequences
+samorogu
+strands
+energy
+structure
+secondary

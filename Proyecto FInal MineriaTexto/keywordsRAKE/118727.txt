@@ -1,0 +1,595 @@
+hofacker*
+¨ institut fur theoretische chemie und molekulare strukturbiologie
+austrian fonds zur forderung ¨ der wissenschaftlichen forschung
+dated dual pentium ii 450 mhz machine
+1093/nar/gkg599
+
+vienna rna secondary structure server
+ivo
+#
+
+2003 oxford university press
+
+nucleic acids research
+vienna rna secondary structure server presented
+rights reserved
+
+3430
+
+nucleic acids research
+inverse folding service treats sequence design
+calculate equilibrium base pairing probabilities
+nucleic acid secondary structure display
+vienna rna secondary structure server
+parse
+
+introduction biomolecules exhibit
+mfe optimization typically yields sequences
+equivalent command line invocation
+inverse fold server finding sequences
+small subunit ribosomal rna
+complete rna virus genomes
+vienna rna web site
+structure drawings mutations supporting
+producing structure drawings annotated
+rnainverse command line programs
+valid secondary structure strings
+vienna rna software package
+modified dynamic programming algorithms
+practical dynamic programming algorithms
+search varies widely depending
+vienna rna web server
+oligonucleotide dna nearest-neighbor thermodynamics
+standardized data exchange format
+static html page presenting
+conventional secondary structure graph
+conserved rna structure elements
+dna parameter set provided
+base pair binding probabilities
+point-and-click graphical user interface
+13 # oxford university press 2003
+rna secondary structure prediction
+partition function produces sequences
+rna sequence date back
+single stranded dna sequences
+recently proposed rnaml format
+nucleic acids research
+fold server output consists
+vienna rna package
+rna structure prediction methods
+output web page produced
+dynamic programming algorithms
+nucleic acids res
+rna secondary structure
+equilibrium partition function
+cgi scripts equivalent
+search steps performed
+rna secondary structures
+secondary structure drawing
+conserved secondary structure
+optimal secondary structure
+locally installed software
+require additional software
+complete suboptimal folding
+consensus secondary structure
+free software package
+secondary structure prediction
+royal society london
+highest print quality
+shallow learning curve
+base pairs enclosing
+brought increased demand
+stochastic context-free grammars
+client side javascript
+naview layout method
+austria
+received february 15
+larger rna sequences
+related rna sequences
+partition function folding
+request structure drawings
+rna structure prediction
+enhancing energy rules
+server accepts sequences
+optimal computer folding
+rna energy parameters
+batch queuing system
+scalable vector graphics
+expanded sequence dependence
+minimum free energy
+limit request sizes
+aligned rna sequences
+sequence design problems
+predicted structures interactively
+exchanging rna information
+svg enabled browsers
+xml based language
+alifold service predicts
+significant common sequence
+sequence variation implies
+predicted mfe structure
+thermodynamic ¨ controlled prediction
+standard energy model
+partition function algorithm
+/~ivo/rna/ alifoldcgi
+input consists simply
+desired target structure
+mountain plot depicting
+precomputed sequence alignment
+structure prediction problem
+so-called `dot plot
+unix command-line users
+maximum structure length
+secondary structure
+secondary structures
+rna sequences
+structure graph
+ivo@tbi
+rna sequence
+dna sequences
+web service
+aligned rna
+crc press
+server predicts
+alifold server
+mfe folding
+consensus structure
+predicted structure
+conserved structures
+free energy
+desired structure
+rna molecules
+// rna
+mfe structure
+web interface
+fast folding
+server restricts
+target structure
+predicted mfe
+suboptimal structures
+actual data
+enclosing pairs
+single sequence
+sequence variation
+mfe structures
+rnafold server
+aligned sequences
+structure motifs
+tertiary structure
+structure ensembles
+predefined structure
+pair probabilities
+rnafold service
+thermodynamic parameters
+web pages
+optimization problem
+input consists
+input sequence
+clustal format
+short sequences
+offers prediction
+prediction accuracies
+robust prediction
+supports prediction
+functional structures
+mountain plot
+extremely common
+computer savvy
+convenient interface
+svg graphics
+batch queue
+maximum length
+sequence position
+sequence space
+sequence covariation
+dot plot
+postscript format
+occasional user
+thermodynamic ensembles
+thermodynamic ensemble
+interactive user
+offer input
+input form
+web services
+improved algorithm
+inverse
+variants based
+future plans
+functionally important
+evolutionary history
+svg plugin
+universitat wien
+solved heuristically
+a-1090 wien
+experimentally test
+covariance term
+equally good
+confidence level
+dissimilar foldings
+natl acad
+offering access
+suitable alternative
+computational methods
+classic algorithm
+marginally stable
+inline images
+detailed explanation
+time needed
+strongly geared
+toggling annotation
+good indicator
+processed immediately
+strong preference
+error prone
+automatic detection
+encoding proteins
+performance reasons
+close interplay
+promising candidate
+projects fwf 15893
+pre-compiled binaries
+popular features
+mathematical methods
+alternative foldings
+unified view
+boca raton
+bracket notation
+square grid
+highly successful
+standard syntax
+automatic parsing
+requirements exceed
+mountain plots
+dot plots
+auxiliary information
+postscript files
+plots generated
+pair types
+basic access
+john santalucia
+longer jobs
+accepted april 5
+current limits
+text field
+john mccaskill
+area proportional
+postscript plots
+average number
+growing number
+rna
+complex functions
+simplest case
+case study
+phylogenetic analysis
+server
+algorithms
+typically
+turner group
+finding
+output
+page
+package
+structure
+fold
+design
+optimization
+format
+prediction
+sequences
+consists
+recently
+html
+widely
+programs
+thermodynamics
+function
+back
+rnaml
+sequence
+mfe
+request
+user
+hofacker
+pair
+based
+standard
+methods
+length
+alignment
+problem
+algorithm
+svg
+rnafold
+information
+produced
+set
+postscript
+plots
+/
+santalucia
+types
+mccaskill
+group
+turner
+jobs
+limits
+basic
+field
+accepted
+area
+number
+users
+tbi
+case
+services
+functions
+analysis
+sci
+results
+dumbbell
+rnaalifold
+finally
+uploaded
+brown
+fax
+string
+ghostscript
+upload
+gorodkin
+chem
+300 nt
+10 kb
+processing
+explore
+address
+box
+makes
+plotted
+polymer
+distributed
+¨ ¨ wahringerstraß
+marked
+addressed
+handled
+usa
+predictions
+gendron
+hein
+*tel
+work
+westbrook
+well-definedness
+links
+predict
+conversely
+provide
+stolorz
+occur
+occasionally
+widespread
+sabina
+typed
+produce
+designed
+bioinformatics
+representations
+fl
+shortcomings
+/svg/
+order
+2000 nt
+regions
+westhof
+knudsen
+easier
+zucker
+return
+combination
+gsview
+definedness
+notified
+interoperation
+found
+heyer
+subset
+adobe
+ed
+revised
+solution
+frequency
+contained
+juan
+transition
+facilitate
+assign
+probability
+13
+
+figure 1
+tacker
+figure 1
+size
+construct
+typing
+biopolymers
+implements
+tool
+submitted
+accessed
+flamm
+wilson
+storage
+jacobson
+20 years
+ideal
+machines
+online
+circles
+monatsh
+programmers
+waugh
+measures
+altman
+plan
+acknowledgements
+bruccoleri
+harvey
+huynen
+supported
+visualized
+completion
+spite
+stormo
+heinrich
+cabios
+gautheret
+stability
+runs
+graf
+rauscher
+w3
+enhanced
+fontana
+pasted
+leontis
+stadler
+email
+//www
+schuster
+jr
+hypothesis
+bonhoeffer
+waterman
+p-13545-mat
+org/graphics/svg
+color
+pp
+addition
+quickly
+interest
+improve
+manually
+vol
+zuker
+make
+infeasible
+univie
+tedious
+extended
+http
+fekete
+xy-graph
+hand
+viewing
+frequently
+dissimilarity
+minimize
+4000 nt
+mathews
+firstly
+obtain
+visualization
+wuchty
+add
+easy
+usage
+identical
+13 3429­3431 doi
+references
+1
+mol
+shapes
+alignments
+steger
+examples
+ubiquity
+proc
+selecting
+predicting
+2003
+
+abstract
+optimize
+comparison
+underway
+luck
+servers
+interactivity
+`well-determined
+biol
+conservation
+stiegler
+embedded
+default
+ac
+al
+file
+variety
+draw
+100 nt
+167­173
+`
+1998
+31
+446­454
+1105­1119
+6
+1460­1465
+95
+1990
+1995
+1997
+1999
+1
+4208­4217
+159­184
+3724­3732
+145­165
+26
+27
+23
+29
+25
+167­188
+7
+279­284
+1994
+2791­2798
+1988
+2
+11
+10
+13
+12
+15
+14
+17
+16
+þ43 1 4277 52793
+1059­1066
+â
+707­717
+8
+125
+9
+319
+3825­3836
+3
+288
+6­11
+911­940
+255
+13
+
+3431
+1981
+133­148
+þ43 1 4277 52738
+49
+289
+4
+1989
+935­947
+5
+2002
+2003

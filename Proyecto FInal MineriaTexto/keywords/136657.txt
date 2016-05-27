@@ -1,0 +1,379 @@
+particular
+task-oriented
+supplement
+has-function
+morphology
+Corporation
+technique
+interaction relationships
+Broadcast
+fine-grained
+stochastic
+ontological
+attribution
+Biocomputing
+discrepant
+literature similarity
+mis-annotated
+biology-specific
+is-caused-by
+improving retrieval
+challenge evaluations
+biological
+`Topoisomerase
+occurrence
+PIR-NREF
+biological significance
+EMPathIE extracted
+LANGUAGE PROCESSING
+processing approaches
+specification
+localization
+`gold-standard
+experiment
+biological literature
+coreference
+relational
+BIOLOGICAL PATHWAYS
+Harabagiu
+coefficient
+understanding
+causality
+intrinsic evaluation
+experience
+Information retrieval
+superfamily SF001321
+800-document
+adjustable
+classification
+rule-based
+functional relationship
+functional characterization
+Therefore
+Evaluation
+confidence
+abbreviations
+different approaches
+Bioinformatics
+yardstick
+theoretical
+successful
+benchmark
+Challenging conventional
+Westbrook
+Expression
+induction procedure
+`camptothecin
+mammalian
+BIOMEDICAL
+inhibitor
+Illiopoulos
+challenging
+expanding
+phosphorylate
+important challenge
+PSI-BLAST
+significant challenge
+Appl+P130kD
+information
+redundancy
+syntactic
+ORGANIZING
+extracted relationships
+PCM00039
+description
+Technical
+literature reference
+molecular interactions
+improving
+annotation
+functional hierarchy
+complexity
+COLING-2000
+acetylate
+independent-of
+Humphreys
+computational
+statistical
+biomedical
+Predicting
+correspondence
+transcribing
+Challenge
+superfamily
+framework
+provision
+development techniques
+structural
+important information
+Rindflesch
+Identification
+nucleotide-binding
+classifier
+challenge evaluation
+biomedical literature
+co-occurrence
+information extraction
+challenges
+small-scale
+Biobibliometrics
+AUTOMATED DATABASE
+Georgetown University
+intuitive statistical
+induction
+integrated
+DATABASE CURATION
+dictionary
+interactions
+University
+diagnostic
+collection
+subsequent classification
+inhibit-transcription
+co-referring
+Researchers
+definition
+technical approaches
+hand-annotated
+benchmarking
+Linguistics
+biological importance
+probability
+mediated-by
+interaction information
+specificity
+impossible
+LocusLink
+Interacting
+annotated
+extrinsic
+biomolecular interaction
+obtainable
+assumption
+statement
+cost-effective
+percentage
+molecular
+sensitivity
+relationship
+HALLENGE
+underlying syntactic
+translation
+Baclawski
+diagrammatic knowledge
+PF00270
+PF00271
+biochemical
+interact-with
+providing
+abstracts
+Understanding Conferences
+interactive
+collecting
+generality
+ABSTRACT
+beforehand
+substantial
+documents
+transcription
+responsible
+extracted
+recognizing
+performance
+Putejovsky
+Evaluating
+evaluator
+`challenge evaluation
+unavailable
+successful challenge
+user-centered
+unreasonable
+construction
+dephosphorylate
+databases
+to-produce
+rule-based classifier
+dissociate
+participate
+profligate
+Protein-protein
+recognizing interactions
+extracting interactions
+EXTRACTION
+molecules
+long-standing
+subcellular localization
+Constructing biological
+interoperability
+human-readable annotation
+processes
+ACCOMPLISHMENTS
+discovery
+automatic
+reference
+peripheral
+REtrieval Conferences
+individual
+usefulness
+Performance
+Swiss-Prot
+traditional evaluation
+INTRODUCTION
+Tissue/Position
+bidirectional incremental
+identification
+ubiquinate
+reproducible
+`translation initiation
+iProClass
+available
+comparable
+infrastructure
+visualization
+importance
+Symposiums
+interchangeable
+Retrieval
+corpus-based
+Extracting
+linguistic structures
+is-independent-of
+nomenclature
+expression
+experimental
+benchmark databases
+Consortium
+handcrafted rule-based
+conference
+Literature
+functional annotation
+acceptance
+extraction
+Yakushiji
+well-characterized
+linguistic
+prototype
+Automatic extraction
+protein-protein
+diversity
+systematic
+Highlight
+Embryonic
+BIND­the biomolecular
+evaluating
+interaction extraction
+relationships retrievable
+is-inhibited-by
+Symposium
+technology
+different
+information extractor
+MEDSYNDIKATE
+Eisenhaber
+knowledge acquisition
+PROCESSING PERSPECTIVE
+acquiring knowledge
+composition
+development
+literature
+comprehensive
+monotonic
+extraction techniques
+Peripheral
+Information Processing
+biological information
+consistency
+organization
+researchers
+CONCLUSION
+Bidirectional incremental
+homologous-to
+underlying
+alternative
+`ATP-dependent
+bibliography
+dissociation
+candidate
+grammatical
+Knowledge Discovery
+association
+VALUATION
+Annotation
+government
+`eukaryotic translation
+emergence
+Intelligent
+identifying
+technical component-level
+multiplicative
+different prediction
+terminology
+biological knowledge
+domain-independent
+metabolic
+uppercase
+information retrieval
+Application
+transport
+controlled vocabulary
+activate-transcription
+Singapore
+Including biological
+participation
+domain-specific knowledge
+scientific
+repository
+Automated extraction
+processing
+Proceedings
+substitution
+cancer-related
+Molecular interaction
+large-scale general-purpose
+comparison
+underlying literature
+protein-name
+extracted information
+communication
+processing techniques
+obtaining
+Management
+REFERENCES
+Hirschman
+combinatory categorial
+CHALLENGE EVALUATION
+clustering
+pharmaceutical
+Automatically
+different granularity
+TEXTQUEST
+knowledge representation
+Neuroscience
+linguistic techniques
+extensive validation
+Extraction
+retrieval community
+characteristic
+Information extraction
+exploration
+assessing
+ONTOLOGY DEVELOPMENT
+Description
+Molecular Connections
+application
+supplementing
+Knowledge representation
+functionality
+recognition
+translational modification
+comprehensive understanding
+extracting information
+structure
+translation initiation
+Relationship
+algorithm
+Drosophila
+FBpp0002057
+scientific literature
+biotechnology
+resolution

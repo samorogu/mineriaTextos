@@ -1,0 +1,13 @@
+network
+j
+community
+large
+s
+master
+fig
+members
+1206611txt
+communities
+samorogu
+networks
+structure

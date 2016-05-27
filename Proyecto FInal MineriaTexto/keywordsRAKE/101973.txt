@@ -1,0 +1,1200 @@
+dimeric structures revealed nucleotide-bound nbd homodimers
+distributed modular architectures linking basal ganglia
+results directly link atp-driven tight dimerization
+passive learning task activate human striatum
+two-state spontaneous membrane potential fluctuations
+grey lines represent average reaction time
+earlytrial caudate nucleus activity quickly reflected
+cystic fibrosis transmembrane conductance regulator
+dir int err 2 2 direction factor
+error bars show standard error
+cortical layer iv spiny neurons
+/nature
+
+© 2005 nature publishing group
+
+875
+
+letters
+/nature
+
+© 2005 nature publishing group
+
+letters
+black dashed line represents time
+tight nbd dimer interface
+876
+
+figure 1 open cftr channels correspond
+dopaminergic reward-prediction error signals
+comprising conserved atp-binding motifs
+300 nm camp-dependent protein kinase
+predicted nbd1­nbd2 dimer interface
+quickly learn arbitrary rules
+dotted lines show sigmoids
+cftr-channel gating cycle lasts
+intrinsically bursting pyramidal cells
+purposive saccadic eye movements
+pre-saccadic activity began progressively earlier
+weak earlytrial direction selectivity
+caudate nucleus neurons showed activity
+current decay fit lines
+calretinin-immunoreactive local circuit neurons
+873
+
+© 2005 nature publishing group
+
+letters
+nucleotidebinding domains
+paola vergani1
+riken-mit neuroscience research center
+white dashed lines denote
+peaked progressively earlier relative
+electrically coupled inhibitory neurons
+/nature
+
+© 2005 nature publishing group
+prokaryotic abc proteins dimerize
+rat primary visual cortex
+striatum
+anitha pasupathy & earl
+data collection
+neural activity
+monkey primary visual cortex
+101 caudate nucleus neurons showing
+phosphorylated cftr cl2 channel
+frontal cortex-basal ganglia system
+nbd dimer interface
+atp-driven tight dimerization
+areas showed strong selectivity
+expresses saccade direction selectivity
+reward expectation-related neuronal activity
+simultaneously recorded neural activity
+direction selectivity rapidly increases
+unchanging cue­response associations
+caudate nucleus rise times
+peri-cue saccade direction selectivity
+average total explainable variance
+saccadic eye movements
+average saccade direction selectivity
+pfc rise times showed
+pevdir yielded similar results
+neostriatal spiny neurons
+striatal spiny neurons
+primary visual cortex
+gabaergic calretinin-immunoreactive neurons
+arbitrary visuomotor mapping
+rat visual cortex
+cell type specificity
+rotationally symmetric `head-to-tail
+intrinsic firing patterns
+cortico-basal ganglionic `loops
+dura-puncturing tungsten microelectrodes
+striatal infrastructure ideal
+competing financial interests
+magnetic resonance imaging
+american physiological society
+best-fitting sigmoidal curves
+monitored side chains
+representation-specific response selection
+independently adjustable microdrives
+local excitatory connections
+channel gating status
+abcspecific signature sequence
+competing interests statement
+fivefold expanded timescale
+/nature
+
+figure 1 task
+nbd2 markedly increases
+appears progressively earlier
+open burst state
+cytoplasmic nucleotide-binding domains
+transmembrane domains comprise
+frontal lobe structures
+animal procedures conformed
+thalamocortical synaptic responses
+distinct gabaergic targets
+make nucleotide occupancy
+cell type-specific circuits
+signature sequence residues
+abc protein superfamily
+receptive field properties
+involving dynamic restructuring
+juvenile rat neocortex
+arbitrary visuomotor associations
+prefrontal-basal ganglia pathways
+dorsal premotor cortex
+mouse barrel cortex
+area-selective neuronal activity
+rule-dependent neuronal activity
+proposed mechanism coupling
+cortical area important
+block length varied
+photolabelling studies show
+minimum block length
+early-trial direction selectivity
+directly follow opening
+nbd1­nbd2 dimerization
+279 caudate nucleus neurons
+caudate nucleus neurons
+err 10 ms steps
+average neuronal activity
+consolidating familiar routines
+data analysis
+two-
+temporal prediction errors
+linear correlation coefficient
+receives direct projections
+receptive field analysis
+capacity--conditional association learning--
+waveform shape characteristics
+total explainable variance
+intact cftr molecules
+average behavioural performance
+subcortical nuclei long
+interfacial composite sites
+caudate nucleus activity
+monkey caudate nucleus
+rise
+
+figure 3 change
+selectivity strength increases
+areas receive inputs
+behavioural improvement relative
+conditional visuomotor learning
+compared direction selectivity
+results illustrate differences
+supplementary information accompanies
+saccade direction selectivity
+positioned stereotaxically based
+sorted offline based
+caudate nucleus compared
+caudate nucleus populations
+cue yielded reward
+cent correct performance
+cl2 channel pore
+explainable variance accounted
+reaction time increased
+peak direction selectivity
+dorsolateral prefrontal cortex
+learning-related neuronal activity
+methods
+behavioural task
+slower leftward shift
+including unexplained variance
+selectivity increased sooner
+require atp binding
+weaken atp binding
+saccade choices dropped
+performance reached criterion
+nature
+
+figure 2 change
+dashed lines
+single-channel recording methods
+cue­response associations
+cystic fibrosis
+significantly stronger correlation
+correct trials early
+abc-protein nbds determined
+learning takes place
+conditional association learning
+pfc rise times
+primate prefrontal cortex
+cftr channel opening
+voluntary movement initiation
+basal ganglia lead
+calculated rise time
+slower learning mechanisms
+normal rapid closing
+100 ms centred window
+cue­saccade associations
+prefrontal cortex function
+multiple trial blocks
+correct trials collapsed
+cortical circuits
+direction factor
+white lines
+populations showed
+nucleotidebinding domains
+transmembrane domains
+crystal structures
+membrane properties
+cl2 channel
+membrane proteins
+dimer dissociation3­5
+layer 3b
+rise times
+straight lines
+showed rapid
+direction selectivity
+early-trial activity
+neuronal activity
+pre-saccadic activity
+populations relative
+total variance
+selectivity increased
+caudate
+874
+
+nucleus
+caudate nucleus
+behavioural performance
+recorded neurons
+channels open
+activity accounted
+synaptic activity
+neural activity
+monkeys learned associations
+saccade direction
+prediction errors
+reversible dimerization
+black dots
+picower center
+physiology--nervous system
+peri-cue period
+atp-binding cassette
+anitha@mit
+protein dysfunctional
+abc proteins
+response bias
+explainable variance
+appears earlier
+frontal lobe
+cftr residues
+isolated neurons
+single neurons
+nearby neurons
+frontal cortex
+nucleotide binding
+composite sites
+subcortical nuclei
+cftr channels
+obj direction
+reaction time
+neuronal coding
+increasingly pre-saccadic
+direct saccade
+basal ganglia
+prefrontal cortex
+visual cues
+cognitive neuroscience
+cellular neuroscience
+activity appeared
+learning-related activity
+monkey hippocampus
+cynomolgus monkey
+half-maximum selectivity
+monkey striatum
+dynamic formation
+clear differences
+information processing
+neural correlates
+eight-trial window
+targets appeared
+channel gates
+channel opening14
+voluntary action
+basal-ganglia `projections
+one-trial steps
+ion channel
+figure 3a
+proteins constitute
+animal care
+information retrieval
+neural correlate
+figure 1b
+neural evidence
+performance jumped
+frontal lobes
+frontal cortex15
+selectivity strength
+atp molecules
+cerebral cortex
+`rise time
+rise time
+closed channels
+cftr channels1
+cellular mechanism
+slower plasticity
+train slower
+composite site
+centred closely
+hebbian mechanisms
+hydrolysis cycle
+basal ganglia15
+variance explained
+slower time
+data shown
+recording wells
+binding atp
+atp binding
+saccade initiation
+forthcoming saccade
+trial began
+yield reward
+juice reward
+supplementary notes 7
+saccade onset
+rewardrelevant associations
+previous associations
+channel opening
+pevdir represents
+correct choices
+saccade execution
+reward onset
+isolated nbds4
+opposite pairing
+input structure
+biochemical studies
+opposite sides
+report evidence
+sequential relationship
+volitional movements1­3
+interneurons immunoreactive
+automatic habits21
+gadsby1
+1 laboratory
+diagram illustrating
+integrative theory
+mit committee
+technical assistance
+yale university
+previous work7
+cognitive sciences
+gradual improvement
+controlling action
+authors declare
+infragranular layers
+fast-spiking interneurons
+multi-coloured images
+close relationship--
+uncontrolled variables
+helpful comments
+closed states
+nbd1-head site
+dimensionality reduction
+eds boller
+slow improvements
+previously demonstrated10
+atp-mediated events
+nih guidelines
+randomly intermingled
+anatomical architecture
+molecular mechanism
+regression
+
+analysis
+balanced analyses
+necessarily incompatible
+rapid formation
+rockefeller university
+rule-based behaviours
+site rate-limiting
+fhc instruments
+studied separately
+eds brookhart
+actively transport
+large family
+colour scale
+position simply
+future publications
+indirectly projects
+received 31 august
+sophisticated ability
+highly familiar
+structural evidence
+population separately
+assessed learning-related
+feedback connections
+action repertoires
+fixation spot
+macaca fascicularis
+increasing numbers
+maximum slope
+energetic coupling6
+core subdomain
+computational explorations
+instantly reverse
+briefly presented
+gradually decreased
+broad range
+functional micro-organization
+images obtained
+a-helical subdomain
+presented half
+syndrome association
+specific predictions
+colour scales
+national institutes
+supplementary note 3
+supplementary note 2
+supplementary note 1
+supplementary note 6
+supplementary note 5
+supplementary note 4
+supplementary note 9
+supplementary note 12
+supplementary note 10
+supplementary note 11
+time constants
+time courses
+30 correct trials
+20 correct trials
+10 correct trials
+correct trials
+recording session
+dorsolateral pfc
+low [atp]
+primate striatum
+5 mm atp
+cue period
+results support
+300 ms centred
+slower trend
+output nuclei
+neural control
+population strength
+gradual increase
+dimerized nbds
+`habit memory
+group
+sudden increase
+slow increase
+memory functions
+isolated nbds
+cue onset
+brain systems
+brain res
+trial block
+letters
+brain regions6­14
+examine learning
+associative learning
+learning rate
+reinforcement learning
+learning process
+learning systems
+reward-related learning
+nature
+time
+associations learned
+molecular neurobiology
+massachusetts institute
+callaway laboratory
+neuron populations
+callaway@salk
+rewarded associations
+target spots
+pfc mechanisms
+starting 100 ms
+starting 50 ms
+occurred 250 ms
+asymptote sooner
+cardiac/membrane physiology
+accepted 17 december 2004
+valuable discussions
+mutations expected
+revealed
+laboratory test
+maintain gaze
+unique functions
+cue presentation
+complex world
+oxford univ
+trial period
+wt record
+pet study
+mit press
+greater flexibility
+action planning
+target onset
+pfc results
+hypotheses lead
+monkeys completed
+reversed associations
+support hypotheses
+massachusetts 02139 usa
+familiar cues
+hydrolysis prevents
+sharp contrast
+neuron population
+faster increase
+supplementary fig
+memory delay
+show
+trial reached
+subsequently involved
+higher areas
+dominant role
+single pfc
+error
+red arrow
+usa 4 department
+trial blocks
+1 2 j2 /j2
+/nature
+dimerization
+trial number
+delay periods
+monkeys learned
+neurons
+direction
+task
+open
+represents
+reflected
+average
+began
+activity
+nbd2
+selectivity
+learn
+abc
+similar
+rapidly
+fit
+nbd1
+coupled
+cells
+earlier
+performance
+cortex 12
+cortex 9
+cortex 5
+cftr
+channels
+change
+white
+predicted
+recorded
+compared
+variance
+block
+saccade
+`saccade
+results
+`reward
+reward
+associations
+$90% correct
+0% correct
+rapid
+follow
+pore
+movement
+analysis
+correlation
+including
+sooner
+association
+learning-related
+initiation
+place
+primate
+stronger
+determined
+familiar
+choices
+shift
+studies
+shape
+improvement
+collapsed
+calculated
+area 17
+peak
+neocortex
+time
+striatum
+atp
+`cue
+cue
+onset
+trials
+10 trials
+strength
+note
+memory
+increase
+nbds
+execution
+methods
+nature
+19
+nature 413
+nature 402
+nature
+nature 418
+nature
+20
+reached
+areas
+brain
+lead
+areas 9
+learning
+session
+usa
+blocks
+hypotheses
+molecular
+massachusetts
+support
+& callaway
+opening
+presentation
+target
+learned
+based
+150 ms
+1000 ms
+50 ms
+500 ms
+¼ 108 ms
+250 ms
+60 ms
+¼ 480 ms
+trend
+`delay
+physiology
+study
+feedback
+rewarded
+number
+oxford
+asymptote
+unique
+1b
+delay
+planning
+3a
+accepted
+discussions
+flexibility
+gaze
+expected
+periods
+trial
+complex
+higher
+department
+press
+wt
+trial 7
+trial 6
+trial 4
+output
+function
+trial 12
+test
+faster
+pevdir
+monkeys
+closing
+cues
+contrast
+control
+neuron 25
+hydrolysis
+neuron 38
+neuron
+neuron 21
+involved
+shown
+reversed
+role
+pfc
+168 pfc
+432 pfc
+red
+fig
+j2
+katz
+illustrated
+grateful
+substrates
+monomer
+patches
+paris
+supported
+buschman
+stable
+random
+activated
+prog
+roy
+enclosing
+beierlein
+20 --
+& mountcastle
+neurobiol
+semi-parallel
+miller
+petrides
+evaluated
+converging
+other3
+girman
+blue
+advantageous
+selected
+favour
+find
+establishes
+3c
+cn
+body
+led
+mem
+fold7
+behaviour
+reported
+represented
+ratio
+reversals
+suggests
+maccully
+suggestion
+schumacher
+makes
+tasks
+vip
+decrease
+motor
+bussey
+bastian
+& georgopoulos
+hadj-bouziane
+4 & david
+remains
+tail
+& connors
+york 10021
+sessions
+share
+disruption
+cycles
+neurosci
+mounted
+cerebellum
+work
+remain
+examined
+evolved
+hollerman
+stimulating
+houk
+`tail
+lauwereyns
+links
+& bergman
+grant
+reynolds
+ohzawa
+end
+steve
+arrangement
+regions
+york
+gonchar
+extinguished
+reward-based
+learning15
+1038/nature03287
+wirth
+hydrolysed15
+chunking
+biophysics
+reflect
+connectivity
+noise
+fits
+delong
+& miller
+restricted
+murray
+cereb
+paper
+physiol
+tourette
+late
+& gerfen
+reilly
+eur
+correspondence
+bethesda
+combination
+records
+connecticut 06519
+`trains
+day
+& munakata
+& dickinson
+23 due
+identified
+midbrain27
+morris
+2a
+2c
+interfering
+jdir/
+development
+independent
+figs 2
+elston
+conventions
+lsggq
+event
+clarity
+network
+quantify
+innervation
+rev
+hoshi
+health
+induced
+shows
+histed
+possibility
+sensory
+members
+packard
+`walker
+staiger
+interaction
+zilles
+conducted
+timed
+major
+nairn3
+schubert
+philadelphia
+crit
+computed
+pfc19
+1a
+rates
+anovas
+dissociation
+observations
+24 february 2005
+& freeman
+part
+& montague
+albeit
+roles
+binds
+168/432
+lippincott-raven
+esposito
+rainer
+navigate
+mind
+takikawa
+sauve
+elsevier
+wilson
+berns
+brains
+centre
+object
+reach
+anatomy
+acknowledgements
+measured
+doi
+passingham
+science 300
+exp
+typically
+diogo
+waveforms
+networks
+explain
+proportion
+examples
+comparison
+quantified
+machon
+tremblay
+reversal
+saccades
+primates
+freedman
+stability
+accordance
+arrays
+stored
+gibson
+set
+achieved
+e1371q
+3laboratory
+& schall
+observed
+asaad
+includes
+brasted
+& kawagoe
+hikosaka
+materials
+vol 433
+progress
+terms
+initially
+comp
+hypothesis
+opposition
+prescreened
+understanding
+assess
+abruptly
+glu 1371
+komatsu
+coe
+requests
+concert
+unclear
+toni
+cd
+anova
+minutes
+101/279
+neuropsychology
+addition
+due
+& passingham
+slowly
+diversity
+lockless2
+occurrences
+re-learned
+feingold
+hanes
+partitioned
+interconnected
+neurol
+engaged
+tests
+technology
+confirmed
+linked
+mcdermott
+& boussaoud
+haven
+science 274
+lie
+`head
+& tanji
+striatum23
+lower
+thought
+goal-directed
+components
+organization
+left
+halfmaximum
+graded
+areas29
+slid
+schultz
+feedforward
+common
+briggs
+hyland
+graybiel
+modifications
+neurophysiol
+& grafman
+bistable
+& shatz
+signal
+addressed
+cogn
+www
+mutating
+kotter
+refs 1
+annu
+& kawaguchi
+learning1­5
+digitized
+seconds
+interpreted14
+51 sessions
+central
+origins
+basis
+2laboratory
+supervised
+`trained
+cambridge
+additionally
+middleton
+& staiger
+amsterdam
+learning24
+`stop
+& wise
+handbook
+fraction
+exposure
+head
+hundreds
+mcclure
+construction
+angus
+meskenaite
+relate
+made
+wise
+`prospective
+& wickens
+& cohen
+bar-gad
+& lund
+constant
+computing
+likewise
+al
+fuster
+sawatari
+warning
+& burkhalter
+glutamate
+wicherski
+green
+& schultz
+luhmann
+& knowlton
+deangelis
+custom-made
+agmon
+chance
+suited
+& hikosaka
+watanabe
+required
+ghose
+text
+thalamus15
+psychiatry
+pka
+& strick
+19­32
+301­311
+0
+2961­2970
+317­356
+1995
+1133­1138
+1999
+14
+30
+413­417
+&
+190­196
+96
+1990
+1992
+1994
+1997
+1996
+1998
+926­935
+721­740
+4­8
+146
+339­346
+114­129
+127
+133
+24
+25
+26
+27
+21
+22
+23
+28
+29
+`
+379
+¼ 476
+39%
+82
+80
+75­79
+7
+4046­4064
+50%
+11­20
+­
+1111­1121
+964­977
+11
+13
+12
+15
+16
+19
+18
+1
+459­471
+2397­2410
+71
+70
+79
+8
+67­70
+11­13
+10
+¼ 0
+2
+91
+17
+01
+36%
+3
+20
+167­202
+683­696
+2707­2722
+439­473
+4
+95­110
+16­18
+¼ 20
+563­593
+9
+1399­1407
+473­500
+953­978
+1017­1061
+113­132
+58
+10904­10912
+8­16
+319­329
+570­574
+119­136
+315­335
+1981
+6
+1578­1581
+153
+2003
+46
+45
+5
+12­24
+95%
+427­430
+59­82
+2002
+2000
+2001
+2004
+126

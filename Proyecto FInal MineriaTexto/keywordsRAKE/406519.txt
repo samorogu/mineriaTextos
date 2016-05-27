@@ -1,0 +1,1131 @@
+ordinary differential equations assuming michaelis­menten kinetics
+plasmid plll6 ampr encodes flgm expressed
+3 & victor sourjik2
+cellular biochemical networks
+methods gave essentially identical results
+smallest sufficiently robust network structure
+strain ll6 carries chey­eyfp
+plasmid pvs88 encodes chey­yfp
+diffusible response regulator protein chey
+24 november 2005
+
+letters
+
+reflecting strong selection
+underlying topological design principles compensating
+active receptors enhance autophosphorylation activity
+chez­cfp fusion proteins transcribed
+bacterial signalling network
+´ markus kollmann1
+reliable adaptive biochemical pathways
+505
+
+© 2005 nature publishing group
+
+letters
+
+nature
+pampts homologous recombination system
+additional negative feedback loop
+chey­chez feedback loop shown
+minimal topology providing high robustness
+additional negative feedback loops22
+bacterial chemotaxis showing precise adaptation
+1038/nature04228
+
+letters
+design principles
+ips image recognition software
+experimentally determined gene expression noise
+motor spends rotating clockwise
+orca ag ccd camera
+allowing accurate chemotactic response
+chea­ecfp fusion constructs
+feedback loop compensates partially
+ultrasensitive bacterial motor revealed
+chey­eyfp fusion construct
+non-methylated receptors remain inactive
+equal input­output characteristics
+methylation process reads ta >
+phosphatase chez substituting auto-dephosphorylation
+michaelis­menten kinetics
+gene expression noise estimated
+dominate gene expression noise
+construct larger adaptive topologies
+total chey concentration drops
+504
+
+© 2005 nature publishing group
+
+nature
+506
+
+© 2005 nature publishing group
+
+nature
+robust adaptive chemotaxis pathway
+michaelis­ menten constant
+covarying total protein concentrations
+experimentally established chemotaxis network
+networks showing intrinsic robustness
+axiovert 200 fluorescence microscope equipped
+error reduction mechanisms errors
+show large intercellular variation
+wild-type chemotaxis strain rp437
+hypothetical chemotaxis pathway topologies
+input­output characteristics
+topological feature leading
+underlying network structures
+© 2005 nature publishing group
+
+507
+strain vs162 carries
+analogous design principles
+simple biochemical networks
+experimentally established design
+motor response curve10
+motor response curve
+experimentally established network
+488-nm argon laser
+im neuenheimer feld 282
+competing financial interests
+carry inframe deletions
+drosophila embryonic patterning
+robust developmental module
+bmp morphogen gradient
+attractant gradient created
+1 ¨ institut fur physik
+restrict chemotactic response
+segment polarity network
+bmbf project `systems
+simple signalling system
+clockwise motor bias
+bacterial chemosensory systems2
+thin dashed lines
+thick dashed lines
+noise compensatory mechanism
+ambient ligand concentration7
+native chromosomal position
+native chromosomal positions
+polycistronic messenger rna
+native ribosome-binding sequences
+methods
+bacterial strains
+low protein concentrations18
+small output tolerances
+integral feedback control
+chey­eyfp flgm
+gene expression noise
+chemotactic signalling network
+hypothetical network topologies
+monitoring signaling proteins
+cyan fluorescent proteins
+eukaryotic gene expression
+gene expression noise11
+illustrate intercellular variation
+studied signalling networks
+native chey gene
+tb plates supplemented
+anti-sigma factor flgm13
+clockwise bias calculated
+strong selective pressure
+observed strong co-variations
+output signal arising
+general deterministic description
+linear expansion coefficients
+apparently asymmetric distribution
+cheb phosphorylation feedback
+-inducible promoter ptrc
+model-based analysis showed
+bacterial cell population11
+life­systems biology
+upstream transcription inhibitor
+stochastic gene expression
+show significant co-variation
+bacterial flagellar motor
+fully chemotactic bacteria
+author information reprints
+bacteria lack chez
+solid line shows
+standard deviation decreased
+fully tumbling cell
+chey­yfp expression
+ambient chemoeffector concentration
+moderate independent variation
+concerted variations requires
+concerted variations ranging
+optimal chemotactic performance
+iptg closely matched
+cytosolic chemotaxis proteins
+remaining protein concentrations
+total protein concentrations
+protein concentrations arising
+minimum intercellular variations
+gene regulation systems
+derivative >bp/>ap
+fully chemotactic cells
+yellow fluorescent protein
+fluorescent protein fusions
+key features accounting
+higher swarming efficiency
+lower expression levels
+established pathway topologies
+expressing varying levels
+network topologies drawn
+single ptrc promoter
+fluorescent reporter proteins
+perfect adaptation results
+concerted variations fixed
+active receptor complexes3
+calculated standard deviation
+cheyand chea genes
+two-state model proposed
+cheb phosphorylation resulting
+constantly working methyltransferase
+expression levels higher
+24 november 2005
+
+letters
+design principles
+sufficiently robust
+2 kb bp ¼0 ð3þ kb þ
+optimal rate constants
+expression kinetics
+standard chemotaxis conditions
+encodes tar
+yfp fusion
+chey­eyfp
+noise reduction
+experimentally determined
+ccd camera
+cellular mechanism
+network design
+coli chemotaxis topology
+2 ap 2 ky ap
+methylated receptors depends
+clockwise bias
+partially compensates
+visometrics group
+chey gene
+ll1 strain
+identical control21
+evolutionary selection
+gene networks
+signalling network
+reporter construct
+chemotaxis mechanisms
+chez­cfp
+experimentally determine
+chey­yfp
+measure experimentally
+minimal model
+optimal design
+gene expression
+chemotaxis network
+signalling networks
+steep response
+fast response
+total à concentration
+total concentration
+precise adaptation
+concentrations larger
+large perturbations4
+linear expansion
+strong co-variation
+anti-sigma factor
+output signal
+inactive state
+equal sign
+high sensitivity
+selective pressure
+flagellar motor
+signalling pathway
+bacterial chemotaxis
+methylation process
+high levels
+established topology
+chemotactic behaviour
+phosphatase chez
+chez expressed
+chey fused
+chey phosphatase27
+systems property
+chey phosphatase
+chemotaxis pathway
+protein expression
+signalling proteins
+negative effect
+network topologies
+standard errors
+native promoter
+gene regulation
+ptrc promoter25
+fluorescence imaging
+error bars
+bacterial chemotaxis2
+dotted lines
+chemotactic bacteria
+pathway activity
+standard deviation
+solid line
+ligand concentration
+networks involved
+chemoeffector concentrations
+gene transcription
+simple topology
+network robustness
+concerted variations
+concerted overexpression
+tumbling behaviour
+stochastic effects
+chea­cfp
+author contributions
+polycistronic mrna
+schematically drawn
+strong decrease
+chemotatic performance
+chemotaxis proteins
+protein concentration
+protein concentrations
+single cell
+active receptors
+intercellular variations
+flagella pathway
+precise adaptation--
+>bp/>ap ¼ 0
+results suggest
+chemotactic cells
+protein synthesis
+protein overexpression
+independent variations
+standard growth
+small contribution
+varying amounts
+key features
+essential features
+imagej software
+protein levels
+chemotaxis machinery
+chemotaxis operons
+chemotaxis efficiency
+expression levels
+methylation level3
+precise regulation
+methylation increases
+methylation site
+working range
+active degradation
+dephosphorylation rate
+active state
+kb bt
+rate constants
+active receptors9
+phosphatase activity
+average activity
+transcriptional activity
+cheb phosphorylation
+proteins expressed
+proteins involved
+partially compensated
+supplementary information
+permissions information
+green line
+cell surface
+blue line
+cell division12
+black line
+entire cell
+concentration regime
+higher robustness
+noisy environment
+making sense
+flow cytometry
+d-79104 freiburg
+panasonic wv-bp330
+hill coefficient
+moderate increase
+generation timescale
+reproduce qualitatively
+bar ends
+panasonic ag-dv1dc
+chemotaxis-driven spreading
+tryptone broth
+logarithmic scale
+swarm assay
+vitro measurements
+quantify fluorescence
+reversibly methylated
+native level
+bd biosciences
+swarm assays
+dfg grants
+reduced sensitivity
+kilian bartholome1
+l-fold overexpression
+accepted 12 september 2005
+flagellar assembly
+von dassow
+zeiss axiostar
+fixed values
+wrong development
+continuous stimulation
+behavioural decisions
+signal transduction
+functional interactions
+dv recorder
+kinetic constants
+authors declare
+universitat freiburg
+varying strength
+perfect adaptation7
+core property
+evolutionary tuning
+flagellar motors
+jens timmer1
+readily explain
+class iii
+translational reporter
+combine theoretical
+multicellular organisms
+detailed studies
+extrinsic contributions
+undergone evolution
+kollmann@fdm
+signal processing
+simultaneous upregulation
+contributed equally
+maximum intensity
+nutrient depletion
+tap chemoreceptors
+wide range
+cellquest pro 4
+narrow range
+quantitative understanding
+>bp 21 dap ¼
+similar correlations
+mathematical modelling
+resulting increase
+permanent swimming
+negatively controls
+plasmid
+detailed description
+computer simulations
+demand homogeneity
+online version
+kinetic parameters
+swims continuously
+natl acad
+phosphate transfer
+near-perfect adaption
+average time
+active form
+glass coverslip
+physiologically relevant
+zmbh funding
+contribution increases
+wild type
+dominating source
+efficient attenuation
+reproduces accurately
+temperature-induced switching
+dynamical behaviour
+engineering stability
+chemotatic efficiency
+experimental analyses
+assuming
+isopropyl b-
+growth impairment
+previous observations12
+phosphorylated receptors
+similar requirements
+arbitrary units
+mrna transcript15
+allele exchange
+highly conserved
+á stationary solution
+flagellar motor10
+coli chemotaxis
+wild-type concentration
+single cells
+gdr ð5þ >ap
+simpler topology
+standard deviations 0
+standard deviations
+living bacteria
+multi-stage regulation
+experimental data
+imaging data
+expression level
+uncorrelated variations
+higher level
+small increase
+phosphoacceptor cheb
+phosphorylated forms
+mathematical analysis
+analysis suggests
+red line
+methylation states
+nature rev
+24 november 2005
+
+figure 4
+point represents
+physiological perturbations
+intracellular perturbations
+ordering genes
+bl model
+receptor clustering
+receptor sensitivity
+mathematical model
+biological robustness
+inherent robustness
+kinase chea
+assay conditions
+respond accurately
+previously shown
+escherichia coli
+kinase reactions
+properly respond
+growth conditions
+topology represents
+simulated fraction
+highest fraction
+individual cells
+overexpressing cells
+adapted cells
+independent fluctuations
+active methylesterase
+ap ¼ chea-
+ap ¼ [chea-
+control sensitivity
+post-transcriptional control
+phosphorylated form
+wild-type strength
+topologies shown
+imperfect components
+adapted level
+found recently
+d-69120 heidelberg
+single-cell level
+stationary level
+flgm level
+soft agar
+accompanying decline
+l-foldá à á à change
+homogeneity condition
+flagellar rotation
+steady-state equation
+coli represents
+inhibiting effect
+data normalized
+wild-type level
+facscan data
+analysed mathematically
+increased amount
+cell biol
+optimal chey-
+trends microbiol
+strains vs102
+main function
+robustness due
+sourjik@zmbh
+population size
+tethered cells
+supplementary fig
+noise
+robust
+compensating
+markus
+2b inset
+meche operon
+1d arises
+determined
+chez
+chey
+variation
+3a inset
+show
+networks
+cfp
+equations
+24 november 2005
+microscope
+yfp
+intrinsic
+rp437
+equations à á >
+pathway
+results
+phosphorylation
+protein
+expression
+errors
+calculated
+1 software
+chemotaxis
+kb
+active
+deviation
+optimal
+receptors
+activity
+promoter
+proteins
+cell
+concentration
+nature 406
+nature 393
+nature 436
+nature 405
+nature 427
+nature 428
+nature 307
+nature
+nature 297
+nature 397
+nature 419
+nature 387
+concentrations
+variations
+flagellar
+yellow
+tb
+chea
+expressed
+phosphatase
+reporter
+distribution
+vs162
+description
+constants
+co-variation
+methylated
+equipped
+0 ky
+efficiency
+perfect
+key
+¼ chea
+flgm
+proposed
+signal
+biology
+bp
+fusions
+co-variations
+levels
+ap þ
+topology
+ap
+bacteria
+data
+wild-type
+regulation
+à á topologies á
+topologies
+cheb
+phosphorylated
+uncorrelated
+analysis
+genes
+represents
+perturbations
+form
+transcription
+strains
+model
+receptor
+robustness
+coli
+shown
+rev
+red
+strength
+kinase
+respond
+conditions
+0 chea-
+fraction
+70 cells
+cells
+104 cells
+20­30 cells
+control
+condition
+level
+decrease
+meche
+3% agar
+normalized
+states
+equation
+values
+rotation
+2b
+increase
+tethered
+compensated
+1d
+deviations
+vs102
+depends
+iptg
+recently
+decline
+due
+change
+components
+heidelberg
+25% increase
+facscan
+methyltransferase
+effect
+inset
+3a
+amount
+methylesterase
+quantify
+arises
+operon
+analysed
+microbiol
+fluctuations
+figure 1
+figure 2
+figure 3
+biol
+sourjik
+function
+population
+chey-
+fig
+yp ¼
+sci
+& eisenbach
+plasmids
+& morton-firth
+lli
+barkai
+box 2
+box 1
+szurmant
+compensate
+resources
+activation
+& hughes
+induction
+earlier26
+¼ lmi
+& swain
+chew
+work
+cher
+consistent
+cost
+dahlquist
+2zmbh
+sum
+localization
+optimization
+activations
+almogy
+evolved
+genet
+{yi }
+2 yp ¼ 0 ð4þ
+technical
+study
+uni-freiburg
+lipkow
+five29
+þ ¼ xt
+becskei
+demands
+explained
+marked
+young
+addressed
+rosenfeld
+estimate
+eye
+levine
+bechinger
+comparing
+depicted
+cluzel
+& ordal
+/reprintsandpermissions
+tested
+paulsson
+aldrige
+þjlx
+shimizu
+arrive
+eckerstr
+means 1
+links
+biophys
+discussed
+neglected
+lxt
+attractants
+performed
+s3
+s1
+proc
+quantified
+npg
+derived
+reflect
+paper
+designed
+twofold
+tethering
+mello
+summing
+usa 95
+switch
+correlation
+order
+se
+vary
+expects
+swain
+lf
+regulon
+decreases
+persist
+archaea
+return
+tumbles
+ten10
+focus
+balances
+term
+university
+2a
+rising
+& alon
+þ ¼ {y1 ð
+positioned
+autoregulation
+owing
+investigate
+¼ kr
+denoted
+ref
+quantification
+2 mm
+& siggia
+& tu
+midpoint
+stochasticity
+wadhams
+hamamatsu
+place
+assumed
+consequence
+stone
+caplan
+available3­6
+probability
+number
+invariance
+xt
+attenuated
+1a
+1c
+rates
+white
+science 304
+non-essential
+part
+& serrano
+kind
+3 mm
+shea
+0 manifests
+amplitude
+manuscript
+unaffected
+linked
+bleil
+wolanin
+hermann-herder-str
+vivo
+linda
+strengths
+þjx
+science 309
+falls
+extending
+optimized
+germany
+eukaryotes
+definitions
+acknowledgements
+measured
+doi
+observation
+consequences
+elowitz
+superscript
+index
+quantity
+& ben-tal
+/nature
+eldar
+violation
+& berg
+supported
+one-
+minimizing
+proportion
+raser
+displayed
+de
+satisfied
+3b
+steepness
+receptor-
+& ordell
+& elowiz
+achieved
+relative
+result
+¨ ¨ germany
+fails
+mol
+science 292
+materials
+invariant
+translation11
+vol 438
+yn ð
+usa 99
+ability
+øvdok2
+extent
+correspondence
+limits
+bray
+alon
+demanded
+geier
+requests
+34 8c
+perturbations1
+written
+regulated
+respect
+surette
+adaptation3
+webre
+& stock
+relying
+defined
+expected
+direction
+diversity
+meir
+determination
+à á à á ka
+present
+case
+tolerate
+uni-heidelberg
+balance
+guide
+binding
+blat
+cheb-
+grown
+confirmed
+phosphorylating
+belong
+complex
+deletion
+stimuli
+fahrner
+sources
+match
+saturation
+comments
+optimality
+replaced
+absence
+repellents
+phosphodonor
+sigga
+science 287
+individuals
+dilution
+works
+& armitage
+www
+arrows
+experiments
+apply
+lead
+gillespie
+recorded
+/
+6-fold
+kitano
+limitations
+equivalent
+3 min
+notably
+inter-
+repressions
+received 25
+comparison
+changing
+turner
+carried
+origins
+simplify
+location
+opin
+characterized
+connected
+presence
+25 8c
+mocha
+kalir
+applichem
+balanced
+before24
+interval 2
+phosphotransfer
+cancer1
+wildtype
+bren
+þ dr
+analyse
+failure
+gain
+-thiogalactoside
+absent
+3fdm
+levin
+transmits
+yi ð
+demonstrate
+1b­
+expect
+curr
+universal
+al
+evidence
+au
+chromosome
+rasband
+& leibler
+valid
+details
+dekel
+¼ xt
+conclusion
+figs 3
+schulmeister
+scharf
+munro
+4b
+4a
+12795­ -12800
+344
+0
+1999
+1998
+à á à á
+2010­ -2013
+1811­ -1814
+30
+37
+ð
+2943­ -2956
+6
+437­ -441
+569­ -576
+1997
+1
+1191­ -1199
+188­ -191
+¼ 0
+26
+21
+22
+23
+28
+þ ¼
+2227­ -2233
+81
+84
+¼
+7
+590­ -593
+2080­ -2083
+ð2þ
+2
+85­ -88
+160­ -165
+11
+10
+15
+14
+17
+16
+19
+18
+301­ -319
+826­ -837
+1652­ -1655
+304­ -308
+25
+1962­ -1965
+8
+913­ -917
+13
+12
+3
+415­ -418
+24
+27
+20
+123­ -127
+þ
+29
+67
+68
+]
+< à
+1183­ -1187
+284
+35
+9
+ð1þ
+þ}
+2­4
+4
+3016­ -3028
+71
+201­ -206
+&
+740­ -751
+*
+1024­ -1037
+965­ -976
+588­ -592
+47
+44
+2000
+47­ -49
+5
+1996
+168­ -171
+2002
+2003
+2001
+2004
+2005

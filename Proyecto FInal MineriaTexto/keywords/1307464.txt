@@ -1,0 +1,408 @@
+represent
+pulse-like
+common-ancestor
+activated
+Yeger-Lotem
+circuitry
+computation
+Department
+theoretically24
+cerevisiae interaction
+reasoning
+synthetic
+Foundation
+galactose utilization
+similarity
+Transcription regulation
+composite negative-feedback
+Assigning
+downstream
+pulse-generating
+double-negative
+Multi-output
+nonautogenous
+Experimental
+discovered
+incoherent
+transduce
+phosphorylation
+Superfamilies
+stereotypical
+Canalization
+half-life
+nonrandom
+Currently
+Burlington
+High-resolution fluorescence
+bacterial
+Incoherent
+bacterial cell-cycle
+Fussenegger
+organisms
+Transcriptional regulation
+Initially
+autogenous
+-repressor
+Eichenberger
+information-processing
+Arabinose
+Garcia-Ojalvo
+Escherichia
+conformation
+separation
+sign-sensitive
+Dictyostelium
+different activation
+FURTHER INFORMATION
+Regulated
+complicated
+repressor
+Autogenous
+c-Myc-regulated microRNAs
+synthetic mammalian
+transcription processes
+Transcriptional regulatory
+Comprehensive identification
+therefore
+Bioinformatics
+Birkhauser
+theoretical
+composite
+`sign-sensitive
+Identifying regulatory
+reversible
+feed-forward
+schematic cell­cell
+selective advantage
+particular
+network-motif evolution
+multi-output
+oscillator
+mammalian
+protein­interaction
+bistability
+Collado-Vides
+arabinoseutilization
+Frontiers
+positive-feedback
+prokaryotic transcriptional
+stress-response
+information
+monitoring
+incoherent feed-forward
+elaborate functions
+arrangement
+feed-forward-loop
+double-negative-feedback
+activator
+modulation
+corresponding simple-regulation
+Interlinked
+connectivity
+feeforward
+cis-regulatory
+Feedforward
+structural simplicity
+evolutionary
+interpretation
+hierarchy
+deactivated
+irreversible decisions
+activating
+Foglierini
+interests statement
+interesting
+estimating
+production
+inducible
+Coarse-graining
+overshoot
+Evolution
+Open-source
+production decreases
+Stochasticity
+Csikasz-Nagy
+well-characterized bacterial
+Single-input
+accumulate
+structural
+activation threshold
+computational functions
+hierarchical structure
+instability
+Rappaport
+fliLMNOPQR
+financial
+independent
+generation
+autoregulation
+Blazquez
+laboratory
+conservative evolution
+post-aggregation
+Caenorhabditis elegans95
+Shen-Orr
+Institute
+Construction
+induction
+integrated
+expression programme
+interactions
+protein­protein interactions
+homologous
+biological
+hysteresis
+galactose
+Rosenberg
+cycle-regulated
+embryonic
+Computation
+three-wave
+high-resolution
+Just-in-time transcription
+Developmental transcription
+gene17­19
+wild-type
+mathematical modelling
+stimulation
+Itzkovitz
+Aggregation
+Hysteresis
+excitable
+Environmental
+Regulatory
+available75
+molecular
+differentiation-like partitioning
+multi-layered perceptrons89,96
+Chklovskii
+environmental
+Rosenfeld
+colliculus
+multi-gene
+regulator
+regulatory interactions
+biochemical
+gate-array
+generalization
+concentration
+Development
+bacterium
+transcription
+responsible
+Caulobacter crecentus49
+performance
+persistence
+steady-state
+significant
+quantitative
+Biological
+inhibitory
+O'Donnell
+signal-transduction
+galE-mut
+protein-interaction
+Levchenko
+principle
+two-neuron
+double-positivefeedback
+additional computational
+post-transcriptional interactions
+REVIEWS
+`galE-mut
+Dublanche
+network-motif behaviour
+`rediscovered
+MicroRNAs
+arginine-biosynthesis
+Convergent evolution
+topological
+doublepositive
+threefold
+biogenesis
+galactose-utilization
+dependent
+different organisms
+double-positive
+degradation
+Mammalian
+Pomerening
+differentiating
+evolution
+sporulation
+essential behaviour
+Computational representation
+fluorescent-reporter
+architecture
+single-input
+microRNAs
+Etchberger
+miRNAs62
+DNA-repair
+reference
+deactivation
+allolactose
+individual
+transcription interaction
+Caenorhabditis
+multi-input
+Optimality
+geometric
+conditions
+available
+comparable
+transcriptional regulation
+Thieffry
+quantitative blueprint
+Westerhoff
+eukaryotic
+hypothesis
+programming hematopoietic
+opposition
+Teichmann
+understanding
+protein­protein interaction
+Subgraphs
+propagation
+connection
+Laboratory
+expression
+experimental
+well-studied
+cell-cycle
+timescale
+response-time
+Speed-up
+left/right asymmetric
+steadystate expression
+inactivate
+synthetic three-repressor
+repression threshold
+positive-feedback loop83­86
+Predicting
+Efficient
+developmental transcription
+different transcription
+protein-production
+Comparison
+transcription-regulation
+sufficient
+multi-layer perceptron
+Longabaugh
+IB­NF-B signaling
+interlocking
+Composite negative-feedback
+self-dissimilarity
+appearance
+Jayaprakash
+cell­cell
+biosynthesis pathways47
+Furthermore
+UniProtKB
+Multi-layer
+Michalodimitrakis
+bacterial regulators
+microarray
+Importantly
+phenotype
+modification
+development
+acceleration
+investigated
+promoters
+comprehensive
+signalling processes
+combinatorial transcription
+Intriguingly
+regulating
+organization
+interlocked
+cell-fate
+Hornstein
+generegulation
+Topological
+differentiation
+simple-regulation
+Molecular
+feedforward
+superficial
+Spatiotemporal
+DATABASES
+cerevisiae
+fluorescent transcriptional
+Evolutionary
+Circadian
+Sudarsanam
+dynamical behaviour
+repressed
+starvation
+mathematical
+classical
+metabolic
+accelerate
+oscillations
+evolutionary timescales56,69,70
+developmental
+Bioessays
+speed-up
+`galE-WT
+Perez-Rueda
+Feldblyum
+equivalent
+agreement
+cell-generation
+Engineering stability
+properties
+comparison
+synthetic transcriptional
+GENETICS
+Pulse-like
+Hooshangi
+simulation
+Oscillations
+Positive-feedback
+functional
+appropriate
+elementary
+stochastic environment
+additional interactions
+positive-feedback-based
+Baltimore
+convergent network-motif
+steady-state concentration
+overlapping
+cell-cycle regulatory
+Southgate
+degradable regulators
+growthfactor stimulation
+high-quality
+transcriptional interaction
+cell­cell distribution
+ancestral
+p53­Mdm2
+distribution
+transcriptional
+Publishing
+transcriptional regulatory
+Introduction
+persistent
+Production
+anaerobic
+functions
+inactivation
+regulatory circuitry
+electrical
+Structure
+Ultrasensitivity
+immediate shut-off
+Signal-transduction
+precision
+important
+arabinose
+structure
+dynamical functions
+algorithm
+synthetic oscillatory
+Principles
+signalling
+resolution

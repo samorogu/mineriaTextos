@@ -1,0 +1,1451 @@
+organism total traces screened wolbachia traces lgt junctions validated wolbachia infection + ­ ­ ­ + + ­ + ­ ­ + ­ ­ ­ + + ­ + + + + + + + ­ ­ +
+
++
+
+6/7
+
+­
+
++ + ­ ­ + + +
+
+0/0 0/0
+
+1/1 1/1 4/4
+
+references
+na na
+
++ +
+
+10/12 0/0
+widely dispersed geographic locations revealed large wolbachia inserts
+wmel mel
+
+ana wana
+
+bac
+
+dana
+
+wmel mel
+eukaryote genome sequencing projects routinely exclude bacterial sequences
+immitis
+
+nv
+
+ng
+
+dg2 mrna
+
+nl
+
+nl
+
+fig
++
+
+*
++
+comparative genome analysis reveals key features
+interdomain transfers involving higher multicellular eukaryotes
+filarial nematode parasite brugia malayi
+elodie ghedin
+fluorescence microscopy evidence supporting wolbachia/host lgt
+fruit fly whole-genome shotgun sequencing data revealed
+accepted 3 august 2007 published online 16 august 2007
+accepted 2 july 2007 published online 30 august 2007
+howard hughes medical institute investigator
+xy sexvol 317 science
+
+determination pair
+s7 references 18 june 2007
+s5 references 13 march 2007
+2008
+
+trace repository sequences acyrthosiphon pisum
+between-linkage group transloca-
+
+1756
+
+21 september 2007
+
+www
+validated
+515 robustly predicted gene-coding regions occupy ~32%
+public shotgun sequencing data sets
+heritable lateral gene transfer occurs
+immitis dg2 chromosomal region encoding
+inserted wolbachia genes perfectly cosegregated
+human filarial parasite brugia malayi
+ananassae hawaii shotgun sequencing project
+river blindness threaten hundreds
+wormbase data release ws133
+wolbachia gene wd_0484 bound
+wolbachia aspartate aminotransferase gene
+wolbachia infection
+major human filarial pathogen
+model nematode caenorhabditis elegans revealed
+bean beetle callosobruchus chinensis
+wbm bm
+
+ng
+
+nv
+filarial nematode onchocerca spp
+identical target site duplications
+obscure important tissue-specific transcription
+wolbachia gene wd_0024 gene
+nematode infection
+amplified genes suggests gene transfer
+mexico crosses revealed mendelian
+whole-genome shotgun sequencing reads
+facilitate bacterial gene transfers
+2008
+
+widespread lateral gene transfer
+widespread lateral gene transfer
+england biolabs incorporated support
+largely plasmid-derived whole-genome sequence
+additional diverse invertebrate taxa
+diversified ~1 million years ago
+undetectable infection
+6human genome sequencing center
+trace repository contained 1 read
+highly transcribed actin gene
+cured control line lacking
+org/cgi/content/full/317/5845/1753 supporting online material
+f2 maternal inheritance crosses
+supporting online material
+www
+widespread tropical fruit fly
+ananassae bac 01l18 sequence
+ananassae genome sequencing project
+independent bac-based genome sequence
+short insertion site duplications
+45 physically distant wolbachia genes
+health sciences facility ii
+bacteriovorous species caenorhabditis elegans
+science vol 317 21 september 2007
+
+www
+eukaryotic cells lacking endosymbionts
+5 clemson university genomics institute
+single bacteria artificial chromosome
+906 0 genbank sequence dirofilaria immitis
+target site duplications
+putative lgt event
+england biolabs incorporated
+9712 medical center drive
+putative lgt events
+rare lgt events
+lateral gene transfer
+lateral gene transfer--
+contained 5­base pair
+within-linkage group rearrangements
+recent bacterial lgt
+caenorhabditis briggsae genome 104 mb
+drosophilawolbachia junctions
+harbored junctions
+multicellular eukaryotes
+
+arthropods
+potential wolbachia-host lgt
+additional sequenced insect genomes
+entire wolbachia genome
+wolbachia gene inserts
+automated gene prediction
+selected gene families
+wolbachia sequences generated
+lacking wolbachia sequences
+native wolbachia sequences
+online issn 1095-9203
+wolbachia clone mates
+phagotrophic unicellular eukaryotes
+gene transfer events
+lgt events occur
+wolbachia inserts [paternal
+small wolbachia inserts
+worm brugia malayi
+>1-kb wolbachia fragments
+1 elodie ghedin
+muñoz torres
+rational drug design
+long terminal repeats
+nicotinamide adenine dinucleotide
+open reading frames
+print issn 0036-8075
+d34 immunodominant antigen
+small laboratory animals
+prokaryotic ribosomal rna
+3molecular parasitology division
+polymerase chain reaction
+whole-genome shotgun
+characterized eukaryotic gene
+local gene order
+potential wolbachia-to-host transfers
+large wolbachia insert
+inserted wolbachia sequences
+provide comparative analyses
+multicellular eukaryotes julie
+craig venter institute
+microarray primers sequences
+eukaryotic posttranscriptional modification
+robustly assembled sequence
+brugia malayi scaffolds
+tetratrico peptide repeat
+wolbachia-free hawaii males
+biologically relevant amount
+segregated germ cells
+wolbachia-free mexico females
+wolbachia genomic fragments
+distantly related organisms--
+cured adult males
+infectious diseases division
+inserted wolbachia genes
+authors contributed equally
+18 geographically diverse strains
+9/10 bp identical
+melanogaster wolbachia genome
+york avenue nw
+parasitic worms typically
+abundant animal phyla
+deep sequencing coverage
+bacterial lgt
+vol 317 science www
+science vol 317
+
+www
+500 protein coding genes
+junctions
+including high-resolution figures
+infectious diseases grant
+fly nuclear genome
+orthologs map predominantly
+scott23 parasitic nematodes
+524 culex pipiens quinquefasciatus
+successful reactions compared
+lgt events
+brugia malayi contigs
+malayi nuclear genome
+parasitic nematode genomes
+org
+
+1754
+
+21 september 2007
+
+downloaded
+org
+
+21 september 2007
+
+1755
+
+downloaded
+banded polytene chromosomes
+found wolbachia inserts
+nematode molecular genetics
+nematode genome evolution
+methods
+
+draft genome
+single region <1 kb
+routinely excluded
+5 mrna cap
+reverse transcription pcr
+eukaryotic host genomes
+wolbachia gene
+supporting material
+dirofilaria immitis
+article cites 17 articles
+heritable transfer
+s1 tables s1
+including fruit flies
+ananassae sequence comparisons
+ananassae race sequence
+multicellular eukaryotes
+maternally inherited endosymbiont
+scaffolds totaling ~71 mb
+higher eukaryotes
+abundant intracellular bacteria
+immitis genome
+genome assembly [>98% identity
+examined host genomes
+filarial nematode
+washington university school
+ananassae hawaii verified
+wolbachia genome
+data support
+wolbachia sequences
+published genome
+wolbachia inserts
+137 0 brugia malayi
+brugia malayi
+physically distant
+wolbachia insertion
+ananassae bac
+large regions
+large scaffolds
+wolbachia genes
+sequence data
+wolbachia bacteria
+human health
+wolbachia-host transfer
+bacterial sequences
+45 wolbachia loci
+wolbachia infecting
+wolbachia infections
+wolbachia reads
+nl
+comparative analysis
+genome sciences
+malayi gene
+filarial nematodes
+chromosomal units
+predicted proteome
+published weekly
+widespread prevalence
+public databases
+wolbachia endosymbiont
+immitis lines
+prokaryote-to-eukaryote transfers
+wolbachia pipientis
+infectious diseases
+~350 million years
+bacterial genes
+data suggest
+wolbachia insert
+science online
+cured strains
+trace repositories
+online version
+large number
+bacterial pathogens
+clone sequences
+coding sequence
+wolbachia dna
+independent source
+antibiotictreated line
+autosomal inheritance
+fruit fly
+wholegenome sequencing
+lines revealed
+gene functions
+malayi genome
+invertebrate species
+elegans genome
+genomic sequence
+nematode genomes
+single insertion
+insect genome
+adult worms
+additional cases
+higher estimate
+maternally inherited
+lgt
+elegans orthologs
+nematode species
+eukaryotic genes
+confirmed transfers
+fusion events
+national institute
+largely remain
+largely based
+org/cgi/content/full/317/5845/1753#otherarticles
+ananassae hawaii
+annotated genome
+single unit
+single domain
+elegans chromosome
+nasonia sequences
+sequences coming
+end sequences
+exon sequences
+model species
+eukaryotic genomes
+eukaryotic germlines
+sequence comparisons
+complete 5 sequence
+dana
+5 untranslated region
+local synteny
+wana
+draft assembly
+uninfected flies
+<500 base pairs
+14-kb region
+biologically meaningful
+regions suggested
+region appears
+scaffolds longer
+culex pipiens
+1 articles hosted
+ananassae chromosome
+intracellular bacteria
+malayi genes
+ananassae strains
+diverse organisms
+host genomes
+host species--
+wbm genome
+genomic research
+2l chromosome
+maryland school
+molecular diversity
+chromosome 2l
+grant gm 068518
+resources related
+nsf grant
+adult male
+paternally inherited
+closely related
+na
+ng
+nv
+genome biol
+polytene chromosomes
+malayi develops
+wolbachiacured strains
+contributed significantly
+table s5
+host chromosomes
+fewer genes
+protein-coding genes
+45 genes assayed
+1206 genes assayed
+gag-pol genes
+genes reported
+800 protein-coding genes
+eukaryotic hosts
+totaling ~25 mb
+insect species
+packard science
+title science
+dtl
+
+science
+similar inserts
+endosymbiont genes
+2 todd creasy
+brown university
+trs strain
+assembly difficulties
+3 diego miranda-saavedra
+larval stages
+~71-mb assembly
+american association
+304 daphnia pulex
+ensure significance
+10 makedonka mitreva
+pace university
+1 catherine poole
+methods figs
+2 qi zhao
+propidium iodide
+mutualistic relationship
+2 mihaela pertea
+assembled genomes
+2 lori saunders
+2 paolo amedeo
+cdna ends
+numerous contiguous
+5 mehul ganatra
+1§ jessica shepard
+2 luke tallon
+baylor college
+240 county road
+2 seth schobel
+14 wen li
+9 jinming jin
+initial analysis
+previous estimates
+drosophila retrotransposons
+subject collections
+interdigitating blocks
+well-annotated member
+debilitating infections
+represent contamination
+5 stephen richards
+3 hervé tettelin
+remained intact
+london ser
+ancestral characters
+10 richard komuniecki
+21 jenna ware
+16 larry mcreynolds
+head louse
+rights reserved
+20 penn street
+experimental verification
+fluorescein-labeled probes
+isi web
+2 nikhil kumar
+13 claire fraser-liggett
+1 jeffrey tomkins
+12 sanjay kumar
+prokaryote symbionts
+obtaining reprints
+superphylum ecdysozoa
+630 0 apis mellifera
+highwire press
+2 mihai pop
+5 qinghu ren
+repeat content
+developing world
+11 ian korf
+engineering fellowship
+5 sandra laney
+pcramplified products
+unannotated portion
+dog heartworm
+7 yinhua zhang
+3 peter fischer
+registered trademark
+551 0 pristonchus pacificus
+22 gary weil
+extensive studies
+incorrectly sized
+high cost
+southeast asia
+findings offer
+1 nadeeza ishmael
+2 brian haas
+dye-labeled antibodies
+cherry street
+recent origin
+peregrín-alvarez
+closely linked
+remain understudied
+antibiotic resistance
+chimeric libraries
+nasonia genomes
+19 katherine smith
+initial discussions
+1 jessica ingram
+sequenced homologs
+8 sara lustigman
+pattern observed
+2 elisabet caler
+circumstances conducive
+ancient breakage
+situ hybridization
+543 0 tribolium castaneum
+11 mario stanke
+developing gametes
+manual annotation
+2 owen white
+jhotopp@som
+manual review
+metabolic pathways
+13 ben-wen li
+obtaining permission
+694 30 pediculus humanus
+plos pathog
+room s-445
+2 tamara feldblyum
+2 hean koo
+dunning hotopp
+contaminating reads
+biomedical research
+952 0 ixodes scapularis
+national institutes
+sequenced simultaneously
+species marked
+inserts compared
+pittsburgh school
+weak amplification
+5-rapid amplification
+alphaproteobacterial endosymbiont
+>80% nucleotide identity
+wmel
+>75% nucleotide identity
+>96% nucleotide identity
+>90% nucleotide identity
+91% nucleotide identity
+read length
+parasite
+drosophila melanogaster
+ananassae lines
+bac
+differing number
+reports
+antibiotics
+dg2
+number attempted
+long-range pcr
+table s4
+table s2
+table s3
+wbm homologs
+insect mol
+wolbachia
+molecular basis
+plos biol
+affect arthropod
+remaining 21 arthropod
+org/cgi/content/full/1146598/dc1 materials
+retrotransposon insertions
+2# shiliang wang
+1 shiliang wang
+unique insertions
+general conserved
+100 conserved operons
+org
+
+1753
+
+downloaded
+vector hosts
+org
+
+downloaded
+table s1
+pcr amplification
+genes estimated
+average density
+accumulating retroelements
+15 dong ma
+wide range
+263 0 anopheles gambiae
+caenorhabditis
+high proportion
+uncovers adaptations
+trends genet
+17 john parkinson
+unique location
+120 0 aedes aegypti
+§present address
+2 martin shumway
+previously shown
+current knowledge
+antibiotic-cured insects
+transcript quantities
+microscopy
+developmental biology
+degenerate fragment
+quantitative rt-pcr
+present address
+6 jennifer daub
+potentially providing
+blast results
+fluorescence
+2008
+
+reports
+table 1
+orphan contigs
+updated information
+org/cgi/collection/genetics information
+human
+revealed
+common ancestor
+2 michael schatz
+2 jonathan crabtree
+detected computationally
+article appears
+maintained synteny
+dna constructs
+5-mb scaffold
+data
+gene
+complicating assemblies
+nasonia vitripennis
+mosquito vector
+linkage groups
+wasp nasonia
+free-living counterparts
+reports
+genbank
+transfer
+online
+internal medicine
+org/cgi/content/full/1142490/dc1 materials
+genetics http
+cell biol
+amplified
+crosses
+phylum nematoda
+lacking
+introns similar
+sequencing
+nematode
+2¶ barton slatko
+2 david spiro
+life sci
+institute
+model
+genome
+sequences
+organisms identified
+sequence
+hawaii
+ii
+regions
+maternal
+short
+endosymbionts
+beetle
+clemson
+nuclear
+parasitic
+region
+fly
+inserted
+www
+inserts
+health
+suggests
+potential
+fragments
+malayi
+insertion
+contributed
+elegans
+transcription
+evidence
+insect
+genes
+ananassae
+bacteria
+science
+science 317
+science 308
+science 300
+nematodes
+assembled
+genetics 124
+race
+abundant
+assembly
+downloaded
+julie
+20 reads
+females
+genomes
+map
+provide
+8 kb
+university
+york
+comparisons
+briggsae
+sequenced
+reads
+examined
+recent
+analysis
+methods
+segregated
+washington
+culex
+~9× coverage
+species
+s1
+amplification
+endosymbiont
+9% identity
+>80% identity
+chromosomes
+chromosomes 4
+read
+melanogaster
+7% identity
+pcr
+number
+transcribed
+2008
+
+reports
+18
+table 1
+wbm
+conserved
+wang
+occur
+including
+evolution
+<500 bp
+pipientis
+26 arthropod
+verified
+materials
+bp
+biol
+similar
+functions
+insertions
+100 mb
+mb
+lines
+71 mb
+org
+insert
+hosts
+95 mb
+1 mb
+5 mb
+fig
+insects
+present
+spiro
+current
+genet
+phylum
+2§ jennifer
+genbank
+cases
+slatko
+org/cgi/content/full/1142490/dc1
+martin
+nematoda
+content
+rt-pcr
+aedes
+ma 01938
+providing
+retroelements
+pittsburgh
+average
+cell
+proportion
+anopheles
+degenerate
+life
+estimate
+adaptations
+results
+mol
+biology
+location
+range
+1¶ john
+transcript
+compared
+shown
+249 contigs
+contigs
+information
+organisms
+scaffold
+dna
+estimated
+1 article
+2 jonathan
+detected
+barton
+7 barton
+scaffold 14972
+5 michael
+1* michael
+common
+maintained
+article
+basis
+confirmed
+5 jonathan
+introns
+5 david
+wasp
+6 david
+2 david
+linkage
+vitripennis
+mosquito
+assemblies
+free-living
+medicine
+found
+sci
+identified
+http
+landick
+aaqa01001500
+mitochondrial
+erecta
+providence
+matsuura
+removal
+citing
+foster
+indicating
+probe
+wgs
+longicornis
+boucher
+14 deryck
+suggesting
+5 aguan
+louis
+4 james
+integrated
+form
+ef588901
+publicly
+organized
+angiuoli
+cds
+chen
+dbest
+blosser
+ijichi
+md 21201
+sun
+niches
+replaced
+people
+dimmic
+contrast
+movement
+evolved
+nene
+delcher
+obtained
+predict ~11
+shimada
+13 ann
+fenn
+clark
+3 rahul
+ny 14627
+addressed
+< 10-40
+nature 399
+hohng
+prokaryotes
+rarely
+usa
+2department
+aaqa01000369
+scope
+assessment
+~90 megabase
+neglected
+e94
+ds239315
+guiliano
+iii
+work
+reproduce
+pseudoobscura
+crawford
+aaas
+december
+cited
+e69
+india
+define
+kasper
+304 brc
+helminthol
+zhuang
+r23
+simulans
+4department
+lidke
+16 thomas
+elephantiasis
+shaevitz
+circular
+162 genes/mb
+mojavensis
+demonstrating
+infects
+times
+6 chris
+johnson
+st
+green
+houston
+facilitated
+paper
+facilitates
+aphid
+reevaluated
+continue
+nakayama
+ipswich
+millions
+archaea
+weber
+unnasch
+correspondence
+md 20850
+matches
+1146598 include
+ds238705
+nature 438
+nature 439
+lineage
+chronic
+rockville
+2a
+arrow
+margeat
+mets
+illuminate
+willistoni
+2 najib
+fish
+rieger
+tx 77030
+pa 15261
+rev
+include
+foundation
+matthew
+red
+free
+org/
+bates
+echoing
+doolittle
+gordon
+daniels
+es659088
+kato
+carry
+endemic
+size
+xie
+needed
+confirming
+ds238272
+nelson
+origins
+observations
+virilis
+yildiz
+acquire
+20 thomas
+assumption
+part
+rtpcr
+jovin
+sign
+andersson
+transferred
+female
+absence
+williams
+biotechnol
+derived
+acquisition
+aaqa01000097
+argument
+confirms
+chem
+rochester
+sc 29634
+isolate
+mechanism
+5 claude
+oliveira
+tick
+insights
+aaqa01001952
+1142490 include
+eubacteria
+chovnick
+blaxter
+services
+stouthamer
+crustacean
+4 samuel
+doi
+ds239057
+exp
+wbm0002
+spaced
+show
+2 jeremy
+supported
+accession
+af538716
+maina
+grimshawi
+homology
+ha
+ef611872
+1126/science
+stained
+screening
+biophys
+/permissions
+nutman
+spurious
+inclusion
+abbondanzieri
+parasitism
+qu
+giraulti
+decade
+summary
+act5c
+fertility
+view
+reference
+humans
+mo 63110
+peterson
+detect
+strausbaugh
+lack
+position
+importance
+kidwell
+identification
+1d
+//www
+discovery
+breeuwer
+dc 20005
+complement
+wu
+autosome
+accessed
+joo
+pressures
+ef426679
+chosen
+ds239377
+sexes
+ds237653
+baltimore
+sechellia
+unclear
+leading
+sciencemag
+greenleaf
+largest
+>1 megabase
+ds239291
+4 clotilde
+orfs
+addition
+wei
+due
+ting
+8 jeremy
+yakuba
+deposited
+treat
+persimilis
+heuser
+timori
+giebel
+uncommon
+al
+evidenced
+notes
+1
+nikoh
+amplicons
+aaqa01000425
+case
+aaqa01001498
+microbiol
+pahangi
+2b
+involved
+transcripts
+aaqa01000571
+arrayexpress
+allen
+sauer
+windsor
+ny 10038
+estes
+honeybee
+difficult
+week
+literature
+dgk
+e121
+salzberg
+validate
+104 times
+lower
+indonesia
+thought
+werren2¶
+wd_0336
+sims
+2* arthur
+wasps
+tinnefeld
+invalid
+positions
+campbell
+townsville
+liu
+el-sayed
+wortman
+advancement
+lett
+natl
+13 tim
+ds239028
+maintenance
+match
+opt
+sugane
+speciose
+loss
+speciesspecific
+umaryland
+ef611985
+2 steven
+success
+onethird
+werren
+7 nicholas
+response
+aaqa01000736
+acad
+schematics
+entomol
+ef588824
+malaysia
+hurst
+development
+5-utr
+fukatsu
+unimportant
+annu
+lindblom
+novelty
+e-mail
+100 megabases
+7division
+proc
+demonstrated
+2c
+copyright 2007
+heilemann
+dumont
+comparison
+ri 02912
+kural
+constituting
+opin
+mccarter
+gregory
+osborn
+block
+cutoff
+soc
+presence
+rathke
+7 alan
+end-sequencing
+scherer
+determine
+2 geoffrey
+infer
+pathogenicity
+exons
+5 mark
+live
+ónica
+anderson
+conservation
+infected
+aaqa01001819
+overlapping
+applicable
+selvin
+carlow
+5 william
+heintzmann
+considered
+sluder
+aaqa01000384
+aaqa01000958
+arrangement
+rust
+curr
+qrt-pcr
+5 steven
+defines
+allergy
+nad
+agreeing
+nan
+treatment
+kondo
+steffen-campbell
+107 times
+tpr
+phys
+a-tigr-28
+required
+2* deodoro
+offspring
+separation
+18 josé
+565 2519
+632
+111 0
+1993
+1994
+916
+292
+763 44
+10%
+108
+109
+101
+105
+492 0
+32
+31
+30
+37
+35
+= 0
+339
+3801
+~15%
+6
+99
+94
+97
+1997
+1999
+180 107*
+238
+1
+¶
+1753
+149
+878
+130
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+1990
+375
+80
+323
+87
+874
+58]
+7
+587
+1277
+001
+456
+958 7473
+2
+1991
+11
+10
+13
+15
+14
+17
+16
+18
+321
+203
+75
+71
+792 0
+108101
+540
+1469
+8
+127
+1820
+19
+722 1
+46867557
+2061
+~17
+3
+447
+380
+389
+855 0
+11298
+4%
+62
+259
+65
+68
+]
+90
+507
+500
+4
+5%
+460
+283
+285
+360
+33
+~2%
+102 2
+14280
+9
+90%
+936 0
+1978
+736 1
+762
+42
+7052
+768 0
+260
+267
+265
+269
+332
+161
+51
+53
+73
+1328
+918
+537 38
+1142490
+941
+307
+= 57
+1998
+= 40
+20%
+430 21
+*
+1989
+480
+313 0
+225
+24220
+1182
+724
+605
+1200
+49
+44
+5
+088
+214 22
+6462
+2002
+2003
+2000
+>99
+2006
+2007
+2004
+2005
+2008
+12

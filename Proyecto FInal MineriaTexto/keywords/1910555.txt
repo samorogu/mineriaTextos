@@ -1,0 +1,496 @@
+represent
+pulse-generating
+unregulated
+repressor concentrations
+Strikingly
+environmental conditions
+Department
+synthetic
+Foundation
+Combinatorial promoters
+Kauffman
+single-input functions
+high-throughput screening
+`activation
+Vizcarra
+Standard
+Beckwith
+DNA-binding
+Repressors
+activities
+downstream
+tetracycline resistance
+transposon
+activation
+phenotypes
+promoters containing
+luminescent crosstalk
+cellular
+Kammerer
+containing operators
+positions
+systematic investigation
+LacI-regulated
+inspection
+bottom-up approach
+triplicate
+unregulated expression
+bulls-eye
+canonical
+Responses
+incompatible
+pffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+Escherichia
+Categories
+cisregulatory
+respectively
+corresponding symmetric
+Infectious
+asymmetry
+separation
+systematic analysis
+best-activated
+Discussion Combinatorial
+technical
+sign-sensitive
+switch-like
+specific protein­protein
+ineffective
+Regulated
+Technology
+Combinatorial synthesis
+repressor
+band-pass
+logic-symmetry
+annotation snapshot
+Therefore
+intuitive understanding
+Davidson
+Bjarnason
+Randomized assembly
+activator-induced
+Siddharthan
+Horiuchi
+achieving
+Greenberg
+normalized repressor
+operators
+containing combinatorial
+feed-forward
+particular
+Revisited
+asymmetric asym-AND
+Expression
+TetR-overexpressing
+logarithm
+Bacterial repression
+Logic-symmetry
+LuxRactivated
+Hochschild
+independent interaction
+repressing
+c1Ec2b1
+catabolite-sensitive
+potential diversity
+indicated
+Collado-Vides
+weighting
+Unrepressed
+Magasanik
+LuxR-regulated
+cooperativity
+activator­repressor
+catgttgcagcacaatcgacggaaaatcgttaaaataggtatctgaacactcgcgagtgttaa atattaagcacgttaAaaatttggacatcctagcatgtcca
+Activation
+arrangement
+Nevertheless
+GM068763
+activator
+parameter
+oscillatory
+Symmetric repression
+medium-copy
+Ishihama
+c1Xc240
+identified heuristic
+different
+applications
+cis-regulatory
+summarize
+repressor concentration
+annotation
+Cooperative interactions
+effective
+R01GM079771
+explicit
+dispensable
+Severinov
+fundamental
+representation
+Segura-Salazar
+iron-responsive
+Sprinzak
+non-coding
+Microbiology
+functional operators
+Luminescence measurements
+synthetic combinatorial
+Kolodrubetz
+architecture constrain
+tcgagtacaacgtcgtgttagctgccttttagcaattttatccatagacttgtgagcgctcacaatt tataattcgtgcaatTtttaaacctgtaggatcgtacaggt
+repressors independently
+production
+microscopic
+derivative
+corresponding promoters
+explicit protein­protein
+exclusive interactions
+combination
+AR-promoters
+Single-input
+repressor predicted
+synthetic activator­activator
+LuxR-LuxI
+love­hate
+Peralta-Gil
+magnitude
+characterized
+Igarashi
+independent
+three-dimensional parameterization
+Jimenez-Jacinto
+Genotypea
+LuxR-activated promoters
+Development
+Engineered
+parameterized functions
+core/proximal
+induction
+architecture
+interactions
+University
+standard
+L-arabinose
+regulators
+formation
+brightest
+AsymAND
+regulatory
+coreXproximalX
+definition
+galactose
+Activated expression
+polymerase
+programming
+Invitrogen
+Plasticity
+Repression
+sffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi sffiffiffiffiffiffiffiffiffiffiffiffi
+implement specific
+occupancy
+intermediate
+Regulatory
+consistent
+activated/repressed
+monotonic dual-input
+relationship
+inducible repression
+repressor­repressor
+non-Boolean
+repressor structure
+bacterial transcription
+additional activator
+Rosenfeld
+Typhimurium
+Classical
+accordance
+regulator
+exclusive interaction
+reproduction
+repressor­repressor interaction
+behaviors
+quantitative representation
+generality
+locations
+Regulation
+Plunkett
+concentration
+RegulonDB
+acceleration
+efficient
+transcription
+mechanism
+TetR-regulated
+sufficiency
+Functional operators
+pffiffiffiffiffiffiffiffiffiffi
+effectiveness
+continuous
+Phillips
+Biological
+Independent regulators
+placement
+repressor-induced
+McMillen
+Transcriptional regulation
+principle
+repressor interaction
+promoters exhibiting
+sffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+Arbitrary luminescence
+oxo-C6-homoserine
+multicellular
+`intermediate
+Supplementary Information
+trade-off
+Attribution
+proximity
+randomized assembly
+dependent
+Martinez-Antonio
+significant regulation
+arabinose metabolism
+interaction parameter
+Organization
+Repressed
+steepness
+Savageau
+exhibiting
+non-neighboring
+Washington
+corresponding operators
+predicted
+single-input
+kanamycin
+Adalsteinsson
+pffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+reference
+Activators
+California Institute
+Specifically
+repressor operators
+SIG-like
+plate-to-plate variation
+Architecture LacI/TetR
+bacteriophage
+measurable expression
+Santos-Zavaleta
+Compilation
+Promoters containing
+symmetric
+identification
+appreciable difference
+consecutive
+mathematical
+available
+profiling
+open-access
+responses
+transcriptional regulation
+Browning
+Programming
+coreXproximalXdistal
+efficiency
+eukaryotic
+effective repression
+Bacteriol
+well-to-well
+library-based approach
+complicated functions
+prokaryotic
+PAGE-purified synthetic
+Bacterial promoters
+additional recognition
+Laboratory
+expression
+experimental
+otherwise
+`effective repression
+Consortium
+noncooperative interactions
+commercial exploitation
+SanchezSolano
+cooperative interaction
+two-input
+different intrinsic
+replicate
+Comparison
+corresponding
+Microbiol
+understand
+Consequently
+single-cell
+exception
+SLOPE-like
+Supplementary
+Asym-AND
+phenotypic
+orientation
+averaging
+Furthermore
+Southward
+Mechanism
+functional repertoire
+Atkinson
+Intermediate
+anti-induction
+Functional activator
+containing
+sensitive
+combinatorial regulation
+phenotype
+inducible activation
+combinatorial promoters
+exclusive regulation
+Functional dissection
+numerical
+monotonic
+Synergistic activation
+architectures
+isopropyl b-D-1thiogalactopyranoside
+combinatorial transcription
+conditions corresponding
+analysis
+Examples
+competitive interactions
+organization
+logic-symmetry parameterization
+synthetic library-based
+Homeostasis
+Physical
+Considering
+Similarly
+RegulonDB analysis
+asym-SLOPE
+Measurements
+bacterial luciferase
+IPTG/aTc
+Reconstruction
+day-to-day
+differentiation
+regardless
+Microbial
+Molecular
+ampicillin
+exhibiting effective
+arbitrary luminescence
+generator
+synthetic multicellular
+asymSLOPE
+overhanging
+horizontal/vertical
+Tn10-encoded tetracycline
+Neidhardt
+well-defined operators
+functional repressor
+transcription regulation
+preference
+background
+nonoptimal
+sequencing
+Single-input activities
+activator operators
+Spatiotemporal
+necessary
+Schwartz
+identifying
+qualitative
+specific
+arbitrary
+assembling promoters
+anhydrotetracycline
+regulatory sequences
+essential
+Recognition
+Activation functions
+accessible
+metabolic
+bacterial promoters
+functions intermediate
+recognition
+consensus
+mutational plasticity
+Promoters
+fivefold
+repression
+luxCDABE
+Bonavides-Martinez
+expressing
+Salmonella
+dual-input promoters
+nonfunctional
+agreement
+AraC/LacI
+MullerHill
+repressors
+Repressor
+Sternberg
+Mathematical
+-arabinose
+stationary
+BioEssays
+circuitry exhibiting
+Activated
+AND-like
+compatible
+Scientist
+Chaudhuri
+neighbor
+concentrations
+antibody
+integration
+Activators Repressors
+polymerase initiation
+determine
+proportional
+multifunctional
+synthetic promoters
+additional
+transcription regulatory
+Dual-repression
+November
+redundant operators
+information Supplementary
+respective activities
+triangular
+histogram
+mechanistic
+construction
+near-symmetric
+intuitive
+multiplicity
+theoretical
+nucleotide sequences
+Supplementary information
+density-responsive transcriptional
+distribution
+activator induction
+regulatory networks
+Dombroski
+transcriptional
+Publishing
+transcriptional regulatory
+Introduction
+operator-containing
+engineering
+physical
+Diaz-Peredo
+dual-input regulatory
+Dual-input
+Asym-SLOPE
+Asymmetry
+functionality
+Cellular
+Structure
+repressor dominance
+Thiberge
+Luciferase detection
+variation
+important
+Gama-Castro
+allowing
+Uninduced
+independently
+regulation functions
+transcription activation
+enrichment

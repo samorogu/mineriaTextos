@@ -1,0 +1,1255 @@
+direccion ´ ´ general del medio natural de la diputacion general de aragon issued research permits
+layer vof rat somatosensory neocortical slices
+lts interneurons lack gabaergic autaptic transmission3
+endogenous conditions suggest slower action arising
+general interest
+
+figure 1 dynamic representation
+environmental responses facilitate fast signal propagation
+starred hubs show extreme interchange index values
+small world inside large metabolic networks
+seven-letter open reading frame names
+permanent hub abf1 regulates cell growth
+short paths imply faster propagation
+regulatory hubs targeting disproportionately large numbers
+biocytin-filled lts interneurons contained cholecystokinin
+previous studies defined precise regulatory properties
+resulting regulatory cascades undoubtedly create
+ubiquitous transcription factors comprise permanent hubs
+mims multiple transcription factors co-regulate sets
+changing interactions makes rigorous comparison
+phase-specific transcription factors interregulate serially
+interneurons form complex functional networks responsible
+regulatory network dynamics reveals large topological
+circo de piedrafita area
+instituto de estudios altoaragoneses
+entire network including inactive regions
+regulatory system displays scale-free characteristics
+360 unique pairwise transcription factor combinations
+ubiquitously active transcription factors layer
+clusters represent phase-specific transcription factors
+/nature
+
+©2004 nature publishing group
+
+letters
+cannabinoid receptor antagonist am251
+previous study13 expression-level measurements
+network diagrams show transcription factors
+primary transcription factor regulates
+describe disparate systems ranging
+yeast atr homolog mec1p
+endogenous conditions signify greater inter-regulation
+observed measurements differ significantly
+involving global topological statistics6
+highly inter-connected transcription factors
+recent functional genomics studies
+pair-wise transcription factor combinations
+309
+
+©2004 nature publishing group
+
+letters
+©2004 nature publishing group
+
+311
+
+letters
+filtering spurious external stimuli
+comprise multifunctional transcription factors
+integrating transcriptional regulatory information9­11
+pathophysiological cortical network activities
+sufficiently high expression levels
+examining global topological measures
+gene regulatory network growth
+transcription factors apparently regulate
+/nature
+
+312
+
+©2004 nature publishing group
+identifying specific drug targets
+ubiquitous transcription factors control
+xunta de galicia
+active sub-networks impossible visually
+homogeneous non-fs cell population
+determine condition-specific interactions directly
+transcription factor hub usage
+figure 3 transcription factor inter-regulation
+original differentially expressed genes
+flag differentially expressed genes
+/nature
+
+methods
+detailed descriptions
+phase-specific transcription factors regulate
+sporulation direct temporal progression
+topological measures change considerably
+combinatorial transcription factor usage
+figure 2 newly derived `follow-
+transcription factor response element
+inhibitory autaptic transmission3
+ubiquitously active transcription factors
+cluster represents permanent hubs
+endocannabinoid-mediated slow self-inhibition represents
+single transcription factor targets
+permanent hubs interchange interactions
+large-scale gene activation found
+yeast transcriptional regulatory network
+short regulatory cascades
+phase regulate transcription factors
+active transcription
+310
+
+factors shows
+cluster diagram shades cells
+distinct target genes regulated
+large out-degrees signify
+ubiquitous transcription factors
+sandy defined endogenous sub-networks
+examine biological network dynamics
+natural populations
+venn diagrams show
+including global measures
+neocortical interneurons mediated
+global topological measures
+observed regulatory hubs
+transcription factor usage
+topological measures originate
+transcription factor hub
+including regulatory systems
+phase-specific transcription factors
+higher values associate
+transcription factors interchange
+represents permanent hubs
+precise selfinhibition mediated
+yeast regulatory system
+partner transcription factor
+transcription factor names
+transcription factors serve
+transcription factors replacing
+27 transcription factors replace
+dedicated transcription factors
+hnf transcription factors
+non-hub transcription factors
+transcription factors alter
+12 transcription factors retain
+greater regulatory influence
+shifting regulatory roles
+acknowledges financial support
+commonly located upstream
+increased k1-channel conductance
+endocannabinoids
+alberto bacci
+male reproductive tactics
+detect complete loops
+competing financial interests
+deutscher akademischer austauschdienst
+simple building blocks
+figure 2a shows
+persistent input signals
+glutamatemediated synaptic strength
+anna fuller fund
+likelihood-based paternity inference
+internal transcriptional programme
+competing interests statement
+nucleic acids res
+constitute binary events
+transcription factor inter-regulation
+identifying regulatory networks
+transcription factor hubs
+correlating protein properties
+de jong
+transcription factor targets
+pie charts show
+average values double
+non-transcription factor targets
+identifying global regulators
+genomic expression responses
+including complex sub-systems
+newly derived follow-
+detect multiple mating
+transcription factor interregulation
+transcriptional regulatory network
+transcriptional regulatory networks
+procedure identifies sub-networks
+self-induced inhibition lasts
+prominent hyperpolarization mediated
+simulated sub-graphs sample
+complex transcriptional circuitry
+differentially expressed genes
+standard topological measures
+transcription factors regulating
+identify transcription factors
+individual transcription factors
+liver gene expression
+transcriptional regulatory data
+integrating gene-expression information
+information processing tasks
+motifs varies considerably
+authors contributed equally
+centralized command structure
+cambridge commonwealth trust
+static state displays
+cambridge cb2 2qh
+gene regulatory network
+70 transcription factors active
+active transcription factors
+transient hub identification
+saccharomyces genome database28
+saccharomyces genome database
+obvious functional role
+carefully coordinated processes
+genome-wide transcriptional analysis
+uncover substantial topological
+randomly simulated sub-graphs
+newly derived statistics
+transcription factor dependent
+present transcription factors
+regulatory functions change
+secondary transcription factors23
+genomic expression programs
+underlying network architecture
+describing network structures
+transcriptional regulation network
+rewire regulatory interactions
+obtained whole-cell recordings
+figure 1b presents
+comprise `hot links
+teichmann4 & mark gerstein1
+concepts presented here--
+lts cells possess
+regulate house-keeping functions
+fewer transient hubs
+uni-modal central distribution
+mrc lmb visitor
+conferring similar regulation
+integrated gene-expression data
+92 transcription factors overlap
+basic house-keeping processes
+active sub-networks maintain
+comparing biological subnetworks
+similar relative frequencies
+totally dispersed nodes
+topnet software tool27
+terminating target gene
+high clustering coefficients
+condition considerably augments
+supplementary information accompanies
+quantify network architecture
+parallel inter-regulation operate
+condition-specific transient hubs
+chip­chip experiments9­11
+mitotic cell cycle
+cell cycle time-
+studying sub-network structures
+current data sets
+maintained core functions
+including permanent
+identify active sub-networks
+yeast cell cycle
+stanford university school
+anticipate future experiments
+neocortical interneurons
+local network motifs
+local network motifs4
+nature
+outgoing edges
+cell cycle forward
+states favour ffls
+control intermediate phases
+local motif occurrence
+cell cycle operate
+permanent hubs
+recent studies
+unique form
+lts interneurons
+regulatory signal
+interchange index
+precise regulation
+transcription factor
+transcription factors
+142 transcription factors
+large-scale responses
+resulting networks
+large dynamic
+similar observations apply
+ubiquitously active
+significantly change
+values range
+interneurons undergo
+motif usage
+gene names
+diagram shades
+external stimuli
+simpler combinations
+regulatory network
+regulatory networks
+observations suggest
+group comprises
+large-scale topological
+metabolic networks
+complex networks
+static representation
+histogram reveals
+complex sub-systems
+figure 1 illustrates
+structural studies
+complex circuitry
+uncover large
+large perturbations
+regulatory role
+cluster diagram
+gene expression
+functional organization
+functional annotation
+two-tiered system
+regulatory functions
+similar sets
+stable signal
+small in-degrees
+standard measures
+data sets
+lts networks
+transcriptional regulators
+neocortical gaba-
+slow self-inhibition
+regulate genes
+network dynamics
+parallel inter-regulation
+combinatorial analysis
+hub transience--
+interaction interchange
+quantified global
+condition-specific networks
+large intersection
+condition-specific sub-networks
+regulatory chains
+high clustering
+regulatory links
+expressed genes
+transcription factors17
+underlying network
+network structures
+regulatory interactions
+074 regulatory interactions
+protein networks
+cortical oscillations
+systems biology
+four-letter names
+uniquely expressed
+small intersection
+specific patterns
+cell-cycle progression
+/nature
+
+sections
+condition-specific subnetworks
+large-scale networks
+biological network
+transient hubs
+nature
+numbers
+biological networks
+yeast cells
+multiple states
+network structure
+multiple processes
+uni-modal distribution
+mrc lmb
+obvious role
+gene-expression data
+large number
+intermediate regulators
+distinct functions
+simulating sub-graphs
+simulated controls
+extreme outliers
+house-keeping functions
+lts neurons
+house-keeping regulators
+308
+
+processes forward
+sub-networks active
+differential expression
+budding yeast
+network analysis
+change interactions
+final gene
+gene functions4
+collective dynamics
+randomly perturbing
+diverse stimuli
+topological statistics
+multiple stages
+traced paths
+long paths
+­chip experiments
+individual processes
+active subnetworks
+supplementary information
+network motifs4
+genome-scale network
+resultant network
+network motifs
+network biology
+static network
+designed networks
+static networks
+feedback inhibition
+sub-networks locally
+gene-expression data12­16
+dynamic perspective
+higher eukaryotes
+hot links
+sandy presents
+average coefficients
+transcriptional program
+dynamic transitions
+genomic analysis
+exogenous sub-networks
+distinct
+nature
+local motifs
+large-scale organization
+multiple conditions
+biological requirements
+mrc laboratory
+authors declare
+`clustering coefficient
+240 microarray experiments
+causal structure
+static state
+relative influence
+program-specific distribution
+genomic scale
+individual motifs
+cell cycle
+distinct sections
+sub-network structures
+saccharomyces cerevisiae
+high compared
+serial interregulation
+main functions
+serial regulation
+endogenous processes
+connection active
+active link
+single condition
+exogenous states
+active interactions
+cellular state
+statistical analysis
+exogenous processes
+cell cycle13
+genetic control
+relative occurrence
+genes targeted
+genes simultaneously
+genes dev
+classified genes
+network connectivity
+rapid turnover
+power grids
+autocrine release
+sparse annotations
+remain valid
+tracing back
+firing behaviours
+sequential manner
+characterized electrophysiologically
+egg thievery
+major forms
+pyramidal neurons
+invariant features
+`path length
+mapk signaling
+shortest distance
+escherichia coli
+previously reported
+two-tiered hierarchy
+begin sandy
+conditiondependent lethality
+behavioural functions1
+traced back
+late g1
+broad spectrum
+sneaked fertilizations
+dna damage
+diauxic shift12
+feed-forward-loop motifs
+microsatellite techniques
+remain invariant
+statistical power
+major site
+po box 208114
+moor frog
+neurological sciences
+combining well-
+endogenous cannabinoids
+readily transferred
+random simulations
+related sequences
+sandyalso examines
+connecticut 06520-8114
+chromatin immunoprecipitation
+circadian night
+trinity college
+varying degrees
+´ ´ javier abajo
+respomuso refuge
+// sandy
+analyze sequences
+dna-damaging agents
+poorly characterized
+diauxic shift
+stress response15
+similar overlap
+act transiently
+stress response
+hills road
+completely supplanted
+d311­d314
+developmental biology
+sustained firing
+sizeable minority
+average halves
+excitatory connections
+extra-pair matings
+rana arvalis
+xin lu
+michael snyder2
+dynamic view
+full scope
+clear implications
+transient-hub status
+incoming edges
+minor proportion
+statistical confidence
+applied widely
+dna damage16
+fully connected
+produce rapid
+sandy@bioinfo
+vieites@berkeley
+circadian cycle26
+defining feature
+unifying language
+intrinsic excitability
+madan babu4*
+fifteenspine stickleback
+intracellular transport
+rats generate
+threespine stickleback
+received 15 january
+promoter elements
+current viewpoints
+intracellular [ca21]
+common motifs
+microsatellite assessment
+fragmented populations
+deutsche forschungsgemeinschaft
+haiyuan yu1
+called sandy
+early g1
+larger fraction
+dna fingerprinting
+420 target genes
+target genes
+social interactions
+interchanged interactions
+selectively target
+long-lasting self-inhibition
+nature
+heterozygosity
+nature rev
+made active
+biological terms
+1c shows
+cellular development
+trends genet
+define sections
+sub-network decreases
+lower sections
+letters
+endogenous conditions 53
+switching conditions
+endogenous conditions
+respective conditions
+serial inter-regulation25
+molecular biology
+molecular biophysics
+nature genet
+exogenous conditions
+diverse organisms
+subsequent phases
+multicellular organisms
+late phases
+long-lasting mechanism
+trace-back algorithm
+calculating standard
+previous
+defined
+standard statistics
+genetic similarity
+genetic analyses
+cellular conditions
+group
+nature
+rewiring
+laboratory work
+yale university
+madan babu
+responsible
+analysed statically1­8
+influential components
+environmental
+palanca provided
+introduce sandy
+usa 4 division
+abf1
+targeting
+frequency drops
+fs cells
+remarkably constant
+comprise
+prince
+department
+accepted 24 june 2004
+fast
+calculations divide
+complexity pyramid
+huguenard & david
+random expectation
+properties
+fish biol
+random addition
+larger number
+supplementary fig
+observations made
+rewiring highlighted
+phase-specific
+hub
+topological
+/nature
+computer science
+represent
+numbers
+149 pairs overlap
+characteristics
+inactive
+comparison
+form
+metabolic
+normalized number
+inter-regulation
+hubs
+extreme
+lts
+show
+cluster
+yeast 11
+dynamics
+targets
+represents
+1 represents
+network
+networks
+shows
+control
+mediated
+population
+sub-networks
+examine
+found
+local
+cambridge
+operate
+individual
+similar
+regulating
+identify
+data
+chip
+mims
+self-inhibition
+functions
+`active
+active
+cells
+cycle
+cell
+cell 2
+cell 11
+cell 12
+cell 113
+cell 106
+transient
+genes
+endogenous
+motifs
+edges
+apply
+`present
+concepts
+links
+response
+quantify
+1b
+university
+static
+uncover
+influence
+current
+motifs4
+dependent
+maintained
+mark
+obtained
+present
+secondary
+average
+follow-
+sandy
+stanford
+interactions
+66 interactions
+exogenous
+target
+nature 407
+nature 425
+nature
+nature 418
+nature 393
+cellular
+genet
+sub-network
+sections
+conditions
+occurrence
+serial
+molecular
+phase
+nodes
+topnet
+algorithm
+rewiring
+anticipate
+phases
+intersection
+organisms
+overlap
+made
+long-lasting
+normalized
+genetic
+observations
+program
+usa
+work
+connectivity
+complexity
+ffls
+introduce
+david
+3
+1 department
+view
+terms
+influential
+yale
+highlighted
+palanca
+& babu
+june 2004
+calculating
+analysed
+histogram
+frequency
+constant
+compared
+divide
+statistics
+sporulation
+expectation
+fs
+biol
+1c
+addition
+pairs
+number
+methods
+condition
+science 298
+science 278
+science 303
+science 282
+fig
+results
+facilities
+concept
+comments
+sim
+milo
+soc
+compact
+graph
+& church
+finally
+indicating
+broadly
+cck
+dendrites4­7
+medicine
+stabilized
+balancing
+level
+proc
+list
+applicable
+team
+zhu
+favoured
+upper
+unexpected
+findings
+`small-world
+& fitzgerald
+fuerst
+understanding
+alters
+bertone
+rozowsky
+& kepes
+ursi
+3c
+3b
+3a
+nicholas
+contrast
+lee
+derisi
+compilation
+& avise
+behaviour
+focused
+evaluates
+table
+juani
+study
+heredity 86
+essential21
+extremes
+vigo
+shaded
+odom
+singleinput
+addressed
+directing
+tools
+graphs
+2department
+proportions
+& brown
+ecol
+luscombe1*
+tested
+labelled
+koonin
+cases
+sporulation14
+sok2
+evolved
+process
+arise
+effectively
+counting
+conversely
+g2
+end
+conditions12­16
+provide
+methodology
+previously8
+significance
+kuhnlein
+top 30%
+modulation
+multiple-input
+types
+included
+beebee
+rationalize
+interconnectivity
+gauges
+essence
+tandem
+vary
+paper
+sudarsanam
+tegner
+& cooper
+blocked
+probability
+network2
+low-threshold-spiking
+wagner
+schematics
+relate
+marshall
+s1
+correspondence
+tombor
+powerful
+slate
+reflected
+mbb
+half
+& oltvai
+yu
+assembled
+identified
+horak
+exploring
+kleivi
+2b
+fitness
+& strogatz
+& alon
+ccknegative
+nih
+expect
+measure
+& pitcher
+http
+buffers
+gonzalez
+shown
+neff
+sparingly
+multi-stage
+increase
+include
+suggesting
+evaluation
+red
+recalculating
+earlier
+coloured
+formation
+org
+1038/nature02782
+remainder
+ueda
+retained
+transition
+consequences
+initiate
+& smulders
+place
+zao
+smaller
+specifically
+specificity
+implicated
+pilpel
+size
+xia
+barabasi
+1a
+& pemberton
+g1/
+tool
+albert
+part
+svetlov
+haven
+hovig
+contrary
+italicised
+lond
+biochemical
+providing
+california 94305
+mangan
+mim
+note
+ideal
+attempted
+channel
+refocusing
+trace
+normal
+react
+acknowledgements
+constancy
+observation
+karro
+drive
+& fell
+duplication
+fact
+supported
+converge
+participate
+make
+zeitlinger
+true
+rico
+curr
+neurology
+compiled
+uk
+
+*
+ssi
+network6
+evolution
+summary
+ffl
+guelzim
+respond
+gasch
+sensitivity
+jeong
+capacity
+review
+tend
+shen-orr
+koentges
+vol 431
+john
+drawn
+approach
+importance
+key
+topology
+watts
+requests
+& collado-vides
+groups
+gersteinlab
+christie
+grants
+additionally
+refocuses
+combines
+expected
+kruuk
+important
+search
+repertoire
+3department
+microbiol
+aid
+surprisingly
+mig1/2
+vos
+capture
+develop
+began
+linked
+hespeler
+deletion
+assessing
+& gerstein
+expand
+halve
+thought
+materials
+bottani
+goedhart
+comparisons
+sims
+assembling
+rest
+assigned
+swi4
+sampled
+pancreas
+source
+extends
+maintaining
+trifonov
+insensitive
+martinez-antonio
+observed24
+mol
+occurring
+476 total
+sizes
+& teichmann
+16 september 2004
+www
+oltvai
+calculated
+iyer
+gross
+superfamilies
+recently
+lead
+sgd
+essentiality
+2g
+limitations
+sarah
+noise
+lenhard
+2c
+step
+greenbaum
+insets
+stage
+opin
+introduced
+suited
+presence
+communication
+fast-spiking
+nsf
+assess
+fishes
+`in-degree
+proportional
+cho
+dolores
+signifies
+generation
+feedforward
+chu
+bacteria
+repeated
+doi
+line
+applying
+robustness
+evolution 52
+domedel-puig
+todd
+al
+conserved
+bourgine
+biochemistry
+teichmann
+inter-connection
+life
+node
+apparent
+categories
+`out-degree
+replacement
+jones
+simon
+minutes
+paccanaro
+moved
+& barabasi
+jansen
+ostlund-nilsson
+848­858
+60­63
+2987­3003
+0
+14
+718
+455
+1997
+639­655
+44%
+36
+90%
+338
+82­489
+30%
+6
+95
+680­686
+1992
+1995
+1538­1542
+1998
+55%
+440­442
+1
+1439­1484
+4241­4257
+¼ 7
+¼ 4
+¼ 1
+25
+26
+27
+20
+22
+23
+28
+29
+9
+823
+7
+824­827
+65­73
+21
+24
+2
+598­608
+227­231
+11
+10
+13
+12
+15
+17
+16
+19
+18
+866
+# 10%
+697­708
+1234­1244
+¨ 27
+3017­3033
+101­113
+8
+651­654
+5 £ 1023
+492­496
+763­764
+3
+360
+1378­1381
+10%
+2002
+395­404
+78%
+699­705
+61
+534­539
+20%
+4
+328­337
+799­804
+32
+30
+714­717
+64­68
+1803­1810
+35%
+739­750
+268
+31
+51
+&
+79­87
+$ 90%
+1024
+1023
+2003
+153­159
+5
+477
+2000
+2001
+476
+2004

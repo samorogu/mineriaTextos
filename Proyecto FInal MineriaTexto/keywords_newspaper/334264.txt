@@ -1,0 +1,13 @@
+ccsbhi1
+network
+yeast
+interactions
+proteins
+supplementary
+master
+human
+334264txt
+samorogu
+protein
+data
+lci

@@ -1,0 +1,340 @@
+expresPNAS
+selection
+technology platform
+published analysis
+intensity
+olfactory
+Abbreviations
+accession
+valuable
+protein-encoding transcriptome
+Follettie
+Kerlavage
+proximal
+Richardson
+correlated expression
+Analogous
+abundant
+transcript prediction
+availability
+previous
+completion
+visualization
+additional mammalian
+knowledge
+imprinted expression
+Allele-specific
+physiological
+region-specific
+biological annotation
+predictor strength
+Kasukawa
+Yevtodiyenko
+potential
+tissue-specific
+Although
+Berkeley
+transcript expression
+extensive
+structural
+typespecific
+indicating
+hybridization
+Building
+chromatin
+homozygous
+Somewhat
+Reisdorph
+Nevertheless
+Hinrichs
+tissuespecific expression
+umbilical
+inclusion
+framework
+six-frame translated
+Walkersville
+High-throughput
+nucleolar
+transcriptome
+upstream
+sequencing
+Clontech
+Validation
+uncharacterized protein-encoding
+conserved
+expression analysis
+Stamatoyannopoulos
+neurological
+LPPM429
+preliminary description
+Previously
+colocalization
+ascertaining
+microdissection
+downstream neighbors
+REPEATMASKER
+higher-order transcriptional
+differing
+alignment similarity
+nonobservation
+embryonic
+Clifford
+predictive
+protein-coding
+translated nucleotide-to-nucleotide
+FitzHugh
+sequence
+Biotechnology Information
+consistent
+Currently
+well-characterized imprinted
+searching
+consensus predictions
+detection
+imprinted transcripts
+higher-order
+imprinting
+High-density oligonucleotide
+site-specific chromatin
+examining transcript
+Wiltshire
+RIKEN-derived
+reconfirm
+specific
+pancreatitis-associated
+Ensemblonly
+capacity
+Ferguson-Smith
+Pittsfield
+Caenorhabditis
+subsequent
+probe-level analysis
+interference
+integration
+expressed
+significant expression
+pancreas-specific
+coregulation
+identification
+respective
+Mittmann
+progress
+umbilical cordenriched
+hogenesch
+discovery
+available
+chromosomal organization
+musculus
+reasonable predictor
+Schonbach
+transcriptional regulation
+detectable expression
+respectively
+University
+dissection
+single-linkage clustering
+understanding
+Hartzell
+imprinted regulation
+extensive compendium
+sequence conservation
+Classical reassociation
+Altschul
+locus-dependent
+annotation information
+regulatory
+machinery
+nucleotide-to-nucleotide alignment
+manufacturer
+prediction algorithm
+comparison
+Tilghman
+Computational
+GENETICS
+Prompted
+Haussler
+technical
+determining
+Grimmond
+Clonetics BioWhittaker
+interrogate
+Cavaille
+etiology
+TBLASTX
+normalized expression
+Imprinting
+Microarray analysis
+uncharted
+Celera-only
+published
+Invitrogen
+Mechanistically
+expression
+predictor
+Carlsbad
+Hogenesch
+§Department
+characterization
+Oxfordshire
+Discussion
+analysis approach
+singleton predictions
+DCAMKL1
+Approximately
+Bioanalyzer
+Microarray
+appropriate
+Identification
+preparation
+Biotechnology
+allele-specific expression
+Hoffmann
+Youngson
+pancreas-enriched expression
+pathophysiological
+manuscript
+confidence
+Wisconsin
+additional
+functional annotation
+distinct
+Miraglia
+normalization procedure
+predictions
+conservation
+California
+structure
+Bioinformatics
+prefrontal
+percentage
+molecular
+Domrachev
+possible
+represent correlation
+Chatsworth
+repetitive
+nonredundant
+Deveraux
+Schaffer
+Affymetrix
+validity
+prediction
+Consensus
+Dimitrov
+Cambridge
+determination
+normalized
+particular
+Research Institute
+protein-related
+translation
+sequence similarity
+Expression
+analogous
+population
+miniprep
+Mayberry
+expression characteristic
+bronchial epithelial
+augmentation
+algorithm
+reciprocal
+neurobeachin
+conserved expression
+characteristic
+challenge
+Research Foundation
+Aza-Blanc
+mammalian
+correlated transcription
+individual
+transcript predictions
+historical
+computational prediction
+autocorrelation
+transcripts
+significant sequence
+correspondence
+Interpro
+Hogenesch*§¶
+Sotomaru
+Furthermore
+doublecortinand calmodulin
+available HG-U133A
+calmodulin kinase-like
+discrepancy
+evidence
+Conclusion
+download
+Randomization
+islet-derived
+alignment algorithm
+comparative
+corresponding
+genome-scale
+chromosome
+dissimilar
+information
+different
+strength
+Christian
+Bartolomei
+correlation coefficient
+experimental validation
+tissue-specific expression
+incomplete transcript
+cordenriched expression
+methodology
+Individual
+protein-encoding
+adjacent
+significance
+AllCells
+genome-wide
+individual transcript
+conclusion
+community
+independent
+February
+literature
+multiple
+C130007E11Rik
+Institute
+Felsenfeld
+12-week-old
+fertilized
+Neuropharmacology
+tractability
+Moskaluk
+important
+Bachellerie
+ortholog
+significant
+quantitative
+Biological
+Spellman
+opportunity
+fabrication
+Massachusetts Institute
+homology
+Celera-only predictions
+false-negative
+Abingdon
+observation
+overexpression
+Drosophila
+Sapinoso
+Technology
+Consistent
+transcripts expressed
+Lockhart
+correspond
+Schoenherr
+high-throughput
+expression information
+distinctive
+custom-designed whole-genome
+indicative
+duplication
+Thorvaldsen
+Kobayashi

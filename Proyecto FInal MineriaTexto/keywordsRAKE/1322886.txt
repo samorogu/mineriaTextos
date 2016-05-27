@@ -1,0 +1,1440 @@
+cdiac 450ppm stabilization 650ppm stabilization a1fi a1b a1t a2 b1 b2
+eia 450ppm stabilization 650ppm stabilization a1fi a1b a1t a2 b1 b2
+
+[6]
+82 19 84 19 86 19 88 19 90 19 92 19 94 19 96 19 98 20 00 20 02 20 04
+
+19
+
+19
+
+80
+
+100% 80% 60%
+
+d3 d2
+
+india
+
+40%
+china
+
+20% 0% cumul flux growth pop
+
+fsu japan eu usa
+
+d1
+
+fig
+-1
+
+d3 d2 india china fsu d1 japan eu usa
+
+fig
+energy scenarios fossil fuels kaya identity emissions
+
+concerted action
+eu japan d1 fsu china india d2 d3 world 1
+alternative technologies largely replace fossil fuels
+fossil-fuel-intensive ipcc scenarios underestimated actual emissions growth
+urgent challenge requiring globally
+10288 ­10293 pnas june 12
+/gp
+
+d1
+
+fsu
+
+china
+
+india
+
+d2
+
+d3
+
+0
+cdiac countrylevel data yield total emissions
+per-capita primary energy consumption ei/pi giei
+laboratorie des sciences du climat
+norwich nr4 7tj united kingdom
+stabilization trajectories describing emissions pathways
+united nations statistics division classifications
+continental scale greenhouse gas balance
+cdiac country-level data omit fbunkers
+total primary energy additionally includes
+regional per-capita emissions fi/pi gihi
+total cumulative anthropogenic co2 emission
+eia country-level data omit fcement
+australian climate change science program
+total anthropogenic co2 emissions remaining
+dominant anthropogenic forcing flux
+carbon dioxide information analysis center
+0
+
+usa
+
+eu
+
+japan
+van der linden pj
+factors influencing global co2 emissions
+united nations statistics division
+gaseous radiative forcing responsible
+[2]
+
+tmospheric co2 presently contributes 63%
+major anthropogenic forcing fluxes
+united nations framework convention
+lowercase symbols distinguish extensive
+strong global fossil-fuel emissions growth
+current global emission flux
+pnas open access option
+global co2 emission flux
+observed global co2 emissions including
+pgp epf pgp hp
+resource-based economic activities led
+energy carbon dioxide information
+per-capita primary energy consumption
+energy energy information administration
+long atmospheric residence time
+cdiac global total includes
+climate change emissions scenarios developed
+global atmospheric co2 concentration
+cdiac global total emissions
+regional cumulative emissions ci
+global primary energy consumption
+oak ridge national laboratory
+weighted proportional growth rate
+field
+*global carbon project
+global cumulative fossil-fuel emission
+hm emf declined slightly
+global emissions oc-
+
+1995
+
+2000
+
+2005
+
+2010
+
+fig
+earth system science partnership
+commercial energy supply mix
+global average per-capita emissions
+global emissions growth rate
+1 compares observed global emissions
+higher global growth rate
+global emission flux
+slightly increasing recent trends
+methods annual time series
+accelerating co2 emissions
+´ ´ michael
+current emissions scenarios
+cdiac global total
+cdiac country-level emissions
+primary energy consumption
+ipcc emissions scenarios
+annual growth rate
+global cumulative emission
+91191 gif sur yvette
+geophys res atmos 101
+proportional growth rate
+ipcc special report
+supporting information online
+annual time-series data
+global carbon project
+eia country-level emissions
+region d2 includes
+regional intensities gi gi/pi
+progressively faster rate
+market exchange rate
+proportional growth rates
+cdiac emissions estimates
+cdiac actual emissions
+anthropogenic climate change
+purchasing power parity
+eds field cb
+strong economic growth
+cdiac data set
+cdiac data suggest
+2 superimposes time series
+pre-1980 cumulative emissions
+applied systems analysis
+co2/energy/ gnp analysis
+market exchange rates
+roughly equal rates
+gm [supporting information
+growth rate increasing
+distribution varied strongly
+international monetary fund
+discussion co2 emissions
+present economic status
+balanced energy supply
+global cumulative emissions
+cumulative global emissions
+cdiac data sets
+usa
+
+www
+global emissions growth
+emissions growth rate [
+regional emissions growth
+emissions growth rate
+gas fuels contributed
+recent growth rate
+regional kaya identities
+fossil-fuel co2 emissions
+org cgi doi 10
+revealed small discrepancies
+recent rapid growth
+global carbon cycle
+global ´ ´ carbon cycle
+energy data set
+slightly increasing trends
+gross domestic product
+stabilization trajectories
+economic growth rate
+emissions data subsequent
+per-capita global gdp
+atmospheric co2 budget
+corinne le quere¶
+pnas direct submission
+spline fits approximating
+rf rp rp
+british antarctic survey
+high energy requirement
+improve energy efficiency
+emission flux
+emissions data sets
+high growth rates
+eds houghton jt
+world economic outlook
+stabilization target
+strong technological improvements
+results
+global emissions
+experiencing intensive development
+small difference arises
+per-capita world gdp
+a1t
+b1
+b2
+a1b
+a2
+energy consumption ei
+co2 flux
+actual emissions trajectory
+fossil fuel combustion
+gross world product
+long-term decreasing trends
+data sets include
+earlier declining trends
+dark blue line
+rapidly growing share
+united kingdom
+dominant factor accounting
+global carbon intensity
+compensating faster decrease
+industrial research organisation
+eia emissions data
+long-term global equity
+larger emissions decline
+cambridge univ press
+market based economy
+a1fi scenario
+earlier declining trend
+rapidly developing economies
+give similar results
+trends reflect differences
+quantities vary greatly
+economy carbon intensity
+light blue lines
+ipcc scenarios
+gi rose rapidly
+larger long-term rate
+developed regions contributed
+total emissions
+group d1
+fossil fuels
+emissions scenarios
+pi gi ei fi
+taking gm gp
+primary energy
+gaseous fuels
+global emission
+energy
+
+consumption
+energy consumption
+regions d1
+fsu provinces
+oak ridge
+global cdiac
+global scale
+stabilization
+field cb
+include fbunkers
+regional scale
+growth rate
+fsu region
+rapid growth
+cdiac data
+strong trends
+atmospheric co2
+observed emissions
+cumulative emissions
+[4]
+
+actual emissions
+actual emissions
+analysis center
+d3 region
+emissions growth
+growth rates
+d3 regions
+30 25 20 15 10 5 0 1850 10 co2 emissions
+[3]
+co2 emissions
+8000 7000 6000 5000 4000 3000 2000 1000 0
+
+co2 emissions
+co2 emissions
+energy supply
+global emissions
+global emissions [
+economic growth
+carbon cycle
+regional emissions
+fossil-fuel emissions
+global budget
+growing rapidly
+per-capita gdp
+data sets
+regional distribution
+include slightly
+kaya identity
+kaya identity§§
+a1fi
+earth system
+global equity
+primary source
+// cdiac
+unlike china
+fi/gi ei fi
+pnas
+
+june 12
+observed magnitudes
+pnas june 12
+dark blue
+fossil-fuel combustion
+recently observed
+energy-intensive activities
+spline fits
+le quere
+houghton jt
+includes contributions
+light blue
+energy efficiency
+atmospheric research
+slow growth
+fossil-fuel intensive
+global average
+emissions trajectories
+co2 reduction
+eds dolman
+global responses
+global averages
+global ecology
+increasing globalization
+increasing exports
+national emissions
+energy intensity
+eia data
+regional level
+fossil-fuel burning
+regional contributions
+predicted rate
+emission fi
+environment sciences
+power plants
+world economy
+energy pol 33
+carbon intensity
+kaya factors
+vary intensity
+rising emissions
+future emissions
+emissions pathway
+estimated emissions
+predicted emissions
+ei weighted
+fuels made
+ei declined
+individual nations
+cluster nations
+european nations
+pre-2000 rates
+regionalized analysis
+japan
+carbon ei/gi
+world average
+developing nations
+aggregated data
+unpublished data
+developed nations
+regional drivers
+integrated system
+regionalized development
+discrepancy arises
+black line
+international institute
+climate change
+climate change 2001
+exceeded growth
+d1
+increased slightly
+economic activity
+economic profiles
+natural world
+small share
+leastdeveloped economies
+gdp growth
+global gp
+developing economies
+emissions measures
+higher prices
+emissions decreased
+9 8 7 6 5 1990
+sustainability science
+include uncertainty
+performed research
+technological drivers
+designed research
+24
+
+10293
+
+sustainability science
+national-level combustion
+24
+
+10291
+
+sustainability science
+earlier declines
+lithua¶¶eia
+intensive variables
+eu
+national academy
+pro-rata share
+small factories
+intensive dependence
+national inventories
+future climate
+data source
+data sources
+d2
+economic measures
+income growth
+driving factors
+industrial processes
+industrial era
+industrial revolution
+global population
+similar trends
+time integral
+units [time] 1
+time scales
+analyzed data
+butler jh
+slight weakening
+case studies
+dollar amounts
+baldocchi dd
+dlugokencky ej
+stocker tf
+hu xl
+relative contributions
+plattner gk
+elkins jw
+environmental stewardship
+kheshgi hs
+steele lp
+kyoto protocol
+unfolding reality
+lewis js
+sharp acceleration
+ecol econ 25
+43
+
+hpi fi/gpi
+ca 94305 edited
+granger morgan
+brewer pg
+important indicators
+india
+east anglia
+authors declare
+richey jd
+sinton je
+stronger reliance
+bakker dce
+highest-emission scenario
+jacxobson mz
+widely perceived
+cb3 oet
+identified separately
+energie atomique
+peter briggs
+hansen je
+highly desirable
+wigley tml
+progressive decoupling
+rothman ds
+early 2000s
+temporal perspectives
+pro-rata shares
+// unstats
+tellus ser
+scientific basis
+francey rj
+nonfuel hydrocarbons
+physical movement
+author contributions
+jain ak
+sarmiento jl
+generate electricity
+review january 23
+upper edge
+montzka sa
+org/external/pubs/ft/weo/2006/02/data/ download
+vice versa
+hoffert mi
+griggs dj
+johnson ca
+intergovernmental panel
+european union
+``international bunkers
+xu dy
+air transport
+morgan vi
+criswell dr
+significant factor
+lackner ks
+langenfelds rl
+philippe ciais§
+scenario lead
+broad portfolio
+integrating humans
+jung ty
+scenario families
+79
+
+epi ei/gpi
+si fig
+undergoing revisions
+edmonds ja
+significant slowdown
+prinn rg
+barnola jm
+sabine cl
+main issue
+**kiel institute
+rotty rm
+approved april 17
+pgmemf pgmhm
+nabuurs g-
+economically oriented
+hofmann dj
+streets dg
+gov/trends/emis/tre coun
+wealth disparities
+net effect
+soviet union
+d- 24105 kiel
+commonwealth scientific
+interregion range
+ocean sinks
+recognized event
+carnegie institution
+chen c-ta
+org/cgi/content/full/ 0700609104/dci
+zhang xq
+equivalent plots
+ecological grounds
+jiang kj
+sinks relative
+etheridge dm
+gernot klepper**
+half remains
+fsu
+burden sharing
+declining ei
+recent period 2000­2005
+d3
+recent years
+least-developed economies
+total
+si text
+world gdp
+leastdeveloped countries
+countries issuing
+excluding countries
+diagnose drivers
+developing countries
+rates
+table 1
+developed countries
+mid-18th century
+country shares
+gm = gm/
+country level
+calculate intensities
+coming century
+gm gm/
+continuous decreases
+public sources¶¶
+counterparts gm
+gm continued
+enormous differences
+late 1990s
+greater share
+ei ei/gi
+ei significantly
+gp gp/
+gp = gp/
+robertson gp
+noncontiguous regions
+regions comprise
+regions spanning
+long-term increases
+developing regions
+cement production
+stern review
+1990 remained allocated
+human governance
+fractional contribution
+richels rg
+16
+
+ei/pi
+harvard university
+gtc y-1
+de vries
+emphasize globalized
+gregg marland
+raupach@csiro
+developed regions
+51
+
+fi
+
+fi/ei
+fi fi/ei
+historic fi
+period 1990­1999 inclusive
+post-2000 increases
+continuing increases
+normalized factors
+pgef pgh
+ppp forms
+765
+
+gpi gpi/pi
+inferred gpi
+canadell jg
+incomes started
+normalizing gpi
+land clearing
+raupach mr
+5 year smoothed
+airborne fraction
+population basis
+decreased slowly
+gdp gi
+mitigation measures
+defined similarly
+substantial increase
+postulated decreases
+gi large
+cdiac
+china
+pi slowly
+ei fi
+increased slowly
+sources shows
+contribution iv
+fcement
+remaining
+6
+
+fi/pi
+includes
+growth
+times greater
+fi increased
+co2
+ipcc
+ppp definition
+global
+population pi
+rate
+sciences
+energy
+emissions
+nations
+recent
+analysis
+carbon
+data
+michael
+press
+gi/pi
+fluxes
+kaya
+5 compares
+extensive
+accelerating
+economic
+world
+declining
+trends
+results
+including
+high
+trajectories
+higher
+change
+science 298
+economy
+science 294
+science 284
+eia
+small
+national
+gas
+20%
+gas
+org
+climate
+long-term
+product
+factors
+average
+fig
+8
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005 1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+fig
+5 1980 1985 1990 1995 2000
+
+1980 1985 1990 1995 2000
+
+1980 1985 1990 1995 2000 2005
+
+fig
+time
+/gp
+
+1
+trend
+commercial
+survey
+fi/gi
+improvements
+rf
+online
+based
+factor
+fuel
+rose
+trajectory
+1073 pnas
+pnas
+/gp
+``commercial
+accounting
+developing
+developed
+si
+gi
+mr
+countries
+similar
+measures
+methods
+cambridge
+drivers
+gm
+pgef
+country
+lines
+decreases
+decreased
+4 ­5% larger
+pgh
+intensities
+larger
+century
+sources
+source
+region
+hm
+slowly
+hp =
+hm =
+1990s
+hp
+differences
+ei
+gp
+regions
+least-developed
+stern
+governance
+definition
+postulated
+5 times
+richels
+gtc
+university
+declines
+0700609104
+
+raupach
+remained
+raupach
+de
+2000 exceeded
+contribution
+iv
+bunkers
+4%
+cement
+marland
+raupach*
+analyzed
+5 gtc
+globalized
+mitigation
+made
+fi
+2004
+fi
+1900
+
+1950
+
+2000
+
+2050
+
+2100
+
+fi
+pi
+376 pi
+gdp
+increased
+decrease
+greater
+period 2000­2004
+quantities
+period
+period 1980­2004
+increases
+large
+canadell*
+canadell
+years
+year 1990
+fraction
+shows
+gpi
+incomes
+5 years 2000­2004
+year
+ppp
+land
+1
+
+gpi
+population
+increase
+normalized
+defined
+income
+table 1
+10292 www
+0700609104
+
+www
+10290
+
+www
+www
+alternatives
+ceased
+assembled
+1 lower
+heimann
+terms
+removal
+esd
+rise
+account
+fall
+exact
+ref
+ge
+solid
+constant-price
+benford
+march 19
+nagata
+smaller
+htm
+prediction
+asp
+initialized
+maskell
+grubler
+sum
+expressed
+20 gc/mj
+expresses
+gh
+consisting
+emitters
+mtc/
+gigatonnes
+understanding
+mer
+observing
+reversals
+shift
+norway
+2005 points
+gov/emeu/international/energyconsumption
+2007
+
+vol
+social
+cessation
+nonfuelhc
+1%
+makes
+fnonfuelhc
+clark
+kw 10
+herzog
+addressed
+summation
+abbreviations
+coupled
+finally
+france
+hydro
+separated
+occurred
+berlin
+iii
+ma
+joos
+aspx
+work
+pp 225­239
+stated
+flaring
+280 ppm
+nature 379
+noguer
+mer-based
+sense
+linearized
+megajoule
+axis
+gcp
+varies
+tn 37831
+significance
+em =
+dc
+davis
+date
+representing 80%
+liquid
+coal
+christopher
+wind
+canberra
+demand
+paper
+weo
+imf
+pp 17­ 44
+writing
+orange
+decades
+correspondence
+pp 77­102
+9 gigatonnes
+§commissariat
+1700s
+/gm
+conflict
+fi/
+weight
+ef
+gc/mj 16
+undertake
+combining
+http
+eq
+ep
+shown
+upper-
+denoted
+rh
+plotting
+red
+driver
+members
+ppp-based
+span
+marine
+ej/
+df/dt]
+transition
+feasible
+counterpart
+person
+wrote
+parallel
+nia
+ding
+valentini
+clear
+omission
+energy/gdp
+introduction
+leading
+eqs
+achieved
+650 ppm
+observations
+tans
+$/
+matsuhashi
+purchase
+al
+biomass
+cmdl
+ornl
+appreciated
+collaboration
+preparation
+kaneko
+decarbonizing
+centuries
+distinguished
+1/
+projections
+pp 103­129
+alcamo
+1dx/dt
+close
+masarie
+collapse
+efficient
+dollars
+§§yamaji
+note
+green
+wells
+fenhann
+germany
+artaxo
+measured
+dai
+back-extrapolated
+2 kw
+fsolid
+35%
+considered
+steady
+accounted
+fact
+quantity
+perspective
+emerging
+show
+reductions
+implying
+superimposed
+decade
+laxenburg
+achieve
+multidecadal
+meant
+rest
+reversal
+closure
+switzerland
+result
+nuclear
+matsuoka
+kind
+written
+subscript
+europe
+extend
+oxidation
+marchal
+wu
+mtc
+article
+received
+org/unsd/snaama/selectionbasicfast
+gc/mj
+380 ppm
+act 2601
+context
+focused
+2007 vol
+2 left
+atmosphere
+due
+quickly
+workshop
+interest
+renewables
+shortages
+geothermal
+derivative
+sums
+environnement
+exception
+defining
+policies
+freely
+flare
+1%
+ii
+economics
+20 grams
+2 axis
+combination
+buitenhaus
+html
+figures
+start
+prerequisite
+breakdown
+driven
+ep =
+freibauer
+million 295 437 128 150 285 1
+josep
+2 ppm
+normalization
+¶school
+patterns
+mj/$ 12
+materials
+components
+comparisons
+left
+noaa
+identify
+variants
+gmi
+forming 80%
+demographic
+extends
+schmittner
+details
+identical
+gc/$ 217
+caldeira
+tc/
+slowed
+unique
+globalcarbonproject
+austria
+essp
+springer
+calculated
+strongest
+/
+e-mail
+latvia
+demonstrated
+unsd
+offset
+gaffin
+a1
+gov/gmd/ccgg/trends
+origins
+island
+shipping
+essential
+importantly
+gregory
+provisional
+em
+kram
+washington
+emissions/energy
+1 tc/
+support
+disaggregated
+1/10
+globe
+heat
+solar
+liquid
+36%
+land-
+observation
+evident
+stanford
+uk
+assistance
+constant
+estonia
+implications
+measure
+curred
+au
+doe
+gruber
+compared
+department
+` australia
+met
+351 gmi
+models
+envelope
+variation
+william
+included
+values
+required
+changed
+persistent
+governed
+equivalently
+nakicenovic
+6]
+50
+981­ 987
+95
+0
+43 1
+43 6
+240­243
+© 2007
+93 5
+087 2
+29 8
+76 1
+1980­2004
+27 0
+2000­2004
+28 0
+[
+2100
+3 488
+36
+>3%
+1996­2002
+4 70
+3%
+7 236
+375 37 7
+338
+5 2
+5 1
+11 2
+6
+293 1
+280 255 35
+8
+08 10
+1991
+1990
+1992
+1997
+1996
+1999
+99 16
+23%
+1
+0 146
+768 10
+1998
+47 2
+0
+
+0
+14 5
+24
+0 1
+2%
+81 16
+1751
+734 777 4
+45 18
+24 10289
+
+1
+8 57
+86 11
+283 726 1
+8%
+47 16
+95 15
+319­335
+7
+85 17
+69 3
+56 2
+27 1
+70 20
+518 2
+450
+01 0
+2
+617 1
+7 226
+1980 ­2004
+11
+10
+13
+12
+15
+4 37
+17
+479 4
+80 9
+2000­2005
+25
+614­619
+2
+
+1
+91 4
+7%
+8 21
+412 2
+623 2
+31 7
+2 423
+130 7
+96 3
+3
+119 344 578 696 1
+036 3
+2000 ­ 2004
+14
+41%
+44 1
+5 14
+16
+41 0
+78 17
+9 2
+36%
+0%
+1%
+2000 ­2004
+0 0
+464­467
+0700609104
+232­261
+86 2
+8 142
+553 1
+73%
+104
+453 7
+66 11
+4 200
+68 0
+4115­4128
+06 1
+423 5
+05 15
+9
+25 22
+23 17
+35%
+24 5
+5 195
+6 142
+1835­1837
+$
+89 14
+63 30
+4
+2 61
+06 4
+58
+77 16
+[1]
+6 80
+306 304 1
+1751­2004
+1751­2005
+99 4
+10 ­12
+177­194
+=
+10­12
+49 0
+1984
+1980
+]
+3 42
+044 609 36
+20%
+[5]
+48
+5
+020 656 6
+4%
+2007
+49 3
+1990 ­1999
+2002
+2000
+2001
+2006
+2004
+2005

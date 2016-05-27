@@ -1,0 +1,255 @@
+cellular
+producaTc
+Michelini
+Biochemistry
+Concentration scription
+fluctuations measurement
+variability
+computational
+cooperative
+Department
+root-mean-square
+Molecular
+fluorescent repressor
+networks
+feedback
+synthetic
+Supporting
+execution
+difference
+probability
+aperiodic fluctuations
+singlecell
+technique
+environment
+production
+developmental cell-fate
+Although
+expression fluctuations
+Scholars
+correspondence
+division
+downstream
+permission
+Nevertheless
+possible
+Analysis
+functional
+Regulator
+replication
+production Eaveraged
+dashed/dotted
+fundamental tradeoff
+background
+Concentrations
+cellcycle
+one-parameter
+effective biochemical
+fluorescence intensity
+Savageau
+substantial progress
+necessary
+exponential
+Phillips
+Intrinsic
+Washington
+extrinsic fluctuations
+integrated
+intervals
+standard deviation
+Bsymmetric
+anhydrotetracycline
+Networks
+Machleder
+effective single-cell
+biochemical parameters
+breakdown
+rffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+compensated
+oscillation
+dimerization
+tetracycline repressor
+consistent
+symmetric-branch
+detection
+individual
+AddisonWesley
+cycle­related
+operation
+Parameter
+bacteriophage
+stochastic variation
+intrinsic fluctuations
+unavoidable
+cycle­dependent
+repression
+extrinsic component
+experiment
+hypothetical production
+Davidson
+effective cooperativity
+consecutive
+induction
+Escherichia
+available
+supporting
+comparable
+SCIENCE
+University
+instantameasurement
+identical
+metabolic apparatus
+understanding
+autocorrelation
+eukaryotic
+normalizing production
+individual division
+biological
+stochasticity
+fluorescent
+Ben-Haim
+Shen-Orr
+Ptet-cIYFP
+logarithmic
+Itzkovitz
+Bl-cascade
+building synthetic
+daughter
+difficulty
+December
+cellular responses
+propagation
+Individual
+approach
+lysogeny
+Clifford
+expression
+extrinsic
+repressor
+melowitz
+gene-specific
+Copyright
+Burroughs Wellcome
+Extrinsic
+sharpness
+Advancement
+REPORTS
+aggregate
+addressed
+Therefore
+determine
+wild-type
+nonfluorescent
+respective standard
+Single-Cell
+Grossman
+Non-linear
+additional
+trajectory
+microenvironmental
+intracellular
+trademark
+reduction
+systems-level
+OR2*­l-cascade
+Downloaded
+regulation
+tintrinsic
+Repressor production
+molecule/cell
+additional variation
+molecular
+Physiology
+Association
+Alexander
+Koshland
+pffiffiffiffiffiffiffiffi
+noise-tolerant
+cell-cycle
+continuous
+environmental
+magnitude
+systematic
+Biochemical
+Repressor Concentration
+population
+Blackwell
+half-maximal expression
+partitioning
+Rosenfeld
+microcolony
+overexpression
+related-content
+characteristic
+substantial variation
+fluorescence time-lapse
+regulator
+experimental
+Engineering
+amplitude
+lognormal distribution
+following
+fluctuations
+distribution
+OR2-mutated
+Information
+individuality
+transcriptional
+Organisms
+Tet-regulated
+Frontiers
+l-cascade
+Regulation
+Production
+Weizmann Institute
+single-parameter
+steady-state distribution
+concentration
+Oudenaarden
+Feliciano
+stochastic fluctuations
+Measuring
+information
+different
+Fluorescence
+calibration
+transcription
+comparing expression
+time-lapse microscopy
+averaging individual
+Variation
+cellular components
+Promenade
+dependent
+schematic
+Cambridge
+single-valued
+Propagation
+accuracy
+deviation
+February
+Accurately predicting
+symmetric
+quantitative characterization
+variation
+cellular autofluorescence
+tetracycline
+HighWire
+Technology
+significant cooperativity
+repressor concentration
+intrinsic
+Massachusetts Institute
+faithful
+Paulsson
+observation
+nonlinearity
+accumulate
+high-resolution
+analysis
+Bregulator
+fundamental
+correlation
+Ptet-cIYFPY66F
+quantitative
+resolution

@@ -1,0 +1,13 @@
+network
+factors
+transcription
+genes
+interactions
+cell
+active
+master
+272txt
+factor
+regulatory
+samorogu
+conditions

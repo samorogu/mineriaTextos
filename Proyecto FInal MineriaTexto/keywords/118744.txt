@@ -1,0 +1,248 @@
+represent
+sequence alignment
+interpretation
+non-coding
+Research
+`correct
+Evolutionary distance
+computation
+ribosomal
+Department
+alternative
+Biopolymers
+inside­outside algorithm
+alignment
+European
+homology
+knowledge
+acknowledge
+structure predictions
+interesting
+DISCUSSION
+pseudoknot
+improvement
+estimating
+treatment
+Computer prediction
+extensive
+Statistical alignment
+pairwise distance
+likelihood alignment
+Partially
+Building
+Evolution
+Unfortunately
+stochastic context-free
+returning
+reconstructing phylogenetic
+possible
+Mammalian
+Algorithms
+Pieczenik
+Automatic detection
+comparative sequence
+structural
+Accuracy
+evolution
+positions
+covariance information
+Gorodkin
+specific
+predicted
+pyrimidine
+alignments
+essential
+GCA-tRNA sequences
+deletions
+individual structure
+Statistics
+illustrating
+Klebsiella pneumoniae
+sequence
+Jukes­Cantor distances
+sensitivity
+Gainesville
+structure prediction
+RESULTS
+Pathogen Research
+individual
+bacterial
+nonstandard
+Jukes-Cantor
+detection
+web-based
+disallowing
+controlled prediction
+base-pairs
+INTRODUCTION
+Compilation
+Felsenstein
+increase
+Winkelmans
+evolutionary distance
+MATERIAL Supplementary
+Accepted
+evaluation
+available
+prediction accuracy
+evolving
+Sometimes
+covariation information
+Secondary structure
+database
+University
+predicting
+analysed
+Carlsberg Foundation
+standard
+secondary structures
+eukaryotic
+structural sequence
+biological
+consideration
+beginning
+posterior probability
+Imagining
+parentheses
+SUPPLEMENTARY MATERIAL
+ClustalW alignments
+National
+sequence dependence
+algorithm described
+practical
+implementation
+ribonuclease
+Reliabilities
+estimation
+experimental
+structural prediction
+computational
+Andersen
+inclusion
+Probabilities
+overview
+different structure
+Pedersen
+efficient structure
+European database
+probability distribution
+appropriate
+extended nucleotide
+sequences
+Hofacker
+Jukes­Cantor
+algorithmical
+accuracy increases
+equilibrium partition
+computer
+METHODS
+introduction
+removing
+Sequence Analysis
+Academic
+Noncoding
+obtainable
+reduction
+1Department
+hypothetical
+percentage
+Nussinov
+Furthermore
+function
+Samuelsson
+specific sequence
+Positions
+immediate
+context-free grammars
+neighbour
+evolutionary information
+posterior
+CLUSTAL
+Steinberg
+likelihood approach
+phylogenetic analysis
+auxiliary
+distance
+Probabilistic
+accordance
+predicted structure
+avoiding
+reliable
+resemble
+analysed together
+biological sequence
+ConStruct
+progressive multiple
+Supplementary
+Rosenblad
+frequency
+realistic scenario
+evaluating
+Combining
+identical
+situation
+nucleotides
+Received February
+unpaired
+statistical alignment
+correspondence
+Different
+evolutionary distances
+stacking
+ABSTRACT
+phylogenetic
+Cambridge University
+Guldbergsgade
+reliability
+something
+previous algorithm
+Thompson
+relevant information
+ACKNOWLEDGEMENTS
+biological sequences
+conserved structures
+multiple sequences
+information
+different
+Stiegler
+Christian
+advantage
+pairwise distances
+Ioudovitch
+McCaskill
+answering
+Biological Sequence
+Appendix
+performance
+multiple sequence
+partition function
+difficult
+multiple
+Prediction accuracy
+thermodynamic
+correlation
+Robustness
+prohibitive
+previous knowledge
+extending
+important
+nucleotide alphabet
+base-stacking
+significant
+included
+probabilistic
+neighbor-joining
+conserved secondary
+Expanded sequence
+ambiguous
+Kleitman
+ClustalW alignment
+secondary structure
+different alignment
+explicit evolutionary
+original
+Examples
+Mitchison
+parenthesis
+base-pair
+Bioinformatics Research

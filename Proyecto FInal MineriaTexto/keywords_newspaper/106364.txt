@@ -1,0 +1,13 @@
+mirna
+motif
+motifs
+genes
+mirnas
+106364txt
+conserved
+conservation
+master
+genome
+human
+known
+samorogu

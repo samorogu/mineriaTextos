@@ -1,0 +1,1811 @@
+evolutionary trace method defines binding surfaces common
+folded ww proteins include good chemical shift dispersion
+physically connected networks linking distant functional sites
+two-dimensional 15n/1h heteronuclear single quantum correlation
+direct packing interactions show coevolution scores close
+ww domains defines key specificity determinants
+curved three-stranded antiparallel b-sheet structure characteristic
+cc45 display unusual proton chemical shifts based
+simple statistical energy function capturing coevolution
+two-dimensional double-quantum filtered correlation spectroscopy
+evolutionary
+
+1 howard hughes medical institute
+multidimensional spectral processing system based
+isolated threestranded antiparallel b-sheet domain
+artificial proteins show thermodynamic stabilities similar
+75 ml bed volume niþ-nta
+figure 3c shows thermal denaturation profiles
+typical inter-strand nuclear overhauser effects
+artificial ww domains
+ww library identity
+pymol molecular graphics system khttp
+stick bonds illustrate packing interactions
+515
+
+© 2005 nature publishing group
+
+articles
+
+nature
+513
+
+© 2005 nature publishing group
+
+articles
+
+nature
+© 2005 nature publishing group
+
+517
+
+articles
+
+nature
+artificial protein shows excellent agreement
+independently folding protein interaction modules
+howard hughes medical institute
+native state involves efficient packing
+curved threestranded b-sheet configuration
+ten lowest energy structures determined
+two-dimensional homonuclear noesy spectra recorded
+artificial sequences show thermodynamic parameters
+niþ-nta affinity chromatography
+monte-carlo-based simulated annealing protocol
+600 mhz varian inova spectrometers
+computationally creating artificial protein sequences
+sds­polyacrylamide gel electrophoresis
+nuclear overhauser effect spectroscopy
+designed sequences figure 2a shows
+texas southwestern medical center
+mutation-based free energy measurements
+modeling anisotropic thermal diffusion
+fundamental question remains unknown
+indole nitrogen protons down-field
+dna-oligonucleotide-based gene synthesis protocol
+mallinckrodt foundation scholar award
+producing randomly chosen ww domains
+© 2005 nature publishing group
+
+nature
+512
+
+© 2005 nature publishing group
+
+nature
+nedd4 ww domain-enac peptide complex
+cc sequences show similar divergence
+1038/nature03991
+
+articles
+evolutionary information
+artificial ww domain sequences shows
+tertiary structure motifs common
+sites showing similar conservation scores
+cc45 chemical shift assignments
+global free energy minimum
+redundant strong constraints linking
+local regions show energetic coupling
+residues mediate allosteric communication
+show thermal denaturation profiles
+experimentally facile model system
+monte-carlo simulated annealing algorithm
+final ww domain concentration
+randomly drawing amino acids
+distinct energylike statistical parameter
+intramolecular signalling pathways revealed
+randomly selecting amino acids
+studies involving directed mutagenesis 12­14
+genes encoding artificial sequences
+simply select amino acids
+100 mm sodium phosphate buffer
+globin amino acid sequences
+computationally build artificial members
+highly ordered regions mixed
+1h-15n hsqc experiments optimized
+amino acid pairs essential
+pursued in-depth structural analysis
+author information atomic coordinates
+protein fold
+michael socolich1
+natural ww domains show
+statistical energy function contained
+518
+
+© 2005 nature publishing group
+progressive multiple sequence alignment
+diverse multiple sequence alignment
+back-translating designed protein sequences
+disordered thermal unfolded state
+amino acid frequency distributions
+protein backbone angle restraints
+600 mm unlabelled protein samples
+closest natural ww domain
+cc ww sequences show
+protein database search programs
+higher average sequence conservation
+including three-dimensional 15n-edited tocsy
+1 mm protein sample made
+protein data bank 1i5h
+sites showing b-sheet structure
+distinct chemical shifts
+thermodynamic parameters typical
+methods
+statistical coupling analysis
+unusual shifts arise
+folded natural ww domains
+up-field chemical shifts
+distinct chemical environments--
+22 september 2005
+
+articles
+
+sequences tested
+free energy contribution
+cc sequences include
+average spatial correlation
+thermal denaturation profiles
+backbone chemical shifts48
+randomly selecting residues
+final refinement stage
+artificial ww domains
+thermodynamic properties similar
+artificial ww domain
+evolutionarily conserved pathways
+free amino acids9
+recent studies show
+2
+classical studies show
+dihedral angle restraints
+amino acid covariance
+literature study15 implicate
+2001 woods hole physiology
+position-specific gap penalties
+lanes represent pellet
+3-9-19 watergate sequence43
+allosteric ligand activation
+vector nti suite
+accession code 1ymz
+release date october 2000
+determined rigorous criteria
+22 september 2005
+
+articles
+
+correlations
+competing financial interests
+independent biophysical assays
+sidechain methyl protons26
+show similar `top-hit
+similar backbone folds
+creating sequences suggests
+building artificial sequences
+nucleic acids res
+distant sites linked
+amino acid distributions
+artificial ww sequences
+backbone dihedral angles
+backbone amide protons
+generously allowed regions
+additionally allowed regions
+show strong evidence
+ic sequences showed evidence
+amino acid interactions
+scale bar shows
+reversible thermal transitions
+conserved functional coupling
+three-dimensional 15n-edited noesy
+15 ml binding buffer
+3 ml binding buffer
+canonical proline-binding pocket
+total correlated spectroscopy
+reversible thermal denaturation
+generates mutant domains
+centrally located tryptophan
+amino acid identity
+conserved statistical correlations
+sparsely coupled architectures
+amino acid residues
+sca conservation scores
+comparative statistical properties
+extra constraints arising
+pie chart showing
+statistical coevolution analysis
+thermal denaturation studies
+chemical shift
+site independently based
+evolutionarily conserved networks
+authors contributed equally
+figure 4b compares
+overlapping dna oligonucleotides
+permit hydrophobic collapse
+allosteric crib-pdz transition
+structured hydrophobic cluster
+figure 4a summarizes
+amino acid sequence
+amino acid couplings
+dihedral angle analysis
+showing backbone traces
+evaluating ww sequences
+natural ww domains
+natural ° ww domains
+proline side chains
+space-filling side chains
+aromatic side chains
+par-6 pdz domain
+observed frequency distributions
+hydrogen bond restraints
+protein data bank
+sca coevolution score
+ww domain sequences
+cc sequences show 66
+unique tertiary packing
+10 mm free tryptophan
+shows similar data
+sca-based design recapitulates
+small magnitude nonadditivity
+double mutant cycles
+higher-order packing interactions
+statistical couplings
+
+observed
+coupled residues existing
+amino acid substitutions
+amino acid positions
+amino acid composition
+natively folded small proteins
+thermal denaturation experiments
+thermal denaturation assay
+statistical information encoded
+random sequences show
+provide independent support
+positions mutually coevolves
+5 min equilibration periods
+peltier temperature controller
+retain full sensitivity
+marginally stable folds
+coli codon optimization
+conclusions classical studies
+phis8-3 expression vector
+produced insoluble aggregates
+polymerase chain reaction
+multiple sequence alignments
+representative ww domain
+weight matrix choice
+sites simply expose
+energetic effect due
+supplementary methods section
+protein families reveals
+natural ww sequences
+42 natural ww sequences
+three-dimensional hnha spectrum
+ww sequences drawn
+guanine nucleotide-binding proteins
+add experimental support
+ww domain family
+2 ml elution buffer
+multiple sequence alignment
+backbone ca atoms
+sca-based protein design
+uniformly 15n-labelled cc45
+secondary structure diagram
+sds­page analysis
+observed frequency distribution
+statistical coupling analysis
+algorithm produces alignments
+statistical coupling information
+fewer important constraints
+coupling constants measured
+selected residues discussed
+kolmogorov­smirnov test
+gradient-tailored water suppression
+natural ww alignment
+pin1 trp-trp domain
+canonical ww fold
+dictates native folding
+cc sequences shows
+protein design algorithms
+moderately conserved positions
+ww domain msa
+unusual shifts
+folded ww sequences
+figure 1c shows
+intrinsic temperature dependence
+statistical coupling values
+provide compensatory mutations
+chemical shifts
+one-dimensional 1h-nmr spectra
+natural ww proteins
+free energy
+macromolecular structure determination
+tertiary structure information
+heterogeneous energetic architectures
+vast potential complexity
+artificial proteins adopt
+natural ww msa
+protein folding problem
+solution nmr methods
+solution structure determination
+random sequences suggests
+canonical trp residues
+two-dimensional tocsy
+strongly coevolving residues
+cc model sequences
+total sequence information
+° spatially local sites
+residue interactions suggested
+libraries contained sequences
+protein nmr data
+coupled conservation model
+denaturation profiles
+calculated sequence identities
+ic model sequences
+core sequence identity
+understanding protein folding
+protein structures solved
+1h nmr study
+nmr structure determination
+siteindependent conservation model
+site-independent conservation model
+free-energy surfaces
+massive perturbation experiment
+thermodynamic parameters
+12 folded cc sequences
+1 h-nmr spectra consistent
+termed coupled conservation
+melting temperatures derived
+evolutionary conservation
+cc sequences fall
+hoff enthalpy vh
+collected 1h-nmr spectra
+amino acid
+thermodynamic coupling
+thermal denaturation
+good estimate
+characteristic features
+22 september 2005
+
+articles
+ww domains
+artificial sequences
+amino acids
+data show
+statistical parameter
+sequence divergence
+single mutations
+soluble ic sequence
+sca-based parameters
+ww domain
+allosteric determinants
+drawn randomly
+randomly drawn
+19
+
+* drawn randomly
+intramolecular signalling
+strong support
+highly ordered
+packing interactions 12­15
+packing interactions
+artificial alignment
+statistical properties
+lowest energies
+hydrophobic effect
+stick representation
+statistical coupling
+ww protein
+natural domains
+147 ww
+
+figure 2
+nmr spectroscopy
+ww sequences
+model system
+850 mm sample
+side chains
+affinity resin
+vary independently
+close proximity
+good solubility
+pdz domain
+statistical couplings
+molecular dynamics
+artificial proteins
+evolution-based method
+method postulates
+average
+
+figure 3
+multiple attempts
+mutant cycles
+reversible transition
+cc domains
+expression system
+software ¨ system
+designed sequences
+protein chains
+energetic interactions
+nmr system
+protein function
+ww alignment
+local interactions
+texas 75390-9050
+complex networks
+welch foundation
+fundamental tenet
+functional importance
+monte-carlo simulation
+synthetic genes
+three-dimensional structure
+functional cooperativity
+mutational effects
+structural determinants
+mutation-induced effects
+amino acids--processes
+places protons
+closest counterpart
+simply reflects
+sca method
+intrinsic interactions
+protein sequences
+tertiary structure
+ww domain40
+elution buffer
+observed distribution
+nature struct
+denaturation curves
+packing densities
+statistical perturbations
+statistical energy12
+mutations made
+backbone amides
+natural sequences
+sequences
+
+natural*
+1 mm protein
+disfavoured regions
+favoured regions
+protein families
+distributed nature
+frequency distribution
+native state
+coevolving residues
+50 ml culture
+total constraints
+61% top-hit identity
+evolution shows
+additional restraints
+thermal melts
+ten structures
+ww proteins
+canonical tryptophans
+proline-rich peptide
+target peptide
+peptide inhibitor
+co-operative interactions
+mechanical interactions
+inter-atomic interactions
+coevolutionary interactions
+weaker interactions
+protein-protein interactions
+sequences showed
+ww fold
+1 h-nmr spectra
+melting temperatures
+backbone atoms
+protein structure
+nature doi
+residue pairs
+structure determination
+moderately stable
+3 structure determination
+buried tryptophan
+highly stable
+design algorithm
+protein folding
+protein structures
+folding studies
+folding reaction
+redundant pattern
+global pattern
+macromolecular structures
+cc sequences
+43 cc sequences
+sites chosen
+naturallike function
+function results
+mutual constraints
+additional constraints
+proteins display
+natural alignment
+ww msa
+cooperative denaturation
+information contained
+unfolded protein
+protein complexed
+protein family
+protein specifies
+protein cores
+protein folding2
+protein expression
+nature rev
+spatial location
+1% top-hit identities
+authors declare
+threedimensional hnha
+simultaneous determination
+dna sequencing
+unique features
+hydrogen atom
+residues closer
+4% top-hit identities
+gene construction
+ribbon diagram
+polypeptide chain
+spatially organized
+quenched due
+computational algorithms
+wild-type residues
+residues highlighted
+siteindependent property
+higher-order couplings6­8
+general conclusions
+native structure
+water suppression
+cc45 shows 39%
+table 1 shows
+atomic structure
+native folding
+nmr spectrum
+native structures
+natural counterparts
+natural world
+solution structure
+protein folded
+folded state
+sequence weighting
+sequence positions
+sequence homology
+ic sequences
+43 ic sequences
+energetic connectivity
+25 mm trishcl
+5 mm imidazole
+5 mm iptg
+400 mm imidazole
+100 mm trishcl
+random sequences
+19 random sequences
+site-independent conservation
+coupling values
+local cavities
+main problem
+protein-folding problem
+residue depends
+programs prochecknmr49
+structure representative
+representative structure
+cooperative interactions
+proteins suggests
+experimental analysis
+hydrophobic atoms
+distance restraints
+algorithm presumes
+algorithm tests
+atomic resolution
+protein fold
+data demonstrate
+expression data
+libraries contained
+514
+
+sequence libraries
+sequence libraries
+sequence conservation
+average pairwise
+biomagresbank database
+structural similarity
+non-redundant database
+intrinsic property
+hoff enthalpies
+weaker identities
+hoff equation42
+physical model
+supplementary information
+additional spectra
+1h-nmr spectra
+nmr data
+melting curves
+complex cooperativities
+melting temperature
+convincing evidence
+structure determination16
+dimensional structure
+representative set
+small set
+talos-based analysis
+multivariate analysis
+ic model
+nmr spectra
+experimental conditions
+experimental evaluation
+experimental testing
+core residues
+structure-based alignment
+specific distribution
+supplementary figs 4
+information required
+sitespecific information
+permissions information
+protein fluorescence
+folding equilibrium
+folding process
+natively folded
+hundred structures
+finding shows
+cc45 sequence
+cent identity
+spectra recorded
+ic cc
+open circles
+negative controls
+unfolded states
+positive controls
+nhþ-mplppgwerrtdvegkvyyfnvrtltttwerptiile-coo2
+his8-tagged fusions
+natl acad
+accompanying paper22
+squared deviations
+cleared lysate
+target sequences23
+solvent exposure
+poor expressing
+closely reproduce
+terrific broth
+potential complexity
+requiring specification
+site-specific perturbations
+sufficiently large
+online version
+rxr heterodimers
+considerable progress
+case scenarios
+great deal
+cavity-dependent contribution31
+unexpected degree
+fundamentally arises
+generally tolerant
+marked reduction
+counts s21
+ramachandran statistics
+non-folded states
+received 25 january
+filled circles
+top coincide
+two-state approximation
+physiological conditions1
+thermodynamically coupled30
+quadruple mutants
+critical review
+intuitive sense
+refolds reversibly
+cells grown
+present address
+greater probability
+characterizing class
+arbitrary units
+near-independent variation
+computational modelling18
+specific topology
+trends biochem
+heather lee1
+biochemical function1
+completely shuffled
+analogous positions
+gapped blast
+figure 3b
+molten globule-
+findings suggests
+evolution-based mapping
+barnase-barstar interface
+5 kcal mol21
+þ channel pore
+initial phase
+residues interact
+previously described12
+staphylococcal nuclease
+cooperatively denature
+solvent exposed
+unix pipes
+protein-water interface
+opposing forces
+phosphothreonine peptides
+mutual dependencies
+pointed out20
+cdc42 regulates
+biological activity
+63 kcal mol21
+accepted 30 june 2005
+based
+photon technologies
+acta crystallogr
+escherichia coli
+typically compact
+4 kcal mol21
+academic press
+statistically indistinguishable
+his8-tagged fusion
+b-sheet
+fine balance
+mutual coevolution11
+obvious feature
+present view
+perturbation
+
+analysis
+perturbation analysis
+natively fold
+soluble sequence
+nmr experiments
+cc proteins
+matrix representation
+natural wwdomains
+folded subset
+sequence rules
+mutations includes
+alanine mutations
+cavity-creating mutations
+loss-of-function mutations
+signalling site
+constructed libraries
+sca information
+showed cooperative
+representative sampling
+perturbation experiments
+recombinant proteins
+proteins well-packed
+147 synthetic proteins
+ligand-dependent dynamics
+enzyme dynamics
+supplementary table 1
+supplementary table 2
+energetic architecture
+data argue
+folding mechanism
+fold level
+protein sci
+sca mapping
+sca implies
+nmr dynamics 17
+mix ¼ 150 ms
+mix ¼ 60 ms
+100 mm nacl
+distinguish cc45
+cc45 adopts
+sca matrix
+distributed property
+high level
+substantial fraction
+22 september 2005
+
+table 1
+high precision
+underlying mechanism
+insoluble fraction
+resulting ensemble
+show
+core results
+core positions
+core aspects
+specific pattern
+fluorescence experiments
+evaluate expression
+manner indistinguishable
+coevolution
+contact graph
+computer program
+3 & rama ranganathan1
+differential form
+cns package46
+dh vh ¼ 32
+largely decoupled
+dh vh ¼ 19
+binding
+stable ww-
+extensive test
+aria iteration
+rockefeller university
+nmrpipe package44
+sca consistent
+conservation pattern
+matrix columns
+sites predicted
+soluble proteins
+cc45 ensemble
+computationally
+close
+unfolding enthalpy
+99% d2o solvent
+large number
+position numbers
+great number
+enzyme catalysis
+globally minimizing
+1230 york avenue
+n22 hb2
+relative simplicity
+eluted proteins
+purified proteins
+supplementary fig
+ranganathan laboratory
+ranganathan@utsouthwestern
+values found
+soluble fraction
+trp fluorescence
+compare fig
+nature 433
+nature 382
+nature
+expressed poorly
+significant fraction
+core hypotheses
+18 8c overnight
+2 8c min21
+similar
+producing
+pymol
+ww
+packing
+regions
+5 ml
+shows
+1 shows
+distributions
+networks
+methods
+determinants
+display
+expected result
+sparse architecture
+conserved
+expected finding
+designed
+ten
+chosen
+coupled
+noesy
+identity
+showing
+showing 68
+function
+coupling
+protein
+hsqc
+studies
+figure
+mutagenesis
+state
+samples
+516
+
+figure 5
+including
+1i5h
+figure 1
+figure 4
+sequences
+buffer
+natural
+cell biol
+contained
+sequence
+design
+energetic
+100 mm
+1­10 mm
+provide
+local
+programs
+pairs
+tocsy
+alignments
+algorithm
+data
+solution
+total
+structural
+showed
+database
+model
+spectra
+evidence
+complex
+small
+structure
+¨ analysis
+analysis
+alignment
+distribution
+cc
+information
+folding
+structures
+selected
+30 min
+complexity
+calculated
+sensitivity
+solved
+understanding
+water
+experiments
+coli
+105 substitutions
+1c
+potential
+insoluble
+page
+expression
+22 september 2005
+
+9
+strongly
+important
+nedd4
+family
+termed
+temperature
+1h-nmr
+measured
+unfolded
+collected
+composition
+criteria
+positions 16
+stable
+assay
+positions
+22 september 2005
+linked
+enthalpy
+vh
+nmr 13
+nmr
+nmr 8
+nmr 6
+nmr 4
+matrix
+ic
+sites
+folded
+random
+mutations
+random§
+
+35
+mix ¼ 60
+libraries
+150 ms
+conservation
+recorded
+perturbation
+proteins
+proteins 56
+atoms
+dynamics
+values
+fold
+consistent
+120 members
+struct
+tested
+members
+sca
+cc45
+study
+suggested
+fraction
+pin1
+adopt
+sampling
+fall
+ensemble
+derived
+table 1
+distributed
+experiment
+heterogeneous
+melts
+high
+mechanism
+core
+trp 7
+fluorescence
+cooperative
+trp 30
+pattern
+msa
+soluble
+800 distance
+program
+hypotheses
+manner
+doi
+findings
+argue
+ww-
+form
+test
+cns
+eluted
+predicted
+aria 1
+nmrpipe
+rules
+cooperativity
+wwdomains
+found
+interact
+pairwise
+significant
+columns
+dh
+evaluate
+3b
+decoupled
+graph
+university
+importance
+rama
+cent
+purified
+construction
+expected
+architecture
+result
+catalysis
+n22
+cell 116
+sparse
+solubility
+d2o
+simplicity
+number
+nacl
+minimizing
+cell 13
+york 10021
+rev
+york
+position
+99% d2o
+unfolding
+finding
+& ranganathan
+sci
+site
+fig
+expressed
+25 8c
+8 8c
+4 8c
+37 8c
+6 8c
+90 8c
+3 8c
+38 8c
+2 8c
+biol
+yellow
+eriksson
+assembled
+rotin
+govern
+investigator
+& karplus
+3 ^ 6% tophit
+chen
+estimated
+blue
+1pin
+designing
+& chothia
+reported
+obtained
+reports
+explained
+glance
+/reprintsandpermissions
+aligned
+work
+root
+triple
+involve
+residues4
+answer
+koradi
+attempt
+frauenfelder
+order
+unfolds
+spectrofluorometer
+one-quarter
+clustalw39
+combination
+fragment
+billeter
+washing
+principles
+anfinsen
+network
+quantify
+chothia
+associate
+penkert
+created
+reidhaar-olson
+biochemistry 34
+dqf-cosy
+& ackers
+confirming
+ranging
+white
+mishra
+nmrview
+implemented
+fitting
+hatley
+science 255
+psi-blast38
+coin
+proteins27
+& forman-kay
+principle
+d2
+larson
+biophys
+well-expressed
+orgl
+contrast
+1k9r
+w7
+shulman
+vol 437
+clustal
+approach
+//www
+preserve
+fbp28ww
+restricting
+linkage
+participating
+variance
+requests
+basis
+noes
+depristo
+noel
+estabrook
+dobson
+lysed
+suggest
+kevin
+nih
+peaks
+lindorff-larsen
+materials
+akke
+paradigm
+visualization
+monitored
+& lim
+collections
+5a
+baselines
+5c
+5b
+usa 102
+usa 100
+altschul
+informative
+www
+science 181
+bork
+dense
+contributing
+& gibson
+dinner
+22d
+parsing
+refined
+categorization
+& cohen
+specificities
+russ1
+sklenar
+& bax
+scored
+picture
+n1
+bashford
+leads
+n36
+environment
+frequencies
+overlaid
+volkman
+3a­
+bacteria
+295 nm
+mutation32
+lowery
+licata
+myoglobin
+nguyen
+three-
+cases
+performed
+monitoring
+criterion
+23h
+produce
+improving
+johnson
+long-range
+idiosyncratic
+peterson
+supplemented
+platform
+& sudol
+& dill
+correspondence
+brunger
+half
+reprints
+adequately
+emerges
+shown
+ph 8
+gerstein
+ph 7
+uveges
+theory
+million
+mechanisms
+possibility
+rows
+340 nm
+message
+identities--
+1a
+1b
+chem
+1d
+liquid33
+deciphering
+9 parts
+interior
+sali
+surprising
+distributed21
+drive
+packed9
+quantity
+tolerance
+black
+thompson
+summary
+10% h2o
+paper
+& freire
+declared
+& agard
+schreiber
+sparseness
+donoghue
+pymol51
+incubation
+deposited
+1eg3
+hn-ha
+macias
+kanelis
+verified
+fodor
+changing
+invariance
+& fenimore
+sudol
+bowie
+wall
+21y
+mol
+macarthur
+& lesk
+& kern
+provided
+confirm
+& weeks
+jager
+absorbance
+comparison
+perturbed
+1038/nature03990
+accounts
+hidalgo
+strictly
+generation
+liang
+cultures
+& fersht
+regard
+cloned
+enzymology 71­ -90
+russ
+al
+examine
+diverged
+biochemistry
+rosen
+piotto
+deviation
+separate
+students
+sonication
+cpk
+robert
+cornilescu
+reson
+subjected
+tm
+preserved
+urea
+difference
+higgins
+kinase-
+yaffe
+rate
+perspective
+luque
+crystallography
+revealing
+horovitz
+amount
+& mackinnon
+de3
+pro 33
+achieving
+constructs
+der
+& gruebele
+fuentes
+axis
+gardner2
+eisenmesser
+advice
+reflect
+qiagen
+response
+began
+developed
+energetics
+e-scores #0
+leppik
+science 286
+delaglio
+2b
+lichtarge
+idea
+energy-
+koepf
+wondered
+105 well-expressed
+induced
+issue
+biochemistry 40
+outfitted
+10% h2
+beginning
+cc18
+cc16
+wintjens
+psi-blast
+leavitt
+calculations
+& hammes-schiffer
+john
+grey
+yjq8ww
+& vendruscolo
+built
+lim
+extracted
+measures
+proteins35­37
+clear
+relation
+impact
+factor
+3a
+tyr 19
+project
+science 295
+diluted
+molmol
+usa 93
+acknowledgements
+premise
+& saudek
+petrassi
+& blevins
+create
+laskowski
+lockless1
+p4
+evaluated
+linge
+pirozzi
+flow-
+solid-
+molmol50
+necessity
+kaptein
+consistency
+kelly
+procheck-nmr
+described25
+majority
+anova
+flowchart
+informax
+delano
+addressed
+daggett
+hallmark
+back
+examples
+kasanov
+annu
+eliminate
+& kelly
+proc
+analysing
+range
+science 247
+lockless
+crane
+highlight
+influence
+jm109
+parsed
+application
+excitation
+prepared
+william
+generated
+sides
+reasoned
+departments
+& sauer
+steve
+& wuthrich
+inspection
+3j
+3i
+3h
+3g
+3f
+3e
+3d
+implement
+makes
+outcomes
+scaled
+usa
+carrying
+account
+gdnhcl
+calculation
+& nilges
+arrangement
+benkovic
+nmrview45
+npg
+demonstrating
+1e0n
+1e0l
+bind
+derivative
+defining
+asn 22
+biomol
+hallmarks
+accompanied
+§created
+constitute
+measure
+mcmahon
+mangelsdorf
+ref
+red
+8e
+van
+times
+manuscript
+yap65
+quality
+bosco
+2 extension47
+science 268
+constrained
+dallas
+bourne
+sufficiency
+subtracted
+constrain
+fact
+/nature
+supported
+convergence
+gilman
+knowledge
+dystrophin
+suel
+natural-
+richards
+processed
+3j­
+gibson
+acquired
+packed
+centrifugation
+identification
+efficiency
+hypothesis
+magn
+part 1
+part 2
+aqua
+huang
+conclude
+addition
+olson
+define
+& stites
+ota
+sufficient
+& aldrich
+b-dystroglycan
+sits
+& kay
+difficult
+2pharmacology
+distinction
+thought
+sixty-
+science 301
+600 nm
+density
+smith
+checking
+28t
+searching
+& prehoda
+demonstrates
+mutation
+biology
+analysed
+p33
+analyses
+column
+insufficient
+& lee
+& thornton
+coupled--
+evident
+crystals
+compared
+proline-
+3biochemistry
+space
+rullman
+276
+279
+102
+45
+98
+1990
+1993
+1992
+1995
+1994
+1997
+1996
+1999
+1998
+0 ^ 1
+0 ^ 7
+0 ^ 4
+¼ 25
+10167­ -10172
+231­ -241
+665­ -676
+905­ -921
+248
+­
+1520­ -1523
+43 43
+^
+1196­ -1202
+241­ -245
+733­ -740
+36%
+0%
+257
+342­ -358
+1973
+58
+55
+1 ^ 3
+1 ^ 6
+50
+54
+1105­ -1115
+224
+97 ^ 7
+95
+¼ 46
+¼ 42
+¼ 43
+0
+4 ^ 9
+4 ^ 5
+°
+477­ -486
+3 ^ 9%
+1
+81
+4 ^ 14
+51­
+14012­ -14019
+23
+-55 51
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+407­ -412
+211­ -221
+478­ -486
+¼ 65
+3
+6%
+63
+65
+295­ -299
+500
+4673­ -4680
+423­ -498
+4
+751­ -766
+235­ -256
+67
+2 ^ 15
+19 ^ 0
+634­ -638
+9 ^ 4
+331­ -339
+5
+7
+373­ -393
+196
+59­ -69
+646­ -649
+90%
+1416­ -1419
+6
+5
+
+80
+¼ 0
+24
+25
+26
+27
+20
+21
+22
+28
+29
+2%
+¼ 30
+2*
+¼ 34
+14445­ -14450
+¼ 19
+¼ 18
+178­ -183
+994­ -999
+307­ -310
+78
+2
+52 ^ 0
+311
+277­ -293
+223­ -230
+345­ -354
+¼ 22
+¼ 20
+9
+19046­ -19050
+2 ^ 5
+001
+6 58
+289­ -302
+8 ^ 7%
+497­ -502
+6 ^ 7
+199­ -216
+%
+2002
+2003
+2000
+2001
+2004
+2005
+3389­ -3402
+39
+38
+33
+32
+31
+30
+37
+36
+35
+34
+3%
+335
+8
+7 ^ 5
+7 ^ 6
+7 ^ 7
+70%
+80
+1987
+3 ^ 1
+3 ^ 2
+3 ^ 6
+3133­ -3139
+603­ -614
+8615­ -8617
+128­ -132
+120
+3
+
+42
+531­ -533
+841­ -853
+25150­ -25156
+0 35
+351
+*
+1­2
+417­ -429
+1306­ -1310
+48
+49
+46
+47
+44
+42
+43
+40
+41

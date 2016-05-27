@@ -1,0 +1,1829 @@
+high density oligonucleotide array probe level data 251 data sets
+high density oligonucleotide array probe level data
+rafael
+high density oligonucleotide array probe level data 255
+
+20
+
+10
+high density oligonucleotide array probe level data 259
+
+300
+
+250
+
+200
+high density oligonucleotide array probe level data 263
+high density oligonucleotide array probe level data 261
+high density oligonucleotide array probe level data 257
+high density oligonucleotide array probe level data 253
+high density oligonucleotide array analysis revisited
+data set
+probe set biob-5 biob-3 bioc-5 biob-
+high density oligonucleotide array data based
+ntroduction high-density oligonucleotide expression array technology
+national medical center microarray center
+biodn-3 dapx-3 crex-3 crex-5 bioc-3 dapx-5 dapx-
+affymetrix microarray suite user guide
+genetics institute involving 95 hg-u95a human genechip
+standard deviation versus average expression scatter-plots
+mi jn = bgi jn + si jn
+independent identically distributed error term
+central nervous system cell line
+australia francois collin gene logic
+000
+
+0
+
+50
+
+100
+
+150
+
+250
+
+300
+
+0 density
+
+50
+
+100
+
+150
+
+mm
+
+density density
+
+260
+normalization maps probe level data
+high density oligonucleotide arrays
+wong multiplicative model-based expression index
+gene logic involving 75 hg-u95a genechip
+0 expected rank 1 2 4 4 5 6 7 8 9 10 11 avdiff 6 16 74 30 44 239 333 3276 2709 4598 165 observed rank mas 5
+observed se log ratios versus expression
+2 latin square series data set
+actual mechanism giving rise
+alternative model based expression index
+high-density oligonucleotide array data
+absolute log relative expression values
+detecting differentially expressed probe sets
+varying concentration series data set
+probe level data motivate
+differential expression data set b2
+oligonucleotide array data based
+estimation procedure includes rules
+bgi jn represents background signal
+uwe scherf gene logic
+linear additive model yi jn = µ
+probe sets representing expressed genes
+small black dots represent
+properly compare summary measures
+replicated cdna microarray experiments
+tested background correction procedure
+signal = tukey biweight{log
+differentially expressed genes ranked
+log scale expression level
+probe level data figure 1
+wong model-based expression index
+data set b1 provide
+small experimental study consisting
+log observed expression versus
+gray scale representing height
+latin square series spike-
+intensities include transcript signal
+explore intensity related biases
+shows loess curves fitted
+lung tissue mrna obtained
+-dimensional quantile­ quantile plot
+high differential expressions
+figure shows direct array
+expression measures perform similarly
+probe level data
+transformed probe intensities denoted
+affymetrix control probe sets
+high-density oligonucleotide arrays
+nominal standard error methods
+cdna microarray data
+varying concentration experiment plotted
+propose expression measures based
+arrays dapx-3 target sequence
+ms grow roughly linearly
+tumor cell line
+12 × 12 cyclic latin square
+probe level intensities
+expression index computation
+probe sets representing spike-
+maximum likelihood estimation
+-dimensional identity line
+alternative background correction
+affymetrix summary measures avdiff
+dilution concentration level
+human liver tissue
+loess curves fitted
+assuming si jn
+log normal distribution obtained
+gray scales represent
+asa annual meeting 2001
+pga u01 hl66583
+maximum likelihood estimates
+acute myeloid leukemia
+low level analysis
+probe set data
+gene logic workshop
+raw mouse data
+black curve represents
+arrays studied expression measures
+1 mouse data set
+3 dilution data set
+mouse data set
++  jn +
+horizontal line represents
+global background adjustment
+genes behaved similarly
+high abundance
+800 0 200 400 600
+
+ fig
+empirical evidence suggest
+bridget hobbs division
+nucleic acids research 29
+generation affymetrix software
+oxford university press
+johns hopkins university
+usa rafa@jhu
+removes probespecific affinities
+oligonucleotide probe
+mgu74a mouse genechip
+data set b1
+rna populations differ
+include variation introduced
+differentially expressed probe-sets
+dilution study data
+exploratory data analyses
+exploratory analysis presented
+additive linear model
+optimal scaling factors
+differential expression levels
+representing probe-specific affinities
+strictly positive distribution
+2000 defective probe sets
+probe level
+expression summary measures
+removes probe-specific affinities
+large points represent
+normalization helps identify
+mg-u74a mouse genechip
+100 units occurs due
+robust multiarray average
+robust multi-array average
+raw pm-mm data
+
+7
+density kernel ^
+probe affinity effect
+linear scale measures
+expression measures perform
+probe set spike-
+expression array normalization
+small total intensity
+report exploratory analyses
+find quantile normalization
+additive probe-specific effect
+raw pm data
+
+7
+background level
+expression level
+great britain
+
+exploration
+000 0 density 50 100 150 mm
+
+0
+negative expression measures
+quantile­quantile plots
+average expressions obtained
+normalization procedure presented
+closed-form transformation obtained
+normalized log ratios
+jth smallest difference
+measuring non-specific binding
+observed expression levels
+show log ratios
+fit comparisons plots
+16­20 probe pair intensities
+average log ratio
+dilution study conducted
+11 probe sets shown
+total hybridization solution
+latin square
+analysis algorithm mas 5
+observed rank
+average background noise
+boxplot intensities obtained
+log scale measure
+human array
+control crnas spiked
+spiked crna controls
+show box plots
+bgi jn
+oligonucleotide arrays
+values warrants normalization
+standard error
+similar shaped log2
+differentially expressed
+common background crna
+probe pair number
+avdiff mva plot
+normalized pm data
+quantile normalization boxplots
+naive nominal estimate
+log ratio log2
+standard deviation
+0 standard deviation
+low expression values
+si jn
+20 probes representing biob-5
+section 4 describes normalization
+model-based analysis
+8
+
+10
+
+12
+
+-4
+
+-2
+
+0 reference quantiles
+
+2
+
+4
+
+fig
+rma mva plot
+wyeth/genetics institute
+estimate model parameters
+versus abundance
+gene logic
+mouse data
+probe set
+0 li & wong 2 1 1 3 6 2 3 7 5 6 24 24 73 36 33 3128 8579 681 102 12203 19 13 rma 1 2 3 5 4 7 9 8 6431 10 6
+
+notice
+data set
+
+258
+data set
+background samples hybridized
+biodn-3 gene
+probe sets 7401 481 628 819 1123 1461 1759 1906 1555 1200 760 345 152 50 14
+probe sets
+target sequence
+data sets
+figure 7 mva plots
+mg-u74a array
+differential expression
+data suggest
+loess curve
+distributed errors
+national academy
+robust procedure
+affymetrix technology
+gray scale
+detecting signal
+log ratios
+linear scale
+large expression
+figure 5 shows histograms
+oligonucleotide
+study data
+high
+summary measures
+intensities represent
+linear model
+probe effect
+probe genes
+log scale
+probe intensities
+standard measures
+individual array
+observed ratios
+probe pair
+left-of-the-mode data
+analyse data
+comparing data
+probe-level data
+log ratio
+experimental conditions
++
+ij
+line types
+probe-specific affinity
+defective probes represented
+alternative measure
+additive signal
+affymetrix genechip
+11 control crnas
+standard  deviations
+hg-u95a arrays
+expression measures
+strong additive
+exception bioc-3
+darker gray
+normal tissue
+approximately additive
+probe pairs
+rna background
+boxplot shows
+log-transformed pm values
+mi jn ^
+mi jn
+array replicate
+background noise
+intensity measures
+gene jn
+relative concentrations
+model fit
+background effect
+pm-mm data
+gene expression
+genes expression
+mrna species
+3 target sequences
+small percentage
+mrna amplification
+analyses presented
+average expression
+500
+summary measure
+probe-specific effect
+y-axis scale
+0 mva plot
+expression indices
+respective scale
+expression monitoring
+mva plot
+signal model
+control genes
+mismatch probe
+log transformation
+log transforming
+array comparison
+speed division
+quantile normalization
+100 + 2s
+plot titles
+tech report 1
+biomedical research
+rafael
+biob-3
+bioc-5
+true ratio
+biob-
+dilution concentration
+affymetrix default
+2 1 10 100 expression 1000 10000
+
+fig
+normalizing genechip
+hg-u95 genechip
+concentration set
+small values
+lines representing
+data
+
+exploration
+technical university
+comparison based
+observed se
+quantitative analysis
+genomic analysis
+statistical analysis
+expression values
+cdna arrays
+nominal se
+usa terence
+similar issues
+usa yasmin
+intensities obtained
+measures separate 10
+observed ranks
+measures rely
+expression measure
+=1 scale measure
+section 5 describes
+section 2 describes
+study conducted
+non-specific binding
+smallest sd
+negative differences
+delivering noise
+adds noise
+optical noise
+observed quantiles
+
+11
+
+4
+
+6
+
+8
+
+6 10 8
+
+2
+
+6 7
+
+11
+
+9
+
+0
+
+10 9
+
+8
+
+0
+
+-4
+
+4
+-5
+
+5
+
+-2
+
+4 5 2
+
+2
+-6
+
+3
+0 2 4 6
+observed quantiles
+
+11
+
+6 8 9
+
+5
+
+7 10 8 9 0
+
+6
+
+11
+
+10
+
+0
+
+-5
+
+4 2
+-5 0
+5 10
+
+-5
+
+3 5
+
+5 4 2
+
+3
+
+-3
+
+-2
+
+-1
+
+0 reference quantiles
+
+1
+
+2
+
+3
+8 10 12
+
+3
+
+-2
+
+0 reference quantiles
+
+2
+
+4
+0
+
+7 9
+
+observed quantiles
+
+8
+
+2
+
+11
+
+6
+
+611 8 7 10
+
+9 0 -2
+
+4
+-5
+
+5 3
+-4 2 3 4 5
+
+2
+
+2
+
+4
+
+6
+0
+
+observed quantiles
+
+11
+
+87
+
+6
+
+10 7
+
+8
+
+6 11
+
+9 0
+
+9
+
+3 5 -5
+
+3
+-5
+
+5
+
+4 2
+
+4 2
+-2 0 2 4
+6 8 10 12
+
+-2
+
+0 reference quantiles
+
+2
+
+4
+estimating signal
+biased signal
+usual signal
+bimodal effect
+aml background
+naive approach
+nonspecific binding
+gene fragments
+gene brown
+identifying genes
+average increases
+shows boxplots
+mva plots
+crex-5
+perfectly differentiate
+computationally feasible
+incorrectly sequenced
+nature biotechnology 14
+11 control rnas
+synthesized separately
+revised july 8
+dashed lines
+log-scale slope
+readers interested
+mice exposed
+[received june 3
+/users/terry/zarray/affy/gl workshop/genelogic2001
+originally carried
+roughly constant
+santa clara
+phage p1
+smaller spread
+judging solely
+specific subsets
+carefully designed
+worthwhile gains
+illness resulting
+detailed discussion
+associate editor
+broader stratification
+darker grays
+respond adequately
+statistica sinica
+removing outliers
+supplemental material
+rna samples
+scanner/fluidic station 1
+larger spread
+physical position
+scanner/fluidic station 5
+5-fold increase
+tom cappola
+qq-plots indicating
+vitro transcription
+outlier removal
+left-hand tail
+risk removing
+eric hoffman
+astra zeneca
+skip garcia
+rehannah borup
+laurent gautier
+spie bios
+scatter plot
+triplicates 1 set
+observed difference
+figure shows
+75th quantiles
+section 3 explores
+section 6 assesses
+section 8 presents
+section 7 examines
+bimodal distribution
+log-normal distribution
+small concentrations
+crna fragments
+generated crna
+appropriatly normalized
+subtracting probe-specific
+statistical methods
+sample preparation
+normalization procedures
+normalization routines
+random sample
+across-array normalization
+scanner effect
+average difference
+larger values
+interquartile range
+obvious gain
+reduced range
+results obtained
+entire range
+obvious downside
+largely due
+incorrect difference
+20 biob-5 probes
+defective probes
+similar histograms
+parallel lines
+familiar features
+environmental differences
+hybridization occurred
+highest 5 percent
+sd increases
+interesting features
+`obscuring variation
+ucker -
+interesting variation
+perfect match
+identifies scanner
+normalization
+
+12
+
+0
+
+2
+
+4
+
+6
+
+fig
+effective measure
+extensive spike-
+final concentration
+specific concentration
+concentration appearing
+normalization methods
+shows histograms
+figure 5 motivates
+safer approach
+rna hybridized
+subtilis gene
+earl hubbell
+dark grays
+analyses make
+publication july 22
+table 1 shows
+natural estimate
+baltimore md 21205
+light grays
+helpful suggestions
+measurements read
+magnus strand
+probes believed
+misleading results
+outlier probes
+10 times smaller
+green labels
+median polish
+color versions
+bioconductor project
+hg-u95a
+fact increase
+attenuation caused
+bottom row
+specific results
+hypothetical case
+detect signal
+bioc-3
+quantity derived
+ben bolstad
+version 4 edition
+quartile excluding
+outlier detection
+text indices
+cheng li
+pm-mm
+
+concentration
+
+50 5
+highest concentration
+0 avdiff mas 5
+general higher
+uc berkeley
+greater sensitivity
+expect marginal
+obscuring sources
+detecting
+dapx-3
+section 3 suggests
+spikein concentrations
+lower concentrations
+normalized arrays
+series
+abundance values
+avdiff qq-plot
+
+1
+10
+
+5
+
+1
+
+7
+mode occurring
+hybridization mixture
+array
+array 1
+array 2
+25 base pairs
+paper makes
+probe
+measure rma
+data
+replicate arrays
+irizarry department
+dapx-
+100 +
+based
+yi
+chosen probes
+technology
+independent
+australia
+b2
+dapx-5
+rma qq-plot
+1 6
+
+1
+5 4
+
+10
+rma results
+=1 ratios
+left side
+procedure
+arrays hybridized
+quantile
+
+0
+oligonucleotides referred
+^ variance approach
+mbei showing
+replicates processed
+small
+fitted
+perform
+genetics
+¯ · jn =
+jn
+¯ · jn
+assess bias
+0 pm/mm pm
+
+1
+sets
+expression
+10000 1 10 100 1000
+
+1
+represents
+expression
+background
+di defined
+0 mbei rma
+
+20
+concentrations shown
+log
+crex-3
+tissue
+explore
+studied
+propose
+related
+intensity
+grow
+plotted
+affymetrix
+model
+genechip
+representing
+university
+b1
+analysis
+total
+system
+normal
+levels
+removes
+shows
+obtained
+measures
+observed
+study
+defective
+nominal
+biob-5
+se
+mi
+0 signal
+signal
+effect
+mva
+gene
+genes
+intensities ^ ^
+intensities
+average
+common
+parameters
+conducted
+pair
+optimal
+roughly
+points
+expected
+transformation
+roughly 50
+analyses
+quantiles
+plots
+section
+distribution
+5
+
+5
+
+fig
+crna
+spiked
+0 20000 10000 5000 2000 1000 500 200 100 50
+
+100
+
+150
+
+fig
+005
+
+fig
+normalized
+wong
+methods
+sample
+normalization
+
+8
+show
+normalization
+samples
+low
+normalization
+
+10
+values 0
+values
+experiment
+16­20 pairs
+pairs
+due
+boxplots
+obvious
+experiments
+range
+difference
+avdiff = 1 #
+mm
+sd
+highest 5%
+features
+5 10 avdiff
+
+20
+
+2
+0
+
+mm
+
+200 0
+1
+
+mm
+
+200 0
+parallel
+probe-sets
+5 mm 1
+5 pm-mm
+
+1
+replicate
+-
+log-transformed
+match
+hybridization
+avdiff
+pm-mm
+differences
+scanner
+variation
+measure
+2 spike-
+spike-
+0 concentration 10
+0
+
+concentration
+concentration
+0 concentration 20
+=1 figure 6
+figure
+figure 7
+figure 2
+figure 3
+figure 4
+figure 6
+5 mas 5
+mas 5
+ms
+denoted ^
+denoted
+approach
+results
+bioconductor
+row
+caused
+strand
+irizarry
+hubbell
+mismatch
+md
+scatter
+suggestions
+chosen
+qq-plot
+1
+
+1
+
+5
+
+7
+2s
+side
+0 qq-plot
+
+1
+
+1
+5 5
+
+10
+estimate
+times
+publication
+20 probes
+green
+subtilis
+probes
+mixture
+versions
+median
+processed
+oligonucleotides
+light
+case
+exception
+aml
+make
+dark
+showing
+measurements
+rnas
+department
+fact
+abundance
+abundance
+20000 15000 10000 5000 0
+abundance
+3500
+5 10 rma
+
+20
+rma
+assess
+comparison
+hybridized
+0
+
+8000
+
+6000
+
+4000
+
+2000
+
+0
+
+0
+
+exploration
+0
+
+0 1
+
+2 2
+
+4
+
+exploration
+exploration
+150 pm
+2 pm
+5 pm
+100 pm
+pm
+pm
+
+10
+1 pm
+0 pm
+arrays 1
+27 arrays
+12 arrays
+30 arrays
+arrays
+base 2
+bolstad
+left
+di
+version
+shown
+base
+number
+histograms
+quartile
+quantity
+text
+detection
+subtracting
+detect
+suggests
+di =
+li
+notice
+represented
+berkeley
+expect
+sensitivity
+defined
+general
+pm/mm
+sources
+pm/mm
+
+10
+bias
+5 5 0 50 100 150 200 250 concentrations
+
+10
+
+20
+
+1
+0 concentrations
+
+5 7
+12 concentrations
+5 5 concentrations 10 20 1
+5
+
+concentrations
+
+7
+5
+
+5
+
+concentrations
+
+10
+
+20
+
+0 6
+
+50 8
+
+100 10
+
+150 12
+
+200 14
+
+250
+
+256
+concentrations
+table 1
+referred
+replicates
+mode
+5 10 mbei
+
+20
+
+2
+mbei
+triplicates
+triplicates 2 100
+replicates 50
+log2
+4 log2
+= log2
+variance
+variance­
+paper
+antonellis
+noisy
+consists
+gaithersburg
+worked
+cardinality
+fits
+iii
+young
+coincide
+finally
+patil
+hee
+advantage
+hard
+`realistic
+coding
+positions
+escription
+pmxmm
+adjust
+science
+refer
+stratify
+work
+triplicate
+spike-ins
+dealing
+design
+elegans
+100-fold
+wyeth
+ill
+yrne
+performance
+marked
+onclusion
+children
+ellogg
+dudoit
+method
+degree
+ubbell
+hundreds
+ranges
+downloaded
+peed
+appears
+deduced
+noticeable
+commonly
+25-75%
+12 rows
+simply
+conditioning
+joshua
+scaled
+addressed
+11 entries
+achievable
+/datasets
+ittmann
+m1
+m2
+249­264 printed
+25th
+1/4
+problem
+carrying
+big
+`truth
+crosses
+permits
+recall
+labeled
+learn
+growing
+im
+averages
+give
+proportions
+performed
+identifiability
+yang
+normalize
+`fold
+varied
+varies
+23n
+11 spiked-
+science 290
+rizarry
+bioinformatics
+improving
+summarize
+response
+goal
+algorithms
+lockhart
+oper
+22n
+developed
+produced
+10 spiked-
+coli
+detected
+html
+defining
+correspondence
+nsf/
+13n
+diseased
+tails
+effects
+lonim
+identified
+labeling
+sung
+follow
+arrow
+hare
+kobayashi
+approximated
+hill
+dapx
+evaluation
+red
+stat
+scanners 1
+applications
+california
+measured
+org
+eatures
+benefits
+created
+impose
+length
+ffymetrix
+background-adjusted
+demonstrating
+omitted
+clear
+specificity
+compared
+adjusted
+needed
+ias
+relationship
+wang
+artifact
+assumption
+part
+double
+biodn-5
+stratified
+scanners
+displays
+13th
+biostat
+beazer-barclay
+dilutions
+note
+fitting
+ikounis
+predicted
+objective
+added
+11n
+probe-set
+acknowledgements
+ong
+considered
+stronger
+proceedings
+typically
+aubertas
+genomebiology 2
+12n
+normalizes
+wehi
+proposed
+dividing
+holder
+explain
+proportion
+written
+supported
+failed
+3 sds
+summarizing
+ambiguity
+factor
+non-spiked-
+distance
+account
+combinations
+areas
+symbols
+evident
+denmark
+affymetrixgenechip
+remove
+artemink
+view
+scanning
+representative
+computed
+attenuated
+close
+ability
+closer
+background-corrected
+ways
+review
+older
+unable
+//www
+terms
+fold
+component
+demonstrate
+distinguish
+group
+suppressed
+improved
+udoit
+taking
+agree
+harvard
+figures
+developing
+¨ lndal
+conclude
+ca
+hitley
+respect
+improvement
+ja
+
+6
+
+8
+pp
+background-corrects
+ikn
+attaching
+genetic
+combine
+referee
+allo
+quantities
+protect
+al
+figures 2
+figures 3
+figures 1
+picomolar
+assessments
+present
+exponential
+variances
+//qolotus02
+evaluated
+behavior
+atlanta
+ii
+middle
+ik
+amount
+jaakola
+underestimate
+widely
+ummary
+grows
+development
+http
+changing
+scenario
+residuals
+spiked-
+researchers
+jhsph
+biostatistics
+obtain
+rest
+12 spiked-
+summaries
+web
+conclusions
+practice
+eferences
+signals
+source
+reason
+ollettie
+unter
+evaluate
+sums
+etection
+finding
+21n
+accepted
+correcting
+motivating
+images
+bigger
+12 combinations
+lead
+/
+genelogic
+demonstrated
+processing
+analysed
+package
+column
+ormalization
+melbourne
+ga
+/ririzarr/affy
+subset
+easures
+olstad
+obtaining
+sections 3
+rising
+statistics
+assumed
+20 spiked-
+specifically
+noticed
+intention
+rown
+manufacture
+medium
+interest
+form
+sds
+histogram
+cloud
+removed
+differentialexpression
+arranged
+ifford
+paired
+define
+display
+orton
+agnasco
+describe
+1/5
+naef
+denote
+examine
+scanned
+subtraction
+goodness
+1/3
+ockhart
+check
+functions
+assessing
+detail
+details
+hartemink
+time
+prepared
+vetnik
+assume
+required
+baugh
+kristen
+starting
+0
+10
+
+12
+
+-8 -2
+
+-6 -1
+
+-4
+
+-2
+25
+
+5 7
+2 }
+1996
+-1
+25 6 8 10 12 14 2
+0 12
+0 20000 10000 5000 2000 1000 500 200 100 50 20 0
+5000
+100
+37
+0 20
+= 0
+= 1
+{
+010 0
+5 7
+5 2
+5 3
+5 1
+>
+25
+
+2
+0 2 4 6
+0
+
+20
+1999
+000
+
+250
+
+300
+
+150
+
+100
+
+50
+
+0
+
+0
+0 50
+1
+2002]
+0 1 2 12 0 2 4 -8 -6 -4 -2
+0
+
+0
+0
+
+2
+264
+0
+
+5
+025
+
+0
+25
+0 1
+0 0
+20
+0 5
+· =
+005
+
+0
+8 10 6 8
+×
+1­13
+0
+
+200
+2·
+0 µ
+8
+
+1
+7
+5 10 20 2
+0 25
+75%-95%
+020
+
+0
+>>
+0%-25%
+2
+-2 -1
+809­812
+11
+10
+12
+14
+16
+0 10
+98
+2
+
+0
+=
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 #
+75
+000
+
+300
+
+250
+
+200
+25 µ
+1­9
+0 75
+=1
+0 100
+#
+3
+0 2
+-4 0
+6
+
+0
+0
+
+100
+6
+-2000
+250
+10 000
+5 25
+5 50
+·
+200 µ
+0
+
+-2
+
+0
+
+2
+
+4
+
+0
+5 800 600 400 200 0 -200 20
+0 35
+262
+5
+
+3
+5
+
+1
+5
+
+0
+1675­1680
+0
+
+50
+010
+
+0
+4
+015
+
+0
+5 0
+8 000
+31­36
+015 0
+111­139
+8
+50
+252
+0 37
+5
+
+2
+7 3
+­1
+20 000
+0 -400 5
+µ
+95%-100%
+1·
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+0
+
+5000
+
+10000
+
+15000
+
+254
+}
+150
+5
+
+5 7
+005 0
+5
+20
+
+0
+25 2
+> 0
+2002
+2003
+2000
+2001

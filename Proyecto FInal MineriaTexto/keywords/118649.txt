@@ -1,0 +1,249 @@
+tRNAscan-SE
+First-order
+selection
+ViennaRNA
+non-coding
+Thermodynamic stability
+stability
+regulatory noncoding
+minimizing
+postdoctoral
+statistical
+ribosomal
+Department
+abundant
+MicroRNAs
+tendency
+Schuster
+thermodynamic stability
+trade-off
+shuffling
+implementation
+randfold
+DISCUSSION
+proportion
+LagosQuintana
+Widespread selection
+association
+molecules
+extensive
+Bonhoeffer
+equilibrium
+correspondence
+Received
+biogenesis
+Unfortunately
+asymptotic efficiency
+Detection
+successful annotation
+possible
+Analysis
+framework
+functional activity
+accepted
+Drosophila microRNA
+supplementary information
+Wetenschappelijk-Technologisch Onderzoek
+stem­loop structures
+permuting
+precursor molecules
+Randomize
+experimentally
+potential stem­loop
+cleavage
+Pervouchine
+Availability
+sequence detection
+sequence
+sensitivity
+dinucleotide
+Proportion
+down-regulation
+RESULTS
+detection
+Dicer-like
+Arabidopsis
+computer
+insertion
+statistic
+bacterial
+heterochronic
+developmental
+Secondary structure
+METHODS Non-coding
+integration
+research
+Vertebrate microRNA
+messenger
+validating potential
+Lendeckel
+previous
+approach
+double-stranded specific
+available
+original sequences
+comparable
+Bootstrap
+MicroRNA precursors
+minimization
+complementary
+importance
+microRNA sequences
+University
+processing
+agreement
+silencing-associated
+dinucleotide shuffling
+heterogeneous
+eukaryotic
+hypothesis
+substitution
+nucleotide composition
+auxiliary
+Bettinger
+additional
+Schmittgen
+comparison
+Stabilization
+hsa-mir-30a hsa-mir-33
+potential conserved
+Evidence
+original sequence
+Statistical
+consequence
+expression
+stem­loop structure
+software
+Preferably
+assessing thermodynamic
+comparative
+computational
+inference
+probability
+Abdelhakim
+Computational identification
+suboptimal structure
+lymphocytic
+microRNAs
+MATERIALS
+REFERENCES
+Therefore
+sequences
+non-canonical
+Industrie
+Hofacker
+Distribution
+first-order
+considering
+publication
+subcellular
+Dreyfuss
+frameshift
+stem­loop precursors
+assumption
+initiation
+normalization
+threshold
+Carrington
+Bevordering
+hsa-mir-27a hsa-mir-15a
+shuffling sequences
+structures
+significant secondary
+Cambridge University
+noncomplementary
+Bioinformatics
+Mononucleotide shuffling
+favorable
+Following
+Dinucleotide shuffling
+conditional probabilities
+Original
+observation
+Pasquinelli
+21-nucleotide
+algorithm
+hsa-mir-219 hsa-mir-27a
+Marshall
+Hutvagner
+stepwise processing
+Watson­Crick
+excitement
+hsa-let-7d hsa-mir-16
+Supplementary information
+Kasschau
+secondary structures
+highthroughput
+Griffiths-Jones
+procedure
+antisense complementarity
+kcal/mol
+probable regulatory
+Transfer
+Frequent
+precursor sequence
+evidence
+Caenorhabdbitis
+Randomization
+dinucleotide distribution
+statistical significance
+Instituut
+ACKNOWLEDGEMENTS
+Endogenous
+Williams
+absolute
+different
+Stiegler
+microRNA precursors
+Dicerlike
+ribosome
+bioinformatics/ INTRODUCTION
+Biological Sequence
+mechanism
+error-prone annotation
+Tomancak
+randomization
+According
+precursor sequences
+Drosophila melanogaster
+Perrière
+Feinbaum
+Technologiepark
+ABSTRACT Motivation
+Interuniversity Institute
+simulation
+development
+ribonuclease III-like
+Weinstein
+MicroRNA maturation
+Ribosomal
+available sequences
+mononucleotide
+important
+Lagos-Quintana
+dinucleotide randomization
+Identification
+successive
+original structure
+Biotechnology
+sequence information
+structure
+so-called
+Degroeve
+gene-finding
+maximizing
+secondary structure
+database
+discarding
+DiShuffle
+calculated
+hsa-mir-30d hsa-let-7d
+specific secondary
+hsa-let-7d hsa-mir-219
+Caenorhabditis
+computational procedure
+Mitchison
+Laboratoire
+Eddington
+original
+randomized sequences

@@ -1,0 +1,4869 @@
+asp tyr
+
+cgc ctg tcc aac cac gac tac
+
+· · · · · · ·
+
+· · · · · · ·
+
+· · · · · · ·
+
+· · · · · · ·
+
+· · · · · · ·
+
+· · cgt · · · · · ttg · · · agc agc · agc agc agc · · aat · · · · · gac · · · · · gat · · · · · tat · · ·
+
+figure 5
+molecular function
+unknown transcription factor activity receptor activity peptidase activity dna binding transcription regulator activity nucleic acid binding hydrolase activity enzyme regulator activity transporter activity
+binding oxidoreductase activity transferase activity protein binding protein kinase activity rna binding structural molecule activity ion binding nucleotide binding
+
+-log
+84
+
+118/200 111/162 115/171 127/190 134/135 176/217 127/193 138/193 187/222 172/364 161/130 138/231
+
+* repeat coverage calculated
+biogenesis rna metabolic process catabolic process ion transport protein metabolic process protein transport carbohydrate metabolic process generation
+derivative metabolic process translation cell­cell signalling vesicle-mediated transport
+
+annotations based solely
+gametogenesis organ development cell differentiation signal transduction embryonic development nucleic acid metabolism
+grimshawi
+
+wugsc* broad{ wugsc* agencourt{ agencourt{ broad{ jcvi{ agencourt{ agencourt{ agencourt{
+
+2
+anatomical structure development post-embryonic development lipid metabolic process pattern specification process
+cellular process nervous system development cell morphogenesis protein modification regulation
+5
+
+plasma membrane intracellular non-nuclear membrane-bound organelle cytoplasm protein complex
+
+0 0
+melanogaster melanogaster subgroup
+100/92 80/80 70/75 84/71
+
+subgenus sophophora melanogaster group
+istituto tecnologie biomediche del consiglio nazionale delle ricerche
+energy cellular localization transport biosynthetic process amino acid
+biological process proteolysis dna metabolic process cell cycle regulation
+5 cellular component
+unknown extracellular nucleus mitochondrion
+cell
+
+-log
+evan mauceli10 & iain maccallum10
+
+218
+©2007 nature publishing group
+molecular function terms `transcription factor activity
+genome-wide midrange transcription profiles reveal expression level relationships
+andrew zimmer10 & zac zwirko10 broad institute
+transcription factor binding sites tend
+ananassae obscura willistoni group group
+
+79/68
+
+66/55
+broad institute genome sequencing platform* & broad institute
+*broad institute genome sequencing platform jennifer baldwin10
+evolutionarily divergent u11 small nuclear ribonucleoprotein particle
+63%
+211
+
+enc deviation
+
+©2007 nature publishing group
+
+articles
+
+nature
+16centro de biologi molecular severo ochoa
+`dna binding activity
+217
+©2007 nature publishing group
+
+articles
+seva kashin10
+transcription factor binding sites
+grimshawi drosophila
+
+virilis group repleta group
+
+figure 1
+`peptidase activity
+`zinc ion binding
+0
+biological process
+unknown defence response
+total genomic transposable element content varies substantially
+cellular process transcription adult reproduction
+melanogaster genome
+
+203
+©2007 nature publishing group
+
+articles
+
+nature
+melanogaster group provide unprecedented statistical power
+biological process phosphorylation cell organization
+erecta accessory gland expressed sequence tags
+gri
+
+arg leu ser asn
+natural selection drives drosophila immune system evolution
+metabolic process regulation
+genome
+final assembly genome centre q20 coverage
+paralogous genes requires accurate multi-species alignments
+`g-protein-coupled receptor activity
+flag potentially transposable element-contaminated gene models
+accelerated gene loss disproportionately affect groups
+snorna non-coding rna annotations mirna rrna
+satellite dna content reveals significant differences
+`dna metabolic process
+drosophila 12 genomes consortium project leaders andrew
+vertical axis maps homologous locations32
+biological process terms `defence response
+denoting
+
+©2007 nature publishing group
+
+nature
+`receptor activity
+207
+
+©2007 nature publishing group
+
+articles
+
+nature
+209
+
+©2007 nature publishing group
+
+articles
+
+nature
+205
+
+©2007 nature publishing group
+
+articles
+
+nature
+213
+
+©2007 nature publishing group
+
+articles
+
+nature
+215
+©2007 nature publishing group
+
+articles
+
+nature
+phylogenomic approach places additional burdens
+whiskers show approximate 95% confidence intervals
+untangel controversies surrounding sexual selection
+position weight matrix score p-
+dave
+
+216
+©2007 nature publishing group
+
+nature
+brown norway rat yields insights
+folding structures remains remarkably constant
+species-specific miniature invertedrepeat transposable elements
+international chicken genome sequencing consortium
+represent putatively unconstrained neutral standards
+hgsid 5 98180333&clade 5 insect&org 5 0&db 5 0
+oxidative phosphorylation enzyme complexes
+honey bee consensus gene set
+rat genome sequencing project consortium
+blue segments show gene transposition
+selection
+
+©2007 nature publishing group
+
+nature
+acknowledgements agencourt bioscience corporation
+transposable elementderived genomic dna content
+nucleic acids res
+green lines represent syntenic segments
+drosophila phylogeny
+drosophila 12 genomes consortium*
+comparative analysis
+highly abundant transposable element dine-1 suggests
+previously curated transposable element libraries
+recombination events uniformly distribute variants
+developed de novo repeat libraries
+chicken genome provide unique perspectives
+synonymous site saturation prevents analysis
+simply eliminating rapidly evolving regions
+drosophila species suggests vertical transmission
+xenobiotic metabolism evolve significantly faster
+`receptor binding
+shorter median predicted protein length
+mitochondrial dna molecule
+gr genes experiences positive selection121­123
+national human genome research insititute
+cellular location term `extracellular
+12 drosophila genome sequences provide additional evidence
+`trypsin activity
+`helicase activity
+spliceosomal small nuclear rna genes
+204
+©2007 nature publishing group
+
+nature
+214
+©2007 nature publishing group
+
+nature
+©2007 nature publishing group
+
+nature
+lower euchromatic transposable element content
+present results comparing cis-regulatory modules144
+000
+lineage specific
+
+conserved homologues
+
+patchy homologues
+rare amino acid selenocysteine
+families exhibit rapid copy number evolution
+extraordinary comparative genomic dataset remains
+`protein binding
+44 wellcome trust sanger institute
+2l 2r 3r 3l 4 100 85­99 0
+produce high quality draft sequences
+major transposable element classes suggests
+immune-related signal transduction
+position weight matrix matches
+position weight
+
+matrix matches
+centro de ciencias biologicas
+87centro academico de vitoria
+vitoria de santo antao/pe
+pollard14 analysis/writing coordination timothy
+transposable element/ repeat content
+neutral amino acid replacements
+76janelia farm research campus
+non-coding sequence evolution ncrna sequence evolution
+nominally unconstrained loop regions
+12 genomes
+protein-coding gene annotations total
+4 agencourt bioscience corporation
+high-resolution transposable element annotation18
+wellcome trust genome campus
+gene complex controlling segmentation
+`dna binding
+repetitive amino acid sequences
+reciprocal blast method31 applicable
+howard hughes medical institue
+lysine amino acid change
+510 melanogaster group single-copy orthologues revealed
+boxes show interquartile range
+functional non-coding rna genes predicted
+final gene prediction set
+persimilis shows typical ltr abundance
+supersede structural constraints imposed
+euchromatic transposable element/repeat content
+long interspersed nuclear element
+site
+
+pp mp
+
+subgenus drosophila
+eve stripe 2 enhancer evolution
+antibodymediated adaptive immune system131
+adaptive amino acid substitution
+rio de janeiro 21944-970
+gain/loss include `defence response
+lowest transposable element/repeat content
+drosophila genomes reveal non-neutral evolution
+transposable elements pose challenges
+transposable element contamination expression
+ancestral codon usage bias parameters
+x-linked testes chimeric gene
+grimshawi 0
+single-copy orthologues
+
+transcript abundance
+transposable element-contaminated gene models
+tuned myriad biological processes
+functionally similar genes share patterns
+predicted intronic rna structures
+transposable element/repeat detection methods
+washington university genome sequencing center
+initial amino acid alignments
+minimal metazoan trna set
+transposable element contamination expressed
+´ universidad autonoma de madrid
+universidade ´ ~ federal de pernambuco
+universidade federal de ^ ´ pernambuco
+population genetic theory predicts
+move inter- versus intra-chromosomally
+potential transposable element contamination
+honeybee genome sequencing consortium
+wellcharacterized transposable element families
+observe significantly decelerated ds
+maintain rna secondary structure
+de novo reas libraries
+specific life stages suggests
+host defense protein diversity
+find potentially missed homologues
+sacrificing draft genome quality
+conserved intronic rna structures
+`odorant binding
+8 november 2007
+
+articles
+
+expression studies
+total protein-coding sequence ranges
+unusually skewed codon usage
+phylogenetic framework dramatically improves
+increased transposable element content
+major histocompatibility complex class
+high ancestral gc content
+signal recognition particle
+differences reflect underlying biases
+drosophila melanogaster euchromatic genome sequence
+contigs $2 kb n50 contig $2 kb
+detect conditionally expressed genes
+simulans w501 whole-genome shotgun assembly
+geographically isolated hawaiian species
+abundant transposable element family
+selection­mutation­drift theory
+mutation­selection­drift balance101­104
+` universitat autonoma de barcelona
+de novo gene predictors
+repetitive transposable element sequences
+upper panel depicts differences
+functionally similar proteins tend
+immune system genes evolve
+transposable elementcontaminated gene models
+analyses incorporating structural information
+genome structure coarse-level similarities
+drosophila bicoid 39 utr region142
+highly expressed proteins evolve slowly
+human tissue specification
+denmark 68arizona genomics institute
+whole-genome shotgun assembly programs
+host­transposable element co-evolution
+30biomolecular engineering research center
+general transposable element libraries
+annotate distantly related species
+inferred ancestral gene order44
+65 drosophila heterochromatin genome project
+loci reveals overdominant selection
+average pairwise nucleotide distance 5 0
+provide population variation data9
+supplementing experimental analysis based
+protein-coding gene evolution positive selection
+amino acid replacements
+elevated trna gene counts
+73 partial 5s rrna genes
+biological process
+noticeable fraction shows rapid
+accurate multiple sequence alignment
+analysis revealed moderate levels
+enzyme complex
+shared stem-loop structure makes
+ordinarily invariant mature mirna
+58mrc functional genetics unit
+lawrence berkeley national laboratory
+initial homology call set
+metabolic enzymes
+amino acid fixation
+broad functional classes
+inferring genome-scale rearrangement phylogeny
+342 families showed significantly elevated
+fruitfly hox gene complexes
+evolutionarily conserved gene models
+accelerated synonymous site divergence
+taste receptor genes
+drosophila saltans species group
+necessarily show similar patterns
+amino acid substitution
+lineage-specific median 177 amino acids
+xenobiotic group versus
+validate putative gene absences
+assemble full mitochondrial genomes
+pairwise genomic mutation distances
+inferred ancestral pre-mirna sequences
+exhibit adaptive sequence evolution
+specific ncrna gene classes
+gene prediction sets
+
+table 1
+losing gr genes approximately
+recently evolved genes identified
+multiple closely related species
+innate immune system
+comparative genomic sequence data
+mirna­target prediction methods
+intronic dna content
+previously noted105­109 striking reduction
+amino acid repeats
+san francisco state university
+fixed gene gain/ loss
+melanogaster group-specific mirna genes
+transposable element/repeat content
+genome assembly team david
+total genome size estimated
+{total genome size estimated
+terminating signal tga
+maintain proper function
+8 november 2007
+
+articles
+
+chromosomal homology
+amino acid sites
+{genome size estimates based
+genes encoding effector proteins
+0 1 2 3 4 site class 5 6
+
+figure 6
+drosophila pattern recognition receptors
+broad institute
+average estimated free energy
+transposable element contamination
+
+5
+odorant-binding protein family
+5% transposable element content
+transposable element content
+conserved core coding regions
+amino acid divergence
+drosophila melanogaster species group
+pfam structural annotations
+transposable element libraries
+generated dna sequence data
+drosophila ncrna families range
+protein-coding gene family evolution
+high total divergence rates
+ncrna gene family evolution
+genome assembly team*
+1 department
+snrna repeat coverage
+receptor genes involved
+fundamental chromosome arms common
+genes lacking interpro domains
+reconciled frb 1 synpipe set
+position weight matrices
+rna secondary structures
+transposable elements affect
+14biophysics graduate group
+drosophila immune system
+drosophila virilis group species
+gene ontology consortium
+explain gc content
+unannotated transcription
+18 structural studies division
+immune system genes
+suggesting complexspecific selective effects
+species-specific reas libraries
+effector protein classes
+terminal inverted repeat
+find significantly elevated levels
+yeast protein evolution
+rio de janeiro
+arisen de novo
+confirms strongly supported absences
+elegans sequencing consortium
+examined gene family expansions
+catalyse fundamental research
+exhibit testis-biased expression
+transposable element subclasses
+transcription factors
+drosophila melanogaster species subgroup
+identify factors affecting rates
+odorant-binding protein genes
+50 odorant-binding protein genes
+remaining 44 proteins include 14 present
+hox genes typically occur
+exhibit male-biased expression29
+drosophila species vary considerably
+dispersed repetitive dna
+gene copy number evolution
+genome-wide interspecies comparison
+18 redundant amino acids
+functionally relevant sites147
+conserved mirna genes show
+north carolina state university
+adaptive protein evolution
+cytochrome p450 gene superfamily
+transposable element sequences
+-log
+distinguish genuine lineage-specific genes
+mirna biogenesis
+lower panel shows
+hox gene complex
+73beijing genomics institute
+georgius de haan10
+bernardo de carvalho36
+universite de geneve
+repetitive dna sequences
+occasional targeted transposition
+craig venter institute
+recently compiled databases
+fuzzy reciprocal blast
+early development
+drosophila telomeric retrotransposons derived
+published secondary structures
+48bee research lab
+deduced secondary structures
+instability factor
+innate immune pathways
+reconciled consensus set
+1038/nature06341
+
+articles
+evolution
+transposable element families
+transposable element classes
+long terminal repeat
+ncrna gene annotations
+synteny maps allowed
+universitat pompeu fabra
+drosophila species genome size
+transposable element repeats
+shortrange pairings exhibit
+comparative genome sequencing
+specific chemical ligands
+evolutionarily conserved domain
+whole-genome random sequencing
+sec-specific trna suggests
+compensatory nucleotide substitution
+covarying nucleotide sites
+5s ribosomal rna
+comparative syntenic information
+non-coding rna genes
+smith@agencourt
+rna structure predictions
+initial draft assembly
+selenoprotein mrna expression
+51 ´ departamento de genetica
+36departamento de genetica
+86 ´ ^ ´ departamento de genetica
+19departament de genetica
+transposable element discovery
+genomic segments due
+produce high-quality assemblies
+rna evolution focusing
+median 421 amino acids
+low-coverage genomes tend
+assembled size excluding gaps
+larval food sources
+geo series gse6640
+fife ky16 9th
+porto alegre/ rs 68011
+gane ka-shu wong73
+selenoprotein biosynthesis machinery
+distinctive body plan
+n50 contig size10
+kruskal­wallis tests
+synteny-based orthologue searches
+manitoba r3b 2e9
+kristipati ravi ram1
+telomerase-generated g-rich repeats56
+80dipartimento di ` biochimica
+employing translated blast
+embryonic nuclei
+london nw1 4ry
+whole-genome shotgun sequencing6
+average q20 readlength
+false-discovery-rate-corrected mann­whitney
+transposable element evolution
+sex-biased gene expression
+gene expression consistently
+biological sequence comparison
+maximum likelihood framework
+melanogaster group alignments
+integrate syntenic information
+horizontal axis shows
+universitat de barcelona
+molecular evolutionary genetics analysis
+artificial intelligence laboratory
+genome sequences provide
+40genome sequencing center
+recent transpositional burst
+primary dna sequence
+protein-coding content derived
+process
+single selenocysteine trna
+rrna gene loci
+genomic regulation
+reconciled orthologue set
+combined de novo
+non-coding dna 40 bp
+postzygotic reproductive isolation
+clear lineagespecific differences
+honeybee apis mellifera
+transposable element annotation
+transposable element lineages
+dna sequence data
+genes lacking repeats92
+amino acid
+identify food sources
+transfer rna genes
+26 ` dipartimento di genetica
+cellular component
+indian genomics initiative
+comparative genomic inference
+37tucson stock center
+frequent parameter fluctuations
+assembly errors inflates
+form cis-regulatory modules150
+watson­crick pair
+formidable genetic tools
+defined interpro domain
+cryptic female choice
+a1t-rich control region
+oxidative stress mediated
+requiring extra care
+easily scorable functions
+analysed gene-level synteny
+institut jacques monod
+overcome assembly limitations
+whole-genome shotgun assembly
+assembly{/flow cytometry{
+alignment genome sequencing
+functionally similar genes
+genome sequences augment
+predicted gene models--
+n50 contig size
+melanogaster group species
+96european bioinformatics institute
+significantly reduced levels
+genome sequence affords
+distantly related species
+remaining authors contributed
+author information reprints
+comparative genomic data
+consensus gene predictions
+incomplete lineage sorting
+improve gene prediction
+analysed synteny relationships
+similar biological processes
+euchromatic genome size
+element galileo belongs
+previously published sequence
+flow cytometry varies
+epistatic fitness interactions
+telomere-specific non-ltr retrotransposons
+synteny-aided orthology assignment32
+extensive gene shuffling
+gene family size
+explain codonusage bias
+supplementary information section 11
+supplementary information section 13
+supplementary information section 12
+supplementary information section 9
+supplementary information section 8
+supplementary information section 5
+supplementary information section 4
+supplementary information section 7
+supplementary information section 6
+supplementary information section 3
+supplementary information section 2
+gene families expand
+multiway homology assignments
+constraint levels typical
+gene expression level
+solely driven
+17 kb versus 7 kb
+mask problematic regions
+evolve significantly faster
+lineage-specific transposable elements
+unannotated biological functions
+probable genome misassembly
+closely related genomes
+coding gene alignment
+aligning gene models
+high-quality gene models
+10 additional drosophila genomes
+selenocystein insertion sequence
+qualitative model proposed
+closely related pairs
+codon-based likelihood models
+comparative genomic analysis
+characterized mutant alleles
+simple computational screen
+non-degenerate coding sites
+8 november 2007
+
+articles
+university
+comparative sequence analysis
+mir-310/311/ 312/313 cluster
+mirna precursor hairpins
+coding expansion regions
+biological function
+analysis contributors jose
+initial w501 assembly
+spliceosomal snrna genes
+8 november 2007
+
+cecil rise10
+positionally relocated genes
+78 previously reported micro
+closely related species
+entire pre-mirna sequence
+functional category significantly
+producing accurate alignments
+reproductive tract proteins
+2life sciences division
+unresolved research question
+statistically significantly elevated
+95% bootstrap confidence interval 5 0
+common gene ontology
+identify repetitive elements
+8 november 2007
+
+articles
+
+table 2
+recognized ncrna classes
+sufficiently strong selection
+significantly lower variance
+melanogaster
+
+figure 3
+gene model combiner
+mature mirna sequences
+protein- coding genes
+alignment sets produced
+life cycle
+universita di bari
+sheffield s10 2tn
+synteny-based genewise pipeline
+watson­ crick bases
+heterochromatic dot chromosome94
+enzyme
+future experimental work
+shown variable dynamics
+st christophe acer10
+edinburgh eh9 3jt
+selenoprotein messenger rnas
+manchester m13 9pt
+alberta t6g 2e9
+ncbi news fall/winter
+`unknown
+weight homology evidence
+melanogaster species complex
+ancestral gene order
+sdic gene cluster
+molecular function
+multi-genome synteny analysis
+single copy orthologues
+repeats evolve faster
+single determinant dominates
+median vwith alleles 5 0
+genomewide comparative analysis
+multiple telomeric retrotransposons
+effector genes exist
+drosophila genome revealed
+multiple species simultaneously
+drosophila willistoni group
+identified plausible homologues
+distinct site classes
+hox gene clustering
+treat synonymous sites
+entire mammalian radiation
+suggests common mechanisms
+pairwise synpipe calls
+gene family evolution
+background substitutional patterns
+coding sequence/ intron
+average lower p-values
+understand selective constraints
+impose selective constraints
+ubiquitous selective constraints
+adult male drosophila
+predicted gene models
+immune-gene functional classes
+virilis
+59/64 95/95
+strong selective pressure
+rank order abundance
+fluctuating mutation bias
+observed distance effect143
+oxford ox1 3qx
+genes encoding sex-
+positively selected sites
+repeat libraries
+lineagespecific genomic reduction
+1101/gr6249707 genome res
+high-confidence protein-coding genes
+defined interpro domains
+recent common ancestor
+illuminate evolutionary processes
+ancestrally heterochromatic genes
+newly-emerged microrna genes
+sequence evolution directly
+mirna­target interactions
+show high rates
+yeast evolve slowly
+transcription
+evolutionarily young mirnas
+maximum likelihood estimation
+reference based annotation
+12 annotation coordination venky
+abundant genome rearrangements
+8 november 2007
+
+articles
+
+finally
+include cosmopolitan species
+carnegie mellon university
+q20 coverage
+population genetic model
+filling assembly gaps
+homology calls forms
+synonymous codon usage
+12 drosophila genome sequences
+positively selected genes
+improved repeat identification
+independently evolved specialists
+`fastest evolving intron
+inferred 112 syntenic blocks
+accurate annotations
+reduced codon bias
+significantly stronger evidence
+maximum likelihood model
+repbase update release 3
+categories show excesses
+highly expressed genes
+euchromatic chromosome arms
+primary assemblies resulted
+distinct substitution rates
+44 protein-coding genes unique
+fewer target transcripts
+experience positive selection
+evolutionary forces acting
+mirna substitution rates
+contrast genome structure
+observe significant variation
+increasing evolutionary distance
+bayesian analysis suggests
+synonymous substitution rates
+significantly lower rate
+considerably elevated rates
+development 125
+development
+automated generation
+integration markedly improved
+unprecedented dataset
+systematic genome annotation
+expression data increase
+lose detoxification genes
+genomic sequence generated
+predicted protein-coding genes
+drosophila species share
+drosophila cis-regulatory sequences
+appreciably higher frequency
+protein families
+melanogaster gene models
+subsequent horizontal transfer
+calculating evolutionary rates
+made drosophila melanogaster
+discontinuous phylogenetic distribution
+understand global patterns
+rna structures
+higher error rate
+p450 loss events
+evolutionary distances estimated
+generating multispecies alignments
+cell biology
+regulatory element database
+selenoprotein synthesis including
+296 nonancestrally present genes
+identical codon preference
+inferring weak selection
+detected expression significantly
+mirna genes inferred
+rna complexes
+functional genomic analysis
+full 12 species alignments
+evolutionary functional genomics
+protein level
+protein domains
+selenium metabolism
+detoxification/ metabolism
+gene ontology categories
+protein-coding gene annotation
+gene arrangements found
+nucleotide substitution
+annotated protein-coding sequences
+cases linkage information
+pseudo-trna gene predictions
+positively selected codons
+12 drosophila genomes special
+bcats 2005 symposium proc
+genome scale analysis
+melanogaster gene order
+suggesting rapid radiation
+fly dosage compensation
+u11 snrna
+`defence response
+nucleotide sequence
+dramatically improve assemblies
+predicted transcription-factor-binding strength
+persimilis genome sequences
+inferred phylogenetic relationship
+gene families change
+drosophila melanogaster genome
+predicted lineage-specific genes
+lineage-specific mirna genes
+multiple drosophila species
+locate sequence variants
+high quality bases
+non-melanogaster species correspond
+unpaired sites evolve
+generated secondary assemblies
+significantly higher rate
+synteny block size
+non-coding rna
+protein evolution
+strong homology support
+de novo
+testis-specific expression patterns
+moderately diverged genomes
+cambridge cb2 ` 2qh
+microarray experiments fail
+generation time
+two-tailed permutation test
+roughly comparable numbers
+cambridge cb10 1sa
+kaufman acknowledges support
+synonymous site substitutions
+12 drosophila genome assemblies
+ancestrally present genes
+drosophila microrna genes
+heterogeneous selection pressure
+rapidly evolving sex-
+melanogaster genes predicted
+protein evolution78
+estimated substitution rates
+increased codon bias
+environmental diversity encompassed
+reproduction-related genes evolve
+rapidly evolving genes
+experienced positive selection
+12 sequenced species originate
+evolutionary divergence spanned
+significantly greater fraction
+laboratory groups
+erecta evolve significantly
+protein-coding genes involved
+nucleotide alignments
+rna gene
+drosophila species vary
+false discovery rates
+drosophila chemoreceptor evolution
+repetitive dna
+large scale discovery
+fixed genomic rearrangements
+chicken genome
+nucleotide homology
+washington university school
+drosophila genomes encode
+twelve drosophila genomes
+single plant species
+non-coding dna
+pennsylvania state university
+free energy
+including sexual conflict
+examined single-copy orthologues
+0 substitution rate relative
+twelve drosophila species
+structural relationships
+gene content
+subgenus sophophora
+sophophora subgenus
+melanogaster group
+reduced constraint due
+genome content
+arizona state university
+illinois state university
+putatively non-neutral
+flybase evolve significantly
+8 november 2007
+
+articles
+8 november 2007
+
+articles
+
+48
+hox cluster found
+high coverage
+codons inside versus
+assign assembly scaffolds
+compared substitution rates
+transfer annotations
+genomic position
+ancestral element
+evolutionary rate analyses
+multi-species orthology
+31research group
+gene organization
+nucleotide variation
+secondary structure
+stem-loop structure
+duplication generate networks
+played important roles
+drosophila melanogaster telomeres
+observed interspecific variation
+cellular biology
+structural constraints
+gene structure
+identified rox genes
+accelerated rates
+sister species sequenced
+structural alignments
+rna genes
+higher average number
+tga sec codons
+molecular co-evolution
+genome structure
+abundant family
+whole-genome shotgun
+10broad institute
+nuclear rnase
+andrew barry10
+biodesign institute
+dynamic component
+88cajal institute
+additional complexities
+significant differences
+universidade federal
+san francisco
+andrew hollinger10
+rna components
+rox2 rna
+future research
+patchy homologues
+initial sequencing
+transposable elements
+genes genome-wide
+quality score
+mitochondrial dna
+complex olfactory
+non-coding regions
+varies considerably
+25 
+
+figure 4
+figure 2
+species encodes selenoproteins
+genus drosophila exceeds
+*
+drosophila dna
+melanogaster subgroup
+drosophila case study
+ancestral sequences
+pre-mirna sequences
+ancestral set
+cell 88
+cell 72
+reconciled set
+intermediate coverage
+deep coverage
+repeat masked
+calculated
+genuine absences
+22linnaeus centre
+79bioinformatics centre
+lineage specific
+sexual selection
+family predicted
+single copy
+highly abundant
+coding sequences
+rna helices
+structural change
+dynamic nature
+noncoding dna
+gene ontology
+host defense
+natural selection
+significantly lower
+total fraction
+population genomics
+target recognition
+positively selected
+gene set
+remarkably conserved
+provide insights
+analysis suggests
+de bie
+protein-coding gene
+pairwise alignment
+potentially underestimating
+generation
+major determinant
+dave begun29
+extraordinary advantages
+whole-genome assembly
+environmental response
+poly-adenylated transcript
+non-neutral processes
+genome sequences
+high confidence
+expression data
+genomic sequence
+adaptive substitution
+genome sequence
+comparative analysis
+ancestral proteins
+full methods
+homology pattern
+immune effectors
+national institutes
+maximum likelihood
+immune system135
+comparative analyses
+supplementary information
+genomics laboratory
+low coverage
+molecular level
+28 computer science department
+multiple alignments
+dna transposons
+biological sciences
+wide range
+adult flies
+spliceosomal rnas
+interspecific differences
+divergent comparisons
+human genome
+detailed structure
+recent integration
+evolutionary distances
+rrna genes
+drosophila subgenus
+specific topics
+specific signs
+gene families
+434 gene families
+sequencing genomes
+median differences
+nature genet
+mature mirna
+deep sequencing
+sequencing strategy
+singh1 sequencing
+species provide
+dna variability
+5s ribosomal
+cis-regulatory sequences
+jennifer godfrey40
+jennifer hall10
+cis-regulatory regions
+jennifer daub44
+results represent
+genomic location
+site classes
+biological laboratories
+increasing distance
+genome assembly
+genome encodes
+share patterns
+linkage information
+mutation pressure
+gene models
+
+20
+gene models
+sequence alignment
+cis-regulatory sequence
+* genome size
+genome size
+drosophila saltans
+odorant-binding proteins
+higher levels
+paml parameters
+factors affecting
+horizontal transfer
+evolutionary relationships
+increasing levels
+complicated pattern
+genomic repeats
+molecular evolution
+whole-genome analysis
+analysis confirms
+gr genes
+rapid duplication
+expression data29
+significantly higher
+molecular divergence
+faster rates
+syntenic blocks
+406 syntenic blocks
+reproductive proteins
+nature doi
+ncrna families
+sequence quality
+genomic scale
+erecta clade
+evolution revealed
+cytochrome p450
+molecular paleontology
+molecular pathogenesis
+molecular mimicry
+washington university
+codon usage
+24 duplication events
+increased abundance
+melanogaster gene
+high level
+multiple genomes
+12 genomes remains
+11 insect genomes
+mitochondrial genome
+major challenge
+remains unclear
+frequently x-linked
+microarray experiments
+sophophora subgenera
+ancestral node
+homology-based predictors
+rio grande
+approach based
+1360 transposons reveals
+platform
+underlie differences
+putative artefacts
+core motifs
+major mechanism
+cases differences
+common ancestor
+hox genes
+muller element
+gene loss
+tga codon
+rapid rates
+lower blocks
+ltr elements
+assembly size
+gene cluster
+protein
+4 loss events
+261­484 trna genes
+faster rate
+lowest rate
+conserved homologues
+genes expressed
+rapid evolution
+significantly greater
+median estimates
+melanogaster genome
+telomeric retrotransposons
+nature rev
+phylogenetic analysis
+target genes
+effector genes
+drosophila genome
+identifiable homologues
+unambiguous homologues
+experimental evidence
+telomeric elements
+evolution varies
+synonymous sites
+function
+inferring patterns
+biotechnology information
+permissions information
+lower bound
+selective constraints
+genomic analysis
+ancestrally present
+total glean-
+functional constraints
+lineage-specific expansion
+small nucleolar
+paralogy relationships
+functional classes
+species show
+selected genes
+dna polymorphism
+mrc laboratory
+assign orthology
+parameter estimation
+genetic linkage
+physical distance
+synteny plots
+revealed heterogeneity
+show evidence
+genome sciences
+gene labial
+gene trees
+gene essentiality
+initial insights
+single lineage
+genome res
+733 protein-coding genes
+protein-coding genes
+inversion events
+062 interpro domains
+maintain telomeres
+interpro domains
+evolutionary processes
+evolutionary dynamics
+evolutionary inference
+genome evolution
+microrna genes
+high divergence
+510 single-copy orthologues
+single-copy orthologues
+rearrangement rates
+sequence evolution
+homology requiring
+transcription-factor-binding sites
+predicted genes
+detoxification proteins
+sequence divergence
+small fraction
+ncrna genes
+000 ncrna genes
+drosophila genomics
+nonrepeat regions
+proteincoding sequences
+stem regions
+contiguous sequences
+unique opportunity
+pathogen recognition
+shared role
+low-quality regions
+rdna loci
+differing levels
+8s 1 5s
+misassembled regions
+cisregulatory sequences
+flanking sequences
+regulatory sequences
+/gr loci
+highest levels
+carolina center
+genomic age
+genomic comparisons
+genomic perspective
+genomic contexts
+genomic features
+genomic average
+genomic scaffold
+host factors
+substitution rate
+biological significance
+adaptive evolution
+similar rates
+mouse genome
+genome architecture
+genome browser
+genome browsers
+genome features
+genome micro-structure
+high frequency
+unequal usage
+functional elements
+computational genomics
+brown university
+functional domains
+gene predictions
+homology classes
+diverse set
+complementary sequence
+sequence production
+poor-quality sequence
+sequence complementary
+complete sequence
+mirna evolution
+molecular biology
+melanogaster transcripts
+highest abundance
+north carolina 27599
+decreased abundance
+abundance trends
+female sex-
+north carolina
+assembly gaps
+host genes
+correlates significantly
+genomic rate
+reproduction-related proteins
+synonymous divergence
+genes evolve
+protein-coding composition
+protein-coding genes30
+protein-coding genes13
+selective forces
+homology calls
+highly conserved
+genes inferred
+878 genes inferred
+dosage compensation
+reveal
+reflect variability
+gustatory receptors
+illegitimate recombination
+cytochrome oxidase
+vwithout alleles 5 0
+adaptive hypotheses
+evolve rapidly
+previous estimates
+chromosomal location
+melanogaster proteins
+highly constrained148
+population biology
+highly dynamic
+ncrna pseudogenes35
+previously identified
+previously sequenced11
+similar results
+similar numbers
+codon bias
+lineage-specific expansions
+greatest diversity
+maximum parsimony
+phylogenetic relationship
+life sciences
+frb calls
+telomeric retrotransposon
+phenotypic diversity
+analyses reported
+relative abundance
+block varies
+functional class
+sequence variation
+gene gain
+genomic heterogeneity
+host specialization
+74departament genetica
+mammalian evolution
+analysed patterns
+mutation clocks
+cellular
+integrative genomics
+include members
+positive selection
+evolutionary forces
+functional analysis
+39genome center
+54health center
+62umea center
+83national center
+conserved functions
+male sex-
+genome informatics 17
+unpaired sites
+p450 genes
+elevated rates
+small number
+blocks increasing
+supplementary tables 4
+assisted assembly
+false positives
+flow cytometry38
+recurrent insertion
+craig venter57
+genetic code
+common mechanism
+variable strength
+primary coordinator
+precursor metabolites
+reduce biases
+common ancestor57
+assembly quality68
+extensive resource
+increasingly problematic
+largest length
+cis-regulatory dnas
+cb10 1sd
+blast search
+probable combination
+base pair
+institut municipal
+longer-range pairings
+alignment columns
+regulatory networks
+years spanned
+cb2 3ej
+extensively characterized
+mismatch allowed
+author contributions
+previous work
+north caroline 27695
+cis-regulatory code
+primary writing
+cis-regulatory modules
+encode components
+summed length
+independently correlate
+complementary region
+44 lineage-specific genes
+lineage-specific genes
+gene number
+average size
+potential relationship
+genes derived
+multigene families
+supergene families
+non-synonymous substitution
+genomewide rate
+increased rates
+upper blocks
+homology class
+single islands
+inferred patterns
+plant sciences
+homology-based methods
+automated methods
+chromosome arms
+selective regime
+blast-based methods
+evolutionary analysis
+show signatures
+twelve species
+functional consequences
+functional rnas
+functional features
+functional importance
+important factors
+evolutionary rates
+genomic locations
+molecular genetics
+drosophila melanogaster
+fewest variants
+dine-1 propagation
+dramatic reduction
+marked reduction
+trnas versus 0
+drosophila model
+single rate
+tested models
+codon-substitution models
+distinct lineages
+subsequent analysis
+reproduction-related genes
+evolutionary divergence
+evidence classes
+subsequent analyses
+finer scale
+bootstrap values
+maximum-likelihood estimation
+typically regarded
+intermediate scale
+data many-fold
+data support
+entire phylogeny
+yakuba revealed
+gene turnover
+gene finding
+codon positions
+preferred codon
+codon preferences
+codon preferences111
+remaining species
+translational selection
+selection pressures
+pervasive selection
+selection dictates
+singlecopy orthologues
+highly constrained
+highly constrained 2
+coarse level
+chemoreceptor superfamily
+000 targeted reads
+annotated functions
+evolutionary perspective
+evolutionary consequence
+synonymous codons
+ascertainment bias
+mitochondrial mutations13
+strongly conserved
+functional variation
+homology assignment
+fourfolddegenerate sites
+acceptor sites
+fourfold-degenerate sites
+paired sites
+median values
+identify targets
+drosophila evolution
+global distributions
+contrasts dramatically
+unpaired bulges
+pairwise dn
+strong signature
+differ dramatically
+larger variance
+large numbers
+greater dispersion
+important aspects
+evolutionary rate
+genomic clusters
+positive selection135
+positive selection140
+positive selection81­85
+12 drosophila genomes
+drosophila genomes
+sequence similarity
+melanogaster maintains
+melanogaster homologue
+melanogaster genome18
+melanogaster provided
+excellent model
+interspecific variation
+spatial clustering
+pre-eminent model
+abundance owing
+require clustering
+random-breakage model
+drosophila species29
+drosophila evolution57
+drosophila radiation53
+evolutionary patterns
+larger proteins
+homology evidence
+11 non-melanogaster genomes
+estimated rates
+protein-coding pseudogenes
+sister species
+assembly properties
+remarkable similarities
+functional role
+lineagespecific mirnas
+recurrent loss
+computational strategies
+serendipitous discovery
+large fraction
+functional annotation
+supplementary table 15
+supplementary table 8
+supplementary table 9
+supplementary table 1
+supplementary table 2
+supplementary table 3
+supplementary table 6
+supplementary table 7
+supplementary table 12
+supplementary table 10
+supplementary table 11
+supplementary table 13
+supplementary table 16
+supplementary table 14
+assembled reads
+ncrna pseudogenes
+previous analysis
+comprehensive analysis
+non-immune genes
+individual genes
+8 november 2007
+
+mismatches
+8 november 2007
+
+extension
+x-chromosome-linked genes
+proteincoding genes
+200 kb covered
+species-restricted genes
+nonspermatogenesis genes
+64 genes involved
+reproductionrelated genes
+genes supporting
+testis genes
+non-protein-coding genes
+lineage leading
+/gr genes
+genes involved
+drosophila species
+13 drosophila species
+12 drosophila species
+11 drosophila species
+purifying selection
+generally similar
+modulating rates
+modulate rates
+blocks decreasing
+coloured blocks
+mojavensis
+
+hawaiian
+repeat
+melanogaster relative
+previous analyses
+downstream analyses
+single-genome analyses
+11 non-melanogaster species
+non-melanogaster species
+genome biol
+bootstrap distributions
+computer science
+functional categories
+sec codon
+lowerquality assemblies
+updated assemblies
+concerted evolution
+compensatory evolution
+parallel evolution
+birth-and-death evolution
+cis-element evolution
+detoxification-gene evolution
+potential lack
+deleterious mutation
+paml models
+inside domains
+male reproduction
+7 cambridge center
+sequence covariation
+insect mol
+largely conserved
+38 conserved pre-mirnas
+eukaryotic genomes
+wolbachia genomes
+entire genus
+supplementary fig
+chromosome res
+relative rates
+org/ cgi-bin/gbrowse/dmel/
+st louis
+anastasia gardiner25
+shailendra yadav10
+alville collymore10
+sharleen grewal10
+serafim batzoglou28
+danielapollard@alum
+yoshihiko tomimura95
+manfred grabherr10
+trend observed
+cisregulatory modules
+joseph graham10
+1371/ journal
+fritz pierre10
+ac347@cornell
+negative controls
+carmen segarra19
+jane wilkinson10
+alan dupes10
+wolbachia wsim
+stable subtypes61
+95shiba gakuen
+ruiqiang li67
+manyuan long23
+amr abdouelleil10
+elena lozovsky69
+1186/1741­7007­4-37
+components analogous
+dot chromosome97
+pseudo-trna genesis
+alfredo ruiz74
+tmarkow@public
+kim delehaunty40
+karsten kristiansen67
+maura costello10
+canonical progression
+atanas mihalev10
+natl acad
+russell schwartz90
+justin johnson57
+todd schlenke89
+tokyo 158-0098
+kunsang dorjee10
+leonid boguslavskiy10
+neighbourjoining method152
+loryn gadbois10
+h4-lys16 acetylation
+integrated view
+collinear arrangement
+dawa thoulutsang10
+keenan ross10
+roman arguello23
+replace telomerase
+abderrahim farina10
+personal communication
+barbara negre77
+{celera assembler 7
+lisa levesque41
+glutathione s-transferase
+hsiao-pei yang1
+marta puig74
+possibly relating
+tsering wangdi10
+sourav chatterji38
+lucinda fulton40
+gabriel wu32
+brikti abera10
+pouya kheradpour9
+mbeisen@lbl
+edward grandbois10
+independent approach33
+alex lipovsky10
+r684­r686
+footprint database
+jinlei liu10
+bauer dumont
+distributed evenly
+krista lance10
+biotic stimulus
+birhane hagos10
+tashi lokyitsang10
+online version
+aerobic respiration
+sebastian strempel93
+scott anderson10
+helen vassiliev10
+short introns
+hiroshi akashi20
+million years
+integrated software
+nds25@cornell
+eva freyhult22
+meizhong luo68
+margaret priest10
+kristi montooth17
+verify computationally
+talene thomson10
+& eyre walker
+ian holmes32
+santa cruz
+sudhir kumar49
+lisa chuda10
+louis meneus10
+erin dooley10
+sperm competition
+saverio vicario81
+choe norbu10
+enrico blanco31
+important role
+rasmus nielsen78
+approach ignores
+terry shea10
+oana mihai10
+true-positive test77
+luciano matzkin7
+pablo alvarez10
+promoter motifs
+roderic guigo31
+behavioural strategies
+elizabeth ryan10
+erroneous inferences
+yeshi lokyitsang10
+geneva young10
+12flies@morgan
+permutation test
+wei tao4
+filip rege10
+direct re-sequencing
+demographic phenomena
+branch lengths
+christopher strader10
+rachel mittelman10
+tokyo 105-0011
+jonathan butler10
+riza daza10
+eiko kataoka66
+montserrat papaceit19
+sensitive metric
+alan filipski49
+sergio castrezana37
+kevin edwards46
+anna montmayeur10
+variant abundances
+gustatory systems
+valentine mlenga10
+jian lu23
+1038/ nature06323
+marina sirota91
+todd sparrow10
+eds benson
+stuart degray10
+wojciech makalowski20
+arjun bhutkar11
+annie lui10
+sven findeiß49
+fully disentangle
+marvin wasserman97
+pasang bachantsang10
+qing yu10
+eugene myers76
+bryant mcallister42
+sam griffiths-jones5
+peili zhang11
+rebecca reyes10
+s214­s225
+previous findings
+montserrat aguade19
+seminal fluid
+yu-hui rogers57
+dennis friedrich10
+eli venter57
+umea se-90187
+tokyo 181-8611
+derek wilson18
+claude bonnet10
+hybrid strategy
+homeotic homeobox
+wilfried haerty24
+chromatin states
+shangtao liu10
+allen alexander10
+exquisite simplicity
+tested explicitly
+close relatives
+sampath settipalli10
+mihai pop45
+fruit fly
+senait tesfaye10
+gsts identified
+kerri topham10
+pacific islands
+asif chinwalla40
+rhode island 02912
+marginally over-represented
+erii husby10
+adal abebe10
+tracey honan10
+so-jeong lee68
+nicole stange-thomann10
+vasilia magnisalis10
+degrade ddt128
+kim pruitt83
+yama thoulutsang10
+passang dorje10
+dan hultmark62
+sheridon channer10
+daisuke yamamoto99
+pathogen antigens
+greg gibson53
+negative log10
+alberto civetta41
+ben kanga10
+tashi bayul10
+kimberly dooley10
+teena mehta10
+tamrat negash10
+remain intact
+charlotte henson10
+maximum-likelihood approach
+tina goode10
+electronic support
+glutathione s-transferases
+jill falk10
+investigacio medica
+jamal abdulkadir10
+taxon separation
+frances letendre10
+antimicrobial peptides
+scaffold sizes
+alex wong1
+nabil hafez10
+harindra arachi10
+wolbachia endosymbionts
+accurately predicting
+regulatory components
+geneva ch-1211
+biologia molecolare
+received 19 july
+rakela lubonja10
+chiao-feng lin20
+samuel gross28
+julio rozas19
+christopher patti10
+asha kamat10
+jessica spaulding10
+jerome naylor10
+unicellular organisms
+anat caspi32
+wide array
+nyima norbu10
+aml69@cornell
+ira topping10
+repeatedly domesticated
+kerstin lindblad-toh10
+evgeny zdobnov102
+hokkaido 060-0810
+john spieth40
+leanne hughes10
+homology-based approaches
+partially responsible
+synpipe rely
+justin abreu10
+embo rep
+amy reily40
+hadi quesneville84
+starting point
+input predictions27
+kebede maru10
+leonidas mulrain10
+true-positive tests77
+jun wang67
+results support
+john stalker10
+lloyd low27
+wolbachia wana
+chapel hill
+pen macdonald10
+critical roles
+shed light
+cheewhye chin10
+base composition
+diana shih10
+roberta kwok8
+kevin mckernan4
+exciting opportunity
+dmitry khazanovich10
+transcribed portions
+pema phunkhang10
+arrays custom-designed
+eva markiewicz10
+direct approach
+leopold parts9
+eric lander10
+boris boukhgalter10
+l8s 4k1
+careful inspection
+assembly reconciliation
+missole doricent10
+niall lennon10
+exciting avenue
+sante gnerre10
+previous observations
+fulllength copies
+valer gotea20
+program package
+vertically transmitted
+affiliations appears
+lynne aftuck10
+fasta format
+feeding habit
+yu zhang6
+s154­s164
+volcanic islands
+gff files
+mar marzo74
+tsering wangchuk10
+alejandro sanchez-gracia19
+undergone numerous
+santosh jagadeeshan24
+andreas heger58
+southern denmark
+larracuente1 & nadia
+rosie levine10
+erica anderson10
+powerful illustration
+trace archives
+danni zhong10
+norbu dhargay10
+unambiguously assigned
+stuart newfeld70
+nathaniel novod10
+sendai 980-8578
+hypothesis testing
+conclusively establish
+catherine stone10
+changing environments
+tsamla tsamla10
+mosaic assembly
+i152­i158
+direct contact
+caenorhabditis elegans59
+toby bloom10
+brenton gravely54
+base pairs
+alexander stark9
+yama cheshatsang10
+imane bourzgui10
+alfredo villasante16
+andy vo10
+multicellular organisms
+viginia 20147-2408
+leaves open
+lisa zembek10
+claudia rohde87
+hajime sato66
+shaped extensively
+kunsang gyaltsen10
+net/ 12_species_analysis/
+xu mu20
+sahal osman10
+wolbachia wwil
+corrado caggese26
+paolo barsanti26
+island endemic
+excess selenium
+radical glycine
+gff format
+highest numbers
+don gilbert8
+paired wilcoxon
+mieke citroen10
+damiano porcelli26
+lior pachter38
+ngawang sherpa10
+graziano pesole80
+brendan mckernan4
+dna-based transposons18
+muneo matsuda66
+tanya mihova10
+covarying nucleotides
+sheila fisher10
+nga nguyen10
+datasets generated
+toxic compounds
+manolis kellis9
+sujaa raghuraman10
+von allmen
+tbs7@cornell
+mouse genome36
+kiyohito yoshida101
+wolfgang stephan93
+sharon stavropoulos10
+exceptional outlier
+pie charts
+ladeana hillier40
+exclusively confined
+sarah teichmann18
+accepted 5 october 2007
+maria mendez-lago16
+40 companion papers
+marcia lara10
+sonja prohaska49
+haemophilus influenzae
+diallo ferguson10
+alicia franke10
+boris adryan18
+independent approaches
+thu nguyen10
+xiaohong liu10
+heather ebling4
+largely recapitulated
+phil batterham27
+shiaw-pyng yang40
+nadh dehydrogenase
+assembly artefact
+drosophila telomeres
+rna
+rna 13
+muller elements
+`muller elements
+sequenced genomes
+12 sequenced genomes
+families absent
+5% false-discovery rate
+highest rate
+selective constraint
+single deletion
+human genetics
+sequenced genomes53
+evolutionary biology
+well-defined phylogeny
+12-species phylogeny
+chromosome ends54
+dot chromosome
+chromosome arms32
+chromosome arm
+genes annotated
+simulans assembly
+diverse species
+species living
+species retaining
+species tree
+species pairs
+individual species
+environmental science
+fewer snornas
+strongly constrained
+fewer targets
+infer similarities
+venky@berkeley
+homology-based evidence
+convincing evidence
+large number
+derived mutations
+substantial fraction
+situ patterns
+link patterns
+connect patterns
+temporal patterns
+annotations
+predictions observed
+3 annotations
+relative homogeneity
+frb algorithm
+sequenced species
+12 sequenced species
+larger blocks
+lineage-specific shift
+species phylogeny
+12 species phylogeny
+drosophila biology
+phylogram derived
+detoxification enzymes
+data partitioned
+general datasets
+spatial heterogeneity
+general perspective
+oxford univ
+assembly accuracy
+marked heterogeneity
+chromosome relative
+evolutionary constraint
+computational biology
+tart elements
+mobile elements
+tir elements
+drosophila genus
+genus drosophila
+annotated 99 copies
+unassembled reads
+developmental roles
+91biomedical informatics
+unplaced reads
+biomedical informatics
+annotated features
+newly annotated
+exact test
+evolutionary timescale
+evolutionary time
+evolutionary signatures
+frequency distributions
+artefactual duplication
+adam wilson10
+structural
+ecological status
+susan russo11
+adam navidi10
+peter kisner10
+branch leading
+susan faro10
+identified members
+repeatmasker 1 reas
+susan mcdonough10
+peter an10
+patrick minx40
+peter rogov10
+adam brown10
+distant members
+patrick cahill10
+ecological shifts
+patrick cooke10
+computational identification
+non-synonymous divergence
+estimated number
+66kyorin university
+city university
+tohoku university
+cornell university
+duke university
+yale university
+101 hokkaido university
+emory university
+umea ° university
+mcmaster university
+david rand17
+david sturgill6
+93 coverage
+13 coverage
+drosophila dnase
+conservative approach
+thomas watts7
+pinpoint locations
+richard lapoint71
+college park
+internal loops
+cysteine codons
+insecticide resistance
+trends genet
+physical properties
+low numbers
+thomas eickbush47
+low values
+plos genet
+hairpin loops
+richard elong10
+total
+chromosomal context
+loss compared
+effective number
+intron number
+average number
+willstoni
+
+muller
+galileo
+muller
+cluster splits
+impact models
+orthologous genes
+genes implicated
+drosophila simulans
+genus root
+melanogaster selenoproteins
+charles matthews10
+nature 276
+charles chapple31
+iyer13 & daniel
+daniel barker25
+nature
+daniel bessette10
+nature 443
+nature 409
+vast majority
+nature 335
+nature 432
+nature 420
+brian hurhula10
+nature 428
+william lee10
+10 & william gelbart11
+nature 415
+nature 380
+william mccusker10
+charles robin27
+brian walenz57
+wide variety
+brian oliver6
+frequency distribution
+nature 437
+kaufman@indiana
+dine-1 paralogues
+dna
+biomolecular science
+physical science
+9computer science
+masked versions
+substitutions occurring
+robert reenan85
+masked bases
+recessive mutations
+detailed study
+individual mutations
+mutations removed
+silico identification
+nonsynonymous substitutions
+current study
+robert fulton40
+robert nicol10
+robert good27
+vertebrate evolution
+drosophila yakuba
+assess constraint
+relaxed constraint
+jason blye10
+simulations reject
+christina demaso10
+interacting nucleotides
+invertebrate taxa
+aaron berlin10
+pesticide sensitivity
+notch locus
+metazoans deal
+lineage-restricted mirnas
+individual instances
+enzymes involved
+adh locus
+plos comput
+social insects
+masking procedure
+dk-2200 copenhagen
+laura sirot1
+dk-2100 copenhagen ø
+lu shi10
+widespread discordance
+fast lane
+inbred strains
+largely absent
+chromosomal inversions
+trends biochem
+difficulties notwithstanding
+striking contrast
+reverse orientation
+reflects weak
+glean runs
+finding merits
+14 losses comprise
+microbiologia dell
+opposite strand
+marc azer10
+uppsala universitet
+conservative test
+bmc bioinformatics 6
+bmc bioinformatics 5
+drosophila pseudoobscura
+developmental biology
+analyses presented
+ecological specialists
+widespread evidence
+yakuba assemblies
+ratio estimated
+generalist species121
+project
+suggests
+investigated patterns
+university park
+drosophila sechellia
+considerable variation
+plos biol
+bmc biol
+animals examined
+element
+divergent
+provide
+neutral
+driving adaptation
+ana llopart42
+eighteen contractions
+manoli@mit
+james meldrim10
+squares method
+suggested previously113­119
+nih publication
+powerful tool
+iowa city
+low number
+found evidence
+indiana university
+estimate rates
+simulans relative
+michael parisi6
+michael kleber10
+michael weiand10
+sequencing
+specialist species
+approximately 60 ors
+gene-by-gene basis
+reveals
+ancient origin
+represent
+observation results
+pseudoobscura 100/97
+georgia giannoukos10
+striking exception
+robust results
+procedures suggest
+sechellia assemblies
+found heterogeneity
+boston university
+stanford university
+´ syracuse university
+assayed glean-
+prediction
+shows
+copy
+// flybase
+largely consistent
+cases consistent
+specialists compared
+bergman@manchester
+`response
+harvard university
+investigating biology
+euchromatic
+posterior probability
+// ftp
+pattern
+gelbart@morgan
+simulans contigs
+expression
+generalist lineages
+genus span
+willistoni lineages
+intragenomic ecology
+mwu one-tailed
+non-coding
+ananassae
+
+muller
+simulans
+muller
+molecular
+bmc evol
+mp
+granger sutton57
+abundant
+significant
+minor shift
+org
+`proteolysis
+family
+axis
+developed
+w501
+pp
+n50
+blaster-tx 1 piler
+contig
+enc
+remains
+lines
+related
+gary gearin10
+based
+shotgun
+yakuba
+
+muller
+bioinformatics efforts
+constraint found
+simulans strains
+show
+similarly constrained
+homologues
+sex chromosomes
+section 1
+29 section
+hox
+small
+1 relationships
+animal genetics
+genetics doi
+trna
+varies
+minor exceptions
+magnitude difference
+gene 262
+gene 376
+gene 389
+gene
+grimshawi
+grimshawi
+
+13
+expressed
+flybase release 4
+lack selenoproteins
+include
+site
+3 unique
+confidence
+trnas obtained
+genome 46
+genome
+high
+set
+sequence
+significantly
+smith served
+recombination
+vary
+honeybee
+evolving
+observe
+ltr
+predicted
+mirna
+synonymous
+71 previously
+200 kb
+kb
+initial 2
+previously
+similar
+identify
+human
+oliver@helix
+genetica
+evolve
+mutation
+terms
+inferred
+center
+length
+effects
+arms
+occur
+processes
+genetic
+hughes
+validate
+reas
+assembly
+synpipe
+common
+distinguish
+alignment
+makes
+engineering
+fruitfly
+move
+invariant
+39 utr
+size $
+size
+families
+1360 families
+constraints
+classes
+proteins
+higher
+methods
+dine-1
+remaining
+p450
+reduction
+elevated
+repeats
+variants
+models
+lineage
+quality
+lineage-specific
+alignments
+assembled
+retrotransposons
+improve
+upper
+data
+typically
+derived
+experienced
+interactions
+increased
+selection
+orthologues
+level
+bias
+mitochondrial
+homology
+sites
+median
+& long
+strongly
+expansions
+melanogaster
+23 present
+frb
+insights
+505 sex-
+gaps
+model
+carolina 53 27708
+find
+clustering
+slowly
+present
+drosophila
+discovery
+class
+factors
+class 1 1 0
+chromosomal
+loss
+order
+cluster
+analysis
+300 genes
+44 genes
+genes
+698 genes
+8 november 2007
+
+115
+8 genes
+8 november 2007
+122 genes
+563 genes
+rates
+rapidly
+analyses
+res
+assemblies
+13 assemblies
+evolution
+estimated
+estimated 5
+divergence
+conserved
+12 genomes
+genomes
+intron
+denmark
+bari 70126
+ncbi
+compensatory
+free
+barcelona 08071
+000 bp
+roles
+dot
+observed
+fail
+approach
+exceeds
+played
+rox
+generated 52
+galileo
+st
+genewise
+encompassed
+mechanisms
+rearrangements
+striking
+average
+approximately 20%
+& young
+89 madrid 28002
+bayesian
+case
+roughly
+928 cases
+alberta
+producing
+numbers
+pairs
+bari
+improved
+12­23% increase
+due
+generating
+conflict
+strength
+database
+preference
+kaufman
+madrid 28049
+rnas
+heterogeneous
+generated
+sheffield
+results
+involved
+mediated
+produced
+identified
+elegans
+frequency
+regulatory
+manchester
+bases
+fixed
+weak
+edinburgh
+diverged
+barcelona 8003
+barcelona 08003
+excluding
+approximately 700
+locate
+testis-specific
+support
+rate
+sequenced
+phylogeny
+chromosome
+species
+12 species
+evidence
+fraction
+patterns
+predictions
+relative
+variation
+change
+examined
+virilis
+general
+heterogeneity
+oxford
+purifying
+annotated
+telomeres
+superfamily
+test
+developmental
+relationship
+reads
+informatics
+inside
+distributions
+role
+supported
+patrick
+adam
+peter
+susan
+members
+leading
+transposons
+sec
+block
+larger
+ecological
+gain
+annotation
+university
+lineages
+reproduction 131
+contigs
+reproduction
+david
+1
+
+contigs
+helices
+snornas
+codons
+school
+non-synonymous
+properties
+targets
+variability
+question
+specialists
+locations
+combined
+persimilis
+resistance
+conservative
+low
+paml
+pennsylvania 21 16802
+richard
+loops
+park
+7 codons
+thomas
+genet
+algorithm
+categories
+43 school
+pennsylvania 15213
+constrained
+000 number
+number
+muller
+biology
+table 2
+table 1
+208
+
+genus
+genus
+charles
+release 4
+release 2
+release 3
+daniel
+indiana 47405
+majority
+william
+brian
+variety
+distribution
+science 269
+science 287
+science 282
+science 278
+science 298
+study
+substitutions
+125 substitutions
+erecta
+robert
+1 mutations
+055 substitutions
+identification
+mutations
+masked
+constraint
+similarity
+genesis
+significance
+subgenera
+fig
+stanford
+arizona 85721
+signature
+implicated
+syracuse
+boston
+doi
+signatures
+sensitivity
+timescale
+mirnas
+blaster-tx
+contrasts
+rely
+absent
+time
+remarkable
+laura
+shift
+widespread
+opposite
+sutton57
+difficulties
+masking
+pseudogenes
+investigating
+orientation
+investigated
+fruit
+taxa
+generally
+tir
+christina
+arizona 85287
+illinois 61790
+marc
+cambridge
+gary
+fast
+glean
+dnase
+partitioned
+metazoans
+aaron
+rnase
+splits
+detected
+arizona
+contrast
+search
+losses
+minor
+phylogram
+uppsala
+reject
+`mosaic
+enzymes
+turnover
+differ
+generate
+instances
+comput
+copenhagen
+finding
+sex
+illinois 60637
+context
+reduce
+vertebrate
+nucleotides
+owing
+deletion
+orthologous
+deleterious
+locus
+span
+considerable
+mobile
+tart
+jason
+served
+insects
+animals
+reconciliation
+reflects
+animal
+lu
+covered
+granger
+efforts
+biochem
+underestimating
+microbiologia
+strains
+clusters
+piler
+magnitude
+artefactual
+artefact
+gearin10
+compared
+bioinformatics
+bioinformatics 22
+bioinformatics 21
+ananassae
+harvard
+simulans
+berkeley
+4 found
+found
+scaffolds
+selenoproteins
+chromosomes
+trnas
+lack
+generalist
+297 trnas
+willistoni
+biol
+genetics 158
+genetics 153
+genetics 154
+genetics 139
+genetics 129
+genetics 155
+genetics
+genetics 146
+genetics 144
+genetics 167
+genetics 164
+genetics 172
+genetics 173
+genetics 169
+specialist
+obtained
+iowa 52242
+exceptions
+inversions
+tool
+suggested
+ana
+nih
+presented
+james
+ratio
+iowa
+oliver
+difference
+& oliver
+method
+29 inversions
+adaptation
+covariation
+including
+rev
+mit
+accuracy
+yakuba
+contractions
+michael
+suggesting
+finally
+82 department
+41 department
+department
+67 department
+20 department
+50 department
+27 department
+42 department
+98 department
+similarly
+observation
+dn
+basis
+exception
+suggest
+repeatmasker
+ors
+origin
+georgia 30322
+helix
+georgia
+pseudoobscura
+driven
+impact
+robust
+infer
+polymorphism
+georgia 30602
+estimate
+flybase
+paralogues
+proc
+glean-
+sechellia
+consistent
+bergman
+& smith
+smith
+probability
+ftp
+gelbart
+& gelbart
+mojavensis
+mwu
+ecology
+evol
+mol
+halligan
+melbourne 3010
+72department
+massachusetts 02138
+& vieira
+130 mb
+hermann
+99department
+71department
+autosomes
+rise
+encounter
+x2 5 41
+schlenke
+grimshawi52
+tang
+tijet
+enhance
+clifton40
+fit
+chen
+& hurst
+coordinating
+asia
+translation99­101
+mel
+protection
+china
+active
+chemoreception
+78institue
+changed
+bloomington
+paris
+karin
+california
+& wheeler
+& markow
+classification
+jerry
+evans48
+explained
+mir-2b-1
+//flybase
+removal
+e7
+chooses
+reed53
+garvin4
+& holloway
+kapitonov
+connecticut
+kumar
+mb
+° ° chicago
+mi
+mt
+suggestive
+& heringa
+1534/genetics
+wang
+& yorke
+gordo
+end
+recovery
+& eyre-walker
+bulmer
+tcoffee34
+& kumar
+adjacent
+ordinary
+lai
+12flybase
+49center
+& ritchie
+italy
+types
+beltsville
+schneider
+e173
+diptera
+hinxton
+mis-annotated
+conserved--
+japan
+e310
+solidus
+puig
+knudsen
+bethesda
+amenable
+strausberg57
+break
+u12-dependent
+represents
+bowdoin
+rockville
+56institute
+anxolabehere
+& stephan
+mariana
+feeds
+carlos
+77department
+pseudoobscura5
+47department
+principles
+8/22
+combining
+geneid19
+& wolstenholme
+bhutkar
+restricted
+& machado
+medicine
+gov
+90department
+gardiner
+midpoint
+maryland 20892
+management
+sandra
+foley10
+entomology
+hahn
+grady
+appl
+illustrate
+valente51
+rocha
+ranging
+serve
+butilne
+tsolas4
+gst
+45center
+twenty-
+aquadro1
+williams
+loss67
+winnipeg
+site-classes
+suppl
+calvi35
+& clark
+implemented
+corbin
+hahn8
+wing68
+& ponting
+-
+oriented
+materials
+melanogaster45
+melanogaster48
+spermatogenesis
+& rubin
+established
+involving
+germany
+assessed
+shenzhen 518083
+possesses
+yang
+incorporate
+ncrnas
+availability
+coldspots
+rich
+anderson21
+stop
+half-telomeric-retrotransposons
+sequestration
+jones63
+& hoffmann
+shape
+ballard
+fertility
+explanations
+respond
+questions
+depends
+carolyn
+result
+subject
+setagaya-ku
+notredame
+immunol
+costello43
+unable
+melissa
+& lipman
+extent
+accessed
+han
+edgar
+parasites132­134
+tgt/tgc
+contribution
+assemblers
+haerty
+0/21
+langley29
+universals
+expected
+braverman
+efficacy
+& ruiz
+applied
+mates
+keightley56
+aid
+schaeffer
+carlson
+well-validated
+australia
+23department
+parisi
+split
+filtered
+showing
+8/21
+se-75124
+caceres
+josep
+sps2129
+diptera50
+barbash1
+quest
+jean
+left
+364 mb
+birth
+edmonton
+campbell
+1038/nature06340
+emergence
+mohamed
+ease
+ewen
+quesneville
+sturgill
+usa 104
+8department
+abt17
+butlin34
+unification
+usa 103
+usa 102
+usa 101
+usa 100
+`non-sex
+www
+detoxification/metabolism
+contrast22
+`covariations
+angie
+arthur
+/
+ubiquity
+commensally
+& lercher
+e77
+hung
+substituted
+mount45
+limitation
+e152
+levine
+bosak4
+& keightley
+opin
+jordan64
+soc
+massachusetts 01915
+& aquadro
+reducing
+anderson
+conservation
+frilander
+drummond
+melanie
+encoded
+true
+tucson
+types
+206
+& yang
+comeron42
+gleaning
+tarrio
+respectively124
+pseudotrnas
+nc
+reality
+smell
+35department
+aagard
+foldback-
+russo
+jones
+nhgri
+pseudo
+& rozas
+breadth
+{arachne4
+/nature
+rob
+rod
+obviate
+morphology
+& axel
+depend
+environment
+jeck63
+& wilke
+recoding
+jaffe10
+4/23
+advantage
+zhang
+transposon
+melanogaster3
+bierne
+1534/genetics107
+melanogaster8
+schaeffer20
+gustafson4
+contrasting
+brockman10
+intronless
+farmington
+ere
+secis
+suspect
+non-proteincoding
+& charlesworth
+ardell22
+0 mb
+r42
+5faculty
+n-scan21
+myers
+plotted
+/reprints
+dowsett
+wealth
+prove
+confounded
+angela
+france
+live
+pedersen60
+gotea
+nguyen
+hubisz61
+sackton
+1/22
+spuriously
+bioengineering
+do28
+salzberg45
+r29
+r23
+348/11
+lacks
+discussion
+sechellia/
+97department
+cocktail
+39 end
+sno
+martin-romero
+drosophila69­73
+genus65
+//genome
+date
+su
+vieira
+switch
+recife/pe 68011
+r112
+stability
+richards
+wu23
+& li
+snap20
+lin9
+presence
+offers
+policy
+maii
+correspondence
+usa
+half
+melanogaster39
+kern
+chatterji
+begun
+canada
+ultimately
+cytb
+massachusetts 02139
+contained
+investigation
+kaufman8
+correct
+possibility
+saranga4
+milburn
+ponting58
+pollard
+place
+e197
+fight
+& hartl
+otero
+heredity 97
+kulathinal
+chem
+& pachter
+kliman
+pittsburgh
+& batzoglou
+pathogens
+genomewise
+mcbride
+surprisingly
+koerich36
+casals
+connecticut 06520
+sezzi
+usda-ars
+efficient
+drosophila37
+note
+ideal
+gleason
+murphy
+bosco
+generalists122
+telomere
+genemapper
+anatomy
+queens
+1371/journal
+sutton
+& arguello
+dordrecht
+implications
+hubisz
+precise
+q40
+maryland 20742
+discovered
+nlm
+proportion
+threefold
+thompson
+grants
+larsson
+laboratory-induced
+yorke100
+contracts
+expectation
+sanchez-gracia
+andolfatto
+conjunction
+summary
+roger
+mapped
+finishing
+amanda
+covariations
+progress
+60 grs
+ways
+fdr
+huntley1
+abad16
+deletions
+tania
+congruent
+originated
+ascribed
+csic
+civetta
+& ashburner
+efficiency
+contract
+salzberg
+bio5
+proteins86
+filtering
+siii
+overview
+randall
+maintained
+& rand
+unusual
+carew
+barry
+hinrichs60
+selection96
+lemaitre
+stephen
+stems
+orf2
+mount
+accommodating
+sackton1
+prevalence
+karpen13
+males93
+discrepancy
+technology
+verified
+han43
+genes136
+underestimate
+pal
+jeffrey
+& begun
+wittkopp
+minimize
+research0086
+relied
+cce
+& arnold
+riddle
+celniker
+& halfon
+harrison
+ithaca
+death
+regent
+guigo
+bradley32
+nielsen
+pse
+moj
+brent33
+& cristianini
+adams
+stranger
+serves
+part88­91
+beverly
+output
+adami
+drake
+& gerstein
+confirm
+deficit
+noor
+schatz45
+specialisation
+sex/reproduction
+notable
+notably
+diet
+ratios
+& barton
+welch
+vera
+discussed
+52department
+srp
+yakuba/
+allowing
+press
+leonardo
+adrianne
+stajich
+hazards
+lazzaro72
+start
+` shenzhen
+assumes
+yak
+mammals
+& caccone
+souvorov
+pbio
+64institute
+embedded
+bioinform
+describe
+moved
+al
+examine
+reliability
+org/blast
+dawn
+refs 137
+assessing
+biochemistry
+sufficient
+birney
+blackburn
+rieger86
+confirmed 4
+70school
+gross
+mir-303
+sci
+& hubbard
+lindfors
+mollenhauer20
+california 95616
+opportunities
+genbank
+spain
+nodes
+centromere
+fay
+r13
+e43
+minato-ku
+markow
+fall
+higgins
+list
+//ftp
+lindfore
+bellaterra 08193
+ten
+vieira19
+drosophila61
+coyne
+sum
+abt
+maryland 20894
+york 14853
+& barbash
+38department
+3/22
+therese
+behaviour
+persimilis/
+andrews
+odense
+lineages135
+amount
+9 mb
+barker
+africa
+vir
+induction
+63department
+hoffman
+redfly
+wolfner1
+& petrov
+93department
+*pcap6
+dev
+undercounting
+history
+spearman
+generalists
+challenging
+unbiased
+chelsea
+bergman5
+sharp
+americas
+00 ­log
+sechellia120
+vilella19
+huard10
+ritchie25
+& elgin
+massachusetts 02215
+bloom
+genewise23
+declining
+clark1
+& han
+paper
+sapporo
+absence
+missouri 63108
+gbrowse
+catalonia
+9/22
+& dermitzakis
+9/21
+association
+accessory-gland-specific
+ludwig
+powell
+referred
+clamp
+brosius
+15field
+expect
+kudrna68
+34animal
+douglas
+participants
+health
+denoted
+ranz
+issue
+eisen2
+included
+0012 gains
+curr
+celniker2
+tahre
+bustamante
+hu
+25school
+taxa40
+wilder
+filipe
+parsch
+lower-quality
+84bioinformatics
+interact
+assumption
+brooks13
+stephanie
+part
+jordan
+differentiate
+york 13244
+dk-5230
+machado7
+willistoni110
+rodriguez-trelles
+treated
+durham
+brown33
+garfield
+& hollocher
+selm
+rochester
+lin
+york 14627
+donor
+goldman
+measured
+villasante
+huntley
+stephan
+eisen
+& pedersen
+bertone
+zimin100
+relation
+ucsc
+singh24
+betran
+deserts
+introgression
+msm196
+& birney
+17department
+longest
+parisi4
+delcher45
+temple
+doubled
+investigate
+switzerland
+oyono10
+approaching
+dnarep1_dm
+representing 50­68%
+vertebrates
+collectively
+arl
+102faculty
+greenberg
+tamura
+guides
+leiva-neto
+& ayala
+nat
+prospects
+6 mb
+wilson40
+maryland 20850
+millions
+& luhrmann
+maryland 20705
+drosophila42
+& meller
+24department
+slater
+resolve 4
+adaptively
+raval
+insecticides125­127
+59department
+maintenance
+extends
+representing 8
+precision
+anthony
+& kreitman
+000 yr68
+california 94132
+plants
+intriguing
+heger
+wyatt
+replaced
+evaluating
+robin
+lawing
+overlooked
+neurons
+halter20
+remington57
+piler-df15
+virtually
+mitaka
+mcbride29
+32department
+built
+halpern57
+thornton
+selg
+inactive
+buzzatii
+patel
+& myers
+rasmussen9
+california 95064
+& nei
+& feschotte
+aleksey
+motivating
+halligan56
+retroposed
+monika
+compte
+chung-
+lost
+interestingly
+addressed
+clary
+eesbio
+smith4
+play
+added
+editing
+manak
+annu
+providence
+hemizygosity
+& makalowski
+vol 450
+pseudo-transfer
+step
+larracuente
+59 end
+arguello
+melbourne
+york 11367
+1093/mobev
+100institute
+steven
+katie
+uncertainties
+ontario
+specifically
+85department
+33laboratory
+7department
+criteria
+deviations
+nonenzymes
+line
+mojavensis29
+planet
+kellis
+uk
+california 94720
+ordered
+p450s
+likewise
+trnascan
+sul
+kirkness57
+5dn/ds
+grs
+mtdna
+gstd1
+iyer
+korf
+repeatrunner
+prepared
+fisher
+papp
+paml78
+correlated
+methodologies
+lead
+required
+paml75
+sawyer
+amrien
+moriyama
+over-representation
+heuristics
+markers
+artieri24
+stage47
+neill10
+tissue-specific
+excluded
+lewis
+maryland
+indicating
+jakob
+helvig
+noted
+casola
+compensated
+lander
+6laboratory
+carlo
+non-redundant
+chicago
+13department
+bird
+degree
+92department
+physiology
+extreme
+7/24
+nicholas
+greenberg1
+higherquality
+clark
+wil
+decrease
+neurobiology
+research0079
+chemoreceptors
+fet
+organismic
+akashi
+normalized
+koonin
+moses
+account
+& jurka
+chris
+fdr 5 0
+fdr 5 7
+tatusov
+located
+atpase
+tractability
+yoshiko
+interrupted
+afterlife
+phagocytosis
+olfactory/odorant
+tropics
+facilitated
+exonerate24
+waterston
+chosen
+t-coffee
+li
+garcia51
+arndt
+& singh
+medecine
+carboxyl/choline-esterase
+documented
+pif-transposase-
+sim
+subset
+hoskins2
+markow7
+relocation
+casey
+flushing
+10% fdr
+ref
+red
+tempe
+tempo
+york
+ponce
+``silent
+times
+behaviour1
+explored
+davis
+retain
+kendall
+aco10
+manuscript
+mega3
+sisneros68
+smith30
+04-3272
+mauritiana
+4 mb
+detectable
+connecticut 06030
+negre
+fleischmann
+ashburn
+haven
+tobari94
+82152 planegg-martinsried
+submitted
+sweden
+chang10
+wilke
+providing
+smith65
+genes139
+linked
+domestication
+studying
+empowered
+noor52
+instance
+singh
+techniques
+brazil
+pif-
+& eickbush
+synpipe32
+disease
+face
+rfam
+stark
+deng
+het-
+answered
+albert
+text
+one-
+raleigh
+gallo
+jay
+55center
+69department
+q-
+mortality
+immunity/defence
+hairpin-loop
+footprint151
+drosophilids
+chuong
+respectively14
+multiplying
+humans
+sophophora-specific
+california 94305
+creating
+exploited
+60center
+& eisen
+breakpoints
+61department
+& feyereisen
+& celniker
+& brent
+claudianos
+ability
+focus
+7­30% decrease
+net/12_species_analysis/
+attributes
+rama
+wall
+leipzig
+ac
+respect
+estimating
+addition
+coyne23
+cent
+mathematics
+microsatellites
+hernandez
+75department
+57j
+atlanta
+vicario
+originiation
+sustained121
+dynamism
+& schaeffer
+org/cgi-bin/gbrowse/dmel/
+grady71
+toxicity
+marzo
+powell81
+ranson
+insight
+46department
+yakuba49
+matthew
+calabrese
+brand4
+castellano
+difficult
+http
+mcvean
+charlesworth
+& swanson
+requests
+leipzig 04107
+nonetheless
+thought
+gnomon26
+hamilton
+abad
+storey
+neurosciences
+mira
+dance
+garfield52
+tastants
+match
+81department
+munich
+94institute
+alternatively
+phylogenomics
+dipterans
+gillian
+tomancak
+unassociated
+kulathinal69
+subramanian
+phillippy45
+chains
+mode
+athens
+hom-
+stage
+gained
+insufficient
+yanai
+predictor
+3center
+david4
+8/19
+nematode
+speciation
+zoology
+expand66
+gleaned
+montooth
+recruited
+hotspots
+hundreds
+11department
+massachusetts 02142
+& powell
+zimin
+converted
+limit
+tissues
+pif
+reas17
+erik
+& durbin
+genemapper25
+biosci
+rubenfield4
+testis-
+calibration
+details
+normal
+conclusion
+stat
+colonized
+footprints
+deborah
+chance
+telomerases
+elsik
+inset
+/cgi-bin/hggateway
+validation
+8 166
+295
+823­826
+0053
+0052
+270
+49
+276
+152­161
+10%
+29798­29804
+174­183
+103
+106
+107
+104
+7 231
+059
+1­9
+055
+1 3 1024
+99
+98
+91
+90
+93
+92
+95
+96
+1992
+1995
+1997
+379­393
+1998
+5
+
+10
+-289
+0 57
+0 54
+559­564
+32
+68%
+144
+29%
+109
+­
+652 5
+066
+621­0
+1126­1130
+279
+101
+73 3
+709­722
+546
+070672
+1675­1681
+7 3 10224
+250 246 242 255 252 194 203 199 216 165 139 154
+
+78 70 78 80 81 76 73 75 77 74 71 82
+
+101 72 133 55 101 134 55 80 76 294 74 70
+
+28 32 30 37 38 29 31 31 37 31 30 32
+
+5
+0 193
+03
+0525
+05
+0%
+363
+380
+05 0
+6
+
+0
+0292
+108
+25%
+102
+97
+100
+1 8
+0186
+1 0
+5 57
+0701
+105
+39
+949­958
+164
+165
+1085­1095
+47 15
+1854­1859
+931­949
+1978
+337­348
+5 242­255
+4 8
+5483­5488
+119
+59
+58
+55
+57
+1556
+51
+52
+54
+5%
+058
+56
+53
+7 57
+6 3 10213
+0 188
+10 0
+423
+15 0
+384­392
+120
+04 6
+1­10
+151
+150
+153
+152
+155
+154
+856­0
+084
+1­0079
+81%
+94
+0
+8 45
+128
+814
+816
+28­38
+1996
+1999
+113­129
+526­532
+00 0
+4­53
+5
+
+297
+4 235
+2012­2018
+729­0
+555
+1 10
+25 3 1024
+235
+1
+146
+147
+145
+142
+143
+148
+132
+860­921
+123
+0091
+75251
+327 5
+1991
+&
+14338­14343
+1151­1158
+1993
+344 3
+226
+9
+
+137
+3 49
+100%
+632
+
+17 43 125 458 113 20 197 136 132 114
+
+90
+62%
+2
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+1%
+1297­1307
+1 3 10216
+327­337
+8 5
+
+2 6 2
+
+3 5´ 6 4
+
+0
+037
+6 8
+200
+140
+15
+
+0
+680
+5 2
+96 8
+49%
+85 3 10214
+20
+
+0
+9 4
+9 9
+3
+102­103
+25
+713 6
+23
+6%
+60
+61
+63
+64
+65
+66
+67
+68
+50%
+2 98
+493­521
+431­449
+6569­6574
+000 15
+63­75
+4570­4574
+5
+
+0
+565­570
+695­716
+210
+000
+
+10
+4
+62
+1711­1726
+9935­9939
+70126
+2185­2195
+171­185
+5­14
+91%
+849
+5 3 1024
+5 2 3 1024
+2196­2204
+339­350
+2002
+2003
+5
+075069
+484
+5 206
+821­837
+2 0
+2 7
+167­170
+7 152
+`
+011
+000
+
+25
+0681
+0110
+1­18
+6 98
+6 97
+908
+5 9
+5 6
+5 5
+5 3
+5 0
+5 1
+252­271
+6
+615­636
+1022­1024
+89
+0
+
+2
+1343­1352
+497
+24
+26
+27
+20
+21
+22
+28
+29
+2%
+1613­1619
+11­22
+9 50
+9 54
+6­32
+7
+0108
+4
+
+0
+1874
+40%
+875­884
+1620­1624
+868
+880
+884
+697­702
+6 47
+179­181
+2
+
+0
+97 24
+074112
+7%
+773
+77%
+76
+75
+74
+72
+71
+70
+79
+78
+2 3 1026
+2 3 1024
+1049
+212
+66%
+77­93%
+55­59
+69
+909­921
+312
+25 0
+9 49
+10
+
+
+
+0
+0001
+0003
+73
+846­0
+864
+30
+0050152
+381­383
+2 3 10216
+9
+655­0
+003
+001
+007
+006
+008
+6504­6510
+459­469
+53 3 1028
+496­512
+92 2
+417­431
+-303
+555­556
+139­147
+547 6
+302
+306
+77
+49­60
+5 139­165
+1149­1152
+6 165
+05
+
+0
+897­908
+114
+111
+110
+0016
+%
+155 14
+734 9
+1710­1717
+2000
+2001
+2006
+2007
+2004
+2005
+189­198
+93 2
+662
+228­235
+1350­1360
+25­29
+6 3 1026
+57 13
+-313
+-312
+-311
+-310
+692
+5 194­216
+38
+33
+31
+37
+36
+35
+34
+643
+644
+3%
+283 8
+045
+145­158
+8
+8 200
+419­426
+3 90
+3 97
+925­929
+988­995
+9 65
+0023
+36­44
+0050310
+131
+136
+135
+134
+138
+0 2
+0 1
+0 0
+0 8
+631­637
+405­416
+8%
+88
+82
+83
+80
+81
+86
+87
+84
+85
+141
+1658
+76 8
+584
+58%
+1982
+149
+1872­1888
+113­146
+4996­5001
+659
+927­931
+1033­1037
+412­416
+324
+325
+20 0
+0388
+1067­1076
+50
+843 9
+1471­1480
+862
+4 98
+5 99
+5 93
+2042­2054
+121
+122
+124
+125
+126
+127
+129
+133
+1­0086
+546­0
+130
+137
+1153­1160
+9584­9589
+139
+5 4 3 2 1 0 ­1
+733
+189­196
+205­217
+479­498
+5 280
+7 98
+688­693
+67 12
+020
+605­618
+150­163
+295­307
+286
+261
+267
+265
+268
+0609
+11%
+983
+252
+117
+116
+113
+112
+118
+042
+1986
+1987
+1985
+1988
+1­3
+563
+141­157
+´
+32 3 10214
+723
+1747­1749
+35 2
+46
+47
+44
+45
+42
+43
+40
+41
+4%
+650­659
+520­562
+472
+697­743

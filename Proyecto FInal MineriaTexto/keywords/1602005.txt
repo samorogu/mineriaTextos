@@ -1,0 +1,427 @@
+neighbors
+two-dimensional
+similarity
+displaying
+Graphical
+cytoscape
+complicated biological
+evolutionary conservation
+advantage
+activation
+structural classifica-tion
+transcriptional complexes
+Metabolic
+interactions available
+graph-based
+Resultant
+convenience
+biological
+Dahlquist
+three-dimensional
+Fortunately
+import/export
+Currently
+REFERENCES
+expressive
+PathMAPA
+Generating
+organisms
+Subcellular localization
+thickness
+PathwayAssist
+protein計rotein interactions
+high-throughput genetic-based
+generegulatory
+commercial
+understanding
+Published
+represented
+consideration
+state-transition
+successful visualization
+compliance
+published
+implement
+specialize
+navigation
+DISCUSSION High-throughput
+up-to-date
+Subcellular
+flexibility
+microarray experiment
+BioSilico
+subsequent retrotranslocation
+integrating whole-genome
+Microsoft
+Bioinformatics
+theoretical
+Supplementary information
+International Conference
+Postdoctoral Fellowship
+standardized
+adjacency
+Integration
+Identifying regulatory
+particular
+eccentricity
+constructing visualizations
+isomorphism
+Schreiber
+mammalian
+Conserved
+molecular interaction
+genetic-based protein計rotein
+following
+specialized
+Conference
+significant bioinformatics
+correctness
+inaccessible
+uncovering topological
+divide-and-conquer algorithm
+Australian
+respective
+cell-wide
+protein要ucleotide interactions
+user-driven
+CADLIVE
+simplicity
+ubiquitous
+whole-genome expression
+connectivity
+localization information
+molecular interactions
+cis-regulatory
+horizontal
+dynamical
+purification
+complexity
+fundamental
+representation
+hierarchy
+XML-based
+existence
+concentric
+developer
+biological interactions
+susceptible
+highdensity oligo-nucleotide
+Emergence
+particular scientific
+correspondence
+interactors
+Illustrator
+Fruchterman
+protein-protein interactions
+superfamily
+BIOSILICO
+Extensions
+transparent
+Information Visualisation
+computational intractability
+PathBLAST
+composition
+customizable
+magnitude
+importation
+subnetwork
+data-integrating
+preformated
+generation
+double-stranded
+Creatively rephrasing
+Structural Classification
+small-scale
+predefined
+restricted
+interference
+integrative
+investigation
+quantitative immunopre-cipitation
+subcellular localizations
+simulation-directed
+Representing experimental
+evaluation
+integrated
+biological applications
+high-performance
+bioregulatory
+University
+complicated
+`snapshot
+regulatory
+determining
+programming
+necessary information
+manuscript
+dual-representation
+Cytoscape
+over-represented
+well-known
+inter-compartmental
+customization
+specificity
+pragmatic
+publication
+introduction
+biomolecular interaction
+Incorporation
+glucocorticoid
+fundamental hypothesis
+Interviewer
+application-specific
+ACKNOWLEDGEMENT
+Protein計rotein interaction
+describing molecular
+Molecular interaction
+translation
+preferential
+Wilmascope
+molecular
+preparation
+biochemical
+PathwayExplorer
+distinguished
+extracting
+addressing
+ABSTRACT
+Proteomics Standards
+cumbersome
+unsuitable
+transcription
+responsible
+Congressus Numerantium
+alternative graphical
+InitiativeMolecular Interactions
+complexes
+scientific application
+simplistic graphical
+Caenorhabditis
+nucleotide
+Processor
+Funahashi
+BiologicalNetworks
+periphery Mitochondrial
+popularity
+Messinger
+duplication
+integrating expression
+incomplete
+Schwobbermeyer
+Multi-layered representation
+multi-user environment
+Biochemical
+Standards InitiativeMolecular
+availability
+topological
+Biochemistry
+Hierarchical
+rule-based generation
+CellDesigner
+multi-user
+Pajek苔nalysis
+subcellular localization
+large-scale systems-wide
+processes
+sub-cellular localization
+Computational representation
+architecture
+Ashburner
+monochromatic
+biological processes
+integrating molecular
+so-called `ball-and-stick
+individual
+user-interface
+GridLayout
+visualize
+interacting
+INTRODUCTION
+different algorithm
+cooperation
+consecutive
+discovery
+available
+interfaces
+scalability
+force-directed
+efficiency
+Matrixexplorer
+additional bioinformatics
+ChIP-Chip
+Helicobacter
+circumference
+tractable
+scale-free
+protein計rotein interaction
+connection
+attributes
+expression
+cell-cycle
+amenability
+characterization
+`behavior
+community
+dimensional
+Chatr-aryamontri
+applicability
+complementary representation
+localization visualization
+domain-specific knowledge
+interactive exploration
+Functional dissection
+tremendous
+RNAi-based
+Permissions
+generating
+corresponding
+Schwikowski
+sufficient
+protein-small
+Longabaugh
+PATIKAweb
+representative
+Consequently
+countless
+Hermjakob
+difficult challenge
+highthroughput expression
+Supplementary
+optimization
+compactness
+Stromback
+facilitate visualizations
+International Symposium
+high-quality visualizations
+Furthermore
+comparative
+Genome-wide
+Intelligent
+different
+Molecular INTeraction
+visualizing regulatory
+unfortunate
+modification
+molecular complexes
+development
+literature
+available available
+comprehensive
+third-party
+automation
+normalization
+predefined clustering
+cytosolic
+framework
+experimental biological
+incapable
+Systematic identification
+user-assisted
+regulatory information
+non-trivial
+Visualization
+importing/exporting
+underlying
+collaborative construction
+visualizaton
+alignment
+visualization
+interesting biological
+guaranteed
+improvement
+available biological
+High-throughput experimental
+spring-embedder
+protein計rotein/protein要ucleotide interactions
+statistical challenges
+`topology
+hybridization
+Boehringer
+black-box
+Unfortunately
+biologists
+FEATURE
+organellar
+information visualization
+unification
+intersection
+necessary
+Computing
+Cytos-cape
+obtaining 3-dimensional
+informative
+systematic comparison
+metabolic
+graph-theoretic
+developmental
+describing
+WebInterViewer
+integration
+contributing
+connecting
+periphery
+expressing
+non-profit
+integrated visualization
+limitations
+accessing
+repository
+large-scale biochemical
+equivalent
+equillibrium
+Breitkreutz
+Proceedings
+properties
+differential regulation
+constraint
+simulation
+time-dependent
+insufficient
+Expression monitoring
+computational tractability
+communication
+obtaining
+functional
+appropriate
+involvement
+Navigating
+significant visualization
+clustering
+straight-line
+simulator
+Echeverri
+Force-directed
+threshhold
+Biotechnol
+BioTapestry
+potassium
+differences
+sophisticated
+`sufficiently
+knockdown
+hierarchical
+incorporation
+convenient trade-off
+node/edge
+graphical complexity
+protein-protein interaction
+interaction visualization
+three-dimensional visualizations
+exploration
+highlight
+Simulating
+co-located
+universal
+influence
+graphical
+largescale probabilistic
+chromosome
+Visualizing biological
+completeness
+application
+functionality
+Discovery
+vocabulary
+visualizing highthroughput
+cell-wide interaction
+resolution

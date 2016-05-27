@@ -1,0 +1,1436 @@
+genome-wide protein interaction screens reveal functional networks involving sm-
+pcp pathway regulates convergent extension movements
+yeast messenger rna expression profiling data9
+removing date hubs represent functionally homogeneous modules
+epigenetic variation affecting human gene expression
+densely connected regulatory pathway modules tend
+apparently scale-free protein­protein interaction networks
+howard hughes undergraduate research award
+apical­basal polarity pathway operating
+rapid snp allele frequency determination
+yeast protein­protein interaction network
+jing-dong
+damon runyon cancer research foundation
+single knockout affects cellular viability
+original log2 fold change values
+sv total rna isolation system
+hhmi biomedical research support program
+proteomewide cellular localization data set12
+party hubs represent integral elements
+protein­ protein interactions dynamically regulated
+average pcc values correctly predict
+mouse van gogh homologue
+93
+
+nature
+nearby party hub sec22 connects
+lower entropy means greater homogeneity
+/nature
+
+©2004 nature publishing group
+
+letters
+/nature
+
+88
+
+©2004 nature publishing group
+
+letters
+drosophila melanogaster hybrid male rescue gene
+high-quality yeast interaction data set
+performed additional
+
+figure 2 date hubs
+nonparametric mann­whitney u-tests
+expected date versus party behaviour
+roth2 & marc vidal1
+center
+genetic interactions involving date hubs
+howard hughes medical institute
+disrupts neural tube closure
+ribosomal rna synthesis complex
+methods
+protein interaction data sets
+broad high-level categories `cytoplasm
+damon runyon fellow supported
+89
+
+©2004 nature publishing group
+
+letters
+91
+
+©2004 nature publishing group
+
+letters
+party hubs function inside modules
+schematic protein interaction network
+evolutionarily conserved transmembrane protein
+baker2 & marc tessier-lavigne1*
+1 2
+
+department
+large-scale localization data set12
+/nature
+
+©2004 nature publishing group
+global expression profiling compendium9
+nature
+
+figure 4 organized modularity model
+mouse protein tyrosine kinase 7
+loosely connected regulatory pathways
+resulting `filtered yeast interactome
+protein pairs inside subnetworks
+biomolecular interaction network database
+pcp genes including frizzled
+transcriptome profiling data set
+mediate local functions inside
+mips physical interactions list
+protein localization diversity evaluated
+wilcoxon rank sum test
+entire fyi data set
+exhaustive two-hybrid screens
+distinct function categories present
+organized modularity model predicts
+arbitrary average pcc cutoff
+date hubs represent global
+show high pcc values
+date hub removals tend
+average function category entropy
+drosophila melanogaster species complex
+pathway establishes polarity
+show lower pcc values
+date hub cmd1 connects
+protein interaction verification
+protein interaction lists
+excluding ribosomal hub proteins
+involving party hubs
+grey bars represent
+neural tube closure3­5
+tyrosine kinase homology
+single-gene knockout experiments5
+including single hits
+human gene expression
+low-level cellular modeling
+protein­protein interactions
+dynamically organized modularity
+nonbiological scale-free networks
+characterizes scale-free networks
+entropy
+
+figure 1 date
+high-quality network enriched
+protein pairs involved
+protein interaction map
+female species hybrids
+dfci research computing
+calculations
+localization entropy
+zygotic hybrid rescue
+trans-acting regulatory variation
+genetic interaction density
+protein localization data
+loosely connected modules
+dana-farber cancer institute
+physical interactions occur
+unique function categories
+large-scale data sets
+regulate wing hair
+rescued female hybrids
+therapeutic drug targets
+competing interests statement
+identify trans-regulatory divergence
+hybrid lethal systems
+shortest path length
+nucleic acids res
+correct cdna measurements
+genomic regulatory systems
+characteristic path length
+identify cis-regulatory divergence
+`unfolded protein response
+small interaction maps
+competing financial interests
+infer trans-regulatory divergence
+function category entropy
+protein complexes tend
+compare relative expression
+regulatory gene networks
+data set obtained
+high-throughput yeast two-hybrid
+average pcc cutoff
+well-characterized protein hubs
+accurate temporal parameters
+munich information center
+yeast protein interactome
+silico computational predictions
+planar cell polarity
+normal distribution centred
+network starts disintegrating
+large connected component
+french caribbean regions
+gene fusion25 predictions
+nsf postdoctoral fellowship
+sensory hair cells
+integrated connections required
+minimize false positives
+south san francisco
+cancer systems biology
+mips function categories
+enriched function category
+original largest component
+systematic affinity purification
+world wide web
+measuring dynamic patterns
+sex-dependent gene expression
+gene expression surveyed
+non-biased functional states
+single-nucleotide polymorphism analysis
+identical average values
+mediate unique functions
+local clustering density
+shows genetic interactions
+genetic interactions gathered
+detecting trans-regulatory differences
+mrna expression patterns
+party hub removals
+drosophila melanogaster subgroup
+fewer data points
+high average pccs
+connecting biological processes--
+specific biological processes
+average pcc calculation
+harvard medical school
+adult germline development
+stable molecular machines
+unusually large variance
+melf1/simf1 ¼ melf1/ simf1
+vertebrates
+xiaowei lu1
+interspecific expression differences
+average pcc higher
+expression profile compendium
+usa
+
+* present address
+usa
+* present address
+clear bimodal distribution
+potential scale-free topology
+organized modularity model
+drosophila genome projects
+`mips protein complexes
+date hubs tend
+bimodal distribution suggests
+party hubs tend
+intersecting data generated
+date/party hub partitioning
+distinct subcellular localizations
+interaction detection methods
+/nature
+
+control subnetworks
+interspecific expression difference
+comprehensive two-hybrid analysis
+`yeast expression compendium
+yeast expression compendium
+illustrates modular organization
+excluding genome-scale experiments
+genetic interactions published
+interactome mapping data
+date hub calmodulin
+randomized interactome networks
+yeast interactome network
+standard nested analysis
+low average pccs
+630 potential interactions obtained
+249 potential interactions obtained
+interactions found divided
+date hubs corresponds
+date hubs account
+date hubs participate
+date hubs organize
+resemble date hubs
+yielded 104 party hubs
+party hubs sec17
+date-hub/module network representation
+stereociliary bundle orientation
+mass spectrometric identification
+gene ontology consortium
+genome-wide prediction
+parental pools increase
+massachusetts medical school
+comparable clustering coefficients
+condition data sets
+similar essentiality rate
+metazoan interactome networks2
+estimated temporal characteristics
+date hubs suggests
+modular cell biology
+modular network organization
+total rna
+gradual node removal
+observed genetic interactions
+1
+
+supplementary information accompanies
+supplementary information accompanies
+removing date hubs
+silico experiment revealed
+partitioning date hubs
+largest remaining component
+show comparable values
+recovering sizes similar
+nature
+interactions obtained
+determining functional diversity
+spatial dynamic analysis
+found 91 date hubs
+party hubs obtained
+saccharomyces cerevisiae genome
+functional profiling
+silico network attacks
+nature
+correlation coefficients
+random node removal
+date hubs score
+party hubs reflects
+top left panel
+data set
+86 randomly selected proteins
+genomic dna pools
+protein localization
+protein networks
+functional homogeneity
+regulatory variation
+subnetworks represent
+fyi subnetworks obtained
+fyi hubs show
+protein function
+pcc values
+interaction partners9
+arbitrary cutoff
+average pcc
+modules connected
+organized modularity
+node pairs
+complex networks
+cellular properties
+figure 3 properties
+data sets
+cell polarity
+original pools
+protein complexes
+separate isolation
+van gogh/strabismus
+`protein folding
+protein sequences
+cancer biology
+functional modules
+/nature
+
+compendium
+connected hubs
+hubs connected
+function category
+genome-scale data
+genetic networks
+single samples
+broad range
+gene expression
+randomized networks
+control networks
+functional states
+yeast genome
+average values
+genetic interactions
+446 potential interactions
+distinct modules
+interaction partners
+lower rate
+clustering coefficients
+mrna expression
+interactome networks
+subcellular localization
+bimodal distribution
+drosophila melanogaster
+77 data points
+data points
+315 data points
+functional analysis
+global analysis
+gene function
+localization diversity
+largest component
+gene ontology
+hybrid sterility
+sas institute
+medical schools
+metabolic pathways
+functions mediated
+lower panel
+diversity values
+spatial distribution
+interactome network
+`lower level
+lower level
+modular subnetworks
+expression measurement
+non-biological networks
+epidemiological networks
+functional organization
+functional annotation
+allelic variation
+clear division
+yeast genes5
+global organization
+integrated analysis
+comprehensive analysis
+drosophila transcriptome
+technical support
+results support
+neighbourhood density
+493 high-confidence interactions
+pairwise interactions
+false-positive interactions 10
+biological modules
+function diversity
+local topology
+drosophila model
+specifically removing
+subsequently removing
+cerevisiae genome
+similar temporal
+uncover modularity
+mouse genes
+overlapping modules
+systematic analysis
+average pccs
+silico studies
+bimodal distributions
+silico strategy13
+global properties
+distinct populations
+date hubs
+78 date hubs
+8 date hubs
+62 party hubs
+86 party hubs
+party hubs
+108 party hubs
+party
+
+hubs
+8 party hubs
+16 party hubs
+higher rate
+genetic robustness3
+genetic dissection
+network connectivity
+network connectivity13
+network integrity
+average distance
+similar partitioning
+san diego
+gene co-occurrence25
+subnets revealed
+gene order
+epithelial cells
+clustering coefficient
+genomic association
+encapsulated regions
+`stress response
+mapping determinants
+fu fellowship
+mass spectrometry
+gene deletion
+stereociliary bundles
+partitioning strategy
+parental pools
+flybase consortium
+published singly
+gene neighbourhood26
+genuine positives
+top panel
+budding yeast
+yeast genes
+597 potential
+nature
+main component
+data based
+saccharomyces cerevisiae
+yeast proteome
+fyi network
+standard deviation
+`cell cycle
+wide range
+spatial distribution--
+systematic identification
+top panels
+flybase database
+expression timing
+expression profiles
+functional characterization
+separate date
+divide date
+parallel analysis
+genomic dna
+vivo support
+distinction suggests
+hubs exhibit
+topological hubs
+6 encoding hubs
+total number
+supplementary information
+essential modules
+degree distribution
+`higher level
+evolutionary biology
+slightly higher
+network topology
+average degree
+nature
+calculation
+differences observed
+panel refers
+middle
+90
+
+panel
+bottom panel
+expression-profiling compendium
+upper panel
+biological sciences
+biological significance
+distinct effects
+biological chemistry
+increasing pccs
+supplementary table 1
+supplementary table 2
+proteome network
+small subnetworks
+subnetworks generated
+subnetworks released
+subnetworks derived
+fyi hubs
+size distribution
+genetic robustness
+random proteins
+pw72@cornell
+bottom panels
+vary depending
+`pheromone treatment
+animal design
+authors declare
+similar proportions
+accepted 1 june 2004
+experimental assistance
+consistent outlier
+brown line
+denis dupuy1
+blue squares
+red line
+cochran correction
+detailed description
+nci awarded
+community literature
+limited co-expression
+flamingo/starry night
+probability densities
+confidence intervals
+exact cutoffs
+affect connectivity
+highly correlated
+statistical analyses
+vast majority
+computation resources
+`endoplasmic reticulum
+individual laboratories
+promega notes 69
+natl acad
+trends biotechnol
+static representations
+tong hao1
+nicolas bertin1
+christine jolicoeur1
+group
+2sf ilogf
+c47­c52
+filament formation
+statistical advice
+small variations
+black curve
+administrative assistance
+experimental bias
+blue line
+small fraction
+unequal variances
+le pont
+significant proportion
+selective
+92
+
+advantages
+red circles
+null hypotheses
+z-score normalization10
+epithelial tissues
+approximately threefold
+two-tailed t-tests
+combined algorithm
+green line
+two-sided t-tests
+extremely sensitive
+received 29 february
+`von mering
+ommatidial polarity1­3
+energy metabolism
+molecular pharmacology
+`breakdown point
+red curve
+helen rayburn1
+natural boundary
+sas software
+von mering
+accepted 6 april 2004
+transcription factors
+marc_vidal@dfci
+alternative method
+comparative assessment
+mutual similarity
+interdisciplinary informatics
+postgenome era
+homogeneous
+main text
+normalization procedure
+north carolina
+2sl ilogl
+subsequent analyses
+institutional grant
+transcriptional regulation
+green curve
+sexual partnership
+social networks17
+steady state8--
+cyan curve
+robust test
+received 16 december 2003
+developmental process
+striking difference
+letters
+emerging strategies
+nature
+simulations
+pearson
+nature
+nature genet
+genetic perturbations
+comparable degree
+random removal
+drosophila simulans
+supplementary methods
+fyi subnetworks
+condition constituting
+individual condition
+emergent properties
+biological role
+subsequently selected
+attacking hubs
+potential number
+subnetwork divided
+tagged proteins
+non-hub proteins
+attacks directed
+// vidal
+deleterious effect
+role locally
+successive attacks
+vidal laboratory
+t-test significance
+trends biochem
+effect observed
+localized role
+pcp
+duplicate genes
+complete removal
+targeted removal
+nih grants
+resembles failures
+collective dynamics
+attack tolerance
+definition based
+protein
+lines mark
+power law
+male
+oxford univ
+null hypothesis
+red arrow
+parent-of-origin effects
+blue arrow
+melf1/simf1 ¼ mel/sim
+null mutations
+usa 2 department
+physically interact
+experimental perturbations
+experimental conditions
+remaining conditions
+external conditions
+rescue
+connects
+tend
+reciprocal crosses
+attacking fyi
+essential proteins
+supplementary fig
+module compositions
+/nature
+essential genes
+actual number
+respective partners
+partners simultaneously
+t-test provided
+similar times
+central role
+blackwell science
+molecular genetics
+independently calculated
+proteins interact
+expected
+mouse
+confer lethality
+hybrid
+program
+behaviour
+stanford university
+greater
+additional
+data
+significantly larger
+expression
+networks
+yeast
+yeast 17
+variation
+complex
+values
+285 interactions
+6 interactions
+interactions
+melanogaster
+conditions shown
+removing
+modularity
+sets
+modules
+function
+genetic
+network
+average
+rank
+conserved
+cmd1
+gene
+drosophila
+mips
+hub
+dynamic
+`interactome
+obtained
+cell 9
+interactome
+transcriptome
+found
+database
+frequency
+date
+62 date
+`date
+`party
+party
+analysis
+mediate
+model
+calculation
+comparable
+excluding
+`hubs
+hubs
+biology
+differences
+pools
+information
+diversity
+compendium
+biological
+pccs
+subnetworks
+correlation
+dfci
+complexes
+detection
+score
+harvard
+variance
+left
+test
+map
+representation
+show
+melf1/simf1 ¼ 1
+orientation
+2 test
+difference
+small
+molecular
+vertebrates
+metazoan
+development
+organization
+remaining
+similar
+generated
+experiment
+reflects
+determining
+observed
+identification
+sizes
+nature
+nature 425
+nature 421
+nature 422
+nature 418
+200
+nature
+nature 411
+nature 415
+nature 417
+nature 380
+nature 406
+nature 403
+nature 402
+nature 393
+methods
+fyi
+properties
+condition
+department
+selected
+dna
+1 dna
+supported
+379 proteins
+proteins
+778 proteins
+estimated
+& vidal
+topology
+attacks
+role
+`budding
+t-test
+degree
+biochem
+effect
+genes
+usa 100
+usa 98
+usa 99
+usa
+essential
+removal
+proteome
+effects
+arrow
+mutations
+massachusetts 02115
+confer
+vivo
+lethality
+size
+characterization
+grants
+profiles
+`failures
+power
+central
+stanford
+robustness
+simulans
+oxford
+attacking
+provided
+dynamics
+larger
+massachusetts 01605
+lines
+university
+attack
+distinction
+based
+timing
+hypothesis
+mel/sim ¼ 1
+perturbations
+interact
+conditions
+`conditions
+shown
+significantly
+crosses
+module
+number
+subnetwork
+fig
+partners
+000 times
+times
+genetics 154
+genetics 133
+genetics
+science 285
+science 296
+science 297
+genetics 165
+science 302
+science 303
+science 300
+calculated
+grenier
+kemmeren
+ref
+elegans
+velculescu
+vogelstein
+julie
+altshuler
+counts
+annotations
+work
+han1
+repeated 1
+lan
+types
+concurrency
+distinguishing
+borchers2
+pyrosequencing
+& strogatz
+side
+non-hubs
+mason
+dsh
+& watanabe
+tolerant
+reconnected
+california 94080
+ranz
+tool
+albert
+fromont-racine
+showed
+preformed
+project
+meiklejohn
+boston
+sterile
+-
+isolated
+davidson
+li ¼
+adaptors
+subset
+acknowledgements
+proteins22
+doi
+partition
+explain
+uetz
+ear6
+mcclay
+presuming
+bitner
+vol 430
+extent
+resistant
+requests
+compilations
+represented
+basis
+union
+dots
+kumari
+waterbury
+locations
+cusick1
+applied
+ii
+split
+peaks
+rain
+kim
+simulates
+academic
+materials
+yamamoto
+cations
+inviability
+yeates
+boxem
+unification
+zool
+www
+deal
+neve
+bork
+comments
+huber
+wray
+conservation
+resulted
+berriz2
+lowest
+encodes
+failure
+removed
+genentech
+fell
+uncovered
+time
+knockouts
+/
+finally
+stays
+dis
+unexpected
+`small-world
+ashburner
+scaffold
+clingingsmith
+modules7
+appears
+studied
+funded
+hollocher
+plotted
+flexibility
+centrality
+criteria
+& eisenberg
+accept
+cai
+carroll
+conversely
+strikingly
+fourth
+man
+displayed
+physiol
+& huynen
+correspondence
+evol
+albertha
+`core
+subnet
+ultimately
+space
+cary
+& white
+possibility
+watts
+& hartl
+barabasi
+1a
+1b
+networks1
+huh
+nonhubs
+worcester
+price
+considered
+threshold
+ratio
+thompson
+dekker
+`gavin
+mewes
+uncorrelated
+jeong
+reading
+leibler
+filtering
+bader
+snel
+markedly
+& murray
+& hogue
+evidence
+spillover
+transm
+zhang2
+exist
+1 july 2004
+otto
+components
+gavin
+ptk7/cck-4
+mol
+serves
+marcotte
+classified
+intact
+organizing
+reasons
+madhavarapu
+`nucleus
+biased
+comparison
+interactions10
+interactions11
+determine
+dishevelled
+& kinzler
+yan
+valley
+hubs1
+literature14
+mammals
+& palsson
+al
+ptk7
+nhgri
+important
+included
+building
+`mitochondrion
+starting
+sci
+follow
+ahmadian
+nodes
+schadt
+coloured
+anal
+representation24
+/fyi/modulenet
+contrast
+`sporulation
+pellegrini
+nigms
+tested
+`matrix
+suggestions
+osmosensing
+reject
+fz
+plane
+goldberg2
+ito
+roote
+paper
+absence
+propose
+framework
+& oltvai
+presented
+2a
+2b
+2c
+characterized
+referred
+reduce
+funding
+hill
+issue
+members
+`homeostasis
+assign
+defects
+projects18­21
+gid
+part
+castillo-davis
+refute
+liu
+rifkin
+measures
+measured
+5-fold
+payseur
+exp
+huynen
+futhermore
+stability
+winzeler
+3b
+non-hubs1
+oogenesis
+investigate
+sex
+mediators
+`shared
+regulator
+plasticity
+prospects
+curated
+cowles
+simple
+simply
+church
+create
+pl
+flight
+walhout1*
+empirical
+error
+bristle
+yuan
+press
+& lauffenburger
+described27
+location
+& davis
+1038/nature02555
+& weatherbee
+understood
+kephart
+examples
+scale
+decision
+debra
+proc
+temple
+clinton
+papin
+biol
+link
+zhr
+intuitive
+armstrong
+defined
+diverse
+vidalain
+application
+explaining
+dandekar
+neill
+& barabasi
+agopian
+gu
+illustrated
+ge
+ht-y2h
+& kruglyak
+michael
+giaever
+noted
+3a
+analysed
+explore
+respiration
+survey
+stabilization
+addressed
+sensitize
+remains
+normalized
+gabriel
+high-
+sec 22
+genomes
+located
+bind
+correspond
+giot
+database14
+hartwell
+hirschhorn
+li
+degrees
+h0
+networks--
+fingerprint
+`spoke
+1038/nature02698
+measure
+schlenke
+regulators
+york
+genomics 16
+davis
+manuscript
+& clark
+discriminating
+& legrain
+connectors
+betel
+prohibits
+hopfield
+eukaryotes
+brem
+frederick
+prickle
+fact
+wiback
+marden
+modules7--
+evolution
+california 94305
+biotechniques 32
+progress
+& bork
+equal
+sawamura
+adjusted
+cv
+addition
+barbash
+define
+yvert
+=sn
+splits
+subsets
+appearance
+member
+`ho
+powell
+http
+student
+& volkerding
+ideker
+mips14
+wagner
+recapitulated
+& lander
+tests
+& ashburner
+& hood
+arrows
+highlighting
+mutation
+assuming
+maize
+montooth
+annette
+ho
+highest
+pastinen
+fiumera
+vti1
+contribute
+separating
+detail
+details
+prevalent
+rule
+inset
+4b
+4c
+4a
+1138­1142
+1993
+1997
+1996
+1999
+1998
+297­302
+174
+138­144
+1143
+14
+1475­1480
+05
+387­391
+399­403
+1747­1771
+103­110
+6
+324­328
+752­755
+0
+248­250
+440­442
+6­9
+11
+10
+13
+12
+15
+17
+16
+19
+18
+1742­1745
+1727­1736
+3
+26
+27
+31­34
+157­159
+1133­1143
+41­42
+4
+277­282
+540­543
+901­906
+1025
+1023
+95­110
+5
+307­313
+`
+5890­5895
+184­193
+482­486
+¼ 0
+24
+25
+20
+21
+22
+23
+28
+29
+7
+180­183
+141­147
+72
+355­361
+8
+2
+432­437
+30
+9
+1377­1419
+623­627
+686­691
+2002
+2003
+2000
+2001
+2004
+255­262
+25­29
+250­258
+172­175
+33
+32
+31
+37
+35
+623­635
+19­24
+1
+63­66
+¼
+57­64
+378­382
+6 £ 1023
+4569­4574
+83­86
+288
+280
+205­218
+45

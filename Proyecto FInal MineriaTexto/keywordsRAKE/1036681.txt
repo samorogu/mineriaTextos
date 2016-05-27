@@ -1,0 +1,1341 @@
+phenotype
+bamhi polylinker
+
+10749
+
+lacz alpha gene
+xhoi ncoi
+nhei ecrl
+
+ecool09
+ecooo09
+
+white
+bamhi polylinker
+
+hindm scal 0
+
+white
+
+lo--
+
+75bp
+*cgcg saili psti sphi hindii scal psti bsteti ecrv bsshii pvui fspi hpai
+
+fig
+atgag tcgt aaggt
+
+cgac
+
+acaiatcc
+
+tcc
+
+tmcft
+
+tg tc cct
+fspl
+_ _
+
+sall
+
+xhoi ncoi
+
+psti
+atccgtcgt
+lacz alpha gene
+
+banah
+
+nhei ecl
+
+ecooo09
+
+l-
+ccg tgga caa
+
+gg
+
+tcgagtct ggttc
+tcgagtctj
+
+agttc
+aac
+
+aac
+
+atgagc cgth aaggtg tc tc
+gt gsimmg ca cgtac agctctgca tjgcca 2ca
+mutagenic shuffling transition transversion frequency frequency
+a-
+top strand spike bottom strand spike top
+hpal ecrv
+
+lo
+
+hindm-nhei diagnostic fragment
+affymax research institute scientific advisory board
+actg
+
+bsteii
+accctg
+
+nhei
+
+ecori
+2 mm mgcl2/50 mm kci/10 mm tris-hcl
+bottom strand spike
+
+% blue colonies 0
+hitindu
+
+hindm-nhei diagnostic fragment
+
+control
+tgaaa tg cc
+
+tagaaagac
+ccma gg cat gtcrc
+stemmer
+affymax research institute
+1-kb dna fragment encoding lacza
+gctaa cggttsaeggtcaggatatcapacttca tofegt gctaacctgtvytcco
+tccgacc+ ms___
+
+ttaccc^^cttaktcg
+partially reassembled pcr product primes
+homologous regions separating regions
+25-base heterologous lacz-inactivating marker
+reassembly process introduces point mutations
+escherichia coli codon usage
+caa
+
+fg
+
+gg
+blue colonies assayed contained
+heat-labile polymerase [manual pcr program
+thick bars represent crossovers
+pcr products increases gradually
+random 100to 200-bp fragments
+bottom strand oligonucleotides
+lacz+ phenotype
+lacz shuffling experiments suggests
+limited library size relative
+published error-prone pcr protocols
+reassembly of100to 200-bp fragments
+low effective annealing temperature
+boxes show mismatched bases
+force efficient crossovers based
+50-base fragments typically yield
+multiple cycles
+
+__
+
+xx
+
+1
+single stop codon marker
+preferred fragment size depends
+bamhi
+reassemble fragments
+_
+low frequency ofrecombination
+october 1994
+
+genetics
+
+dna shuffling
+dna pcr products derived
+coli codon usage
+bsshii pvul
+diagnostic hindiii/ nhe
+100 p1of 50 mm tris
+4/1 mm mgc12
+synthetic oligonucleotides requires sequencing
+tgaaa aaagac2 ctgffdtarg
+blue colonies contained
+toc tctgcaagt ~frcg
+agg agg
+
+gcca
+de81 ion-exchange paper
+effective annealing temperature
+united states biochemical
+conserved scaffold determines
+lccctgg=ttaccck&cttaatcgccttgctr
+nucleic acids res
+page charge payment
+standard genetic matings
+wild-type lacz sequence
+fixed junction sites
+i- igtcg&ccixkggcatgcarwttaockcttoctgta+actgcagcgtcgtgactgggaaa
+molecules grows exponentially
+active lacz gene
+terminal restriction enzymes
+stop codon marker
++ puc18 +
+/sph i-digested puc18
+vast sequence space
+30-bp nonhomologous sequence
+set annealing temperature
+low-fidelity polymerization conditions
+theoretical end point
+abstract computer simuations
+mediate specific binding
+stop codon mutations
+shuffled lacz dna
+called genetic algorithms
+oal size wasr
+1-kb fragment proved
+frequent template switching
+adequate primer removal
+fragments reassort freely
+low annealing temperature
+large concatemeric molecule
+exiting mut methods
+double stranded x-gal
+random dna gments
+murine il-1p gene
+murine il-1p3 gene
+1-kb pcr fragment
+inactive lacza genes
+variety ofresistance genes
+synthetically mutagenized oligonucleotide
+low-temperature dna polymerase
+heterogeneous molecular weights
+4-fold molar excess
+method involves digesting
+dideoxynucleotide dna sequencing
+partially single-stranded nature
+size heterogeneity appears
+random fragments derived
+primer sequences aaagcgtcgatttttgtgat
+reassembly pcr depends
+gel analysis showed
+standard pcr conditions
+point mutations randomly
+2% low melting point
+long ago demonstrated
+polymerase start sites
+homologous flanking sequence
+primer pair differed
+fixed crossover site
+inverse chain reaction
+vitro genetic mapulaions
+primerless pcr product
+short random fragments
+highly fragmented dna
+8-kb pcr fragments
+published mutagenesis rate
+continued sequence evolution
+pcr methods applic
+plasmid yielded -84% light-
+molecular evolution
+willem
+unique restriction enzyme
+homologous interleukin 1p
+force recombination based
+point-mutated lacz- colonies
+taq dna polymerase
+dna sequence analysis
+short sequence identity
+50-bp random fragments
+random dna fragments
+mutagenesis strategy lead
+defined positions based
+high fragment concentration
+efficiently redesign genes
+natural design process
+applying repeated cycles
+gene based solely
+rna ligase ribozyme
+dsdna pcr products
+removal offree primers
+stemmer
+template
+puc18
+random rna library
+stemmer
+error-prone pcr
+single pcr product
+single point mutation
+ca 94304
+
+communicated
+technically simple approach
+methods substrate preparation
+complex linear sequences
+lacz gene
+0-kb sequence carrying
+full-length genes results
+mj research
+restriction enzyme digestion
+lacz assay
+lacz frame
+applied molecular evolution
+mutagenesis rate similar
+sufficient flanking homology
+blue colonies
+1-kb gene
+annealing temperature
+restriction fragment
+genetic algorithms
+melting temperature
+manual pcr
+pcr program
+shuffling requires
+fragments derived
+short sequence
+start sites
+thick lines
+top
+small boxes
+spike
+primer pcr
+50-bp random
+murine gene
+restriction sites
+0-kb gene
+klenow fragment
+laczae fragment
+reassembly program
+1-kb templates
+dna substrate
+single gene
+15 manual cycles
+stop codons
+process constitutes
+full-length gene
+dna polymerase
+unique enzyme
+room temperature
+molar excess
+rna ligase
+dna sequencing
+pcr products
+heat-labile polymerase
+taq polymerase
+low level
+chain shuffling
+random fragments
+single-stranded dna
+reassembly process
+random fragmentation
+random clones
+wild-type dna
+flanking sequences
+mismatched bases
+single marker
+recombinant gene
+reassembled gene
+gene prime
+kcza gene
+large gene
+separate gene
+gene cam
+point mutations
+dna shuffling
+molecules decreases
+fragmentation proved
+recently demonstrated
+frequency
+heterogeneous appearance
+error-prone pcr
+low rate
+multiple cycles
+heat-stable polymerase
+er
+
+polymerase
+restriction fiagments
+50-bp fragments
+dna fragments >0
+single product
+sequence identity
+original sequence
+unknown sequence
+long sequence
+pcr product
+random crossovers
+point mutants
+parental dna
+0-kb double-stranded
+point mutagenes
+point mutation
+dna
+ff5
+starting point
+computer simulations
+point mutagenesis
+naked dna
+pcr fragments
+molecular backcross
+single band
+single clone
+single family
+homologous genes
+agarose gel
+complex structure
+14 wild-type versions
+excess parental
+10-fold excess
+wild-type version
+complex quences
+synthetic oligonucleotides
+single-stranded sequences
+linear sequences
+normal pcr
+pcr machine
+wizard pcr
+errorprone pcr
+murine genes
+plasmid templates
+neutral mutations
+distant mutations
+additional mutations
+reflecting mutations
+dna reassembly
+molecular evolution
+recombination process
+sequence library
+identical template
+fulllength template
+template switch
+product consisted
+~i- -
+pcr reassembly
+low degree
+single cycles
+plasmid reassembly
+shuffling reaction
+recombinant colonies
+dark-blue colonies
+200bp fragments
+reassembled fragments
+small fragments
+fragments prime
+correct size
+human gene
+15 pcr cycles
+fitly reambled
+bacterial genomes
+frlactamase system
+unrestricted loops
+fine tuning
+valuable discussions
+protein immunogenic
+individual clones
+review december 20
+nlxi
+repeat
+minimum requirements
+efficiently reassembled
+oxford univ
+oligonucleotide-directed mutagenesis
+mutagenesis techniques
+gtcctaa cgtmtaa
+2nd ed
+combine phenotypes
+competitive hybridization
+11/12 types
+10-30 ng/0l
+apparent exception
+protein structures
+5-bromo4-chloro-3-indolyl p-d-galactoside
+ptc-150 thermocycler
+sthetic oligonuclotides
+de nigris
+traditional breeding
+uninterrupted identity
+taking samples
+frag mentiure
+knockout mutation
+spiked oligo
+publication costs
+wide range
+reassembled ne
+four-helix bundle
+peter schultz
+dry ice/ethanol
+consensus motif
+10-30 ng/pl
+klenow fiagment
+2-4 pg
+labor intensive
++/+ recombinant
+cgcatccacctttcgcta#a4zaattaa
+considered beneficial
+jei pirlt
+protein mutagenesis
+1% triton x-100
+control experiment
+high concentration
+difference compared
+palo alto
+communicating member
+andreas crameri
+agarose gels
+technial issues
+ethanol precipitation
+denaturation step
+uv mutagenesis
+statistical bottleneck
+generate combinations
+arbitrarily choosing
+episome transfer
+75-bp area
+1 2 a-
+gtacc ct
+protein optimization
+sexuality appears
+contributed significantly
+4001 miranda avenue
+tcgcgktfa- -gcg
+yield crossovers
+crossovers based
+homologous position
+lacz
+larger sequences
+7-kb plasmid
+puc18-/+ plasmid
+discussion reassembly
+pcr mixture
+sequence cassette
+typically obtained
+expected size
+specific applications
+specific goal
+light-chain genes
+complementary oligonucleotide
+66-mer oligonucleotide
+15 additional cycles
+additional cycles
+repeated cycles
+additional 22 cycles
+homologous recombination
+mutation rate
+molecular equivalent
+diagnostic
+preferred method
+complex behavior
+reassembly reaction
+murine il-1
+pcr amplified
+recombinants based
+mm
+2 mm
+average size
+mutations introduced
+gel purified
+lb/ampicillin/x-gal plates
+x-gal plates
+puc18 digested
+resulting colonies
+expected hmdiii/nhe
+theoretically expected
+vitro recombini
+cagggtat -
+ilaclphau -
+gel purification
+jp
+
+fig
+1 bases long
+14 mutant plasmids
+15-20 bases
+10-50 bases
+vitro evolution
+observed values
+improved recombinants
+rapidly cooled
+extreme case
+potential contamination
+13/14 chance
+artificial systems
+practical application
+surprisingly reliable
+cooling time
+simultaneously varied
+reaction mixture
+building blocks
+improved function
+biosynthetic pathways
+base substitutions
+peter schatz
+30-45 times
+mit press
+increasing numbers
+larry mattheakis
+largely due
+reassembly mixture
+purified fragments
+library formats
+expected rate
+minimum degree
+mutations shown
+free primers
+primers ttaggcaccccaggcttt
+complete recombination
+sexual recombination
+vivo recombination
+markers separated
+directed selection
+additional selection
+proteins [phage
+larger table 1
+differs fundamentally
+william dower
+unpublished data
+deliberately create
+related genes
+combinatorial library
+10-50 bp
+gel-purified 10-
+close match
+plasmids puc18-/+
+7-kb plasmids
+stemmer
+
+proc
+crossovers occur
+10-20 min
+intended number
+resulting plasmids
+sequences >1 kb
+usa vol
+recombination formats
+lacza
+average length
+desired background
+vitro recombination
+fragment
+recombination occurs
+selection round
+human il-1
+control
+selected pool
+homology required
+annealing
+gene 44
+3 gene
+gene
+products
+xx
+homologous
+puc18
+sequencing
+sequence
+removal
+conditions
+dna
+point
+analysis
+marker
+single
+enzyme
+heat-labile
+yield
+rna
+pcr
+based
+size
+mutations
+shuffling
+template
+stemmer
+product
+colonies
+fragments
+6
+
+4 7 3
+
+fragments
+results
+reassemble
+large
+design
+shuffled
+long
+preferred
+mutagenesis
+dsdna
+ribozyme
+identity
+§1734 solely
+natural
+preparation
+concentration
+high
+repeated
+reassembled
+yielded
+experiments
+efficiently
+active
+lacz-
+simple
+methods
+mutation
+x-gal
+fragmented
+similar
+lead
+evolution
+3 sequences
+oligonucleotides
+sequences
+reaction
+reassembly
+correct
+genes
+25 cycles
+oligonucleotide
+45 cycles
+>1000 cycles
+60 cycles
+cycles
+library
+rate
+method
+crossovers
+17 crossovers
+positions
+carrying
+interleukin 10
+7-kb
+pair
+puc18-/+
+sufficient
+applied
+formats
+plates
+interleukin
+vitro
+mixture
+expected
+1 mixture
+expected 2
+10750
+
+genetics
+-
+10747
+
+10748
+
+genetics
+genetics
+fig
+2 bases
+<15 bases
+4437 bases
+18 bases
+plasmids
+resulting
+4 bases
+75 bases
+= 4437 bases
+mattheakis
+round
+recombinants
+selected
+behavior
+extreme
+substitutions
+numbers
+blocks
+varied
+goal
+occur
+related
+combinatorial
+occurs
+applications
+length
+15 times
+average
+cassette
+human
+observed
+approach
+rapidly
+contamination
+desired
+& schatz
+due
+systems
+surprisingly
+sexuality
+amplified
+position
+background
+13/14
+equivalent
+practical
+introduced
+press
+function
+pathways
+4% recombinants
+time
+purified
+crossover
+degree
+nature
+homology
+primers
+recombination
+table 1
+experiment
+data
+differs
+proteins
+purification
+selection
+create
+markers
+& dower
+lacz+
+il-1
+digested
+digestion
+close
+10-
+75 bp
+bp
+required
+>>20 kb
+number
+0 kb
+7 kb
+15 min
+1 min
+2 min
+5 min
+>20 kb
+obtained
+shown
+pool
+usa 91
+proc
+usa 89
+usa 87
+sci
+bhatt
+53-57
+elution
+incorporation
+displaying
+mating
+depend
+leung
+resynthesized
+& knowles
+finally
+ti
+concatemers
+difficult
+gacrq
+1jif
+50-55tc
+cwirla
+dibiase
+bbg2
+& degrado
+anal
+meyerhans
+peters
+work
+miller
+chen
+ruled
+chem
+reheated
+256-265
+bbg49
+kauffman
+assistance
+suh
+536-538
+mutagenize
+vermaas
+contrast
+11-15
+11-13
+operons
+0015 unit
+331-337
+reported
+2 shows
+change
+toumadje
+caldwell
+advantages
+marked
+dnasel
+biotechniques 14
+whatman
+select
+dntp/2
+1687-1691
+abbreviations
+live
+15-17
+means
+slosnhould
+comparison
+occurred
+reinserted
+tested
+nussbaum
+tuerk
+natd
+94tc
+*aabatat
+ma
+avoiding
+atggggttccgcgcacattt
+hindiii/nhe
+10747-10751
+evolved
+prepad
+atgtgctgcaaggcgatt
+& toole
+application-
+sph
+prnier
+species
+ratio
+laczmarkers
+7811-7815
+located
+bock
+holland
+june 21
+simplicity
+inherent
+1865-1869
+replace
+independent
+explored
+fi
+choice
+696-700
+ligated
+attempt
+johnson
+6378-6382
+order
+developed
+differences
+demonstted
+london
+gmpt
+digest
+priming
+absence
+recombined
+areas
+mismatches
+mechanisms
+greater
+combination
+introduce
+552-554
+barbas
+mimicking
+collett
+represents
+564-566
+morris
+pools
+found
+soc
+higher
+inserts
+en
+recombinatlon
+gram
+remove
+2265-2266
+conceptually
+ph 9
+ph 7
+rounds
+increase
+suggesting
+adaptation
+hci
+predicted
+& wilson
+nts
+~
+
+agacccspaa~2
+5-bromo-4chloro-3-indolyl
+approaches
+8s
+hermes
+mimic
+100-
+heavy-
+hawkins
+feasible
+& struhl
+incorporated
+1 unit
+& wain-hobson
+mccafferty
+substrates
+designed
+& szostak
+rting
+griffin
+probability
+nacl
+differ
+1w
+similarly
+1a
+needed
+biochem
+cmera
+exploring
+versus 94%
+explanation
+5 units
+& poinar
+3-d-galactoside
+8 ilm
+copy
+940c
+accordance
+measured
+poinar
+determined
+chairman
+result
+insertion
+science 261
+locations
+177-183
+manuscript
+8-9
+1411-1418
+200c
+& youvan
+3576-3580
+bacteria
+note
+mix
+causing
+72tc
+& joyce
+added
+& kang
+0/0
+stringency
+surprising
+diversity
+kh
+1-2°
+peptides
+part
+polysomes
+sigma
+fact
+puc18+/-
+digesto
+aaagccctctagatgattacgaattcatat
+electrophoresis
+gradual
+selfassociation
+-barrel
+550c
+8-10
+reversal
+dt
+dr
+ds
+amplification
+shu
+tolerance
+assembly
+sources
+ltvlt~
+cull
+polynucleotides
+essence
+15 unit
+cloning
+limiting
+ll
+
+1
+speed
+promega
+initially
+didonato
+ends
+ability
+importance
+efficiency
+york
+889-896
+386-390
+analyzed
+article
+barrett
+suggested
+received
+folding
+limits
+ill
+science 249
+sequenced
+backcrossing
+30 ng/pj
+pp
+addition
+oliphant
+incubation
+acra
+interest
+ensuring
+hoch
+present
+p1
+frozen
+grouping
+replaced
+505-510
+872-878
+hunan
+& winter
+cano
+1 ratio
+osterhout
+il
+pronounced
+comments
+perform
+winter
+make
+gacu
+plated
+widely
+mixtures
+composition
+plating
+i1
+1-5
+reidhaar-olson
+advertisement
+28-33
+cycle
+antibodies
+suitable
+accumulation
+materials
+720c
+291-293
+3% versus 2
+3dthiogalactopyranoside
+resuspended
+ampicillin
+griffiths
+isopropyl
+& chiswell
+pieniazek
+spread
+transformed
+aacgccgcatgcaagcttggatccttatt
+natl
+ccttgctgcgcatccacct
+transformation
+scaffold-
+mol
+40 dilution
+atggc
+fossils
+arose
+scaffolds
+individuals
+works
+acad
+389-391
+russell
+examples
+& goeddel
+& gold
+total
+tube
+unavoidable
+connolly
+assuming
+350c
+latham
+limitations
+performed
+selecting
+obtain
+bi
+frameshifts
+defrayed
+additive
+9022-9026
+diluted 1
+& smith
+ecoo109
+origins
+scott
+obtand
+& sauer
+mixed
+block
+chimeras
+cambridge
+presence
+vartanian
+science 241
+implications
+contrasts
+determine
+joyce
+frames
+reducing
+/
+utility
+1-7
+20-
+dnase
+creation
+attempted
+adjusting
+lerner
+forrest
+underlined
+5-1
+bartel
+technique 1
+90-97
+tolerated
+general
+18-20
+families
+ni
+alessio
+handel
+na
+nx
+arkin
+4-
+biol
+blacklow
+theor
+bakros
+8 pm
+generated
+important
+waterhouse
+marconi
+homolog
+russo
+occurrence
+independently
+250c
+immunoglobulin
+66-72
+xba
+0
+348
+1990
+= 377
+1992
+03%
+16
+-0
+-20
+= 328
+100
+30
+35
+&
+6
+=>1000
+267
+91
+1993
+1994
+94°
+84%
+1
+11
+940
+24
+25
+20
+21
+22
+23
+0 %
+7
+24%
+= 291
+1989
+2
+10
+13
+15
+14
+17
+19
+18
+1%
+~~
+45°
+65°
+7%
+=855
+]
+29
+=620
+226
+8
+12
+10751
+3
+363
+26
+27
+28
+25%
+60
+157
+500
+^
+~
+25°
+9
+355
+212
+=537
+4
+1988
+11%
+114
+34%
+1 0
+1986
+*
+370
+14 = 35%
+3 %
+1 %
+%
+40
+5
+= 386
+72°

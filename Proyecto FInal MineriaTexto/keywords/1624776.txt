@@ -1,0 +1,478 @@
+similarity
+computation
+Gene-balanced duplications
+acyl-tRNA
+synthetic
+tree-assisted
+acyl-tRNA biosynthesis
+substantial neofunctionalization
+Mechanisms
+analogous
+Identifying
+confounding
+replication
+functional categories
+described11
+concatenating
+Cladistics
+Transcriptional
+Non-TATA
+applicable
+assignments
+gene-bootstrap confidence
+biological
+Migration/specialization
+expression divergence
+neofunctionalization11
+consistent
+HMMSEARCH
+PombeDB21
+reconciliation
+Cryptococcus
+apparatus
+thickness
+mitochondrion
+experiment
+non-volatile orthogroups
+phosphatase
+reconstruction
+subtracting
+chromosome-based
+Volatility
+cisregulatory
+respectively
+hierarchical clustering
+AACM00000000
+species43
+Distribution
+technical
+Surprisingly
+throughput
+procedure
+cerevisiae transcriptional
+overwhelming importance
+inference
+orthogroup
+YLR223C-16000 YLR223C-14993
+`soundness
+database59
+Transcriptional regulatory
+confidence
+Duplication
+AACD00000000
+Bioinformatics
+exhaustive
+Estimating significance
+Aspergillus
+Extensive association
+graminearum
+interaction
+Encyclopedia
+particular
+Expression
+metabolism Ribonuclear
+RNA-binding
+haploinsufficiency39
+abundance
+mechanistic dichotomy
+paralogues Systematic
+Initiative
+following
+overexpression44
+Orthogroups
+reconstructed
+information
+respective
+redundancy
+castellii
+Pyrimidine metabolism
+reconstruction algorithm
+attachment
+Sequencing
+Single-cell
+complexes38
+description
+Euascomycota
+Bootstrap
+collection
+pre-computed
+Organelle
+biosynthesis Pyrimidine
+AACU00000000
+molecular interactions
+cis-regulatory
+meaningful
+annotation
+AACF00000000
+functional hierarchy
+overexpression
+recombination
+Database14
+bootstrap
+Database12
+Database13
+bipolarity
+Phosphate/sulphate
+Nucleolus Spliceosome
+carbohydrate metabolism
+evolutionary
+hierarchy
+persistent orthogroups
+responsive
+hypergeometric distribution
+regulatory utilization
+difference
+manuscript
+paralogues45
+inspecting
+volatility
+Archeascomycota
+evolutionary dichotomy
+correspondence
+YLR223C-14993 YLR223C-17022
+significant similarity
+haploinsufficiency
+accomplishing molecular
+hypothetical orthogroups
+Lipoprotein metabolism
+reconstructed orthogroups
+reasonable
+pleiotropy
+tetraploidy
+Saccharomyces cerevisiae
+AADM01000000
+financial
+dichotomy
+generation
+abundance41
+recognizable
+ARTICLES ditions34
+orthogroups
+copy-number
+Construction
+cerevisiae transcription
+biosynthesis Replication
+Pyridoxine metabolism
+University
+divergence
+difficulty
+homologous
+replication initiation
+chromosomal
+regulatory
+Oxidoreductase
+Friedman4
+beginning
+Cambridge
+pathway/genome databases
+intermediate orthogroups
+expression pattern37
+September
+Phylogenetic
+modularity
+whole-genome duplication
+YDR223W-4579 YDR223W-4085
+probability
+complexes60
+fitness44
+suggests4
+specificity
+constructing
+homologues
+AABZ01000000
+bottom-up
+endoplasmic reticulum
+regulation
+hypothetical
+Proteasome Proteasome
+Saccharomyces castellii
+KLLA0A08932g Kwal17541
+graminearum Sequencing
+molecular
+Farach-Colton
+Statistical benchmark
+predictable
+KLLA0F13222g
+Orthogroup
+reconstructing
+beneficial
+biochemical
+lipolytica
+unchanged
+Herschlag
+genome-wide reconstruction
+Przytycka
+orthology assignment
+Development
+Aryl-alcohol dehydrogenase
+Scientific Interface
+micro-macroevolutionary
+transcription
+Nucleobase transport
+Hemiascomycota Ascomycota
+Analysing
+Functional discovery
+bioinformatics/bmt193
+`ancestral
+intermediate behaviour
+significant
+AABX00000000
+regulatory specialization
+Massachusetts Institute
+transcription factors48
+ARTICLES
+described33
+considered
+calculated
+haploinsufficient
+hierarchical
+high-throughput
+principle
+subsequent
+duplication
+SAGA-TFIID
+cerevisiae-based
+Kwal11573 DEHA0E18865g
+Stress/starvation
+inconsistent
+participate
+Coordinated
+availability
+Supplementary Information
+principal
+genome-wide catalogue
+knowledge
+shuffling
+functional divergence
+proportion
+Endomembrane
+Modularization
+biogenesis
+Nevertheless
+morphological
+expectation
+AABY01000000
+longpostulated importance
+Halldorsson
+YALI0E26873g
+processes
+sporulation
+Kwal17541 DEHA0C16533g
+analytical framework
+Cytoplasmic ribosomal
+architecture
+CR382121­ CR382126
+Ashburner
+Magnaporthe
+biological processes
+sensitivity
+individual
+Comprehensive
+Felsenstein
+non-uniform orthogroup
+identification
+whole-genome
+reconstructed functional
+available
+comparable
+Neurospora
+complementary
+biosynthesis
+Whole-genome duplication
+eukaryotic
+hypothesis
+Otherwise
+orthogroup volatility
+neofunctionalization
+contribution
+estimation
+expression
+subfunctionalization11
+innovations
+adaptation
+sequences
+bootstrap-based confidence
+trajectory
+vertebrate
+Essential-rich
+Lagergren
+correction
+phylogenetic
+corresponding
+stoichiometric
+Essential-not
+interaction neighbourhood
+systematic
+Conflicting phylogenetic
+reciprocal
+CAGL0G00748g
+empirical
+Supplementary
+evaluating
+Estimating functional
+characterizing
+functional innovations
+Translation initiation
+Nonetheless
+Furthermore
+annotation/fgi/
+Ascomycota
+`molecular
+AACO01000000
+polyploid
+comparative
+paralogous
+Correspondence
+different
+orthogroup catalogue
+specialization
+Sonnhammer
+microarray
+`ribosome biogenesis
+modification
+soundness
+difficult
+development
+independent
+orthology assignments
+Sporulation Transcription
+Institute
+comprehensive
+Hemiascomycota
+`biological
+neighbor-joining
+normalization
+compendium
+transcription complexes42
+dehydrogenase Extracellular
+sub-trees
+orthologous
+Technology
+genome-wide housekeeping
+annotation hierarchy
+Mitochondrial
+functional dichotomy
+consistency
+unification
+Jerusalem
+Evolutionary characterization
+significant array­gene
+Conclusions
+`branch-bootstrap
+proximity
+consistent assignments
+biochemical divergence
+alternative
+alignment
+promoter48
+Functional conservation
+Divergence
+biochemical interaction
+degree-preserving
+Acknowledgements
+reconstructing phylogenetic
+YDR223W-4085 YDR223W-4559
+Deutschbauer
+AACQ00000000
+phylogeny
+Phylogeny Inference
+`fundamental processes
+Cytoskeleton organization
+Fundamental processes
+Evolutionary
+necessary
+Computing
+growth-related
+maximum-likelihood
+starvation
+`disjoint paralogue
+Non-membrane-binding organelle
+protein-coding
+`completeness
+hierarchical annotation
+Copy-number
+Arabidopsis
+Distinguishing homologous
+transport
+`division
+neighbour-joining procedure
+`development
+orthogroup evolutionary
+Organellar
+repression
+Massachusetts
+hydroxyurea
+TFIID/SAS
+scientific
+Functional orthogroup
+processing
+Burroughs
+substitution
+simultaneous duplications
+`gene-bootstrap
+fumigatus
+modularization
+comparison
+constraint
+TATA-independent
+Orthology assignment
+YLR223C-17022 CAGL0C00759g
+computational
+AACA01000000
+functional
+stress-responsive
+Weinberger
+speciation
+provisional orthology
+metabolism Fundamental
+biochemical networks46
+gene/species
+Enrichment significance
+Ontology36 hierarchy
+Affymetrix
+`cellular
+Migration/novel
+Persistent
+construction
+control43
+Genolevures15
+step-wise
+high-quality
+post-genome
+Genomes58
+Engineering
+log-probability
+predominant evolutionary
+distribution
+5Department
+Statistical enrichment
+transcriptional
+Publishing
+contribute
+opportunistic
+accounting
+single-gene knockouts40
+evolutionary innovation
+duplications
+occasional
+essentiality
+Pre-processing
+Reconstructed evolutionary
+pre-duplication organization
+Phylogeny reconstruction
+orthology
+differential flexibility
+subfunctionalization
+ecological
+YALI0E28600g
+Identification
+stress-related
+transporter
+Wapinski1,2,3
+Principles
+simultaneous duplication
+regulatory divergence
+paralogue
+Mann­Whitney
+resolution
+enrichment

@@ -1,0 +1,1482 @@
+á pffiffi ffi pffiffiffiffiffiffiàpffiffiffiffiffiffiffiffiffiffi tm dvi ~{vi zmzs tm 1{
+weak pairwise correlations imply strongly correlated network states
+pffiffiffi pffiffiffiffiffiffipffiffiffiffiffiffiffiffiffiffi dvi ~{vi zmzs tm 1{
+firing rate
+ ´ jaime de la rocha1*
+correlated fluctuating currents resembling synaptic activity23
+lif neuron receiving white noise inputs25
+kresimir josic3 & alex reyes1
+populations
+5 123 pairwise ffi pffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi pffiffiffiffiffiffiffi comparisons
+neural model25 integrating white noise currents
+pffiffiffiffiffiffiffiffiffiffi  pffiffiffi ii ~mi zsi 1{
+n2 þ rt ~ pffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi varðn1 þvarðn2 þ ð2þ
+vitro cortical neurons receiving correlated inputs
+attention modulates synchronized neuronal firing
+layer 1 cells fired poisson spike trains
+studying pairwise spike train correlations
+fired stationary poisson spike trains
+layer 1 neurons fired poisson trains
+methods summary
+whole-cell somatic recordings
+correlation susceptibility sij = ij /cij 1
+
+0
+output spike shift-corrected cross-correlation function
+output trains y1 5 x1 1 xc
+inhibitory reversal potential ei 5 280 mv
+803
+
+©2007 nature publishing group
+
+letters
+
+nature
+805
+©2007 nature publishing group
+
+letters
+
+nature
+typical spike train cross-correlation functions
+showed slightly larger sij
+cortical regions7­10 show temporal correlation
+excitatory reversal potential ee 5 0 mv
+sij 5 rij/cij versus ni nj
+mechanisms underlying correlated spiking
+cm dv ~gl ðel {
+spike train output correlation increased
+nyu animal welfare committee
+fully correlated spike trains
+ti 5 8 ms resembling ampa
+cells receiving inputs constructed
+finite size spiking networks
+examined phenomenological neuron models defined
+quantify spike train correlation
+cat retinal ganglion cells
+synchronously active thalamocortical synapses
+simple thresholdlinear model reproduced
+1 na 100 ms 30 ms
+
+x2
+
++
+
+2
+
+0
+
+µ
+independent poisson trains x1
+n1 + nc 1 y1
+802
+©2007 nature publishing group
+
+nature
+©2007 nature publishing group
+
+nature
+806
+©2007 nature publishing group
+
+doi
+spike count shift-corrected covariance
+rate ne 5 ni 5 10 spikes s21
+received randomly weighted ampa
+synchronous membrane potential fluctuations
+layer 1 presynaptic layer 2 postsynaptic
+spike train correlation coefficient
+cortical cells transform correlation
+estimating membrane voltage correlations
+correlated neuronal discharge rate
+0
+
+10 mv 10 ms
+
+0
+
+50 100 output firing rate
+randomly chosen synaptic weights
+macaque visual area mt
+term represents gaussian fluctuations
+simulated common synaptic input
+white noise currents
+primary visual cortex shows
+joint probability density function
+correlation­ rate relationship exhibited
+tighter correlation­rate relationship
+correlation­rate relationship emerges
+correlation­rate relationship prompts
+conductancebased lif model neurons
+spatially correlated noise
+neural spike trains increases
+whole-cell somatic recordings
+time constants te 5 4 ms
+spike train correlations
+©2007 nature publishing group
+input correlation remained fixed
+spontaneously active inputs
+rt increasing strongly
+correlated neuronal activity
+na dga ga
+correlation­rate relationship shown
+obtained sij 5 rij/cij
+primary cortical representation
+neocortical pyramidal neurons depends
+precisely correlated firing
+fluctuating current injection
+correlation­rate relationship similar
+extracellular spike trains
+eliciting spike trains
+suppressed cortical inhibition
+rij versus ni nj
+output spike trains
+cat spinal motoneurons
+correlation­rate curves obtained
+phenomenological neural model
+membrane capacitance cm 5 0
+primary visual cortex
+cat visual cortex
+spiking activity links
+1038/nature06028
+
+letters
+correlation
+spike trains emitted
+spike frequency adaptation
+postnatal day p14
+infrared video microscopy
+dendritic supra-linear summation
+interior sum ranges
+leak conductance gl 5 4
+2 dn s2 dm
+fund career award
+dimensionless quantity ranging
+dendritic sublinear summation
+2 k1 channel proteins
+competing financial interests
+lateral geniculate nucleus
+rates ni nj shows
+common train xc
+delayed inhibitory feedback
+synaptic time constants
+x1 xc + 1
+oscillatory firing induced
+multi-neuron firing patterns
+spike train variability
+gaussian noises low-pass-filtered
+cross-correlation function normalized
+probability density function
+output spike correlation
+output rate ninj
+output random variable
+extracellular multi-unit recordings
+odour-encoding neural assemblies
+spiking lif model
+independent spike trains
+a-amino-3-hydroxy-5-methyl-4-isoxazole propionic acid
+authors contributed equally
+mapped approximately linearly
+impaired odour discrimination
+standard deviation da 5 0
+yield small inflections
+neurotransmitter release probability
+2 yields rt 5 cnt/nt 5
+typical rt versus
+output firing rate
+mice lacking kv3
+introduces boosting effects
+iteratively constructed networks
+input currents bounds
+output correlation coefficient
+correlation-based coding hypotheses8
+3 output correlation ij
+output correlation coefficients
+20 unconnected cortical neurons
+y2 5 x2 1 xc
+spike-rate transfer function
+require intracellular recordings
+lif neuron model
+author information reprints
+biologically relevant setting
+identified cell types
+sparse random connectivity
+binary time series
+nsf postdoctoral fellowship
+filled electrode resistances
+single neuron/synaptic nonlinearities
+action potential times
+passage time formulae
+input random variable
+refractory period 5 2 ms
+output correlation rt 1
+3
+output correlation rt
+
+0
+
+0
+n2 + 2 y2
+full statistical structure
+inhibitory cells firing
+membrane dt potential
+spikes occurring close
+threshold-linear model introduces
+input­output property
+correlation coefficient rt
+input correlation coefficient
+olfactory bulb neurons
+baseline chance correlation
+pairwise correlation
+correlation­rate relationship
+stereotyped curve emerged
+input correlation coefficients
+empirically measured rt
+layer 1 randomly connected
+jth pre-synaptic cell
+positive central peaks
+interior sums range
+integrate-and-fire neuron model
+layer 5 pyramidal neurons
+layer 5 neurons identified
+temporal structure consistent
+simple cell model
+standard threshold-linear model
+inter-spike interval coefficients
+threshold-linear model shows
+primate somatosensory cortex
+ni 5 200 inhibitory cells
+baseline correlation expected
+coefficient rt corrects
+dendritic input increases
+linear regression pffiffiffiffiffiffiffi
+shaded area shown
+increasing trend holds
+conductance-based lif neurons
+lif neuron pair
+layer 1 contained excitatory
+experimental data analysis
+correlated firing
+cross-correlation function
+5 100 trials stimulus block
+neural model25
+tm 5 10 ms
+spike trains
+1038/nature06028
+
+methods
+experiments
+total input current
+membrane potential
+poisson statistics
+slow synapses analysis
+population correlation inherits
+synaptic currents
+white lines
+spike count
+tm ð8þ dt
+neural correlations
+output spike
+neuronal correlation
+randomly chosen
+independent terms ji
+`chance correlations
+cortical neurons
+gaussian currents
+{hn1 i2 hn2
+output rate
+output correlation
+5 output correlation
+simple function
+ne 5 800 excitatory
+firing rate
+spiking neurons
+correlation coefficient
+input spike
+lif model
+randomly connected
+simple model
+synaptic weight
+synaptic depression
+rate ij ­1
+set threshold 5 255 mv
+correlation coefficients
+pyramidal cells
+neuronal interactions
+neocortical neurons
+variable discharge
+transfer function
+correlation susceptibility
+positive correlation
+neuron models
+intracellular recordings
+coefficient rt
+lif models
+inhibitory neurons
+spike synchronization
+spike trains7
+spike refractoriness
+spike counts
+spike generation
+correlation rt
+pffiffiffiffiffiffiffi rij
+computer-generated currents
+temporal average
+afferent currents
+weighted factors
+joint densities
+3 input correlation
+5 input correlation
+ti 5 8 ms
+te 5 4 ms
+cells firing
+vitro cells
+inputs i1
+network correlation
+vitro neurons
+rij versus
+measured cij values
+ni 5 200 inhibitory
+simple network
+layer 2 received
+inhibitory synapses
+correlation measured
+shared fluctuations
+randomly established
+typical cross-
+correlation functions
+10 spikes s21
+0­50 spikes s21
+804
+
+threshold-linear model
+threshold-linear model
+16 august 2007
+
+letters
+relationship holds
+membrane properties
+membrane potentials
+membrane potentials24
+cortical slices
+output spikes
+ith neuron
+cell model
+computational model
+model neurons25
+temporal window
+baseline subtraction
+received 16 april
+gaussian statistics
+correlation coefficient1
+nonzero correlation
+firing rates
+neural information
+stereotyped curve
+auto-correlation function
+neural circuits
+neural syst
+neural code
+neural network2
+ni nj
+ni # nj
+rt measured
+shaded area
+rectifying property
+discharge times
+authors declare
+primate retina
+conductance-based excitatory
+full methods
+olfactory system4
+c-aminobutyric acid
+gaussian distribution
+total conductance
+weak
+slow kinetics
+discharge synchrony
+jth cell
+small concavity
+increased susceptibility
+impaired fast-spiking
+weights je 5 0
+synchronous spikes
+increased probability
+2 threshold-linear boosting
+input current
+layer 2 cells
+hn1 n2
+cerebral cortex
+monkey cortex
+layer 2 neurons
+layer 5 neurons
+approximately linear
+threshold-linear transfer
+rt saturates
+rt increased
+rt ~ pffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffipffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+theoretical curves
+young mice
+macaque v1
+boosting nonlinearity
+somatosensory cortices
+action potentials
+{hn1 ihn2
+delivered currents
+input heterogeneities
+input plane
+input densities
+input variables
+analysis shows
+spikes emitted
+information coding
+network comput
+two-layer network
+transfer ni 5
+network simulation
+overlooked relationship
+non-monotonic relationship
+vi
+neural population
+analysis shown
+voltage traces
+layer 1 consisted
+diagonal i1 5 i2
+linear regression
+twenty neurons
+autocorrelation functions
+input distribution
+i1 output
+nature rev
+current signals
+afferent current
+1 0
+
+threshold-linear saturating
+fixed rate
+neural science
+­60 current
+
+20 mv 0
+permissions information
+supplementary information
+insightful discussions
+2courant institute
+determined solely
+paths drawn
+coloured circles
+psychophysical performance
+eric shea-brown1
+leaky `integrate-and-fire
+{present address
+time scales
+values examined
+dashed lines
+coloured gaussians
+analogous description
+uniquely determined
+brent doiron1
+leaky integrate-and-fire
+synchrony-dependent propagation
+stochastic synchronization
+xx xx 1 1
+room temperature
+autocorrelation functions10
+high-conductance state
+spanish mec
+primarily owing
+related topics
+surprising finding
+natl acad
+nonlinearities shape
+loosely defined
+important determinant
+recording techniques
+highly non-gaussian
+giving rise
+current-clamp conditions
+personal communication
+kth trial
+behavioural events
+stimulus discrimination4
+transformed differently
+spiketime synchrony5
+electrosensory receptors
+poorly understood2
+priori unexpected
+accurately predicts
+narrow band
+direct test
+largely independent
+two-cell system
+spurious ratedependence
+time constant
+saturating nonlinearities
+mechanistic understanding
+co-fluctuations due
+nonlinear region
+squares represent
+correlationinduced synchronization
+computational subunits
+accepted 18 june 2007
+guidelines established
+mathematical sciences
+online version
+fundamental features
+diffusion processes
+cambridge univ
+independent components
+dashed line
+critical reading
+time bins
+thin dendrites
+analytical techniques
+stimulus encoding9
+solid line
+perturbation techniques26
+short timescales
+nonlinearities present
+motor behaviour12
+somatosensory6 thalamus
+jrocha@cns
+rapidly increased
+stimulus protocol
+obtainable experimentally
+approximate form
+mechanistically intertwined
+ith cell
+bdoiron@cns
+relative weight
+observations predict
+differential traces
+term equals
+initial 100 ms
+2 ms resolution
+reset 5 0 mv
+reset 5 265 mv
+population coding
+similar rates
+10 mm phosphocreatine
+10 mm hepes
+3 mm gtp
+4 mm atp-mg
+300 mm thick
+100 mm k-gluconate
+20 mm kcl
+strictly linear
+compute rt
+examples shown
+terms ji
+circular distribution
+wide distribution
+auto-correlation functions
+connection probability
+unconnected pairs
+coding implications
+si set
+expected owing
+inset shows
+group
+bottom row
+pair shown
+nature neurosci
+data analysis
+middle column
+black traces
+top arrowheads
+grey lines
+shaded areas
+numerically obtained
+middle row
+top row
+sliding window
+injected current
+consecutive trials
+clear relationship
+red curve
+high rates
+threshold 5 20 mv
+gabaa kinetics
+lower panels
+tight clustering
+include saturation
+graphically represented
+observed previously
+physiological range
+increasingly confined
+average product
+controlled setting
+natural heterogeneity
+general feature
+stimulus orientation
+cvi cvj
+parameter space
+var
+à á cov ni
+i2
+
+n2
+correlations
+numerical simulations
+common jc
+grey points
+black points
+large region
+figs 1e
+parameter values
+qij 5 ni/nj
+stimulus dependence
+qualitative results
+{hn2 i2 1 2
+bottom-left panel
+absolute number
+x1
+10 ms
+
+figure 2
+red spikes
+rewrite equation
+compare fig
+performed simulations
+spike
+mi
+ðee {
+ii
+ðei {
+stationary
+specific dynamics
+bottom panel
+covðn1
+output
+dt ta
+york university
+µ 0 µ +
+6
+
++
+vitro
+0 1 2 3
+
+pffiffiffiffiffiffiffi
+neuron 22
+neuron
+coefficient
+rate
+networks
+examined
+versus
+xc
+constructed
+correlation
+lif
+5 ij
+cv
+
+1 cij
+
+0
+
+0
+recordings
+nature 440
+nature 404
+nature 390
+nature
+nature 373
+nature 370
+nature 381
+nature 383
+excitatory
+nyu
+susceptibility
+x2
+nj
+doi
+nj ~
+covariance
+standard
+probability
+probability 5 0
+shows
+models
+cortex
+cortex 14
+rt =
+rt
+3 rt 0
+inset fig
+increasing
+shown
+curves
+macaque
+structure
+input  µ
+input
+network
+relationship
+rij
+100 cells
+cells 1
+cells
+layer 1
+layer 2
+area
+measured
+common
+voltage
+1­4 neurons
+neurons
+functions
+current
+threshold-linear
+2 1 n2 0
+n2
+ni
+synapses
+trend
+cell
+inherits
+total
+normalized
+setting
+connectivity
+`integrate-and-fire
+term
+stimulus
+nonlinearities
+contained
+corrects
+times
+consistent
+filled
+show
+defined
+independent
+conductance-based
+increased
+methods
+central
+nsf
+­50
+
+0
+
+50 ­50 time
+similar
+hn2
+time
+100 ms
+ms
+2 ms
+5 10­300 ms
+5 ms
+10 ms
+5 40 ms
+20 ms
+mv
+10 mv
+8 mv
+5 10 mv
+3 mv
+26 mv
+5 10­ 38 mv
+rates
+analysis
+300 mm
+linear
+distribution
+spikes
+data
+set
+expected
+increases
+bottom
+grey
+obtained
+high
+diagonal
+auto-correlation
+top
+population
+points
+black
+variability
+middle
+performed
+window
+interval
+2 n1 0 0
+6 n1 1
+n1
+rev
+5 100 trials
+trials
+threshold
+dynamics
+heterogeneity
+represented
+product
+feature
+experiments
+je 5 0
+university
+space
+cross-
+{ta
+2 depends
+science 312
+injected
+shared
+gabaa
+observed
+depends
+cvi
+controlled
+orientation
+tight
+saturation
+confined
+specific
+examples
+range
+compute
+panels
+implications
+16 august 2007
+
+24
+þ dt ð9þ
+dt ð
+fixed
+york 10003
+york
+dt 5 1
+dt 5 0
+16 august 2007
+york 10012
+pair
+cij
+simulations
+results
+large
+red
+qij # 0
+qij
+values
+areas
+1e
+clear
+ji 5 1
+ji
+cov
+connection
+ð6þ cov
+delivered
+dependence
+5 cov
+2 i2 1 0 0
+
+µ=1
+i2
+panel
+inset
+slices
+number
+figure 1
+figure 3
+>
+
+1
+
+3
+
+figure 4
+pairs
+5 1
+
+4 1 i1
+3 2 0 1 i1
+2 0 1 i1
+i1
+5 cv 1
+
+15
+cv
+neurosci
+jc
+equation
+fig
+limited
+measurements
+sci
+previously19
+illustrated
+somata
+follow
+increase
+senn
+schiff
+finally
+indicating
+ricciardi
+schneidman
+zohary
+longtin
+springer
+/reprints
+lindner
+0
+
+0
+
+20 40 geometric
+reichova
+detected
+& longtin
+overlaid
+upper
+yjk
+computation
+prediction
+approximation
+vivo23
+replicated
+estimated
+blue
+bhagavan
+mastronarde
+32 ns
+evoked
+3c
+3b
+3a
+bruno
+contrast
+3d
+supporting
+lampl
+& merzenich
+implying
+ranged
+& ferster
+proc
+visual5
+explore
+gabab
+making
+depend
+dorn
+& newsome
+35ja
+significantly
+correct
+12 nf
+composed
+vol 448
+addressed
+decrease
+generality
+burroughs
+plot
+usa
+¨ gain
+noting
+retina1­3
+nki
+corrected
+occurred
+berlin
+eccentricity
+50 ms8
+producing
+keeping
+& smith
+work
+top-
+ermentrout
+impose
+re-examination
+give
+allowed
+hfsp
+covaried
+ratio
+surgical
+varied
+stopfer
+& powers
+vital
+requests
+1 nk
+demonstrating
+lau
+shift-corrector
+elongation
+yielding
+quadrant
+green
+progressively
+tsodyks
+ð3þ cv2
+corticonics
+produced
+cereb
+oswald
+auditory
+decreases
+tzt
+asymptoted
+discharges
+derivative
+partitions
+& laurent
+combination
+press
+universality
+maler
+scaling
+reyes
+ph 7
+afferents
+desynchronization
+rinzel
+/nature
+2a
+2c
+determine
+nik
+benda
+& pare
+funding
+debated13
+ref
+10 khz
+n-dependencies
+theory
+built-
+nmda
+& hounsgaard
+equalled 1
+r8
+turn
+length
+consequence
+polsky
+intuition
+manuscript
+yik
+0 yi
+sounds
+differ
+5 khz
+similarly
+& pouget
+1a
+1c
+1b
+1d
+1f
+shifted
+averbeck
+x-
+pittsburgh
+& sakmann
+segev
+simply
+32 uc
+doiron
+rate-
+þzge
+alonso
+medium
+larkum
+linked
+-
+note
+instance
+analogy
+begin
+fourcaud-trocme
+4 ns
+acknowledgements
+behaviour
+drifts
+n-methyl-daspartate
+left
+slope
+bair
+text
+perfused
+relation
+find
+subtracting
+obtained24
+parameters
+colbert
+svirskis
+1
+
+0
+
+0
+
+20 40 geometric
+& bialek
+´ galan
+yielded
+& reid
+5 nt 1
+bar
+n1n2
+tuned
+paper
+pennsylvania 15260
+implication
+valid
+nkz1
+computed
+swept
+vivo7
+p21
+result
+´ destexhe
+attention11
+& urban
+discretized
+co-vary
+mel
+limit
+geometric
+comparable
+parallels
+& sejnowski
+flow
+usa 94
+{ nk
+ja
+& ringach
+houston
+berry
+variance
+expression
+steinmetz
+adjusted
+cn
+named
+sweep
+1­7 repetitions
+salinas
+95% o2
+tuning
+distorts
+strategy
+{nk
+1 1 nk
+define
+dots
+6a
+connections
+pipettes
+3department
+presented
+coordination
+case
+quadrant 1
+cvs
+transformation
+replaced
+behavior
+shadlen
+correspondence
+kohn
+converts
+elusive8
+ni2
+capture
+latham
+develop
+þzgi
+stimulated
+covariability
+filtered
+5 cnt 1
+nih
+approaches 1
+effect
+driven
+nk
+robust
+normalization
+seizures
+slicing
+materials
+sets
+captures
+accurate
+obtain
+transforms
+adding
+overlapped
+5% co2
+smith
+rudolph
+c14
+identical
+showing
+neurophysiol
+reach
+indicative
+modifying
+prominent
+nikolic
+dn/dm
+duration
+establish
+multiplied
+abeles
+{jtjþ
+digitized
+biology
+measures
+shlens
+5 nt
+5 ns
+notably
+binder
+relating
+y-cells
+addition
+renart
+moreno-bote
+www
+middleton
+references
+removing
+question
+cii
+specifically
+low
+40
+
+10 20 geometric
+phenomena
+analyse
+construction
+texas 77204
+removed
+made
+maximum
+vivo
+paired
+yjkz1
+usrey
+quadrants
+differentiated
+computing
+influence
+al
+resultant
+oscillations
+vaadia
+diversity
+& reyes
+& schiller
+excitability
+1 center
+grouped
+details
+department
+mathematics
+nt
+phys
+generates
+decharms
+variation
+allowing
+{tk }
+4d
+acsf
+& markram
+& luscher
+mass
+fact
+obeyed
+4b
+4c
+provided
+4a
+1059­1070
+2 0
+0
+14
+1995
+1997
+3870­3896
+1007­1012
+49
+030903
+3­15
+3646­3655
+5 0 0 0
+3 0 0
+ð
+5 <
+1676­1697
+5 0
+5 1
+610­613
+1994
+1996
+1998
+719­723
+~0
+
+ð5þ
+1
+0 0 0
+9071­9085
+# 1
+0
+
+0
+2266­2275
+25
+26
+0 0
+21
+22
+29
+0 #
+<
+1991
+2 0 0 1
+0
+
+50
+
+50
+815­819
+89
+358­366
+361­374
+7
+2271­2278
+1 0 0 0 0
+0 1 2 3 0 0 0
+1983
+747­763
+3 0
+­
+11
+10
+13
+15
+17
+16
+19
+1977
+86
+5
+
+0
+187­190
+2
+
+0
+2
+
+1
+593­599
+515­518
+74
+72
+6 2 4 1
+1­
+8254­8266
+8
+11­13
+12
+2
+3 2
+
+µ=0
+5 10
+739­751
+18
+ð7þ
+621­627
+061919
+3
+27
+5 1 <
+23
+28
+~{
+1622­1627
+1 2
+1 0
+ð4þ
+5 0­0
+2006
+95 1
+
+µ=0
+3661­3673
+~
+30
+13­20
+140­143
+0
+
+
+
+40
+
+0
+9
+539­550
+2*{
+1 0  µ
+1 0 0 1 µ
+1­5
+70­74
+þ
+303­324
+5 11
+{
+ð1þ
+4
+1999
+57
+2 3  0 0 0
+0 ~
+ð10þ
+~0
+~1
+­1
+5 100
+2
+
+0
+
+0
+
+0
+2
+
+0
+
+0
+
+1
+*
+µ
+6
+20
+2000
+5
+2005
+> 1
+2003
+2001
+2004

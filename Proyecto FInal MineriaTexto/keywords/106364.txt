@@ -1,0 +1,339 @@
+cell-cycle regulator
+species10
+species11
+database18
+similarity
+GTGCAATA GTGCCTTA
+Ninety-five
+`non-conserved
+ACACTGGA GTATATAG
+low-redundancy comparative
+stability
+`conservation
+circuitry
+haematopoietic
+artificial
+posttranscriptional
+GGGYGTGnY TGASTMAGC
+additional mammals37
+Ultraconserved
+consensus sequences
+MicroRNAs
+Supplementary Information
+systematic identification
+reminiscent
+additional mammalian
+amplification
+probability
+pseudo-colour
+directional
+half-site sequences
+interesting
+characterization
+proportion
+ATTTATCG GGCAGCTA
+TGTAGATA ACACTACA
+wholegenome alignment
+non-coding functional
+TGAATGTA ACGGTACA
+biomedical
+extraordinary importance
+AGACAATC TGCTGCTA
+Mann­Whitney
+analogous
+SCGGAAGY ACTAYRnnnCCCR
+transcriptional regulation
+biogenesis
+downstream
+GGCAGCTA GCTGTAAA
+complementarity
+web-based prediction
+genome1­8
+degradation
+base-pairing
+ACTAYRNNNCCCR
+ACGGTACA CAGTATTA
+TGGACCAA GTAAATAG
+enumeration
+sequencing
+experimentally
+probabilistic algorithm
+ATGTAGCA ACACTGGA
+well-studied Err-a-binding
+ACTACTGA TGGACCAA
+structural
+well-known
+significant enrichment
+Evolutionary
+GGAAnCGGAAnY
+Systematic discovery
+Kulbokas1
+GTATATAG TTTGATAA
+positional preference
+RNA-folding
+Discovered
+genome-wide co-occurrence
+AAGGGCTA AGCTTTAA
+Human-mouse
+Pennacchio
+comprehensive catalogue
+AAGCCATA ACTGTGAA
+Blanchette
+conclusion
+regulatory sequences
+microRNAs
+computational algorithm
+Intelligence Laboratory
+combinatory
+clustering
+Subramanian
+erroneous
+representative
+well-annotated
+foundation
+elements35
+consistent
+specificity
+TGTTTACA GCACTTTA
+Specifically
+TTAYRTAA
+Conservation
+GTACAGTT CACCAGCA
+Biomedical
+challenge
+statistic
+CTAWWWATA
+International
+Discovery
+miR-17-5p
+consensus
+three-way
+phosphorylation
+Relationship
+complementary
+TGGTGCTA CTATGCAA
+expressed
+sequences complementary
+nonprotein-coding
+TMTCGCGAnR TGAYRTCA
+messenger
+Massachusetts
+nearpalindromic
+Jones-Rhoades
+homologous mammalian
+transcription-factor
+TCAnnTGAY
+comparable
+CGCAAAAA GTGCCAAA
+evaluating
+dictionary
+identified9
+respectively
+equivalent
+criteria16,31
+Comparable
+GTAAATAG TGTAGATA
+understanding
+TGTANATA
+refinement
+Wasserman
+TGAYRTCA GCCATnTTG
+Published
+regulatory
+miRNAassociated
+Distribution
+tissues24
+Alignments
+estrogen-response
+comparison
+TTTTGTAC ACATTCCA
+Cambridge
+orthologous
+constraint
+Berezikov
+Estrogen-related
+non-randomness
+Phylogenetic shadowing
+systematic procedure
+financial
+tissue-specific expression
+TRANSFAC
+CTACCTCA Conservation
+equal-sized
+TMTCGCGANR
+degeneracy
+Technology
+Alignment
+Bioinformatics
+post-transcriptional
+ATACGGGT AAGCACAA
+miR-30e-5p
+systematic discovery
+inclusion
+Additional
+CTCAGGGA CAAGTGCC
+Identification
+Prediction
+CAGTATTA TTGCATGT
+functional
+Approximately
+non-conserved
+Microarray
+mitochondrial
+Asterisks
+CYTAGCAAY GCAnCTGnY
+computational identification
+`shuffled
+AGCTTTAA ATTTATCG
+LocusLink
+nucleotide composition
+ACCAAAGA TGTTTACA
+Conclusion
+considering
+observation
+hsa-let-7a
+CAAGTGCC ACTACTGA
+publication
+Comprehensive identification
+prevalence
+RCGCAnGCGY
+distinctive positional
+Phylogenetic footprinting
+regulation
+GCTGTAAA GCACTAAT
+development
+structure
+comparable collection
+Regulatory
+percentage
+YATGnWAAT CCAnnAGRKGGC
+assessment
+contiguous
+experimental verification
+TGTATAGT AAGGGCTA
+Comparison
+significant positional
+corresponding
+Additionally
+GTTRYCATRR TGACCTTG
+compendium
+Experimental validation
+comprehensive inventory
+best-conserved
+overlapping
+GGGAGGRR
+CTATGCAA TACTTGAA
+parentheses
+controlling
+discovery procedure
+GGTACGAA TGTATAGT
+purification
+AAAGGTGC ATGTAGCA
+GCCATnTTG MGGAAGTG
+translation
+PGC-1a-dependent
+RNA-binding
+evolutionary conservation
+abundance
+experimental procedure
+Acknowledgements
+GCGnnAnTTCC CATTGTYY
+stem-loop
+characteristic
+intergenic
+symmetric distribution
+definition
+Watson­Crick
+regulator
+functional sequences
+frequency
+YGCGYRCGC GGGYGTGnY
+CACCAGCA GGTACGAA
+Comparative
+distribution
+procedure
+microRNAs downregulate
+TTTGATAA AAGCATGC
+transcriptional
+Publishing
+Nonetheless
+polyadenylation
+phylogenetic
+Vertebrate
+ACACTACA GTACAGTT
+CATTGTYY RGAGGAARY
+RYTTCCTG
+systematic catalogue
+TCGCATGA CTCAGGGA
+degenerate
+brain-related
+comparative
+GCACTAAT AAAGGTGC
+`conserved occurrence
+miRNA-based regulation
+chromosome
+Correspondence
+TGACCTTG
+containing
+significant proportion
+relationship
+TGASTMAGC YTATTTTnR
+AAGCACAA TTTGCACT
+transcription
+translational
+experimental validation
+apolipoprotein
+miR-142-3p
+positional
+different nucleotide
+protein-encoding
+best-matching
+Sequencing
+genome-wide
+stem-loop sequences
+TTGCATGT TCGCATGA
+composition
+difficult
+TGACCTTG TCCCRnnRTGC
+independent
+description
+information
+Institute
+TACTTGAA CGCAAAAA
+GTTGnYnnRGnAAC YATGnWAAT
+different
+Directionality
+miRNA-related
+polymerase
+redundancy
+evolutionary comparison
+characters
+CCAnnAGRKGGC WTTGKCTG
+nucleotide
+annotation
+Massachusetts Institute
+non-degenerate
+TCCCRnnRTGC TTCYnRGAA
+miR-30a-5p
+mitochondrial respiratory
+over-specified
+Dermitzakis
+Whitehead Institute
+TGCTGCTA TTTTGTAC
+expression
+calculated
+sufficient statistical
+TGGN6KCCAR
+ACTGTGAA AGACAATC
+enrichment
+individual occurrence
+4-kilobase
+ACATTCCA TGAATGTA
+fundamental
+correlation
+GTGCCTTA CTACCTCA
+comparisons
+validation
+YTATTTTnR CYTAGCAAY
+Artificial Intelligence
+disruptive

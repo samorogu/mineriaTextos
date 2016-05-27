@@ -1,0 +1,3526 @@
+6e-02
+
+description dna binding transcription regulator activity development ion channel activity chromatin assembly/disassembly neurogenesis organogenesis morphogenesis glutamate receptor activity transcription factor binding protein binding microtubule-based movement rna binding synaptic transmission cell differentiation cell-cell signaling mrna metabolism mrna processing ubiquitin cycle
+
+na
+
+exp
+bayesian markov chain monte carlo sequence analysis reveals varying neutral substitution patterns
+org/cgi/content/full/15/8/1034#otherarticles
+
+email alerting service
+
+receive free email alerts
+cold spring harbor laboratory press
+
+evolutionarily conserved elements
+nomes
+cold spring harbor laboratory press
+
+evolutionarily conserved elements
+functional class
+glutamate receptor activity
+cold spring harbor laboratory press
+
+evolutionarily conserved elements
+conserved elements
+cold spring harbor laboratory press
+
+evolutionarily conserved elements
+table 1
+cold spring harbor laboratory press
+
+article
+
+evolutionarily conserved elements
+cold spring harbor laboratory press
+
+evolutionarily conserved elements
+
+figure 5
+cold spring harbor laboratory press
+
+evolutionarily conserved elements
+fraction
+cold spring harbor laboratory press
+
+evolutionarily conserved elements
+pufferfish otx2 cis-regulators reveals evolutionarily conserved genetic mechanisms
+transcription regulator activity
+org/subscriptions/
+
+© 2005 cold spring harbor laboratory press
+
+downloaded
+voltage-gated ion channel activity
+ion channel activity
+cold spring harbor laboratory press
+
+siepel
+cold spring harbor laboratory press
+
+figure 4
+cold spring harbor laboratory press
+zinc finger/homeodomain transcription factor mutated
+cell­cell signaling
+rna-edited ion channel genes involved
+ubiquitin protein ligase ube3a
+rna-edited potassium channel genes shaker
+eukaryotic translation initiation factor eif4e
+thyroid hormone receptor thra
+ubiquitin cycle
+cold spring harbor symp
+synaptic transmission
+brown norway rat yields insights
+mrna processing
+mrna metabolism
+ion channel genes
+6e-02 7
+neurogenesis
+altering chromatin structure
+step involves computing posterior expected counts
+protein binding
+methyl cpg-binding protein mecp
+long human­mouse sequence alignments reveal
+nuclear receptor nr1d1
+databases featuring genomic sequence alignment
+evolved regions show substantially higher coverage
+uc santa cruz table browser
+visualizing global dna sequence alignments
+international chicken genome sequencing consortium 2004
+international chicken genome sequencing consortium
+unlike human/ chicken high-cnf segments
+mental retardation protein fmr1
+coordinate regulator
+chromatin assembly
+two-state phylogenetic hidden markov model
+nematode life cycle
+cisregulatory binding sites
+uc santa cruz genome browser
+intronic sequences flanking alternatively spliced exons
+4e-05
+
+intron exp
+binding sites overlapping
+overlapping binding sites
+dna binding
+below-average human/ chicken noncoding conservation
+detecting conserved elements inevitably depend
+org/cgi/content/full/15/8/1034#references article cited
+rat genome sequencing project consortium
+rat genome sequencing project consortium 2004
+highly conserved intronic sequence implicated
+national human genome research institute
+results generally support previous estimates
+paraneoplastic encephalomyelitis sensory neuropathy
+rna binding
+2e-01
+
+3 utr exp
+highly conserved elements cds term
+2howard hughes medical institute
+howard hughes medical institute
+chicken genome provide unique perspectives
+results provide bulk statistical support
+biologically uninteresting local maxima
+mirna binding
+software package called phast
+9e-04 exp
+zinc finger genes znf537
+mrna secondary structures important
+weakly binding
+possibly reflecting widespread post-transcriptional regulation
+hox cluster genes abd-
+homeobox protein nbphox
+elevated conservation abruptly ends
+repeat families previously identified
+phylogenetic hidden markov models
+independently defined phastcons high-cnf segments
+phylogenetic hidden markov model
+scoring two-species local alignments
+wilcoxon rank sum test
+human/ chicken high-cnf segments
+sk-nas cell line
+phylogenetic stochastic context-free grammar
+long perfect rna duplexes
+mrna cargoes basp1
+vertebrate genes highly conserved elements
+noncoding rna gene detection
+coding hces represented individual windows
+5000 alternatively retained cassette exons
+evolutionarily conserved sequences
+post-transcriptional regulation involve stem-loop
+numerous hces overlapping coding regions
+affymetrix/nci human transcriptome project
+harbor cis-regulatory elements
+highly conserved elements fall completely
+alternative pre-messenger rna splicing
+cell line prior
+nisc comparative sequencing program
+hidden markov model approach
+results lend additional support
+2-kb intronic sequence flanking
+drosophila reveals similar constraints
+local rna secondary structure
+5human genome sequencing center
+human/fugu conserved noncoding elements
+estimating neutral substitution rates
+statistically separate neutrally evolving
+conservation track lends support
+program shows good accuracy
+harbor distal enhancers
+predicted conserved elements assumes
+cambridge university press
+homothorax mrna splicing
+folding rna secondary structures
+158-bp conserved noncoding element
+mouse genome sequencing consortium
+mouse genome sequencing consortium 2002
+binding
+largest human/chicken high-cnf segment
+remaining predicted elements cover 4
+apparent sense/antisense transcriptional units
+long distance base pairing
+phylogenetic analysis reveals
+phylogenetically informative worm group
+rna-edited human gene gria2
+moderately conserved noncoding sequences
+additional cell lines
+originally published online jul 15
+yeast genomes
+adam siepel
+ion transport
+introns showing slightly higher fractions
+base-by-base conservation scores presented
+multiple genomic sequence alignments
+antisense transcription
+elements overlapping cpg islands
+entire genomewide data sets
+vertebrates revealed noticeable differences
+sites evolve independently conditional
+comparative genomic sequence data
+highest scoring conserved element
+sense-antisense transcription
+full maximumlikelihood parameter estimation
+unusual noncoding conservation arises
+statistics describing overlapping features
+high single nucleotide polymorphism
+computer program called phastcons
+rna secondary structure prediction
+predicting conserved elements based
+shows predicted conserved elements
+randomly selected non-hce utrs--
+scanning human gene deserts
+highly conserved non-coding sequences
+annotation types include coding regions
+ex-
+
+1038
+
+genome research
+www
+ge-
+
+1034
+
+genome research
+www
+de-
+
+genome research
+www
+identified highly conserved elements
+conservation plot generally correspond
+neutrally evolving dna
+including development genes
+genomic dna sequences
+functional rna structures annotated
+ncbi reference sequence project
+combinatorial microrna target predictions
+human genomic dna
+aligning multiple genomic sequences
+regulate transcription
+recently identified rna-editing site
+101 phastcons high-cnf segments covering 2
+factor
+separate genome-wide multiple alignments
+vertebrate hces remain unknown
+estimated parameters included branch lengths
+hidden markov models
+alternatively spliced exons--
+human­mouse genomic alignments
+predicted elements cover roughly 3%­8%
+show strong statistical evidence
+results
+predicted conserved elements
+conserved noncoding dna
+phastcons high-cnf segments overlap 13%
+local multiple alignments extracted
+predicted mirna target sites
+short conserved elements alternating
+hidden markov model
+functional noncoding dna
+human non-coding dna
+conserved noncoding sequence
+based
+entire genome-wide data sets
+ucsc genome browser database
+encode project consortium
+encode project consortium 2004
+expected complete log likelihood
+exact maximum likelihood estimates
+selected dna segments
+step involves updating
+continuous-time markov models
+stable gene deserts account
+mammals promote regulatory variation
+protein level
+show extreme evolutionary conservation
+posterior expected counts
+reported similar results based
+stochastic contextfree grammar
+stochastic context-free grammars
+stable
+
+1044
+
+genome research
+www
+variable gene deserts account
+bulk statistical esticoverage
+fairly rich probabilistic model
+unannotated regions show lower
+twospecies worm data set
+cerevisiae ucsc genome browsers
+transcription
+351-bp l1mca repeat
+9th pacific symp
+rna family database
+high-cnf segment falling
+estimated trees including utrs
+conserved noncoding regions tend
+rna secondary structure
+4genome sequencing center
+branch lengths occur due
+unusually large intergenic regions
+computational molecular biology pp
+messenger rna stability
+smaller scale alignment gaps
+higher scoring subsets
+detecting cis-regulatory modules
+species group change slightly
+highest scoring elements
+web site references
+http
+aligned mrna
+numerous potentially functional
+aligned mammalian genome sequences
+danish research council
+threaded blockset aligner
+7th annual int
+sense/antisense pairs reviewed
+influencing subcellular localization
+hoxb8 mrna
+interaction possibly involving
+revised form june 2
+vertical orange bars
+adaptive biotechnology fellowship
+mathematically rigorous framework
+mobile elements inserted
+distal cis-regulatory elements
+vertebrate development
+detecting conserved elements
+nonrepetitive noncoding sequence
+human/chicken high-cnf segments
+highly conserved elements
+highly statistically significant
+elevated conservation extends
+rna editing occurs
+alignment-related ascertainment biases
+visualizing cross-species conservation
+neudicted conserved elements
+discrete conserved elements
+dicted conserved elements
+conserved elements continually
+lineage-specific conserved elements
+development stages
+development genes--
+rna editing sites
+detecting secondary structure
+comparative sequence data--
+sense/antisense pairs show
+conserved elements elements
+local secondary structure
+genomic dna
+van de lagemaat
+ucsc table browser
+article cites 85 articles
+david haussler genome res
+falsegenome human/mouse/rat alignments
+individual dramatic differences
+online mendelian inheritance
+lmin = log + log
+rna editing identified
+computing emission probabilities
+extensive secondary structure
+functional elements stand
+3715005
+
+supplementary data references
+highly conserved element
+conserved noncoding sequence--
+identifying conserved elements
+man home page
+hirschsprung disease syndrome
+section remain unchanged
+non-coding sequence conservation
+detecting functional noncoding
+mammalian scl loci
+supplemental table s4
+supplemental table s1
+rnaprocessing gene srrm2
+local structural features
+roughly 1-1/2­2 higher
+conserved element includes
+3117-bp conserved element
+gains additional power
+posttranscriptional regulatory mechanisms
+putative rna genes
+561 putative rna genes
+biological sequence analysis
+rna editing site
+neutrally evolving sites
+multiple aligners improve
+multiple-sequence local alignment
+analyzing conservation profiles
+predicted conserved elements
+conserved elements predicted
+phastcons high-cnf segments
+methods produced coverage estimates
+conserved seed pairing
+noncoding functional elements
+extracting 451 human entries
+highly conserved sequences
+intronic/intergenic hces-- enrichments
+spliced est sequences
+mammalian/vertebrate ultraconserved elements
+human/rodent ultraconserved elements
+widespread secondary structure
+neutral substitution process
+neutral human/mouse substitutions
+vertebrate hces overlap exons
+vertebrate head specification
+important cellular tasks
+human spliced ests
+gene deserts flanking
+comparative sequence analysis
+trans-acting antisense transcription--
+naturally occurring antisense
+non-genic conserved sequences
+nucleic acids res
+31 million conserved elements
+orthologous conserved elements
+dna elements
+richer computational models
+human/chicken ultraconserved elements
+diverse functional elements
+functional elements occurs
+increasing gene density
+including draft assemblies
+phastcons conserved elements
+cross-species sequence comparisons
+predicted mirna targets
+cds class
+region vividly illustrates
+recent experimental results--nobrega
+unusual sequence conservation
+extreme sequence conservation
+predicted conserved element
+multiple alignments consisted
+intergenic conserved elements
+supplemental table s2
+separate track labeled
+produce significant differences
+avoid biases related
+cross-species sequence conservation
+developmental genes dach1
+wellstudied disease genes
+rna structural constraints
+alternative calibration methods--based
+noncoding sequences conserved
+alternative splicing events
+noncoding dna
+local alignment covering 40
+effective population size
+human/chicken synteny breaks
+individual parameter estimates
+extreme conservation individually
+significant mammal-specific conservation
+context-dependent substitution rates
+whole-genome alignments produced
+nervous system targets
+3-mb gene desert
+limited phylogenetic information
+base-by-base conservation scores
+identify conserved elements
+define conserved elements
+local pairwise alignments
+evolutionarily
+150 individual collagen genes
+length-dependent element scores
+excluding comparisons primarily
+show extreme levels
+conserved phylogenetic model
+predicted vertebrate elements
+california biotechnology research
+reduced mutation rates
+451 sequences mapped perfectly
+avoid length biases
+maximum-likelihood parameter estimates
+extreme sequence divergence
+editing complementary sequence
+null data sets
+ucsc genome browsers
+stable gene deserts
+substantially higher fractions
+complexity apparently derives
+genome-wide multiple alignments
+mutation rate variation
+comparative studies suggest
+conservation scores--posterior probabilities
+fourth gal4-binding site
+yeast sequence data
+intergenic regions--specific structures
+coding regions evolve
+undocumented coding regions
+ucsc genome browser
+primary research tool
+supplemental research data
+aligning noncoding regions
+phylogenetic information threshold
+flanking intronic regions
+variable gene deserts
+strong cross-species conservation
+overlap stable deserts
+log odds score 2475
+base-level coverage increases
+repeatmasker home page
+spurious stem pairings
+percent identity levels
+complex process involving
+18 million vertebrate elements
+genome-wide multiz alignments
+post-transcriptional regulatory networks
+including phylogenetic shadowing
+treating alignment gaps
+small conserved elements
+multi-species conserved sequences
+statistically significant enrichment
+multiply aligned sequences
+dna sequences
+folding potential score
+shaped eukaryotic genomes
+missing data ignores
+conduct large-scale searches
+general biological complexity
+fourfold degenerate sites
+conserved elements belonging
+finding conserved sequences
+regulatory region upstream
+overlap variable deserts
+conserved noncoding fraction
+percent identity-based methods
+targeted genomic regions
+cerevisiae gal1 gene
+folding potential scores
+designated reference genome
+yakuba syntenic net
+pseudoobscura syntenic net
+space-time process model
+regions recently analyzed
+predicted insect elements
+supplemental table s3
+defined conserved elements
+conducted genome-wide searches
+critical regulatory networks
+stable deserts include
+phylogenetic information required
+conserved elements considered
+e-mail acs@soe
+approximately geometrically distributed
+base-level coverage statistics
+large-scale data sets
+gene densities increase
+determining secondary structure
+conserved 3 -utr sequences
+vertebrate gene deserts
+mammalian ancestral repeats
+userdefined tuning parameters
+1046
+
+genome research
+www
+1048
+
+genome research
+www
+1040
+
+genome research
+www
+genome research
+www
+1050
+
+genome research
+www
+1042
+
+genome research
+www
+1036
+
+genome research
+www
+encode functional rnas
+finding functional sequences
+conducted comprehensive searches
+information theoretic sense
+highly conserved 3 utrs
+highly conserved 5 utrs
+human­mouse alignments
+tissue-specific alternative exon
+progressively smaller fraction
+protein-coding exons increases
+large-scale multiple alignment
+megabase-sized regions rich
+highlights conserved sequences
+dna strands
+cell 120
+increasing genome size
+additional evolutionary rates
+early comparative study
+state transition occurs
+conserved noncoding bases
+fraction considerably higher
+related genes gria3
+nucleotide substitutions occur
+human microrna targets
+alternative coverage targets
+mutation rates differ
+generally similar results
+progressively larger fraction
+closely related species
+mrna
+fixed threshold effectively
+santa cruz
+human regulatory sequences
+total fraction conserved
+article published online
+differences include differences
+critical functional roles
+branch lengths estimated
+data sets discussed
+gene regulatory regions
+saccharomyces genome database
+nonconserved branch lengths
+substitution patterns
+affymetrix transcriptional fragments
+selected gene ontology
+precisely regulated genes
+coding false-positive predictions
+washington university school
+expected minimum length
+considerably higher fpss
+unexpectedly large fraction
+overlap coding regions
+conserved ars show
+conserved element shown
+methods
+sequence data
+human coding regions
+cerevisiae genomes serving
+precise regulation required
+gene deserts result
+drosophila genome projects
+synthesized multiple times
+intense recent interest
+development 131
+development
+fewer synonymous substitutions
+significantly higher fpss
+yeast data sets
+supplemental coding regions
+genome-wide data set
+equal expected rates
+phastcons conservation scores
+hoxb8 target site
+recent assemblies displayed
+human genome annotated
+coding sites subject
+species considerably reduced
+coding bases falling
+expected minimum amount
+conserved human bases
+human/rodent uces identified
+maximum likelihood subject
+annotation types covered
+individual cases suggest
+higher blastz scores
+considered--3 utrs account
+distinct alignment column
+featurebits source code
+assumed tree topologies
+recent results based
+human genome consists
+3 -utr hces show
+log-odds score derived
+browser describing
+find functional regions
+36% overlap cds exons
+high cnf tend
+average parameter estimates
+extreme conservation observed
+found strong evidence
+cuticle collagen genes
+rna editing
+vertebrate data set
+vertebrate hces cover 0
+constrained ancestral alignment
+mammalian genome evolution
+human genes overlapped
+length depenas noted
+alternative calibration methods
+vertebrate genes overlapped
+rna structures
+human cpeb genes
+16% overlap 3 utr exons
+9% overlap 5 utr exons
+simply set equal
+detecting elements
+complex versions increase
+wilcoxon test
+intergenic hces overlap
+separately estimated parameters
+rna structural
+protein-coding seet al
+high-cnf segments
+substantially higher
+cpg islands
+step size 50 bp
+neutral rates
+conserved bases fall
+highly conserved
+spliced ests
+fundamentally similar ways
+relative frequencies observed
+yeast overlapped cdss
+approximate quantitative comparison
+global structures
+nucleic acids
+rna level
+log-odds score indicating
+insect genes overlapped
+conserved elements
+table s2
+rna genes
+overlapping features
+possibly overlapping
+pennsylvania state university
+initial sequencing
+including chicken
+worm data set
+flybase consortium 2003
+flybase consortium
+secondary structure
+coding sequence
+functional elements
+research projects
+predicted elements
+predicted elements 0
+local rates
+display showing
+sequences flanking
+sequence conservation
+chicken genome
+compact drosophila melanogaster
+slightly higher
+sites evolve
+intergenic hces fall
+1578 intergenic hces fall
+entire analysis
+conserved element
+regulatory elements
+non-coding sequences
+alternating sequences
+syntenic net
+two-state phylo-hmm
+sense/antisense overlap
+neutral evolution
+genome sequence
+background set assigned
+apparently reflecting
+transcriptome data
+phylogenetic information
+promote splicing
+segments rich
+genome-wide alignments
+ultraconserved elements
+human/chicken comparisons
+conserved sites
+additional complexity
+accessed free
+statistical evidence
+phylogenetic analysis
+considerably higher
+genome research
+stable deserts
+predicted element
+phylogenetic evidence
+drawn independently
+1000 individual tests
+branch lengths
+nonorthologous sequence
+human/chicken conservation
+test sets
+free parameters
+entire genome
+sequences conserved
+conserved sequences
+perfectly conserved
+insects overlapping utrs
+phylogenetic shadowing
+phylogenetic models
+elements selected
+posterior probability
+identifying sequences
+considerably lower
+broad institute
+higher conservation
+variable deserts
+strong conservation
+noncoding sequences
+rna-editing site
+significantly higher
+called phastcons
+flanking genes
+statistical enrichments
+nucleotide substitution
+target sites
+graduate research
+sequence length
+rat genomes
+gene deserts
+elaborate mechanisms
+possibly incomplete
+good agreement
+primarily collagen
+exact matches
+unusual levels
+probabilistic models
+fourfold degenerate
+preparing figure 6
+remain puzzling
+david haussler1
+comparative analysis
+lower conservation
+widespread conservation
+genome-wide sets
+multiple alignments
+elements range
+transposable elements
+statistical model
+genome-wide human/mouse
+biases related
+conserved regions
+phylogenetic model
+gal4-binding sites
+editing sites
+phylogenetic estimation
+high conservation
+ultraconserved element
+regulatory networks
+unusually similar
+post-transcriptional regulation
+substantially enriched
+noncoding regions
+putative intergenic
+alternative splicing
+sequence evolution
+est sequences
+functional annotation
+functional enrichments
+conduct searches
+experimental results
+19% falling completely
+element score
+extreme conservation
+complete set
+full set
+substitution rates
+quantity called
+kolmogorov-smirnov test
+statistical testing
+biological processes
+conserved elemrnas
+conserved state--
+conserved elepected
+assuming conserved
+maximum likelihood
+highly sensitive
+overlapping protein-coding
+microrna targets
+gene ontology
+gene desert
+substitution models
+cross-species conservation
+recent estimates
+target genome
+computational burden
+synonymous substitutions
+meaningful statistics
+distributed randomly
+150-bp windows
+nonoverlapping windows
+computational discovery
+strong correlation
+ancestral repeats
+references
+aruscavage
+highly enriched
+elements tend
+regulatory sequences
+human/mouse comparisons
+gene regulation
+noncoding rnas
+additional data
+overlapping constraints--
+multiple sequences
+whole-genome alignment
+orthologous sequences
+multi-species sequences
+results discussed
+featurebits program
+nematode biology
+widespread occurrence
+web server
+apparent effectiveness
+de jong
+web resource
+important source
+slightly overrepresented
+probabilistic machine
+parameter estimates
+evolutionary rates
+species conserved
+tuning parameter
+data sets
+megabase-sized regions
+genes overlapping
+genome-wide predictions
+genome-wide pass
+evolutionary conservation
+construct alignments
+inmouse/rat alignments
+pairwise alignments
+target level
+target coverage
+multiple substitutions
+mammalian genome
+large-scale clustering
+trally evolving
+phastcons program
+strongly conserved
+functional roles
+functional classification
+directly functional
+fixed size
+multiz program
+annotation types
+intronic sequences
+conservation track
+higher eukaryotes
+erroneously predicted
+<1000 sites aligned
+multiple alignment
+coding regions
+parameter estimation
+minimum length
+2000 worm elements
+regulatory regions
+high rate
+alignment column
+phastcons
+phastcons
+conservation score
+noncoding constraints
+discriminate effectively
+precise level
+zoom levels
+complex process
+long-range enhancers
+base-level view
+overlapping constraints
+transcript stability
+significant fracother
+otx2
+articles cite
+essentially unchanged
+stem loops
+angelman syndrome
+base-level display
+active prior
+tree topologies
+effective general6
+download page
+recent explosion
+node labeled
+supplemental data
+vertebrate data
+related sequences
+eukaryotic genes
+target fraction
+genome size
+alignment gaps
+aligned sequences
+genome conservation
+genome res
+yeast sets
+rna-binding gene
+gene predictions
+substantial differences
+cftr gene
+fmr1 gene
+ptbp2 gene
+consideration differences
+eukaryotic genomes
+missing data
+conservation scores
+eukaryotic species
+smaller regions
+false-positive rate
+vary considerably
+nonpairing sites
+mouse genome
+detailed analysis
+main analysis
+improved analysis
+analysis concerns
+additional nematodes
+bases long
+human genome
+fairly robust
+parameter settings
+coding regions--
+log-odds score
+parameter representing
+scaling parameter
+circumstantial evidence
+accumulating evidence
+alternative set
+regulatory potential
+regulatory motifs
+lengths ranged
+including non-hces
+genomes cover
+conserved state
+allowable structures
+multiple testing
+higher fractions
+intron sets
+expected coverage
+primate sequences
+complementary sequences
+bases conserved
+conserved bases
+intergenic regions
+reference genome
+perfect identity
+dashed lines
+coordinate system
+window size
+horizontal lines
+fitted separately
+complex parameterizations
+multi-species resource
+relative entropy
+column graphs
+tissue types
+total coverage
+parallel searches
+/kent/src/unzipped/hg/ featurebits
+space/time models
+transcriptional leakage
+transcriptional maps
+genome-wide average
+mammalian genomes
+noncoding hces
+conservation level
+weak conservation
+conservation due
+conservation level--
+sustained conservation
+moderate conservation
+hces overlapping
+real overlap
+log-odds scores
+unannotated regions
+similar analysis
+functional enrichment
+top-scoring elements
+evolutionary divergence
+evolutionary signatures
+evolutionary forces
+evolutionary history
+evolutionary time
+regulatory genes
+similar evidence
+fairly similar
+assembly gaps
+structural constituent
+additional species
+noncoding bases
+mediate splicing
+regions aligned
+top 100 elements
+top 5000 elements
+large-scale insertions
+flybase database
+specific estimates
+human chromosome 21
+human promoters
+human chromosome 2
+phastcons produces
+phastcons works
+drosophila genome
+= 1 +
+
+acknowledgments
+distributed uniformly
+multiz builds
+single approximate
+arbitrary threshold
+graphs change
+finding appeared
+inhibiting translation
++] transcripts
+acs@soe
+l3b repeats
+match repeats
+state-transition probabilities
+holding fixed
+compensatory substitutions
+species group
+overlap genes
+expected length
+significant enrichment
+nonconserved sites
+elements share
+protein-coding regions
+tuning parameters
+alignment tool
+dynamic alignment
+vertebrate fmr1
+alignment display
+vertebrate coverage
+alignment failures
+vertebrate counterparts
+crossspecies alignment
+alignment coverage
+high fractions
+increasing fractions
+exons overlapped
+human genes
+statistical methods
+unabout 70% unannotated
+mojavensis assemblies
+completely determined
+[supplemental material
+supplemental material
+reasonable model
+model analogous
+estimated separately
+5 -utr exons
+3 -utr exons
+critical role
+protein-coding exons
+mouse genomes
+define regions
+nonpairing regions
+repetitive regions
+untranslated regions
+genome sizes
+related observations
+10-fold larger
+mammalian evolution
+nonconserved sequences
+complex eukaryotes
+insect sets
+human genomes
+comparative genomics
+conserved ars
+true genome-wide
+genome-wide survey
+insect results
+scores range
+bases predicted
+gene expression
+model parameters
+38 hces covering 1
+nucleotide distribution
+extensions include
+online tools
+sparse data
+higher percentage
+saccharomyces cerevisiae
+frequently functional
+nematode cuticle
+cds exons
+suspected exons
+structural constraints
+comparative analyses
+critical functions
+splice site
+vertebrate genomes
+vertebrate species
+reference genomes
+regulatory functions
+likelihood function
+related genes
+insect estimates
+saccharomyces genomes
+drosophila genes
+genes overlapped
+larger genomes
+larger fraction
+related species
+coding hces
+eutherian radiation
+lesser extent
+received january 19
+neighbor dependencies
+d466­d470
+sample sizes
+graphical summary
+tom gingeras
+earlier reports
+helpful resources
+dberge ii
+dark gray
+giving priority
+fine tuned
+broadly speaking
+nonoverlapping instances
+issn 1088-9051/05
+selectional explanation--
+community literature
+stefan bekiranov
+synteny filtering
+basic conclusions
+sex determination
+sliding window
+db=omim
+grants ip41hg02371
+synteny filters
+eliminate predictions
+enabling replication
+karin remington
+insightful suggestions
+d411­d417
+arbitrary roots
+learning procedure--
+essentially arbitrary--
+anonymous reviewers
+nonstem-pairing component
+appreciable improvement
+d311­d314
+random sample
+// www
+direct consequences
+greatest similarity
+inducing cleavage
+darker shading
+false matches
+5 -flanking region
+distant past
+sim2 interval
+treated cautiously
+college scientists
+worth noting
+current status
+recompute predictions
+microrna-directed cleavage
+potential involvement
+simulation experiin
+/ftp/pub/annotation/fungi/ comp_yeasts
+da piedade
+gabor miklos
+5-nucleotide resolution
+near-perfect complementarity
+allelic divergence
+low-alignment coverage
+scaling constant
+tremendous progress
+cftr region
+achievements rewards
+satisfy coverage
+suitable proxies
+hyperefficient repair
+branch-length proportions
+state-transition diagram
+systematic discovery
+poorly understood
+established roles
+exhaustively characterizing
+window sizes
+drive experimentation
+baylor college
+decreases sharply
+gov/ entrez/query
+context dependencies
+screen shots
+1101/ gr
+recent identification
+target-site prediction
+nearperfect complementarity
+grant 21-04-0444
+up-to-date versions
+powerful combination
+5-mb region
+identity thresholds
+processed pseudogenes
+potentially making
+embryo electroporation
+helpful conversations
+simulation experiments
+cg dinucleotides
+ways complementary
+considered significant
+i40­i48
+conserved phylogeny
+protein-coding genes
+limited number
+yeast genomes
+primarily enriched
+yeast species
+model eukaryotes
+diverse numbers
+nonconserved model
+slightly longer
+calibration procedure
+larger set
+expected amount
+state-transition parameters µ
+key parameters
+user-defined parameters
+comparative method
+sequences function
+alignment columns
+nonconserved regions
+molecular evolution
+hces simply
+total probability
+transcriptional fragments
+significantly enriched
+rate matrix
+positive rate
+4d sites
+bind provide
+phylo-hmms provide
+10 human chromosomes
+human chromosomes 2
+saccharaomyces cerevisiae
+hces overlap
+molecular functions
+categories unique
+apparent connection
+additional details
+introns involved
+non-hce 3 utrs
+non-hce 5 utrs
+utr regions
+cpeb genes
+genes gap-43
+genes elavl1
+proteincoding genes
+rna-binding genes
+identify genes
+genes participate
+purb genes
+extreme cases
+recent version
+insects show
+washington university
+similar effects
+similar procedures
+estimates based
+vertebrate evolution
+smaller fractions
+selective constraint
+coverage constraint
+arbitrary length
+partial constraint
+length dependency
+siepel
+hces identified
+genedense genomes
+rodent genomes
+sequenced genomes
+substantial fraction
+non-negligible fraction
+large fraction
+quantitative comparison
+distant species
+smaller worm
+protein-coding constraints
+utr exons
+genome biol
+analyze sequences
+functional categories
+models make
+education program
+important functions
+comprehensive search
+eutherian mammals
+differentiate mammals
+primary reason
+causing short
+general conclusions
+intronic hces
+expected number
+conservation tracks
+protein-coding portion
+rna 6
+background set
+significantly depleted
+support
+significantly underestimated
+maximize data
+vertebrate hces
+intergenic hces
+cerevisiae genomes
+insect orthologs
+compact insect
+hidden
+estimated parameters
+yeast phylogenies
+yeast groups
+5 utr pd 1
+preliminary analysis
+vertebrate genomics
+key role
+1-mb portion
+change dramatically
+categories randomly
+special role
+forward/backward algorithm
+algorithm alternates
+viterbi algorithm
+human/
+interesting properties
+3-fold enrichments
+virilis comparisons
+fairly consistent
+8-fold enrichment
+1-fold enrichment
+twofold enrichment
+substantial enrichment
+15-fold enrichment
+small bump
+considerably longer
+sequencing
+caenorhabditis genomes
+hces include
+predicted cooper
+supplemental interestingly
+occur partly
+plos biol
+missing bases
+alignment fragment
+eutherian evolution
+ancestral vertebrates
+stem-pairing sites
+3 -utr hces
+5 -utr hces
+as-yet-undiscovered functions
+hiram clawson
+3 kate rosenbloom
+learned directly
+minmei hou
+4 stephen richards
+visualization tool
+kate rosenbloom
+1 minmei hou
+transposon insertions
+specialized functions
+stephen richards
+differential expression
+1 hiram clawson
+dark matter
+lessons learned
+completely absent
+simple model
+calibration method
+calibration methods
+insect genomes
+annotation classes
+critical importance
+transcribed regions
+insect species
+university park
+related findings
+base compositions
+base level
+lengths ranging
+average rate
+enriched 11-fold
+enriched 22-fold
+data discarded
+included tend
+neutral
+hces coinciding
+project
+studying function
+examples include
+larger numbers
+decreased fractions
+trend discussed
+general properties
+small fraction
+typical exon
+trends genet
+actual bases
+- log 1
+positive selection
+smoothness constraint
+trans-dev genes
+3 utrs account
+species groups
+undoubtedly included
+org
+
+1045
+
+downloaded
+org
+
+1041
+
+downloaded
+org
+
+1043
+
+downloaded
+org
+
+1049
+
+downloaded
+org
+
+1035
+
+downloaded
+org
+
+1037
+
+downloaded
+org
+
+1047
+
+downloaded
+org
+
+downloaded
+utr portion
+human genetics
+genome comparison
+codon bias
+orfs classified
+matching publicly
+existing annotations
+hypergeometric distribution
+obvious deficiencies
+erroneous annotations
+iteratively adjusting
+animal mirnas
+forthcoming study
+attractive tools
+rnas helping
+underrepresented fivefold
+partial explanation
+anopheles gambiae
+background distribution
+pected consequence
+mirnas play
+ananassae assembly
+light gray
+single branches
+efficient tools
+longest member
+viable mice
+nonpairing positions
+visualize annotations
+shed light
+independent annotations
+ordinary scfg
+efficient identification
+accurate representations
+align syntenically
+synteny filter
+large degree
+related possibility
+large number
+polyadenylation-binding proteins
+rnabinding proteins
+dna-binding proteins
+interacting proteins
+rna-binding proteins
+encoding proteins
+fall short
+nonconserved phylogenies
+large numbers
+substantial numbers
+vertebrate 3 utrs
+drosophila melanogaster
+human mrnas
+simply compared
+strongly enriched
+3 utr overlaps
+shown experimentally
+supplemental fig
+fps reflects
+marginalized version
+cases suggest
+fps locally
+insect hces
+distributions reflect
+1 john spieth
+learning method
+john karro
+john spieth
+purpose methods
+traditional methods
+hces tend
+genomes aligns
+briggsae genomes
+selection estimated
+utr hces
+nonconserved state
+species considered
+hces result
+nonconserved bases
+utr exon
+computing
+maximal intervals
+detailed discussion
+1651-bp hce
+feature type
+trends biochem
+interpreted cautiously
+caenorhabditis briggsae
+display purposes
+fugu rubripes
+represent oversimplifications
+1135-bp hce
+chicken
+purifying selection
+decreasing order
+smoothing constraints
+order listed
+table 1
+spanning hundreds
+nonhce 5 utrs
+introducing states
+length distributions
+manuscript devoted
+3 utrs plays
+melanogaster genes
+selection procedure
+free
+weakest part
+bmc bioinformatics 2
+separate
+practical reasons
+small number
+shan yang
+visualization devices
+chuck sugnet
+doug smith
+rat
+sequence
+6 gill bejerano
+1 webb miller
+gill bejerano
+james kent
+webb miller
+constrained bases
+local
+article
+base composition
+strongly dependent
+strongly influenced
+elliott margulies
+krishna roskin
+zfhx1b genes
+tested hces
+biomolecular science
+ivan ovcharenko
+highlighted bases
+research
+general phylogeny
+length 231 bp
+caenorhabditis elegans
+introns tend
+observed number
+expectation maximization
+represented
+undoubtedly missed
+mutated
+depend
+shows
+mechanisms
+annotations
+annotations
+sum
+mirna
+transcriptome
+briggsae led
+figure 1
+figure 3
+figure 4
+figure 6
+constraints designed
+probability distributions
+elements
+insects apparently
+increased numbers
+mrnas tend
+bottom overlaps
+trans-dev categories
+vertebrates evolution
+long
+leaving ments
+averaging 601 kb
+megabase deletions
+difficult problem
+computed fpss
+vertebrates fall
+generally
+conserved
+segments
+higher
+show
+show 9
+show 7
+noncoding
+widespread
+2
+center
+database
+roughly 3%­8%
+slightly
+unique
+involved
+produced
+aligning
+variation
+highest
+alignments
+target
+stable
+evolving
+encode
+online
+functional
+address problems
+deserts
+predicted
+covering 66%
+variable
+gria2
+unusual
+rich
+conditional
+cover 25%
+occurs
+retained
+extracted
+cover 23%
+scale
+step
+largest
+left arrow
+targets
+substitution
+differences
+gene 205
+gene
+provide
+sites
+analysis
+coding
+ross hardison
+evidence
+regulatory
+lengths
+group
+including
+structures
+rates
+multiple
+expected
+sets
+sequences
+types
+size
+models
+reduced
+program
+conducted
+18 million
+microrna
+transcriptional
+results
+perfect
+biology
+searches
+conservation
+5% overlap 5
+overlap
+res
+log 1
+significantly
+= log
+­ log
+data
+>50% gaps
+regulation
+smaller
+account
+mouse
+splicing
+identified
+estimates
+human
+phastcons
++
+substitutions
+annotated
+change
+annotation
+track
+threshold
+single
+probabilities
+molecular
+translation
+finding
+intronic
+score
+occur
+vertebrate
+alignment
+intergenic
+completely
+saccharomyces
+32% completely
+important
+unannotated
+process
+model
+regions
+genome
+selected
+antisense
+university
+related
+estimation
+aligned
+scores
+drosophila
+downloaded
+overlapped
+include <1%
+yeast
+include 23%
+include
+exons 7­11
+exons
+5 -utr
+site
+protein-coding
+consists
+divergence
+intron
+distinct
+seed
+ncbi
+highlights
+precisely
+approximately
+tool
+roles
+tree
+suggest
+>70% identity
+identify
+background
+www
+ucsc
+plot
+cpeb
+approximate
+versions
+cnf
+repeatmasker
+predictions
+pennsylvania 16802
+fmr1
+potential
+ways
+region
+pseudoobscura
+assumed
+coverage
+large
+synteny
+frequencies
+derived
+5% coverage
+prediction
+pairwise
+cds
+complementary
+due
+rnas
+required
+compact
+2% coverage
+fewer
+hoxb8
+spurious
+covered
+fundamentally
+approach
+equal
+yakuba
+define
+6% coverage
+pp
+6% material
+parameters
+rate
+cerevisiae
+genes
+similar
+constraint
+length
+genomes
+fraction
+species
+s3
+included
+mammals
+general
+short
+caenorhabditis
+estimated
+set
+subject
+sparse
+increase
+strongly
+apparently
+eukaryotes
+nonconserved
+constraints
+insect
+tend
+5 utr
+3 utr
+utr
+result
+purifying
+properties
+soe
+role
+cuticle
+lmin
+columns
+algorithm
+portion
+washington
+enrichment
+small
+average
+biol
+fpss
+evolution
+procedure
+california
+belonging
+hou
+matter
+rosenbloom
+clawson
+phylogenies
+visualization
+2e-01 6
+groups
+cdss
+2e-01 ­ 3
+undoubtedly
+analyzed
+blastz
+expression
+stephen
+insertions
+learned
+overlaps
+sense
+smoothness
+differ
+find
+targeted
+sensitive
+california 95064
+code
+determining
+chromosomes 6
+functions
+base
+fall
+enriched
+4% fall
+2% fall
+trans-dev
+based
+hces
+fragments
+flybase
+amount
+probability
+constrained
+function
+fractions
+worm
+exon
+exon 11
+state
+genomics
+genet
+genomics 83
+genomics 84
+bases
+observed
+23% observed
+defined
+selection
+study
+annotations
+deficiencies
+mojavensis
+fragment
+classified
+scfg
+filter
+identification
+bind
+drawn
+megabase
+make
+assigned
+mirnas
+underestimated
+absent
+devices
+aruscavage
+findings
+distribution
+displayed
+transcribed
+considered
+true
+expectation
+bias
+ananassae
+matching
+maximization
+mice
+briggsae
+tracks
+561 positions
+tested
+3-fold
+aligns
+consequence
+frequently
+park
+depleted
+longest
+simple
+partly
+2 annotations
+averaging
+composition
+interestingly
+examples
+phylo-hmms
+fivefold
+analyze
+adjusting
+helping
+dramatically
+led
+degree
+making
+leaving
+survey
+increased
+tools
+analyses
+explanation
+light
+maximize
+align
+highlighted
+accurate
+gambiae
+smoothing
+problem
+education
+details
+4d
+6
+
+number
+number
+proteins
+7% numbers
+numbers
+shown
+org
+org
+
+15
+classes
+version 10
+cases
+fps
+version
+5 times
+indicating
+noted
+times
+john
+distributions
+method
+methods
+comparison
+represent
+consistent
+fugu
+percentage
+virilis
+regulate
+250 kb
+type
+possibility
+top-scoring 1000
+discussion
+hce
+deletions
+ross
+discarded
+ments
+search
+influenced
+melanogaster
+missed
+reason
+top-scoring 500
+dependent
+ars
+intervals
+640 kb
+problems
+ross 1996
+interpreted
+biochem
+purposes
+preliminary
+uces
+difficult
+broad
+top 1000
+top
+top 100
+order
+longer
+hundreds
+manuscript
+ranging
+-
+introns
+interest
+genetics 139
+bottom
+trend
+stem-pairing
+utrs
+branches
+genetics
+published
+share
+states
+categories
+connection
+address
+5 utrs
+arrow
+3 utrs
+3 -
+importance
+fig
+left
+designed
+bioinformatics 16
+bioinformatics 15
+bioinformatics 20
+bioinformatics
+part
+phylogeny
+reasons
+zfhx1b
+elegans
+vertebrates
+haussler
+haussler 2004
+haussler 2005
+mrnas
+found
+sugnet
+yang 1995
+smith
+yang
+insects
+kent
+miller
+kent 2002
+bejerano
+1316 bp
+4005 bp
+12646 bp
+270 bp
+6 bp
+2476 bp
+5 bp
+100­120 bp
+4922 bp
+5783 bp
+100 bp
+975 bp
+4 bp
+150 bp
+9 bp
+700 bp
+cooper
+computed
+http
+margulies
+roskin
+science 308
+science 288
+science 287
+science 299
+science 306
+science 304
+science 302
+science 301
+compared
+ovcharenko
+phylo-hmm
+hardison
+al
+syncrip
+1e-15 5
+fcgi
+extrapolated
+sci
+prematerial
+curr
+9e-07 4
+9e-07 2
+blake
+handling
+affect
+feierbach
+kcna1
+gaul
+kreitman
+frozen
+infancy
+sanderson
+chen
+mutational
+organisms
+459-1809
+1e-07 4
+cheng
+consisting
+florea
+takemoto
+balakrishnan
+--factors
+obtained
+permit
+settled
+visible
+stern
+kobayashi
+ellegren
+negative
+occupying
+genbank
+distortions
+nature 432
+0e-15 1
+midst
+ma
+work
+exceptions
+mager
+/kent/src/unzipped/hg/featurebits
+2 e-29
+pedersen
+place
+arcs
+disassembly
+dorkeld
+recombination
+hypotheses
+green
+5e-31 1
+locksley
+mayor
+knudsen
+represents
+calibrating
+9e-10 1
+davydov
+side
+pacleb
+phase 2
+principled
+tatusova
+release 3
+content
+reader
+medicine
+foundation
+homologous
+r1
+created
+similarly
+deutsch
+jongeneel
+intermediate
+preparation
+displays
+hand-curated
+touchman
+bcl11a
+brudno
+------
+forced
+strength
+kaye
+fitting
+patterson
+weirauch
+cis-acting
+darkness
+doi
+rogers
+dubchak
+inaccuracies
+bateman
+lewis
+stringent
+bouffard
+explain
+biophys
+mixture
+mulan
+gunsalus
+aravin
+research0044
+flanked
+bao
+black
+pfeiffer
+sensitivity
+fail
+discriminating
+blat
+bucher
+/cgi-bin/repeatmasker
+gtdc1
+tolerance
+//www
+slowpoke
+3 utrs--15
+clues
+picking
+ranges
+ast 2003
+bray
+2e-11 1
+cherry
+johnstone
+hwang
+mutations
+basis
+lehner
+6e-03 5
+relaxing
+quantities
+scfgs
+costanzo
+altered
+applied
+lavorgna
+blume
+htr1b
+gov/entrez/query
+0e-01 4
+0e-01 6
+tions
+ether-a-go-
+0e-01 3
+paradoxus
+conf
+perform
+texas 77030
+quant
+mattick
+yandell
+nih
+tammana
+peaks
+hand
+kim
+weinstock
+prediccooper
+lipman 1997
+programs
+phylo-scfgs--
+yamamoto
+rosenberg
+goodman
+5e-12 5
+insensitive
+posed
+unification
+grzybowska
+performing
+acad
+3e-02 5
+elnitski
+golub
+blakesley
+/
+meyer
+limitation
+opin
+ensure
+obs
+considerations
+presence
+marshall
+bound
+cauldron
+accommodate
+pair
+macmenamin
+resulted
+lowest
+rincon-limas
+encodes
+1 angie
+vista
+fortini
+pronounced
+update
+hoskins
+4 e-215
+fos
+ares
+7e-05 5
+comments
+makunin
+arhgap15
+2004a
+marks
+melanogaster/
+springer
+shendure
+cunningham
+proc
+fragile
+brubaker
+cox
+sign
+ashburner
+uniform
+wolfe
+isoforms
+hillier
+strategies
+appears
+box
+elavl2
+doherty
+drenkow
+frazer
+plotted
+churchill
+3e-03 2
+kreitman 2001
+two--
+wang
+goodson
+handled
+opposed
+poliakov
+lyle
+diber
+uncharacterized
+values
+believed
+webster
+trans
+fulton
+claim
+coghlan
+predict
+nielsen
+topic
+performed
+allowed
+conversely
+requirements
+pachter
+pura
+sk-n-
+product
++c-poor
+zajac-kaye
+mignone
+snp
+date
+end
+ordinarily
+st
+schwartz
+< 5 e-5
+cuts
+micro-indels
+tendency
+srinivasan
+britten
+siedlecki
+forms
+platform
+8e-06 1
+9e-05 ­ 5
+chaining
+warranted
+nature 434
+half
+5e-33 2
+sidow
+gautier
+improvements
+realistic
+xie
+3e-62 1
+dency
+0e-03 3
+space
+botstein
+3715005/dc1
+proteomes
+generation
+contained
+investigation
+suggesting
+advantages
+e7
+unrooted
+question
+july 2005
+modest
+turn
+2005a
+2005b
+kimura-yoshida
+origin
+striking
+omitted
+maglott
+specificity
+carry
+blanchette
+george
+white
+williams
+hud
+sorek
+require
+rivas
+pre
+correction
+stubbs
+mates
+simmonds
+note
+begin
+bases--
+insets
+/ftp/pub/annotation/fungi/comp_yeasts
+connor
+wagner-mcpherson
+duplication
+corner
+present
+nlm
+mcauliffe
+riemer
+batzoglou
+mikatae
+zpicture
+3 end
+nature 424
+nature 423
+1e-19 6
+nature 428
+blast-
+reading
+anti
+5e­5
+ladeana
+goldstein
+characterization
+quality
+antp
+christie
+maintained
+mirnas--
+considers
+kelly
+capable
+ucla
+yeasts
+combined
+lindblad-toh
+6a
+6b
+6c
+reenan
+e45
+//ftp
+exneutrally
+1101/gr
+orientation
+dubious
+verified
+5 richard
+author
+eppig
+org/cgi/doi/10
+2e-05 3
+underestimate
+glazko
+multi-lagan
+8% cnfpc
+5e-02 1
+constraining
+harris
+fodor
+hariharan
+znf507
+churchill 1996
+isoform
+amounts
+research0086
+stem-pairings
+uchikawa
+poy
+reymond
+mol
+accepted
+meaning
+black 2003
+kulp
+endrizzi
+weng
+output
+spans
+grun
+generates
+provided
+apweiler
+4e-01 4
+equivalent
+oeltjen
+stretch
+act
+cpebs
+wustl
+bliskovski
+shih
+low
+two-thirds
+clude 42%
+n-
+enright
+7e-09 4
+netting
+chiaromonte
+describe
+stoffel
+chinwalla
+assessing
+stationarity
+phylo-scfg
+forcing
+briefly
+kolbe
+funding
+tuschl
+transposons
+nelson
+sox2
+hmms
+pheasant
+worms
+5% codes
+scr
+2e-04 5
+snell
+2e-04 1
+subjected
+contigs
+2e-04 8
+tail
+khosravi
+fax
+difference
+cnfpc
+[poly
+--
+louis
+grafham
+antoshechkin
+bass
+brien
+richard
+2e-02 1
+2e-02 4
+intersect
+contrast
+blankespoor
+segmentation
+felsenstein
+khanna
+hubs
+13-fold
+ahead
+matsuo
+5e-09 8
+reviews0004
+yielding 56%
+gria4
+bouck
+trained
+1 jakob
+ovachrenko
+establish
+donaldson
+2004b
+wortman
+sheehan
+finally
+quences
+lander
+gnirke
+johnstone 2000
+8 bits
+staber
+producing
+shielded
+dev
+dec
+1e-01 3
+adenosines
+liuni
+metamorphosis
+sharp
+9e-01 3
+cse
+clarke
+zhang
+burge
+cline
+8e-05 ­ 4
+rearrangement
+mapping
+sp
+negligible
+turnover
+helt
+kondrashov 1999
+2-
+comfigure 2
+lipman
+blumenthal
+callaway
+green 2004
+association
+vavouri
+7e-01 3
+gala
+characterized
+mootha
+fisk
+pipmaker
+print
+evaluation
+neurotransmission
+ast
+difficulty
+put
+5e-06 9
+genome--
+reflected
+explored
+bayanus
+oncoproteins
+interact
+eddy
+rahman
+7e-10 6
+beckstrom-sternberg
+passed
+relationship
+5-fold
+gilbert
+king
+kind
+woolfe
+biotechnol
+035/0
+creased
+krek
+nobrega
+lie
+wilson
+depending
+check
+missouri 63108
+nova1
+ddx5
+unsupervised
+clear
+jordan
+thomas
+phenomenon
+9e-02 1
+9e-02 6
+bartel
+1e-02 1
+impact
+access
+hnrpa28
+guided
+permission
+wilczynska
+oogenesis
+giardine
+redefined
+birren
+angie
+visiting
+forsberg
+2e-07 1
+smallest
+4 ladeana
+shabalina
+ranked
+glazov
+yelin
+relying
+tello-ruiz
+elav-
+church
+ensures
+1 mb
+elavl4
+mind
+minx
+intriguing
+5e-07 3
+evaluated
+p-
+lagan
+kudriavzevii
+stokowski
+shorter
+deletion
+shah
+kluyveri
+gumucio
+mavid
+moving
+user
+8 e-66
+dolinski
+karolchik
+durbin
+7e-49 1
+griffiths-jones
+patil
+kulbokas
+reviewer
+interpretability
+sekhon
+associations
+stein
+phylo-scfgs
+layman
+indels
+nature 431
+biton
+heart
+misplacements
+popular
+mcgraw
+essential
+smit
+valleys
+boffelli
+brent
+pachter 2004
+annu
+sgd
+minimal
+bass 2000
+lu
+pipeline
+//genome
+dwight
+plajzer-frick
+exceed
+locus
+nsp
+org/cgi/content/full/gr
+translatability
+cacna1d
+5 george
+fragmented
+osoegawa
+cic
+mycn
+zhu
+prep
+kellis
+burhans
+uk
+pesole
+engineering
+sharing
+aizawa
+covariation
+parsed
+mitchison
+church 2002
+hg02238
+/acs/conservation
+nat
+department
+wormbase
+users
+2e-12 2
+prepared
+generated
+allowing
+hein
+correlated
+zooming
+yekta
+illustrated
+graves
+clark 2001
+helps
+excluded
+jakob
+afzal
+notes
+underscores
+epstein
+inspection
+lengths--
+click
+wylie
+bergman
+kamachi
+dahary
+chose
+/saccharomycesgenomes/contigs
+scamuffa
+separation
+makes
+clark
+danger
+2e-22 3
+dedicated
+decrease
+casari
+usa
+remains
+7e-04 6
+butler
+stone
+wholetions
+8e-05 1
+8e-05 6
+transversions
+averaged
+mesas
+averages
+pepin
+7e-04 3
+oda-ishii
+assumptions
+tao
+wolf
+blocks
+blasiar
+imagine
+8e-17 3
+efficiently
+computations
+chapman
+3center
+divided
+3e-14 3
+houston
+move
+goode
+chosen
+li
+rubin
+weber
+medstrand
+dike
+parameter-rich
+l2
+beneath
+subset
+hein 1999
+bhalla
+met
+calibrate
+transitions
+category
+respects
+patel
+equations =
+rev
+hoopengardner
+nature 420
+pruitt
+interactions
+furey
+regulators
+ecs
+york
+refseq
+shortest
+davis
+stimulate
+dermitzakis
+hinrichs
+dna-
+publication
+4e-06 3
+histograms
+britten 1997
+mir-196
+fleischmann
+e363
+hosseini
+avoided
+loots
+close
+disjoint
+7e-02 2
+gene-poor
+issue
+11/17/2004
+1e-05 2
+marginalizing
+brandstrom
+interleukins 4
+encyclopedia
+clee
+mit
+request
+counted
+continuous-valued
+north
+rfam
+emerging
+text
+supported
+koonin
+6e-11 1
+knowledge
+ogurtsov
+engel
+thousands
+hope
+equilibrium
+bear
+made
+transposition
+p-values
+correlations
+humans
+kitajima
+tian
+elroy-stein
+pattern
+landry
+mungall
+0e-45 8
+emitted
+4e-07 3
+efficiency
+hypothesis
+mcdowell
+4 richard
+kondrashov
+taking
+adjusted
+subscribe
+taylor
+respect
+krogh
+addition
+eightfold
+kondoh
+hmm
+plain
+harder
+promoter
+diversification
+examined
+evol
+ribosome
+shoshan
+parts
+gibbs
+rogozin
+experimented
+ball
+slightom
+kronmiller
+mech
+mouse--show
+biocomputing
+thought
+position
+6e-01 1
+obtain
+eddy 2001
+levanon
+alignable
+natl
+1e-06 6
+stojanovic
+identical
+corresponds
+duret
+0e-04 3
+/cgi-bin/hgtables
+gottgens
+stevenson
+1 e-8
+nature 337
+kapranov
+castelli
+basepairs
+0e-14 1
+carried
+flegel
+converging
+em
+5e-03 6
+tamir
+sander
+baertsch
+artifacts
+overestimate
+hirschman
+ed
+suzuki
+1034-1050
+2e-15 1
+2e-15 3
+convergence
+gissi
+control
+4e-34 1
+myc
+pit
+mcewen
+kinds
+ubx
+chance
+prevalent
+factors
+rule
+diekhans
+1391­1394
+34%
+28%
+0003723
+0030528
+100
+101
+177­182
+9%
+99
+98
+95
+96
+291­336
+1993
+1997
+1996
+1999
+1998
+55%
+8 8
+8 2
+8 5
+0006397
+5%­67
+4 34
+7 13
+0005515
+325­351
+>93%
+5%­8%
+3 4
+184­194
+8 23
+8 26
+05 = 70%
+47%­68%
+379­386
+721­731
+18%­37%
+68­72
+545
+693­699
+13
+7 67
+51­54
+413
+1046­1047
+66­77
+02
+05
+530­536
+0%
+10%
+1 2
+1 1
+1 7
+3580­3583
+4 ­ 3
+0007399
+6 1099 94
+13994­14001
+80%
+4 6
+4 8
+7 1746 150
+9 ­ 2
+53%
+59
+55
+37
+5%
+636­640
+364­368
+993­1005
+42%
+0016071
+137­145
+3 34
+2 251 21
+15%
+0
+0007275
+8 48
+57­71
+5 2179 187
+1995
+4925­4936
+11484­11489
+4 38 3
+1 16
+7 601 51
+578­582
+1
+14%
+378 251 266 79 47 82 144 169 19 54 252 18 88 44 37 77 35 30 69
+
+1914 164
+23­30
+93%
+1321­1325
+8 158 119 115 24 11 38 67 76 6 21 98 ­ 26 12 17 23 10 8 22
+0 880 75
+2315­2322
+338­345
+257­269
+257­266
+0007268
+103­107
+0 96
+1 334 28
+0006333
+1­0004
+439­441
+622
+7 32
+627
+2
+11
+10
+8%­8
+12
+15
+14
+17
+16
+19
+18
+68%
+1%
+9 7
+37%­53%
+1 80 54 47 2 2 15 27 34 ­ 10 41 2 7 ­ 7 2 3 3 3
+6 7
+2005 15
+1 170 14
+20%
+29
+468­488
+26%­27%
+2204­2215
+9 2
+831
+3
+495­500
+781
+6%
+68
+1631­1637
+500
+63%
+47%­ 68%
+788­793
+0005216
+695­716
+577­586
+9 38
+5 10
+34­37
+4
+1 384 33
+µ
+0030154
+75%
+3 55 4
+7 16
+60%
+5
+]
+1
+2 5
+2 7
+656­664
+9 27
+493­521
+197
+4%­36
+283­285
+1%­5%
+1 532 45
+5 8
+5 5
+5 0
+5 1
+6
+3%­8%
+6 77
+708­715
+6 542 46
+24
+25
+26
+27
+20
+21
+22
+23
+28
+2%
+4 49
+9 54
+7
+0006512
+973
+18%
+86%
+9 221 140 122 16 17 36 64 77 5 35 141 8 66 10 15 24 29 24 45
+88%
+351
+72
+806­813
+8
+0008066
+724­731
+800­808
+291­295
+288
+11%­24%
+<0
+9
+000
+0009653
+7%
+1145­1158
+7 6
+30%
+74
+367­372
+1149­1154
+0009887
+1651­1659
+7 153 13
+88­94
+2002
+2003
+2000
+2001
+2004
+2005
+2008
+832­836
+472­477
+245­254
+136­140
+21­27
+25­29
+= 8
+0 14
+59%
+172­175
+6 11
+64%
+33
+32
+31
+36
+446­454
+= 4
+= 0
+= 1
+3%
+6 16
+3899­3910
+9%­53
+241­254
+13­26
+171­175
+1889
+0007018
+6 200 17
+5 1125 96
+0 1
+0 4
+8%
+80
+86
+84
+0 µ
+76­84
+2 16
+2 10
+313­318
+49%­60%
+318
+1989
+65%
+594­596
+15­20
+7 188 16
+18%­ 37%
+323
+1335­1345
+959­966
+0003677
+373­376
+12%
+0008134
+99%
+121
+7 ­ 18
+3715005
+562­568
+5 23
+467
+7 11
+43
+93­104
+98%
+0007267
+1034­1050 ©2005
+84%­87%
+6 240 20
+1319­1320
+56%
+72%
+520­562
+2507­2518
+4 26
+539­548
+49
+46
+44
+40
+4%
+988­993
+472
+478

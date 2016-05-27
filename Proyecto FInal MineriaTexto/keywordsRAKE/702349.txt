@@ -1,0 +1,1000 @@
+future rewards differentially recruits cortico-basal ganglia loops
+methods
+fourteen right-handed healthy human subjects participated
+passive learning task activate human striatum
+royal society usa research fellowship
+ventromedial prefrontal cortex exhibit activity characteristic
+typically appetitive signal remain puzzling
+employ functional magnetic resonance imaging
+coloured fringes show error bars
+medial prefrontal network mediates learning
+lips bold time courses averaged
+rfp bold time courses averaged
+877
+
+© 2006 nature publishing group
+
+letters
+
+nature
+average medial prefrontal bold response
+quantitative reward prediction error signal
+showed significant value-related correlations
+additional variable inter-trial interval
+frontal pathology28 include impairments
+wellcome trust programme grant
+simpler dopaminergic/striatal habitual mechanisms
+monetary incentive delay task
+conducted additional model fits
+general linear model implemented
+876
+
+© 2006 nature publishing group
+
+nature
+© 2006 nature publishing group
+
+nature
+key decision-related brain systems
+mesencephalic dopamine systems based
+1038/nature04766
+
+letters
+cortical substrates
+midbrain dopamine neurons encode
+subsequent multiple regression analysis
+adjacent medial prefrontal cortex
+showing significantly increased activation
+candidate reinforcement learning models
+task involving repeated choices
+multiple slot machines balances
+1 gatsby computational neuroscience unit
+exhibited significantly higher activity
+delayed monetary rewards
+lateral intraparietal area lip
+reach parietal regions involved
+principal cortical region implicated
+brain regions discretely implicated
+average bold response
+© 2006 nature publishing group
+
+879
+ventromedial prefrontal cortex
+value-based exploitative decision making
+error bars represent
+measured bold signal
+signal time courses
+human prefrontal cortex
+multiple regression analysis
+nested prefrontal controllers22
+temporal-difference learning algorithm
+predictive hebbian learning
+false discovery rate
+de lacy costello
+statistical parametric mapping
+dorsolateral striatal systems
+apparently seamlessly mixed
+competing financial interests
+siemens sonata scanner
+bar plot shows
+london wc1n 3ar
+sample alignment varied
+demonstrated phasic increases
+ben seymour2 & raymond
+eu biba project
+london wc1n 3bg
+university college london
+ventro-medial prefrontal cortex
+dorsolateral prefrontal cortex
+improving future decisions
+human orbitofrontal cortex
+anterior prefrontal cortex
+subject-averaged structural scan
+locate brain voxels
+temporal difference models
+error-driven prediction algorithm
+posterior parietal cortex
+habitual decision systems
+medial orbitofrontal cortex
+computationally refined capacity
+lateral orbitofrontal cortex
+lateral
+
+orbitofrontal cortex
+authors contributed equally
+independent random diffusion
+employing whole-brain correction
+survive whole-brain correction
+prefrontal control systems11
+computational reinforcement learning2
+control mechanism facilitating
+dopamine neurons respond
+relative subjective desirability
+prefrontal cortex function
+animated slot machines
+complicated rl tasks
+payoffs changed randomly
+temporal prediction errors
+separate neural systems
+computationally well-regarded strategy
+including abstract rewards16
+demanding careful regulation
+author information reprints
+region sits atop
+1200 east california boulevard
+uncertain environment poses
+potentially confounding factors
+previous evidence indicating
+distinct rl models
+high-level control structure21
+anterior frontopolar cortex
+identify brain regions
+encoding predictive reward
+identify brain activity
+revealed strong evidence
+dominant slot machine
+representing idle curiosity
+dolan2
+decision making
+computationally precise characterization
+simple bandit tasks
+substantial experimental evidence
+tightly entangle exploration
+15 june 2006
+
+letters
+
+figure 1
+unlike standard slots
+fixed trial length
+refined cognitive function
+anterior intraparietal sulcus
+parameter regulating competition
+opposite contrast revealed
+slot machine payoffs
+uncertainty bonus schemes1
+best-fitting softmax model
+14 healthy subjects
+time courses
+exploitative behavioural modes
+relative expected values
+medial prefrontal
+reinforcement learning
+prediction error
+human brain
+future reward18
+coloured lines
+characteristic expressions
+prefrontal cortex
+subjects finding information
+medial orbitofrontal
+imaging neuroscience
+parietal cortex
+lateral orbitofrontal
+including medial
+orbitofrontal cortex
+15 june 2006
+
+letters
+human amygdala
+average blood-oxygenation-level-dependent
+human subjects
+supplementary methods
+slot machines
+prefrontal regions
+appetitive choice
+prediction errors
+neural substrates
+reward-related learning
+higher activity
+frontopolar cortex
+frontal areas
+functional organization
+embedded systems
+confounding factors
+subcortical systems
+wellcome department
+multiple comparisons
+gambling task
+single task
+task design
+abstract reward
+anterior border
+brain activity
+model-based analysis
+behavioural analysis
+fmri scan
+slot machine
+models differed
+models learned
+gatsby foundation
+simpler softmax
+decision making
+computationally intractable
+intraparietal regions
+neural evidence
+high-level control21
+optimal strategy
+whole-brain corrected
+authors declare
+correlating significantly
+corrected whole-brain
+`four-armed bandit
+extra parameter
+dominated machine
+previous studies7­9
+uncertainty-based competition
+standard heuristics14
+compared models
+computational modelling
+dorsal striatum
+activation maps
+exploration-related activation
+differential activation
+task switching
+nature rev
+nature neurosci
+behavioural control
+functional neuroimaging
+exploitative modes
+primary reward
+expected reward
+reward expected
+reward stimuli
+reward representations
+intraparietal sulcus
+behaviour computationally
+computational model
+relative measure
+considered rl
+rl theories
+cognitive control
+neural activity
+daw@gatsby
+highest payoffs
+neural netw
+neural correlates
+random action
+correlated significantly
+significantly correlated
+decision variables
+regions identified
+differential activity
+exploration-related activity
+optimal solution
+optimal foraging
+neuropharmacological perspectives
+anomalous responses
+locus coeruleus
+current worth
+opposing demands
+noted bilaterally
+manual manipulation27
+optimal exploration1
+subgoal processing
+highest expected
+full extent
+behavioural control20
+lower expected
+17 queen square
+generate regressors
+activated areas
+reaction times
+activated area
+hemodynamic responses
+black dots
+supplementary information
+factor captured
+determined probabilistically
+2wellcome department
+regular designs
+kalman filter
+instrumental conditioning
+online version
+restricted class
+proposed hierarchy
+trial-by-trial estimates
+obtained payoff
+amount won
+model-generated signals
+simultaneously prizes
+output modalities
+anatomical separation
+supplementary table 3
+blue line
+accepted 30 march 2006
+uniform conditions
+dissociable roles
+detailed description
+alexandra house
+fmri visualization
+motor output
+simplest method
+small area
+global propensity
+analytical techniques
+ethological10 perspectives
+internal signals
+jdoherty@hss
+gaussian noise
+working memory
+post-task interviews
+subcortical network15
+core deficit
+behavioural perseveration
+present address
+postcentral gyrus
+unpublished data
+experimental design
+supplementary tables 1
+mit press
+sophisticated approach
+regulation arise
+supplementary tables 4
+social sciences
+selectively reflected
+12 queen square
+carry information
+neutral stimuli13
+harvest resources
+tight coupling
+important implications
+permissions information
+peter dayan1
+explore/exploit dilemma
+received payoffs
+asked subjects
+classify decisions
+lower-probability choices
+actual choices
+model progressively
+cognitive planning
+cognitive processes21
+cognitive performance
+behavioural choices
+model equivalent
+exploitative tendency
+exploitative responses
+exploitative potential
+observed activity
+directly compared
+gambler choosing
+payoff received
+received 7 february
+times choosing
+uncertainty bonus
+slots paid
+critical function
+observed bilaterally
+encoding predictions
+observed profile
+15 june 2006
+
+figure 3
+free parameters
+parameters estimated
+exploitative decisions
+exploitative trials
+form studied
+actual choice
+points won
+choice rules
+adaptive behaviour
+choice probabilities
+richest option
+studied patterns
+familiar option
+sampling frequency
+behaviour quantitatively
+matching behaviour
+bold
+negatively correlated
+suboptimal action
+action selection
+neural accounts
+behavioural strategies
+aforementioned strategies
+probability assigned
+decisions classified
+found activity
+classified trials
+optimal fit
+results suggest
+punishment representations
+involves switching
+preferentially active
+reported occasionally
+california institute
+structures linked
+accumulated experience
+classic illustration
+neuroanatomical correlates
+awarding bonuses
+information gathering
+cumulative likelihood
+provide information
+exploiting information
+softmax model
+points received
+study exploratory
+error
+characterized subjects
+red line
+signal
+button-press actions
+reward-related activations
+integrative theory
+humans
+nathaniel
+exploratory decisions
+repeatedly choosing
+tracking uncertainty
+exploratory trials
+guide exploration
+self-directed exploration
+choice strategies
+choice probability
+finding consistent
+central role
+theoretical work
+exploratory compared
+choosing actions
+softmax rule
+prefrontal
+learning
+medial
+usa
+unified architecture
+show
+cortical
+time
+chosen action
+task
+nature
+nature 400
+subject chooses
+exploratory actions
+`exploration­exploitation
+allowed exploration
+prediction
+neurons
+dopamine
+involved
+making
+significantly
+striatum
+computational
+evidence
+activation
+control
+revealed
+rfp
+lips
+reward
+relative
+function
+slot
+rl
+implicated
+payoffs
+frontopolar
+decision
+regions
+activity
+values
+information
+regulation
+finding
+region
+experimental
+characterization
+simple
+uncertain
+california 91125
+bonus
+regulating
+behavioural
+15 june 2006
+area
+expected
+subjects
+decisions
+sulcus
+choices
+model
+cognitive
+trials
+646 exploitative
+exploitative
+uncertainty
+received
+choosing
+compared
+parameters
+slots
+figure 2
+figure 4
+observed
+contrast
+studied
+choice
+classified
+option
+representing
+points
+behaviour
+sampling
+action
+softmax
+`softmax
+correlated
+strategies
+probability 1
+probability
+rev
+results
+institute
+bonuses
+active
+experience
+exploitation
+tracking
+chooses
+neurosci
+allowed
+provide
+occasionally
+fit
+daw
+characterized
+likelihood
+linked
+gathering
+repeatedly
+switching
+neuroanatomical
+punishment
+unified
+exploiting
+critical
+illustration
+found
+accounts
+architecture
+rule
+515 exploratory
+exploratory
+red
+actions
+activations
+neuroimaging
+chosen
+theory
+humans
+subject
+exploration
+consistent
+work
+predictions
+role
+trial
+yellow
+illustrated
+winnings
+neurobiol
+gani
+ventral
+subjected
+undirected
+division
+& aston-jones
+presented
+kringelbach
+progress
+laibson
+caltech
+ody
+findings
+miller
+discover
+marginal
+advantageous
+selected
+`1-greedy
+neuroimage 15
+neuroimage 12
+neuron 38
+water
+explore
+possibility
+opin
+change
+noisily
+accomplished
+options
+vol 441
+explained
+addressed
+koechlin
+supervene12
+select
+3a
+& bongiolatti
+mismatch
+neuropsychologia 38
+insights
+neuromodulation
+account
+discussions
+believed
+corrupted
+assumptions
+performed
+sought
+camerer
+verify
+veitch
+feature
+striatal5­9
+ubiquitous
+capture
+reflect
+demonstrating
+explore29
+friston
+ramnani
+negligible
+north-holland
+representation
+dorris
+cambridge
+left
+coordinates
+fig
+relate
+correspondence
+food
+anat
+possibilities
+magnitude
+2b
+schemes
+& sejnowski
+hard
+delgado
+expect
+westdorp
+funding
+integrates
+daw1*
+`greedy
+rostral
+underpinned
+ref
+npg
+bordering
+timeline
+1-greedy
+& newsome
+bayer
+montague
+upsampled
+running
+turn
+& fiez
+signature
+coding
+number
+biol
+dayan
+illustrate
+878
+
+rips
+introduction
+niv
+john
+exploring
+gittins
+time-locked
+binned
+part
+outcome
+acquisition
+addressing
+generalization
+& kouneiher
+thought
+generalizes
+berns
+majority
+king-casas
+anatomy
+extending
+optimized
+tanaka
+assessed
+cleared
+science 304
+doi
+observation
+consequences
+clear
+critchley
+quantity
+/nature
+nystrom
+superimposed
+find
+metalearning
+& montague
+sharing
+raising
+primates24­26
+curr
+exchanged
+servan-schreiber
+means
+2a
+platt
+3b
+investigate
+paper
+predicted
+neurophysiol
+view
+flavours
+actively
+close
+pattern
+saccades
+loewenstein
+terms
+initially
+screen
+acknowledgements
+interface
+suggested
+charnov
+context
+contribution
+neuropsychological
+exploit
+& shallice
+respect
+ucl
+theoretical1
+pin
+basis
+ed
+popul
+cohen
+choose
+corrado
+theorem
+& andrews
+knutson
+embodying
+metric
+owen
+science 301
+rips
+li
+technology
+neuron 47
+neuron 44
+mediating
+kaelbling
+orbital
+decreases
+conflict
+value-sensitive
+characteristic1
+differing
+hand
+neurology
+requests
+noll
+maximizing
+framework
+monkeys
+materials
+science 306
+science 302
+justify
+& hommer
+money
+yoking
+subgoals23
+-17 burgess
+doherty2*
+& owen
+doya
+& fink
+environments
+& barto
+desire
+overriding
+hornak
+serves
+humans15
+informative
+spm2
+vmpfc
+spins
+organisms
+doherty
+failure
+science 283
+fissell
+usher
+& glimcher
+saccade24­26
+prog
+sugrue
+substitutes
+seconds
+dopaminergic3
+comparison
+explorationencouraging
+mofc
+massachusetts
+artefact
+previously
+www
+& jones
+explain
+involvement
+amsterdam
+rolls
+statistics
+specifically
+001 uncorrected
+grasping
+subregions
+& dolan
+troubling
+gharamani
+triggered
+sutton
+mcclure
+goals
+& dayan
+multitasking
+kakade
+directed
+braver
+noradrenaline
+gottfried
+& cohen
+uk
+informational
+calculated
+lfp
+ac
+describe
+al
+dilemma1
+functions
+/reprintsandpermissions
+humanities
+pasadena
+test
+theor
+rajkowski
+grefkes
+generated
+kaiser
+peak
+additionally
+independently
+annu
+15
+0
+1993
+53
+1999
+523­ -536
+549­ -554
+549­ -559
+20­ -27
+[227
+36
+6
+[45
+1997
+1996
+1998
+233­ -238
+239
+236
+887­ -893
+1
+233
+769­ -776
+452­ -454
+¼ 5
+¼ 4
+¼ 3
+24
+26
+27
+20
+23
+28
+29
+848­ -863
+87]
+[39
+84
+7
+329­ -337
+1704­ -1711
+39]
+2
+18
+11
+10
+13
+14
+17
+16
+19
+[229
+62]
+95­ -102
+503­ -507
+207
+3­
+8
+[3
+12
+218
+495­ -506
+1782­ -1787
+01
+05
+3
+25
+[23
+[27
+21
+22
+1936­ -1947
+3072­ -3077
+339­ -346
+1104­ -1107
+16]
+38
+6]
+30
+129­ -136
+001
+1976
+1974
+33
+215
+4
+5
+1181­ -1185
+129­ -141
+57
+49]
+13]
+167­ -202
+*
+184­ -194
+9
+221
+431­ -450
+48
+45
+42
+365­ -378
+2005
+241­ -266
+2002
+2003
+2000
+2001
+2004

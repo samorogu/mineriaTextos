@@ -1,0 +1,1078 @@
+rj ~pt rj Н{sz т р сут р с р с у №1ў 1{pt rj r0 rj ds0 zr1 rj ds1
+technopole chateau gombert f-13384 marseille
+biomimetic robot lobster performs chemo-orientation
+10-3
+10-4 pdf 10-5 10-6
+behavioral strategies underlying pheromonemodulated flights
+25 january 2007
+
+letters
+
+performing complex computations
+typical travel distance durpffiffiffiffiffiffi ing
+407
+
+Љ2007 nature publishing group
+
+letters
+
+nature
+pheromone plumes modulates upwind orientation
+shraiman3
+chemotactic bacteria rely
+explore heuristic approximations simple
+decoding protocol requires knowing
+gas/odor plume-tracking robot based
+light blue regions correspond
+reactive robot chemotaxis algorithms
+poisson law rk 5 hke2h/
+autonomous mobile sensing system
+specific decoding protocol depends
+large distances compares favourably
+sffiffiffiffiffiffiffiffiffiffiffiffiffiffi ar {jr{r0
+406
+Љ2007 nature publishing group
+
+nature
+Љ2007 nature publishing group
+
+nature
+organisms performing olfactory search
+infotaxis naturally combines exploitative
+coherent odour patches make
+chemotactic search strategies based
+search time probability distribution function
+local concentration gradients require
+`exploration versus exploitation trade-
+motor response controlling chemotaxis
+institut universitaire de france
+olfactory search context applies
+odour detection events correspond
+posterior probability distribution pt
+isolated odour detection event
+mixing flow experimental data7
+rj jr0 dr0
+infotactic trajectories feature `zigzagging
+olfactory search motion observed
+neighbouring points rj
+409
+Љ2007 nature publishing group
+estimated maximum likelihood locations
+chemical plume source localization
+2universite aix marseille 1
+autonomous underwater vehicle
+mixing flow experimental data
+consistent progression upwind
+rate function decreases exponentially
+estimated source location pdf
+gradients
+massimo vergassola1
+black filled triangle
+carries informa1 3
+
+tion
+chemical plume tracing
+black filled circles
+sea urchin sperm30
+sea urchin sperm
+emmanuel villermaux2 & boris
+infotaxis strategy locally maximizes
+distinct events arising
+maximum likelihood points
+№ti ўjr0 ў lr №
+wider crosswind excursion
+nature cell biol
+scale invariant manner
+1038/nature05464
+
+letters
+`infotaxis
+posterior field pt
+odour plume encounter
+theoretical bound mentioned
+downwind movements similar
+animals sensing odours
+competing financial interests
+proposed search algorithm
+estimated posterior probabilities
+receiving additional cues
+~№ №2ў pt №r0 ў~ № 0 lx №
+initial vertical separation
+average difference measured
+olfactory search algorithm
+0 ўjr0 ўdt 0 ph
+0 ўjxўdt 0 pi~1
+probability distribution posterior
+posterior probability distribution
+odour encounter depends
+exponential dependence needed
+signal-to-noise ratio depends
+fluid-advected odor plumes
+local concentration gradients
+rapid search process
+typical infotactic trajectories
+№ti ўjxўdx
+chose sufficiently high
+estimated probability pt
+real probability distribution
+figure 2c shows
+25 january 2007
+
+infotactic paths
+mixing flow experiment
+black star denotes
+random walking searchers
+detect single molecules
+exponential time needed
+large initial distances
+local cues pointing
+estimated distribution decreases
+odour plume propagation
+flowing medium breaks
+author information reprints
+approximately archimedean spiral
+infinitesimal interval dt
+similar independent arguments
+hidden markov methods
+maximal estimated probability
+dt pt №r0 ў
+search alternates phases
+resulting search process
+sustained turbulent flow
+practical situation involving
+extended crosswind casts
+right-hand side corresponds
+posterior probability field
+single cell
+
+figure 3
+pheromone oriented behaviour
+104
+residual search time 0 2
+time-independent odour encounters
+uncorrelated odour encounters
+generated injecting dye
+average search time
+200
+average search time 1
+dye concentration levels
+represents conservative `exploration
+average intensity level
+partially reliable information
+strong noise due
+spatially separated sensors
+expected search time ц
+infotactic path generated
+similar expression holds
+exponential decay shown
+searcher detects odour
+searcher starts spiralling
+point rj
+zigzagging patterns observed
+molecular scale provided
+№rjr0 ў~ 2 jr{r0
+mobile robots olfaction
+existing methods apply
+general information-theoretic approach
+isotropic effective diffusivity
+mobile robot
+track chemicals emitted
+25 january 2007
+
+letters
+probable source location
+high reynolds number
+linear dependence found
+000
+
+102
+
+100 6
+
+8 10 residual entropy
+
+12
+
+figure 1
+searcher encounters concentration
+estimated pt
+olfactory search
+large distances
+search algorithm
+field pt
+locally maximizes
+typical fluctuations1
+proceed upwind
+rj
+exponential dependence
+concentration gradients
+odor plumes
+detection events
+search process
+probability distribution
+exponential decay
+000 search time 6
+odour detection
+search context
+mixing flow
+preprogrammed response
+poisson distributed
+favouring motion
+plume mapping
+organisms acquire
+strategies inspired
+paths similar
+insect orientation
+& de almeida
+institut pasteur
+local maximization
+chemical leaks
+symbols rk
+right-hand side
+odor-source localization
+conservative `exploration
+odour propagation
+olfactory robots9­11
+residual time
+pheromone sensors
+dt interval
+approximately dt~50
+odor detection
+movement based
+systematic search
+search space
+signal flow
+olfactory robots
+random nature
+chasing locations
+integral scale
+crosswind width
+nearby locations
+red corresponds
+maximum rate
+average concentration
+distant pheromone
+concentration noise
+mobile robots
+odour encounters
+odour spreading
+windborne odour
+infotactic strategy
+expected time
+counterturning patterns
+experimental measurements
+competing demands
+single molecule
+reliable estimate
+resulting sequence
+aggregation process
+single cells
+neighbouring sites
+zigzags similar
+pointing downward
+water detect
+experimental time-
+weak signal-to-noise
+greyscale represents
+role similar
+encounters due
+entropy decreases
+dye concentration
+high concentration
+sporadic cues
+000 800 600 400 10 20 30 40 50 60 70 initial distance 80 90 100 110
+balance exploration
+cues arrive
+initial distance
+experimental data
+time progresses
+averaging time
+elapsed time
+search times
+insect olfaction
+visited regions
+turbulent mixing
+dt 2d
+spiral increases
+mixing flows
+mixing flows7
+time-step dt
+times {ti}
+gas sensors
+disconnected patches
+patches sweep
+represent patches
+detection threshold
+exploitative term
+reynolds number
+dye downstream
+high rates
+detection rate
+source distribution
+odour detections
+searcher starts
+time step
+natl acad
+invertebrate neuroscience
+intuitive idea
+macroscopic scales
+combining turbulent
+ieee sensors
+combined effect
+turbulent flow7
+dynamical objects
+accepted 14 november 2006
+imply identity
+standard anemometers
+numerically simulated
+plumetracking strategies17­21
+living creatures
+continuously updated
+moth flights8
+random walks
+authors declare
+systematic formulation
+man cybern
+decaying exponentially
+cues received
+wide `voids
+effective learning28
+exploratory tendencies
+online version
+error bars
+effects contribute
+computed analytically
+quantitative comparisons
+robustness stems
+chemoattractant peptide30
+sporadic sequence
+attractant sources
+moth antennae
+ўdx exp { 0
+conflicting choices
+sensory ecology
+integral scales
+simplistic hypothesis
+colour code
+detectability threshold22­24
+realistic flows
+worth remarking
+efficiently balanced
+kavli institute
+reinforcement learning
+special issue
+weak sources
+keeping track
+mathematical theory
+rotationally symmetric
+random advection
+transient responses
+detectible signal
+molecular diffusion
+active exploration--
+strong fluctuations
+unit speed
+learning theory
+birds exhibits
+faster close
+detectable odours
+coding theory
+fine-scale structure
+passively transported
+silico genetics
+false colours
+clean room
+decision processes10
+8 mm tube
+world scientific
+theoretical physics
+quantitative characterization
+75724 paris cedex 15
+Д cnrs ura 2171
+santa barbara
+search trajectory
+call `infotaxis
+searcher spiral
+waiting time
+partial information
+supplementary information
+transmitting medium
+information accumulates
+permissions information
+turbulent medium
+information gain
+information plays
+dilute limit
+accumulate information
+sparse information
+information theory
+independent detections
+dye concentrations
+high concentrations
+methods
+estimation
+expected number
+general idea
+high-concentration conditions
+general principle
+advected odour
+rate function
+expected rate
+starting point
+ieee trans
+injection point
+effective diffusivity
+independent hits
+scalar turbulence
+decaying rapidly
+threshold fixed
+long tail
+long lags
+dilute conditions
+emission rate
+higher rate
+expected reduction
+successive times
+figure 3 presents
+figure show
+simulation studies
+received signal
+numerical simulation
+entropy expected
+searcher chooses
+macroscopic searcher
+temporal correlations
+finally leading
+particle detections
+main problem
+figs 1a
+unknown location
+causal mechanisms
+4 cm s21
+princeton univ
+symbols dsk
+root-meansquare velocity
+negative direction
+detectable `particles
+hit encounters
+figure 1b
+source plotted
+source r0
+source emerges
+source location
+particle lifetime
+finite lifetime
+reducing entropy
+infotaxis searches
+pt
+hits occur
+gathered information
+information acquisition
+pdf
+taking place
+alternative case
+dimensional case
+flying moths
+mit press
+linear scaling
+silkworm moths
+conditions encountered
+classical casting
+wind blowing
+wind blows
+bell syst
+current information
+fluid  turbulence
+source located
+computational model
+decoding
+strategies
+velocity fluctuations
+hits received
+denote times
+simulation parameters
+hits low
+shraiman@kitp
+based
+depends
+25 january 2007
+search
+flow
+wind direction
+nature 417
+nature 405
+likelihood
+nature 369
+nature
+fields pt11
+distribution
+pheromone
+`odour
+controlling
+probability
+chemotaxis
+event
+exploration
+average
+time
+mixing
+regions
+dt
+maximizes
+exponentially
+context
+generated
+`zigzagging
+concentration
+estimated
+observed
+zigzagging
+patches
+high
+dye
+function
+figure 2
+figure 3
+level
+linear
+behaviour
+path
+apply
+france
+separated
+shown
+denotes
+r0
+distance
+effective
+track
+random
+approach
+turbulent
+phases
+encounters
+extended
+trajectories
+location
+odours
+provided
+field
+infotaxis
+`infotaxis
+data
+dilute
+information
+medium
+robots 20
+methods
+robots
+general
+conditions
+exploitation
+`exploitation
+ieee
+point
+diffusivity
+strategy
+threshold
+decaying
+located
+number
+long
+diffusion
+expression
+situation
+turbulence
+step
+concentrations
+rate
+times
+received
+received 1
+simulation
+searcher
+presents
+finally
+dsk
+waiting
+gathered
+10 cm
+particles
+mechanisms
+1a
+unknown
+low
+rjr0
+princeton
+velocity
+physics
+show
+kitp
+fluid
+correlations
+emitted
+fluctuations
+acquisition
+direction
+encountered
+detections
+`hit
+reduction
+problem
+у exp { 0
+searches
+source
+lifetime
+entropy
+found
+р с р с № hits
+hits
+`hits
+current
+scaling
+1b
+shraiman
+moths
+parameters
+& shraiman
+taking
+fields
+denote
+case
+press
+pt11
+advected
+casting
+`casting
+wind
+syst
+trajectory
+term
+model
+limited
+sci
+similarity
+rob
+results
+illustrated
+lr0
+localized
+& kennedy
+sens
+bioelectron
+indicating
+applied
+supported
+broadly
+linked
+& thomas
+irphe
+supports
+grid 512 3 512
+balkovsky
+massachusetts
+equation
+hinder
+& siggia
+dealing
+design
+ц $ es21
+implemented
+synthesis
+hansson
+{y0 ў
+& vergassola
+method
+lessons
+making
+observing
+change
+box
+chemoreception
+clarendon
+larger
+york
+vol 445
+addressed
+belanger
+entropy26
+standing
+russell
+pt1dt
+`sniffers
+comparing
+dusenbery
+comparison
+occurred
+payne
+adapt
+berlin
+consi
+cases
+challenge
+work
+modified
+neighbours
+history
+grasso
+performed
+axis
+huge
+productive
+pair
+california 93106
+auton
+& li
+applications
+designed
+cambridge
+realized
+preferential
+correlate
+& moriizumi
+eng
+accelerated
+giving
+spread-
+Д li
+behav
+move
+presence
+pang
+physiol
+supplemented
+chosen
+interesting
+expectations
+fig
+nakayama
+nakamoto
+correspondence
+freeman
+propose
+safe
+oxford
+university
+presented
+transmitted
+2a
+2b
+acquired
+difficult
+kuwana
+ed
+communication
+challenges
+shannon
+quantify
+singapore
+rev
+formula
+ref
+occurs
+derived
+california
+bayes
+5 1/2
+imagine
+pictures
+introduction
+200 hz
+arrived
+size
+respond
+1z
+message
+jet
+& arbas
+construct
+resact
+dissipate
+1/t2
+shepherd
+contrary
+contrasted
+risky
+mind
+anisotropically
+actuators
+note
+finding
+performance
+aro
+№ shannon
+parameterizes
+trace
+pausing
+propagate
+position
+acknowledgements
+explosives
+sutton
+doi
+telecommunication
+wiley
+gather
+berg
+{ dxp №
+tech
+pattern
+/nature
+insects
+relation
+boundaries
+elkinton
+failed
+chemotactic13­16
+explicitly
+& carde
+inferior
+quantified
+bear
+quantifies
+pheromones
+Д murlis
+bird
+paper
+characteristic
+d-function
+large-scale
+set
+usa 99
+radius
+result
+weighing
+review
+materials
+progress
+subscript
+terms
+comp
+sector29
+Д mafra-neto
+faced
+panels
+improved
+efficiency
+falkovich
+& kanzaki
+shimoyama
+requests
+relevant
+currents2­6
+coordinates
+experiencing
+respect
+р с р с ds
+lattice
+absence
+responds
+describes
+treat
+ishida
+flight
+drugs
+ў ln
+modelling
+& farrell
+ensuring
+murlis
+prescription
+spirit
+evaluated
+air
+suppose
+guide
+site
+accounting
+& jones
+lett
+member
+eds
+biophys
+inhomogeneities
+moving
+birch
+robust
+tracking
+ocean
+thought
+bab-hadiashar
+obtain
+actions
+stored
+plagued
+tis
+kagawa
+nutrient1
+nagasawa
+struck
+details
+possibly
+mod
+appearing
+mountain
+kennedy
+alternatively
+interestingly
+intermittently
+marques
+works
+/reprints
+webb
+www
+entomol
+plausible
+searching
+proceeding
+dimensions
+lead
+annu
+mines
+ucsb
+proc
+locate
+biology
+visits
+concreteness
+panel
+usa
+ensure
+farrell
+mates2­6
+& atema
+kaupp
+springer
+specifically
+appears
+refs 26
+series
+villermaux
+denoting
+& purcell
+reminds
+snapshots
+time-correlations
+directed
+made
+gawedzki
+frequency
+demonstrate
+moths8
+attain
+detailed
+devise
+cover
+measurement
+al
+examine
+simulations
+moves
+& duplat
+factorizes
+& barto
+elements
+phys
+variation
+bounded
+required
+biosens
+9­11--robots
+4d
+& wallace
+379­423 623­656
+0
+1992
+16
+1948
+37
+№
+5 2
+5 1
+6
+``
+913­975
+91
+1991
+1993
+1994
+1996
+1999
+1998
+~1 т №
+5 150
+359­363
+ц
+850­863
+4
+24
+25
+27
+23
+28
+428­442
+у
+71­86
+183
+58­66
+­
+2
+~ №3ў
+183­287
+13
+12
+15
+19
+345­360
+103
+{№
+000 4
+9
+18
+8
+11
+10
+639­646
+14
+17
+184501
+3
+26
+143­170
+20
+21
+22
+29
+2000
+500
+т №
+30
+115­121
+195­202
+1977
+1
+33
+ў
+45
+7
+2003
+50
+408
+115­131
+142­144
+30%
+505­532
+73
+83­97
+109­117
+1986
+1983
+1981
+537­545
+5
+12589­12593
+2005
+193­219
+2002
+2001
+2006

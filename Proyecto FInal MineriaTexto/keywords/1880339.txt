@@ -1,0 +1,798 @@
+-TCTTGACTGGCTGC-CTGCC
+Bielawski
+similarity
+Dorsal-lateral
+nucleolar
+Albuquerque
+TGTANWTW
+Fine-tuning
+euchromatic functional
+pre-transcriptional regulation
+Department
+Hairless117
+phylogenetic framework
+Foundation
+annotation assessment
+systematic prediction
+Proventriculus intermediate
+physiological
+signatures Alexander
+MRYTTCCGYY MATTRRCACNY
+frame-invariant conservation
+characterization Regulatory
+integration
+Kaufman21
+Organizing committee
+downstream
+Identifying
+Epipharynx Hypopharynx
+22Department
+experimentally
+GCGAUUUGGAGCCCUUAAGUUUGGGUCAUUUAAAG-GGGUGACCCAGACAUGAGGGCUGCCAAGUUGC
+low-redundancy comparative
+Predictive identification
+Polansky17
+Signatures
+Transcriptional
+specification118
+Systematic discovery
+accompanying
+induction
+Sensitivity
+GTCACGTD AWNTGGGTCA
+GCGAUUUGGAGCUCUCAAGUUUGGGUCACUUAAAG-GGGUGACCCAGACAUGAAGGCUGCCAAAUUGC
+Puf-family
+systematic understanding
+transcriptional profiling
+BYAATTARH HRTCAATCA
+degeneracy
+Bio/Technology
+consistent
+elements33
+melanogaster78,79
+recruitment
+Schroeder1
+biological significance
+Hinrichs4
+hairpins79
+27Department
+specification
+suggestive
+MicroRNAs
+24Department
+phosphatase
+Informatics
+AATTRYGWCA GCGCATGH
+Steneberg
+30Department
+Escherichia
+snoRNA-LBME-db
+pioneering
+segmentation
+ACCCAGGAATCAAACATATTATTA CCCAGGAATCAAACATATTA
+functional significance
+UMDNJ-New
+higher-level miRNAmediated
+TATCGATA
+Matthews1
+secondary structures
+sechellia
+conservation-based approaches
+Bioengineering
+Distribution
+Characteristic protein-preserving
+Protocols
+Male-specific
+Maxillary
+`programmed
+nucleotide conservation
+well-known regulators
+lineage-specific
+Technology
+prothoracic pharyngeal
+TATGTTTGATATTCTTGGTTG ATGTTTGATATTCTTGGTTG
+21Department
+Exclusion
+classification
+Ruby10,11
+chromosomal
+lymphocytic
+MATTRRCACNY YTAATGAVS
+Clypeolabrum
+AGATATGTTTGATATTCTTGGTTGT AGATATGTTTGATATTCTTGGTTGTT
+Pre-transcriptional
+ChIPbound
+Discovered
+28Graduate
+confidence
+Epigenetic
+Ubiquitous
+morphogenesis
+predictions
+Phylogenetic footprinting
+CCCAGGAATCAAACATATTAT CCCAGGAATCAAACATATTATT
+Phylogeny
+Bioinformatics
+18Laboratory
+TGACGTCAT MAATTNAATT
+Nucleotide
+annotations
+Greenberg
+mesodermal repressor
+Castellano
+successful
+microRNA-class regulatory
+High-throughput sequencing
+co-expressed
+disruption
+transcription-associated
+Encyclopedia
+normalized
+RNA-binding
+abundance
+Characterization
+MAAMNNCAA
+GATTAGTTGATCATCATCATTAATTAT
+-TGTTTATTATTTATCATTATTA
+mammalian
+Frame-shifting
+Sethupathy
+AATTAATGGTATT
+16Department
+Comparative
+Oesophagus
+Investigators
+inhibitor
+Programmed translational
+pharyngeal
+STATAWAWR VATTWGCAT
+transition
+Wisconsin-Madison
+UGUUGGCGCCUGGGCACGAGUUACUGUGCGGGCGCAUA
+prediction37
+Phylogenetic shadowing
+Highlighted
+frame-shifting
+degenerate
+even-skipped
+Suppressor
+Sophophora
+high-confidence
+mojavensis
+highstringency
+coding-region
+TTAYGTAA YGCGTHAATTR
+Discriminatory
+lineagespecific
+manuscript preparation
+strand-biased conservation12
+positional
+methodology
+-AATTAATGGAAATTTGGTCACTTATTACTGCCTGCCGG-T
+-TATTTATATT
+Biomolecular
+anterior­posterior segmentation
+-TGCCTGTTA
+equivalent non-orthologous
+follow-up experimental
+GCAAUUUCGAACUAUUAAGUUUGGAUCACUUAAAGCACGUGAUCCAGACAUAAUAGAUCUGAGAUUUU
+transcriptional regulatory
+Multiplicity
+GATATGTTTGATATTCTTGGTTG ATATGTTTGATATTCTTGGTT
+non-proteincoding
+collection
+polymerase
+TCTGATCCGGCAGCGTTTGCTCTTCTCTGACTCTATTTTGTCGGCGAACATGGATCTAGTGCACGGTTG-TTCATGATTAAGTTCGTGACTAGATTTCATGCTCGTCTATTAAGTTGGGTCAACACA-ACGAACCGAAAGAGCAGAGCA TCTGATCCGGCAGCGTTTGCTCTTCTCTGACTCTATTTTGTCGGCGAACATGGATCTAGTGCACGGTTG-TTCATGATTAAGTTCGTGACTAGATTTCATGCTCGTCTATTAAGTTGGGTCAACACA-ACGAACCGAAAGAGCAGAGCA
+cis-regulatory
+meaningful
+annotation
+Protein-coding
+individual functional
+Multi-species comparisons
+functional regulatory
+13University
+10Department
+RESEARCH0083
+complexity
+RESEARCH0080
+significant multiplicity
+correlation
+representation
+-TCGCAGC-GGCTGG-C
+Contributions Organizing
+19Department
+GCGCATGH WAATCARCGC
+non-coding
+multigenic transcription
+prediction methods105
+ChIP-on-chip
+UGAUUAAUUCCUGGCACGAGUUACUGUGCGGAAUUCGA
+TGTCAATTG WAATKNNNNNCRCGY
+ChIP-inferred
+systematic identification
+multi-sequence alignment
+exclusion
+Electrical Engineering
+Schroeder
+interesting
+dicistronic transcripts
+compensatory
+Hatzigeorgiou
+26-base-pair
+adenosine-to-inosine
+13,500-fold nucleotide
+Evolution
+Evolutionarily
+descriptive
+genome-wide transgenic
+alternative translational
+functional
+Drosophila phylogeny
+genome-wide
+structural
+Bompfuenewerer
+Drosophila full-length
+Noteworthy
+polycistronic transcripts
+post-transcriptional regulation
+GUCGUUGGGCACGAGUUACUGUGCGACGGUCAU
+AGCAUUUGG-UUUGUUAAGUCUGCGUCAUUUCAAU-GUGUGCCGCAGACAUGACAAAUUCCAAAUGUU
+independent evolutionary
+17Department
+ion-channel
+`abstained
+structure-disrupting
+Blanchette
+identifier
+Intelligence Laboratory
+Developmental
+-GATTAGTCGTTCATCAATATTAATTATGTAT
+Fairbrother
+TTTGTTGTTTATTATTAAGCATTATTA
+asymmetric conservation12
+CGCAGCGGAGAG ATTTCTTTT
+Gilbert21
+GCTGG-CTG
+strand-specific conservation
+Recognizing
+20Department
+Hoopengardner
+Eisen28,29
+GCGAUUUGGAGCUCUCAAGUUUGGGUCACUUAAAC-GGGUGACCCAGACAUGAAGGCUGCCAAAUUGC
+HAATTAYGCRH STATAWAWR
+`rejected
+pseudogene abundance
+combinatorial
+messenger
+H4-Lys16 acetylation
+Pericardial
+evaluation
+circularized full-length
+Identifying functional
+individual regulatory
+non-palindromic
+localization
+University
+divergence
+processing indicative
+-TGTTTATTATTAACCATTACTA
+Universite
+functional enrichment
+120-fold enrichment
+malpighian
+GCGAUUUGGAGCCCUCAAGUUUGGGUCACUUUAAC-GCGUGUCCCAGACAUGAUGGCUGCCAAAUUGC
+widespread
+network-level
+Cambridge
+recovering
+ARTICLES Discovery
+collapsing
+Phylogenetic
+high-throughput sequencing
+microRNAs
+Matsumoto
+tissue-specific expression
+high-throughput experimental
+proteincoding
+GCGTSAAA YGCGYRTCAWT
+ATGTTTGATATTCTTGGT TGTTTGATATTCTTGGTTG
+-TCGCAGC
+AGATATGTTTGATATTCTTGG AGATATGTTTGATATTCTTGGT
+`confirmed
+non-discovered
+BCATAAATYA HAATTAYGCRH
+probability
+X-chromosome
+synonymous
+Gladyshev
+Ureta-Vidal
+Asterisks
+specificity
+structure-preserving single-nucleotide
+nucleotide enrichment
+computational annotation
+manuscript
+anti-sense
+co-regulated
+regulation
+Regulatory
+Frameshift Protein-coding
+molecular
+structures
+vertebrates
+Pachter25,26
+neuroblast development
+relationship
+comparative approaches
+explanation
+Drosophila pseudoobscura
+GATATGTTTGATATTCTTGGT GATATGTTTGATATTCTTGGTTG
+UGGGAGCCGCUGGGCACGAGUUACUGUGCGGCGGCUGU
+sevenfold enrichment
+Expression-guided
+versatility
+Multi-species
+GGGGATGTGGGGAAGGATGCTCTTTTCTGACTCTATTTTGTCGGCGAACATGGATCTAGTGCACGGTGG-TTCATGATTAAGTTCGTGACTAGATTTCATGCTCGTCTATTAAGTTGGGTCAGCACA-ACGAAGA
+intergenic
+CCCAGGAATCAAACATATTATT CCCAGGAATCAAACATATTATT
+compensation
+non-protein-coding
+empirical
+post-transcriptional regulatory
+YGACMTTGA AATTRNNNNCAATT
+Circulatory
+deciphering
+Predictions
+UGUUGGCGGCCAGGCACGAGUUACUGUGCGGACGUCUU
+Zeitlinger
+unchanged
+Experimental validation
+correspond
+Enrichment/depletion
+substantial
+Distinguishing regulatory
+imperfect
+Kellis1,2 Sequencing
+enrichment1
+ATAATTAATTAATGAAGTT
+conservation information
+validating annotations
+correlation coefficient
+transcription
+sense/anti-sense
+characteristics106
+structural signatures
+GATGGTTCCAGTGAGATATGTTTGATATTCTTGGTTGTTTCATTCAAAAGTTCACCCAGGAATCAAACATATTATTACTGTGACCCT
+embryonic expression
+-CACCTCTCGCTTCTGCTGTTTATTATTAACTATTATTG
+non-conservative
+self-ligation
+-AATTAATGGCGTT
+MATTWRTCA YAATTWNRYGC
+Tissue-specific transcriptional
+RCGYRCGY
+non-messenger
+significant
+Biological
+developmental regulators
+transcript
+-AATTAATGAAGTT
+Massachusetts Institute
+non-synonymous/synonymous substitution
+ATTTGGGGTCTTTTTCTGACTCTATTTTGTCGGCGAACATGGATCTAGTGCACGGTGT-TTCATGATTAAGTTCGTGACTAGATTTCATGCTCGTCTATTAAGTTGGGTCAGCACA-CCAAAGAGTCGGATAGTGGAG TCTGATCCGGCAGCGTTTGCTCTTCTCTGACTCTATTTTGTCGGCGAACATGGATCTAGTGCACGGTTG-TTCATGATTAAGTTCGTGACTAGATTTCATGCTCGTCTATTAAGTTGGGTCAACACA-ACGAACCGAAAGAGCAGAGCA
+stringency
+YGCGTHAATTR AATTRYGWCA
+Neurogenetics
+implications
+GAGCGGAGCT GGGGATGTGGGGAAGGATGCTCTTTTCTGACTCTATTTTGTCGGCGAACATGGATCTAGTGCACGGTGG-TTCATGATTAAGTTCGTGACTAGATTTCATGCTCGTCTATTAAGTTGGGTCAGCACT-ACGAAGA
+reading-frame-invariant conservation
+principle
+Codon-based evolutionary
+Copenhagen
+ATGTTTGATATTCTTGGTTG ATGTTTGATATTCTTGGT
+Brennecke
+AGATATGTTTGATATTCTTG AGATATGTTTGATATTCTTGG
+RESEARCH0086
+-AATTAATGGAACTTTGGTCAGTT-TTGCTGCCTGCCTG-TTGCCTGCTGCCTGTTGCTTTTGCTGTTTATTATTAACTATTATTG
+Positional
+postdoctoral
+Biclustering
+AGATATGTTTGATATTCTTGGTT AGATATGTTTGATATTCTTGGTTG
+miR-263a
+grimshawi
+availability
+Supplementary Information
+Amnioserosa Cuprophilic
+computational framework78
+spineless
+neurogenic
+huntingtin68
+Biophysics
+University Middletown
+posttranscriptional regulatory
+-TTTTTATTATTAACCATTATTT
+Spradling
+population
+UGUCUGCGCCUGGGCACGAGUUAAUGUGCGGGCGCCUG
+top-scoring protein-coding
+biogenesis
+substitution frequencies34
+UUAUUUAUU
+YGCGYRTCAWT GCGTTGAYA
+AGATATGTTTGATATTCTTGGT AGATATGTTTGATATTCTTGGTT
+AATTAANNNNNCATNA GCGTSAAA
+Organization
+conservation-inferred
+oogenesis
+structure overlapping
+complementary approaches
+transgenic
+roX2-dependent
+UGGGGGUCGCUGGGCACGAGUUACUGUGCGGCGCCUGU
+AGATATGTTTGATATTCTT AGATATGTTTGATATTCTTG
+multiplicity
+6Institute
+Ashburner
+Berezikov
+low-coverage
+CGid-only
+Nekrutenko
+statistical
+repeat-binding
+sensitivity
+ChIPon-chip
+Philippakis
+individual
+amnioserosa Proventriculus
+Tissue-specific
+GATTAGTTGCTCATCATCATTAATTATGAGT
+Hassan18,19
+Characteristic non-coding
+vertebrate phylogeny
+Stathopoulos
+Wisconsin
+Caenorhabditis
+transcriptional regulation
+Regulated translational
+protein-coding constraints
+orthologue
+catalogue
+identification
+zebrafish
+high-scoring
+discovery
+available
+comparable
+systematic high-quality
+forward-strand
+complementary
+TCATCATTTATTAT
+eukaryotic
+functional dicistronic
+vertebrates86
+Bioscience Corporation
+Revisiting
+comparably
+Functional
+570-fold enrichment
+transcriptional activity42
+AWNTGGGTCA BCATAAATYA
+Rasmussen2
+antigenomic
+UGGGAGUCGCUGGGCACGAGUUACUGUGCGGUGGCUGUCCA UGGGAGUCGCUGGGCACGAGUUACUGUGCGGCGGCUGU
+AGATATGTTTGATATTCTTGGTTGTT GATATGTTTGATATTCTTGGT
+miRNA-mediated
+CCCAGGAATCAAACATATTA CCCAGGAATCAAACATATTAT
+Individual
+Wienholds
+UGGCAGUCGCUGGGCACGAGUUACUGUGCGGUGGCUGUCCA UGGAAGUCGCUGGGCACGAGUUACUGUGCGGUGGCUGUCCA
+YTAATGAVS TAATTRANNTTNATG
+Ettwiller
+YAATTWNRYGC TTAYGTAA
+estimation
+localization71
+experimental
+well-studied
+homologue
+Ultimately
+Frameinvariant conservation
+clade-specific
+characterization
+Discussion
+community
+-CGTTTATCGACAGCTATTTTTAAT
+non-conserved
+structures Disruptive
+dicistronic transcript
+sequences
+WCACGTGC CATTANNNWAATT
+Bioinformatics Institute
+primordium
+Publishing
+translational readthrough
+characteristic conservation
+base-preserving
+functional annotation
+vertebrate
+-CGCTCACCGATAGCTATTTTTAATACCAA-ACA
+Kheradpour
+Twist92,108,109
+California
+organogenesis
+informant species32
+Seung-Won
+Malpighian
+correction
+Comparison
+corresponding
+Vertebrate
+sufficient
+transcriptional regulators
+computational identification
+conservation-determined
+AGATATGTTTGATATTCTTGGTTG AGATATGTTTGATATTCTTGGTTGT
+-TTTTGCTCTTCTCTGACTCTATTTTGTCGGCGAACATGGATCTAGTGCACGGTTG-TTCATGATTAAGTTCGTGACTAGATTTCATGCTCGTCTATTAAGTTGGGTCAATACACACA-GCGAAAACATGGCCAAG GTTTCGCTC
+Correspondence
+importance
+pseudoobscura
+evolutionary conservation
+coding-sequence
+epidermis
+acetylation
+Regulation
+Exploiting transcription
+GGAGAAGTGGGGAAGGATGCTCTTTTCTGACTCTATTTTGTCGGCGAACATGGATCTAGTGCACGGTGG-TTCATGATTAAGTTCGTGACTAGATTTCATGCTCGTCTATTAAGTTGGGTCAGCACT-ACGAAGA
+qrstuvwxyzA Azyxwvutsrq
+nucleotides
+Acknowledgements
+Human-mouse
+-TTTTGCTCTTCTCTGACTCTATTTTGTCGGCGAACATGGATCTAGTGCACGGTTG-TTCATGATTAAGTTCGTGACTAGATTTCATGCTCGTCTATTAAGTTGGGTCAACACACACACACACACACATAAAAGAA ACTGCAACTGCAACTGCTGCTCTTTTCTGACTCTATTTTGTCGGCGAACATGGATCTAGTGCACGGTTG-TTCATGATTAAGTTCGTGACTAGATTTCATGCTCGTCTATTAAGTTGGGTCAACACACA-ACACAAAAAAAAAAGAGGA
+Confidence
+Assessing
+Additional
+Procephalon Amnioserosa
+polyadenylation
+endoderm-specific
+Integrative
+ChIP-determined
+eightfold enrichment
+GCGAUUUGGAGCCAUUAAGUUUGGGUCAUUUAAAG-GGGUGACCCAGACAUGAGGGCUGCCAAGUUGC
+comparative
+Substrate
+Assessment
+upregulation
+roX-deficient
+as-yet-unknown regulators
+different
+protein-like
+independent study113
+`evolutionary signatures
+validation Conservation
+modification
+verification
+Brennecke12
+difficult
+development
+Development
+pair-wise
+Statistical
+Institute
+TCATCGTTTATTAT
+Genome-wide identification
+tiling-array expression
+HHMI-NIH/NIBIB
+assessing
+TAATTRANNTTNATG WAATGCGCNT
+Kloosterman
+evolutionary signatures
+euchromatic protein-coding
+secondary structure
+Bicoid116
+individual regulator
+efficient
+biological information
+Disruptive substitution
+Haussler4
+inactivation
+TCTGATCCGGCAGCGTTTGCTCTTCTCTGACTCTATTTTGTCGGCGAACATGGATCTAGTGCACGGTTG-TTCATGATTAAGTTCGTGACTAGATTTCATGCTCGTCTATTAAGTTGGGTCAACACA-ACGAACCGAAAGAGCAGAGCA GAGTCCTTTCTATGTGGCAGCGTCTCTTGACTCTATTTTGTCGGCGAACATGGATCTAGTGCACGGTTTGTTCATGATTAAGTTCGTGACTAGATTTCATGCTCGTCTATTAAGTTGGGTCAGCACA-ACAAGAG
+comparisons
+Single-minded
+probabilistic algorithm
+Bartel10,11
+Translational readthrough
+GCGAUUUGGAGCUCUCAAGUUUGGGUCACUUAAAG-GGGUGACCCAGACAUGAAAGCUGCCAAAUCGC
+Similarly
+individual highconfidence
+high-throughput sequencing79
+ribosomal
+differentiation
+Bloomington
+alternative
+Molecular
+targets107
+alignment
+reverse-strand
+interstitial
+TGACANNNNNNTGACA RCGTGNNNNGCAT
+stop-codon readthrough
+Computational identification
+less-characterized
+species-specific experimental
+improvement
+Connecticut
+AGCAUUUGG-UUUGCCAAGUCUGUGGCAUUUGAAU-GUAUGUCGCAGACAUGACAAUC-GCAAAUGCU
+stop-codon
+CCCAGGAATCAAACATATTATT CCAGGAATCAAACATATTATTA
+VATTWGCAT BYAATTARH
+Annotation
+FlyBase47
+HRTCAATCA TGACANNNNNNTGACA
+dicistronic messenger
+standards23
+indicative
+preference
+sequencing
+AAATKKCATTA RACASCTGY
+Adh-related
+-AATTAATGAAGTTT
+Evolutionary
+necessary
+Antennapedia
+wholegenome
+Non-coding
+distinctive conservation
+substantially79
+consensus
+informative
+TAATTTAT
+Cyclotron
+reading-frame-biased conservation
+Increasing confidence
+vertebrate homologue
+precursor structures
+ananassae
+-TGTTTATTATTAACCATTATTT
+protein-coding
+metabolic
+conditional
+comparative methodologies
+comparative information
+MAATTNAATT MRYTTCCGYY
+re-categorized
+willistoni
+informant
+recognition
+developmental
+`ChIP-bound
+instability
+RCGTGNNNNGCAT MATTAAWNATGCR
+Kulathinal1
+25Department
+WAATGCGCNT MATTWRTCA
+conservative
+repression
+Frame-preserving
+AATTRNNNNCAATT TGACGTCAT
+melanogaster melanogaster
+systematic characterization
+ambiguous comparative
+GAGCGCAGCT GGGGATGTGGGGAAGGATGCTCTTTTCTGACTCTATTTTGTCGGCGAACATGGATCTAGTGCACGGTGG-TTCATGATTAAGTTCGTGACTAGATTTCATGCTCGTCTATTAAGTTGGGTCAGCACA-ACGAAGA
+Francisco/University
+nonuniform
+processing
+agreement
+selenocysteine
+Celniker2
+cell-cycle regulation
+15Department
+Moleculaire
+melanogaster euchromatic
+Celniker7
+Apoptotic amnioserosa
+P-element
+neurogenesis
+comparison
+independent analysis52
+Biostatistics
+constraint
+protein-coding evolutionary
+RACASCTGY TGTCAATTG
+simulation
+Comparative information
+predictors5
+cis-element
+Conservative substitution
+YTAWWWWTAR
+independent computational
+WAATCARCGC AATTAANNNNNCATNA
+computational
+systematic discovery
+Aerts18,19
+protein-coding signatures
+1­2-fold
+Middletown
+Rasmussen
+unification
+appropriate
+Identification
+comparative predictions
+speciation
+Discovering
+Increasing
+Submissions
+additional
+substitution Disruptive
+characteristic properties
+Approaches
+detectable
+tissue-specific information
+H/ACA-box
+Sloan-Kettering
+Theoretical
+Interestingly
+amino-acid translation
+initiator
+mammalian MicroRNAs
+factors59
+considerable
+frameshifts64
+transcriptional repressor
+A-GCAGCGCCA
+characteristic
+Whole-genome ChIP-chip
+different alignment
+robustness
+non-conserved ChIP-bound
+Engineering
+WTGACANBT YGACMTTGA
+distribution
+genome-wide conservation3,4,12­14
+GAGCGGAGCT GGGGATGTGGGGAAGGATGCTCTTTTCTGACTCTATTTTGTCGGCGAACATGGATCTAGTGCACGGTGG-TTCATGATTAAGTTCGTGACTAGATTTCATGCTCGTCTATTAAGTTGGGTCAGCACA-ACGAAGA
+fulllength
+ChIP-bound
+Distinguished
+UGGAAGUCGCUGGGCACGAGUUACUGUGCGGUGGCUGUCCA UGGGAGUCGCUGGGCACGAGUUACUGUGCGGUGGCUGUCCA
+falsepositive
+Eastman17
+phylogenetic
+ribosomal frameshifting
+immunoprecipitation
+TCCCCATTTTTTCT
+Farabaugh
+Mathematics
+GCGTTGAYA AAATKKCATTA
+nucleotides downstream
+chromosome
+incorrect
+GUUNUACG
+intergenic structures
+Bruxelles
+ATATGTTTGATATTCTTGGTT TATGTTTGATATTCTTGGTTG
+AACAUUUGG-CCUGUCAAGUCUGCGCCAUUUAAAU-GCGUGGCCCAGACAUGACAAGCUACAAAUGUU
+regulatory circuitry
+Protein-coding evolutionary
+functionality
+transport
+Drosophila melanogaster
+Structure
+anti-target
+TTAATGATG WTGACANBT
+cross-referencing
+9Department
+genome-wide discovery
+independent experimental
+MATTAAWNATGCR TTAATGATG
+comprehensive understanding
+-TTCGTATGGTT
+cellcycle regulator
+translation initiation
+Gelbart8,32
+Drosophila
+full-length clones49­51
+ARTICLES immunoprecipitation
+Prediction
+Drosophila complementary
+Artificial Intelligence
+translational regulator
+resolution
+translational regulation

@@ -1,0 +1,1327 @@
+i1 s2 i2 n2
+
+m3
+
+# false positive
+false discovery rates genomics multiple hypothesis testing
+i2 s2 i1 n1
+predict exonic splice enhancers based
+significance
+called significant
+null true alternative true total
+earliest genomewide studies involved testing
+identifying exonic splicing enhancers
+potentially valuable theoretical justification
+transcriptional regulatory proteins bind
+natural cubic spline fits
+natural cubic spline evaluated
+natural cubic spline fit
+involve performing statistical tests
+analyzed human genomic dna
+legitimate regulator­dna interactions
+single false positive occurring
+yeast transcriptional regulators bind
+exonic splice enhancers
+``generally describe results obtained
+detecting differential gene expression
+statistical significance involves deciding
+single acceptable fdr level
+16 9443
+
+genetics
+
+statistics
+
+ctgf gene
+natural cubic spline
+exonic splice enhancer
+detecting differentially expressed genes
+6 10 4 yields 205 genes showing linkage
+show differential gene expression
+16 9441
+
+genetics
+
+statistics
+
+false positives
+defined statistical hypothesis test
+supporting previously shown results
+enhance premrna splicing
+assigning multiple measures
+false discovery rate
+``false discovery rate
+false positive genes versus
+gov microarray nejmsupplement
+subsequently biologically verified
+technical report 2001-217
+special probabilistic relationship
+single false positive
+org cgi doi 10
+testing statistical hypotheses
+short oligonucleotide sequences
+cutoff yields 238 significant hexamers
+dna microarray experiments
+genomic sites bound
+sporadic breast cancer
+subsequent biological verification
+method yields conservative q-
+false positive rate
+specific transcriptional regulators
+common statistical practice
+single-nucleotide polymorphism markers
+finding binding sites
+separate statistical test
+familywise error rate
+# null pi st # pi
+genomewide studies
+john
+method widely applicable
+rough calculation shows
+exon­intron structure
+situations plausibly encountered
+supports earlier claims
+false positives incurred
+false positive results
+genes behave dependently
+show differential expression
+specific promoter sequences
+measuring statistical significance
+similarly define xi1
+convenient numerical measure
+fully automated algorithm
+org qvalue results
+dna microarray data
+true positive results
+resulting haploid progeny
+indicating increased levels
+slightly larger q-
+ft st eft
+above-mentioned cutoffs correspond
+fully automated method
+genomewide studies based
+total
+m0 m1
+false positive features
+05 yields 160 genes significant
+brca1and brca2-mutation-positive tumors
+genomewide data sets
+differential gene expression
+complete genome sequences
+weak dependence requirement
+statistical significance called
+empirical distribution functions
+borrow strength lim 31 ^ 0
+true positive features
+n1 7 brca1 arrays
+statistically significant linkage
+n2 8 brca2 arrays
+robert tibshirani
+*department
+original test statistics
+important assumption underlying
+values converge pointwise
+methodology theoretically shown
+genes called significant
+160 genes called significant
+sharp increase occurs
+common sense choice
+study transcriptional regulation
+specificity m1 sensitivity
+measure includes genes
+507 genes show linkage
+differentially expressed gene
+mint pi fdr
+mathematical results hold
+features called significant
+genomewide binding analysis
+calculated null versions
+large data sets
+significant
+m0 m1
+gene expression data
+genomewide data set
+brca1 tumor arrays
+gene­marker combination
+weak dependence criterion
+values slightly greater
+equivalent
+9440 ­9445 pnas august 5
+genomewide location analysis
+m0 1 m0 1 specificity
+awkwardly chosen p-
+call ``weak dependence
+transcriptional regulators
+threshold maximizes inclusion
+tibshirani
+
+pnas
+
+august 5
+false positive
+096 10 4 1 false positive
+simultaneous testing
+calculate ^0 # pj m1
+null statistics t0b
+original fdr methodology
+multiple genomes
+fixed significance rule
+call msh2 significant
+fully automated
+genomics applications
+org qvalue
+null features m0
+promoter sequences
+statistical test
+differential expression
+simply plugging fdr
+genomewide experiments
+values directly provide
+calling features significant
+genomewide studies
+pi ^ ^ min fdr
+expression levels
+genomewide tests
+genomic location
+quantitatively supporting
+theoretical properties
+exon­intron
+xi2 1 n2
+showing linkage
+false positives
+multiple cutoffs
+genomewide test
+feature significant means
+n1 7 arrays
+n2 8 arrays
+dna repair
+106 transcriptional factors
+transcriptional regulation
+817 human genes
+genes involved
+genes occurring
+statistically significant
+false leads
+binding occurs
+160 called significant
+called significant
+statistical significance
+single cutoff
+automated method
+total number
+true positives
+genetics literature
+show linkage
+earlier method
+expression level
+1530509100
+
+gene expression
+log2 expression
+gene expression
+software qvalue
+pointwise convergence
+lower bound
+specific details
+gene-marker combination
+biological conditions
+claims follow
+common mistake
+cancer tumors
+technically called
+test statistics
+statistical analysis
+differentially expressed
+expressed differentially
+mathematical results
+positive fdr
+alternative hypothesis
+adjacent markers
+conditioning based
+continuous functions
+312 markers spanning
+original statistics
+significance tests
+st ^ 0m
+alternative hypotheses
+significant gene
+genetics
+
+ti
+main results
+results support
+985 interactions found
+brca2-mutation-positive tumors
+expression data
+null hypothesis
+nondifferentially expressed
+``weak dependence
+weak dependence
+null hypotheses
+genomewide study
+mathematical formulation
+mathematical conditions
+pnas august 5
+call significant
+231 significant genes
+significant genes
+statistics literature
+permutation method
+inherent difficulty
+automatically calibrated
+brca1mutation-positive tumors
+technically defined
+computer code
+mistakenly equated
+genetic profiles
+215 ``quantitative traits
+substantial loss
+small groups
+jth array
+palo alto
+solid line 1
+brca1-mutation-positive tumors
+growing class
+end product
+small increase
+completely rigorous
+genetic dissection
+track ii
+arbitrarily small
+prediction models
+tumor types
+briefly explained
+conditional probabilities
+comprehensive view
+minor modifications
+dashed line
+direct measurement
+set closer
+review january 28
+m3
+
+2
+pdcd5 gene
+random mixture
+global monitoring
+dotted line
+universally interpreted
+tuning parameter
+uniformly distributed
+fairly flat
+achieved efficiently
+interquartile ranges
+borrows strength
+prominent papers
+brca2mutation-positive tumors
+2c shows
+cell type
+purposely set
+directly achieves
+large-scale genotyping
+intermediate step
+common goal
+permutation scheme
+level produces
+intuitively pleasing
+program takes
+exploratory guide
+splice-site composition
+long run
+precisely identified
+flat portion
+group essentially
+2a shows
+solid line
+stronger generalization
+high-throughput technologies
+submitted directly
+initial treatment
+previous observation
+randomly scrambled
+measurement exceeding 20
+random variables
+missed findings
+2d shows
+bonferroni correction
+fold change
+positive probability
+significant features
+features significant
+error measure
+quantity called
+true proportion
+brca2 tumors
+detect genes
+genes dev
+underestimating significance
+proposed method
+null distributions
+histogram density
+easily implemented
+easily interpreted
+density histogram
+easily motivated
+pi ^
+pi
+general algorithm
+ideas similar
+recent articles
+ith gene
+recent surge
+recent attention
+dependence issues
+uniform distribution
+genes versus
+data set
+data consist
+#{null pi }
+conservative property
+conservative properties
+pi ^
+
+^ 0m
+cutoff results
+significance simultaneously
+recently introduced
+constrain ^ 0 min¨
+xij xi2
+simply defined
+table 1 lists
+loci spanning
+stanford univ
+ti follow
+lim min
+formed based
+features represented
+alternative distribution
+pnas office
+meaningful measure
+suited measure
+approach avoids
+approach offers
+fdr-based measure
+standard measure
+measure designed
+alternative features
+linkage analysis
+testing
+fdr method
+feature significant
+significant feature
+large portion
+large block
+large waste
+calculate ^ 0m
+simultaneously conservative
+null distribution
+proposed methodology
+features simultaneously
+liberal criterion
+health research
+easy interpretation
+algorithm presented
+typically controlled
+ca 94305 edited
+worst-case scenario
+qualitatively argued
+strict criterion
+suppressing apoptosis
+quadratic function
+brca2 xij
+additional information
+2nd ed
+trends biochem
+substantially higher
+makes sense
+array labels
+inducing apoptosis
+ultimate goal
+correctly calculated
+universally interpretable
+null features
+sizable proportion
+low proportion
+genome scans
+recently proposed
+genome projects
+alternative quantity
+proposed approach
+tibshirani
+
+table 1
+mathematical definition
+genomics
+implicit balance
+directly thresholding
+reasonable p-
+setup means
+automatically taking
+traditional p-
+clear balance
+nucleotide words
+simple p-
+washington school
+made stricter
+find genes
+examined genes
+genes appeared
+find 51 genes
+fdr ^ 0m
+reasonable estimate
+simple estimate
+unbiased estimate
+final estimate
+method performed
+cutoffs simultaneously
+individual measure
+msh2 gene
+motivating examples
+similar pieces
+interquartile range
+linkage case
+5% yields
+proposed quantity
+m0 3 g0
+specifically concerned
+inducing bias
+identify genes
+thresholding genes
+values provide
+values
+
+ome
+fdr approach
+full list
+pi
+
+note
+null feature
+statistic probabilistically
+minimizes
+storey
+tibshirani
+
+brca1-
+values versus
+minimum fdr
+``local fdr
+values simultaneously
+conservative estimate
+estimate conservative
+similar estimates
+practical goals
+stanford university
+n2 1
+significance threshold
+features increases
+loci tested
+tested features
+individual feature
+estimate fdr
+tibshirani
+
+remark
+simply considered
+information make
+expected proportion
+rate
+fdr pfdr
+minimum pfdr
+quantity ^ 1 1 ^ 0 estimates
+differential
+result implies
+] controlling pr
+expected number
+show
+genetics 138
+tested feature
+practical terms
+obtained
+involves
+st
+respective thresholds
+regulator
+previously
+describe
+called
+true
+test
+specificity
+based
+significant
+results
+binding
+original
+appendix
+remark
+m1
+m1 1
+16
+
+9445
+
+statistics
+statistics
+method
+indicating
+yeast
+choice
+level
+gene
+hold
+sharp
+provide
+criterion
+ft
+greater
+robert
+increase
+directly
+regulation
+brca1
+strength
+situations
+sense
+tumors
+fixed
+set
+sensitivity
+linkage
+equivalent
+lim
+level 0
+location
+1 shows
+plugging
+defined
+important
+alternative
+arrays 2
+arrays
+15 arrays
+pi ^
+pi
+
+0
+^0 # pi
+pi
+# pi
+pi ^ #
+versus
+simultaneously
+0 m0
+] m0
+m0
+shown
+brca2
+call
+genes
+226 genes
+9­11 genes
+215 genes
+170 genes
+significance
+null
+easily
+^ 0m
+density
+methodology
+calculate
+ith
+proposed
+recent
+096 hexamers
+hexamers
+similar
+dependence
+distribution
+data
+& tibshirani
+tibshirani
+conservative
+ti
+table 1
+marker
+loci
+chosen
+2 xij
+similarly
+types
+assumption
+individual
+min
+recently
+simply
+# pj
+t0b
+inclusion
+stanford
+rule
+features
+``features
+1073 pnas
+pnas
+study
+measure
+approach
+] analysis
+analysis
+large
+fdr
+labels
+apoptosis
+qualitatively
+resulting
+makes
+local
+controlling
+q-
+pieces
+information
+goal
+find
+minimum
+biochem
+ca
+05 q-
+appeared
+general
+examined
+higher
+scenario
+easy
+practical
+strict
+ed
+function
+goals
+calculated
+liberal
+research
+interpretable
+implies
+typically
+proportion
+cutoffs
+quantity
+cutoff
+genome
+expected
+thresholding
+means
+university
+words
+5% means
+brca1-
+balance
+p-
+make
+identify
+g0
+increases
+taking
+washington
+made
+formed
+estimate
+estimate ^ 0
+estimate 0
+tested
+feature
+msh2
+number
+estimates
+performed
+respective
+[note
+thresholds
+presented
+examples 2
+note
+examples
+found
+range
+pfdr
+calling
+case
+definition
+threshold
+considered
+bias
+specifically
+values 0
+values
+values 5%
+remark
+list
+1
+
+remark
+0] pr
+result
+pr
+statistic
+appendix
+storey*
+storey
+probability 0
+probability 1
+probability
+terms
+concept
+systematic
+springer
+similarity
+desirable
+meltzer
+genomine
+sci
+adjustment
+content
+presence
+finally
+applied
+straightforward
+estimating 0
+benjamini
+denoted
+interpreting
+decide
+difference
+kolodner
+& kruglyak
+proc
+solution
+assignments
+& wasserman
+t3170
+concluded
+application
+altschul
+trend
+guidelines
+clone 502369
+estimated
+giving
+decisions
+selected
+http
+version
+crossed
+increasing
+satisfy
+med
+lee
+genet
+reported
+simon
+concluding
+consideration
+interpret
+extreme
+devlin
+science 298
+accomplishes
+article
+p2
+implement
+york
+outcomes
+yekutieli
+addressed
+overestimating
+analyzing
+plots
+apply
+gerber
+circumvent
+abbreviations
+motivate
+suppl
+average 5%
+automate
+lander
+curvature
+nakaki
+cases
+science 297
+abundance
+account
+err
+points
+work
+modified
+100 permutations
+degrees
+usa 91
+byerley
+making
+numbers
+& doerge
+claim
+wang
+stated
+purposes
+ann
+sample
+assumptions
+allowed
+sought
+occur
+guarantee
+discussion
+located
+attachment
+tatusov
+preferable
+bittner
+blocks
+reflect
+independent
+stress
+attempt
+imply
+light
+yielding
+height
+green
+tang
+order
+attain
+plotted ^ 0
+paper
+including
+left
+clinton
+fdrs
+interesting
+hypothesize
+forms
+estimating
+clone 38393
+fig
+policy
+est [1]
+arrange
+arguments
+correspondence
+propose
+introduce
+mention
+commun
+locus
+2b
+difficult
+side
+characterized
+biol
+exons
+& siegmund
+t1
+eq
+crucial
+denotes
+medicine
+jstorey@
+ref
+& benjamini
+state
+possibility
+reason
+necessarily
+complicated
+philip
+2003
+
+vol
+& fujii
+hannett
+turn
+length
+place
+undergo
+assign
+phrased
+origin
+swapped
+researcher
+roeder
+millions
+ordering
+unknown
+eighth
+chem
+ratio
+gusterson
+hishikawa
+rejected
+authors
+eliminated
+activity
+providing
+distinguished
+motivation
+modeled
+trustworthy
+comfortable
+guarding
+close
+thought
+form
+si2 1
+converges
+forces
+hum
+negligible
+techniques
+accuracy
+commonplace
+thumb
+3 df
+slonim
+importantly
+rationale
+meaning
+assessed
+measured
+approved
+radmacher
+brem
+pm ^ 6
+give
+harbison
+average
+luscher
+fact
+159th
+participate
+availability
+overexpressed
+taylor
+written
+recomputed
+thousands
+achieve
+lehmann
+quantified
+2003 vol
+si1
+liu
+hedenfalk
+noticed
+yield
+investigate
+rinaldi
+esteller
+worrying
+obfuscated
+res
+computed
+usa 98
+observed
+computes
+eliminating
+ways
+science 296
+tend
+favor
+smallest
+& burge
+choose
+notice
+wa
+problem
+recall
+received
+region
+equal
+unreliable
+strains
+connection
+bar-joseph
+data-dependent
+context
+awkward
+variance
+argue
+tradeoff
+characterization
+inf
+pm
+assumes 0 1
+decreases
+ordered
+t2
+47th
+proposal
+direction
+& hochberg
+quantities
+gen
+observe
+variety
+attained
+evidence
+yvert
+present
+p1
+variances
+clone 32790
+suppose
+kallioniemi
+di
+concurrently
+engl
+microarrays
+zhang
+seattle
+capture
+& tusher
+perform
+html
+underestimate
+largest
+& ma
+generated
+development
+meets
+nih
+infinity
+downloaded
+effect
+hand
+distinction
+natl
+suitable
+undefined
+concrete
+epidemiol
+meet
+yeh
+genovese
+biostatistics
+examining
+accurate
+chen
+press
+churchill
+impractical
+incurring
+conclude
+fitting
+setting
+guarantees
+1530509100
+
+fig
+nat
+possibly
+sequencing
+exploiting
+efron
+9442 www
+arbitrary
+www
+tusher
+loosely
+begin
+acad
+choosing
+proofs
+fairbrother
+obtaining
+avoid
+& koonin
+e-mail
+compute
+behav
+blencowe
+biology
+two-sample
+power
+plot
+restrictive
+odom
+analyses
+estimated ^ 0
+working
+extension
+valid
+freedom
+9444 www
+underway
+assoc
+finds 80
+allowing
+soc
+dilemma
+biophys
+hexamer
+analyze
+opposed
+offering
+proving
+recommend
+count
+5 finds
+attached
+duggan
+limit
+expect
+calibrate
+likewise
+al
+denote
+quantification
+examine
+departments
+simulations
+plan
+morton
+ideally
+equivalently
+flood
+interested
+nhgri
+stat
+calculating
+oemar
+chance
+pathways
+song
+tzeng
+lead
+assume
+tanner
+write
+& chu
+time
+wa 98195
+thompson
+013
+160
+344
+64
+1995
+274
+1 3170 2
+502­508
+100
+[0
+32
+30
+049
+12091­12095
+70­86
+0
+277­318
+539­548
+6
+05 10 5
+1996
+1999
+^ 0
+37461­37466
+7
+1530509100
+096
+24
+1
+26
+1955
+022
+25
+88
+] 0
+82
+85
+170
+2 10 6
+``
+1007­1013
+1994
+21
+79 10 4
+22
+1]
+3 1
+2
+5116­5121
+203­210
+6­10%
+11
+13
+12
+15
+14
+17
+16
+19
+18
+98
+^0
+^1
+03
+0036
+8
+499­517
+10
+5 10 3
+5 10 5
+02
+01
+07
+05
+3
+106­110
+[ ]
+0]
+20
+23
+153
+1433­1442
+67
+171­196
+[
+254
+96
+4
+289­300
+0001
+799­804
+^
+479­498
+9
+001
+000
+236­246
+3170
+215
+67%
+6­11
+95
+53
+5%
+963­971
+33%
+117
+10 4
+241­247
+1
+
+#
+1151­1160
+2001
+1986
+]
+60­83
+226
+2002
+^0 5
+40
+5
+752­755
+^ 0 0
+2003
+2000

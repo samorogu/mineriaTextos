@@ -1,0 +1,476 @@
+`Text-based discovery
+automatic pattern-based
+two-dimensional
+similarity
+Information Retrieval
+biomedical knowledge
+Department
+RESEARCH
+`Extracting phenotypic
+relationships
+`complementary
+Ananiadou
+Additionally
+Biocomputing
+bestperforming
+MEDLINE
+Verifying
+hypothesis discovery
+CURRENT
+replication
+bag-of-words
+Automatic
+Acquisition
+prespecified
+uncovering
+evaluation
+non-specific relationships
+`Facilitating
+Text-mining researchers
+verifiable
+MEDLINE abstracts
+capitalisation
+consistent
+Currently
+post-processing
+feasibility
+morphology
+perspective
+biochemical association
+extracted hypothesis
+advantageous
+exploring transcription
+foregoing
+relationship extraction
+biological literature
+Informatics
+supporting
+scientific plausibility
+Agichtein
+literature-derived relationship
+Nomenclature Committee
+multiplex literature
+Professor
+component
+`Rule-based extraction
+understanding
+extraction Paralleling
+granularity
+sophistication,9
+Explorations Newsletter
+`PreBIND
+straightforward Agichtein
+`Identification
+Ravikumar
+Computational Linguistics
+examining
+hypothesis generation
+classification
+information explosion
+addressed
+Therefore
+DIRECTIONS
+Evaluation
+re-examination
+NLP-based
+confidence
+abbreviations
+text-based
+template-based
+examination
+Bioinformatics
+part-of-speech
+assessment
+`Complementary
+CONCLUSIONS
+Text-mining
+`Transformation-based errordriven
+state-ofthe-art
+Editorial
+particular
+`functional coherence
+conceptual information
+textmatching algorithms
+`GAPSCORE
+Characterization
+challenge
+Postdoctoral
+natural-language processing
+Textpresso
+annotation collection
+`BioCreAtIvE
+challenging
+Finkelstein-Landau
+`Information Retrieval
+important discoveries
+Relationship extraction
+tagger11,16,17
+scientific information
+**Hirschman
+productive
+`PubMatrix
+syntactic
+Intelligent
+Ontologies
+positional
+dependent
+`Recognizing
+forms,47 achieving
+establishment
+`Processing
+gene/protein
+biomedical researchers
+collection
+evaluations
+automatic extraction
+Multimedia Integration
+pattern-matching
+Raychaudhuri
+interest,5,6
+appropriate literature
+effective
+*Friedman
+rules-based
+correspond
+well-performing
+Novichkova
+complexity
+`Biochemistry
+representation
+marked-up
+text-mining competition
+unacceptable
+CHALLENGES
+computational
+statistical
+biomedical applications
+interesting
+probabilistic categorisation
+estimating
+distinguishing
+biomedical
+Srinivasin
+successful rules-based
+Continued
+Significant
+combination
+Challenge
+*Dobrokhotov
+literature supporting
+DAD-system
+`Computational Linguistics
+Narayanaswamy
+`Associating
+Rindflesch
+classifier
+biomedical literature
+Subramanian
+`Automatic scientific
+independent
+Organisation
+co-occurrence
+applicable
+Biomedical
+combining
+laboratory
+nonspecific relationships
+additional analytical
+corpus,19 precision
+Vande-Linde
+investigation
+Probabilistic
+functional relationships
+architecture
+protein­protein
+numerical
+dictionary
+workflow
+University
+Kullback­Leibler
+divergence
+difficulty
+complicated
+inductive
+Researchers
+biological text-mining
+interaction
+September
+determining
+programming
+phenotypic information
+Biomedicine
+researcher
+literature-based
+biolink2004/
+specificity
+`Textpresso
+LocusLink
+dysfunction
+management
+`Rutabaga
+applications important
+extracting relationships
+Precision
+molecular
+Association
+Gaizauskas
+improving biomedical
+measurable
+`Terminology-driven
+Dobrokhotov
+`Effective
+surrounding
+magnesium
+abstracts
+inferring
+addressing particular
+addressing
+BioCreative
+cytoplasm
+extraction concentrate
+literatures'
+statistically-based
+assessing
+interdisciplinary coordination
+Development
+`BioLINK
+documents
+F-measure
+efficient
+transcription
+Hypothesis discovery
+extracted
+`literature-based scientific
+knowledge extraction
+biomedical researcher
+performance
+gene-based
+biomedical abbreviations
+*Gaizauskas
+incidence
+Generating
+Agichtein44
+significant
+Databases
+Biological
+Hypothesis generation
+surprising
+thalidomide
+protein-interaction
+generalising
+prevention
+databases
+incomplete
+Demetriou
+identifying abbreviation
+Srinivasan
+postdoctoral
+copyright
+cohesiveness
+`Biomedical
+International Conference
+gene­gene
+Nevertheless
+morphological
+Mammalian
+Synchronized Multimedia
+`Extracting synonymous
+`Automatic extraction
+regulatory relationship
+cooccurrence
+`Generating
+Washington
+predicted
+tagging,11
+Retrieval Conference
+automatic
+Krallinger
+general-purpose text-mining
+nomenclature/
+sensitivity
+connections
+individual
+usefulness
+Performance
+Swiss-Prot
+situation
+terminological knowledge
+Halvorson
+syntactic/semantic
+Caenorhabditis
+identification
+cooperation
+Hatzivassiloglou
+`Literature-based discovery
+explosive
+attention
+hypothesis
+necessary pre-condition
+connection
+hand-tagged
+PURPOSE
+Statistical
+contribution
+expression
+experimental
+community
+candidate documents
+`Computer-assisted generation
+processing INTRODUCTION
+abbreviation extraction
+Sternberg
+tremendous
+Processing
+Epidemiology
+Generating hypothesis
+GAPSCORE system,18
+annotators
+published biomedical
+corresponding definition
+Categoriser
+PubMatrix
+precision
+understand
+Glenisson
+appearance
+empirical
+evaluated
+substantial
+*Donaldson
+phenotypic
+Metathesaurus
+discoveries
+non-official
+Furthermore
+biomedical text-mining
+full-length
+Symposium
+pathology
+Assessment
+regression
+different
+*Schwartz
+difficult
+development
+particular text-mining
+consistent evaluation
+assignment
+decision-making
+pharmacological
+recognising biological
+biological databases
+Choudhary
+biological information
+precision improvement
+researchers
+`Biocreative
+`Generation
+proximity
+Workshop_BioCreative_04/handout/
+biologist
+alignment
+bio-textmining
+heuristic
+candidate
+biological substance
+Knowledge Discovery
+Medstract
+Extracting biological
+asymmetry prediction
+approach,65
+sequencing
+information discovery
+identifying
+practical75
+ontology-based information
+information important
+important connections
+essential
+therapeutic
+beneficial
+Extracting relationships
+conditional
+published articles60
+information retrieval
+Extraction
+scientific discovery
+recognition
+`Bilateral asymmetry
+Bhupatiraju
+augmenting literature
+Vijay-Shanker
+biomedical information
+connecting
+eliminate
+algorithmic
+Practically
+real-world
+equivalent
+available information
+Proceedings
+negatives
+Typically
+extension
+independence assumption
+text-mining
+practical
+Including
+Biological Literature
+recognizer
+Donaldson
+summarisation
+communication
+Information Extraction
+`Combining
+false-positive
+Hirschman
+Discovering
+biomedical literature-KDD
+intra-document
+biomedicine
+additional
+subcellular
+lexical-statistical
+*Srinivasan
+foreseeable
+terminology extraction
+`Evaluation
+Annotated bibliography
+Automated hypothesis
+sophisticated
+Hypotheses
+Wedemeyer
+information extraction
+high-quality
+lexicon-based
+full-blown
+fulllength
+Recognising biological
+Comparison
+classifier-based
+immediate practical
+BACKGROUND
+International
+genomics/
+Biomedical Perspective
+incorrect
+Francisco
+discriminate
+Daraselia
+text-based information
+application
+annotator productivity
+literature-based discovery
+STEWART PUBLICATIONS
+vocabulary
+textmining
+Profiling
+functional coherence
+structure
+multi-word
+algorithm
+Drosophila
+scientific literature
+diagnosis
+`FigSearch
+asymptotic performance

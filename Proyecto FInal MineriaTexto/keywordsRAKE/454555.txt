@@ -1,0 +1,1542 @@
+recon clusterb recon family f1 f230 f7 f8 f13 f22 f57 f146 f10 f46 f12 f28 f17 f179 f156
+3/199 fn 16/311 111/185 15/6152 5391/6305 5668/6184 4655/6146 5429/6146 6031/6305 1/364 0/1935 218/426 1/554 1405/2418
+consensusc fp 1/424 3/77 0/6139 0/906 1/518 3/1481 1/690 2/273 0/365 3/2116 3/211 2/559 2/1021
+cold spring harbor laboratory press
+
+de novo repeat identification
+
+posed protein-coding genes
+org/cgi/content/full/12/8/1269#otherarticles
+
+email alerting service
+
+receive free email alerts
+99/297
+
+repeatmasker family alu alu l1 l1 l1 l1 l1 l1 malr
+cold spring harbor laboratory press
+
+methods
+
+automated de novo identification
+cold spring harbor laboratory press
+
+automated de novo identification
+cold spring harbor laboratory press
+
+de novo repeat identification
+cold spring harbor laboratory press issn 1088-9051/01 $5
+org/subscriptions/
+
+© 2002 cold spring harbor laboratory press
+
+downloaded
+cold spring harbor laboratory press
+
+bao
+cold spring harbor laboratory press
+00001 wordmask = dust wordmask = seg maskextra = 20 hspmax 5000
+double coverage erarchical evolutionary continuum methods lead
+automatically identified
+
+prodom protein domain families aid
+existing de novo repeat identification algorithms
+single linkage clustering algoto multielement images
+eddy1
+howard hughes medical institute
+de novo repeat identification
+cold spring harbor
+human genome project working draft
+automated algorithms combine pairwise alignments
+automated protein sequence database classification
+de novo identification
+formal approach evaluating
+
+genome research
+www
+automated repeat sequence family classificaare
+existing single linkage clustering algorithms
+segmental duplifamily relationship determination procedure
+alu family wise sequence relationships
+complete saccharomyces cerevisiae genome sequence
+howard hughes medical institute
+properly constructed becertain images complicate
+basic single linkage clustering algorithm
+extent recon figure 5 false primary edges
+define biologically meaningful domain boundaries
+key distinction lies sequence similarity
+shown analyze progressively larger samples
+distinct elements tionship determination procedure
+closed nodes represent full-length elements
+element yielding incorrect primary edges
+de novo constructed family
+profile hidden markov models
+gratefully acknowledge financial support
+simple majority rule consensus residue
+recon
+image end selection rule
+solo long terminal repeats [ltrs]
+double coverage method underclusters images
+satisfactory partial l1 elements
+composite bacterial tn5 element [berg 1989]
+ily relationship determination procedure
+mer1
+
+copya number 1425 10 292 28 22 17 14 13 63 44 17 18 14 13 10
+
+fp1 1 0 2 0 0 0 0 0 0 0 0 0 0 0 0
+
+fp2 1 0 1 0 0 0 0 0 0 0 0 0 0 13 0
+org/cgi/content/full/12/8/1269#references article cited
+larger human repeat families defined
+sequenced genomes
+zhirong bao
+recon 4 central processing unit
+individuals kindly provided reagents
+confuse large-scale gene annotation
+full-length element incorrect primary edges
+de novo approaches
+experimentally verified dna transposons
+input sefirst looked specifically
+graphical dna sequence comparisons
+family relationship determination procedure
+de novo method
+double coverage element definition methods
+de novo methods
+single coverage method defined 1389 elements
+de novo strategy
+precompiled representative sequence libraries
+ancient human l2 family
+image end selection rule
+pfam protein families database
+implementation details
+recon starts
+processing short-period tandem repeats
+originally published online jul 19
+defined elements contained update procedure
+large-scale comparative genome sequencing
+10 con family f1
+families f17
+repetitive sequences fall primarily
+top bold black line
+rule filters misleading images
+obtain pairwise local alignments
+abundant human repeat family
+eletain partially deleted elements
+defining biologically reasonable families
+avoid lumping related endpoints
+autonomous tc1 dna transposons
+usa repetitive sequences make
+sequence similarity detection method
+significant ing significant alignments
+significantly
+
+1272
+
+genome research
+www
+dashed lines represent primary
+automated clustering approaches
+overlapped alu elements defined
+similarity search algorithm nature
+find significantly conserved boundaries
+smaller nonautonomous tc7 elements
+consensus fn column
+consensus fp column
+biological scenarios require opposite 2
+form significant sequence alignments
+retrotransposed cellular genes
+family graph construction procedure
+web site references
+http
+bp families non-alus alus
+protein domain families
+curated pfam multiple alignments
+single linkage clustering
+extent recon defines
+discard short elements generated
+biologically reasonable clustering
+f57
+pairwise relationships beages
+f8
+f156
+f146
+f179
+free left arms
+f22
+f13
+double coverage method
+distinct repeat element families
+providing precompiled libraries
+elements form significant alignments
+l1 sequences
+generate repeat libraries
+three-fold larger sample
+l1 nent
+newly sequenced genomes
+single coverage method
+minimum element length cutoff
+canonical alu sequence
+young dna transposons
+org
+
+genome research
+www
+single intel xeon 1
+terminal inverted repeats
+finding triangles involving
+tc1-2  tc7-1  tc7-partial
+sequencing efforts moving
+rna polymerase iii
+clean algorithmic attack
+termed single coverare
+reconstructed essentially intact
+18 usc section 1734 solely
+extremely input/output intensive
+improve time efficiency
+half alu elements
+slightly underclusters elements
+aaai press
+first-pass automatic classification
+recon manipulates files
+directly repeated ltrs
+nucleic acids res
+1260 alu elements covering 318
+false positive positions
+false negative positions
+fragmented dna transposons
+related dna transposons
+guide parameter optimization
+alignment end clustering
+unrelated repeat families
+assessment repeat families
+elegans sequencing consortium
+elegans sequencing consortium 1998
+major phenomena distort
+conserved protein domains
+local pairwise alignments
+algorithm design manual
+misleading image endpoints
+top long image
+image endpoints agree
+finding maximal cliques
+repeat sequence families
+repeat pattern toolkit
+compiling repeatmasker libraries
+dashed lines link
+sequence sampling tool
+highly fragmented family
+local sequence alignments
+false primary edges
+reliable recon annotation
+automated detection
+image end masker
+multiple sequence alignment
+manual inrecon compared
+connected compoit mixed 576
+nonconserved regions adds
+impose arbitrary criteria
+chosen sensitivity settings
+partially deleted copies
+eighth international conference
+input genomic sequences
+include unrelated elements
+largest family defined
+false positive element
+abundant famimisleading ends
+sequence alignment methods
+genome teams adjust
+lower genomic coverage
+thin black lines
+merges recon families
+non-alu repeat sequences
+simple sequence repeats
+partially deleted tc7
+pairwise alignment tool
+multiple sequence alignments
+form significant alignments
+small fragmentary families
+f1
+biological scenarios require
+obtained alignments measurements
+recon multiple alignments
+multiple alignment information
+significant aggregation point
+segmental duplications covering
+segmental duplication cation
+defined elements measurements
+tially defined elements
+image endpoints collected
+1276
+
+genome research
+www
+genome research
+www
+1270
+
+genome research
+www
+1274
+
+genome research
+www
+896 pairwise alignments generated
+primary edges constructed
+higher quality level
+national science foundation
+consensus sequence identified
+closely related element
+repeatmasker annothis configuration
+l1
+iterative recon analysis
+clustering related elements
+selection rule
+identify repeated sequence
+figure abundant repeats
+cluster fp2 columns
+defining element boundaries
+tween full-length copies
+article cites 14 articles
+large full-length family
+respecpractical genome annotation
+systematic genome annotation
+numerous repeat element
+double coverage
+primary composite element
+identify recon families
+elegans genome sequence
+300 mb randomaccess memory
+true element boundary
+elements forming alignments
+repeats figure 4 complications
+multiple sequence clustered
+automated approach
+f7
+infer element boundaries
+domain boundaries
+observed alignment endpoints
+solo ltrs
+initial pairwise comparison
+article published online
+update procedure
+table 2
+element spanning position
+vertices directly connected
+collected image ends
+method elements length
+correctly infer syntopy
+accessed free
+existing algorithm
+chosen length cutoff
+family relationship
+single coverage
+washington university school
+selfish genes
+human genome analysis
+duplicated genomic fragments
+fp
+fn
+eddy genome res
+group elements defined
+group defined elements
+group related sequences
+transposable elements found
+complete genomes
+e-mail eddy@genetics
+alu sequences
+aligned sequences compared
+eddy
+
+random sample
+find homologous copies
+element syntopic images
+alu copies
+longest total length
+protein sci
+partially deleted
+alu elements
+1378 alu elements
+figure ment reevaluation
+sequence similarity
+clustering method
+similar problems arise
+genome sequences {sn}
+properly identify
+construction procedure
+single family
+incorrect splitting
+dashed lines
+methods make
+human sequence
+elegans training set
+end positions
+segmental lies
+define elements {sn
+repeat masker
+bp coverage
+length biologically
+transposon tn5
+closed circles
+single edges
+recon family
+largest family
+misleading endpoints
+repeat families
+update procedure
+genome research
+image endpoints
+primary edges
+multiple alignment
+repeat density
+individual repeat
+repeat famicovering
+local repeats
+repeat elements
+smaller families
+ing families
+initial sequencing
+canonical sequence
+mobile dna
+selfish dna
+biological scenarios
+pairwise alignments
+simple cutoff
+clustering artifacts
+sequence families
+interfamily similarity
+tandem repeats
+procedure updates
+international conference
+927 1 0 1260 date procedure
+minimum length
+simple assumptions
+curated databases
+biological boundaries
+procedure determines
+opposite strands
+avoid holding
+nonconserved regions
+recon algorithm
+full-length element
+multiple alignments
+fragmented sensitivity
+leftmost end
+segmental duplications
+repeat library
+false positives
+full-length copies
+false negatives
+black lines
+recon families
+families identified
+duplicated sequence
+sequence similarities
+unique sequence
+consensus sequence
+alus defined
+tc7 lies
+repeatmasker sequence
+human data
+human transaldolase-
+masker annotation
+rendered primary
+primary servation
+defies classification
+regardlogical scenarios
+vertices represent
+family corresponds
+family relasuch
+genome sequence
+formcoverage method
+method overclusters
+age method
+significant fraction
+bao
+independent repeat
+repeat composition
+repeatmasker family
+human genome
+recon algono
+recon package
+pairwise comparison
+methods
+components
+eukaryotic genomes
+degrey lines
+confidently identified
+defined element
+element defined
+repetitive sequences
+non-alu sequences
+1468 elements covering 285
+family definition
+small sample
+obtained alignments
+genome res
+primary edge
+related families
+biological families
+segmental duplication
+significant improvement
+defined elements
+sequence sn
+form alignments
+con minimizes
+higher spection
+genes
+appropriately link
+parameter choices
+memory usage
+articles cite
+require tuning
+configuration llr
+large family
+genomic sequences
+repetitive elements
+secondary edges
+distinct families
+recon analysis
+outermost alignment
+global alignment
+tiple alignment
+repeatmasker annotation
+largely fragmented
+generated preferentially
+endpoints pile
+revised form
+evolutionarily related
+biological entity
+biological species
+caenorhabditis elegans
+full-length member
+image 2b
+genome annotation
+unpublished information
+genomic region
+extra information
+retroalignment information
+total genomic
+major issue
+tween images
+canonical >1260 elements
+composite tify
+comthe algorithm
+composite elerithms
+elegans genome
+distinct repeats
+composite elements
+partial elements
+random extension
+represents similarity
+trimeric alus
+algorithms
+maximal length
+collected essary
+graph constructed
+family covers
+transposable elements
+image overlap
+syntopic sets
+element reevaluation
+diverged families
+families match
+recon appears
+images information
+repetitive nature
+// www
+alignable sequences
+consensus sequences
+unalignable sequences
+sampled sequences
+unaligned sequences
+sample size
+3-mb sample
+subsequent sample
+partial images
+alignment score
+true alignments
+element forms
+consensus element
+original element
+element remains
+element reevaluate
+partial tc7
+length cutoff
+references
+agarwal
+figure 1 flowchart
+cluster fp1
+fragmented members
+initial definition
+biological copy
+genome sample
+syntopic images
+sequences shorter
+copies tend
+received january 11
+open circles
+org
+
+1273
+
+downloaded
+main problems
+grey blocks
+detecting repetition
+precursor molecules
+individual copies
+important usage
+hand optimized
+total length
+simplistic classifiwhereas
+conflicting situations
+memory/cpu usage
+dispersed repeats
+discussion contamination
+percent identity
+detailed description
+red boxes
+// blast
+high frequency
+full length
+suddenly disappear
+resystematically compared
+menlo park
+automatically
+1
+org
+
+1271
+
+downloaded
+subsequence involved
+manually compiled
+page charges
+investigating biology
+ini-
+
+acknowledgments
+subsequent problems
+ideal picture
+ultimate parasite
+hold true
+aggregation points
+minimal contamination
+dependent replication
+connected components
+controversial topic
+practical purposes
+reverse transcriptases
+molecular biology
+american society
+elena rivas
+inherently messy
+limited success
+holmes pers
+degenerate repeats
+alu
+org
+
+1269
+
+downloaded
+simply annotating
+von luenen 1997
+quasi-randomly dispersed
+strongly dependent
+strategy leads
+von luenen 1997]
+simply tuning
+retrotransposons revealed
+computational tools
+phenotype paradigm
+alignable length
+relative length
+shotgun marriage
+separate file
+computational complexity
+7ghz processor
+aligned fragments
+construct graph
+comprehensive survey
+// genome-test
+shortest fragment
+intelligent systems
+1101/ gr
+common repeats
+org
+
+1275
+
+downloaded
+von luenen
+substitution mutation
+fragand converted
+santa cruz
+randomly sampled
+gold standard
+20-kb chunks
+org
+
+downloaded
+largely species-specific
+heuristic elements
+elements stabilize
+elements involved
+1389 elements covered
+partner elements
+overlapping elements
+partial copy
+similar sequences
+initial analysis
+maximal groups
+repeat-rich genome
+genome organization
+edge reevaluation
+edge reevaluation
+1
+segment-to-segment approach
+usual approach
+approach arise
+original definition
+elegans ii
+shorter forms
+define elements
+random process
+ratio cutoff
+left panel
+distinguish homologous
+produce images
+overlapping images
+tc7 compared
+region similar
+considered generated
+secondary edge
+adjacent alignments
+remaining group
+group remains
+asymptotic analysis
+genome-scale analysis
+incremental analysis
+group found
+element splitting
+malr
+593 1 576 1378 double 56
+infer syntopy
+solve {sn}
+subsequence sn
+considered composite
+shorter images
+families yield
+lump families
+10 longest members
+schematic structure
+highest score
+left threshold
+physically adjacent
+individual copy
+initial all-versus-
+initial inference
+tc1 element
+rule
+repeatmasker library
+major part
+assign alignments
+considered syntopic
+process continues
+figure 2c
+figure 2b
+default = 30 nt
+consensus tc1
+statistical test
+gish unpubl
+spuriously extend
+mer41 tigger1
+huge number
+proper criterion
+measures errors
+minimal fraction
+tation made
+publication costs
+recent version
+actively transposed
+objective function
+tunable parameters
+modular arrangement
+work fine
+coincidental juxtaposition
+evaluating
+robert klein
+elements [kim
+program repeatmasker
+inferring syntopy
+connected component
+cluster found
+pletely overlap
+aggressive threshold
+repeatall definitions
+tc5 [plasterk
+high-frequency deletion
+perl scripts
+fractional overlap
+generally start
+wide variety
+recovers part
+split products
+splitting process
+default options
+repeat
+postprocessing step
+erroneous splitting
+genome evolution
+repeatmasker results
+important problem
+ends labeled
+clustering
+default parameters
+split ratio
+distinction
+procedure
+fp2
+contained
+role equivalent
+long
+samples
+transposons
+represent
+platypus test
+39 cpu hr
+single 1389 357
+single
+applied summarized
+lead
+mer1
+images formed
+syntopy inference
+end
+image
+full-length
+false
+750 mb ram
+green box
+sequence
+primary
+88502
+
+references
+classification
+construction
+family
+method
+recon 1468 285
+recon
+fp1
+conserved
+methods
+genomes
+defining
+identified
+boundaries
+defined
+pfam
+repetitive
+require
+overlapped
+provided
+specifically
+chosen
+site
+details
+edges
+downloaded
+annotation
+alignment
+top
+endpoints
+form
+generated
+related
+elegans
+update
+berg
+majority
+tool
+point
+column
+repeated
+shown
+composite
+algorithm
+distinct
+alus
+identify
+constructed
+collected
+infer
+black
+families
+www
+sequences
+sample
+alignments
+927 element
+element
+cutoff
+figure
+figure 2
+figure 3
+total
+aligned
+000 bp
+observed
+true
+graph
+training
+impose
+duplication
+duplicated
+arise
+found
+longest
+numerous
+lower
+aggregation
+consensus
+fragments
+analyze
+problems
+university
+length
+repeats
+quality
+connected
+pattern
+copies
+593 bp
+compared
+elements
+repeatmasker
+genome
+approach
+definition
+article
+define
+shorter
+images
+>1000 images
+edge
+similar
+tc7
+group
+analysis
+large
+ratio
+eddy
+vertices
+discard
+= {sn
+sn
+{sn}
+ment
+nature
+nature 284
+groups
+domains
+copy
+comparison
+splitting
+options
+score
+members
+structure
+000 2 2 1423 adjacent
+nature 409
+position
+library
+find
+ends
+3 mb
+9 mb
+process
+default = 0
+default = 2
+org
+tc1
+summarized
+errors
+all-versus-
+work
+lump
+green
+tigger1
+klein
+erroneous
+extend
+science 226
+applied
+ii
+independent
+kim
+fraction
+covers
+role
+test
+leads
+appears
+inference
+labeled
+unpubl
+yield
+equivalent
+cpu
+program
+juxtaposition
+version
+transposed
+member
+science 282
+2b
+2c
+assign
+number
+parameters
+composition
+science
+
+292
+platypus
+arrangement
+publication
+function
+made
+proper
+panel
+washington
+hr
+syntopy
+published
+clustered
+considered
+table 2
+cluster
+genetics
+component
+table 1
+table
+agarwal
+box
+perl
+definitions
+threshold
+improvement
+start
+plasterk
+distinguish
+deletion
+overlap
+variety
+split
+part
+represents
+ram
+evolution
+http
+set
+results
+step 1
+step 2
+step 3
+formed
+problem 1
+problem 2
+1998] formed
+problem
+desirable
+aggregations
+updated
+risk
+parsons 1995
+implemented
+blue
+organisms
+bioimages
+represented
+ignoring
+necimages
+suitable
+tc7s
+call
+type
+separated
+cerwill
+skiena 1997
+dimeric
+tc1s
+mr
+give
+belonging
+recovery
+significance
+order
+denoted
+fig
+overcome
+versus
+combination
+amenable
+break
+1269-1276
+medicine
+inof
+purpose
+elprograms
+clarity
+annotated
+observations
+distance
+classes
+tion
+telos/springer-verlag
+sees
+seed
+maskin
+doi
+calculated
+inferred
+bateman
+eliminated
+dc
+dr
+release
+result
+unable
+sorts
+//www
+terms
+suggested
+ements
+basis
+easy
+5c
+filtered
+scenario
+failing
+materials
+mcclintock
+assigned
+linton
+visualization
+cations
+5a
+f1/alu
+performance
+alu-
+envision
+wu-blast
+/
+ucsc
+presence
+marshall
+wu-blastn 2
+indispensable
+payment
+wu-blastn
+attempted
+f46/malr
+maximum
+pairtable 1
+reality
+devon
+scores
+sapienza
+longer
+computation
+redemo
+//blast
+sign
+homology
+address
+dewar
+durbin
+marked
+ohlebusch
+cases
+performed
+occur
+requirements
+pure
+optimal
+st
+sk
+typical
+thresholds
+interesting
+decreases
+reevaluated
+window
+evol
+states 1994
+sorted
+proteins
+nematode
+ek
+ed
+happen
+sapienza 1980
+correct
+retrovirus-
+california
+july 2002
+doolittle
+frequent
+carry
+constructing
+necessarily
+chem
+idensplit
+tope--
+accordance
+recover
+transcribed
+importantly
+pair
+colombo
+corner
+removed
+bioinformatics 14
+kahn 1994
+bioinformatics 15
+violated
+bounds
+sean
+detect
+famments
+/rm/repeatmasker
+inappropriately
+fitzhugh
+comm
+analyzed
+riddle
+maintained
+iterations
+considers
+mark
+case
+situation
+1101/gr
+automates
+author
+advertisement
+implements
+baldwin
+ny
+aspects
+rules
+mol
+accepted
+voytas
+output
+conservative
+measuring
+broken
+determine
+wustl
+//genome-test
+pretends
+regard
+describe
+al
+uprepeatmasker 1260 318
+vertex
+parsons
+preserves
+preserved
+fax
+inastively
+difference
+strand
+louis
+boeke
+//ftp
+pass
+vanguri
+argos 1998
+/eddy/recon
+microbiology
+rithm
+colored
+analyzing
+quences
+lander
+tested
+producing
+missouri 63110
+strategies
+states
+filter
+goal
+cse
+advice
+coming
+banki
+org/cgi/doi/10
+developed
+paper
+imcause
+html
+syn--
+f7/l1
+/goldenpath/12dec2000/bigzips
+2a
+generation
+jurka
+expect
+ltr+internal
+dominates
+dominated
+evaluation
+= 11 kap
+difficulty
+beginning
+pairs
+leading
+probability
+linking
+recovered
+gracy
+orgel
+drift
+determined
+comput
+elelength
+july 7
+build
+play
+probabilistic
+converge
+crossmatch
+degraded
+access
+morgenstern
+spurious
+remove
+exless
+birren
+900 kb
+responses
+treated
+pp
+raise
+crick 1980
+due
+solid
+grant
+belong
+user
+howe
+evaluate
+yields
+5b
+l1-
+eliminate
+sirable
+defrayed
+optimize
+ill-defined
+extensions
+opposed
+dbi-0077709
+monomers
+sum
+called
+matching
+grouped
+department
+correlated
+delineation
+eds
+issues
+biol
+monomer
+december 12
+overlaps
+dialign 2
+notes
+noted
+click
+zuckerkandl 1991
+kurtz
+addressed
+butler
+self-comparison
+crick
+gabriel
+challenge
+splittings
+pieces
+correspond
+<1 min
+counted
+including
+giegerich
+choose
+miropeats
+datafile
+schleiermacher
+obbelonging
+slide
+subset
+marshall 2001
+nusbaum
+zody
+completely
+york
+ltr
+repeatb
+796 contigs
+discussions
+f28/mer41
+smit
+transposases
+unknown
+sonnhammer
+argos
+neologism
+bea
+zuckerkandl
+linked
+prone 2
+mcclintock 1984
+altman
+class
+samoilova
+proceedings
+fact
+based
+print
+tirs
+bases
+hope
+wublast
+dialign2
+mulbut
+rpt
+ca
+subscribe
+coordinates
+platform
+addition
+aligning
+kahn
+sufficient
+birney
+biosci
+retro-transposons
+unlike
+greater
+difficult
+patterns
+fail
+malr-
+rest
+hifigure 2
+ample
+tc2
+tc3
+doyle
+disk
+masked
+selecting
+recognized
+morgenstern 1999
+assess
+termini
+appl
+stoye
+piece
+denote
+skiena
+detail
+predominant
+kinds
+chance
+4c
+4a
+275
+1991
+1995
+1994
+1997
+1998
+>1260
+174­187
+97­116
+10
+00
+747 285
+56
+428 330
+185­210
+49­56
+0
+1999
+[
+2012­2018
+1
+860­921
+2
+11
+12
+19
+1%
+]
+925
+3
+925 7
+604­607
+4
+938 318
+5
+= 11
+908
+6
+615
+792­801
+23
+28
+7
+8
+211­218
+314
+830 19 6 54
+2002 12
+33
+9
+615­619
+482­492
+= 22
+362 7855
+830 331
+2002
+2000
+2001
+2008
+7261­7272
+228­238
+464­478
+= 5
+= 0
+{
+331
+1269­1276 ©2002
+601­603
+453
+263­266
+}
+88502
+1984
+1980
+1989
+1­9
+1982­1983

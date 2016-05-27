@@ -1,0 +1,13 @@
+box
+toy
+false
+155900txt
+location
+j
+green
+yellow
+master
+actor
+infants
+samorogu
+belief

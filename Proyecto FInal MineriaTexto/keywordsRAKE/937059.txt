@@ -1,0 +1,1463 @@
+5 2 4 7 9 14
+
+oct4 etl1 wapl
+
+nf45
+
+rex1 wdr18 baf155
+
+sall4 zfp281
+
+hdac2
+
+sp1
+
+elys
+
+nac1 arid3a btbd14a sall1 mybbp tif1 rif1
+
+nanog
+
+zfp198 err2
+
+rest dax1 pelo zfp609
+
+rex1 dax1 mybbp etl1 err2 oct4 tif1 elys prmt1 wdr18 rest rif1 baf155 zfp281 ews rai14 sall1 sall4 nanog nac1 nf45 hdac2 wapl sp1 zfp219 btbd14a cdk1 zfp609 p66 requiem yy1 rnf2 pelo zfp198 rybp arid3b arid3a
+
+figure 4
+nanog
+
+rex-1
+
+dax1
+
+nac1
+
+zfp281
+
+oct4
+
+nanog complexes nanog oct4 sall1 nac1 zfp281 zfp198 elys nf45 wapl hdac2 rest sp1 dax1 err2 sall4 tif1 rif1 mybbp
+
+dax1 complexes
+
+nac1 complexes
+
+zfp281 complexes
+
+oct4 complexes
+
+rex1 complexes rex1
+
+oct4 sall1 nac1 zfp609 zfp281 ari3a arid3b btbd14a ews zfp281
+
+oct4 rybp ews zfp219
+
+oct4 yy1 nac1 etl1 rai14
+
+arid3b nf45
+
+prmt1 rnf2 wapl
+
+pelo rest sp1 dax1 err2 sall4 tif1
+sall4 p66 wdr18 baf155 cdk1 requiem sall4
+
+hdac2 p66 sp1 cdk1 requiem sall4 tif1 wdr18 baf155 requiem
+requiem rai14 prmt1 p66 yy1 rnf2 arid3b
+
+rybp
+
+zfp219 cdk1 ews
+rif1 tif1 mybbp dax1 nac1 zfp281 err2 elys oct4 zfp198 nf45 hdac2
+4+7+8 3+2+1 4+2+14 12+5+5 11+16+13 8+14+15 0+1+2 2+0+2 1+2+4 7+2+1 1+2+1 2+0+1 0+2+5 4+0+1 2+1+0 0+0+1 0+1+0 0+0+1 peptide nos
+wb rif1 anti-rif1
+
+*
+
+rif1
+bionanog
+
+rif1 wb anti-rif1
+
+anti-sa
+bionanog
+
+1 10 30 tandem
+
+rest sp1 wapl
+
+figure 1
+total lysates bira ­ ­ + ­ + +
+
+bionanog
+bionanog
+
+ne ip anti-saagarose bira + + bionanog ­ +
+endbiop bionanog
+pi
+
+bi
+
+bionanog
+
+bira + + ­ +
+
+input
+
+sall4
+
+input
+
+rif1
+
+input
+
+endnanog
+
+input
+
+10 107 88 one-step
+antinanog anti-sa
+
+void
+
+700 kda 440 kda 232 kda
+
+*
+bira bira ­ bionac1 bira bira bira
+
+bionanog = end nanog
+
+anti-v5 <bira
+sa
+
+anti-sa­hrp bio nanog 1 2 3 anti-nanog
+endnanog
+
+input
+
+1 2 anti-sa­hrp
+158 kda
+
+bionanog
+wb
+
+bira
+
++
+
+fl
+
+anti-nanog anti-v5 <bira anti-nanog
+
+co-express
+nanog sall1
+
+nanog wb anti-nanog
+
+ip sa
+biozfp281 biodax1 biooct4
+
+bionanog
+
+bira + + ­ +
+ip wb antirif1 antinanog antirif1 antisa input
+wb anti-nac1 nac1 anti-sa
+bionanog
+
+total 2
+bionanog/lgg
+
+rif1 wb anti-rif1
+
+ip sa
+wapl
+rest
+nf45
+err2
+cocaine-regulated bric-a-brac tramtrac broad complex/ pox virus
+sp1
+zfp198
+elys
+sall1 recruits nurd
+rnf2
+rybp
+yy1
+express escherichia coli biotin ligase bira
+generated es cells expressing biotinylated nac1
+mybbp
+rex-1
+sall1
+quantitative reverse transcriptase­polymerase chain reaction
+bionanog
+protein id peptide nos
+stemcell marker protein rex1
+baf155
+hdac2
+orphan nuclear receptor dax1
+stem-cell marker protein rex1
+nanog complexes selected
+isolated gfphigh clones harbouring nac1
+pou transcription factor oct4
+j1 es cells cells purify biotinylated protein
+zfp281 knockdown cells maintained
+oct4­gfp es cells
+0
+
+bionanog
+
+biozfp281
+
+figure 3
+nanog wb anti-nanog
+ra
+multiple protein complexes
+whole-lane liquid chromatography­tandem mass spectrometry
+multiple co-repressor complexes
+poz/btb protein nac1 interacts
+oct4 regulatory elements
+data strongly implicate nac1
+diminished oct4 expression
+sall4
+rex1 overlap
+chose rex1
+zfp281 gene expression
+conserved twelve amino acid motif
+protein complexes
+ac b1 hy ur bm
+retinoic acid induces parietal endoderm
+transcriptional complexes
+feeder layer formed small colonies
+cl
+
+ne
+
+1 cl
+
+ne
+
+11
+multiprotein complexes
+transient complexes
+rex1
+bio oct4
+employed es cell lines expressing biodax1
+dax1
+nanog transcription network regulates pluripotency
+regulates ornithine decarboxylase gene expression
+prevents inappropriate neural gene expression
+es cells expressing bira
+nanog complementary dna bearing
+mouse nac1 gene
+oct4 served
+oct4 targets
+including oct4
+2872 shrna
+
+zfp281
+zfp281 shrna
+complexes
+zfp281 shrnas
+rif1 antibody
+embryonic stem cells
+jianlong wang1
+shrna/mock zfp281 0
+figure legend
+retained proper es cell morphology
+identify additional previously unknown proteins
+16 november 2006
+
+mock
+
+nac1
+primary tagged baits nanog
+oct4
+anti-sa­hrp antibodies
+bio nac1
+endogenous nanog behave similarly
+rif1
+zfp281
+curated 300 random transcription factor genes
+es cells expressing tagged cdna
+figure 2
+nac1 shrna
+prevent differentiation
+
+©2006 nature publishing group
+
+1
+365
+
+©2006 nature publishing group
+
+letters
+
+nature
+367
+
+©2006 nature publishing group
+
+letters
+
+nature
+nac1 copurifies
+mapping protein­protein interaction network
+nac1 antibody
+es cells expressing bionac1
+cells coexpressing bira
+2howard hughes medical institute
+total lysates
+functional validation included shrna inhibition
+plasmid construct expressing birav5his
+ip anti-v5
+
+5
+
+20 132 66 one-step
+express green fluorescent protein
+nac1
+nac1 0
+nanog promotes transfer
+dana farber cancer institute
+core transcriptional regulatory circuitry
+human zinc-finger protein zbp99
+endogenous nanog immunoprecipitated
+gene-targeted nac11/2 es cells
+es cells previously engineered
+f9 teratocarcinoma stem cells
+recent chromatin occupancy studies19
+recent conditional gene targeting
+knockdown cells grew poorly
+lc­ms/ ms results
+364
+©2006 nature publishing group
+
+nature
+quantitative real-time chromatin immunoprecipitation
+ectopically expressed nanog
+stem-cell marker gene expression
+infected wild-type es cells
+biotinylated nanog
+harvard stem cell institute
+proteins influence nanog
+performing similar proteomic analyses
+establish es cell identity
+short peptide tag
+human embryonic stem cells
+early mouse embryos cultured
+affect es cell pluripotency
+quantitative
+
+rt­pcr analysis
+validated selected nanog-interacting candidates
+randomly chosen gene transcripts
+mouse embryonic stem cells
+anti-v5­hrp
+embryonic stem cell proliferation
+bio nanog
+nanog protein
+group includes proteins present
+putative direct transcriptional targets
+ip anti-v5
+
+5
+early mouse development depend
+maintain es cell pluripotency
+es cell nuclear extracts
+putative nanog
+endogenous nanog
+j1 es cells
+white circles denote proteins
+160 kda
+34 kda
+selected newly identified components
+controlling self-renewal versus differentiation
+368
+©2006 nature publishing group
+maintaining es cell pluripotency
+es cells expressing
+nanog operates
+homeoprotein nanog
+nanog activity
+total peptides sequenced
+nanog co-purifies
+c1 bi
+recover nanog
+include proteins previously studied
+bira
+formed disorganized clumps
+prevent cocaineinduced sensitization
+anti-rif1 antibody
+leukaemia inhibitory factor
+nanog association
+teratocarcinoma stem cells
+es cells infected
+embryonic stem cells
+endnanog
+wild-type es cells
+zinc finger protein
+homeodomain protein nanog5
+protein interaction map
+ip sa
+swi/snf chromatin remodelling
+examined chromatin occupancy
+harvard medical school
+bira-expressing es clone
+independent one-step purifications
+embryonic cell phenotype
+human es cells
+pluripotency sustaining factor
+pluripotent stem cells--model
+bir
+
+5 5 av ct4v
+yeast saccharomyces cerevisiae
+performing lc­ms/ms
+end
+illuminate fundamental properties
+4 dx 2 fg f5
+rank order depicts
+anti-nanog antibody
+competing financial interests
+secondary tagged baits
+rank order relative
+es cell properties
+es cell context
+es cell pluripotency6
+es cell state26
+pluripotent stem cells
+mediating transcriptional repression
+functional module committed
+endogenous protein levels
+mouse es cells
+bionanog migrates
+low-level expression reduces
+brain poz/btb protein
+group includes proteins
+cellular module dedicated
+lc­ms/ms sequencing
+prime interaction candidates
+es cell state
+functional expression cloning
+multiple tagged baits
+16 november 2006
+
+letters
+
+examined
+regulate cell proliferation
+permit faithful reprogramming
+histone deacetylase nurd
+mammalian embryo depends
+short hairpin rna
+anti-streptavidin­horseradish peroxidase
+nanog
+empty shrna vector
+shrna vector carrying
+flag peptide
+apparent molecular mass
+antinanog
+tagged transcription factors
+tertiary interacting partners
+protein interaction network
+pluripotent cell line
+es cell differentiation
+one-step affinity purification
+multiple co-repressor pathways
+amino-terminal flag epitope
+examined shrnas directed
+independent shrna directed
+pi
+adult fibroblast cultures
+crucial target gene
+visceral endoderm differentiation
+selected high-confidence components
+cells transiently transfected
+multipotent cell lineages
+author information reprints
+anti-streptavidin­hrp
+predominantly transcription factors
+stem cell function
+wb
+peptide presence
+tight protein network
+published knockout studies
+oct-3/4 defines differentiation
+la 4a br
+selected lineage-specific markers
+published online 8 november 2006
+numerous gene targets
+common cellular function
+rna-mediated interference results
+supplementary figs s5
+western blot analyses
+large network analysis
+biotin tagging constructs
+supplementary figs s4
+bionanog
+quantitative expression
+gata6 promoter sequences
+performing co-immunoprecipitation experiments
+network proteins relative
+green lines
+one-step purifications
+broad pattern
+small cells
+supplementary table s1
+supplementary table s2
+sa beads
+2
+
+embryonic stem
+chromatin occupancy
+mass spectrometry
+gene targeting
+stem cells 23
+stem cells
+es cells
+employed inhibition
+rt­pcr
+tagged baits
+mouse embryonic
+genes encoding proteins
+tandem procedure
+tandem purification
+mouse embryos
+bionac1
+previously
+
+1 division
+8
+bionac1
+knockout phenotypes consistent
+cell mass
+lc­ms/ms
+16 november 2006
+
+letters
+polycomb group
+biotin-tagged cdna
+pluripotent state
+conserved family
+present predominantly
+total 3
+2872 knockdown cells
+knockdown cells
+1691 knockdown cells
+mammalian cells
+1038/nature05284
+
+letters
+recent chip-on-chip20
+hrp
+transcription factors
+msglndifeaqkiewhegapssr
+bio
+maintain pluripotency
+protein complex
+interaction partners
+sarcoma protein
+nuclear extracts
+embryonic development
+protein network
+cellular reprogramming
+gene targets
+causative gene
+functional validation
+rna-mediated interference
+knockdown studies
+tagged cdnas
+fl
+shrna-mediated inhibition
+rna knockdown
+white bars
+stem-cell markers
+selected components
+pluripotential cells
+somatic cells
+differentiated cells
+cell susceptible
+cell therapy
+cell fusion
+transcriptional activity
+23-aminoacid biotin
+flag­biotin
+mesoderm/visceral endoderm
+primitive endoderm
+ip
+gata6 expression
+expression attenuates
+normal expression
+mouse epiblast
+plasmid constructs
+promoter sequences
+identify nanog-
+mouse homologue
+green circles
+3
+
+og
+
+nature
+nuclear factors
+western blot
+similar extents
+experiments similar
+ra ax
+similarly analysed
+ra zfp2
+shaded similarly
+independent support
+knockout results
+maintaining pluripotency
+independent experiments
+endogenous rnas
+multiple points
+early requirement
+early development
+endogenous level
+supplementary information
+target genes
+functional relevance
+cofactor pathways
+histone deacetylases
+molecular level
+biooct4
+red line
+chip-pet19 analyses
+lineage-specific markers
+iterative tagging
+online version
+tagged samples
+shrnamediated knockdown
+author contributions
+zbp-99 defines
+network influence
+transcriptional control
+sa
+shrna vectors
+interaction confirmed
+nature genet
+supplementary data
+permissions information
+validated interactors
+gfp cassette
+data analysis
+multiple interactions
+understanding pluripotency
+crucial function
+gata6 promoter
+closest partners
+pluripotency network
+yellow circles
+red circles
+black circles
+blue circles
+multiple proteins
+genes encoding
+encoding genes
+western blots
+western blotting
+affinity purification
+numerous proteins
+analysed data
+microarray data
+loss-of-function data
+data collection
+tight control
+identified partners
+microarray experiments
+transgenic mice
+pluripotential competence
+300 mg ml21
+stuart_orkin@dfci
+size distributions
+extensive washing
+350 mm nacl
+phenotypic alleles
+kidney development
+critical factors
+hematology­oncology
+rocking platform
+targeted deletion
+authors declare
+igg band
+biodax1
+received 10 april
+iterative fashion
+broadly distributed
+individually critical
+interact directly
+1 3 tris-buffered saline
+pooled eluate
+b2 microglobulin
+fail-safe mechanism
+off-target effects
+jianlin chu1
+medium conditioned
+okihiro syndrome
+biologically active
+de boer
+single-step purification
+extraordinary enrichment
+biotinylation/proteomics approach10
+largely involved
+10% sds-polyacrylamide gel
+virus
+regenerative medicine3
+oct-4 activity
+gv
+se
+accepted 27 september 2006
+remarkably enriched
+topics worthy
+extensively downregulated
+grey bars
+rum tir
+sridhar rao1
+antim2 flag-agarose
+heterologous 293t
+strictly specific
+10 168 98 one-step
+natl acad
+predicted polypeptide
+size fractionation
+theunissen1 & stuart
+global landscape
+defined factors
+specifically downregulated
+therapeutic potential
+3% nonidet p40
+potential interest
+faint band
+murine homolog
+black bars
+native conditions
+dosage-dependent effects
+febs lett
+drosophila bric-a-brac/tramtrack
+if1 tina
+contributed equally
+anti-flag immunoprecipitation
+red labels
+xiaohua shen1
+de lange
+highly enriched
+network vulnerable
+network cooperate
+include 15 proteins
+putative nanog-
+supplementary materials
+supplementary methods
+polycomb components
+tandem
+efficient biotinylation
+vivo biotinylation
+non-physiological interactions
+affinity capture
+essential genes
+genes dev
+concomitant derepression
+striking derepression
+bound material
+proteins suggest
+biotin-tagged proteins
+single-step capture
+combinatorial control
+group
+supplementary fig
+required individually
+schematic depiction
+technical assistance
+negative controls
+efficiently recovered
+process promoted
+features suggest
+asterisk marks
+attack tolerance
+central regulator
+laemmli buffer
+complex networks
+chromatography
+functionally equivalent
+interdependence renders
+components shared
+proteins identified
+proteins
+
+identified
+bound materials
+binding solution
+providing advice
+rapid loss
+stabilize aspects
+developmental defects
+criteria applied
+identified physically
+proteins shared
+transcription
+bio
+bottom panels
+top panels
+streptavidin beads10
+future study
+gene
+interactions confirmed
+es
+sox2 function
+morphology
+employed
+bm 2
+curated
+human
+na
+
+v5
+cells
+streptavidin-agarose capture
+cell
+cell 95
+cell 126
+cell 122
+cell 113
+incubated overnight
+biozfp281
+biotin
+expression
+mouse
+left panel
+nature 440
+nature 441
+nature 406
+nature
+nature 292
+nature 414
+proliferation
+candidates
+harvard
+studied
+establish
+controlling
+chosen
+dana
+transcripts
+366
+cl
+34
+1 cl
+analyses
+results
+shrna
+1691 shrna
+include
+validated
+gfp
+maintaining
+pluripotency
+validation
+table
+knockout
+analysis
+genes
+differentiation
+16 november 2006
+data
+targets
+flag
+s2
+s1
+s5
+phenotypes
+410 peptides
+purification
+brain
+self-renewal
+development
+factors
+encoding
+transfected
+shrnas
+development 133
+gata6
+immunoprecipitation
+lineages
+experiments
+markers
+cultures
+mock
+530 peptides
+network
+antibody
+identified
+components
+clones
+interactions
+constructs
+function
+biotinylation
+expressed
+s4
+shared
+genet
+antibodies
+materials
+relevance
+derepression
+bound
+4a
+proteins
+266 proteins
+178 proteins
+4 proteins
+control
+`control
+capture
+methods
+consistent
+dev
+assistance
+renders
+process
+depiction
+na 5
+features
+overnight
+attack
+recovered
+buffer
+5 v5
+controls
+physically
+networks
+functionally
+samples
+essential
+panel
+central
+5
+
+shrna/mock
+
+46
+required
+asterisk
+confirmed
+co-immunoprecipitation
+criteria
+advice
+defects
+incubated
+streptavidin-agarose
+binding
+aspects
+loss
+presence
+sox2
+fig
+association
+top
+nanog-
+left
+streptavidin
+bottom
+study
+miyazaki
+anti-streptavidinagarose
+acknowledgements
+few21
+children
+zink
+passage
+effectors
+& kaufman
+confirmation
+endocrinol
+role
+nichols
+summarized
+fourth
+dissociate
+anat
+beginning
+subsets
+presented
+induction
+donovan
+lauberth
+expanded
+findings
+1 3 tbs
+picked
+chem
+developed
+mackler
+sigma
+3c
+3b
+3a
+method
+3d
+lee
+tags
+l1
+reported
+explore
+groups
+gygi
+tif1b
+conti
+& yamanaka
+subjected
+sci
+composed
+parentheses
+addressed
+usa
+levasseur1
+hospital
+mitsui
+predict
+examination
+rhee
+fractions
+initiated
+ap1
+observations
+neurosci
+& smith
+boiling
+ms3
+ms2
+ms1
+steroidogenesis
+feature
+biophys
+neuroectoderm
+days
+sought
+performed
+serum
+s8
+sall1/4
+s3
+means
+s6
+tomaino
+establishment
+pathway
+agarose
+gelatin
+law
+revealed
+parallel
+types
+zpf281
+bind
+complexity
+elledge
+discussion
+& mrvar
+s7
+fall
+paper
+batagelj
+15 related
+protein-
+correspondence
+greater
+1b
+gata6/4
+& gearhart
+vidal
+investigator
+dedifferentiation
+2e
+2f
+2g
+/nature
+found
+avilion
+2h
+nac-1
+thorold
+`expected
+shown
+develop
+usa 78
+washes
+ref
+niakan
+conceived
+eluted
+co-regulation
+formation
+members
+likelihood
+jeong
+cantor
+ct 4
+evans
+bioinformatics
+reflected
+instances
+barabasi
+co-regulated
+1a
+1c
+1d
+orkin1
+listed
+exploring
+stimulation
+`upstream
+serve
+& barabasi
+part
+& wolf
+requisite
+x1
+biochem
+positively
+observed
+isolation
+prelle
+korutla
+contrasted
+p66b
+boston
+2a­
+rat
+linked
+ewing
+nanog25
+lif
+-
+note
+stoichiometry
+tool
+differences
+albert
+protein14
+metab
+doi
+18 summarizes
+anorectal
+selection
+show
+neuroscience 121
+find
+embryogenesis
+thompson
+& gudas
+day 2
+tbs
+kaku
+combinations
+du
+takahashi
+homan
+substrate
+roles
+summary
+bae
+processed
+communicated
+wrote
+set
+concert
+achieved
+culture
+reinforcement
+zfp-42
+chambers
+identification
+& blendy
+approach
+component
+hypothesis
+negatively
+abruptly
+previously19
+requests
+boyer
+literature27
+literature28
+regulated
+respect
+basis
+addition
+due
+reduction
+maintenance
+expected
+important
+suggested
+fractionated
+perturbed11
+oncogenesis16
+connections 21
+4 uc
+/
+comparator
+middle
+histol
+error
+niwa
+grown
+wang
+hatano
+manuscript
+downregulation
+1 mda
+preimmune
+mech
+framework
+isl1
+pluripotent1
+thought
+feeders
+regulating
+sets
+vol 444
+g418
+bmp2
+han
+fujiwara
+massachusetts 02115
+neurochem
+survival
+5 1v
+mol
+usa 100
+imposed
+retrovirus
+serves
+heart
+unstable
+martin
+/reprints
+www
+btb-domain
+-agarose
+pollard
+provided
+res
+& merchant
+proc
+participation
+described10
+interactome
+silva
+hdac/nurd
+hhmi
+neuronal-
+comparison
+dependence
+ms1+ms2+ms3
+embryol
+cooperates
+perez-iratxeta
+assess
+involvement
+sakaki-yumoto
+specialized
+strategy
+loh
+approximate
+biol
+fraction
+lowe
+biorex1
+5 min
+commun
+krogan
+`masked
+al
+& kim
+invitrogen
+& mackler
+constructed
+inactivation
+pajek--program
+coexpression
+detail
+9
+
+biotin-tagged/bira
+
+1
+details
+test
+mini-interactome
+conclusion
+transfection
+& rauchman
+a4
+starting
+`downstream
+gapdh
+4c
+time
+4b
+indirectly
+0
+7634­7638
+0
+
+6
+7
+
+1
+7
+
+2
+8
+
+1
+2000
+8
+
+8
+113­120
+27
+8
+
+15
+169­186
+997­1001
+38
+154­156
+5 0
+261­271
+1
+
+1
+0
+
+25
+94
+1999
+1998
+379­391
+16 0
+1
+24
+25
+26
+0 0
+21
+22
+23
+947­956
+9
+
+21
+47­57
+88
+70%
+7
+20
+4
+
+4
+­
+663­676
+9
+
+69
+195
+13
+12
+15
+14
+17
+16
+19
+2
+
+1
+6 0
+28
+643­655
+20%
+637­643
+0
+
+2
+7480­7485
+4 1 8 3 15
+355­361
+8
+11
+10
+122
+2
+18
+67­79
+378­382
+25 0
+3
+92­97
+2 1 2 0 0 0 0 0 0 0 12 1 1
+6
+
+2
+6
+
+0
+6
+
+1
+6
+
+4
+6
+
+8
+6
+579
+3005­3013
+431­440
+31
+75 1 1
+9
+80%
+372­376
+738­751
+2005
+4
+5
+126­140
+262
+5 81
+631­642
+1795­1801
+31
+2
+23922­23931
+6210­6217
+119­133
+1981
+2
+
+101
+281
+9
+
+9
+1
+
+0
+9
+
+1
+9
+
+0
+56%
+15%
+2003
+786­793
+2002
+2001
+2006

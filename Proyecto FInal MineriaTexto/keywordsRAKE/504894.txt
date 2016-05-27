@@ -1,0 +1,1762 @@
+532
+
+al080059 contig 63649rc loc51203 contig 46218rc contig 38288rc aa555029rc contig 28552rc flt1 mmp9 dc13 ext1 al137718 pk428 hec ect2 gmps contig 32185rc uch37 contig 35251rc kiaa1067 gnaz serf1a oxct orc6l l2dtl prc1 af052162 col4a2 kiaa0175 rab6b contig 55725rc dck cenpa sm20 mcm6 akap2 contig 56457rc rfc4 dkfzp564d0462 slc2a3 mp1 contig 40831rc contig 24252rc flj11190 contig 51464rc igfbp5 igfbp5 ccne2 esm1 contig 20217rc nmu loc57110 contig 63102rc peci ap2b1 cffm4 peci tgfb3 contig 46223rc contig 55377rc hsa250839 gstm3 bbc3 cegp1 contig 48328rc wisp1 aldh4 kiaa1442 contig 32125rc fgf18
+
+­1
+
+0
+
+1
+
+prognostic classi®er
+contig 37571rc kiaa0882 ca12 esr1 gata3 myb p28 flj20262 al133619 contig 56390rc celsr1 contig 58301rc ugcg al049265 bcl2 emap-2 hsu79303 contig 51994rc contig 237rc contig 47045rc xbp1 hnf3a vav3 contig 54295rc al133074 contig 53968rc contig 49342rc zfp103 al110139 flj12538 erbb3 fbp1 contig 50297rc flj20273 al080192 tceb1l d5s346 al137761 tegt contig 41887rc
+
+clustering
+contig 27915rc contig 14390rc pou2af1 pim2 loc51237 loc57823 loc57823 aj249377 x93006 u96394 x79782 af063725 igll1 igl@ igl@ aj225092 igkv3d-15 af103458 aj225093 contig 10268rc contig 44195rc af058075 igl@ igkc tlx3 contig 42547 contig 20907rc icap-1a flj20340 af103530 mtr1 cd19 cd19 ighm vpreb3 bm040 kiaa0167 trd@ irf5 contig 50634rc
+
+figure 1 unsupervised two-dimensional cluster analysis
+autoimmune disease
+
+121 dkklelkldikaakvtpaqtahgdsttasprtltterng-setqtlvtlhnnngtkistw mtim-3 120 dekfnlklvikpakvtpaptlqrdftaafprmlttrghgpaetqtlgslpdinltqistl htim-3
+
+transmembrane region
+180 adeikds---------getirtaihigvgvsagltlaliigvlilkwysckkkklsslsl mtim-3 180 anelrdsrlandlrdsgatirigiyigagicaglalalifgalifkwyshskekiqnlsl htim-3
+
+cytoplasmic region
+231 itlanlppgglanagavrirseeniytieenvyevensneyycyvns-qqps
+signal peptide
+1 mfsgltlncvllllqlllarsledgykvevgknaylpcsytlptsgtlvpmcwgkgfcpw mtim-3 1 mfshlpfdcvlllllllltrsseveyraevgqnaylpcfytpaapgnlvpvcwgkgacpv htim-3
+
+igv domain
+61 sqctnellrtdernvtyqkssryqlkgdlnkgdvsliiknvtlddhgtyccriqfpglmn mtim-3 61 fecgnvvlrtderdvnywts-rywlngdfrkgdvsltienvtladsgiyccriqipgimn htim-3
+
+mucin domain
+contig ests ending
+named contig est
+average good prognosis profile
+
+sporadic breast tumours patients <55 years tumour size <5 cm lymph node negative
+est contig
+adjuvant systemic therapy
+patient group consensus st gallen nih prognosis pro®le* total patient group
+vegf receptor flt1
+metalloproteinases mmp9
+pk428
+mcm6
+rab6b
+mp1
+esm1
+11
+
+w3d8
+
+w4f3
+
+do11 tc2
+
+tim-3
+
+competing interests statement
+mtim-3 240 islanlppsglanavaegirseeniytieenvyeveepneyycyvssrqqpsqplgcrfa htim-3 282 mtim-3 300 mp
+high throughput gene expression pro®ling facility
+good prognosis
+
+figure 3 supervised classi®cation
+metastases group received adjuvant systemic therapy consisting
+unsupervised two-dimensional clustering
+two-dimensional cluster analysis
+cell surface protein tim-3 regulates macrophage activation
+unsupervised cluster analysis distinguishes
+gene expression pro®ling predicts clinical outcome
+lymph node-negative breast cancer patients identi®ed
+tumours
+
+15 10 5 ­1 0 1
+
+figure 2 supervised classi®cation
+erbb3
+bcl2
+ae 10g tim mo 64 sc 02
+powerful three-step supervised classi®cation method
+world health organisation classi®cation
+rat adrenal zona glomerulosa cells
+average good prognosis pro®le
+including axillary lymph node dissection
+health consensus development conference statement
+brca1 mediates ligand-independent transcriptional repression
+prognostic pro®le potentially
+11
+
+7a5
+
+4e8
+
+do11 tc1
+
+acknowledgements
+th2 cells inhibits autoimmune diseases7
+authors declare competing ®nancial interests
+cells ells na na cd
+neuro®bromin-de®cient mast cells
+global gene expression pro®les
+usa § va health care system
+breast carcinomas distinguish tumor subclasses
+vitro differentiated th1 cell lines derived
+unsupervised clustering detects
+naive cd4+ t-helper cells results
+two-layer cluster analysis
+hierarchical clustering algorithm allowed
+agglomerative hierarchical clustering algorithm
+breast cancer prognostic factors
+esr1
+remarkably distinct gene expression patterns
+er supervised classi®cation
+er signature gene set overlaps
+prognosis classi®er selects
+prognosis reporter genes distant metastases <5 years
+unsupervised analysis
+gene expression signature strongly predictive
+two-level classi®cation system
+st gallen consensus
+previous studies measured protein levels
+figure 3c shows
+supervised two-layer classi®cation
+two-dimensional display
+tailor adjuvant systemic treatment
+70 optimal prognostic marker genes
+classi®er predicted correctly
+unsupervised clustering
+multiple mapk pathways revealed
+ras-dependent chloride current activated
+arti®cial neural networks
+nf1-regulated adenylyl cyclase pathway
+21st century divining rod
+¯uorescent dye reversal technique
+figure 3b shows
+gene expression pro®le
+poor prognosis pro®le
+table 1 breast cancer patients eligible
+breast cancer gene expression reported
+lymph-node-negative young breast cancer patients
+d2 ls 1ive ive
+gene expression pro®ling
+rat igg isotype control
+de®nes er status
+underlying biological mechanism leading
+oligonucleotide probe design programme13
+gene expression pro®les
+average pro®le
+competing interests statement
+classical prognostic factors
+paraf®n-embedded tumour tissue
+similar classi®cation method8
+er messenger rna measured
+applied supervised classi®cation
+modi®ed radical mastectomy
+randomized adjuvant chemotherapy trial
+histopathological prognostic factors
+examples include cyclin d1
+er classi®er
+adjuvant systemic therapy
+primary invasive breast carcinoma
+plasminogen activator inhibitor type 1
+human mammary epithelial cells
+early breast cancer trialists
+lymph node negative
+karin van der kooy*
+8 good prognosis patients assigned
+prognostic reporter genes
+231 prognostic reporter genes
+figure 1 cloning
+linking gene expression patterns
+distinctive gene expression patterns
+medical record data extraction
+dominant gene cluster
+th2 cells produce cytokines
+classify accurately breast tumours
+lymph node status
+competing ®nancial interests
+th1 cells produce cytokines
+poor prognostic tumours
+lymph node metastases
+er status reporter signature
+usa
+cho mtim-3
+70 prognostic marker genes
+supplementary information table s2
+supplementary information table s3
+supplementary information table s4
+prognosis classi®er
+`prognosis classi®er
+brca1 status reporter genes26
+lymph-node-negative breast cancer patients
+50 er status reporter genes
+supervised classi®cation
+methods
+breast tumour selection criteria
+550 optimal er reporter genes
+qiagen rnase-free dnase kit
+variable region
+poor prognosis patients assigned
+dna microarray analysis
+expression pro®le
+cross-validated classi®er
+70-gene classi®er
+classi®er presented
+classi®er showed
+opposite gene expression group
+poor prognosis signature consists
+reverse colour cy-labelled product
+transmembrane protein
+odds ratio de®nition
+previous study de®ned
+19 additional breast cancer patients
+expression pro®ling
+adjuvant systemic treatment
+genes regulating cell cycle
+supplementary information table s1
+average size
+national neuro®bromatosis foundation
+st gallen
+brca1 germline mutation carrier
+breast tumours
+tumour material
+microarray classi®er
+selectively stained th1 cells
+breast cancer disease outcome
+prognosis classi®cation
+regulating macrophage activation
+er
+
+000
+
+brca1
+
+metastases
+
+letters
+microarray pro®le
+gene-expression pro®les
+cho mtim-3
+health care expenditure
+nature
+supplementary information accompanies
+tumour size greater
+grey denotes tumours derived
+local lymph nodes
+38 er-negative tumours de®ned
+95% correct classi®cation
+correct classi®cation
+cell surface protein
+er clustering
+prognostic signature
+molecular pro®ling
+experimental autoimmune encephalomyelitis
+nih consensus criteria
+adjuvant hormonal therapy
+®rst classi®ed
+selected 98 primary breast cancers
+distant metastases >5 years
+
+correlation
+brca1 germline mutation status
+100 optimal brca1 reporter genes
+th1-dependent autoimmune disease
+htim-3
+good prognosis group
+ells ells ells
+19 incorrect classi®cations
+cell surface proteins
+na rop end
+prognostic groups
+patient-tailored therapy strategies
+invasive breast cancer
+recent consensus conferences
+classi®ed tumours
+good prognosis signature
+analysis shows
+differentiated th1 cells
+urokinase-type plasminogen activator
+early breast cancer
+breast cancer prognosis
+conventional consensus criteria
+er-negative cluster
+abolishes transcriptional activation
+hormonal therapy reduces
+gene clustering
+upper cluster
+epigenetic modi®cation
+domain
+gene expression patterns
+12 good prognosis tumours
+er target genes
+classi®er
+ive ag ritic
+human breast cancer
+primary breast cancer
+breast cancer cells
+lymphnode-negative breast cancer
+breast cancer
+laura
+poor prognosis group
+optimized sensitivity threshold resulted
+er signature prediction
+unsupervised
+good prognosis category
+multifactorial analysis
+statistical analysis
+multivariate analysis
+cyclin d1 expression
+determine gene expression
+nature
+grade 3 lymphocytic infiltrate
+authors contributed equally
+contrasting patterns discriminate
+international consensus panel
+harvard medical school
+tumour clustering
+medical ethical committee
+individual sporadic patient
+breast cancer tumour
+hereditary breast cancer
+netherlands cancer institute
+dana-farber cancer institute
+78 sporadic lymph-node-negative patients
+correlation coef®cient
+stable puromycin-resistant cells
+mass bay area
+mammalian cerebral cortex
+amersham pharmacia biotech
+delayed-type hypersensitivity reactions4
+ink-jet oligonucleotide synthesizer
+confocal laser scanner
+12040 115th avenue ne
+distinct effector populations
+extracellular helminthic infections
+rneasy spin columns
+deduced amino-acid sequence
+gene expression signature
+van der velde
+van de vijver*²
+control gapdh expression
+cells puri®ed
+poor prognosis signature
+breast cancer res
+78 breast cancer patients
+breast cancer patients
+complete patient data
+prognosis reporter genes
+breast cancer treatment
+®gure shows expression
+correlation coef®cients
+identify reliably good
+5 mg total rna
+pairwise similarity metrics
+pairwise similarity measures
+expression ratio measurements
+yellow line consists
+poor prognosis patients
+natl cancer inst
+t7 rna polymerase
+sporadic breast cancers
+derive complementary rna
+nih consensus
+th2 cells cross-regulate
+human breast tumours
+primary breast tumours
+classifying breast tumours
+39 ihcstained tumours negative
+reveals brca1 status
+developed distant metastases
+receive additional treatment
+3 poor prognosis tumours
+rene bernards* & stephen
+cell-mediated immune responses
+pooling equal amounts
+prognostic
+adjuvant chemotherapy based
+identi®es tumours
+cho cells transfected
+78 sporadic breast tumours
+®nal volume 3 ml
+discordant brca1 tumour
+adjuvant therapy
+2/38 misclassi®ed
+eosin stained section
+murine n-ras gene
+expressed sequence tag
+receive unnecessary treatment
+small primary tumours
+classi®cation
+brca1 germline mutations
+snap-frozen tumour material
+yellow line marks
+cancers involving brca1
+high histological grade
+expression data matrix
+100 optimal reporter genes
+genes chromosomes cancer 14
+likelihood ratio test
+likelihood ratio test 1
+patients remained free
+total rna isolation
+nuclei showed staining
+adverse side effects
+sequentially adding subsets
+mouse lines commonly
+tc2 cells
+th1 t-cell clones
+netherlands ³ rosetta inpharmatics
+discriminating candidate genes
+000 human genes synthesized
+d10g4 th2
+
+5b6
+er negative
+developing distant metastases
+classi®ed
+brca1 mutant tumours
+cross validation procedure
+estrogen receptor status
+signi®cantly regulated
+signi®cantly reduces
+limited predictive power
+usa ³ millennium pharmaceuticals
+signi®cantly upregulated
+cluster
+additional independent set
+28-fold odds ratio
+®ve discordant cases
+tim-3 rna relative
+er expression
+total rna treated
+signal transduction
+19 independent sporadic tumours
+70 optimal marker genes
+dominant expression signatures
+remained metastasis free
+er status
+95% con®dence interval
+igv
+bottom branch intermingled
+optimized sensitivity threshold
+`good prognosis
+good prognosis
+threshold `optimal accuracy
+optimal accuracy threshold
+twenty-®ve micrograms
+th1
+
+ae7
+
+5b6
+dominant tumour clusters
+predicting disease outcome
+average signatures
+genes expressed primarily
+diagnostic categories based
+odds ratio represents
+patient group
+single 60-polymer
+nature
+autoimmune diseases
+selected speci®cally
+autoimmune diseases5
+non-redundant mrna sequences
+stanford university school
+crna labelling
+crna
+classi®ers
+transcriptional activation
+diagnostic prediction based
+hormonal therapy
+authors declare
+de®ned
+performance cross-validation procedure
+selected clinical data
+microarray
+labelled crnas
+sporadic patient
+tumour $2 cm
+neuro®bromatosis
+dashed line patients
+cell lines
+cell cycle
+550 er reporters
+clustering
+t-helper cells
+reference crna pool
+breast cancer
+550 genes optimally report
+brca1 protein
+expression patterns
+identi®cation
+gene expression
+axillary metastases
+adjuvant treatment
+`poor prognosis
+5 poor prognosis
+poor prognosis
+patient data
+table s1
+sporadic carcinomas
+sporadic breast
+high grade
+er positive
+prognosis signature
+total rna
+powerful tool
+nih consensus3
+distant metastases
+breast cancers
+table 1 shows
+patients eligible
+supplementary information
+expression levels
+hu25k microarrays represented
+single gene
+signal
+primary tumour
+tumour type
+received 24 august
+50% tumour cells
+previous malignancies
+tumour cells
+expression ratio
+relative expression 540 200 2
+cell recording
+th2 cells
+breast tumours
+98 breast tumours
+cells
+
+100
+
+tim-3
+
+7
+human tim-3
+misclassi®cation
+total 39 er-negative
+cancer res
+th1 cells
+sporadic tumour
+disease free
+clinical studies
+prognosis signatures
+brca1 tumour
+tumour rna
+er-negative group
+clinical status
+patterns divides
+reporter genes
+disease outcome
+st
+gene annotation
+similarities measured
+surface molecules
+brca1 signature
+primary tumours
+germline mutation
+received support
+ma
+
+0
+
+activation
+upper group
+lower group 70%
+collaborative group
+expression pattern
+cancer drugs
+sporadic patients
+`optimized sensitivity
+optimized sensitivity
+sporadic cases
+optimal accuracy
+117 young patients
+hereditary patients
+distinct roles
+oligonucleotide chosen
+cy-labelled crna
+side effects
+potentially suffer
+portuguese foundation
+transgenic studies
+479 biological oligonucleotides
+opposite category
+brca1 mutation
+brca1 mutation 5
+98 sporadic tumours
+sporadic tumours
+distant metastasis
+quanti®ed
+estrogen receptor
+10 t-cell receptor
+histopathological data
+brca1 tumours
+rapid metastases
+developing metastases
+15 misclassi®cations
+281 control probes
+crossvalidated predictive
+signi®cantly
+distinct groups
+predictive power
+metastasis status
+70 marker genes
+marker genes
+tumour grade 3
+odds ratio
+cyclin e2
+cyclin b2
+diagnostic prediction
+treatment responses
+progressive disease
+metastatic disease
+hu25k microarray
+black negative
+vitro transcription
+do11
+reverse transcription
+tumour predisposition
+rnase-free h2o
+independent factor
+show similarity
+reported previously7
+2 mg ml-1
+tumour dendrogram
+group consisted
+er-positive group
+®ve years
+including genes
+brca1 promoter
+brca1 inactivation
+rna isolation
+th2 cells1±3
+developed guidelines
+®ve tumours
+optimal set
+dominant pattern
+ernegative signature
+er
+microarray data
+tim-3 enhances
+germline carriers
+natl acad
+actual outcome
+predicting outcome
+intensity ratio
+con®rmed
+comparable performance
+bottom branch
+complete list
+clone ae7
+functional categories
+reference pool14
+recent ®ndings
+stephen manning³
+diagnostic oncology
+exact test
+individual genes
+brca1 signatures
+cases based
+metastases
+
+letters
+van leeuwen
+van diest
+van waardenburg
+activation level
+brca2 mutations
+cho mock
+colour bar
+oestrogen receptor
+colour scheme
+clinical implications
+clinical behaviour1±3
+clinical parameters
+clinical characteristics
+brca1 carriers
+er-negative tumours
+patients receiving
+select patients
+row represents
+®nal concentration
+national institutes
+similar conclusion
+targeted mutation
+dashed line
+primary diagnosis
+validation set
+identify optimally
+5 years compared
+contradictory results
+rational development
+optimal number
+genes expressed
+breast-conserving treatment
+odds ratios
+disease
+nature
+ernegative tumours
+eighteen tumours
+38 ernegative tumours
+microarray experiments
+accuracy improved
+microarray agrees
+equal amount
+brca1
+nature
+dotted line
+approach based
+histological grade
+versus grade 1
+nature
+signature
+dominant feature
+er-positive signature
+solid line
+rho gtpase
+tumour characterized
+texas chapters
+1 cm
+generous donation
+signi®cance
+30-mm thickness
+palo alto
+2 cm
+randomised trials
+ho aw 2
+533
+
+© 2002 macmillan magazines
+mao mao³
+50 mm mes
+nih
+5% sodium sarcosine
+mice heterozygous
+neurologic diseases
+liquid nitrogen
+hongyue dai²³
+5 cm
+important role
+r01 ns38480
+molecular carcinogenesis
+logistic regression
+inkjet technology13
+genetic alterations
+biomedical genetics
+calendar year
+ef®cacy
+graduated program
+metastatic phenotype
+silvaa@mednet
+immunized lewis
+akemi ryu*
+adult oncology
+twofold difference
+greatly reduce
+functional annotation
+hanspeter waldner*
+green®eld*²
+10 mm zncl2
+aggressive behavior
+transcript ratios
+monoclonal antibodies
+freeman² & vijay
+intracellular pathogens
+co-stimulatory receptors
+tumour-necrosis factor
+agioinvasion
+
+log10
+ovarian tumors
+earlier experiments
+histological analyses
+green downregulation
+dependent variable
+correlated alterations
+central plains
+upper limit
+strongest predictors
+agilent technologies
+formalin-®xed
+transgenic mice
+promoter hypermethylation
+selection criterion
+background noise
+000 monoclonal antibodies
+445
+
+laurent monney*
+allergic diseases4
+enlarged portion
+29 amino acids
+lo turco
+twodimensional presentation
+taqman pcr
+short interval
+fluorescence intensities
+apparently co-regulated
+branches displays
+tumour types
+sjl mice
+relevant parameter
+© 2002 macmillan magazines
+1066 cx amsterdam
+tatyana chernova²
+promote atopic
+531
+
+© 2002 macmillan magazines
+640 memorial drive
+unselected cohort
+ef®ciency
+co-regulated genes
+000 significant genes
+genes belonging
+downregulated genes
+good
+tim-3 cdna
+patient
+colour plot
+high-risk patients
+groups studied
+therapeutic groups
+extensive lymphocytic
+disease-free patients
+logistic model
+applied biology
+immunohistochemical staining
+monoclonal antibody
+multivariate model
+scanned images
+higher amount
+evaluation guidelines
+middle panel
+microarrays fabricated
+predominant induction
+regulate induction
+preferential induction
+metastasis evaluation
+nature
+evaluating
+nature biotechnol
+nature genet
+nature
+guidelines
+meeting highlights
+chris roberts³
+transcript abundance
+®nally dissolved
+gain insight
+naure med
+cutting slides
+performed independently
+accepted 22 november 2001
+technical assistance
+®ndings provide
+/ publications/default
+accurate estimate
+metastatic risk
+rank-ordered list
+friend³
+* divisions
+stephen_friend@merck
+nnf foundations
+pathological severity
+hybridization buffer
+angioinvasive growth
+potential targets
+vivo administration
+molecular portraits
+prognosis
+genes involved
+brca2 carriers
+larger number
+accession number
+lower number
+calculated based
+total
+negative
+total 18
+method includes
+details accompany
+approximately 50±100 nucleotides
+approximately one-
+kuchroo*
+* center
+initial diagnosis
+enlargement shown
+2 ´ 2 table
+remaining samples
+dendrograms shown
+gene
+gender differences
+group
+left panel
+expression
+// www
+nature med
+vitro
+acknowledgements
+tc1
+lines
+cells
+metastases 2
+metastases
+poor
+control
+sporadic
+`sporadic
+established th1-speci®
+disease
+correlation
+reported
+tumour
+levels
+including
+19 young
+brca1
+th2
+developed
+derived
+matrix
+signature
+tim-3
+outcome
+ratio
+th1
+cancers
+predicted
+grey
+van
+data
+threshold
+clinical
+3 patients
+7 patients
+98 patients
+12 patients
+78 patients
+patients
+34 patients
+procedure
+criteria
+distinguish
+methods
+similar
+methods 30
+5b6
+national
+mutation
+optimized
+prediction
+stained
+5 years
+55 years
+development
+results
+expressed
+chemotherapy
+7 years
+treatment
+odds
+3 tumours
+98 tumours
+36 tumours
+60
+
+50 tumours
+
+40
+
+30
+
+20
+
+10
+tumours
+95% accuracy
+microarray
+er-negative
+based
+grade 1±3
+grade 2±3
+selected
+staining
+mrna
+crna
+report
+method
+bottom
+speci®
+predicting
+resulted
+interval
+signi®
+commonly
+vegf
+rosetta
+developing
+power
+dnase
+stanford
+pool
+snap-frozen
+molecular
+3c
+000 signi®
+clusters
+histological
+greater
+university
+micrograms
+isolation
+968 signi®
+selection
+cross-validation
+sequences
+subsets
+murine
+est
+category
+231 genes
+genes
+70 genes
+100 genes
+5 genes
+000 genes
+solid
+metastasis
+signatures
+groups
+usa 98
+usa 92
+usa 96
+usa
+usa ²
+set
+study
+identify
+brca2
+carriers
+lymphocytic
+represented
+applied
+immunohistochemical
+transcription
+model
+antibody
+scanned
+amount
+evaluation
+treated
+3b
+panel
+microarrays
+microarraysð
+induction
+535
+
+letters
+letters
+nature
+nature
+24
+nature 382
+nature 406
+risk
+established
+med
+plot
+abundance
+provide
+feature
+highlights
+estimate
+merck
+portraits
+left
+severity
+positive
+support
+vivo
+nnf
+/
+targets
+performed
+consisted
+rank-ordered
+er-positive
+dissolved
+assistance
+er-positive
+534
+hybridization
+november 1±3
+labelled
+involved
+insight
+slides
+roberts
+& friend
+molecules
+high-risk
+growth
+display
+² number
+* number
+number
+approximately 25
+types
+approximately 20
+approximately 5
+black
+includes
+disease-free
+cdna
+characterized
+center
+details
+diagnosis 1983±1996
+diagnosis
+th1-speci®
+level
+shown
+samples
+calculated
+78 samples
+differences
+www
+circuitry
+therapeutics
+edward
+ref
+upa
+vector
+consistent
+& rauvala
++
+p-
+interferon
+slices
+refseq
+hospital
+california 95305
+peterse*
+er-
+assessment
+bub1
+work
+neurons
+kerkhoven*
+previously8
+forty-
+manuscript
+ncbi
+sixteen
+² department
+series
+reached
+40 8c
+washed
+rc
+medicine
+arizona
+pellicer
+622del62
+rookus
+rank
+gelber
+polychemotherapy
+buonomano
+similarly
+top
+percentage
+31/44
+preparation
+matynia
+brannan
+-
+isolated
+essential
+2c12
+edelmann
+koks
+observation
+33/34
+®ltrate
+orleans
+¯ection
+fail
+lancet 351
+lancet 352
+unable
+//www
+extent
+improve
+heating
+contribution
+tong
+basis
+basic
+website
+25f
+co-regulate
+il
+pathology
+reptilian
+hans
+subgroups
+ln0
+materials
+refs 12
+quantitative
+â peter
+shading
+ell
+brigham
+massachusetts 02115
+slade
+clustered
+augustinus
+steps
+altered
+annab
+mucin-
+functions
+soc
+presence
+p-values
+phrap
+panels
+eifel
+abstract
+mid-atlantic
+endocrinology 141
+il-4
+neuroscience
+time
+n0
+angiogenesis
+refs 11±14
+ron
+lls
+tamoxifen
+4 ´ 10-4
+grateful
+finally
+htm
+cost
+nlm
+favour
+tnf
+homology
+brca124
+brca125
+change
+voikar
+behav
+umanoff
+enriched
+apparent
+spivak
+`leave-one-
+pai-1
+predict
+gabba
+sample
+divided
+outline
+thresholds
+age #40
+physiol
+correspondence
+schreiber³
+ph 6
+massachusetts 02139
+suggesting
+barad
+methylation
+gordon
+george
+1a
+1c
+1b
+1d
+white
+43/78
+jacks
+berns
+transcribed
+fct
+95% ci 0
+95% ci 2
+friedman
+sorlie
+frankland
+hematopoietic-speci®
+overexpressed
+& kriegstein
+voskuil
+cannon
+hedenfalk
+95% ci 1
+outperform
+yield
+surgery
+64/78
+5 yr
+reading
+530
+
+angiogenesis
+schlussel
+characterization
+overview
+period
+grants
+marc
+west
+ucla
+relatedness
+cyclins
+fig
+parrish
+hughes
+leaveone-
+strain
+nederlof
+technology
+upregulation
+develop
+html
+rodenhuis
+median 70%
+validate
+washington 98034
+erkkila
+radich
+asthma
+mcdonald
+31 january 2002
+& senn
+annually
+-3 ck
+31/34
+interleukin
+kirkland
+1 ´ 10-6
+lymphocyte-speci®
+2c
+notably
+mixed
+hyperactivation
+cambridge
+18/44
+markedly
+yudong
+esteller
+survived
+arranged
+sobel§
+al
+reverse-complementary
+valid
+35 yr
+subdivision
+immunoglobulin
+sci
+caused
+bene®
+genbank
+lou/
+decide
+fall
+32/34
+bieche
+t2
+t1
+large
+rats
+pgk1
+eligibility
+behaviour
+search
+kaczmarek
+khan
+lymphotoxin
+corrected
+neurosci
+science
+indicating
+compare
+suggestions
+radiotherapy
+formamide
+invasion
+`leave-oneout
+paper
+40/44
+alter
+physiognomy
+it4
+association
+science 287
+2a
+2b
+bilodeau
+found
+ifn
+cdc25b
+idea
+neurology
+raymond
+& kucherlapati
+vasar
+®ltrate15
+nacl
+differ
+12/44
+part
+signaling
+hybridizations
+determined
+60 8c
+majoor
+rnazolb
+added
+reach
+sporadic-
+approved
+exp
+34 clustered
+ingram
+0 ´ 10-8
+blanton
+tumours26
+leave-one-
+witteveen*
+europe
+perou
+atopy
+brca1-
+due
+strategy
+boston
+lakhani
+sanders
+anthony
+determination
+ras
+engl
+rii
+grant
+diagnosed
+purpose
+koch
+normalized13
+121 plesmanlaan
+comprise
+mcguire
+oporto
+follow-
+il-10
+evaluate
+manifest
+er23
+colicelli
+cydye
+proc
+step
+gaglia*
+chorvatova
+fragmented
+dalesio
+sabatos*
+ordered
+atsma
+contigs
+department
+kansas
+prepared
+generated
+fisher
+age
+required
+jason
+rac2
+excluded
+continued
+95% ci 4±56
+macrophages
+3a
+proliferation
+lee
+degree
+explore
+manne
+minnesota
+marton³
+addressed
+angioinvasion
+goldhirsch
+stage
+pathol
+gendron
+linsley³
+cooperate
+normalized
+gov/locuslink/refseq
+women
+glick
+account
+effectively
+& zhou
+her2/neu
+regions
+gruvberger
+collection
+72/78
+chapman
+hartwell
+superior
+h2
+nf1
+crucial
+them6
+date6±12
+magnitude
+programmed
+society
+investigate
+red
+gallen2
+8b
+allergies9
+length
+haematoxylin
+cy3
+cy5
+ihc
+bms191563
+cks2
+janicke
+org/est_assembly/human/gene_number_methods
+steeg
+amplitude
+discussions
+studying
+il-13
+organ-speci®
+30 sections
+fact
+supported
+coyle³
+& caldas
+candidates
+attained
+stoughton
+abstr
+afshari
+robustness
+correlations
+veer*²
+p21
+terms
+erbb4
+conclude
+respect
+addition
+treat
+gallo-payet
+1d6
+present
+representing 62
+surprisingly
+encouragement
+matthew
+hart*
+http
+anke
+c-myc19±22
+requests
+concordance
+chemokine
+keratin 18
+/1
+tcr
+brenton
+smith
+screened
+increases
+& boyer
+martin
+zajchowski
+aparicio
+& verma
+pctaire
+adrenocorticotropin
+overlap
+e-mail
+®ltration
+11b
+selecting
+analysed
+expansion
+ci 7±107
+carried
+column
+& payet
+rad21
+catherine
+mad2
+function
+eae
+made
+cenpf
+hogervorst
+illinois
+zheng
+vol 415
+34%
+344
+345
+27%
+70±80%
+10%
+93
+92
+1995
+1994
+1997
+1996
+1999
+1998
+55%
+= 97
+873±880
+2
+342±347
+41%
+2232±2238
+02
+01
+52
+536
+150
+539±548
+90
+0
+1991
+1709±1713
+1
+82%
+658±659
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+²
+³
+92%
+3
+83%
+23
+60
+61
+65
+3±11
+= 62
+564±569
+4
+353±361
+271±281
+91%
+673±679
+5
+= 18
+9±6
+930±942
+-0
+194
+90%
+6
+1601±1608
+7±11
+1451±1467
+24
+25
+26
+27
+20
+21
+22
+28
+29
+678±679
+77±80
+7
+9587±9592
+97%
+10869±10874
+~5
+72
+78
+1±19
+8
+= 35
+9212±9217
+684±692
+0008
+203±210
+5979±5984
+9
+67%
+= 20
+1138±1145
+30%
+5168±5178
+70
+227±251
+0018
+17±28
+2000
+2001
+30
+34
+= 6
+= 4
+= 2
+= 3
+= 0
+= 1
+0028
+94%
+5±12
+83
+705±711
+3±94
+913±920
+57±69
+154± 155
+15±18
+11462±11467
+44
+979±989
+747±752
+6
+
+0
+
+­0
+1989
+70%

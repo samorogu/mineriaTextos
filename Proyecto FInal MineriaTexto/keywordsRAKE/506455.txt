@@ -1,0 +1,1082 @@
+normalized cell counts versus arbitrary fluorescence units
+low copy number showed reduced expression levels
+expanded model produced ci protein levels identical
+emulate drosophila embryonic pattern formation
+inset shows cv versus arabinose level
+inset showing cv versus arabinose level
+inset shows cv versus iptg level
+inset showing cv versus iptg level
+fit
+
+© 2006 nature publishing group
+
+859
+
+letters
+
+nature
+becton dickinson facscalibur flow cytometer
+cold spring harbor laboratory press
+storage solution heat-shock transformation protocol30
+construct synthetic gene networks enables experimental investigations
+mj research ptc-100 thermal cycler
+flow cytometer generates logscale values
+axis represents arbitrary fluorescence units
+genetic circuitry exhibiting toggle switch
+strongly constitutively expressed laci gene
+shows cv versus arabinose level
+engineered riboregulators enable post-transcriptional control
+shows cv versus iptg level
+programmable population control cell-cell communication
+normalized fluorescence versus arabinose level
+normalized fluorescence versus iptg level
+lteto1 constitutive promoter controlling laci
+857
+
+© 2006 nature publishing group
+
+letters
+
+nature
+mj research thermal cycler
+complex network involving regulatory feedback
+ro lac promoter controlling gfp
+gfp expression levels closely match
+ontario l5l 1c6 canada
+complex copy-number control system explicitly
+03 mg ml21 kanamycin antibiotic
+genetic circuit building blocks
+cell press & blackwell scientific
+cv versus arabinose levels
+488-nm argon excitation laser
+underlying biochemical reaction scheme
+changing plasmid copy numbers
+856
+
+© 2006 nature publishing group
+
+nature
+© 2006 nature publishing group
+
+nature
+model includes extrinsic noise5
+ro lac promoter controlling
+gillespie monte carlo algorithm
+arbitrary fluorescence units
+varying plasmid copy number
+engineered epigenetic transgene switch
+green fluorescent protein gene
+ro lac promoter represent
+minimize fluorescence variation due
+stochastic model slightly underestimates
+plasmid copy number control
+biochemical network stochastic simulator
+pbad promoter controlling ci
+synthetic mammalian gene network
+significantly reduce ci binding
+repressor­activator system represents
+versus arabinose level
+860
+
+© 2006 nature publishing group
+understanding gene regulatory networks
+versus iptg
+858
+
+level
+genetic toggle switch
+repressor­activator system results
+low fluorescence levels
+stochastic model results revealed
+plasmid copy-number fluctuations account
+incubator conditions identical
+plasmid copy number
+low copy origin
+model accurately captures fluctuations
+high fluorescence levels
+ro lac promoter
+experimental flow cytometry histograms
+low copy case
+pze21-mcs1 modular construct
+complex regulatory networks
+kanamycin resistance gene
+synthetic gene-metabolic oscillator
+positive feedback construct
+polymerase chain reaction
+autoregulatory genetic module
+synthetic gene network
+arac/i1-i2 regulatory elements
+synthetic gene networks
+10-bit analogue-to-digital converter
+competing financial interests
+pzs*24-mcs1 plasmid28
+37 8c incubator shaking
+undergoes exponential growth26
+nucleic acids res
+pulse generating networks
+gfp expression level
+synthetic oscillatory network
+eukaryotic gene networks
+include stochastic effects25
+laci repressor genes
+recruiting rna polymerase24
+intercellular copy-number variability
+minimal regulatory network
+repressor­ activator systems
+repressor­activator systems
+increasingly complex conditions
+single cell level
+synthetic transcriptional cascade
+000 random initial guesses
+highly optimized version
+biologically reasonable regime
+ro lac repression
+repressor­activator system
+rich lauria broth
+repressor protein laci
+eukaryotic gene expression
+deliberately simplified systems
+low inducer levels
+authors contributed equally
+gfp messenger rna
+protein expression levels
+stochastic model revealed
+gfp expression represented
+protein molecular abundances
+binary response conversion
+highcopy cole1 origin
+stochastic gene expression
+reduce noise levels
+engineering gene networks
+gfp levels observed
+ci protein forms
+plasmid construction began
+gfp reporter protein
+coli strain jm2
+negative autoregulation speeds
+least-squares fitting routine
+gene regulation
+nicholas
+arabinose response curve
+laci proteins bind
+engineered gene networks
+include positive feedback
+stochastic model requires
+multiple cloning sites
+model accurately captures
+experimentally observed levels
+include cell growth
+halting cell growth
+515­545 nm emission filter
+pfuturbo dna polymerase
+m9 minimal media
+lac operator site
+author information reprints
+derive explicit expressions
+stationary phase cells
+cellular regulatory processes
+expression levels increase
+negative transcriptional regulation
+division slow considerably
+fluorescence level
+laci protein binds
+g-to-tor3-r2 point mutation
+r3 operator site24
+intercellular variability increases
+transcriptional units
+methods
+plasmid construction
+cellquest software designed
+polycistronic region controlled
+stochastic model data
+low-copy case decreases
+model accurately predicts
+transcriptional induction data
+r2 cooperatively bind
+axis represents
+genetic switch
+added positive feedback
+minimal media cultures
+varying levels
+proportionally reduced
+reduces ci binding
+showing results
+cv increases
+arabinose level
+protein level
+experimentally observed variability
+complex networks
+rich media experiments
+genetic networks
+found cell behaviour
+similar cells growing
+gillespie algorithm
+data normalized
+higher cv
+biochemical networks
+work shows
+flow cytometry
+repressor protein
+gene networks
+lteto1 promoter
+fluorescence results
+gfp levels
+highest level
+operations research
+fluorescence intensity
+expression levels
+complex system
+laboratory manual
+tracked explicitly
+lac operator
+laci gene
+pbad promoter
+1038/nature04473
+
+letters
+gene expression
+ci activator
+r3 represents
+preliminary investigations
+rna polymerase
+reporter gfp
+synthetic biology1­23
+synthetic biology
+laci protein
+larger cv
+protein expression
+transcriptional activator
+gfp expression
+cole1 origin
+ci gene
+single gene
+fluorescence measured
+fluorescence measurements
+regulatory subsystems
+ci protein
+least-squares routine
+quantitatively captures
+molecular cloning
+16 february 2006
+
+letters
+programmable cells
+biochemical processes
+largely due
+gene regulation
+transcription networks
+single cell
+positive feedback
+engineered promoter
+low-copy plasmid
+stochastic model
+nature biotechnol
+nature genet
+r2 sites
+inset
+rm promoter
+promoter sequence
+stochastic simulations
+stochastic modeling
+protein production
+transcriptional induction
+protein overproduction
+high-copy plasmid
+50 plasmid copies
+plasmid backbone
+cell growth
+observed experimentally
+gfp molecules
+minimal media
+spatiotemporal control
+similar results
+rich media
+inducer levels
+cell morphology
+cell size
+cell differentiation
+mammalian cells
+operator sites
+biologically meaningful
+tightly controlled
+online version
+author contributions
+random variable
+explicit inclusion
+experimental system
+stochastic modelling
+shows
+experimental data
+10 mm iptg
+1 mm iptg
+50 mm iptg
+transcriptional response
+operator site
+operator
+1
+
+site
+regulated systems
+system results
+engineering stability
+authors declare
+cellular computation
+co-senior authors
+biomedical engineering
+transcriptional regulation
+experimental results
+model conditions
+confirm experimentally
+confirmed experimentally
+validated experimentally
+model predicts
+model data
+point mutation
+operator insertion
+repressor-activator system
+high-copy system
+system consists
+modular system
+native promoter
+experimental design
+experimental observation
+transcriptional regulators
+response times
+data acquisition
+accurately predicted
+binding states
+weakens binding
+expression experiments
+model results
+tight regulation
+permissions information
+laci tetramer
+supplementary information
+deterministic model
+mathematical model
+simpler model
+accurately predict
+oscillatory behaviour
+protein synthesis
+unregulated system
+cell volume
+artificially increasing
+mathematical representations
+david adalsteinsson3
+xiao wang2*
+long tails
+transcription factors
+bd biosciences
+dashed lines
+quantitative models1­23
+functional relationship
+la jolla
+proteus mirabilis
+laci22 rpsl135
+individual components
+david mcmillen5
+chapel hill
+steady state
+maintaining 3­4 copies
+t1t2 terminator
+optical sciences
+physical sciences
+regulated killing
+side-scatter gate
+turn acts
+bioinformatics program
+well-characterized modules
+north carolina
+small forward-scatter
+transcribed polycistronically
+tightly centred
+san diego
+north carolina 27599
+received 7 october
+generally thought
+intricate processes
+tightly regulated
+general terms
+translational machinery
+advanced biotechnology
+theoretical explanation
+parameter set
+higher organisms
+jcollins@bu
+run simulations
+significant portion
+solid lines
+b-lactam antibiotics
+escherichia coli
+enables
+large amount
+jeff hasty6
+white boxes
+main goals
+accurately capture
+& van oudenaarden
+yielding integers
+interfacing natural
+natural comput
+individual modules
+quantitative models
+binds sequentially
+binomial distribution21
+signal processing
+44 cummington street
+efforts set
+predictive power
+accepted 18 november 2005
+bmc bioinform
+inducible promoters
+culture representing
+9500 gillman drive
+parameter space
+drug cephalexin29
+low-copy case
+model predictions
+cv
+adding feedback
+testable predictions
+cellular behaviour
+high-copy case
+lb media
+modelling results
+ci concentration
+ci mrna
+cell division
+added separately
+low-copy plasmids
+experimentally test
+normalized
+interactive effects
+minor effects
+equilibrium modelling
+combined effects
+simultaneous repression
+increase fluctuations
+level
+lb cultures
+high-copy plasmids
+gamma distribution
+uniform distribution
+fluorescence
+cell-to-cell variability
+add variability
+simple model
+baseline model
+model parameters
+experimental distributions
+noise propagation
+noise propagation
+
+20
+noise contribute
+vivo behaviour
+plos biol
+counterintuitive prediction
+globally fitted
+systematic analysis
+cells producing
+daughter cells
+primers designed
+pellet cells
+doubling time
+greatly reducing
+provide insights
+schematic designs
+cells reached
+dividing regularly
+previous work
+basal properties
+culture samples
+achieving arrest
+bionets software26
+repressive function
+considered ways
+autofluorescence makes
+blue diamonds
+red cross
+red lines
+blue lines
+results show
+technical university
+predict quantitatively
+investigations
+lower cvs
+grown overnight
+1 discrepancy discussed
+combinatorial synthesis
+4b show
+simultaneously repressed
+division proceed
+added upstream
+genuine bottom-
+supplementary fig
+levels
+behaviour predicted
+expanded
+values
+network
+population
+important test
+transformation
+match
+boston university
+16 february 2006
+
+figure 2
+red circles
+nature 403
+nature 428
+nature 405
+nature 435
+5 £ 1024% arabinose
+nature 422
+0001% arabinose
+nature
+1 £ 1026% arabinose
+arabinose
+promoter
+protein
+plasmid
+gfp
+control
+laci
+expression
+feedback
+cell 113
+understanding
+excitation
+variation
+iptg
+observed
+systems
+bind
+ci
+construction
+positive
+system
+conditions
+experimental
+response
+transcriptional
+media
+binding
+site
+regulation
+engineered
+results
+model
+expressions
+growing
+designed
+coli
+found
+cooperatively
+r3
+cultures
+binds
+autoregulation
+processes
+point
+modular
+pfuturbo
+reduces
+methods
+software
+fluctuations
+predictions
+case
+added
+unregulated
+effects
+increase
+modelling
+repression
+lb
+plasmids
+600 nm
+distribution
+16 february 2006
+account
+experiments
+16 february 2006
+
+2
+variability
+noise
+behaviour
+biol
+insights
+bionets
+upstream
+prediction
+dividing
+work
+native
+primers
+mrna
+inducer
+region
+000 cells
+measured
+boston
+concentration
+autofluorescence
+fitted
+parameters
+predicted
+simple
+baseline
+schematic
+analysis
+arrest
+samples
+test
+measurements
+properties
+tetramer
+reducing
+function
+volume
+cells
+considered
+important
+time
+blue
+red
+predict
+university
+larger
+grown
+circles
+show
+cvs
+discrepancy
+capture
+adding
+repressed
+synthesis
+distributions
+division
+histograms
+figure 1
+figure 3
+figure 4
+bottom-
+fig
+sci
+savageau
+activated
+leads
+greenwood
+biophys
+supported
+finally
+indicating
+forward-scattering
+linked
+activation
+readout
+replication
+affect
+000 runs
+& ninfa
+proc
+stochasticity
+1f­
+young
+rev
+dimer
+dis
+2% glucose
+multimerization
+approximation
+basu
+phage
+implemented
+fact
+1 £ pbs
+experiment
+isalan
+& ehrenberg
+conduct
+3a
+guet
+contrast
+drastic
+bionets26
+degree
+-59 lutz
+ptrc99a
+change
+study
+myers
+e64
+york
+divide
+becskei
+absorbance
+addressed
+achievable
+establish
+kobayashi
+pgw7
+levine
+usa
+2department
+probabilities
+ozbudak
+estimated
+matlab
+iii
+carried
+paulsson
+bioengineering
+hsing
+rosenfeld
+attribute
+sample
+& maniatis
+allowed
+andersen
+4department
+tetr/
+divided
+chemical
+gardner
+reflect
+fits
+massachusetts 02215
+hasty
+discussion
+grossman
+developed
+20 minutes
+kramer
+blake
+chosen
+absence
+eventually
+good
+combination
+guido1*
+cantor1
+ensemble
+correspondence
+theory
+stopped
+denmark
+2l
+ptashne
+extended
+pjba111
+shown
+accomplish
+& elowitz
+npg
+lutz
+pbadhisa
+possibility
+approaches
+california
+initialize
+chen
+measurement
+r1
+thiberge
+mahreja
+conducted
+incorporated
+removing
+clontech
+1i­
+clts
+unexpected
+grady
+timothy
+atkinson
+leading
+grow
+1a
+1c
+1b
+1e
+1d
+pcr-amplified
+pcr
+tool
+& serrano
+toronto
+activator-
+strr
+surprisingly
+outcome
+treated
+kepler
+attributable
+elston4 &
+build
+begin
+altered
+decreasing
+insets
+& alon
+acknowledgements
+doi
+mississauga
+range 0
+/nature
+phenomenon
+`bottom
+charles
+seraphin
+thi-1
+based
+thattai
+inserted
+bujard28
+coefficients
+side-scattering
+spun
+biodynamics
+fritsch
+pharmacology
+means
+degradation
+usa 100
+approximately 0
+isopropyl-b-
+vol 439
+swain
+fixed
+-thiogalactopyranoside
+reveals
+sensitivity
+hooshangi
+sambrook
+result
+3359 mississauga
+adalsteinsson
+bacteriophage
+halved
+science 296
+science 297
+materials
+california 92093
+approach
+ability
+extend
+initially
+darpa
+suggested
+hours
+limits
+cox
+alon
+variance
+requests
+weiss
+additionally
+developement
+basis
+create
+validating
+reduction
+cell28
+expected
+´ becskei
+arises
+/reprintsandpermissions
+lacr/
+infect
+3department
+investigating
+taking
+collins1
+coupled
+develop
+embo
+independent
+nih
+investigated
+& fussenegger
+effect
+hysteresis
+tune
+supernatant
+center
+& bujard
+ultrasensitivity
+inability
+science 307
+& collins
+& arnold
+gfpmut3
+graded
+adjusted
+sources
+shape
+decrease
+siggia
+5institute
+mcmillen
+cantor
+affinity
+natl
+collected
+detrimental
+achieved
+atcc
+mol
+usa 102
+kaern
+3b­
+nsf
+qualitative
+inoculated 1
+continue
+plainview
+75 ml
+repressor-
+acad
+understood
+experimentation
+& elston
+provided
+lead
+communications
+& swain
+2b
+agreement
+paper
+& weiss
+output
+assemble
+stage
+comparison
+origins
+addition
+resuspended
+measure 50
+concentrations
+lacked
+considerations
+cambridge
+al
+6department
+www
+approximately
+statistics
+additional
+assumed
+specifically
+mutated
+stars
+offer
+removed
+made
+consequences
+frequency
+large27
+isaacs
+describe
+elowitz
+constructed
+compared
+lemerle
+& leibler
+details
+department
+mathematics
+picture
+generated
+massachusetts
+stratagene
+studied
+included
+kurtser
+pedraza
+fung
+4d
+4c
+4a
+15
+0
+000
+16
+867­ -870
+4
+101
+633­ -637
+47­ -84
+339­ -342
+868­ -871
+1203­ -1210
+6
+1992
+1997
+9517­ -9522
+1973
+597­ -607
+24
+1
+27
+21
+23
+28
+118­ -122
+023
+3116­ -3136
+590­ -593
+6355­ -6360
+81
+7714­ -7719
+29
+7
+20
+1183­ -1186
+1989
+10
+13
+12
+17
+19
+18
+1407­ -1470
+785­ -793
+323
+1­
+211­ -222
+8
+2528­ -2535
+11
+128
+2
+14
+3
+25
+26
+22
+2000
+34
+9
+31
+30
+3581­ -3586
+1965­ -1969
+&
+300
+1962­ -1965
+*
+841­ -847
+8414­ -8419
+5
+2005
+335­ -338
+2002
+2003
+2001
+2004
+69­ -73

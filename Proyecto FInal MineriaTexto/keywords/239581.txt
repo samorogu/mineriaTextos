@@ -1,0 +1,316 @@
+Biophysical
+responsible
+two-dimensional
+Srinivasan
+Similarly
+transmitting
+nucleotide-dependent
+cost-effective
+nucleotide-pockets
+rigorlike structure
+nucleotidepocket
+minimizing
+Two-dimensional clustering
+paramagnetic resonance
+parameterization
+significant structural
+existence
+alternative
+Molecular
+compatible
+Conformational
+1GOJBiophysical
+nucleotidebinding
+following conformational
+Resulting
+catalytic
+Meanwhile
+microtubule
+interesting
+DISCUSSION
+characterization
+actin-induced nucleotide
+environment
+force-generating
+treatment
+Although
+relevance
+coordinated
+consideration
+structural
+cryo-microscopy
+transformation
+mechanistic
+elastic-network
+Szent-Gyorgyi
+Fletterick
+ADP-bound
+deforming
+widely-hypothesized
+irreversible
+rate-limiting
+activation
+translations
+comparing functional
+framework
+increases
+a3-L9-a3a
+principal component
+different functional
+coordinating
+distortion
+Accompanied
+difference
+strong-binding
+rigid-body
+eigenvalue
+subdomain
+Argopecten
+Structure
+Calculation
+force-generation mechanism
+collective
+near-rigor structure
+neck-linker
+identified
+two-dimensional coordinate
+transmission
+microtubule-binding
+power-stroke generation
+reasonable
+comparable amplitude
+Identification
+difficult
+force-generation
+essential
+subsystem
+real-scale
+converter/lever
+residueto-residue comparison
+DNA-dependent
+loop-helixloop
+myosin-II
+consistent
+MG-AMPPCP
+displacement
+nucleotide-pocket conformational
+Application
+frequency
+strongbinding
+kinesin/myosin structures
+Opening/closing
+g-phosphate
+Structures
+single-parameter
+transport
+tremendous challenge
+describing
+Justification
+enlightening
+INTRODUCTION
+falciparum Dictyostelium
+microtubulebinding-activated
+dynamical correlations
+nucleotide-pocket deformation
+availability
+biomolecular
+root-mean-square fluctuation
+near-rigor/detached
+projecting
+identification
+seven-stranded
+rigorlike
+nucleotide-pocket
+weak-binding transition
+structural similarity
+multidomain
+kinesin-ADP
+b5a-L8-b5b
+available
+I/switch
+Switch-based mechanism
+Dynamical
+myosin/kinesin structure
+nucleotide hydrolysis
+Anisotropy
+N-terminal
+represent collective
+conformation
+significant movements
+quasiharmonic
+off-diagonal
+homologous
+AMPÁPCP
+Corresponding
+configuration
+Quasiharmonic
+METHODS
+comparison
+near-rigor
+Computational
+nucleotide-binding
+main-chain
+inexpensive
+weak-binding
+kinesin-ATP
+controversy
+disengage
+connection
+ATP-bound
+Nucleotide-Pocket
+Neurospora
+pocketmode
+motorprotein
+Laboratory
+Systematic
+complimentary
+Conversely
+best-studied
+plausible dynamical
+crystallographic
+actin-binding
+computational
+projection
+classification
+closing/opening
+individual conformational
+requiring
+nonharmonic
+interdomain conformational
+nucleotide-pocket conformation
+appropriate
+REFERENCES
+Therefore
+ADP-MG-ALFX
+functional mechanisms
+orientation
+nucleotide-pocket Principal
+Plasmodium falciparum
+Minehardt
+Motivated
+publication
+energetic
+simplification
+comparative dynamical
+twodimensional
+disparity
+ADP-state
+comparing
+quadratic
+downloadable
+pocket-mode
+large-scale structural
+actomyosin
+structures
+Furthermore
+low-frequency
+Comparison
+flexibility
+conformational
+pocket-modes
+Hamiltonian
+actinbinding
+Interestingly
+grayscale
+covariance
+Submitted
+diagonalization
+row/column
+microtubules
+particular
+translation
+elastic-interactions-based description
+irrelevant
+neighboring
+clarifying
+sffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+converter
+reference structure
+characteristic
+mode-specific
+structural displacement
+normal-modes
+deformation
+hydrolysis
+long-range
+phosphate
+Simplified
+amplitude
+interaction
+following
+bending/twisting
+enhanced/
+eigenvector
+single-domain
+Information
+transition
+secondary structure
+low-energy
+fluctuation
+ABSTRACT
+opening/closing
+N-terminal subdomain
+Nucleotide-dependent movements
+conserved
+fluctuating
+power-stroke
+C-terminal
+restraining
+corresponding
+norvegicus
+loop-switch
+myosin-ADP
+kinesin-family
+pseudo-b-hairpin
+information
+different
+oversimplification
+arrowhead
+ENM-based
+efficient
+different force-generation
+mechanism
+Historically
+simultaneous
+functionality
+Drosophila melanogaster
+limitation
+Dictyostelium discoideum
+Ubiquitous
+different conformation
+downward/upward
+Eschenburg
+description
+structural alignment
+mobility/flexibility
+Institute
+correlation
+docking/undocking
+homologous nucleotide-binding
+promising alternative
+important
+Structural mechanism
+preliminary
+well-clustered
+a4-L12-a5
+hinge/bending
+nucleotide
+structure
+Full-scale molecular
+individual
+observation
+effective
+structural comparison
+Physically
+Nucleotide-Binding
+Consistent
+partition
+pre-power-stroke
+large-scale
+qualitative
+coordinate root-mean-square
+temperature
+mechanical
+representation
+resolution
+Principal

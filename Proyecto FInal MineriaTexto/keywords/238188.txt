@@ -1,0 +1,514 @@
+KIAA0259
+desirable
+Hemagglutinin Interferon
+computation
+conceptual translation
+significant alignments
+relationships
+`two-hit
+Fleischmann
+lowest-scoring alignment
+D90904a
+analogous
+TRIGGERING
+divergent
+Schneider
+belonging
+advantage
+frequencies
+KIAA0170
+length-W
+anonymous
+automatic operation
+difference
+condition
+applicable
+trypanosome
+biological
+inspection
+construct pseudocount
+PSIBLAST
+theoretical foundation
+approximation
+non-overlapping length-3
+REFERENCES
+rigorous
+algorithmic
+bacterial
+implemented
+inaccurate
+non-redundant
+mutational
+sum-statistics
+Rad4/Cut5
+experiment
+Padmanabhan
+straightforward sequence­sequence
+Schmitter
+Realignment
+significant alignment
+GENERATION
+respectively
+T-antigen
+operating
+performance evaluation
+directions
+Computational
+zebrafish ortholog
+log-odds
+Intuitively
+`threshold
+Ainscough
+requiring
+goodness-of-fit
+Dirichlet
+dehydrogenase Histocompatibility
+analyzing
+previously recognized
+experimentation
+confidence
+Mitchison
+`original
+alignment construction
+examination
+assistance
+introducing
+nonredundant
+Sjölander
+TWO-HIT
+arbitrary position-specific
+BLOSUM-62 substitution
+reasonable accuracy
+normalized
+particular
+producing
+Addison-Wesley
+modified
+confining
+inhibitor
+ALIGNMENTS
+2Department
+calculation
+pseudocount frequencies
+purposes
+performed
+Thompson
+PSI-BLAST
+Cytochrome
+information
+respective
+shuffled
+realignment procedure
+criterion
+PERFORMANCE EVALUATION
+absolute
+intelligent
+simplicity
+Overlooking
+YGR103w
+Virology
+sacrifice
+demanding
+Haussler
+explored
+meaningful
+Siprashvili
+leghemoglobin
+effective
+Efficient execution
+explicit
+correspond
+C-terminal
+synthase
+position-specific
+Rawlings
+triggering
+Interesting
+statistical
+existence
+inappropriate inclusion
+exclusion
+interesting
+embryonic development
+PSI-BLAST PSI-BLAST
+fruitful
+estimating
+automatic iteration
+correspondence
+combination
+Challenge
+Iteration
+galactose-1-phosphate uridylyltransferase
+BLOSUM-62
+significant similarity
+histidine
+structural
+STATISTICAL PRELIMINARIES
+parameter
+Hasegawa
+Smith­Waterman algorithm
+biological database
+weighted
+Pescadillo
+generation
+Hoppe-Seyler
+produced beforehand
+Spillman
+YHR154w
+frequency
+single-hit
+histocompatibility
+operation
+predefined
+SWISS-PROT accession
+Haemophilus influenzae
+multi-stage
+POSITION-SPECIFIC
+length-567 influenza
+musculus
+Erickson
+University
+diagonal
+possibility
+standard
+difficulty
+MATRICES Database
+collection
+PSI-BLAST EXAMPLES
+detecting
+Eisenberg
+beginning
+definition
+independent sequences
+programming
+identical shuffled-database
+signature
+typical-length
+1Laboratory
+probability
+researcher
+shuffled sequences
+Gribskov
+instances
+Accordingly
+Apweiler
+Bethesda
+SWISS-PROT annotation
+Theoretical
+three-dimensional
+Glutathione transferase
+DNA-ligase
+construct
+adenovirus
+Yaegashi
+hypothetical
+Callebaut
+molecular
+P4-tetraphosphate phosphorylase
+constituent
+Trypanosoma
+synthase Normalized
+Employing
+domestica
+scotoductus Drosophila
+data-dependent pseudocount
+database
+iteration
+preparation
+Alejandro
+high-scoring
+Methanococcus jannaschii
+interactive
+collecting
+Multiple alignment
+unchanged
+generalization
+Empirically
+substantial
+programming algorithms
+Waterston
+convenient
+emphasis
+potential
+retinoblastoma
+high-scoring alignments
+accuracy
+multiple
+iteration PSI-BLAST
+Altschul
+incorrect classification
+extending
+Harshman
+extension Ungapped
+successive
+detecting alignments
+observation
+hit-processing component
+ungapped alignments
+traditional
+CONSTRUCTION
+LM05110
+databases
+Amsterdam
+Robinson
+specification
+Research
+calculable
+participate
+Biotechnology Information
+PSI-BLAST programs
+TcEST030c
+knowledge
+implementation
+DISCUSSION
+analytic
+Position-Specific
+Tavtigian
+Preliminary
+`reduced
+`high-scoring
+conjunction
+significant sequences
+superfamily
+sensitive position-specific
+Washington
+statistical assessment
+architecture
+Threlfall
+DNA­DNA comparison
+constructing
+reference
+sensitivity
+Specifically
+Schmidheini
+Gaasterland
+McLachlan
+Caenorhabditis
+subsequent
+artificial
+Ishikawa
+International Conference
+PiPjelusij
+important similarities
+boundary
+Ungapped extensions
+approach
+available
+threshold parameter
+Hartzell
+REFINEMENT
+hypothesis
+length-11
+band-width parameter
+N-terminal
+prescription
+frequency estimation
+non-overlapping
+sensitive
+Computer
+estimation
+experimental
+complicate estimating
+specific similarity
+hit-stage
+represented
+applicability
+sequences
+higher-scoring
+Hernandez
+aligning
+damage-responsive
+reasonable sensitivity
+different information
+Cotticelli
+prototype
+ABSTRACT
+generating
+corresponding
+ALGORITHM
+Pennsylvania
+sufficient
+PSI-BLAST iteration
+evolving multiple
+representative
+Richardson
+ungapped extensions
+Shattuck-Eidens
+exception
+empirical
+optimization
+ITERATED APPLICATION
+Overhead
+procedure
+Sarcophaga peregrina
+Furthermore
+expending
+discrepancy
+arbitrary pseudocount
+INTRODUCTION Variations
+alignment algorithm
+Intelligent
+interesting similarities
+containing
+PSI-BLAST extension
+Schäffer1
+Sonnhammer
+lowest-scoring alignments
+drawback
+Blanquet
+ungapped extension
+composition
+definitional
+independent
+statistical evaluation
+Macromolecules
+pseudocount parameter
+position-specific iteration
+SWISSPROT accession
+algorithm necessary
+Henikoff
+Position-specific
+aggregate
+positives
+Synechocystis
+full-scale database
+programs
+shuffled database
+alignment variability
+analysis
+hemagglutinin precursor
+multiple alignment
+coordinate
+organization
+Needleman
+dimension
+CONCLUSION
+500-residue low-complexity
+alternative
+Molecular
+C-terminus
+heuristic
+position-specific substitution
+similarities
+character
+heuristic approach
+identical
+Bonfield
+Unfortunately
+possible
+Kawakami
+Algorithms
+background
+execution
+disadvantage
+biological relevance
+necessary
+Schwartz
+equal-length
+performing
+FitzGerald
+altschul
+matrix-sequence alignments
+Miyajima
+transferase H+-transporting
+alignments
+essential
+highest-scoring length-11
+SWISS-PROT database
+producing alignments
+Arabidopsis
+Unrelated sequences
+alignments produced
+recognition
+describing
+Hirosawa
+Accepted
+ADP-ribose
+different programs
+comparing database
+near-significant
+selecting
+equivalent
+processing
+agreement
+Dilworth
+Proceedings
+Huylebroeck
+substitution
+comparison
+SWISS-PROT sequences
+extension
+Heidenreich
+recognized
+simulation
+dependency
+extensions
+Subsequent PSI-BLAST
+processor
+automatically
+computational
+inclusion
+previously
+YGR103w Pescadilloa
+appropriate diagonal
+involvement
+inverting
+ortholog YGR103w
+proportional
+isoleucine
+Nakamura
+intervention
+statistics
+additional
+approximate
+Sasamoto
+Tokunaga
+Verhoeyen
+coiled-coil
+triggered
+identical sequences
+sophisticated
+construction
+Research Institute
+Original
+eschewing position-specific
+Research Foundation
+database sequences
+Engineering
+distribution
+Braunitzer
+edge-effect correction
+contribute
+significant similarities
+diverged
+statistical significance
+constructed
+incorrect
+Calculating
+leftward
+Drosophila melanogaster
+Gottesman
+PositionSpecific
+Structure
+conclusion
+qij/PiPj
+KIAA0259a
+calculating
+Rajandream
+comparable sensitivity
+N-terminus
+important
+seed-selection heuristic
+structure
+STATISTICAL EVALUATION
+delineation
+algorithm
+Sequence
+different heuristic
+Kawarabayasi
+Ehrenfeucht
+tradeoff
+directory
+Biomedical Research
+backward
+Brinkman

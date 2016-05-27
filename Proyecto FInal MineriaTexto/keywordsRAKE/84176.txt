@@ -1,0 +1,934 @@
+asymmetric three-component ferroelectric superlattices
+ho nyung lee
+lowndes
+condensed matter sciences division
+fractal growth phenomena 2nd edn
+scale-free degree distribution persist irrespectively
+paraelectric matrix remain ferroelectric
+/nature
+
+© 2005 nature publishing group
+
+letters
+high-vacuum molecular beam epitaxy5
+produce striking property enhancements
+obtaining atomically sharp interfaces
+wit integrated-pathway genome database19
+high-throughput genome sequence analysis
+comparatively high-pressure processes needed
+protein­protein interactions found
+high-pressure pulsed laser deposition
+electrically conducting oxide substrates
+oak ridge national laboratory
+protein­protein interaction networks
+atomically flat strontium ruthenate
+atomically flat surface terraces
+393
+
+© 2005 nature publishing group
+
+letters
+complex networks
+´ chaoming song1
+electrically conducting srruo3 electrodes
+þ2g
+0 0
+
+ð7þ
+
+figure 2d supports
+ð9þ
+
+© 2005 nature publishing group
+
+nature
+similarly grown pure batio3
+expected resulting physical properties
+molecular beam epitaxy
+pulsed laser deposition
+395
+
+© 2005 nature publishing group
+fundamental length-scale invariant property
+atomically abrupt interfaces
+excellent ferroelectric behaviour
+compositionally abrupt interfaces
+atomically smooth surfaces
+yielding as-grown samples
+averaging techniques lead
+solid lines represent
+studied extensively owing
+competing financial interests
+well-prepared single-stepped substrates4­7
+perovskite-type metal oxides
+makse1
+levich institute
+nucleic acids res
+shlomo havlin2 & hernan
+biochemical pathways based
+nucleic acid res
+competing interests statement
+local asymmetries play
+highly modular manner
+national science foundation
+/nature
+
+theoretical predictions--motivated
+fabricate superlattices consisting
+disordered systems ch
+correct oxide stoichiometry
+naturally occurring networks
+complex behaviour arising
+maintain oxygen stoichiometry
+high-pressure pld technique
+combining heterointerfacial couplings
+common self-organization dynamics
+usa 2 minerva center
+encouraged theoretical investigations
+specific interface structure
+complex networks unveils
+fractal percolation cluster
+proper covering procedure
+wwwand actor networks
+underlying length-scaleinvariant topology
+lower panel shows
+statistical physics approach
+upper panel shows
+preserving full strain
+cellular networks compiled
+nodes increases exponentially
+world wide web
+figure 1a illustrates
+israel science foundation
+individual perovskite layers
+supplementary information accompanies
+highly connected hubs--
+fractal cluster dimension
+real complex networks
+complex networks arises
+dissimilar complex networks
+fewer links exist
+unrenormalized network exhibits
+complex inhomogeneous networks
+finite self-similar exponent
+scale-free degree distribution
+/nature
+
+box sizes
+cluster growing method
+strong polarization enhancement
+2nd edn
+minimum distance smaller
+broad degree distribution
+narrow degree distribution
+power-law relation exists
+fixed box size
+self-similar
+
+complex networks
+homogeneous network characterized
+schematic network composed
+asymmetric properties
+renormalization scheme applied
+superlattice global polarization
+nature
+network embedded
+complex small-world networks
+power-law relation expected
+three-component superlattices3
+linear size lb
+randomly chosen nodes
+scale-free properties characterized
+atomically flat
+network demonstration depicted
+renormalized network versus
+ferroelectric polarization
+scale-invariant renormalization procedure
+figure 2 self-similar scaling
+biased average leads
+oak ridge
+small-world effect equation
+small families represented
+protein networks
+renormalization procedure applied
+/nature
+
+letters
+fundamental property
+box size lb
+oxygen stoichiometry
+oxide superlattices
+fractal dimension
+surface quality
+controlled deposition
+physical binding
+strontium titanate
+conducting-film electrodes
+flat average
+length-scale transformation
+degree distribution
+percolation cluster
+complex systems
+real systems
+complex networks
+real networks
+fundamental properties
+collective behaviour
+oxide heterostructures
+degree exponent
+oxide heterostructures12­15
+actor networks
+inhomogeneous networks
+`small world
+scale-invariant properties
+complex networks6
+complex networks--augmenting
+principal technique
+statistical mechanics
+hierarchical sizes
+insight arises
+individual layers--remains
+underlying mechanism
+common features
+collective dynamics
+minimum distance
+cellular networks
+exponential growth
+growth mechanisms
+scale-free networks
+peaked distribution
+probability distribution
+log-normal distribution
+world scientific
+scale-invariant topology
+supplementary information
+schematic network
+self-similar properties
+small masses
+metabolic networks
+power-law distribution
+desired properties
+scalefree properties
+selfsimilar properties
+large degree
+unrenormalized network
+dissimilar materials
+actor network
+1a shows
+symbol size
+resulting number
+procedure applied
+degree distributions
+self-similar exponents
+self-similar exponent
+network properties
+social networks
+empirical studies
+distance metric
+powerful tool
+apparent contradiction
+interacting proteins16
+fully maintained
+widely believed
+fourth columns
+shortest distance
+largest degree--implying
+multiple renormalizations
+conclusion originates
+authors declare
+mathematically expressed
+layer-by-layer control
+energy landscapes
+epitaxial engineering--
+bar-ilan university
+graphtheoretical representation
+metabolic reconstruction
+combined thicknesses
+characteristic length
+strained structures--
+direct measurements
+stilllimited understanding
+error bars
+recent advances
+global tiling
+lengthscale transformation
+city college
+barium titanate
+unexpected role
+diverse networks1­4
+polarization enhancement
+similar subjects
+scale transformation
+molecules interact
+world-wide web
+large-scale organization
+average exponent
+makse@mailaps
+colours red
+exponential fit
+formidable task
+shed light
+deeper understanding
+renormalized network
+critical exponents
+ramat gan 52900
+biased sampling
+euclidean space
+examples exhibit
+729 web pages
+previously determined
+average distance
+rouleau & douglas
+log-log plot
+accepted 30 november 2004
+atomic-scale control
+general understanding
+experimental realization
+data collapse
+electrical characterization
+artificial materials1­3
+calcium titanate
+cell alive
+powerlaw relation
+nominally nonferroelectric
+equal probability
+caenorhabditis elegans18
+colours correspond
+scale-free nature
+box dimension
+smaller number
+biological networks
+nodes depicted
+boxes covering
+power-law relationships
+power-law fit
+power-law relation
+box size
+self-similar structure
+resulting clusters
+biased nature
+connectivity distribution
+figure 2a
+small-world problem
+entire network
+single-unit-cell layers
+batio3 thickness
+original network
+renormalization procedure
+social networks10
+social networks1­5
+strain enhancement
+boxes needed
+boxcovering method
+clustergrowing method
+box-covering method
+effective method
+networks analysed
+random networks
+unrenormalized boxes
+scaling factor
+full database
+scaling transformation
+scaling law
+scaling exponents
+small number
+cluster mass
+materials theory
+exponential increase
+biological nets
+average obtained
+inset shows
+1b shows
+batio3 layers
+www composed
+social network
+network structure
+large probability
+box-counting method
+2 versus lb
+versus lb
+renormalized nodes
+km bl
+km cl
+cluster-growing method
+data reveal
+length scales
+eds bunde
+physics department
+< ldf
+14
+
+ð4þ
+
+defining
+< el=l0
+
+
+ð1þ
+cambridge univ
+interacting proteins
+node typically
+attention recently
+single node
+random graphs
+archaeoglobus fulgidus
+selfrepeating patterns
+oxford univ
+received 4 august
+< elb =l1 ð6þ
+topologies dominated
+maximum number
+total number
+smallest number
+size lb
+average `mass
+homo sapiens
+interconnected nodes
+nodes centred
+total nodes
+constituent nodes
+single boxes
+direct calculation
+¼ 1 þ db =dk ð10þ
+siam rev
+average diameter
+part iv
+single-unit-cell steps
+column depicts
+url link
+ðlb þ < l2dk
+ðlb þ < ldb
+recently shown
+internet topology
+integrated system
+comparing equations
+box mass
+self-similarity requires
+srtio3 layers
+conditions equation
+escherichia coli
+entire www
+network shown
+large number
+matter
+seed node
+conducting
+letters
+nodes separated
+seed nodes
+340 actors linked
+/nature
+property
+expected
+instance lb ¼ 3
+sapiens pins
+equation defines
+superlattices
+srruo3
+wit
+interactions
+sequence
+growth
+392
+
+figure 1
+figure 3
+science 286
+panel
+networks
+cluster
+polarization
+shows
+size
+`size
+scale-free
+`scale-free
+procedure
+self-similar
+leads
+represented
+narrow
+superlattice
+usa
+israel
+strain
+chosen
+2d
+characterized
+1a
+distance
+demonstration
+investigations
+physics
+relation
+exponent
+topology
+applied
+web
+average
+broad
+biased
+pld
+combining
+power-law
+nature 407
+nature 401
+nature 393
+nature
+layers
+`small-world
+network
+batio3
+small-world
+`box-counting
+social
+enhancement
+50% enhancement
+structure
+method
+box
+`cluster-growing
+renormalization
+scaling
+increase
+biological
+materials
+obtained
+families
+large
+grown
+km
+random
+oxford
+separated
+l1 < 0
+connectivity
+cambridge
+defining
+1b
+2a
+l0
+946 proteins
+dominated
+seed
+analysed
+reveal
+invariant
+attention
+received
+defines
+patterns
+scales
+429 proteins
+bunde
+fulgidus
+tiling
+distributions
+actors
+department
+node
+inset
+number
+mass
+nodes
+2 nodes
+sapiens
+boxes
+srtio3
+diameter
+`diameter
+calculation
+rev
+part
+dk ¼
+linked
+instance
+connected
+dk 0
+steps
+column
+link
+lb
+lb ¼ 4
+lb ¼ 2
+lb ¼ 3
+ðlb þ
+shown
+pins
+internet
+equations
+system
+clusters
+database
+links
+self-similarity
+equation
+coli
+www
+concept
+sci
+results
+grateful
+row
+calculate
+attracted
+supported
+neighbours
+include
+synthesizing
+27 january 2005
+rise
+springer
+overbeek
+plotting
+eur
+math
+node1
+renormalizing
+challenge
+elegans
+qualitatively
+bacteria
+archaea
+blue
+psychol
+pastor-satorras
+coarsegrains
+3b
+3a
+contrast
+revealing
+led
+coarse-graining
+separation
+path
+legend
+logarithmic
+search
+study
+larger
+amount
+khttp
+plotted
+explained
+plenum
+replace
+addressed
+apply
+43 species
+wealth
+commun
+predictions
+eukarya
+advance
+watts
+validity
+cases
+analogous
+amaral
+work
+values
+root
+regularly
+significance
+tile
+explains
+network8­11
+derived
+catio3
+inst
+& vespignani
+criticality12
+film15
+stability
+including
+existence
+matthew
+fix
+1038/nature03248
+degrees
+fig
+orange
+covered
+correspondence
+half
+communities
+discuss
+framework
+by14
+2c
+address
+& strogatz
+referred
+´ acknowledgements
+g21n
+related
+challenges
+approximated
+< lnn
+/igwit
+surprise
+ref
+brujic
+possibility
+york
+org
+publ
+dip
+//igweb
+demonstrating
+hans
+long
+onr
+12gn 0
+barabasi
+hindered
+white
+hub
+albert
+chisholm
+accordance
+contrary
+elaborate
+providing
+academic
+-
+indexes
+empirically
+reach
+mimics
+definitions
+& havlin
+calculated
+deliberate
+order
+subsequent
+milgram
+& albert
+york 10031
+fitted
+insulators
+show
+probe
+curves
+find
+slow
+explain
+unravel
+christopher
+words
+combinations
+evolution
+substrate
+integratedgenomics
+yield
+paper
+london
+method13
+set
+achieved
+result
+discussions
+fractals
+jeong
+panels
+case
+strain1
+vol 433
+//www
+discovery
+& faloutsos
+< l2db
+importance
+unfold
+demonstrate
+hundreds
+enables
+dorogovtsev
+range 2
+regarded
+faloutsos
+christen
+groups
+conclude
+corresponds
+iterations
+reconcile
+create
+ucla
+& ottino
+neighbour
+understand
+assigning
+aim
+cast
+hubs
+& renyi
+discoveries
+surprisingly
+tennessee 37831
+confirmed
+suggest
+belong
+respectively1
+difficult
+http
+singapore
+hand
+invariance
+requests
+newman
+colour
+xenarios
+obtain
+press
+identify
+þ < k2g ð2þ
+comput
+corroborated
+exceed
+relevance
+heidelberg
+showing
+crux
+doe-mbi
+emergence
+mod
+replacing
+performing
+hung
+reduced
+acad
+classical
+choosing
+respect
+provided
+so-called `
+feder
+confirm
+/
+demonstrated
+2b
+equivalent
+shortage
+step
+relating
+discussed
+page
+bollobas
+¼ np
+today 2
+tombor
+& mendes
+support
+oltvai
+question
+//dip
+function
+analyse
+another6
+overrepresented
+repeated
+doi
+vicsek
+consist
+stages
+pin
+defined
+cover
+al
+erdos
+fabricating
+variety
+detail
+application
+valid
+phys
+implies
+`smallworld
+& barabasi
+websites
+equivalently
+fact
+edul
+289­291
+0
+147­162
+1992
+167­256
+38
+ð
+6
+8
+1996
+1999
+1998
+440­442
+1
+´ 15
+¼ 6
+¼ 5
+¼ 3
+¼ 2
+22
+28
+29
+0
+
+ð8þ
+ð5þ
+´ 6
+392
+394
+0 ¼
+7
+¼
+0 ð
+0 þ
+´ 18
+2
+þ < ð
+11
+12
+14
+17
+19
+18
+ð3þ
+1967
+325
+=
+74
+78
+651­654
+¼ 4
+10
+13
+¼ 1
+16
+17­61
+3
+130­131
+2000
+´ ¨ 8
+47­97
+123­125
+9
+509­512
+251­262
+þ
+60­67
+1960
+þ <
+4
+5
+2003
+0 þ ¼
+1985
+´ 1
+1988
+´ 9
+45
+8­10
+2002
+2004

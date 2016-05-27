@@ -1,0 +1,254 @@
+evolutionary
+feedback
+diffusible
+homogeneity
+multicellular
+chemotaxis conditions
+behavioural
+Non-methylated receptors
+bacterial signalling
+Supplementary Information
+Eisenbach
+receptor-associated
+phosphotransfer
+isopropyl
+physiological
+polycistronic messenger
+proportion
+topological
+LETTERS NATURE|Vol
+environment
+Correspondence
+phosphorylated receptors
+stochastic
+analogous
+Acknowledgements
+methylated receptors
+quantitative understanding
+Simulated
+identical
+cheY­eyfp
+Furthermore
+flagellar
+Temperature-induced switching
+activation
+degradation
+population therefore
+sensitivity
+phosphodonor
+bacterial flagellar
+LETTERS Reflecting
+Schulmeister
+steepness
+intracellular perturbations
+uncorrelated variations
+Intrinsic
+differential
+Functional
+phosphorylation
+Escherichia
+dynamical behaviour
+arbitrary
+Neuenheimer
+dominating
+stationary
+essential
+co-variation
+adaptation
+mathematical
+coefficient
+ribosome-binding
+CellQuest
+hypothetical chemotaxis
+mathematical modelling
+robustness
+consistent
+generation timescale
+wild-type chemotaxis
+Clockwise
+Engineering stability
+derivative
+intensity
+individual
+morphogen
+concerted variations
+invariant
+phosphoacceptor
+uncorrelated
+recognition
+regulator
+different phosphorylation
+CheY­YFP expression
+NATURE|Vol
+-inducible
+intrinsic robustness
+optimization
+Optimality
+phosphatase
+chemotactic behaviour
+compensatory mechanism
+model-based
+conditions
+intercellular variations
+chemotaxis-driven spreading
+clustering
+processing
+attractant
+Michaelis­Menten
+University
+adaptation3,4
+expansion
+behaviour
+Hamamatsu
+selective
+near-perfect
+demonstrate
+stochasticity
+fluorescent
+logarithmic
+comparison
+CheY­CheZ feedback
+coverslip
+Michaelis­
+autophosphorylation
+September
+chemotactic
+cytosolic chemotaxis
+eukaryotic
+asymmetric distribution
+Quantification
+Applichem
+Universitat
+consequence
+transcription inhibitor
+contribution
+financial
+expression
+Intercellular variations
+experimental
+Gillespie
+post-transcriptional
+cheA­ecfp
+probability
+receptors
+Bechinger
+two-state
+independent variations
+chemotactic signalling
+established chemotaxis
+translational
+wild-type
+Dahlquist
+Fluctuations
+clockwise
+Panasonic AG-DV1DC
+bacterial chemotaxis
+manuscript
+Diversity
+additional
+Localization
+equivalent
+extrinsic
+available
+Timmer1,3
+construct
+comparing
+regulation
+Concerted overexpression
+methylesterase
+non-essential
+Drosophila embryonic
+theoretical
+homologous recombination
+significant co-variation
+Kollmann1
+deterministic description
+imperfect
+phosphorylation feedback
+continuous
+chromosomal
+chemotatic efficiency
+chemotaxis efficiency
+determination
+particular
+METHODS Bacterial
+Concerted variations
+Expression
+single-cell
+population
+Rosenfeld
+substituting auto-dephosphorylation
+fluorescence microscope
+methylation
+phosphorylated
+Supplementary
+technical
+phosphate
+amplitude
+different chemotaxis
+biochemical
+monitoring
+Panasonic
+chemotatic performance
+transcriptional
+Publishing
+Topologies
+universal
+reduction
+one-third
+Correlation
+-thiogalactoside
+Regulation
+undergone evolution
+Morton-Firth
+Stochastic
+input­output characteristics
+corresponding
+concentration
+chemotactic performance
+Heidelberg
+chromosome
+transduction
+information
+overexpressing
+LETTERS
+Description
+transcription
+cytometry
+Visometrics
+Chemotaxis efficiency
+Efficient attenuation
+simultaneous upregulation
+different hypothetical
+CheZ­CFP
+impairment
+conclusion
+development
+independent
+Therefore
+developmental
+dephosphorylation
+bacterial chemosensory
+CheY­YFP
+Robustness
+extending
+steady-state
+anti-sigma
+Biological
+invariance
+concentrations
+structure
+chemoeffector
+observation
+fluorescence
+wild-type concentration
+CheA­CFP
+methyltransferase
+Multi-stage regulation
+covarying
+components
+correlation
+ultrasensitive bacterial
+Bartholome1
+Contributions
+superscript

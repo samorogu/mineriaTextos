@@ -1,0 +1,13 @@
+templates
+rmsd
+models
+tasser
+j
+proteins
+126997txt
+master
+samorogu
+protein
+alignments
+structure
+native

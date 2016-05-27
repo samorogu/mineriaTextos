@@ -1,0 +1,476 @@
+Interpreting mammalian
+low-redundancy comparative
+DNaseI-hypersensitive
+Department
+neusimian comparison
+additional mammalian
+biological similarity
+technique
+human­tetraodon
+resolution/sensitivity
+mismatch frequency
+whole-genome comparative
+analogous
+divergent
+colodensity
+lowest-P-value
+human­fugu conserved
+Oda-Ishii
+identified human­mouse­rat
+experimentally
+prominent benchmark
+human­mouse­fugu
+human­rodent sequences
+Characterization
+convenience
+Remarkably
+neighborhood
+whole-genome human­rodent
+consistent
+high-sensitivity identification
+nonpromoter
+human­mouse­zebrafish
+embryvalue
+funnel-like
+detecting cis-regulatory
+experimental definition
+alignment accuracy
+Callaway
+funcextreme
+time-consuming
+trueering
+Supplemental
+human­mouse­chicken
+homology
+eutherian
+divergence
+significant conserved
+log-odds mismatch
+Shoukry,1
+Published
+benchmark functional
+chromoous eutherian
+Distribution
+Computational
+experience
+developmental vertebrates
+Berkeley-PGA
+human­mouse­rat
+multiple-eutherian comparison
+substitution
+intergenic conserved
+conservative approach
+straightforward application
+candidate cis-regulatory
+Evaluation
+HMR/G/X/F
+Halocynthia
+Corresponding
+nonexonic
+benchmark elecomparison
+corresponding mammalian
+assessment
+theoretical
+C10orf11
+Downloaded
+Additionally
+considerable variation
+benchmark
+distinguisha
+Ovcharenko
+marsupial
+abundance
+uncharacterized
+mammalian
+Conserved
+Christoffels
+computational predictions
+alignments generated
+subregion
+distinguishable
+productive
+tetraodon
+Nothwang
+experimental validation
+human­mouse­tetraodon
+dissimian comparisons
+embryonic enhancers
+circular
+Pennacchio1,2,4
+secmouse­rat­dog
+ond-largest
+cis-regulatory
+SPrabhakar
+Excessive
+effective
+conservation P-values
+extrapolation
+conserved human­rodent
+pre-mRNA
+hedgehog
+statistical analySupplemental
+prioritizing
+evolutionary
+feedback
+Donaldson
+non-coding
+Manzanares
+pre-eminent
+Prabhakar
+distinguishing
+categories
+detecting functional
+DEAC02-05CH11231
+criterion
+correspondence
+sensitivity­specificity tradeoff
+comparable truepositive
+Alternatively
+noncoding sequences
+Couronne,1,2
+Gomez-Skarmeta
+human­fish noncoding
+human­mouse­
+hsp68-lacZ
+identified
+wellthough
+breakFigure
+Pennacchio
+conserved enhancers
+adtutions/site
+Blanchette
+computational algorithm
+dichotomy
+Venkatesh
+noncoding conservation
+identified enhancers
+conserved non-coding
+shadowing
+marfunnel principle
+developnonmammalian conservation
+homologue
+higher-level functional
+fellowship
+evaluation
+transcription-factor
+top-scoring human­rodent
+Supplerodent
+whole-genome meta-analysis
+University
+candidate enhancers
+-regulatory
+transcriptional enhancers
+possibility
+human­mouse­fish
+characterizaancient
+regulatory
+likelihood
+conserved intergenic
+September
+Phylogenetic shadowing
+Karlin-Altschul statistics
+aforementioned developmental
+tissue-specific expression
+RankVISTA
+human­zebrafish
+HL066681
+human­rodent alignment
+lowest-scoring
+benchmarking
+human­mouse­rat conservation
+predictive
+powerful
+Batzoglou
+achieving generality
+publication
+obtainable
+introduction
+ultra-conserved
+assumption
+compromise
+benchmark statistical
+inwhole-genome
+molecular
+whole-genome human­mouse­fish
+truemarked
+overlapping nonmammalian
+computational approach
+representing
+eleutherian comparison
+comparison identiquence
+functional sequences
+References
+long-range cis-regulatory
+non-fish
+top-ranked
+following three-way
+evolutionary distances
+different embryonic
+human­fish conservation
+gene-poor
+reproducible embryonic
+Development
+Lindblad-Toh
+transcription
+mechanism
+potential
+embryonic expression
+explanation
+whole-genome sequencing
+evaporate
+evolutionary constraint
+identifying candidate
+comparisons
+true-positive
+extensive computational
+Consistent
+subclassification
+amphibian
+principle
+developmental transcriptional
+selection
+above-described
+pertional noncoding
+Alexander Poliakov
+anatomical structure
+threshold
+availability
+whole-genome noncoding
+human­fish comparative
+telomeric
+tissuespecific expression
+Mammalian
+mouse­chicken
+-galacindeed
+aforementioned
+expression pathuman-genome
+Pre-computed wholegenome
+evolution
+prioritizing human­rodent
+block-like structure
+candidate embryonic
+transgenic
+functional assessment
+Exploiting human­fish
+conserved noncoding
+embryonic
+Poulin,1,3
+intuitive relationship
+statistical conserved
+detection
+intensity
+individual
+Inducible expression
+selecting candidate
+pseudo-alignment
+McAuliffe
+subsequent
+Morgenstern
+false-positive predictions
+identification
+zebrafish
+high-scoring
+approach
+available
+transcriptional regulation
+complement
+restricting
+human­mouse­frog
+applying Karlin-Altschul
+eukaryotic
+hypothesis
+topology
+independent human­rodent
+whole-genome conservation
+reproducible -galactosidase
+Boffelli
+Laboratory
+developmental enhancers
+higher-resolution functional
+Multi-LAGAN
+characterization
+Discussion
+systematic identification
+McMurray
+tissue-specific regulation
+expensive
+human­mouse­rat­dog
+excellent benchmark
+vertebrate
+reduction
+developmental transcription
+California
+well-characterized
+DNaseIhypersensitive
+human­rodent conservation
+corresponding
+sufficient
+-galactosidase expression
+representative
+systematic
+Consequently
+evolutionary conservation
+conserved human­mouse­rat
+exception
+Chiaromonte
+fictitious fixed-length
+empirical
+rectangular
+Supplementary
+conserprinciple
+threshold conservation
+evaluating
+P-values
+Gateway-HSP68-LacZ
+Drosophila dachshund
+procedure
+substisimian comparisons
+Furthermore
+Integrative
+structure generated
+correlation structure
+Assessment
+highestscoring human­rodent
+phenotypic variation
+sensitive
+eutherian comparisons
+drawback
+Identifying candidate
+generated whole-genome
+development
+arbitrary parameter
+Institute
+Analysis
+conservation consistent
+aggregate
+Trade-offs
+nevertheless
+significant nonmammalian
+Elnitski
+divergence decreases
+highspecificity prediction
+Whole-genome noncoding
+distances
+Similarly
+noncoding constraint
+alternative
+benchmark regulatory
+benchmark eleutherian
+mammalian regulatory
+mouse­frog
+acceptable true-positive
+Rubin,1,2
+disparity
+Although
+significant conservation
+noncoding functional
+vertebrate Iroquois
+Annotation
+Programs
+nonmammalian conservation
+regulatory potential
+consensus
+long-range embryonic
+arbitrary
+alignments
+transgenesis
+protein-coding
+Rodriguez-Seguel
+mouse­fish
+Minovitsky
+Application
+prioritization
+human­mouse
+functional prediction
+Although human­fish
+mouse­rat
+averaging
+endogenous developmental
+equivalent
+prosimian
+percentile
+Wasserman
+Altschul
+huStacked
+Engstrom
+Sandford
+comparison
+identified cis-regulatory
+considerwhen
+Generation
+practical
+important
+mammalian evolution
+insufficient
+theoretical prediction
+accessible
+permutation-based
+selutionary divergence
+Cumulative
+Identification
+false-positive
+proportional
+Pennacgene
+statistics
+Thangarajah
+LAPennacchio
+non-coding sequences
+DIALIGN
+PARAGON
+conservation
+subregions
+conceivable
+synthesis
+pufferfish
+Ultraconserved
+null-model
+Bioinformatics
+Quantitative
+constitute
+substitutions/site
+Jan-Fang
+systematic benchmarking
+characteristic
+pre-existing functional
+endogenous expression
+achieving
+Conservation
+acceptable sensitivity
+Large-scale clustering
+noncoding regulatory
+distribution
+transcriptional
+Efficient
+phylogenetic
+statistical significance
+encompass
+chromosome
+circular-tour
+Noncoding
+nonmammal
+evolutionary dissimian
+developmental expression
+large-scale functional
+nonexonic positions
+human­fugu
+regulatory divergence
+significant correlation
+specificity developmental
+transcription-cofactor
+fixed-length alignment
+tribution
+suppression
+Mullikin
+neocortex
+structure
+CalleMustienes
+human­rodent conserved
+algorithm
+sensitivtral divergence
+fracpositive
+tradeoff
+P-values comparable
+man­rodent
+functional noncoding
+resolution
+enrichment

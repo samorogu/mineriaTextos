@@ -1,0 +1,294 @@
+selection
+anti-streptavidinagarose
+Components
+transcriptase­polymerase
+coexpression
+Anti-SA­HRP
+Efficient biotinylation
+Understanding pluripotency
+bioZfp281
+off-target
+real-time chromatin
+zinc-finger
+Biotinylated
+Functional validation
+purifications
+differentiation
+conclusion
+pluripotency
+networks
+Supplementary Information
+polycomb
+implicate
+embryogenesis
+Interactions
+protein-A/
+anti-streptavidin­horseradish peroxidase
+embryonic development
+co-repressor
+Low-level expression
+mammalian
+tolerance
+candidates
+functional validation
+Although
+Flag-agarose
+identification
+extensive
+secondary
+endogenous
+combinatorial
+Takahashi
+Miyazaki
+Pluripotential competence
+chromatography
+survival
+providing
+multiprotein complexes
+framework
+whole-lane
+inhibition
+Co-immunoprecipitation
+cellular
+chromatin occupancy
+Anti-Rif1
+Validation
+association
+essential
+dissociate
+Presumably
+Quantitative expression
+substrate
+performing co-immunoprecipitation
+transcriptional complexes
+anti-SAagarose
+transgenic
+SDS-polyacrylamide
+identified
+dedifferentiation
+Depiction
+experiments
+streptavidin-agarose
+specific
+Morphology
+anti-Flag immunoprecipitation
+coexpressing
+therapeutic potential
+embryonic
+concomitant derepression
+POZ/BTB
+development
+requirement
+financial
+interdependence
+anti-streptavidin­HRP
+consistent
+conditional
+transfection
+Hematology­Oncology
+Drosophila bric-a-brac/tramtrack
+fractionation
+reinforcement
+`expected
+Induction
+Flag­biotin
+developmental
+fundamental properties
+causative
+complexes containing
+transient complexes
+`downstream
+Oct4­GFP
+Biotin-tagged/BirA
+Investigator
+anti-Nanog
+deacetylase
+AntiRif1 AntiNanog
+Nanog-associated
+Massachusetts
+pluripotential
+Fujiwara
+approach
+Escherichia
+participation
+stuart_orkin
+available
+proliferation
+anti-Rif1
+BirA-expressing
+complementary
+equivalent
+component
+Anti-Nanog
+amino-terminal
+Formation
+ChIP-on-chip20
+hypothesis
+pluripotent
+regulatory
+fluorescent
+transcriptional regulatory
+likelihood
+affinity purification
+METHODS
+previously19
+interaction
+September
+iterative
+dependence
+homeoprotein
+disorganized
+susceptible
+non-physiological
+Pluripotent
+microglobulin
+Invitrogen
+leukaemia inhibitory
+exploring
+AntiNanog
+homologue
+primitive
+technical assistance
+faithful reprogramming
+Published
+literature28
+Theunissen1
+Microarray
+involvement
+biotinylation/proteomics
+morphology
+Sakaki-Yumoto
+wild-type
+streptavidin
+regenerative
+landscape
+dosage-dependent
+single-step purification
+additional
+similarly
+beginning
+construct
+Barabasi
+co-regulated
+biotin-tagged
+functional relevance
+Quantitative real-time
+Multipotent
+reduction
+HDAC/NuRD
+examination
+protein­protein interaction
+maintenance
+independent experiments
+Orkin1,2 Embryonic
+BirAV5his
+November
+molecular
+Rauchman
+RNA-mediated
+regulator
+biotinylation
+comparison
+Tris-buffered
+Isolation
+sensitization
+cooperate
+stem-cell
+fibroblast
+`upstream
+shRNA-mediated inhibition
+teratocarcinoma
+heterologous
+Quantitative
+requisite
+Correspondence
+maintaining
+Stimulation
+Yamanaka
+polypeptide
+complex/
+comparator
+high-confidence components
+shRNAmediated knockdown
+anti-SA­HRP
+Nanog-interacting candidates
+Supplementary
+co-repressor complexes
+extraordinary enrichment
+phenotypic
+spectrometry
+AntiNanog AntiRif1
+neuronal-like
+shRNA/mock
+transcriptional
+Publishing
+indicated
+Levasseur1
+neuroectoderm
+Furthermore
+influence
+Perez-Iratxeta
+Thompson
+conserved
+cocaine-regulated Bric-a-brac
+homeodomain
+antiNanog
+Establishment
+vulnerable
+Development
+information
+different
+Confirmation
+LETTERS
+transcription
+mediating transcriptional
+SWI/SNF chromatin
+identified components
+complexity
+Co-regulation
+regulatory circuitry
+microarray
+phenotype
+published knockout
+decarboxylase
+Connections
+downregulation
+stoichiometry
+mini-interactome
+gene-targeted
+lineage-specific
+independent
+RNA-mediated interference
+MSGLNDIFEAQKIEWHEGAPSSR
+Institute
+Acknowledgements
+collection
+Anti-Nac1
+complexes
+important
+chromatography­tandem
+loss-of-function
+proteomic
+BTB-domain containing
+chromatin immunoprecipitation
+interacting
+preimmune
+single-step
+knockdown
+bioNanog/lgG
+Contributions
+Anti-Nanog Co-express
+anti-V5­HRP
+overnight
+analysis
+anorectal
+Schematic depiction
+fail-safe mechanism
+mesoderm/visceral
+inactivation
+Chambers
+23-aminoacid
+Neuroscience
+discussion
+Functional expression
+self-renewal

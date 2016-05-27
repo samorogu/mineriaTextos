@@ -1,0 +1,299 @@
+FOLDALIGN alignments
+consensus base-pair
+evolutionary
+Cmfinder
+FOLDALIGNM­FOLDALIGN SRP-bacterial
+alignment CMfinder
+probabilistic inference
+Hierarchical clustering
+non-coding
+advanced clustering
+Giegerich
+indistinguishable
+filtering
+statistical
+ribosomal
+multibranched
+alternative
+Biopolymers
+clustering approach
+human-mouse
+sub-alignment
+RNAProtein
+multiple-alignment approach
+RSEARCH
+parameters
+shuffling
+implementation
+interesting
+SRP-euk-arch CMfinder
+considering
+intensive
+production
+attractive
+Frederiksberg
+sequence database
+identification
+adequate
+RNAalifold
+hybridization
+correspondence
+Received
+Exploiting conserved
+unbranched
+Harabasz
+stochastic context-free
+Washietl
+Thousand
+possible
+all-against-all
+sequence alignments
+pffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+sequence permutation
+structure similarity
+time-consuming
+difference
+structure formation
+FOLDALIGNM­FOLDALIGN SRP-euk-arch
+sequences together
+successor
+protosequence
+different alignments
+necessary
+Lindgreen
+excluding
+consensus structure
+Non-coding
+FOLDALIGNM Clustal/Alifold
+programming algorithm
+analysis ORIGINAL
+clustering procedure
+specific
+sequence analysis
+string-like alignments
+Psychometrika
+predicted
+publication February
+gorodkin
+alignments
+Availability
+archaeal
+Clustering
+predictive
+Rawlings
+Boltzmann
+sensitivity
+Gorodkin1
+searching
+structure prediction
+Discovering
+frequency
+choosing
+redefining
+Performance
+bacterial
+recognition
+short-term
+RAVENNA
+INTRODUCTION
+progressive alignments
+multistructure
+Comparison
+pre-filtered
+significant improvements
+tendency
+original alignments
+comprehensive
+Nuclelic
+structural information
+geometric
+pre-aligned
+evaluation
+Bioinfomatics
+Huttenhoffer
+discovery
+available
+prediction accuracy
+comparable
+Erickson
+Secondary structure
+localization
+importance
+respectively
+University
+hierarchical clustering
+CMfinder datasets
+understanding
+Multiple structural
+REFERENCES Altschul
+subsequences
+tRNA-like
+Frishman ABSTRACT
+different datasets
+Gorodkin
+Conflict
+Scientific
+Havgaard1
+definition
+providing
+CMfinder
+extension
+well-defined clusters
+re-implementation
+programming
+Sequence analysis
+Clustalw
+Dynalign
+sensitive
+Interest
+comparative structure
+aligning
+calculating
+DNA-Protein Sequence
+re-implemented
+unalignable
+base-pair probability
+INFERNAL
+Alignment
+Accelerated probabilistic
+computational
+probability
+well-defined structures
+Published
+progressive alignment
+semi-local
+specificity
+predicted secondary
+improvements
+Identification
+Therefore
+sequences
+dinucleotide
+non-canonical
+Hofacker
+expensive
+Perspectives
+clustering
+Weinberg
+conserved structure
+Research
+transfer
+different parameters
+annotation
+intermediate
+Comprehensive four-family
+specific sequence
+Bioinformatics
+equilibrium partition
+November
+expensive all-against-all
+consensus probability
+effective approach
+SRP-bacterial CMfinder
+Calinski
+sequence similarities
+apparent
+correlation coefficient
+covariance
+nucleotide sequence
+Matthews correlation
+Consensus
+FOLDALIGNM
+FOLDALIGN
+Cobalamin
+particular
+surprising
+sequence similarity
+datasets
+secondary structure
+Significance
+Bonhoeffer
+robustness
+progressive multiple
+Detection
+Rosenblad
+multiple structural
+classification
+evaluating
+promising
+secondary structures
+Computational Molecular
+Permissions
+conserved structural
+Havgaard
+FOLDALIGN parameter
+single-linkage
+McCaskill-generated base-pair
+2Department
+CMfinder FOLDALIGNM­McCaskill
+Furthermore
+Milligan
+argument
+evidence
+structural alignments
+extensive FOLDALIGN
+alignment algorithm
+following Havgaard
+ACKNOWLEDGEMENTS
+technology
+conserved structures
+multiple sequences
+Division
+respective
+Clustal/Pfold
+Associate
+efficient
+multiple alignment
+ribosome
+Programs
+multibranch
+progressive multiple-alignment
+substitution
+alignment FoldalignM­Foldalign
+eukaryotic
+base-pairing
+performance
+genome-wide
+all-against-all FOLDALIGN
+ABSTRACT Motivation
+accuracy
+independent
+February
+FOLDALIGN base-pair
+stem-loop
+structural alignment
+information
+assignment
+initialization
+Semi-local clustering
+molecule
+Altschul
+long-term
+Pairwise
+non-messenger
+significant
+preliminary
+Proceedings
+different clusters
+comparison
+qffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+Torarinsson
+International Conference
+different sequence
+algorithm
+examination
+whenever
+depending
+CMfinder FoldalignM­McCaskill
+together
+Multiple alignments
+Simultaneous
+algorithms
+consensus secondary
+recursion
+FOLDALIGNM­McCaskill FOLDALIGNM­FOLDALIGN
+quadratic
+Copenhagen
+comparable performance
+McCaskill
+CONCLUSION

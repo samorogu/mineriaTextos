@@ -1,0 +1,13 @@
+620656txt
+loci
+genes
+number
+j
+linkages
+p
+levels
+master
+samorogu
+gene
+expression
+linkage

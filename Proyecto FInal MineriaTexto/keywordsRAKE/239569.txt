@@ -1,0 +1,1262 @@
+national science foundation blue ribbon advisory panel
+national collaboratory enabling commuvol 308 science
+
+nity access
+enabled unique distributed experiments involving facilities
+individual services quiring coordinated mancan scale
+so-called service-oriented architectures define standard interfaces
+true lingua franca requires agreement
+service ecologies define relevant standards
+ection
+
+viewpoint
+
+service-oriented science
+ian foster
+viously manual quality- sequence analysis
+ucla grid federates multiple clusters
+derived data exponentially growing amount
+researchers create dedicated domain-specific infrastructures
+timely fashion putting data online
+argonne gnare system searches periodically
+search digital sky surveys
+emerging bdigital observatories[ ealready
+gratefully acknowledge helpful discussions
+open-source web services tools exist
+open science grid links storage
+service load enable community access
+makes google_s indices feasible
+international virtual observatory alliance
+chief open source strategist
+yahoo_s manually assembled lists
+modern particle physics experiments
+electric power­transmission standards
+particle physics accelerator laboratory
+automate pre- biotechnology information
+permits secure remote access
+google_s automatically computed indices
+caltech]
+
+flow orchestration services
+people feel comfortable part
+de- protein family domains
+term bservice-oriented architecture[ refers
+international virtual observatory community
+computational sciences division subprogram
+text precomputes analysis results
+physical sciences research council
+electric power grid analogy
+planetlab computer science testbed
+service-oriented science ian foster
+analyze web link structure
+producing large data sets
+abil- computer science division
+uk ``plug-andplay composable services
+standard software enabling teleobservation
+science--smart vol 308 science
+
+creating
+high performance distributed computing
+community climate simulation model
+work long rethinking infrastructure
+technologies called web services
+biomedical informatics research network
+advanced scientific computing research
+evaluate experimental distributed services
+physical resources-- access genbank
+13th ieee international symposium
+researchers develop service ecologies
+making increasingly powerful capabilities
+sourceforge runs web servers
+open science grid sites
+central services include catalogs
+making powerful information tools
+strategy web services technologies
+domain-independent software functions grid
+developing open-source quality control
+lishes derived values
+campus information technology organizations
+national science foundation
+science web sites related
+scientific research enabled
+votable format definition version 1
+bservice-oriented science[ refers
+argonne national laboratory]
+argonne national laboratory
+ethe term be-science
+grid architectures efficiently
+open science pling
+open science grid
+electric power grid
+important osg resource provider
+advanced computational techniques
+national laboratories participate
+standard web servers
+expose real costs
+good at-- poses
+92-processor linux cluster
+hypertext markup language
+repeated frequently owing
+paul erdps claimed
+resemble medieval italy
+york avenue nw
+north star avenue
+swindon sn2 1et
+intellectual property issues
+previously manual data-processing
+metabolic pathway reconstruction
+mouse brain morphology
+demonstrated on-demand coupling
+infer metabolic pathways
+extensible markup language
+print issn 0036-8075
+nucleic acids res
+automating time-consuming activities
+computer science division
+information architectures enable
+earth system grid
+newly source project
+increasingly chalship services
+summary
+service-oriented science
+largest sequence database
+communities--operating community memberdeveloping
+community enthusiastically adopted
+involve large amounts
+collective scientific productivity
+gaining wide acceptance
+related management issues
+selected additional articles
+deployed standard compute
+oriented science realizes
+gnare system discussed
+service technologies enable
+distributed syssourceforge system
+finding protein similarities
+deliver erate thousands
+ser- sequenced genomes
+apply serviceoriented techniques
+global experimental collaborations
+13th ieee intl
+running standard software
+web services architecture
+3 million protein sequences
+write custom code
+multiple existing services
+online issn 1095-9203
+rapidly expanding computing
+climate change assessment
+popular simulation codes
+warring city states
+uk mygrid project
+florida international university
+scientific research capabilities
+encapsulate information tools
+powerful information tools
+specific data source
+major research universities
+research laboratories worldwide
+17 instrument sites runs
+multi-institute collaborations required
+outsource selected functions
+deliver discipline-independent resources
+locate brown dwarfs
+adcommunity resources redition
+collective knowledge base
+tim berners-lee invented
+longer documented exclusively
+infrastructure enabled development
+process incoming requests
+including high-resolution figures
+single bacterial genome
+sharing services
+creating
+common software distribution
+code archivvices increase
+realize service-oriented science
+protein sequence databases
+grid infrastructure software
+teragrid links resources
+climate simulation data
+largescale data analysis
+enable online access
+``build versus buy
+analyze infor-
+
+www
+international panel
+genetic related functions
+standard hardware configuration
+world wide web
+researchers desperately needed
+accessing valuable data
+human user takes
+achieve broad adoption
+e-science
+tony hey
+host scientific tenure
+high-end ``power users
+individual service providers
+collaborative research programs
+web services mechanisms
+policies governing access
+discipline-specific services hosted
+securing services provide
+automatically integrate information
+operating commodity services
+developing client applications
+accessing environmental data
+services access services
+org science vol 308 6
+networked systems design
+future generation comput
+000 biologists chestration services
+earthquake engineering simulation
+org/cgi/content/full/308/5723/814#otherarticles information
+article cites 15 articles
+service involves describing
+multiple bioinformatics algorithms
+deploying ``campus grids
+commercial information technology
+physical experiments
+fusion collaboratory
+grid architectures
+cookie-cutter approaches give
+biomedical sciences
+grid technologies
+support scientific communities
+standard interfaces
+hardware resources required
+electric tools
+provide required functions
+define workflows
+service-oriented science
+computational power
+distributed ``grid
+standard configuration
+science domains
+science vol 308
+service-oriented infrastructure
+important experiments
+fair amount
+2008
+
+distributed computing
+^
+
+distributed computing
+domain-independent software
+high-energy physics
+enabling grids
+service provider
+computer science
+increase individual
+online version
+national institutes
+growing number
+national center
+simulation codes
+service-oriented computing--technology
+computing infrastructure
+run periodically
+international partners
+3 articles hosted
+storage clusters
+standard xml
+serviceoriented science
+research opportunities
+atmospheric research
+related infrastructure
+simulation capabilities
+scientific world
+making data
+linking clusters
+multiple sites
+powerful force
+grid resources
+obtain results
+power plants
+physical resources
+votable format
+1st symposium
+experimental stage
+enable spelenging
+ection
+
+continuing
+true implications
+enable faster
+mailing lists
+protein databases
+indices accessible
+central control
+automatically maintain
+legal system
+system components
+access information
+distributed storage
+discipline-specific service
+networked world
+deployed services
+developing services
+genome sequence
+individual communities--
+information technology
+computing resources
+community standardizes
+larger community
+environmental data
+large quantities
+high degree
+computational demands
+domain-specific content--data
+similar structure
+gnare surprising
+simulation resources
+distributed collections
+data analysis
+access services
+scientific communities
+scientific literature
+scientific enterprise
+online access
+service providers
+developed tools
+uniform format
+related functions
+wide range
+resources related
+essential tools
+service-oriented approaches
+``revolutionizing science
+``science gateways
+disciplinary science
+vancing science
+title science
+dtl
+
+science
+web pages
+isi web
+accessing services
+domain-specific content
+multiple sources
+expanding capability
+ection
+downloaded
+updated genomes
+europe project
+project members
+foster@mcs
+mechanisms
+
+required
+ection
+
+fig
+general-purpose infrastructures
+common alphabet
+specific communities
+global library
+org/cgi/content/full/308/5723/814#otherarticles
+bioinformatics tools
+e-science programme
+total thousands
+specialized instrument
+finding things
+user request--
+storage capabilities
+updated information
+information exchange
+exchanging information
+comparative analysis
+storage services
+hardware infrastructure
+powerful approach
+access control
+human access
+obtain access
+provide access
+distributed networks
+software required
+centralized system
+4000 sequences theorist
+develop capabilities
+resource level
+ful service
+federated grids
+service supports
+annotated sequences
+service developer
+interoperating services
+services grow
+application-specific services
+communicating services
+operates services
+adable services
+online resources
+published online
+data formats
+turning data
+tabular data
+towith data
+data volumes
+earthquake engineering
+integrate information
+domain-specific software--
+web site
+computer scientists
+distributed nature
+2008
+
+computer scientists
+united states
+1110411
+
+viewpoint
+
+cyberinfrastructure
+operating services
+host services
+integrate data
+conventional manner
+reducing barriers
+williams-beuren syndrome
+provide resources
+turning coffee
+american association
+demand increases
+slow start
+recent study
+resulting millions
+typical pc
+quired functions
+broader connotation
+seconds questions
+funding structures
+loosely coupled
+structural characteristics
+supercomputer simulations
+united kingdom
+entities contributors
+circles show
+groups working
+hosting capaplay
+higher speeds
+affected dramatically
+hardware required
+john taylor
+smaller institutions
+vendor offerings
+``sourceforge hours
+mentioned osg
+provide electricity
+questions communities
+working draft
+biological databases
+rights reserved
+membership serit
+change incentives
+contract w-31-109eng-38
+manthe impact
+obtaining reprints
+gensuch specialists
+astronomical objects
+enhance educational
+big step
+achieve economies
+increased markedly
+modest pc
+tiny fraction
+models involved
+registered trademark
+published weekly
+smaller communities--
+univa corporation
+service networks
+democratizing force
+[image credit
+health initiative
+workflow orhaps 500
+early 1990s
+important factors
+uted omputi
+org/cgi/content/full/308/5723/814#related-content
+polaris house
+require expertise
+university campuses
+smart businesspeople
+de laat
+morgan kaufmann
+applied routinely
+tem management--
+san francisco
+internal workings
+st arnaud
+consumer connected
+required years
+ieee comput
+applied successfully
+transnational efforts
+informed manner
+electricity generator
+­ based representation
+widespread automation
+application exemplars
+los alamitos
+familiar idea
+fully exploited
+obtaining permission
+purdue university
+online means
+approach involves
+supporting infrastructure
+automated access
+scale increases
+specialist providers
+hard work
+operating functions
+disciplinespecific content
+internet infrastructure
+communities ``content
+host functions
+original content
+valuproviding content
+provide content
+analysis tasks
+data archives
+similar manner
+exploding number
+openthe number
+understanding needed
+teragrid targets
+software programs
+associate metadata
+assert metadata
+provided dependencies
+resources provided
+preferred means
+optical networks
+storage systems
+data collection
+spurring development
+focus services
+value-added product
+opendap protocol
+control processes--
+systems structured
+substantial scales
+indispensable tool
+inter- fig
+diverse requirements
+identify relationships
+national-scale scientists
+dramatic examples
+hardware requirements
+organizational structures
+evolution occurring
+org/ nsf_ci_report
+highwire press
+hundred pcs
+time spent
+unique
+shared understanding
+problems remain
+providing content
+providing ``content
+bioinformatics applications
+site deploying
+potential gether
+full potential
+open-source
+important role
+make sense
+discover unaided
+nees point
+bioinformatics group
+richer set
+hundred terabytes
+scaling capability
+facilitate collaboration
+outsourcing require
+successful creation
+case comprises
+national
+operate remanagement
+run time
+commercial internet
+putting
+argonne
+viewpoint
+support faculty
+requires 12
+interfaces
+enabling
+allowing users
+grid
+org
+
+downloaded
+made accessible
+ultimately semantics
+individual
+researchers
+sequence
+community
+making
+high
+climate
+gnare
+distributed
+tools
+creating
+uk
+campus
+science
+science 293
+science 308
+web
+foster
+quality
+organizations
+infrastructures
+strategy
+developing
+resources--
+information
+analysis
+access
+software
+code
+capabilities
+service
+votable
+resource
+technology
+services
+online
+data
+accessing
+storage
+osg
+resources
+universities
+ieee 93
+policies
+berners-lee
+control
+give
+provide
+algorithms
+including
+ieee
+org/cgi/content/full/308/5723/814
+communities
+documented
+university
+19 sites
+network
+part
+comput
+worldwide
+databases
+knowledge
+sites
+catalogs
+requests
+30 sites
+develop
+functions
+human
+adoption
+future
+describing
+locate
+sourceforge
+previously
+hey
+genome
+realize
+hardware
+important
+required
+scale
+bioinformatics
+bioinformatics 20
+operating
+content
+integrate
+host
+work
+commercial
+engineering
+definition
+number
+needed
+teragrid
+deploying
+similar
+networks
+metadata
+means
+site
+providing
+build
+biologists
+accessible
+provided
+run
+applications
+development
+requirements
+scientists
+shared
+specialist
+downloaded
+archives
+product
+tool
+group
+systems
+fig
+incentives
+faculty
+nature 317
+org/
+semantics
+supporting
+software--
+centralized
+evolution
+2005
+
+817
+
+downloaded
+economies
+substantial
+processes--
+protocol
+sources
+identify
+press
+users
+support
+workflows
+automated
+examples
+implications
+pcs
+organizational
+time
+problems
+allowing
+approaches
+internet
+org
+org
+
+6
+approach
+potential
+terabytes
+discover
+tasks
+scaling
+ultimately
+collection
+collaboration
+set
+outsourcing
+nees
+make
+programs
+role
+creation
+focus
+case
+19 article
+article
+cyberinfrastructure
+operate
+``cyberinfrastructure
+made
+2005
+
+www
+www
+use--
+sci
+founder
+gupta
+month
+browsers
+computation
+decisions
+000 steps
+iii
+concerned
+program
+behalf
+discovering
+emerged
+advantage
+decide
+blast
+anne
+tri
+skills
+list
+solution
+leave
+registries
+overview
+noted
+disciplines
+booth
+grapsoftware
+servicewww
+business
+chicago
+schwidder
+current
+sulakhe
+increasing
+led
+genes
+hundreds
+separation
+address
+cern
+experience
+suggests
+symp
+deployment
+manage
+aaas
+highly
+addressed
+pp
+bernholdt
+net/documents/latest/vot
+archived
+dna
+uniformity
+commun
+distinct
+mation
+chappell
+scope
+achieving
+today
+gained
+pub-
+
+814
+
+6
+agent
+neurosci
+cases
+effort
+escience
+reproduce
+evolved
+tap
+december
+cited
+purposes
+numbers
+agement
+monitoring
+invoke
+turn
+sensors
+provisioning
+machine
+syst
+answer
+dialect
+blocks
+``slices
+overbeek
+lab
+participant
+eng
+lines
+cosmology
+gap
+order
+operations
+interpretation
+office
+insight
+report
+scientist
+ity
+evolve--
+existence
+rewarded
+astronomers
+presence
+defining
+pettifer
+gray
+practice
+discuss
+developments
+easily
+thrill
+mathematician
+e-infrastructure
+mambretti
+fields
+found
+referred
+subset
+week
+cost
+determine
+ed
+energy
+challenges
+egee
+fingertips
+tuecke
+catlett
+martone
+participants
+acm 46
+fulfilled--
+honorable
+gov
+sensor
+il 60637
+free
+categorization
+imagine
+responding
+revolutionary
+computers
+bilities
+ivoa
+blind
+federate
+stevens
+subtlety
+elder
+illustrate
+similarly
+provenance
+mulder
+exploring
+puron
+geneva
+pecial
+acquire
+myers
+clients
+represent--
+accessed
+blueprint
+enforced
+anl
+recreation
+clin
+radiology
+bavier
+legrand
+configure
+encompassing
+efficient
+gigabytes
+concerns
+biology
+projects
+deploy
+copyright 2005
+entry
+doi
+observation
+considered
+attempting
+culler
+principle
+supported
+bring
+astrophys
+data--
+find
+decade
+implementation
+1126/science
+bottom-
+kesselman
+/permissions
+birn
+dc
+emphasizes
+interoperability
+humanities
+goble
+ochsenbein
+areas
+roles
+aspects
+percatalogs
+peltier
+bdata[
+vision
+achieved
+livny
+geist
+observed
+computes
+w3
+result
+capacity
+arguably
+pearlman
+tens
+progress
+mathematical
+//www
+arrival
+pushing
+ability
+dc 20005
+2008
+
+dd
+2008
+
+cialization
+org/tr/2003/wd-wsarch-20030808
+key
+interface
+neggers
+monitor
+acquiring
+fit
+efficiency
+freely
+taking
+acquisition
+focused
+and--
+author
+reasons
+berkeley
+coincidence
+sciencemag
+simply
+publishing
+communitytechnology
+agreements
+interest
+dozens
+ontologies
+000 computers
+describe
+diversity
+ellisman
+precision
+al
+nanohub
+pfam
+protocols
+processes
+publicly
+consumers
+expanded
+usenix
+100 tb
+szalay
+hendler
+workwe
+ii
+notes
+1
+fame
+ing
+lassila
+perform
+grapple
+html
+widely
+advances
+autoage
+evolve
+http
+assignment
+capabilities-- 50
+hand
+changing
+identity
+task
+april 2003
+tsvetanov
+chemistry
+spurred
+money
+vices
+farther
+equipment
+advancement
+000 ``agents
+easy
+requiring
+usage
+stein
+``cookiecutter
+2005
+
+815
+
+dd
+usecommunities
+fortune
+success
+improbable
+accelerating
+communications
+``haves
+google
+deal
+experimentalist
+phenomena
+trends
+accelerate
+server
+operation
+/
+esg
+e-mail
+proc
+bb
+pose
+dcc
+forth--
+teleoperation
+references
+overloaded
+raise
+usa
+i303
+theorems
+addition
+ensure
+freeing
+il 60439
+plethora
+pays
+washington
+nsf
+suppl
+promise
+[ coined
+termine
+defanti
+board
+low
+june 2004
+conceivable
+function
+regard
+l61
+ca
+count
+constitute
+keahey
+trefethen
+problem
+piece
+so--
+``have-nots
+contribute
+accounting
+constructed
+compared
+nn
+variety
+handed
+nick
+computers--needed
+nat
+department
+mathematics
+developers
+elements
+beginnings
+hardware--
+astronomy
+building
+students
+w3c
+814
+817
+35
+290
+1110411
+100
+30
+37
+14­23
+6
+123
+2005
+24
+21
+22
+23
+28
+25
+84
+7
+20
+1005
+2
+11
+10
+13
+15
+14
+17
+16
+18
+8
+12
+19
+3
+2003
+467
+^
+284
+34
+9
+2008
+
+3
+1
+288
+4
+2037
+121­134
+531
+816
+
+6
+236­245
+78
+1200
+119
+44
+5
+253­266
+485
+109­120
+2002
+2000
+2001
+2004
+2008

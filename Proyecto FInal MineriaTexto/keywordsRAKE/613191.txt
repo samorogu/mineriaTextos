@@ -1,0 +1,1711 @@
+observed
+
+data set imh805/775 ethanol/glucose galactose/glucose anaerobic/aerobic nitrogen depletion amino acid starvation total imh805/837 ethanol/glucose galactose/glucose anaerobic/aerobic nitrogen depletion amino acid starvation total
+
+p-
+tfs cup9 yap6 gcn4 abf1 yap6 cin5 leu3 tec1 gat1 cup9 leu3 msn4 tye7 msn2 hap4/hap5 dig1 yap6 gcn4
+
+95 70 46 32 24 19 16 16 16 53 46 31 21 19 19 18 17 16
+
+4
+metabolic tfs hap2/hap4 gcn4 gcn4 leu3 hap1 mot3 gln3 gcn4 gcn4 gln3 hap1 hap4 gln3 hap1 leu3 tye7 rox1 hap1 involving
+org/cgi/content/full/16/5/627#otherarticles
+
+email alerting service
+
+receive free email alerts
+amino acid starvation
+cold spring harbor laboratory press
+
+letter
+
+integrated analysis
+org/subscriptions/
+
+© 2006 cold spring harbor laboratory press
+
+downloaded
+cold spring harbor laboratory press
+
+integrated analysis
+cold spring harbor laboratory press
+
+regulatory
+cold spring harbor laboratory press
+
+herrgå
+large-scale experimental data allowed identifying regulatory mechanisms missing
+environmental perturbations correctly predicted change incorrectly predicted change change
+cold spring harbor laboratory press
+large-scale 13c-flux analysis reveals mechanistic principles
+calorie restriction extends saccharomyces cerevisiae lifespan
+gene expression prediction discrepanto experimental gene expression data
+mata his3 1 leu2 0 met15 0 ura3 0
+]
+current biological research produces increasing volumes
+multiple interlinked negative feedback loops
+nutrient-controlled transcriptional regulatory network controlling metabolism
+system-state data types including gene expression
+nutrient-controlled transcriptional regulatory network regulating metabolism
+conditional tf mutants conclusions performed
+computational data elucidates bacterial networks
+model predicted tf ko strain growth rates
+imh805/837 model showed improved predictive ability
+constraint-based approaches include fluxbalance analysis
+mathworks
+
+regulated flux balance analysis
+analyze di- protein­dna interactions
+experimentally determined protein­dna interaction
+fully compartmentalized genome-scale metabolic model
+key model organisms including escherichia coli
+hypothetical regulatory cascades involving
+protein­dna interaction data sets
+experimentally measured growth rates weighted
+glucose-grown saccharomyces cerevisiae induces cells
+performed quantitative growth phenotyping experiments
+analyze previously published genome-scale gene expression
+compared model predictions plaining one-
+experimentally determined protein­dna interactions
+existing large-scale experimental data sets
+identified regulatory cascades connecting transcription factors
+selective re-
+
+genome research
+www
+transcriptional regulatory network regulating metabolism
+include key stress response pathways
+imh805/775 model allowed exmetabolic/regulatory network
+potential hap1
+regulated flux balance analysis approach
+55 transcription factors regulating 750 metabolic genes
+suggested regulatory interactions involving
+sirt1 promotes fat mobilization
+proteome survey reveals modularity
+biologically consistent mathematical descriptions
+regulator
+
+target
+
+motif
+
+involving
+individual gene expression data sets
+existing genome-scale metabolic network model
+gcn4
+org/cgi/content/full/16/5/627#references article cited
+single transcription factor knockout strains
+cascades promoter occupancy score
+
+figure 3
+interaction data including genome sequences
+silico gene expression change predictions
+foxa2 regulates lipid metabolism
+nitrogen regulation network
+hap1
+yap6
+transcriptional regulatory network regulating
+silico growth rate prediction compared
+lindo linear programming solver
+genome-scale compartmentalized metabolic model
+experimentally observed gene expression
+transcriptionally regulated metabolic models
+experimentally measured growth rates
+affect growth rate predictions
+resulting integrated metabolic/regulatory network
+saccharomyces cerevisiae chromosome xvi
+498 tf-target pairs total
+randomized target gene sets
+individual expression data set
+reconstructed regulatory network coupled
+compare growth phenotype predictions
+highthroughput deletion strain phenotyping
+experimental growth rate data
+experimentally measured expression profiles
+gene expression data simultaneously
+55 specific nutrient-regulated transcription factors
+transcriptional regulatory network structure
+promoter occupancy scores derived
+gene expression data set
+existing genomescale metabolic model
+gene­ protein­reaction associations
+genome-scale reconstructed metabolic network
+maximum specific growth rates
+multiple data types relevant
+provisional regulatory network derived
+strain­carbon source combination based
+originally published online apr 10
+reconstructed genome-scale stoichiometric matrix
+improved metabolic/regulatory network model
+direct protein­dna binding
+cerevisiae gene deletion collection
+systematically perturbed metabolic network
+improved growth rate predictions
+metabolic network model imh805/837
+incorrectly represented combinatorial effects
+iterative model building strategy
+gene expression data sets
+reconstructed transcriptional regulatory network
+integrated metabolic/regulatory network model
+genome-scale metabolic network model
+chip-chip data sets agree
+previously uncharacterized regulatory interactions
+gene expression change predictions
+regulatory network model part
+provisional regulatory network model
+significant gene expression change
+glucose signal transduction pathways
+transcriptional regulatory network model
+systematic iterative model building
+extended 203 tf data set
+full chip-chip data set
+transcription factor deletion strains
+microbial transcriptional regulatory networks
+indirect candidate target genes
+high-throughput metabolic state analysis
+nitrogen sources
+cascades commonly involved tfs
+maximum flux capacity constraints
+excess nitrogen
+rox1 target genes
+nitrogen regulation
+vivo metabolic/regulatory network model
+data describing cellular components
+metabolic network model consists
+transcription factor knockout strains
+protein­dna association
+regulatory network expansion scenarios
+systematic model expansion strategy
+tf­promoter interaction based
+large-scale data sets
+gat1 transcription factors
+hap4
+coli regulatory network reconstruction
+silico gene expression predictions
+experimentally observed expression
+published genome-wide chromatin immunoprecipitation
+gene expression data comparisons
+stress response tfs listed
+protein­dna interactions
+flux balance analysis
+nutrient-controlled plex subnetworks
+tf deletion strains made
+correctly predicted expression
+model organism volumes
+network expansion approach applied
+regulated flux-balance analysis
+missing regulatory effects
+abf1
+cin5
+large-scale integrated model
+missing regulatory mechanisms
+flux balance models
+predict
+
+632
+
+genome research
+www
+experimental data sets
+10 experimental data sets
+protein kinase snf1
+promoter occupancy score
+nutrient-controlled transcriptional regulation
+specific growth rate
+experimental data types
+provisional network derived
+maximum allowed flux
+binding-site-motif data sets
+13 growth rate overpredictions
+growth rate cussed
+transcriptional regulatory cascades
+metabolic network analysis
+provisional regulatory network
+regulatory network part
+gln3
+gene expression comparison presented
+gene expression change
+expression change ranges
+expression change fell
+potential direct target genes
+regulate chromatin structure
+oxygen uptake rates
+escherichia coli k-12
+metabolic networks reveals
+verse data types
+regulatory cascades derived
+genome-wide data sets
+regulatory network connecting
+transcriptional regulatory code
+connecting large-scale component
+growth rate predictions
+transcription factor gene
+experimental standard deviations
+maximum flux capacities
+unregulated maximum flux
+significant expression change
+genome-scale metabolic networks
+predicted growth rates
+diverse data sets
+motif data sets
+metabolic network stoichiometry
+metabolic network robustness
+metabolic network tion
+gene expression profiles
+resulting flux distribution
+growth phenotype predictions
+specific regulatory mechanisms
+expanded genome-scale model
+single tf knockout
+regulatory gene deletions
+auxotrophic supplements added
+machado de oliveira
+growth phenotyping experiments
+principal person responsible
+boolean rule-based formalism
+tf/carbon source combinations
+gene expression data
+metabolic network models
+specific transcription factors
+4083206
+
+supplementary data references
+supplemental research data
+metabolic flux profiling
+org
+
+genome research
+www
+growth rates based
+knockout growth phenotype
+constraints-based metabolic models
+metabolic/regulatory network mode
+expanded regulatory network
+stoichiometric matrix describing
+transcription factor knockout
+nucleic acids res
+qualitative gene expression
+gene expression levels
+model organisms including
+vivo observed expression
+multifunctional transcriptional regulators
+independent test set
+metabolic network model
+specific misprenetwork model
+regulatory network model
+chip-chip/ motif data
+binding-site motif data
+total number
+experimental data obtained
+growth media composition
+highly condition dependent
+primary data types
+indirect regulatory interactions
+data sets shown
+chipchip data sets
+transcriptional profiling shows
+predict expression profiles
+tf ko strain
+current model includes
+targeted expression profiling
+gene expression profiling
+carbon source/strain combinations
+existing regulatory rules
+key data type
+gene expression predictions
+regulatory network
+based
+van der spek
+autonomously replicating sequence
+tf-binding motif data
+purely data-driven approaches
+candidate target genes
+114 predicted gene expression
+biochemical network model
+well-studied model organisms
+cerevisiae haploid strain
+applied previously developed
+regulatory cascades identified
+boolean rules derived
+promoter motif data
+final expanded model
+significant mispredictions discussed
+significant mispredictions remained
+gene expression state
+additional gene expression
+predict gene expression
+model parameter estimation
+original imh805/775 model
+existing model based
+saccharomyces cerevisiae
+markus
+-mediated transcriptional regulation
+carbon-source-dependent transcriptional regulation
+wild-type strain specifically
+remaining metabolic genes
+tf­target pair
+indirect target genes
+transcription factor states
+supplemental web sites
+direct pubmed searches
+make phenotypic predictions
+biochemical networks inside
+integrated functional genomics
+network expansion scenarios
+direct regulatory mechanisms
+derive figure 2a
+carbon source metabolism
+boolean rules describing
+potential target gene
+genomic expression programs
+tf knockout effects
+10 tf deletion strains
+tf deletion strains
+previously published reports
+summed absolute discrepancies
+providing strong support
+wild-type condition shifts
+path coherence criterion
+growth phenotyping study
+combining chip-chip data
+chip-chip data plotted
+predicted tf-binding motifs
+additional regulators acting
+parameter estimation approach
+regulatory mechanisms mediating
+compared model predictions
+constraint-based modeling framework
+tf knockout/overexpression strains
+biochemical interaction information
+transcription factors adr1
+10 transcription factors listed
+specific genes involved
+systematic model expansion
+carefully controlled conditions
+gene expression discrepancies
+stress response regulators
+predict growth phenotypes
+suggested regulatory interactions
+regulatory interactions suggested
+including chip-chip model
+anaerobically induced genes
+boolean rules based
+network expansion approach
+article cites 37 articles
+estimated biomass composition
+constraint-based modeling approach
+incorrectly predicted
+nonfermentable carbon sources
+figure 2a shows
+saccharomyces genome database
+network reconstruction step
+saccharomyces cerevisiae phenotypes
+carbon source utilization
+yeast metabolic model
+directed noncyclic paths
+accessed free
+color scheme similar
+cellular objective function
+includes rules describing
+628
+
+genome research
+www
+634
+
+genome research
+www
+genome research
+www
+630
+
+genome research
+www
+identified metabolic genes
+revised form february 23
+vivo data obtained
+e-mail palsson@ucsd
+model-driven data integration
+203 transcription factors number
+potential target genes
+total
+suggested indirect targets
+supplemental mafrom low
+expansion scenario discussed
+yeast
+growth phenotypes
+data set
+saccharomyces cerevisiae genome
+overexpression strains predicted
+improve model predictions
+metabolic subsystems included
+national science foundation
+experiments performed
+expansion approach applied
+systematic search algorithm
+nonlinear objective function
+experimentally measured
+yeast
+van hoek
+article published online
+p-
+genome-scale metabolic
+dent test cases
+genome-scale regulatory
+saccharomyces cerevisiae ind750
+15 intracellular metabolite concentrations
+venn diagrams shown
+data sets
+wild-type yeast strains
+interacresults tions included
+transcriptional cascades
+expansion scenario suggested
+expression change
+observed based
+genome-scale models
+rox1
+analyze sequences
+escherichia coli
+growth rates
+multiple pathways
+predict system states
+data types
+constraint-based analysis
+biological networks
+experimental data
+methods
+model reconstruction
+tfs derived
+change predicted
+imh805/837 model
+gat1 act
+metabolic pathways
+regulatory cascades
+transcription factor
+genome-wide analysis
+correctly explained
+yeast cell machinery
+metabolic flux
+gene deletion
+regulatory network
+environmental perturbations
+regulatory effects
+chromatin immunoprecipitation
+missing link
+labeled edges indicating
+stress induced
+shortest coherent path
+growth phenotyping
+estimation strategy
+stoichiometric matrix
+integrated metabolic
+palsson genome res
+integrated regulatory
+regulatory mechanisms
+network models
+55 transcription factors
+10 transcription factors
+transcription factors
+press
+present work shows
+promoter occupancy
+model-driven analysis
+target gene
+phenotyping expression
+gene expression
+additional tfs
+key regulators
+approach allowed
+imh805/775 network
+microbial cells
+improved prediction
+motif data
+tf ko
+current understanding
+metabolic model
+network consists
+flux distribution
+including genes
+metabolic state
+integrated model
+carbon source
+existing rules
+constraint-based framework
+allowed reaching 67%
+metabolic networks
+knockout strain
+parallel analysis
+model-based analysis
+microarray analysis
+analysis represents
+sensitivity analysis
+regulatory networks
+predicted expression
+individual genes
+network components
+network expansion
+binding factor 1
+775 regulatory interactions
+regulatory interactions
+multiple figure 1
+protein information
+imh805/775 predictions
+expanded model
+genome research
+regulatory signal
+regulatory subsystems
+protein complexes
+increasing knowledge
+increasing respiration
+test growth
+integrated modeling
+model predictions
+data sources
+tf-binding motifs
+predict expression
+203 tfs studied
+imh805/775 model
+growth phenotypes
+saccharomyces cerevisiae
+transcriptional regulation
+wild-type strain
+individual papers
+348 metabolic genes
+metabolic genes
+750 metabolic genes
+experimental protocols
+make predictions
+gat1
+actual data
+biochemical networks
+systematic expansion
+integrated genomic
+improved version
+biomass composition
+imh805/775 consists
+cerevisiae imh805/775
+interaction information
+maximum substrate
+maximum fluxes
+silico predictions
+systematic approach
+rules describing
+network structures
+expansion scenarios
+flux distributions
+genetic perturbations
+metabolic processes
+functional profiling
+experimental conditions
+experimental methods
+tf knockout
+regulatory sis
+regulatory cascade
+silico model
+existing chip-chip
+knockout strains
+cellular stresses
+van hoek
+fermentative capacity
+color scheme
+related sequences
+detailed experiments
+lindo systems
+target genes
+literature derived
+chip-chip data
+silico prediction
+data integration
+model expansion
+tf involved
+integrated resource
+overexpression strain
+relevant literature
+silico strains
+nonlinear constraints
+gata factors
+silico modeling
+predictive ability
+12 growth conditions
+predictive power
+unaccounted expression
+similar approach
+genome-wide maps
+eukaryotic cells
+binding motif
+provide data
+data represent
+venn diagrams
+combinatorial fashion
+high-throughput phenomics
+remove mispredictions
+combinatorial control
+imh805/775 assuming
+significant cies
+imh805/775 predicts
+expression response
+carbon sources
+12 carbon sources
+genome res
+figure shows
+literature references
+yeast cells
+model makes
+error model
+model disfied
+model identicombinations
+expansion approach
+combined network
+directly compared
+directed graph
+estimated computationally
+full detail
+time step
+motif column
+independent measurements
+national institutes
+articles cite
+nucleotide sequence
+van dijken
+purely graph-based
+additional experimentation
+cerevisiae consisting
+objective function
+tf overexpression
+tf separately
+modified strains
+overexpression strains
+pleiotropic regulators
+potential figure 4
+environmental conditions
+rgt1 strain
+established based
+silico simulations
+silico environments
+analythese interactions
+primary function
+systematic inclusion
+intracellular signals
+master regulator
+readily extended
+model-driven fashion
+metabolite concentrations
+metabolite level
+made challenging
+intracellular fluxes
+exact test
+linear optimization
+cerevisiae genome
+diverse conditions
+rules detailed
+optimization-based approach
+model-based approach
+approach combines
+approach requires
+modeling response
+functional roles
+references
+blank
+functional characterization
+genomic analyses
+obtained directly
+computations presented
+genomic scale
+[supplemental material
+supplemental material
+expansion scenario
+promoter-specific binding
+silico methods
+/down-regulated genes
+genes accounted
+layers describing
+layer consists
+initial condition
+systematically expand
+figure 3 summarize
+figure 2c
+figure 4a
+figure 4b
+search algorithm
+observed
+systematically identify
+// www
+primary literature
+bioknowledge library
+chromatin-modifying enzymes
+la jolla
+nutritional environment
+microarray-assisted screen
+received april 30
+major challenge
+random chance
+literature-based reconstruction
+internal fluxes
+overexpression experiment
+traditionally aswas
+mapping fluxomes
+relative performance
+1 present address
+ro1 gm071808
+higher eukaryotes
+white adipocytes
+minimal medium
+mh refers
+strain-condition terial
+extensively reviewed
+monica mo
+shankar subramaniam
+d41­d44
+george santangelo
+machine learning
+system states
+schematic drawing
+major applications
+traced paths
+palsson2
+department
+recent version
+systems biology
+d311­d314
+manual inspection
+82 distinct intra-
+publication date
+blue circles
+external concentrations
+network-level interplay
+studies illustrate
+log2 ratios
+complete lack
+james iii
+valuable discussions
+logic-based representation
+predetermined fraction
+pie chart
+model-based integragration
+detailed studies
+appealing alternative
+yamagata 997-0017
+hap4p overexpression
+ter linde
+starting point
+san diego
+issn 1088-9051/06
+activating depending
+thermo labsystems
+critical comments
+bing ren
+constitutively expressed
+eukaryotic organ-
+
+16
+ijr904 gsm/gpr
+wild type
+input signals
+vasiliy portnoy
+log ratios
+advanced biosciences
+integrating high-throughput
+null mutations
+proteomic analyses
+timothy hughes
+1 vasiliy portnoy
+identify potential
+nutrient regulation
+rgt1 strains
+rfba approach
+org
+
+629
+
+downloaded
+org
+
+631
+
+downloaded
+org
+
+633
+
+downloaded
+org
+
+627
+
+downloaded
+org
+
+downloaded
+set
+potential targets
+systematically discover
+budding yeast
+anoxic response
+eukaryotic genome
+direct targets
+significantly up-regulated
+significantly increase
+significantly overpredicted
+table 2 shows
+conditions studied
+schematically represented
+iteratively expand
+iteratively improve
+imh805/837
+change
+upper corner
+genetic algorithms
+baek-seok lee
+layer describes
+lower corner
+genetic control
+interactions supported
+regulated
+results presented
+interaction
+literature-derived information
+high level
+correct sign
+generously provided
+keio university
+repressing ppar-
+allowed
+mips databases
+extracellular concentrations
+analyzed manually
+thuy vo
+widespread availability
+rap1 revealed
+tor proteins
+fba problems
+analyze
+combined simulation
+california 92093-0412
+identified 13 cases
+analysis
+large number
+activator depending
+determined
+--includes cases
+included chip-chip
+good agreement
+including
+largest category
+interpretation task
+iman famili
+results section
+numbers refer
+fems microbiol
+tfs
+55 tfs
+cascades
+case examples
+ko
+connecting
+yeast
+table 2
+data
+genome biol
+trey ideker
+find significantly
+improved
+significantly down-regulated
+natalie duarte
+fewer steps
+deletion
+specific
+network
+metabolic
+transcription
+regulatory
+approaches
+herrgå
+extracellular metabolites
+measured
+gene
+reconstructed
+growth
+previously
+gene 290
+integrated
+integrated 4
+strain
+cases correspond
+coli
+factors
+organisms
+expression
+predictions
+imh805/775
+online
+significant
+promoter
+predicted
+environmental
+model
+metabolism
+knockout
+001 compared
+compared
+prediction
+glucose
+commonly
+predict
+building
+involved
+state
+cerevisiae
+tf
+networks
+strains
+11 strains
+10 strains
+based
+applied
+downloaded
+silico
+interactions
+suggested
+signal
+includes
+wild-type
+extended
+components
+regulator
+constraints
+expansion
+made
+potential
+rules
+approach
+obtained
+presented
+objective
+direct
+binding
+function
+689 genes
+genes
+805 genes
+750 genes
+article
+figure 1
+figure 2
+identified
+www
+reconstruction
+path
+study
+discrepancies
+type
+system
+listed
+coherent
+tions
+support
+labeled
+chipchip
+shown
+reaction
+edges
+concentrations
+low
+published
+states
+adr1
+utilization
+paths
+mediating
+indicating
+overexpression
+mode
+shortest
+ability
+present
+regulation
+scenario
+vivo
+literature
+yeast
+yeast 19
+response
+genome
+significantly
+represented
+combination
+methods
+conditions
+chip-chip
+improve
+comparisons
+integration
+expand
+identify
+corner
+component
+lee
+genetic
+layer
+rfba
+targets
+included
+search
+information
+org
+org
+
+635
+provide
+high
+complexes
+availability
+explained
+initial
+discover
+sign
+fba
+repressing
+proteins
+california
+extracellular
+metabolites
+analyzed
+combined
+provided
+comparison
+inclusion
+67 extracellular
+represent
+science 285
+blank
+science 292
+mips
+rap1
+correspond
+rgt1
+university
+vo
+science 278
+detail
+number
+55 number
+activator
+ind750
+cases
+418 cases
+28 cases
+191 cases
+498 cases
+13 cases
+80 cases
+agreement
+work
+interpretation
+form
+layers
+table 1
+famili
+numbers
+microbiol
+optimization
+biol
+results
+find
+integrating
+category
+down-regulated
+palsson
+palsson 2002
+cell 3
+cell 108
+cell
+cell 11
+case
+supported
+ideker
+steps
+act
+duarte
+andre
+calculate
+segments
+activation
+summarized
+feierbach
+steensma 2002
+natarajan
+implemented
+lascaris
+reported
+ethanol
+exploring
+bussey
+schilling
+robertson
+fractions
+dwight
+ma
+sucrose
+involve
+eng
+noisiness
+lai
+amid
+environ
+enter
+order
+dombek
+japan
+christie
+fig
+classified
+astromoff
+luca
+frequently
+eukaryot
+r3
+xue
+ism
+hood
+dolinski
+similarly
+activators
+co-regulated
+pgm2
+needed
+percentage
+ahmed
+enabled
+ranish
+reconstructing
+rau
+4083206/dc1
+connelly
+ypd
+magasanik
+kwast
+doi
+calculated
+parenthesis
+dow
+incorporate
+participate
+mannhaupt
+andalis
+albermann
+leid
+gasch
+result
+roberts
+addison-wesley
+guldener
+cooperation
+//www
+nature
+bumgarner
+miyake
+r49
+basis
+riles
+dots
+krause
+topark-ngarm
+costanzo
+shoemaker
+kim
+reese
+studying
+slade
+advances
+veronneau
+tagne
+acad
+cooper
+repression
+christmas
+olsen
+meyer
+kaeberlein
+dismade
+opin
+lieb
+ars
+presence
+prakash
+anderson
+resulted
+inteframework
+sauer 2004
+removed
+r54
+harbison
+panels
+asilmaz
+covert
+evidence
+ni
+role
+picture
+breadth
+boeke
+finally
+brown
+solved
+genet
+box
+institute
+accomplished
+kauffman
+criteria
+encode
+outputs
+bioengineering
+expanding
+conversely
+pronk
+discussion
+inputs
+frishman
+marzioch
+guarente
+by4741
+nature 432
+nature 431
+matched
+benito
+conventions
+matlab 6
+naming
+jackson
+botstein
+squares
+chemically
+independoubled
+skrzypek
+turn
+gordon
+size
+kaiser 2002
+chem
+stephanopoulos
+accurately
+representing
+require
+future
+1/
+turned
+allen
+sponse
+winzeler 2002
+pagel
+tachibana
+price
+correlation
+bold/italics
+considered
+show
+friedman
+kaniak
+storms
+akesson
+bastuck
+summary
+mewes
+connections
+nature 429
+reading
+comwe
+interconversions
+yeasts
+boorsma
+crawford
+direction
+steensma
+kranz
+arnold
+1101/gr
+sauer
+develop
+author
+investigated
+fasting
+traps
+minimize
+consisted
+transmitting
+gavin
+villas-boas
+blom
+nielsen
+dark
+atcc
+mol
+accepted
+subscribe
+weng
+tsuruoka
+reduced
+kaiser
+nature 418
+glycerol
+nature 387
+hopkins
+johnston
+dumpelfeld
+accounts
+munsterkotter
+accumulated
+assumed
+quantitatively
+cat8
+describe
+al
+stoffel
+fill
+yoo
+completeness
+poor
+sci
+activities
+fax
+jensen
+danford
+fan
+kondu
+consequences
+goodlett
+acknowledgments
+contrast
+observing
+colored
+senawong
+narrow
+repressor
+establish
+hannett
+minor
+bioscreen
+kurtev
+obtain
+bangham
+connectivity
+org/cgi/doi/10
+grandi
+paper
+boesche
+picard
+categories
+incompleteness
+pyruvate
+found
+spellman
+reactions
+fisk
+connect
+barrell
+abf1p
+periments
+health
+kuepfer
+print
+evaluation
+ribose
+reason
+galactose
+1­r54
+top
+probability
+unexpected
+storz
+assumption
+diabetes
+auble
+relationship
+ansorge
+treasures
+biotechnol
+lin
+majority
+gal4
+play
+kao
+menda
+clear
+mannose
+eisen
+fink
+moxley
+dictions
+access
+parameters
+winzeler
+merged
+rinaldi
+activity
+forster
+engel
+scatterplots
+aloy
+due
+collected
+msn2/
+liver
+evaluated
+evaluating
+macool
+derisi
+wolfrum
+liu
+evaluate
+buhler
+modifications
+interestingly
+modificacussed
+presence/absence
+proc
+defossez
+bacteriol
+org/cgi/content/full/gr
+cooper 2002
+badcock
+relaxed
+reed
+culotta
+consist
+macisaac
+curr
+edwards
+application
+sturtz
+nat
+explaining
+allowing
+fructose
+fisher
+required
+issues
+young
+overlaps
+ketogenesis
+knight
+notes
+giaever
+narlikar
+click
+piper
+3c
+3b
+3a
+bernhard ø
+re-run
+tools
+sgd
+usa
+chu
+balakrishnan
+account
+process
+loch
+sought
+reynolds
+genomes
+grivell
+light
+marton
+lactate
+chosen
+li
+hinnebusch
+braun
+verifying
+magnitude
+chung
+map
+rev
+maximized
+burke
+aref
+conflicts
+facilitate
+bes-0331342
+manuscript
+improvements
+reached
+thorsson
+unknown
+annotation
+grunenfelder
+biochem
+liang
+unchanged
+goldberg
+raffinose
+strack
+araujo
+hope
+822-3120
+stumpflen
+identification
+gcn4p
+addition
+category--evidence
+aebersold
+lucau-danila
+wormpd
+pombepd
+http
+promoters
+effect
+mcburney
+routinely
+carmel-harel
+hxt1
+natl
+theor
+fermentable
+aparicio
+627-635
+iyer
+overlap
+goldberg 1989
+bussemaker
+repressors
+sumed
+assess
+appl
+hirschman
+log10
+converted
+demonstrate
+kingston
+details
+baker
+validation
+277
+278
+279
+100
+1997
+1998
+28058­28064
+221­231
+< 1 10 14
+001
+25 4
+4226­4233
+1298­1309
+17 2
+929­934
+38%
+103­105
+70­77
+805
+6 2
+387­391
+51
+1­18
+01 10 10 10 10
+
+4 9 5 10
+
+<1 <1
+
+<0
+04 3
+680­686
+[2004]
+95 2
+01 <1 10
+
+6 14
+
+14
+771­776
+4241­4257
+03 2
+34865­34872
+99­104
+26 2
+58­63
+2
+1999
+10
+12
+15
+14
+327­334
+3
+26
+475­487
+64
+01 10 10 <0
+< 0
+4083206
+213
+45 4
+4
+33 6
+51 7
+901­906
+1027­1032
+26146­26158
+5
+73­88
+858
+6
+13134­13139
+491­496
+52 2
+886­897
+56 47 20 26 38 187 81 66 29 18 49 243
+
+29 40 20 31 43 163 38 51 28 29 56 202
+
+262 158 51 92 69 632 236 139 42 99 56 572
+
+388 489 648 581 575 2681 380 478 640 584 564 2646
+
+<1 <1 <1 <1
+
+<0
+2006 16
+21
+28
+29
+42 2
+7
+184
+523
+ø
+653­661
+223­238
+344­348
+775
+4347­4368
+29 2
+627­635 ©2006
+82 3
+21 2
+49 2
+2002
+2003
+2000
+2001
+2006
+2004
+2005
+2008
+44%
+32
+< 1 10 57
+21 5
+825­840
+86
+250­265
+388
+01
+92­96
+1989
+669­677
+75­79
+45

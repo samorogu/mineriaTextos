@@ -1,0 +1,279 @@
+consider
+BRIDGET
+Baltimore
+non-spiked-in
+detection
+ETECTION
+Research
+oligonucleotide expression
+experiments
+Hartemink
+Rehannah
+alternative
+EATURES
+subtracting
+amplification
+interquartile
+OLLETTIE
+parameters
+interesting
+proportion
+ORMALIZATION
+Histogram
+empirical evidence
+interested
+across-array
+biomedical
+Although
+Berkeley
+AGNASCO
+AUBERTAS
+transformation
+Irizarry
+hybridization
+correspondence
+noticeable
+reference quantiles
+MG-U74A
+motivating
+OCKHART
+advantage
+evaluate
+possible
+Analysis
+EFERENCES
+`realistic
+quantiles
+Exploration
+subtraction
+background
+performance
+Concentrations
+difference
+concentration experiment
+BEAZER-BARCLAY
+Lockhart
+alternative background
+probe-specific affinities
+Biotechnology
+different experimental
+DIFFERENTIAL EXPRESSION
+log-scale
+subtracting probe-specific
+IRIZARRY Department
+specific
+100-fold
+standard deviation
+VARIANCE
+dilution
+left-hand
+Therefore
+Statistics
+log-normal
+computation
+sequence
+sensitivity
+ITTMANN
+Quantitative analysis
+Spike-in
+spike-in experiment
+Statistica
+intensity
+individual
+High-density oligonucleotide
+Expected
+generation Affymetrix
+KRISTEN
+preparation
+Affymetrix Microarray
+representative
+expressed
+TERENCE
+increase
+model-based expression
+absolute
+Normalized
+scanner/fluidic
+expression measures
+probespecific
+approach
+Supplemental
+available
+analysis algorithm
+additive probe-specific
+improvement
+University
+processing
+component
+probe-specific
+standard
+Proceedings
+oligonucleotide
+GOODNESS
+demonstrate
+Standard deviation
+detecting
+Typically
+Affymetrix GeneChip
+ONCLUSION
+comparison
+EASURES
+Biostatistics
+extensive spike-in
+National
+likelihood estimation
+spiked-in
+-dimensional quantile­
+probe-level
+Genomebiology
+Statistical
+dilution concentration
+concentrations
+log-transformed
+NTRODUCTION High-density
+ARTEMINK
+experimental
+histograms
+background-adjusted
+exploratory analysis
+left-of-the-mode
+ANTONELLIS
+marginal
+normalization procedure
+stratification
+Specifically
+appropriate
+downside
+achievable
+specificity
+spike-in concentrations
+Evaluation
+non-specific
+horizontal
+additive
+publication
+comparing
+likelihood
+triplicate
+parallel
+intention
+assumption
+California
+high-density oligonucleotide
+interest
+Bioinformatics
+expected
+replicate
+percentage
+EXPRESSION
+KOBAYASHI
+summarizing
+manufacture
+HG-U95A
+corresponding
+hypothetical
+multiarray
+background correction
+differences
+mismatch
+distribution
+artifact
+histogram
+environmental
+normalized
+particular
+obscuring
+cardinality
+Expression
+probe-specific affinity
+differentialexpression
+abundance
+distance
+exception
+scenario
+exponential
+replicates
+ESCRIPTION
+Bioconductor
+different expression
+intensities
+behavior
+different concentration
+Gaithersburg
+Concentration
+Children
+Intensities
+Affymetrix technology
+Technical University
+constant
+worthwhile
+IKOUNIS
+Received
+Furthermore
+Histograms
+respective
+Estimating
+estimation procedure
+Workshop
+COMPARISONS
+identifiability
+concentration
+feasible
+technology
+normalizing GeneChip
+physical
+Division
+different
+ACKNOWLEDGEMENTS
+exploratory
+background-corrected
+JAAKOLA
+different picomolar
+background adjustment
+mechanism
+microarray
+variance­mean relationship
+RIZARRY
+familiar
+objective
+multiplicative model-based
+`obscuring
+triplicates
+Statistical analysis
+development
+subtilis
+attenuation
+incorrect difference
+Institute
+closed-form transformation
+AffymetrixGeneChip
+measures
+leukemia
+variation
+Melbourne
+probe-set
+independent
+FFYMETRIX
+Expression monitoring
+boxplots
+Biweight
+changing
+Dilution
+transcript
+response
+normalization
+defective
+effective
+multi-array
+Associate
+Observed expression
+analysis
+Observed
+quantile­quantile
+nonspecific
+Standard Deviation
+HG-U95A GeneChip
+Australia FRANCOIS
+differential expression
+Model-based analysis
+quantity

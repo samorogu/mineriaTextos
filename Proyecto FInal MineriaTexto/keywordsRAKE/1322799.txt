@@ -1,0 +1,1902 @@
+option delay 10 min 10 min 10 min 10 min 10 min 10 min magnitude 1 squirt 1 squirt 2 squirts 1 squirt 1 squirt 2 squirts delay 11 min 11 min 11 min 15 min 15 min 15 min magnitude 2 squirts 3 squirts 3 squirts 2 squirts 3 squirts 3 squirts
+
+resented
+option delay 20 min 20 min 20 min 20 min 20 min 20 min magnitude 1 squirt 1 squirt 2 squirts 1 squirt 1 squirt 2 squirts delay 21 min 21 min 21 min 25 min 25 min 25 min magnitude 2 squirts 3 squirts 3 squirts 2 squirts 3 squirts 3 squirts
+early option early option delay 0 min 0 min 0 min 0 min 0 min 0 min magnitude 1 squirt 1 squirt 2 squirts 1 squirt 1 squirt 2 squirts
+
+figure 3
+option delay 1 min 1 min 1 min 5 min 5 min 5 min magnitude 2 squirts 3 squirts 3 squirts 2 squirts 3 squirts 3 squirts
+
+table 2
+future rewards differentially recruits cortico-basal ganglia loops
+passive learning task activate human striatum
+fluid squirt generate
+directly satisfy evolved appetitive mechatakes
+anterior commissure­posterior commissure line
+small squirt size
+org beh hum dec proc 65
+current analysis selectively weights decision periods
+exact time choice-related brain responses occurred
+10 min delay options processes
+relative concept framed sistent array
+functional magnetic resonance imaging data analysis
+allegra 2 versus 3 squirts
+intertemporal choices involving immedi- preferentially activated
+squirt size
+include squirts delayed
+early option early option
+recent juice squirts
+delay catemore flexible functional form
+10 min time delay
+squirt
+juice/water squirts
+predictability modulates human brain response
+immediacy 25 min delay
+posterior parietal cortex responded similarly
+neural mechanisms underlying intertemporal choice
+integrated discount function modest delays
+late squirts
+brain regions predicts actual choice behavior
+choice behavior subjects showed clear evidence
+dorsolateral prefrontal cortex [brodmann area 9
+water squirts
+1 min rest period
+juice squirts
+limbic reward-related areas show greater activity
+intertemporal choice experiments elicit time preferences
+montreal neurological institute coordinates
+functional magnetic resonance imaging
+functional magnetic resonance neuroimages
+25 min delay
+5 min delay
+0 min delay
+20 min delay
+10 min delay
+30 min delay
+fear stimuli arises equally
+basic controls include indicator variables
+multiplicatively normed activity findings support
+health grants p30 ag024361
+0 min trials compared
+squirts
+conjunction rior cingulate cortex
+dayan provided valuable comments
+ann ny acad sci 877
+short-sighted nondeliberative behavior termed
+conditions elicits decisional conflict
+relative magnitude
+basic controls basic controls
+actual bold signal measures
+largely domain-general cognitive processes
+magnitude categories
+magnitude categohypothesize
+magnitude category
+cognitive control mechanisms subserved
+reward magnitude
+20 versus 25 min
+0 versus 1 min
+30 min options
+20 versus 21 min
+10 versus 11 min
+present-oriented 15 min
+0 versus 5 min
+long-run aggregate disthis pattern
+head movement estimates derived
+5 min differences
+give percentage signal change relative
+dummy variable identifies intertemporal choices
+7 min blocks
+min fail
+10 min trials
+20 min trials
+pcc lies slightly rostral
+greater delayed rewards elicit activity
+areas showing increased activity
+latest system system juice/water reward
+tasks involving cognitive processes
+error bars represent sem
+regress voxel-level neural activity
+normed brain activity variables
+bilateral primary taste cortex
+brodmann areas neural discounting
+subjects discount drink amazon
+automatic human information processing
+parallel distributed processing account
+magnetic resonance signal
+magnitude
+30 min
+0 min
+5 min
+10 min
+25 min
+1 min
+min
+20 min
+anterior cingulate conflict monitoring
+minutes lead thirsty subjects
+identified brain region separately
+multiplicatively normed measure
+brain areas inreward study
+acc
+
+introduction
+empirical studies
+avoid startling delay
+double-exponential discount function match
+· time discounting miller ek
+water included gustatory cortex
+task performance requires subjects
+posterior parietal cortex
+functional brain imaging
+lesser reward option
+choices favoring delayed rewards
+earlier reward option
+total head movement 3 mm
+early versus middle cohen
+earliest reward option
+perceptual learning automaticity
+multiplicatively scaled transformation
+early option
+dorsolateral prefrontal cortex
+areas exhibit significant discounting
+detect conditions requiring
+approximately equally rewarding
+delay period labels
+flexible formulation rep-
+
+5800 ·
+anterior cingulate cortex
+regressor identifies brain areas
+brain response occurred
+identified brain areas average
+swallowing-related head movement
+gaussian smoothing kernel
+blood oxygenation level-dependent
+comput biomed res 29
+macdonald iii aw
+midbrain dopamine neurons
+regression specification ses
+excessive head movement
+russell sage foundation
+computer-controlled syringe pump
+early count function
+absolute time delay
+convenient functional form
+dorsal anterior cingulate
+separate continuous exponential
+higher-level cognitive functasks
+neural sysworking memory
+trends cogn sci 8
+trends cogn sci 10
+5796 ­5804 · 5797
+
+larger option
+medial prefrontal cortex
+higher-frequency signal drift
+abstract problem solving
+weighted subcomponents ries
+environmental dependency syndrome
+medial orbitofrontal cortex
+bold signal measured
+marginally significant negative
+reward-related brain responses
+basic control variables
+linearly decreasing weight
+gave maximal weight
+rote decision stratchoices
+main projection site
+deliberative cognitive processes
+middle versus late choices
+discount factors extracted
+initiate liquid delivery
+imaging analysis suggests
+discount rates expressed
+short-run discount rates
+exp psychol gen 126
+lesser option
+bold signal drift
+lateral prefrontal cortex
+hemodynamic response kernel
+neural discount factors
+prethe intertemporal characteristics
+prefrontal cortex function
+doubleexponential discount function
+stable temporal characteristics
+reward option
+earlier option
+limbic reward-related areas
+separate neural systems
+generate quantitative predictions
+discussion papers 2005-16
+statistical significance takes
+system combine additively
+-weighted echo-planar images
+ardenne contributed significantly
+mesolimbic dopamine system
+early versus middle
+dummy variable identifies
+discount factor sea
+smaller discount factor
+weight bold signals
+convey reward information
+smaller liquid reward
+exhibits exponential discounting
+place greater weight
+intertemporal choice includes
+carnegie mellon university
+exponential discount functions
+overlapwith greater conflict
+slice timing correction
+making intertemporal decisions
+general cognitive processing
+brain areas generate
+afni program alphasim
+ventral striatum bilaterally
+studied intertemporal choices
+double-exponential discount function
+involving monetary rewards
+responses late cortex
+liquid delivery period
+thirsty subjects chose
+executing cognitive control
+predicts choice based
+supplementary motor area
+ventral striatal activity
+linear systems methods
+include task controls
+join economic theory
+effects originally reported
+full glm analysis
+single glm analysis
+neural activation estimates
+frontal lobe damage
+system decays rapidly
+left anterior insula
+red circles indimaterials
+single-exponential discount functions
+individual brain areas
+double-exponential discount factor
+early versus late
+gamma function developed
+substantially greater amount
+evoke limbic activity
+bold signal amplitude
+exhibit significant discounting
+contextual framing effects
+brain reward circuitry
+larger discount factor
+decisions involving choices
+controlled substituted labels
+additional inspection reveals
+50% percent relain contrast
+tween brain activity
+reward processing involving
+exponential decay function
+temporal difference models
+temporal offset parameter
+premotor cortex duncan
+convolving delivery times
+distinct neural systems
+predicting choice based
+baseline signal individually
+treat rewards evidence
+recent research finds
+decision epochs identified
+brain areas produced
+brain areas responding
+reward delivery corresponded
+5796 ­5804
+
+behavioral/systems/cognitive
+
+time discounting
+neural discounting reported
+current experiments extend
+received support tively
+previous statistical analysis
+thirsty subjects choose
+initiate fluid delivery
+fit gamma functions
+test nature measured
+discount factors coefficient
+twoping voxels increases
+body water loss
+quasihyperbolic discount function
+brain areas identified
+subject chooses table 4
+rev econ stud 23
+previous decision periods
+correlated discount functions
+36 binary intertemporal choices
+activity replicate dummy
+temporal prediction errors
+time delay
+methods cated juice
+brain areas activated
+reward overlapping voxels
+delayed monetary rewards
+estimated discount factors
+discount factors estimated
+supplemental materials section 3
+current experiment shows
+identify overlapping voxels
+general linear model
+current area average 0
+reward-related learning
+identified brain regions
+intertemporal choice find
+specific subregions involved
+general brain regions
+delay category
+absolute delay
+medium delay
+delay categories
+shortest delay
+previous delivery period
+lag neural events
+basic controls
+distinct brain regions
+individual trial estimates
+minimum 8 contiguous voxels
+limbic reward areas
+identified brain region
+fit discount functions
+gift certifin contrast
+weighting decision periods
+averexact voxels found
+bold response amplitudes
+find regions bilaterally
+unlike gift certificates
+limbic reward system
+baseline bold amplitude
+annu rev neurosci 24
+rigid discounting function
+limbic reward regions
+brain activity equation 3
+regressor ate rewards
+including future planning
+resulting estimates present
+fluid delivery period
+· time discounting
+
+analysis
+simplex fitting procedure
+money study showed
+neural data sets
+two-system discounting model
+delivered intermixed set
+water control question
+earliest monetary reward
+psychology suggesting pendently
+option
+pennsylvania 15213
+1
+
+previous research
+probit model modality
+choices subjects responded
+specific choice type
+head movement
+significantly predict choice
+6 3 2 system system structure
+indicator variables
+brain regions load
+primary rewards
+samuel
+functional form
+consistent brain areas
+water delivery events
+exact nature
+intertemporal preferences
+finding acc activity
+elicit activity
+parietal cortex
+indicator variable
+time discounting studies
+human brain
+voxel system model
+future experiments
+prefrontal cortex
+visual subjects made
+show evidence
+decisions involving
+information processing
+functional images
+functional neuroimaging
+latest rewards
+orbitofrontal cortex
+bold signal
+activated reward-related
+exact voxels
+find similar results
+early reward
+flexible system
+rostral area
+respond preferentially
+discount factors
+empirical evidence
+parameter estimates
+dummy variables
+dummy identifies
+automatic processes
+human autonomy
+time preferences
+human decorrespondingly
+lateral prefrontal
+button press required
+neural activity
+discount function
+double-exponential function
+neural systems
+exhibit sensitivity
+anterior insula
+ventral striatum
+acquired parallel
+show qualitatively
+biol sci 298
+voxel-level replication
+3 p30 ag012810
+aggregate disfollows
+ann neurol 19
+discount functions
+drink rewards
+limbic activity
+paralimbic cortex
+region-level cortex
+cereb cortex 11
+statistical analysis
+signal amplitude
+discount factor
+choosing early
+brain area
+decision epochs
+decision periods
+intertemporal choice
+36 intertemporal experience
+purely exponential
+receive support
+behavioral preferences
+brain activity
+temporal discounting
+cognitive neurology
+delay
+bilateral areas
+individual fluids
+control variables
+neural basis
+neural activation
+neural substrate
+brain systems
+ç ç evoke activity
+visual cortex
+distinct processes
+greater activity
+contiguous voxels
+parietal regions
+region-of-interest
+
+table 3
+table 4 presents
+choices involving
+bias estimates
+brain areas
+limbic system
+limbic play
+limbic activation
+decision period
+premotor area
+normalized measures
+baseline drift
+diverse methods
+cogn neuropsychol 3
+syscount rates
+quantitatively match
+contrasted automatic
+probit models
+brain response
+conflict monitoring
+intertemporal choices
+bold response
+monetary reward
+delivery period
+cognitive control
+area activity
+decision making
+gift certificates
+discount funcsubjects
+discount parameters
+dummy include
+limbic reward
+brain activation
+emotional brain
+processing domain
+behavioral estimates
+general theory
+finds delayed
+single-exponential discounting
+significant response
+bold data
+discounting function
+directly compare
+left insula
+abstract symbolic
+frontal lobes
+weighted average
+patient processes
+error detection
+impulsive responding
+avoid imposing
+associative processes
+sum-squared error
+compared emotional
+growing body
+middle versus
+standard errors
+reward-dependency syndrome
+future work
+brain regions
+areas identified
+conflict-monitoring function
+utility function
+time period
+premotor areas
+greater tendency
+greater activation
+greater propensity
+greater likelihood
+current study
+response conflict
+psychol rev 111
+psychol rev 97
+psychol rev 83
+psychol rev 108
+framing effects
+reward processing
+significant difference
+response period
+perform functions
+tween delays
+motor areas
+two-system model
+extra weight
+options include
+relative activation
+rewards relative
+brain region
+significance criterion
+main challenges
+gift certifv
+specific parameters
+task performance
+binary choice
+task specific
+specific impairments
+domain general
+examined individually
+normalized responses
+linear dependence
+regions include
+dorsal acc
+late delivery
+delibreward delivery
+online monitoring
+4 4 4 mm 3 resolution
+8 mm full-width
+analysis reveals
+parametric analysis
+demonstrated analysis
+activity replicates
+lesser activity
+average activity
+differential activity
+pfc activity
+event-related activity
+greater correspondence
+evidence suggests
+supplemental material
+cision making
+initial glm
+activated tially
+consistently activated
+decision research
+data analysis
+response time
+economic research
+counting systems
+greater overlap
+movement-related effects
+delayed utility
+benefits delayed
+delayed options
+existing theory
+integrative theory
+subjects responded
+previous report
+significant overlap
+delayed rewards
+reward delivery
+similar area
+probit index
+psychol bull 82
+· time discounting
+time discounting
+voxel identified
+binary choices
+previous data
+time difference
+absolute time
+time inconsistency
+time scales
+repetition time
+echo time
+time units
+time scale
+areas ing
+areas predict
+average areas 0
+areas demonstrate
+areas commonly
+brain water
+fluid delivery
+previous study
+differences produced
+response modality
+additional finding
+delayed reward
+acc activity
+previous research
+shared voxels
+results replicate
+timing characteristics
+probit model
+time delays
+econ rev 93
+behavioral theory
+nonexponential discounting
+hyperbolic discounting
+discounting parameters
+normative discounting
+p01 ag005842
+flory jd
+nystrom le
+circle icon
+varner jl
+f32 mh072141
+mysterious underpinnings
+mammalian species
+activation levels
+uniformly responsive
+humans share
+sinc interpolation
+ultimatum game
+secondary reinforcers
+loyola symposium
+nucleus accumbens
+vols kd
+system conforms
+aronson ja
+2007 copyright © 2007 society
+long run
+closely linked
+challenge arose
+experieach pairing
+subgenual cingumoney
+sensory projections
+montague pr
+precise times
+vis ctx
+neuroscientific contrary
+choice presentation
+2national bureau
+emotional life
+likelihood ratio
+primary reinforcers
+harvard mimeo
+error-related negativity
+accepted april 3
+ppar bilaterally
+rilling jk
+realignment step
+blue circles
+task design
+inappropriate calibration
+analogous calculations
+task circumstance
+system tivity
+internal states
+color-coded red
+manuck sb
+
+5804 ·
+national institutes
+williamson de
+independently predict
+custom-written programs
+choice epoch
+small volumes
+graduate students
+short run
+golden eggs
+3 tesla siemens
+declines rapidly
+brown sm
+psychiatric disjuice
+revised march 4
+long-term goals
+significance threshold
+improve comparison
+exclude history
+de wit
+mutually exclusive
+cho ry
+soc lond
+patient system
+numerically simcharacteristics
+baumeister rf
+experimental session
+braver ts
+evolutionary pressures
+choose requirements
+visceral influences
+adams cm
+humans produces
+possibilities suggest
+t32 mh065214
+stenger va
+myopic system
+fong gw
+dolan rj
+solso rl
+long history
+average amplitude
+10 versus idea
+statistically indistinguishable
+preprogrammed manner
+choice outcomes
+instantaneous gratification
+low power
+generated debate
+loaded significantly
+delivarea average 0
+mcclelland jl
+phil trans
+primary rewards
+substantially rewards
+secondary rewards
+data collection
+choice data
+brain-imaging data
+pooled data
+previous findings
+higher activity
+areas correspondence
+regions commonly
+discounting behavior
+remaining functions
+­ discounting model
+identify voxels
+shorter delays
+patient behavior
+financial delays
+choice behavior
+dependent areas
+classic model
+late reward
+reward horizons
+specious reward
+reward anticipation
+reward modality
+mediate reward
+reward magnitudes
+primary reward
+water delivery
+botvinick mm
+regressor identified
+specific features
+main purpose
+economic decision-making
+identify potential
+directly implicated
+harvard university
+similar eas
+dummy included
+fluid categories
+cohen jd
+subject chose
+36 experimental choices
+exclude choices
+experimental choices
+region discounting
+timing structure
+control events
+primary visual
+impulse control
+carter cs
+good correspondence
+received sept
+account clustering
+behavioral data
+result delivery
+encourage subjects
+subjects disinclude
+subjects decided
+subjects answered
+dorsocaudal region
+whole-brain analysis
+water delayed
+earlier reward
+substantial overlap
+barch dm
+event-related fmri
+simply required
+losing money
+choice set
+money rewards
+earliest versus
+button box
+fmri data
+experiment finds
+quadratic fit
+fit simultaneously
+money study
+present study
+significantly higher
+subsequently normalized
+term labeled
+equal amplitude
+neuroimaging analyses
+normalized version
+ant ins
+princeton graduate
+quadratic dependence
+berns gs
+system responds
+driven primarily
+qualitatively change
+liberal threshold
+direct ferred
+smcclure@princeton
+system equal
+subject individually
+behavioral choices
+areas tion
+data labeled
+reward size
+drinks delivered
+icates delivered
+similar findings
+framing experiment
+observed activity
+earliest reward
+faster rate
+wald test
+find values
+high rate
+nonparametric test
+subjects voxel
+vious studies
+stroop effect
+marginal effect
+primarily found
+subject based
+results suggests
+fit choices
+kerns jg
+bounded rationality
+row represents
+regressor generated
+elicit
+food goods
+laibson di
+experimental economics
+customized software
+fits correspond
+thaler rh
+cox rw
+impatient system
+correlate significantly
+regressor structure
+served commonly
+wellcome department
+sanfey ag
+simple reason
+social situations--
+princeton university
+important property
+circumstances reflects
+henceforth refrom
+posner mi
+color-coded controlling
+tanaka sc
+validity pair
+harris cj
+ledoux je
+regressor ensures
+doherty jp
+breiter hc
+gories follow
+shiffrin rm
+rosen br
+hariri ar
+decision science
+fluid type
+early
+reward values
+fit region
+fit subjects
+direct correspondence
+coefficient df/dx
+acc responds
+fluid delivered
+fitting procedure
+choosing bediscussion
+additional regressors
+trials listed
+choice number
+studies identify
+subjects included
+exponentially discounted
+subjects found
+experiment design
+contivated experiment 2
+experiment 2 suggest
+predicts
+func-
+
+tions
+key words
+implies substantially
+discuss implications
+respond preferen-
+additive combination
+neuroscience 0270-6474/07/275796-09$15
+snyder crr
+addithen averaged
+null hypothesis
+system respond
+relationship befigure 5
+continuous-time generalization
+behavioral economics
+simple hypothesis
+observed amplitude
+cohen ms
+button press
+including pma
+including fits
+preceding juice
+fruit juice
+enhanced preference
+nat neurosci 7
+ct ç system
+
+1
+ct icates
+references
+ainslie
+immediacy effect
+behavior finally
+control trials
+19 control trials
+subjects select
+experiment 2 choices
+experiment 1 choices
+mcclure sm
+subsequent analyses
+controls
+juice reward
+human
+estimated consistency
+3 george loewenstein
+subject received
+lr test
+slower rate
+context dependent
+previously dependent
+give
+discounted values
+sistent
+identifies
+future
+trials detailed
+results
+experiment 1
+water allowed
+visually displayed
+cognitive
+showed
+variable
+table 3
+table 2
+table 1
+table 5
+table 4
+limbic
+display shown
+responses
+5796 ­5804 · 5799
+
+figure 2
+prefrontal
+figure 1
+figure 2
+figure 4
+experiments
+discount
+double-exponential
+brain
+processing
+current
+bold
+directly
+middle
+processes
+periods
+function
+greater
+significant
+functions
+responded
+form
+relative
+weight
+include
+0 weight
+conflict
+decision
+identified
+reported
+percentage
+labels
+performance
+period
+area
+general
+30 delivery
+delivery
+analysis
+003 activity
+activity
+glm
+distinct
+evidence
+characteristics
+activated
+motor
+based
+systems
+effects
+dummy
+delayed
+previous
+time
+004 areas 0
+areas
+response
+voxels
+discounting
+activation
+insula
+amplitudes
+absolute
+versus
+substantially
+primary
+miller
+extend
+lesser
+procedure
+choice
+quasihyperbolic
+change
+2 versus 3
+predictions
+rigid
+predict
+damage
+significantly
+reveals
+modality
+average
+samuel
+0 ç
+system
+events
+1 versus 3
+1 versus 2
+images
+correlated
+difference
+options
+minimum
+developed
+late
+lag
+tively
+find
+duncan
+19 events
+baseline
+suggests
+task
+structure
+resulting
+offset
+discussion
+62% decay
+choose
+red
+times
+system
+pennsylvania 15213
+amplitude
+dayan
+controlled
+unlike
+increases
+made
+rewards
+data
+regions
+study
+delays
+behavior
+research
+­ model
+model
+reward
+earlier
+identify
+behavioral
+similar
+university
+fluid
+cohen
+choices
+coefficient
+voxel
+received
+visual
+weighting
+correspondence
+org
+acc
+account
+carter
+control
+including
+timing
+subjects
+region
+findings
+size
+fmri
+money
+barch
+finding
+dependent
+set
+required
+econ 42
+pattern
+econ 107
+present
+overlap
+earliest
+button
+fit
+direct
+qualitatively
+type
+princeton
+immediacy
+prediction
+labeled
+suggesting
+berns
+threshold
+section 1
+section 2
+driven
+psychology
+higher
+df/dx
+afni
+analyses
+normalized
+equation 3
+planning
+equal
+responds
+sets
+dependence
+ins
+estimated
+included
+delivered
+total
+test
+values
+differences
+represent
+rate
+press
+test]
+minutes
+studies
+found
+botvinick
+effect
+water
+results
+laibson
+blue
+property
+economics
+breiter
+circumstances
+thaler
+work
+represents
+sanfey
+features
+tion
+posner
+result
+fail
+cox
+decision-making
+slower
+pma
+correlate
+pair
+regressor
+visually
+harris
+served
+rosen
+bounded
+follow
+social
+controlling
+subsequent 2
+ledoux
+reason
+declines
+load
+purpose
+consistency
+remaining
+doherty
+goods
+department
+impatient
+whole-brain
+henceforth
+receive
+involved
+kerns
+blocks
+fits
+hariri
+lr
+30 ms
+tanaka
+shiffrin
+detailed
+software
+display
+volumes
+fitting
+pcc
+choosing
+trials
+number
+select
+discounted
+46 experiment
+experiment 1
+experiment 2
+experiment
+combination
+implicated
+respond
+observed
+tions
+allowed
+displayed
+discuss
+generalization
+neuroscience
+contrast
+finally
+relationship
+context
+ppar
+implies
+averaged
+words
+hypothesis
+previously
+snyder
+963 implies
+subject
+juice 0 0 ç ç
+juice
+ainslie
+preference
+neurosci
+neurosci 26
+neurosci 21
+ct
+trial
+consistent
+shown
+5796 ­5804
+
+mcclure
+mcclure
+science 280
+science 306
+science 275
+science 303
+science 300
+loewenstein
+regressors
+between-subjects
+yellow
+nottingham
+physiological
+mediated
+matlab
+conjecture
+risk
+summarized
+school
+fect
+elegant
+conduct
+ers
+told
+active
+interpret
+unit
+averaging
+separated
+ollinger
+aligned
+mo
+precuneus
+involve
+4department
+5
+center
+minimized
+types
+shallice
+schneider
+hypotheses
+order
+interpretation
+vary
+london
+fig
+weeks
+neuron 38
+overcome
+amenable
+im-
+series
+postein
+extract
+sma
+2 ml
+5796 ­5804 · 5803
+
+nisms
+estimate
+ueda
+created
+ordering
+render
+tem
+acquaint
+engagement
+noll
+researchshifted
+rejected
+z-axes
+mind
+indexes
+germany
+doi
+observation
+consumed
+accounted
+subtle
+pagnoni
+implementation
+ba9
+adequate
+6 female
+introduced
+unable
+visualization
+faced
+hillsdale
+conturo
+participating
+adapted
+expected
+entered
+wt
+
+1
+3department
+applied
+exception
+contems
+ii
+make
+complex
+split
+exertion
+failing
+5b
+explained
+clustered
+jneurosci
+www
+people
+12 female
+/
+okada
+neural/behavioral
+presence
+rotations
+5 ation
+absent
+coeff
+maximum
+note
+computing
+constructed
+nj
+role
+doya
+update
+reanalyzed
+assume
+disorganization
+measurements
+alternatives
+environment
+division
+glms
+presented
+insignificant
+repetitive
+erative
+apparent
+acby
+stream
+performed
+divided
+lhermitte
+max
+friston
+se
+appraised
+sooner
+ed
+receipt
+entering
+eq
+massachusetts 02138
+receiving
+correct
+possibility
+turn
+vstr
+structures
+x-
+pittsburgh
+respec1977
+representing
+coefficients
+analyze
+resampled
+computer
+outcome
+instructed
+green
+1 ml/
+ericson
+surprising
+adopt
+critchley
+analytic
+identification
+predicted
+yeung
+ence
+satiety
+schuster
+prescreened
+familywise
+called
+con2001
+regressions
+color
+efvolved
+obscribed
+direction
+case
+knutson
+movements
+costs
+components
+adjustments
+smoothness
+read
+decomposed
+correcting
+reas
+serves
+spm2
+dunbar
+critical
+opportuwould
+equivalent
+broken
+mixed
+cambridge
+determine
+3 ml
+assumes
+reduce
+strongly
+scanner
+deliberation
+al
+scanned
+frontal/parietal
+gaining
+ilar
+unresponsive
+kirby
+observe
+lack
+generalize
+distincexperiment
+monterosso
+1 keith
+eds
+stimulus
+nj 08540
+dlpfc
+half-maximum
+consumptions
+arbelow
+kahneman
+indethere
+component
+de9
+nities
+considerresponse
+comparing
+corrected
+tested
+remain
+scan
+numbers
+maps
+self-control
+reject
+jersey 08540
+schultz
+respecwith
+egy
+resemble
+deterioration
+y-
+akbudak
+susceptible
+pcu
+anticipated
+framework
+association
+quintuple
+characterized
+expect
+discrete
+prelec
+beginning
+availthrough
+conducted
+probability
+00/0
+temperature
+part
+tive
+double
+determined
+depending
+discounts
+4246-06
+goal-directed
+2 david
+impact
+access
+dividing
+failed
+captures
+3b
+achieved
+close
+96/min
+impulsiveness
+1523/jneurosci
+attention
+distinguish
+sensitive
+reasons
+1 ml
+ensured
+bidding
+yields 0
+intriguing
+liquids
+[h0
+discountis 0
+abstain
+alternative
+cross-currents
+dissociation
+surprised
+bin
+anomalies
+presreplication
+ba46
+ba44
+60 ered
+plots
+fast
+translate
+repeatedly
+yamawaki
+paired
+uk
+sum
+calculated
+defined
+likewise
+duration
+nac
+amounts
+meaning
+age
+wards
+psychiatry
+neuroimage 6
+simon
+excluded
+indicating
+drinking
+noted
+recruitment
+imply
+dynamics
+giving
+seconds
+3a
+5department
+stereotyped
+degree
+cubitt
+composed
+addressed
+sgc
+tools
+consumption
+depicted
+jonathan
+amygdala
+discussed
+varied
+3dfwhm
+choice/trial
+fwhm
+cohen1
+estimating
+hommer
+subset
+related
+adaptive
+attending
+affective
+york
+conflicts
+interaction
+distinctions
+manuscript
+revealed
+priority
+underexperiment 1
+diminish
+mechanism
+instance
+centre
+valuing
+fact
+supported
+impulsivity
+ended
+fixed
+willpower
+tend
+favor
+drug
+cb
+cf
+addition
+sufficient
+ba10
+c2
+c1
+neuroeconomics
+vt
+unity
+frequently
+center
+patterns
+distrol
+proximity
+obtain
+erlbaum
+identical
+tests
+munich
+immediately
+cognition
+sequence
+okamoto
+e-mail
+selecting
+journal
+mofc
+additionally
+h0
+neuroreport 12
+assess
+repeated
+valuation
+marketplace
+begun
+variety
+details
+18 female
+chance
+pathways
+ment 2
+indirectly
+107
+98
+1990
+1992
+1997
+1996
+5796 ­5804
+887­ 893
+539 ­546
+503­507
+9
+195
+931­959
+332­361
+1023­1026
+329 ­337
+02
+2793­2798
+01
+05
+93­103
+335­343
+1977
+1975
+523­547
+339 ­346
+55
+53
+52
+747­749
+1593­1599
+081
+0
+96
+5796 ·
+1999
+5802 ·
+1­ 0
+11 0
+271­290
+1755­1758
+5798 ·
+03 0
+96 25 0
+3683­3687
+162­173
+2
+1998
+15
+14
+18
+167­202
+02 0
+094 0
+3
+60
+54 ­70
+13213­13217
+4
+108 ­116
+837­ 848
+001]
+5
+10
+1449 ­1475
+195 0
+6
+61%
+25
+20
+21
+23
+28
+463­ 496
+78
+8
+0001
+37
+127­190
+001
+5796 ­5804 · 5801
+
+0
+272­293
+990 25 0
+081 0
+990 0
+2003
+2001
+2006
+2007
+2004
+2005
+015
+019
+573­597
+39
+38
+30
+36
+963 25 0
+165­180
+2007 · 27
+288 0
+094
+0 0
+861­ 871
+1
+963 0
+288
+045
+199 ­209
+421­ 423
+15 0
+1986
+1982
+1981
+46
+44
+624 ­ 652
+07 0

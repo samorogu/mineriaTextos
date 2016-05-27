@@ -1,0 +1,891 @@
+common error bars
+error bar range standard deviation
+cell biology
+
+error bars commonly
+achieve narrower inferential error bars
+formula highest data point minus
+independent clonal control cell cultures
+independent clonal experimental cell cultures
+female biddelonian basketball players
+red blood cell counts
+gene deletion affects tail length
+se bars capture  varies depending
+red blood cell count
+middle error bars show 95% cis
+leftmost error bars show sd
+duplicate samples implies consistency
+experiment involves triplicate cultures
+8
+
+jcb · volume 177 · number 1 · 2007
+
+published april 9
+determining cis requires slightly
+successive cis vary considerably
+average ci error bar arm
+mice affects tail length
+range error bars encompass
+show inferential error bars
+researchers misunderstand confidence intervals
+cis make things easier
+experimental biology
+geoff cumming
+show standard deviation
+sd error bars include
+separate cell clones
+control cell cultures
+replicate cell cultures
+publish science--knowledge gained
+la trobe university
+figure shows se bars
+se =
+10 jcb · volume 177 · number 1 · 2007
+
+12
+ci error bars overlap
+middle show 95% ci
+short inferential bars
+necessarily biologically important
+stock cell culture
+science typically copes
+true standard deviation
+descriptive sd bars shown
+inferential error bars
+feature
+
+error bars
+error bars represent
+in-
+
+error bars
+error bars encompass
+error bar interval
+show error bars
+column show range
+ci/se bar width
+error bar arms
+common error bars
+descriptive error bars
+standard error bars
+showing error bars
+statistical significance test
+rockefeller university press $15
+separate stock cultures
+bars vary greatly
+show se bars--
+error bars capture
+medical journal editors
+natural animal-toanimal variation
+australian research council
+error bars give
+wide inferential bars
+perform 20 replicate measurements
+se bars relate
+large black dots
+large dots mark
+show confidence intervals
+inferential
+
+se = sd/
+tissue culture plate
+se varies inversely
+estimating statistical significance
+se error bars
+experimental biology · cumming
+statistically highly significant
+ci error bars
+95% ci error bars
+experiments gave measurements
+200611141
+
+jcb
+
+7
+
+published april 9
+independently conducted experiments
+illustrate basic properties
+small black dots
+single stock culture
+sd error bars
+give information describing
+statistical significance tests
+type descriptive descriptive
+small error bars
+make inferences about--
+rules giving approximate
+error bars shown
+statistically significant difference
+independently repeated experiments
+standard deviation
+statistically significant effect
+independently performed experiments
+cell biology
+independently sampled individuals
+error bar
+individual data points
+small variation implied
+se bars don
+comparing wildtype mice
+left show sd
+assist correct interpretation
+se bars shown
+single result fits
+average arm length
+compare experimental results
+-1
+
+standard error
+standard error
+leftmost panel
+replicate cultures
+error bars
+inferential intervals
+gene deletion
+2008
+
+published april 9
+published april 9
+9
+
+published april 9
+experimental biology
+formula
+
+sd =
+statistically significant
+tail lengths
+geoff cumming
+highest values
+duplicate samples
+95% ci
+
+inferential
+larger sample size
+large error
+error message
+stock culture
+show se
+standard deviations
+mefs showing
+independent experimental
+encompass roughly 95%
+time point
+statistical reform
+true population values
+confidence intervals
+bars listed
+highly significant
+replicate measurements
+se bars
+necessarily cover
+independent experiments
+column denotes
+large dots
+psychological science
+se = sd/
+95% ci bars
+independent observations
+independent samples--
+replicate wells
+figure shows
+range
+david
+normal range
+range increases
+inferential statistics
+se varies
+basic categories
+basic features
+independent samples
+experimental biologists
+highly desirable
+single condition
+sd bars
+include rules
+make clear
+mutant mice
+descriptive statistics
+kinetic measurements
+multiple measurements
+give rules
+95% cis capture
+similar experiments
+confidence interval
+significant difference
+data points
+open circles
+estimated differently
+carefully distinguished
+international committee
+possibly occur
+good approximations
+graphic signal
+description amount
+manuscripts submitted
+joke tellers
+mutant mouse
+real life
+random fluctuation
+vaux2
+1
+
+school
+high precision
+subsequently treating
+require finding
+adjacent wells
+-/- mefs
+uniform requirements
+20 labs happen
+easily swap
+dotted line
+enzyme activity
+big advantage
+graphical approach
+closely approximate
+people reading
+bad luck
+precise estimates
+simply plot
+takes account
+satisfactory answers
+statistical inference
+square root
+cumming@latrobe
+illustrative purposes
+read pictures
+control results
+independent results
+standard errors
+ci length
+make inferences
+20 independent sets
+identical samples
+comparing samples
+simple rules
+approximate 95% ci
+experimental results
+repeated measurements
+representative experiments
+average se
+control cells
+communicate data
+interval defines
+separate means
+wide variation
+biological understanding
+experiments performed
+low variation
+effect exists
+real effect
+repeated observation
+fact 95% cis
+approximate 95% cis
+infinite number
+number beloved
+experimental cells
+control groups
+roughly speaking
+± 2xse intervals
+long run
+labs performed
+wild-type mice
+achieve
+average difference
+figure legends
++ sd
+full arm
+independent times
+95% ci includes
+1 fiona fidler
+fiona fidler
+fidler@latrobe
+accurate estimates
+question successfully
+central question
+low values
+snark hunters
+numbers shown
+true difference
+entire population
+data typical
+interval includes
+typical difference
+group
+
+clude 0
+wild type
+group correlation
+true effect
+figure legend
+rules illustrated
+95% ci calculated
+sample size
+volume
+change systematically
+biomedical journals
+vaux@latrobe
+entire set
+wild types
+position relative
+understanding results
+means add
+touching means
+larger difference
+rule 5 states
+journal article
+information needed
+mentally double
+group difference
+representative experiment
+values
+
+figure 2
+lowest
+
+sd =
+smaller samples
+understanding statistics
+illustrate inappropriate
+compare groups
+larger sets
+tail
+inferential
+present evidence
+cultures
+left panels
+e2 difference
+group comparisons
+range
+show
+lie
+table
+reader interpret
+error
+common
+assess overlap
+descriptive
+overlap rule
+3 shows
+group differences
+deletion
+gene
+relation means
+assess differences
+bars
+april 9
+individual
+dots
+things
+count
+requires
+control
+independent
+varies
+stock
+culture
+capture
+gap equal
+include
+significance
+estimating
+significant
+experimental
+give
+vary
+single
+make
+mice
+measurements
+length
+experiments
+large
+wide
+conducted
+interpretation
+correct
+plate
+tests
+8 fits
+cumming
+assist
+researchers
+press
+individuals
+comparing
+approximate
+wildtype
+× se
+×se
+± 2 × se
+se
+2 se
+2007
+
+jcb
+jcb
+samples
+average
+rules
+95% ci
+ci
+data
+interval
+difference
+inferences
+understanding
+legend
+compare
+information
+illustrate
+representative
+journal
+variation
+2008
+
+repeated
+effect
+repeated
+95% cis
+cis
+number
+true
+arms
+sample
+performed
+typical
+research
+size
+roughly
+don
+sampled
+long
+includes
+time
+2007
+
+figure 6
+2007
+
+figure 4
+figure
+2007
+
+figure 7
+figure 1
+figure 3
+figure 5
+sd = 12
+± 1 sd
+2 sd
+sd
+arm
+small
+left
+results
+larger
+values
+reader
+david
+wild-type
+needed
+lie
+normal
+comparisons
+calculated
+result
+article
+present
+fidler
+sets
+accurate
+increases
+snark
+illustrated
+overlap
+question
+width
+lowest
+evidence
+shown
+population
+type
+group
+experiment
+cells
+panels
+statistics
+relation
+change
+2008
+
+journals
+types
+journals
+inappropriate
+set
+vaux
+± 2xse
+table
+interpret
+position
+inference
+differences
+assess
+means
+2 means
+rule 5
+rule 8
+rule 4
+rule 6
+rule 7
+rule 1
+rule 2
+rule 3
+rule
+smaller
+groups
+equal
+equal 1
+errors
+e2
+double
+times
+gap
+sci
+reasoning
+repetition
+calculate
+hunting
+knock-
+including
+org/cgi/doi/10
+schenker
+wished
+end
+replication
+figs
+summarized
+trouble
+leads
+occurs
+replicates
+sum
+suspect
+tips
+unsure
+downloaded
+address
+study
+reason
+suggests
+extremes
+3-
+makes
+examining
+marked
+addressed
+eye
+2department
+e1
+hypothetically
+depicted
+noting
+e3
+recommend
+conclusions
+factor
+4 illustrates
+leonard
+tested
+pitfalls
+cases
+animals
+london
+//www
+publications
+making
+adjusted
+male
+stated
+ann
+assay
+graphing
+verify
+statisticians
+vital
+animal
+answer
+intended
+lab
+reflect
+wrong
+designed
+remember
+effective
+2 illustrates
+suggest
+2007 7­11 http
+lined
+2se
+interpreted
+fidelity
+fit
+lo
+fig
+correspondence
+occasions--
+tails
+identically
+suppose
+occasions
+found
+referred
+significantly
+abnormal
+related
+expect
+measure
+increase
+misses
+medicine
+tables
+org
+estimate
+likelihood
+agony
+created
+thing
+permit
+probability
+approximately
+genotype
+decrease
+similarly
+unknown
+top
+carry
+heights
+convention
+ranging
+williams
+expect 95%
+thought
+required
+authors
+83 pp
+observed
+kind
+= 3 case
+matter
+deciding
+analysis
+mcmenamin
+wilson
+relationship
+note
+recommended
+useless
+carroll
+mutants
+accuracy
+victoria
+multiply
+stronger
+psychology
+sigma
+gentleman
+supported
+6 apply
+implying
+australia 3086
+thirds
+find
+ratio
+explain
+controls
+irrelevant
+reveal
+reproduciblity
+doubled
+ses
+med
+mind
+correlations
+plausibly
+sex
+plausible
+close
+sem
+closer
+tend
+state
+reproducible
+drawn
+justified
+multiplied
+notice
+95% confident
+nature
+combining
+hypothesis
+distinguish
+christiansen
+region
+drug
+sensitive
+figures
+placebo
+conclude
+height
+5 illustrates
+due
+confident
+judging
+choose
+quantities
+c3
+c1
+case
+1083/jcb
+aim
+wilcoxon
+vol
+kalinowski
+greater
+emphasize
+uncertainty
+pipetting
+belia
+timepoint
+judgment
+lower
+case 40
+half
+identify
+questions
+touch
+readers
+0/3 = 6
+spread
+95% majority
+finch
+measurement
+helpful
+indication
+conclusion
+essential
+kleinig
+www
+20 years
+intern
+statistic
+triplicates
+provided
+bottom
+critical
+measuring
+paper
+refers
+comparison
+changing
+meaning
+melbourne
+misleading
+reactions
+al
+experiment--don
+determine
+valuable
+methods
+2008
+
+references
+1
+measured
+fraction
+psychol
+guide
+sds
+properly
+macmillan
+made
+paired
+distance
+defined
+describe
+meaningless
+au
+assessing
+biochemistry
+interested
+papers
+stat
+repeat
+calculating
+chance
+variable
+fundamentally
+correlated
+2 ses
+understand
+0
+-1
+38
+= 4
+= 3
+= 1
+±
+1997
+1
+299­311
+20
+28
+177
+799
+7
+36­47
+1876
+2
+11
+12
+18
+1%
+126
+> 0
+3
+8
+= 30
+93
+00
+05
+6
+60
+01
+< 0
+389­396
+4
+30
+55
+52
+5%
+428
+= 40
+©
+­1
+1­6
+0005
+5
+95%
+10
+182­186
+2005
+2008
+= 10
+> 1
+2001
+2007
+2004
+170­180

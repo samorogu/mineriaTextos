@@ -1,0 +1,1557 @@
+local six-frame translated nucleotide-to-nucleotide alignment algorithm
+center yellow vertical strip represents autocorrelation
+de novo motif discovery tools
+created receiver operating characteristic curves
+multiple probe sets interrogating single genes
+allele-specific probe expression analysis approach
+allele-specific probe expression analysis method
+custom-designed whole-genome gene expression arrays
+custom-designed gnf1m mouse array interrogates 36
+10550 north torrey pines road
+duplicated regulatory elements present
+su
+u133a gnf1h chipset interrogates 44
+detect naturally occurring polymorphisms
+primary amino acid sequence
+islet neogenesisassociated protein-related protein
+general term encompassing lcrs
+high-density oligonucleotide arrays offer
+defined molecular roles encoded
+umbilical cordenriched expression characteristic
+de novo gene predictions
+de novo predicted transcripts
+studying highly abundant proteins
+purified immune cell populations
+produce largely nonoverlapping sets
+genes share significant sequence similarity
+biotechnology information hs34 assembly
+allele-specific probe expression analysis
+whole-genome gene expression arrays
+accelerating functional genome annotation
+pooled embryonic day 14­16 embryos
+drosophila gene expression arrays
+singleton gene predictions offered
+human protein-encoding transcriptomes
+andrew
+small nucleolar rna genes
+genome-scale rna expression data
+affymetrix chip design pipeline
+total sequence length aligned
+tissue-specific rct list suggests
+mouse genome sequences opened
+ubiquitously expressed housekeeping genes
+lack significant expression annotation
+tissue-specific rna expression pattern
+cell typespecific gene expression
+average pairwise sequence similarity
+direct tissue-specific gene expression
+providing human rna samples
+highly conserved expression pattern
+previously undescribed imprinted transcripts
+gene prediction efforts considered
+additional mammalian genome sequences
+embryonic day 14­16 embryos
+previously uncharacterized protein-encoding genes
+find protein family members
+multiple probes interrogating
+created custom arrays
+gnf1h custom human array
+remove repetitive elements
+rneasy miniprep kit
+doublecortinand calmodulin kinase-
+raw cel files
+classical reassociation kinetics
+mistaken terminal exons
+genes share enriched expression
+parental allele-specific expression
+entire probe sets
+designed custom arrays
+protein homology support
+previously undescribed transcripts
+false positive rate
+minimum false-negative rate
+true positive rate
+global median scaling
+pearson correlation coefficient 0
+center represent correlation
+significant sequence similarity
+gene prediction algorithm
+february 2003 mm30 assembly
+statistically significant differences
+nucleic acids res
+strong regional enhancer
+site-specific chromatin remodeling
+largest quantitative evaluations
+laser capture microdissection
+pairwise correlation coefficients
+global research community
+van der mee
+olfactory bulb present
+gino van heeke
+16
+
+6067
+
+genetics
+
+ther augmentation
+scripps research institute
+respective genome assemblies
+highly correlated expression
+human sample set
+su
+tissue-specific coregulated genes
+condensed data files
+common promoter elements
+pairwise sequence similarity
+tissue-specific expression pattern
+specialized protein expression
+gene atlas represents
+correlated expression achieved
+tissue-specific gene expression
+average pairwise correlation
+pancreas-enriched expression pattern
+tissuespecific expression pattern
+regenerating islet-derived proteins
+mus musculus castaneus
+bronchial epithelial cells
+including region-specific dissections
+generate biotinylated crna
+subsequently quickly frozen
+adjacent tandemly repeated
+assess global trends
+computational prediction [biasing
+gene expression omnibus
+gene prediction efforts
+novartis research foundation
+functional annotation process
+exhibit genomic imprinting
+mouse genome assembly
+hundred target sequences
+tissue-specific gene regulation
+microarray chip design
+human genomic dna
+gene expression arrays
+poorly characterized transcripts
+high expression levels
+gene predictions compiled
+apparent sequence similarity
+level 2-fold higher
+identify potential loci
+single gene family
+correlated expression pattern
+share sequence similarity
+observe detectable expression
+single technology platform
+gene duplication events
+examining transcript expression
+slightly higher rate
+average normalized expression
+left represent correlation
+poorly characterized genes
+org cgi doi 10
+mouse target sets
+singleton predictions found
+previous findings derived
+normalized signal intensity
+observations generally concur
+data set expands
+data set constitutes
+previously unrecognized lcr
+examine global trends
+normalized expression values
+mouse genome projects
+mouse genome assemblies
+well-characterized imprinted loci
+incomplete transcript predictions
+previously characterized genes
+removed gene targets
+gene order confirmed
+genes perform analogous
+sequence similarity plot
+mouse genomic sequences
+gene expression information
+expression pattern showed
+highly expressed genes
+transcribed mrna product
+independent mouse crosses
+mouse chromosome 9 represents
+mouse embryonic samples
+708 mouse riken-derived genes
+human genome projects
+correlated expression patterns
+rot analysis suggests
+higher-order gene regulation
+cast ei forms
+human data sets
+distinct mouse strains
+similarly expressed genes
+extensive gene atlas
+predicted protein-encoding genes
+higher-order transcriptional regulation
+current tissue libraries
+pancreas-specific genes mapping
+encode related genes
+individual transcript level
+human sequence set
+final target set
+genes predicted independently
+mouse target sequences
+mouse gene predictions
+gene prediction methodologies
+fetal brain sample
+imprinted expression pattern
+investigated patterns indicative
+methods target sequences
+pnas web site
+greater total number
+consensus gene predictions
+human target sequences
+mouse data set
+performed similar analyses
+000 mouse target genes
+evolutionarily conserved rct
+alignment similarity
+resulting data set
+predicted genes derived
+human data set
+evolutionarily conserved rcts
+mouse chromosome 12 share
+182 probe sets
+775 probe sets
+reflects physiological differences
+mouse
+pnas april 20
+genes previously shown
+female c57bl 6 mice
+mouse chromosome 12 based
+gnf1m arrays
+oligonucleotide arrays
+locus control regions
+mouse tissue samples
+tissue-specific pattern
+enhancer elements
+protein-encoding transcriptomes
+mas5 algorithm
+genome assembly
+probe set
+common unigene cluster
+human tissue samples
+provide experimental validation
+functional annotation
+regulatory mechanisms
+annotation efforts
+human refseq genes
+genome sequence
+highly enriched
+probe capable
+sequence similarity
+apparent lack
+singleton predictions
+multiple genes
+genome assemblies
+data sets
+multiple testing
+row represents
+custom array
+generally direct
+significant factors
+rna expression
+entire genome
+genome res
+ubiquitously expressed
+parental expression
+microarray analysis
+expression pattern
+annotation information
+immune system
+ams biotechnology
+putative polymorphisms
+limited sets
+bar represents
+current annotation
+0400782101
+
+hg-u133a chip
+evolutionarily conserved
+national center
+single gene
+single target
+global trends
+expression values
+gnf1h design
+gene atlas
+gnf1h array
+pairwise comparisons
+web site
+gene expression
+gene prediction
+existing research
+high correlation
+genomic view
+affymetrix custom
+sequence identity
+sequence informatics
+showed expression
+mrna expression
+mouse rcts identified
+rna samples
+target gene
+000 protein-encoding genes
+target sequences
+645 target sequences
+extensive atlas
+additional samples
+design process
+protein-encoding transcriptome
+rna interference
+total rna
+gene predictions
+imprinting analysis
+analysis reconfirmed
+probe-level analysis
+important roles
+distinct methods
+significant challenge
+small subset
+higher-order mechanisms
+population level
+reciprocal crosses
+mammalian genomes
+mouse suggests
+protein-encoding human
+expression enriched
+detectable expression
+enriched expression
+uncharted genome
+examine patterns
+parental imprinting
+gene duplication
+uncharacterized gene
+individual sequences
+transcript prediction
+higher rate
+highest rate
+global signatures
+expression patterns
+distinctive pattern
+low correlation
+correlation plot
+common pattern
+299 mouse sequences
+331 mouse sequences
+029 mouse sequences
+uncharacterized mrna
+previous analyses
+massachusetts institute
+review february 3
+detailed annotation
+experimental conditions
+umbilical cord
+independent pools
+physiological annotation
+genomics institute
+embryonic tissues
+supporting information
+computational learning
+gnf1h chips
+independent litters
+predicted transcript
+laser scanner
+fetal brain
+cancer res
+extensive set
+data set
+transcriptional regulation
+spatial expression
+imprinted loci
+transcript predictions
+predicted genes
+target genes
+van asperen
+van schaik
+present
+
+address
+van sluis
+structural gene
+gene targets
+gene product
+coding sequences
+182 mouse transcripts
+pairwise blat
+hg-u133a array
+previously reported
+correlated transcription
+small number
+final selection
+fetal thyroid
+neurological process
+apparent tractability
+microarray procedure
+c57bl 6j
+analogous manner
+genes share
+698 human sequences
+transcripts expressed
+silico predictions
+consensus predictions
+average number
+single line
+rct analysis
+final human
+genes found
+exprespnas april 20
+data publicly
+underlying data
+high degree
+extensive compendium
+nonredundant set
+imprinted expression
+000 mouse genes
+mouse genes
+] rodent transcripts
+split transcripts
+individual probes
+11 uncharacterized f-box
+cast ei
+human data
+single locus
+single tissue
+biological annotation
+direct tissue-
+mammalian biology
+additional tissues
+182 mouse targets
+mouse transcriptome
+mouse chromosomes 7
+expressed genes
+pooled sample
+16
+
+sion patterns
+mouse chromosome 7
+mouse chromosome 9
+mouse chromosome 6
+mouse chromosome 12
+pnas april 20
+pnas
+
+april 20
+specifically expressed
+expressed exclusively
+sample profiled
+brain regions
+samples increases
+samples derived
+iken genes
+dissimilar genes
+genes dev
+adjacent genes
+structural genes
+identify genes
+3­10 adjacent genes
+validated genes
+unrelated genes
+sequence conservation
+common role
+single-linkage clustering
+noncoding rnas]
+la jolla
+random factor
+ordered vertically
+human samples
+prefrontal cortex
+accurately correlates
+agilent bioanalyzer
+biological sample
+satchin panda
+san diego
+graeme bilbe
+dry ice
+ines hoffmann
+david block*
+normalization procedure
+common targets
+identify 200 clusters
+historical bias
+clinomics biosciences
+normal transcriptome
+randomization studies
+synthesize cdna
+inexact art
+equal numbers
+fertilized eggs
+santa clara
+richard soden*
+independently generated
+historic era
+cdna overexpression
+rot analyses
+mit e25-201
+national academy
+track ii
+genome-wide studies
+normalization procedures
+clonetics biowhittaker
+diverse strategies
+rapid progress
+lesser impact
+hybridization signal
+technical expertise
+30-fold higher
+christian zmasek
+locus-dependent manner
+gov unigene
+iken clones
+base layer
+2a illustrates
+fertilized egg
+gov pubmed
+rnas derived
+preliminary description
+di tommaso
+partially address
+gabriel kreiman*
+disease etiology
+wd40 repeat
+pathophysiological states
+heavily influenced
+chromosomal organization
+gov geo
+syntenic anchors
+exist solely
+red bars
+maternal allele
+highest degree
+green bars
+chromatin structure
+bill sugden
+caenorhabditis elegans
+solid bars
+necessarily incorrect
+sinai school
+comparison algorithms
+palo alto
+genomics strategies
+comparative genomics
+window sizes
+mimi hayakawa*
+imprinting status
+est databases
+quantitative measures
+earlier estimates
+clifford shults
+specific clusters
+hopkins drive
+contributed equally
+differing methods
+approved march 2
+duplicate amplifications
+including pancreatitis-
+located proximal
+high-throughput technologies
+reliably detects
+imprinted transcripts
+expression characteristics
+genome scale
+published analysis
+human hg-u133a
+human genomes
+825 unique human
+syntenic regions
+chromosomal regions
+protein-coding regions
+imprinted regulation
+pattern
+6066 www
+human chromosome 2
+human chromosome 13
+pnas office
+analogous results
+groups showed
+imprinted genes
+samples profiled
+signal based
+green bar
+red bar
+female imprinting
+gene function
+individual rct
+perfect predictor
+reasonable predictor
+mouse cluster
+gene
+6064 www
+total number
+large number
+accession number
+rcts share
+important role
+important clues
+upstream neighbors
+downstream neighbors
+brain tissues
+61 mouse tissues
+618 ensembl predictions
+found rcts
+lcr machinery
+ensemblonly group
+performed essentially
+trends genet
+data show
+locus sharing
+chromosomal locus
+rct driven
+refseq genes
+yellow
+lower left
+high-throughput techniques
+aid researchers
+submitted directly
+universally predictive
+michael heuer
+subsequent results
+cell types
+common conclusion
+describe hundreds
+relevant tissues
+separate litters
+human cluster
+hilmar lapp*
+homozygous groups
+evaluated commonly
+tim wiltshire*
+significantly extend
+sequencing phase
+16 6063
+
+genetics
+
+fig
+16 6065
+
+genetics
+
+fig
+transcripts represented
+sites rcts
+chromosomal rcts
+physiological function
+unknown function
+syntenic region
+vast majority
+diverse panel
+earlier work
+undoubtedly increase
+interpro domains
+female subjects
+classes based
+serge batalov*
+predictor strength
+properly interrogate
+32 tissues profiled
+jie zhang*
+est evidence
+find evidence
+left axis
+blue line
+ca 92037 edited
+center
+peter dimitrov
+ensembl group
+observed rcts
+tissue preparation
+previously
+arrays
+sequence
+celera group
+rna
+analysis
+protein
+family
+1 protein
+projects
+genome 13
+average
+usa
+
+6062­ 6067
+
+www
+similarity
+pattern
+gnf1h
+considered
+characterized
+members
+lcrs
+defined
+suggests
+normalized
+length
+expression
+prediction
+hogenesch@gnf
+design
+present
+gene
+sequences
+target 44
+array
+predicted
+differences
+conserved
+sample
+control
+strains
+0400782101
+
+predictions
+predictions
+12 share
+share
+data
+set
+transcripts
+uncharacterized
+found
+enriched
+mouse
+regulation
+transcript
+patterns
+expressed
+samples
+genes
+11 genes
+physiological
+total
+plot
+adjacent
+observations
+cell 9
+castaneus
+confirmed
+left
+rot
+cell 106
+imprinting
+targets
+product
+produce
+proteins
+mapping
+probes
+technology
+66% higher
+mice
+unigene
+derived
+find
+common
+frozen
+higher
+signal
+methods
+methodologies
+novartis
+``consensus
+cell
+resulting
+cell 12
+reflects
+including
+crna
+affymetrix
+identify
+analyses
+related
+cells
+chromosome 7
+chromosome
+859 human
+human
+775 human
+000 human
+79 human
+491 human
+human [
+regions
+1073 pnas
+pnas
+pooled
+bar
+based
+female
+su
+su*
+imprinted
+transcription
+profiled
+predictor
+number
+provide
+investigated
+important
+neighbors
+biological
+line
+lcr
+performed
+group
+tissue
+cluster
+locus
+rct
+org
+blue
+reported
+types
+classes
+strength
+subjects
+observed
+techniques
+groups
+commonly
+blat
+researchers
+describe
+separate
+measures
+characteristics
+lower
+generated
+structure
+results
+michael
+challenge
+wiltshire
+refseq
+lapp
+submitted
+predictive
+dimitrov
+sequencing
+peter
+biology
+significantly
+tissues
+conclusion
+tissue-
+108 rcts
+rcts
+region
+function
+work
+preparation
+www
+domains
+increase
+show
+ensembl
+majority
+scale
+panel
+validation
+represented
+hogenesch
+usa 100
+conservation
+batalov
+published
+``conservation
+usa 99
+interrogate
+hogenesch*§¶
+*
+shown
+identified 156
+evidence
+genet
+axis
+zhang
+identified
+gnf
+fig
+ca 92121
+ca
+celera
+918 celera
+consists
+auc
+contained
+130 mb
+medline
+riggins
+miller
+consistent
+chee
+established
+organisms
+& bartolomei
+consisting
+florea
+10-
+ching
+obtained
+voute
+study
+vogt
+kobayashi
+abbreviations
+holt
+adult
+magrane
+md
+ma
+``celera-
+wang
+chanda
+end
+methodology
+significance
+& miller
+lockhart
+peg3
+manuscript
+ncbi
+bono
+network
+sapinoso
+washed
+mason
+medicine
+commercially
+osato
+mechanistically
+fabrication
+rates
+percentage
+john
+3 -end
+tool
+serve
+walker*
+keyword
+obata
+ests
+hum
+nonobservation
+moqrich
+assessed
+observation
+kreps
+721 b-lymphoblasts
+508 mb
+availability
+mittmann
+follettie
+12-week-
+dalbert
+& lash
+report
+reg1a
+venter
+result
+capacity
+kanapin
+paternal
+visualization
+handful
+huang
+received
+edgar
+orth
+expected
+hartzell
+domrachev
+suggest
+make
+yandell
+nih
+welsh
+kim
+opportunity
+materials
+note
+nature 409
+han
+clustered
+intertwined
+ching*
+altschul
+moskaluk
+auc 0
+auc 1
+cooper
+bottom
+kasukawa
+& bishop
+5330411g14rik
+acad
+joseph
+fraction
+offering
+sutton
+litter
+& lipman
+accounting
+test
+fur1
+devon
+enhancers
+time
+finally
+blast
+table 1
+ascertaining
+skewed
+repeatmasker
+gtl2
+upper
+100 mg
+axes
+template
+shared
+isoforms
+subdivided
+testis
+understanding
+adachi
+furuno
+okazaki
+dewar
+knowledge
+myers
+charlier
+validity
+prenormalized
+cases
+insights
+utrs
+labeled
+vega
+making
+figure
+expanding
+saito
+allowed
+10675 john
+zim1
+discussion
+rubin
+map
+deveraux
+date
+hatada
+bonazzi
+peterson
+correspondence
+pruned
+kern
+prompted
+000 mrnas
+kent
+suggesting
+carr
+california
+keith
+r-project
+turn
+clontech
+reg1b
+comprised
+brain-
+white
+locations
+& mei
+sciences
+paralogs
+pair
+link
+madison
+cavaille
+bioinformatics 18
+colocalization
+646 mb
+mapped
+nature 420
+ferguson-smith
+fitzhugh
+miraglia
+jr
+1110006e14rik
+analyzed
+key
+characterization
+color
+exploit
+pulverized
+protocols
+hughes
+discrepancy
+pap
+develop
+tblastx
+straume
+valuable
+baldwin
+kerlavage
+``ensembl-
+poised
+dissected
+leaving 22
+mol
+correcting
+riken
+cooke*
+images
+yeast
+provided
+critical
+nature 418
+biased
+power
+dissection
+manufacturer
+cambridge
+inclusion
+determine
+area
+madden
+complete
+mammals
+regard
+cloned
+promote
+593 mb
+levorse
+abingdon
+al
+& kim
+scanned
+bishop
+briefly
+included
+pool
+building
+schonbach
+curve
+sci
+caveats
+798 mb
+hakak
+roy
+kondo
+bachellerie
+sum
+10 kb
+contrast
+berkeley
+search
+triaged
+nature 405
+dio3
+oxfordshire
+aza-blanc
+comparing
+& brown
+lander
+h19
+resources
+male
+synteny
+symatlas
+sotomaru
+schultz
+blood
+& felsenfeld
+qiagen
+ortholog
+dejesus
+walkersville
+developed
+paper
+baas
+detected
+mt
+framework
+humans
+speculate
+2b
+2c
+spellman
+hark
+cooke
+wisconsin
+lawrence
+328 mb
+reflected
+morita
+dong
+mamm
+& schmidt
+cdnas
+translation
+lppm429
+determined
+biotechnol
+treated
+788 mb
+built
+lin
+liu
+build
+kay
+measured
+windows
+paulsen
+& kono
+thomas
+& bachellerie
+& stubbs
+celera-
+ingram
+2004
+
+vol
+investigate
+anticipate
+birren
+descriptions
+fang
+trizol
+grimmond
+science 290
+science 291
+recently
+missing
+distinguish
+chatsworth
+improved
+6 mb
+buxbaum
+regulates
+bell
+simply
+decline
+& cavaille
+screened
+determination
+liver
+extracted
+duran
+103 mb
+products
+horton
+literature
+derisi
+25 kb
+visualizations
+reviewed
+patel
+january 2004
+reap
+remaining
+sim4
+showing
+individuals
+allcells
+& rubin
+play
+schoenherr
+b6
+accelerate
+hermus
+integration
+proc
+caron
+schaffer
+dlk1
+stuart
+mayberry
+chang
+shimoda
+rosbash
+biol
+gough
+fragmented
+byrne
+zhu
+hybridized
+paired
+called
+influence
+adams
+nat
+blood 100
+walker
+kawaji
+katz
+nodell
+& church
+indicating
+oocytes
+matsuda
+categories
+positions
+fewer
+noted
+dcamkl1
+mural
+download
+harvests
+3c
+completion
+led
+neuropharmacology
+preferentially
+addressed
+confidence
+remains
+hubbell
+& cooke
+2004 vol
+account
+averaged
+thorvaldsen
+nikaido
+gallo
+profile
+696 mb
+lines
+correspond
+form
+divided
+hypothesize
+li
+lu
+university
+invitrogen
+morton
+nusbaum
+mediated
+utility
+ref
+pruitt
+zody
+york
+determining
+explored
+davis
+evans
+hinrichs
+reisdorph
+quality
+biochem
+youngson
+detection
+§department
+appealing
+cohen
+& cockett
+linked
+linton
+subject
+& tilghman
+regl
+bred
+request
+fact
+visualizes
+text
+supported
+yevtodiyenko
+unable
+thousands
+harmer
+made
+processed
+ascertain
+frierson
+profiling
+seitz
+reconfirm
+dlk
+identification
+& stamatoyannopoulos
+ability
+nature 250
+neurobeachin
+addition
+copies
+indicators
+controlled
+surprisingly
+examined
+& kay
+cross
+powell
+http
+science 278
+c130007e11rik
+& haussler
+variety
+position
+wagner
+sources
+smith
+natl
+mitra
+& maglott
+doyle
+placenta
+georges
+ma 02142
+searching
+carlsbad
+iyer
+possibilities
+e-mail
+coregulation
+approximately 3%
+lund
+baertsch
+teasdale
+suzuki
+1­10 copies
+hastie
+cdkn1c
+& richardson
+igf2
+compared
+pittsfield
+boon
+rian
+orthologs
+zhou
+4b
+4a
+103
+101
+104
+1527­1538
+207­210
+97
+1997
+1996
+1999
+1998
+11484­11489
+486­489
+413­415
+24%
+129­136
+698
+3389­3402
+3077­3086
+1976
+1974
+53%
+137­140
+90%
+28­30
+0
+248­252
+52%
+3693­3702
+633­638
+1
+860­921
+79%
+2110­2113
+629
+62%
+2
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+1%
+200
+20%
+3
+924
+26
+61
+65
+68
+50%
+680­686
+21%
+66
+1289­1292
+2002
+7388­7393
+5
+656­664
+© 2004
+627­637
+6
+¶
+12153­12158
+187­190
+24
+25
+27
+20
+21
+22
+23
+28
+29
+563­573
+2%
+7
+77
+78
+8
+1304­1351
+1585­1592
+4
+9
+001
+005
+30%
+2003
+2000
+2001
+2004
+183­186
+482­485
+25­27
+59%
+261­262
+33
+32
+31
+30
+36
+35
+34
+641
+130
+454
+847­854
+1335­1344
+1675­1680
+975­979
+46%
+4465­4470
+967­974
+000­15
+199­204
+72%
+49
+46
+44
+0400782101
+761­774

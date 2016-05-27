@@ -1,0 +1,275 @@
+somatosensory
+Bhagavan
+connection probability
+olfactory
+synchronous
+analogous description
+integrate-and-fire
+experiments
+synapses
+thresholdlinear
+neurons25
+Department
+stimulus discrimination4
+stimulus orientation
+postsynaptic
+Supplementary Information
+ratedependence
+neuron/synaptic
+Parameter
+manuscript
+physiological
+population correlation
+supra-linear summation
+potential
+Hounsgaard
+low-pass-filtered
+derivative
+heterogeneity
+corresponding
+transformation
+high-conductance
+identical
+Received
+saturation
+stimulus encoding9
+Nevertheless
+universality
+Moreno-Bote
+shift-corrected covariance
+synchronization
+indicative
+correlation≠
+pffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi pffiffiffiffiffiffiffi
+neocortical pyramidal
+phosphocreatine
+3Department
+prominent
+susceptibility
+synapses analysis
+qualitative
+differential
+Influence
+identified
+c-aminobutyric
+specific
+Surgical
+thalamocortical
+pffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+analytical
+autocorrelation functions10
+desynchronization
+stationary
+perturbation techniques26
+dendritic sublinear
+Sejnowski
+inhibitory synapses
+financial
+computation
+Correlationinduced synchronization
+generation
+capacitance
+prediction
+Specifically
+approximation
+threshold
+conductance
+Ricciardi
+behavioural
+appropriate normalization
+electrode
+depression
+attention11
+nonlinear
+inhibitory
+Relationship
+pre-synaptic
+Pittsburgh
+non-monotonic relationship
+networks
+pffiffiffiffiffiffi¿pffiffiffiffiffiffiffiffiffiffi
+excitatory
+consecutive
+geometric
+subtracting
+available
+variability
+comparable
+spike-rate
+Fourcaud-Trocme
+presynaptic
+respectively
+University
+stereotyped
+SUMMARY Whole-cell
+odour-encoding
+previously19
+standard deviation
+statistics
+activity23
+Distribution
+Reichova
+refractoriness
+implication
+Steinmetz
+Computer-generated
+Mathematical
+Burroughs
+auto-correlation
+Cambridge
+Corticonics
+neocortical
+Computational
+dependence
+Modifying
+correlation-based
+Correlation susceptibility
+connection
+Middleton
+N-methyl-Daspartate
+consequence
+multi-neuron
+Precisely
+expression
+mechanistic understanding
+experimental
+deCharms
+intuition
+intracellular
+postdoctoral fellowship
+psychophysical
+probability
+regression pffiffiffiffiffiffiffi
+inputs25
+communication
+somatosensory6 thalamus
+potentials
+fast-spiking
+Synchrony-dependent propagation
+important determinant
+sublinear summation
+Therefore
+shift-corrected cross-correlation
+Top-down dendritic
+extracellular multi-unit
+orientation
+clustering
+Fluctuating
+generality
+Two-layer
+Populations
+discrimination
+current-clamp
+c14,15,17
+approximate
+obtainable
+Stochastic synchronization
+bottom-left
+retina1≠3
+neurotransmitter
+pffiffiffiffiffiffiffiffiffiffi pffiffiffi
+theoretical
+non-gaussian
+Correlated
+controlled
+relationship
+Pennsylvania
+Schneidman
+covariance
+input≠output
+geniculate
+construction
+Stimulus dependence
+transform correlation
+correlation≠rate relationship
+K-gluconate
+eccentricity
+injection
+coordination
+population
+Svirskis
+Acknowledgements
+nonlinearity
+integrating
+Phenomena
+excitability
+cross-correlation
+Merzenich
+refractory
+frequency
+Correlated fluctuating
+following
+distribution
+Throughout
+temperature
+structure consistent
+Averbeck
+Schiller
+Publishing
+circular distribution
+computing
+phenomenological
+Synchronous
+inter-spike
+Threshold-linear saturating
+resultant
+postnatal
+Estimating
+quadrants
+conductance-based excitatory
+Mathematics
+Geometric
+regression
+absolute
+Correspondence
+information
+different
+a-amino-3-hydroxy-5-methyl-4-isoxazole propionic
+combination
+statistical structure
+correlation coefficient
+studying
+Attention
+spiketime
+concavity
+covariability
+Correlation≠rate relationship
+LETTERS Correlation
+dimensionless
+following analysis
+parameter
+Ermentrout
+oscillatory
+independent
+METHODS SUMMARY
+Destexhe
+Institute
+standard threshold-linear
+numerical
+variation
+connectivity
+discharge synchrony
+potentials24
+discharge
+conductance-based
+Diffusion Processes
+insightful
+shift-corrector
+re-examination
+surprising
+diversity
+pffiffiffi pffiffiffiffiffiffipffiffiffiffiffiffiffiffiffiffi
+Consistent
+two-layer
+elongation
+two-cell
+`integrate-and-fire
+inhibition
+Dendritic supra-linear
+fundamental
+correlation
+representation
+Mastronarde
+resolution
+electrosensory
+subtraction

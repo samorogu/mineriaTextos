@@ -1,0 +1,13 @@
+460153txt
+population
+genes
+al
+introns
+rate
+master
+mutation
+et
+samorogu
+gene
+species
+size

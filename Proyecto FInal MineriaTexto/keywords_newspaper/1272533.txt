@@ -1,0 +1,13 @@
+bars
+p
+data
+ci
+n
+1272533txt
+master
+error
+samorogu
+sd
+95
+se
+mean

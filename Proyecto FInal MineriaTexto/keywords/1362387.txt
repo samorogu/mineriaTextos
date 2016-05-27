@@ -1,0 +1,327 @@
+immuno-enrichment
+fluorescence polymerase
+immuno-enriched
+ChIPSAGE
+Web-based
+adenosine 3´,5´-monophosphate
+measurable occupancy
+suboptimal sequences
+clustered
+noncanonical half-site
+experiments
+positional resolution
+gigabase-size
+factor-DNA
+Department
+Published
+Molecular
+endowment
+availability
+Mortazavi
+sensitivity/specificity
+data-quality
+Supporting
+genome-wide transcript
+classification
+candidate
+microarray
+physiological
+interesting
+ultrahigh-throughput sequencing
+Histogram
+environment
+instrument
+positional precision
+attractive
+Although
+permissive
+structural
+nonidentical
+NRSF/REST­enriched
+single-copy
+correspondence
+Close-up
+protective
+half-site
+downstream
+permission
+significance threshold
+activation
+successful rejection
+evolution
+functional
+permissivity
+framework
+RNA-coding
+NEUROD1
+sequencing
+interactome structure
+reasonable certainty
+plausible multistep
+prominent
+size-selection
+significant enrichment
+position-specific frequency
+substrate
+high-scoring canonical
+candidate connections
+Canonical NRSF-binding
+Washington
+NRSFbinding
+high-quality protein-DNA
+supplement
+nonrepeat
+autoregulatory
+target-site repertoire
+binding-site
+Ashburner
+inspection
+microRNAs
+accessible
+computationally high-scoring
+large-scale chromatin
+NRSF/REST interactome
+reference
+Sachidanandam
+sensitivity
+California Institute
+protein-DNA interactions
+down-regulation
+plausible
+threshold
+intensity
+individual
+high-read
+Generalized
+near-optimal canonical
+co-repressors
+differentiation
+attributable
+Neurogenin3
+motif-finding algorithm
+canonical
+sequences
+mammalian
+cross-hybridization
+neuroendocrine development
+well-specified binding-motif
+transcriptional repression
+Caenorhabditis
+subsequent
+specification
+chromatin remodeling
+conservative
+ChIPArray
+experiment
+inflammation
+SCIENCE
+left-side
+NRSF/REST sequence-tag
+sequencing technology
+available
+supporting
+immunohistochemistry
+statistical certainty
+considerable
+ChIPSeq-positive
+overrepresentation
+selecting
+University
+statistical robustness
+genome-comprehensive
+possibility
+goldstandard
+Consortium
+selective
+hypothesis
+separation
+biochemical
+regulatory
+protein-DNA interactome
+detecting
+companion
+experimental
+comSCIENCE
+temperature
+NRSF-mediated repression
+comparison
+pancreatic
+discernible
+Czernichow
+parameters
+differential chromatin
+technical
+determining
+cost-effective
+expression
+long-distance repression
+ChIPSeq-enriched
+NIH/National
+simultaneous
+outstanding experimental
+HG003162
+ultrahigh-throughput
+sequence-tag distribution
+Technology
+measuring repressor
+repressor
+preamplification
+sequenced
+repression
+computational
+Copyright
+inclusion
+NRSF/REST protein-DNA
+chromosomal
+Protein-DNA Interactions
+Advancement
+wholegenome
+Experiment
+occupancy
+preparation
+specificity
+nonpalindromic
+cross-regulatory interactions
+Distribution
+occurrence
+invaluable
+center-to-center
+transmission
+additional
+ontology
+factor-binding
+experimental interactome
+Binding-motif
+trademark
+systems-level
+true-positive
+hepatocyte
+Downloaded
+intermediate
+NRSF-positive
+structure
+progenitor
+Regulatory
+conservation
+Genome-Wide
+molecular
+Association
+sufficient chromatin
+developmental progression
+Maccarrone
+Forschungsgemeinschaft
+corresponding
+channel-activity
+Scharfmann
+Affymetrix-style microarray
+ChIPchip
+double-stranded
+adjusting
+Bioinformatics
+comprehensiveness
+distribution
+signal-tonoise
+accessibility
+canonical 11-bp­spaced
+Evolution
+signaling
+Independent
+Pha4/FoxA
+developmental
+beginning
+Solexa/Illumina sequencing
+NRSF/RESTbinding
+Pet3-and-above
+cross-link
+algorithm
+related-content
+Schoenherr
+characteristic
+challenge
+peak-call algorithm
+Fivefold enrichment
+regulator
+cutaneous
+frequency
+References
+real-time fluorescence
+attention
+promising
+following
+detectable
+nucleotides
+high-quality monoclonal
+motif-finding
+quantitative real-time
+inferring
+Grunseich
+Information
+transcriptional
+orientation
+independent experiments
+canonical NRSF-binding
+explanation
+locations
+identifiable
+degenerate
+concentration
+nonpancreatic
+chromosome
+well-specified
+Development
+information
+high-confidence
+arrowhead
+DNA-RNA
+transcription
+successful detection
+statistical confidence
+signal-to-noise
+application
+QPCR-positive validation
+Significant
+Solexa/Illumina
+activator
+performance
+genome-wide
+NRSF-containing
+composition
+ChIP-QPCR
+difficult
+development
+independent
+transfection
+pancreatic neuroendocrine
+comprehensive
+ChIPSeq-binding locations
+high-resolution interactome
+different
+hybridization chemistry
+NRSFbound
+pharmacological
+whole-genome completeness
+important
+noncanonical NRSF-binding
+significant
+contemporary largescale
+right-side
+chromatin immunoprecipitation
+annotation
+neuron-restrictive
+nonneuronal
+secondary structure
+Herkenham
+high-resolution
+positional
+correspond
+nucleotide-by-nucleotide
+Miyagawa
+false-negatives
+part-time
+putational discovery
+principle
+Ascherman
+distinctive
+representation
+resolution
+enrichment

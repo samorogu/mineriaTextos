@@ -1,0 +1,4038 @@
+gga agt gct gcc aca atc tac tac gaa tct atg cca gcc tcc gcc tcc aca ggc gtt cta tca ttg act acg gga agt gct gcc aca atc tac tac gaa tct atg cca gcc tcc gcc tcc aca ggc gtt cta tca ttg act acg gga agt gct gcc aca atc tac tac gaa tct atg cca gcc tcc gcc tcc aca ggc gtt cta tca ttg act act gga agt gct gcc aca atc tac tac gag tct atg cca gcc tcc gcc tcc acg ggc gtt cta tca ttg act acg gga agt gct gcc aca atc tac tac gag tct atg cca gcc tcc gcc tcc aca ggc gtt cta tca ttg act acg ggt agt gca gct acg atc tac tac gaa tca atg ccg gca tcc tcg tcc act ggc gta ctc tcg ttg acc acc ggc agc tct gcc aca atc tac tac gaa tcg atg ccc gcc tcg gcc tcc acg ggc gtc ctc tcg ctg acc aca ggc agc tct gcc aca atc tac tac gaa tcg atg ccc gcc tcg gcc tcc acg ggc gtc ctc tcg ctg acc aca ggt gga gct gcc acc att tat tat gaa tcc atg cca gca tct gcc tca act gga gtc ctc tcg ctg acc acc 6 3 ggc agc tca g-- -cc atc tac tat gaa tct atg ccg gc- --- --
+14 cat gct cct tct cct cca gcg atg caa act ttg cga atc act agc cgc ctt ccc cct gga ctc gtc cca cta cct gct cct gct cct cca acg atg caa act ttg cga atc act ggc cat cct cct cct ggc agc -cc caa ctg cct ccg ttt tgt ctg tgt gtg ttg gta act ttg caa atc act gtt cac gtc ctt tgt ggc cag ttc tcc tct cct ttt ctc tct cgg tgc gtg ttg gaa act ttg caa atc act gtt cac gtc ctt tgt ggc cag ttc tcc tct cct ttt ctc tct cgg tgc gtg ttg gaa act ttg caa atc act 3 act cgc cag ctt tgt ggc cag --- tag ttc tct gct ctt --- --- 7 gt gtg ttg gaa aac ttg caa atc act agc tta cgt cca agt gag cgt gtg cgt ata cct gtt gtg ttg gct tgc ctg ttg aaa att ttt ccc aac act agc taa cgt cca agt gtg cat gtg cat gta cgt gtg gtg ttt gta tgt ctg ttg aaa att ttg ccc aac act agc taa cgt tca gct gtg --- --- --- --- --- 17 tgtg tgt gtg tgt tcg ttg aaa att ttg cca aac act * * * ** * * * ** * * * ***
+
+frame-preserving gap
+aac cgc ctt ccc cct gga ctc gtc cca ctc tct gct cct tct cca cca gcg atg caa act ttg cga atc act agc cgc ctt ccc ccc gga ctc gtc cca cta cct gct cct tct cca cca gcg atg caa act ttg cga atc act agc cgc ctt ccc ccc gga ctc gcc cca cta cct gct cct tct cca cca gcg atg caa act ttg cga atc act agc cgc ctt ccc tct g-- --- --- ---
+transcription factor{
+
+multiplicity score{
+
+imago enrichment1
+
+imago score1
+
+me1 me2 me3 me4 me5 me6 me7 me8 me9 me10 me11 me12 me13 me14 me15 me16 me17 me18 me19 me20 me21 me22 me23 me24 me25 me26 me27 me28 me29 me30 me31 me32 me33 me34 me35 me36 me37 me38 me39 me40
+
+gtcacgtd awntgggtca bcataaatya haattaygcrh statawawr vattwgcat byaattarh hrtcaatca tgacannnnnntgaca rcgtgnnnngcat mattaawnatgcr ttaatgatg wtgacanbt ygacmttga aattrnnnncaatt tgacgtcat maattnaatt mryttccgyy mattrrcacny ytaatgavs taattrannttnatg waatgcgcnt mattwrtca yaattwnrygc ttaygtaa ygcgthaattr aattrygwca gcgcatgh waatcarcgc aattaannnnncatna gcgtsaaa ygcgyrtcawt gcgttgaya aaatkkcatta racasctgy tgtcaattg waatknnnnncrcgy casgtar wcacgtgc cattannnwaatt
+
+0
+gca gtc gct gcc gcc gag cag cag cac tat cac gcc cag cac cat cac cat ccg caa tga tac aag ccc cac gga aag ctc aaa tca cgc gac tat acc ctt cac tgg cag aac tat tag tta aag ttc att cat att cat cgc aca ttg gcc ata tcc cga
+
+protein-coding evolution
+
+stop
+
+continued protein-coding evolution
+
+stop
+
+non-coding evolution
+codon substitutions
+layer visceral branch dorsal trunk oesophagus tracheal system posterior spiracle head epidermis ventral epidermis dorsal epidermis atrium clypeolabrum foregut hindgut lateral cord neuron lateral cord glia midgut interstitial cell labral sensory complex corpus allatum ring gland large intestine dorsal apodeme visceral muscle oenocyte antennal sense organ circulatory system dorsal vessel small intestine rectum proventriculus intermediate layer proventriculus anal pad malpighian tubule main segment midgut chamber malpighian tubule midgut dorsal prothoracic pharyngeal muscle gastric caecum somatic muscle gonad ubiquitous muscle system plasmatocytes crystal cell dorsal-lateral sensory complex
+germ cell central nervous system ventral nerve cord brain procephalon amnioserosa cuprophilic cell central brain neuron central brain central brain surface glia central brain glia lateral cord surface glia ventral midline sensory nervous system pr labial sensory complex ventral apodeme maxillary sensory complex epipharynx hypopharynx salivary gland common duct head epidermis dorsal optic lobe visual system ventral sensory complex pr sensory system head salivary gland duct salivary gland apoptotic amnioserosa proventriculus
+tca acg ggc gtt cta tcg ctg acc acc ggc agc tcg g-- -cc atc tac tat gag tcc atg ccg gc- --- --
+tcg acg ggg gtg ctc tcg ctg acc acc ggc agc tcg g-- -cc atc tat tac gag tcg atg ccg gc- --- --
+cct ccg aga ttt gta ccg ccg cca ccg cct ccg cgt cgc ttg ctc ctc acg cag acc
+gac tat ttc aac aat cag cag cgc gag cga cac tac cag ctc cgg cgg cag agc cag cgg cag
+tcg acg ggc gtc ctc tca ctg acg acg ** * * * * ** ** ** ** ** ** *** ** ** ** * ** ** ** ** ** ** ** ** **
+gri
+
+uggcagucgcugggcacgaguuacugugcgguggcugucca uggaagucgcugggcacgaguuacugugcgguggcugucca ugggagucgcugggcacgaguuacugugcgguggcugucca ugggagucgcugggcacgaguuacugugcggcggcugu uca ugggagccgcugggcacgaguuacugugcggcggcugu uca ug-gg gucguugggcacgaguuacugugcgacggucau -ca ugggggucgcugggcacgaguuacugugcggcgccugu uua ugggggucgcugggcacgaguuacugugcggcgccugu uua ugauuaauuccuggcacgaguuacugugcggaauucga uca uguuggcgccugggcacgaguuacugugcgggcgcaua aca uguuggcggccaggcacgaguuacugugcggacgucuu uca ugucugcgccugggcacgaguuaaugugcgggcgccug gca
+agatatgtttgatattctt agatatgtttgatattcttg agatatgtttgatattcttgg agatatgtttgatattcttggt agatatgtttgatattcttggtt agatatgtttgatattcttggttg agatatgtttgatattcttggttgt agatatgtttgatattcttggttgtt gatatgtttgatattcttggt gatatgtttgatattcttggttg atatgtttgatattcttggtt tatgtttgatattcttggttg atgtttgatattcttggttg atgtttgatattcttggt tgtttgatattcttggttg 8 31 47 13 28 353 34 1 1 2 1 1 1 1 1 acccaggaatcaaacatattatta cccaggaatcaaacatatta cccaggaatcaaacatattat cccaggaatcaaacatattatt cccaggaatcaaacatattatt ccaggaatcaaacatattatta 1 1 1 8 26 1
+
+mirna*
+­ hr46 caudal engrailed tata ­ engrailed ­ ­ ­ acj6 ­ ­ ­ ­ creba ­ dorsal ­ ­ ­ ­ ­ ­ giant ­ ­ ­ ­ antennapedia ­ ­ ­ ­ scute ­ ­ single-minded enhancer
+act primarily
+act
+ggggatgtggggaaggatgctcttttctgactctattttgtcggcgaacatggatctagtgcacggtgg-ttcatgattaagttcgtgactagatttcatgctcgtctattaagttgggtcagcaca-acgaaga----gagcggagct ggggatgtggggaaggatgctcttttctgactctattttgtcggcgaacatggatctagtgcacggtgg-ttcatgattaagttcgtgactagatttcatgctcgtctattaagttgggtcagcaca-acgaaga----gagcgcagct ggggatgtggggaaggatgctcttttctgactctattttgtcggcgaacatggatctagtgcacggtgg-ttcatgattaagttcgtgactagatttcatgctcgtctattaagttgggtcagcaca-acgaaga----gagcggagct ggggatgtggggaaggatgctcttttctgactctattttgtcggcgaacatggatctagtgcacggtgg-ttcatgattaagttcgtgactagatttcatgctcgtctattaagttgggtcagcact-acgaaga----gag-----ct ggagaagtggggaaggatgctcttttctgactctattttgtcggcgaacatggatctagtgcacggtgg-ttcatgattaagttcgtgactagatttcatgctcgtctattaagttgggtcagcact-acgaaga----gag-----ct gaaaagg----atttggggtctttttctgactctattttgtcggcgaacatggatctagtgcacggtgt-ttcatgattaagttcgtgactagatttcatgctcgtctattaagttgggtcagcaca-ccaaagagtcggatagtggag tctgatccggcagcgtttgctcttctctgactctattttgtcggcgaacatggatctagtgcacggttg-ttcatgattaagttcgtgactagatttcatgctcgtctattaagttgggtcaacaca-acgaaccgaaagagcagagca tctgatccggcagcgtttgctcttctctgactctattttgtcggcgaacatggatctagtgcacggttg-ttcatgattaagttcgtgactagatttcatgctcgtctattaagttgggtcaacaca-acgaaccgaaagagcagagca gagtcctttctatgtggcagcgtctcttgactctattttgtcggcgaacatggatctagtgcacggtttgttcatgattaagttcgtgactagatttcatgctcgtctattaagttgggtcagcaca-acaagag--cgcagcggagag atttctttt-----ttttgctcttctctgactctattttgtcggcgaacatggatctagtgcacggttg-ttcatgattaagttcgtgactagatttcatgctcgtctattaagttgggtcaatacacaca-gcgaaaacatggccaag gtttcgctc-----ttttgctcttctctgactctattttgtcggcgaacatggatctagtgcacggttg-ttcatgattaagttcgtgactagatttcatgctcgtctattaagttgggtcaacacacacacacacacacataaaagaa actgcaactgcaactgctgctcttttctgactctattttgtcggcgaacatggatctagtgcacggttg-ttcatgattaagttcgtgactagatttcatgctcgtctattaagttgggtcaacacaca-acacaaaaaaaaaagagga
+­ ­ ­ ­ ­ ­ ventral sensory complex sa
+dillo cat cow rab gui
+ventral nerve cord pr
+dorsal pharyngeal muscle pr
+conservative substitution disruptive substitution
+
+gaps
+frame-preserving
+gri
+
+gattagt------tcatcatttattat---t------att---aattaatggcgtt-----------tcgcagc-ggctgg-c-----------------------tgtttattattaaccattattt------a-aca----cc gattagt------tcatcatttattat---t------att---aattaatggcgtt-----------tcgcagc--gctgg-c-----------------------tgtttattattaaccattattt------a-aca----cc gattagt------tcatcatttattat---t------att---aattaatggcgtt-----------tcgcagc--gctgg-c-----------------------tttttattattaaccattattt------a-ata----cc gattagt------tcatcatttattat---t------att---aattaatggcgtt-----------tcgcagc--gctgg-ctg---------------------tgtttattatttatcattatta------a-aca----cc gattagt------tcatcgtttattat---t------atc---aattaatggcgtt-----------tcgcagc--ggtgg-c-----------------------tgtttattattaaccattacta------a-aca----cc gatttgt------tcatcatttattat---t------------aattaatggtatt-----------tcttgactggctgc-ctgcc---tgcctgtta--tttgttgtttattattaagcattatta------a-aca----ca gatatgc------tcatcatttattat---t------gat---aattaatggaactttggtcagtt-ttgctgcctgcctg-ttgcctgctgcctgttgcttttgctgtttattattaactattattg------a-gcagcgcca gatatgc------tccccattttttct---t------gat---aattaatggaaatttggtcacttattactgcctgccgg-t-------cacctctcgcttctgctgtttattattaactattattg------a-gcagcgcca gattagt------tcatcatttattat---tatttatatt---aattaatgaagttt----------tcgtttc------g-t-----------------------ttcgtatggtt-----tcgttt------g-atg-----gattagtcgttcatcaatattaattatgtat------ataattaattaatgaagtt-----------tt----c--gctttat-----------------------cgtttatcgacagctatttttaat----a-aca----ac gattagttgatcatcatcattaattat---t------ata---aattaatgaagtt--------------------gcgtt-t-----------------------cgtttatcgacagctatttttaat----a-aca----ac gattagttgctcatcatcattaattatgagt------att---aattaatgaagtt-----------t--------gctct-t-----------------------cgctcaccgatagctatttttaataccaa-aca----ac
+­ ventral nerve cord
+drosophila salivary gland
+malpighian tubule
+­ ­ dorsal epidermis pr
+surface glia
+­ ventral epidermis pr
+nervous system targets
+flybase euchromatic protein-coding gene annotations
+regions evaluated total confirm abstain reject*
+
+named genes cgid-
+pig pig pg pe5ig pig pg pc5ig pe5ig peig pig peig
+tracheal system
+gap gene giant
+8 november 2007
+
+chr 2l predicted exons protein-coding evolutionary signal flybase genes cg4496 cg4495
+
+flybase curation
+frame-shifting gap
+codon substitution frequencies
+characteristic protein-preserving events
+codon substitution typical
+ack tet fugu rao don zeb rafi sh
+abcdefgh iklm nop qrstuvwxyza azyxwvutsrq pon mlki hgfedcba
+central 6 kb
+­ foregut pr
+abc defghik lmnop ponmlkihgfed cba
+intron 2
+
+lodestar
+
+cg6764
+
+exon 1
+rna structures
+disruptive double substitution disruptive single substitution disruptive insertion
+ideal system
+1
+
+iab
+
+pb
+
+dfd
+
+mir-10
+
+scr
+
+antp
+
+ubx abd-
+8 relative functional enrichment 7 6 5 4 3 2 1 0
+mef2 twist snail mef2 twist snail
+
+chip+cons chip
+protein-coding signal low conservation high protein-coding signal
+
+ld46238 ip17639
+early anterior­posterior segmentation
+3 12 confidence pr mef2 90 twist baseline 0% 10 80 snail tf motifs 95% mirna
+80% 3 utrs
+dorsal mesoderm induction
+midgut
+epidermis
+dorsal
+­ ­ tracheal pr
+intermediate lengths
+8 6 4 2 0
+
+creba
+
+70 60 50 40 30 20 10 0
+creba mirnas mef2 twist snail
+
+baseline mirna
+
+0%
+
+60%
+
+0
+
+20
+
+40 60 80 confidence
+me5
+mattaawnatgcr
+me11
+pg pg pceg pg peg peg pce5ig
+characteristic non-coding region events
+triplet substitution typical
+58 ­ ­
+
+­ oesophagus
+protein-coding regions show highly constrained codon substitution frequencies34
+branch length
+
+branch length
+
+branch length
+
+figure 8
+multiplicity score
+bound regions ote ing rons tr tr
+drosophila muscle founder cells
+non-coding regions show abundant non-conservative triplet substitutions
+complex gene structures
+7183k
+
+7184k
+
+7185k
+
+7186k
+
+7187k
+
+7188k
+split complex genes
+continued support
+found significant multiplicity
+peig pg 5 peg peig pceg
+complex regulation
+exon boundaries
+stop codon
+
+figure 3
+muscle gene promoters
+complex relationship
+149 genes undergo stop codon readthrough
+splice form inverse pcr primers cdna validation
+
+conservation
+unpaired base silent base-preserving double substitution
+complex
+escherichia coli ribosomal protein l20 binds
+muscle genes
+muscle development
+exploiting transcription factor binding site clustering
+12
+statawawr
+statawawr
+shr og ten ew mo rec
+deeply conserved stop codon
+highly conserved stop codon
+multi-sequence alignment methods affect vertebrate genome comparisons
+rna level generally showed highly asymmetric conservation12
+mirtron pathway generates microrna-class regulatory rnas
+cloned mirnas recovered
+80 70 60 50 40 pairwise multiple
+
+motifs reaching 60% confidence
+/aca-box small nucleolar rna candidates
+berkeley drosophila genome project gene disruption project
+motif consensus mec mcs region*
+
+non-discovered motifs
+protein-coding evolution continues downstream
+221
+
+©2007 nature publishing group
+
+confidence level
+
+articles
+
+nature
+fhq
+
+spineless
+
+exon 5
+
+splice
+
+splice
+
+figure 4
+multiple closely related genomes provide sufficient neutral divergence
+change
+conserved paired nucleotide conserved unpaired nucleotide
+stop codon recoding
+conserved stop codon
+common underlying methodology
+nucleotide substitutions disrupting functional base pairs
+1
+pla ty chi pus cke
+large dna fragments
+common developmental contexts
+02
+
+pig pig pceig pce5ig
+national science foundation graduate research fellowship
+schering ag/ ernst schering foundation
+resulting mirna targeting network changed substantially79
+non-coding regions nonsense mutation introducing
+branch length score
+abundant conservative codon substitutions
+mir-279
+
+mir-996
+
+cg31044
+
+7mer seed conservation
+stop codon
+mirna loci yield multiple functional products
+existing annotations yielded 32 fulllength cdnas
+arms showed
+
+©2007 nature publishing group
+
+nature
+frameshift
+
+protein-coding evolution
+large fraction
+common biogenesis
+high-throughput plasmid cdna library screening
+gelbart1 berkeley drosophila genome project joseph
+pe5ig pce5ig pig
+individual segments
+
+denote individual motif instances
+large overlap
+basic principles governing animal development
+large number
+post-transcriptional motifs show strand-biased conservation12
+rna evolution
+silent
+replicating hepatitis delta virus rna
+gene family evolution
+227
+
+©2007 nature publishing group
+
+articles
+
+nature
+225
+
+©2007 nature publishing group
+
+articles
+
+nature
+219
+©2007 nature publishing group
+
+articles
+
+nature
+223
+
+©2007 nature publishing group
+
+articles
+
+nature
+231
+©2007 nature publishing group
+
+articles
+
+nature
+229
+
+©2007 nature publishing group
+
+articles
+
+nature
+motif excess conservation
+
+mirna 7mer conservation
+possibly encoding additional protein domains
+experimentally supported transcription factor
+protein-coding evolution
+transcription factor motif matching
+small nucleolar rnas
+transcription factor motif instances
+endoderm-specific gata factor gene
+show substantially reduced enrichment levels
+coding sequence showed strong reading-frame-biased conservation
+intergenic regions yielded 88 full-length cdnas
+human frontier science program organization
+similar total branch length
+translation initiation factor eif3-s8
+protein-coding exon
+
+non-coding region
+creba regulates secretory activity
+shorter elements showed larger discrepancies
+noteworthy examples include motif me93
+highly conserved hox gene targets78
+individual regulator binding sites previous methods
+species-specific experimental studies provide complementary approaches
+small rna sequencing
+non-synonymous/synonymous substitution ratio ka/ks34
+highconfidence direct creba targets107
+mef2 directly regulates target genes
+schering ag/ernst schering foundation
+motif instances conserved
+
+bound region enrichment
+rna polymerase ii core promoter
+lodestar shows 11 compensatory substitutions
+multi-species comparisons outperformed pairwise comparisons
+comparative genomics power theoretical considerations
+fs
+
+­1
+
+reading frame
+
+position relative
+synonymous codon substitutions
+functional element shows characteristic patterns
+pinpoint evolutionarily selected functional elements
+coding regions show reading-frame-invariant conservation
+­ pericardial cell
+pr
+stop sites
+conservation-determined targets show similar enrichment
+sequence change reveals evolutionary signatures
+transcription factor activity
+evolution downstream
+drosophila tls rna localization element
+cell biology
+regulatory motifs tolerate local movement
+substitution silent substitution
+conserved transcription factor
+total branch length
+620
+
+mir-10 mir-10* average mirna* 162
+
+mir-10*
+
+204
+
+68 89
+
+1
+stop codons
+functional evolution
+protein-coding codon biases
+000 random non-coding regions $300 nucleotides rejected 99%
+twist showed sevenfold enrichment
+efficient cdna library screening
+transcription factor sites
+neutral branch length
+inverse polymerase chain reaction
+small rna
+highly conserved nucleotide sequence patterns
+transcription factor motifs
+national human genome research institute
+motif conservation score
+berkeley joint graduate group
+fully rescue rox-deficient males
+hhmi-nih/nibib interfaces training grant
+cis-element evolution
+branch length estimation
+39 utr evolution
+mef2 showed eightfold enrichment
+222
+©2007 nature publishing group
+
+nature
+226
+©2007 nature publishing group
+
+nature
+©2007 nature publishing group
+
+nature
+universite libre de bruxelles
+20department de biologie moleculaire
+hairless directly activates transcription
+small rnas
+csf protein-coding evolutionary metric
+non-coding rna gene prediction
+1 cyclotron road ms 64-0119
+inverted repeat-binding protein showed
+cell 130
+cell 125
+cell 123
+cell 122
+cell 9
+cell 116
+cell 115
+cell 109
+cell 10
+cell 120
+cell
+cell 27
+protein-coding evolutionary signatures correlate
+unusual protein-coding gene structure
+antizyme requires ribosomal frameshifting
+boxes represent full gene models
+protein-coding selection continuing past
+refining existing gene annotations
+compelling general building blocks
+5wellcome trust sanger institute
+genomes spanning larger evolutionary distances
+danish medical research council
+compensatory double substitutions
+pair
+
+branch species
+including translation start site adjustments
+specific base transition occurs
+sim ree ab shr
+melanogaster group subgenus sophophora
+functionally equivalent non-orthologous sequence
+flybase protein-coding genes 81% 928 predicted
+29lawrence berkeley national laboratory
+small number
+discovered motifs showed strong signals
+reflects imperfect genome assemblies/alignments
+wellcome trust genome campus
+genome-wide transgenic rnai library
+experimentally supported animal microrna targets
+rapidly evolving protein-coding genes
+12cold spring harbor laboratory
+14embl nucleotide sequence submissions
+conserved motif instances identify functional
+howard hughes medical institute
+structure-preserving single-nucleotide mutations involving
+single substitutions involving
+protein-coding genes tolerate mutations
+hox mirna mir-10 showed
+cg4495
+
+subgenus drosophila
+el
+including oo18 rna-binding protein
+single p-element insertions mutating 25%
+author contributions organizing committee
+increasing confidence levels select
+8 november 2007
+
+articles
+
+motifs me89
+evolution
+yeast ribosomal protein rpl24
+reach high confidence values
+candidate cis regulatory codes
+combines computational gene prediction37
+improved computational gene predictors5
+including abundant stop-codon readthrough
+transcription factor
+increasing confidence levels selected
+develop general comparative methodologies
+8 november 2007
+
+articles
+
+abundant reads
+individual highconfidence motif occurrences
+multi-species comparisons increase discovery
+
+power
+selected genomic regions showed
+exonic splicing regulatory elements100
+nearby intron­ exon boundaries
+codon reading frame
+rna genes markedly increases
+possibly including clade-specific elements
+showed unusual conservation properties
+memorial sloan-kettering cancer center
+animal micrornas confer robustness
+conserved showed decreased enrichment
+systematic de novo discovery8­11
+drosophila full-length cdna resource
+numerous unusual gene structures
+alternative splice form
+chromosome 2l centred
+fixed falsepositive rate based
+sharply defined distance preference
+experimental studies reveal stage-
+evaluating comparative genomics methodologies
+maternal effect protein oskar
+experimentally supported mirna targets104
+mir-274 7mer seed conservation
+0
+alternative translational reading frames43
+human embryonic stem cells
+8 november 2007
+
+articles
+
+methods 2a
+csf score
+show enrichment levels comparable
+region showed similar properties
+39 utrs showed strand-specific conservation
+including unusually long hairpins79
+extract biological information directly
+direct creba targets
+core transcriptional regulatory circuitry
+ew eleporse 5 sp han
+mature score
+action 19%
+
+562 192 174 modify existing annotation
+guide post-transcriptional base modifications
+exonic rna structure spanning 78
+protein-coding genes remains difficult
+structures tolerate substitutions
+non-coding rna genes
+random non-coding regions
+increasing bls thresholds select
+primarily transfer rna genes
+232
+©2007 nature publishing group
+©2007 nature publishing group
+
+2
+reached high computational scores
+previously annotated protein-coding genes
+genes non-coding regions{
+
+4
+70 60 50 40 30 20 10 0 0 1 2 3 4 pairwise multiple
+
+90
+
+30 25 20 15 10 5 0 1 2 3 4 pairwise multiple
+
+80
+
+70
+single genomic mirna locus
+revealing posttranscriptional regulatory elements
+berkeley drosophila genome project{
+berkeley drosophila genome project
+revealing unusual gene structures
+drosophila melanogaster euchromatic genome
+cgidonly genes encode proteins
+3 utrs
+
+3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+f1
+
+f2
+
+f3
+key au-rich sequence motif
+show higher pairwise distances
+transcription factors mef2
+melanogaster motif instance appears
+individual functional motif instances
+evolutionary signatures
+alexander stark1
+vivo regions increased sharply
+harbour functional regulatory motifs
+gained specific biological insights
+high recovery rate illustrates
+systematic high-quality genome annotation23­25
+gri agcauuugg-uuuguuaagucugcgucauuucaau-gugugccgcagacaugacaaauuccaaauguu
+
+silent
+experimentally determined target regions
+harvard flybase curators madeline
+exceedingly clear signal
+motif instance recovery enrichment/depletion
+protein-coding gene catalog
+protein-coding gene catalogue
+found open reading frames
+score compared
+discovered motifs show enrichment
+functional dicistronic messenger rna
+alternative splice boundaries
+targeting distinct hox genes
+comparative genomic sequence data
+experimentally supported motif instances
+­ ­ ubiquitous
+ubiquitous
+­ ubiquitous
+gri
+
+mirna*
+
+mirna*
+rna genes tolerate mutations
+reflect protein-coding constraints
+unusual protein-coding genes
+nucleotide substitutions consistent
+lacking sufficient signal
+comparative genomics analysis constitutes
+plots show average mec
+predict individual motif instances
+conserved rna secondary structures
+transcription start site
+identify functional motif instances
+highly conserved segments
+csf signatures abruptly shift
+flanking unpaired regions
+distinctive conservation pattern indicative
+clear protein-coding signatures
+discovered motifs relative
+encode project consortium
+highly similar stau hairpin
+mediate negative post-transcriptional regulation
+500 top-scoring protein-coding motifs
+independent evolutionary signatures unique
+inverse pcr products
+protein-coding gene prediction
+high-throughput sequencing data discovered
+mature mirna 5 end
+
+figure 6
+characterization regulatory motifs recognized
+chip + enhancer
+
+figure 7
+including protein-coding genes
+biological signal discovery
+identify cis-regulatory modules involved
+transcription start sites
+long protein-coding exons
+found significant motif enrichment
+tolerate abundant `silent
+drosophila complementary dna resource
+start codon
+euchromatic regions annotated
+encode pilot project
+comparative dna sequence analysis
+fulllength cdna clone
+comparative genome sequence analysis
+8 november 2007
+
+articles
+
+biased
+doublestranded rna-binding domains
+national cancer institute
+conserved instances
+
+200 160 120 80 40 0
+random motifs
+annotated protein-coding exons
+7mer seed conservation
+0% confidence baseline
+incorrect gene annotations
+euchromatic functional elements
+factor tested
+suggesting similar evolutionary constraints
+evolutionarily conserved showed
+core promoter motifs involved
+score
+2 0 100
+
+regulatory motifs
+
+mef2
+increasing confidence values
+tolerate substitutions
+cold spring harbor
+abundant alternative splicing
+provide general guidelines
+8 november 2007
+
+articles
+
+immunoprecipitation
+circularized full-length clones49­51
+protein products generated
+predict non-protein-coding rna genes
+non-coding regions
+include incorrect annotations
+predicted motif instances compared
+apparent stop-codon readthrough
+conservative amino acid
+total read counts
+highly conserved nucleotides16
+existing gene models
+harvard flybase curators
+harvard flybase curators{
+abundant processing products
+comparisons spanning marsupials
+discovering unusual features
+show increased conservation
+showed high conservation
+hdc mrna generates
+1038/nature06340
+
+articles
+discovery
+motif excess conservation
+5 4 3 2 1
+motif excess conservation
+mir-10*
+
+mir-263a
+
+figure 5
+non-coding elements
+tata box
+ka/ks ratio test
+bac transgenic platform
+total instances genomewide
+highly similar profile
+8 november 2007
+
+multi-species comparisons
+500-fold nucleotide enrichment
+distinctive conservation profile
+evolutionarily conserved domain
+current flybase annotation
+artificial intelligence laboratory
+characteristic conservation profile
+non-coding rnas
+proneural gene activity
+downstream promoter element
+motif expected random
+
+fraction
+suggesting specific exclusion similar
+identify enhancer elements91
+fine-tuning enhancer models
+highly specific distances
+individual motif instances
+excluding highly conserved
+yeast ribosomal proteins3
+ribosomal release factors59
+high-throughput experimental data38­42
+strong nucleotide conservation
+mature mirna show
+notch receptor activity
+de novo discovery
+transcription factors appeared
+virus rna editing
+ribosomal proteins bind
+conditional gene inactivation
+438 revised gene models
+segmentation gene network
+full gene content
+ten mirna hairpins
+strongly peaked directly
+fourfold degenerate site
+including direct signals
+flybase annotation release 4
+mec scores evaluated
+non-coding rox1
+modern rna world
+mirna star sequence
+candidate sequence patterns
+embryonic expression patterns
+closely related genomes
+authors contributed equally
+overlapping selective pressures
+tyrosine phosphatase ptp-er
+puf-family pumilio motif98
+cau ca gguuuga -3
+snrnp sm d3
+ole maaloes vej 5
+cited companion papers
+31agencourt bioscience corporation
+chronic lymphocytic leukemia
+von der haar
+genomically primed clones
+vivo binding sites92
+conserved sequence tags
+length randomly chosen
+individual regulatory sites
+regional conservation biases
+genomic regulatory networks
+snail suggests integration
+exon length quantile
+59/39 untranslated region
+evolutionarily conserved elements
+dna binding sites
+coding-sequence hairpins showed
+evolutionary distances spanned
+decreased biological significance
+translational regulator pumilio
+core transcriptional network
+author information reprints
+gene ontology consortium
+strongest functional enrichment
+exclude structure-disrupting mutations
+lodestar showed
+conserved seed pairing
+translation start site
+mirna motif instances
+motif instances derived
+extensive experimental resources26­28
+programmed translational frameshifting
+existing transcript models
+fly research community
+functional star sequence
+directed cdna sequencing
+potential binding sites
+mammalian genomic sequence
+conserved motif instances
+conserved instances decreases
+finding functional features
+similar motif content
+microrna hairpins show
+mediate mrna instability
+codon-based evolutionary signatures
+biclustering reveals groups
+high-throughput sequencing79 searching
+substantially expanded set
+recent nonsense mutations
+high conservation upstream
+protein-coding exon
+high-throughput sequencing data
+protein-coding regions
+functionally meaningful sites
+fourfold degenerate sites
+interleaved gene structures
+recruit msl complexes
+life sciences division
+purely computational approaches
+jacques van helden20
+mediates msl recruitment
+protein coding potential
+neurogenic gene expression
+inferred target spectrum
+comparative methods scales
+reading frame conservation
+flybase curation
+direct transcriptional repressor
+targeted genomic regions
+10 compensatory substitutions
+compensatory substitutions
+cross-species evolutionary analysis
+post-transcriptional regulatory targets
+potential translational readthrough
+close evolutionary distances
+functional gene ontology
+recover 11 mirna motifs
+candidate programmed
+
+frameshifts
+candidate programmed frameshifts
+targeted insertion
+upstream regulatory regions
+non-coding part
+conserved rna structures
+unique seed sequences
+general rna genes
+tiling-array expression study42
+inferred high-confidence instances
+preserve base pairing35
+whole-genome chip-chip analysis
+control motifs evaluated
+bypass drosha processing
+european bioinformatics institute
+3the bioinformatics centre
+el rheimp 3 sp
+cellcycle regulator e2f
+rna gene prediction
+predicted target spectra
+post-transcriptional regulatory motifs
+mirna genes focusing
+genetically interacting genes
+authentic mirna genes
+distinguishing regulatory dna
+regulatory motif discovery3
+specific evolutionary signatures
+showed threefold depletion
+mirna star sequences
+mirna targets stem
+wholegenome sequence alignments
+protein-coding selection
+independent computational method79
+extensive manual curation23
+diverse patterning processes
+nucleic acids res
+factor
+modest bls thresholds
+additional conserved instances
+conserved intergenic regions
+multiple related species
+including direct regulation
+distinct evolutionary signatures
+direct selenocysteine recoding55­58
+exonic splicing enhancers
+include false positives
+short clade-specific elements
+career development professorship
+initial regulatory network
+directing experimental studies
+model genomic sequence
+adenosine-to-inosine rna editing
+higher functional correlations
+regulatory motif discovery
+drops significantly faster
+mediates mrna degradation
+well-studied gene catalogues
+higher-level mirnamediated regulation
+supplementary methods 5a
+core promoter elements
+vertebrate microrna genes
+motif instance prediction
+multi-species distances include
+conserved functional elements
+ten structures found
+actual discovery power
+discovery power scales
+precise selective constraints
+jacques van helden
+traditionally focused exclusively
+observes mutational biases
+115 annotated dicistronic transcripts
+peaked 30 nucleotides downstream
+final manuscript preparation
+microrna gene prediction
+target prediction methods105
+transcriptional profiling approach
+predicted elements explain 42%
+protein-coding analysis
+twist motifs
+protein-coding exons
+supplementary table 5h
+supplementary table 5g
+supplementary table 4e
+supplementary table 4d
+supplementary table 4f
+rna gene identification
+protein-coding genes
+repeated sequence motifs
+predicted motifs recover
+shared regulatory elements
+protein-coding potential
+early mesoderm development
+muscle/ mesoderm development
+human-mouse gene identification
+supplementary methods 2a
+human genome browser
+intronic rna structure
+noncoding rna genes
+increased discovery power
+60 cloned rfam mirnas
+promoter regions rose
+hairpin structure overlapping
+approaches perform comparably
+multi-species conserved sequences
+mature mirna annotation
+integrated gene annotation
+59 unique mirna families
+ambiguous comparative evidence
+newly discovered elements
+intronic microrna precursors
+intronic instances occurred
+expected high conservation
+regulated translational bypass
+varying exon lengths
+low-redundancy comparative sequencing
+short rna libraries
+comparative genomics resulted
+145 discovered motifs match 40
+polyadenylation signal
+3 motifs matched uniquely
+revised mirnas shared
+gene order conservation
+proposed specific corrections
+drosophila mirna genes
+vital drosophila genes
+microrna target prediction
+mammalian microrna targets
+x-chromosome dosage compensation
+414 rejected cgid-
+supplementary methods 4a
+independent computational annotation
+genome-wide discovery power
+protein-coding genes3­5
+spatial expression pattern
+suggesting translational readthrough
+microrna gene identification
+target recognition sequence83­85
+computer science laboratory
+genome annotation past
+inverse pcr
+control gene expression
+frequent editing targets
+motifs acting post-transcriptionally
+recovered 11 mirna motifs
+optimal evolutionary distance
+drosophila microrna targets
+represent genuine mirnas
+12­14 integrated conservation information
+comparative genomics studies
+found high similarity
+consensus sequence
+733 euchromatic genes
+exact start position
+reading frame offsets
+drosophila melanogaster produces
+drosophila 12 genomes consortium
+log colour range
+overwhelming statistical support
+rox2 recruit msl
+8 november 2007
+
+articles
+46
+density twofold higher
+ucsc genome browser126
+remaining intergenic regions
+unannotated transcription
+multigenic transcription
+rna editing identified
+predicted coding exons
+independent experimental support
+74 verified rfam mirnas
+tissue-specific expression data
+supplementary table 5c
+cambridge cb10 1sa
+cambridge cb10 1sd
+lack secis elements
+human microrna genes
+predict regulatory targets
+drosophila microrna genes
+snail motifs
+frequently undergo a-to-
+disruptive
+previously observed transcripts
+predict transcriptional targets
+microrna targeting specificity
+39 utr sequence motifs
+experimental conditions surveyed
+predicted regulatory connections
+rox2-dependent chromatin modification
+inducing lysine 16 acetylation
+185 south orange avenue
+71% 414 rejected genes 222 removed
+conserved mirnas identified
+including close matches
+ana
+
+60 100 200 300 400 500 600 0 1 2 3 4
+
+sequence length
+regulatory motifs involved
+additional 21 motifs matched
+177 predicted intergenic structures
+potential lineage-specific roles
+jersey medical school
+mef2 motifs
+recovery consistently increased
+comparative genome sequencing
+find functional regions
+microrna target predictions
+assessed increased conservation
+remaining 14 revealed nested
+phylogenetic tree relating
+systematic genome annotation
+genome-wide search predicted 1
+similar tissue enrichment
+regulatory utr structures
+67 transcription factors
+transcription factors
+comparative evidence integration
+providing strong evidence
+twelve fly genomes
+tissue-specific transcriptional regulation
+ubiquitously expressed genes
+pre-transcriptional regulation resulted
+8 november 2007
+
+intergenic ncrnas
+refine functional elements
+identifying functional elements
+distinguish motifs acting
+phylogenetic footprinting analysis
+melanogaster coding genes
+previous annotations
+predictions overlapped exons
+fruitfly drosophila melanogaster
+developing zebrafish embryo
+­500 nt
+
+­250 nt
+
+tss
+pg
+20 mirna loci
+mir-iab-4
+
+abd-
+protein products
+important mirna targets
+drosophila melanogaster genome
+remaining phastcons elements
+vertebrate phylogeny based
+correlation dropped significantly
+supplementary table 7a
+reading-frame-biased conservation
+spineless exon 5
+specific biological findings
+closely related
+lacked characteristics expected
+report genome-wide alignments
+non-conserved chip-bound sites
+ytawwwwtar
+
+mef2
+genome annotation assessment
+mit electrical engineering
+human curation
+region shown represents
+independent estimates based
+high-scoring hairpin suggestive
+larger distances
+tf motifs
+enhancer region
+detecting molecular adaptation
+element length
+informant species matching
+seed region
+base pairs
+flybase independent
+manual curation
+12 fly genomes led
+found 33 additional motifs
+pairwise comparisons
+top 20 coding-region motifs
+increasing confidence
+substitutions
+13 substitutions
+1 substitutions
+species-specific sites
+neutral site
+characteristic properties
+protein translation
+flybase annotation
+28graduate group
+neutral divergence
+metazoan genomes owing
+validated 120 targeted predictions
+binding sites
+high confidence
+bls measure compared
+signatures enable recognition
+splice variants
+conservation levels
+high levels
+nucleotide conservation
+discover motifs involved
+validating annotations
+defined experimentally
+close species versus
+recovering short exons
+7mer complements
+characteristic pattern
+40 additional hairpins clustered
+intronic hairpin flanked
+single monomer
+structure shown corresponds
+genome research
+provide evidence
+strong enrichment
+reading frames
+translational readthrough
+39 gene models
+gene models
+wesleyan university middletown
+nonsense mutations
+target predictions suggests
+evolutionary signals
+evolutionary patterns
+flybase standards23
+celniker2
+1 flybase
+messenger rna
+mit computer science
+genomic regions
+evolutionary conservation
+f1­f3
+spatially constrained
+alternative splicing
+largely constrained
+directly targeted
+mir-998 mir-11
+
+e2f
+abruptly shift
+rma og
+postdoctoral fellowship
+mirna targeting
+protein motifs
+sequence conservation
+ribosomal genes
+220
+
+individual exons
+strong conservation
+motif conservation
+shorter elements
+rna level
+neutral sites
+surveyed experimentally
+target gene
+high conservation
+39 utrs show
+highly nonuniform
+conserved regions
+conservation level
+hox regulation
+single precursor
+motif instance
+regulatory network
+evolutionary distances
+unique properties
+motifs
+
+1 confidence 0
+unusually long
+seed pairing
+gene ontology
+bound regions
+functional enrichment
+secondary structure
+multiple sites
+sequencing reads confirmed
+genomic average
+drosophila enhancer
+stem regions
+varying levels
+conserved start
+microrna targeting
+high scores
+motif instances
+experimental validation
+individual mirnas
+cgid-
+giant
+paired bases
+paired nucleotides
+cis-regulatory modules
+research resources
+cdna sequencing
+conserved instances
+coding sequence
+functional targeting
+gri 4
+gri
+`evolutionary signatures
+evolutionary signatures
+core promoter
+twist
+closely matches
+functional regions
+dna sequence
+predicted mirna
+mirna sites
+reading frame
+promoter regions
+coding regions
+specific methods
+genome sequence
+repeated occurrences
+motif discovery3
+coding-region targeting
+comparative approaches
+animal development
+mirna targets
+regulator targets
+experimental methods
+drosophila gene
+predicted exon
+transcription
+gene expression
+animal genomes
+cloned mirnas
+81 cloned mirnas
+rna structures
+mature mirna
+individual species
+au-rich elements
+evolutionary analysis
+specifically selected
+full table
+untranslated regions
+amino acids
+dna level
+mirna motifs
+animal mirnas
+45-mb region
+shaded region
+bound sites
+rna genes
+multiple genomes
+close distances
+multi-species distances
+cancer res
+conserved motifs
+conserved `programmed
+initial network
+mirna arms
+curves denote
+kegg resource
+asterisks denote
+1 bungtown road
+mirna processing
+supplementary methods 4
+supplementary methods 1
+supplementary methods 3
+supplementary methods
+mirna genes
+spanning 35 genes
+identify genes
+maternal genes
+functional instances
+methods predicted
+nature protocols 1
+highly enriched
+mirna discovery
+motif discovery
+regulatory targets
+biological sciences
+previously cloned
+intergenic regions
+related genomes
+previous studies
+regulatory elements
+specific signatures
+mec scores
+long elements
+complementary methods
+regulatory motifs
+post-transcriptional regulation
+total number
+intronic gene
+evolutionary evidence
+microrna targets
+short length
+previous annotation
+nucleotide insertions
+strong support
+melanogaster sequence
+increased potential
+early development
+systematic methods
+experimental studies
+conservation approach
+regulatory genes
+strong evidence
+rna editing
+functional significance
+comparative studies
+target genes
+statistical methods
+120-fold enrichment
+reads
+
+mirna
+570-fold enrichment
+adh-related gene
+gene model
+surrounding gene
+additional sites
+microrna motifs
+mirna hairpin
+230
+comparative genomics
+computational genomics
+varying distances
+functional elements
+signatures predicted
+motifs acting
+chip resulted
+evolutionary dynamics
+distinct targets
+mirnas illustrates
+predicted sites
+pairwise informant
+rna genes6
+antigenomic rna
+rox2 rna
+deletion
+
+rna
+sequence requirements
+sequence characteristics106
+sequence alignments122­124
+microrna genes
+statistical power
+predicted targets
+microrna discovery
+discovery power
+motif clustering91
+high-quality annotations43
+denser network
+vertebrate homologue
+full matrix
+tata-box motif
+candidate cistrons
+cg6764
+11whitehead institute
+dicistronic transcript
+functional annotation
+fixed stringency
+mirna locus
+optimal segmentation
+snail
+initiator motif
+van helden
+mirna genes8­11
+broad institute
+indirect signals
+degeneracy patterns
+vertebrate trees
+4 3 2 1 0 ­5 ­4 ­3 ­2 ­1 0 1 2
+
++250 nt
+
++500 nt
+consistently higher
+genome-wide analysis
+145 distinct motifs
+related species
+control translation
+pilot studies
+recent studies
+genome-wide chromatin
+supplementary
+
+table 1
+perfect conservation
+frameinvariant conservation
+lack conservation
+frame-invariant conservation
+network-level conservation
+artificially high
+high rates
+high fraction
+complementary dna
+comparative information
+preferentially conserved
+broadly conserved
+marginally conserved
+conserved functions
+predicted 200 structures
+predicted 38 structures
+coding exons
+regulatory control
+nucleotide results
+loop regions
+{ regions $300 nucleotides
+highlighted regions
+chip-bound regions
+intron motifs
+transcriptional control
+experimental approach
+multi-species sequences
+human genome
+translational regulation
+948 predicted exons
+instances recovered
+predicted genes
+regulate translation
+amino-acid translation
+random motifs
+experimental support
+non-conserved sites
+drosophila genome
+mef2
+genome annotation
+intergenic genome
+conservation expected
+data sets
+surveyed libraries
+228
+
+chromatin immunoprecipitation
+conservation-based approaches
+strong correlation
+022 genes lacking
+experimental evidence
+genome res
+regulatory elements3
+regulatory circuits
+525 regulatory connections
+regulatory roles
+regulatory code
+nature rev
+supplementary information 1
+supplementary information
+gene predictions
+comparative evidence
+mirna/mirna* pairs
+noncoding rnas
+alignment choice
+biological laboratories
+motif identification
+sense/anti-sense pairs
+methods summary
+yeast genomes
+nature genet
+mrna localization
+transcriptional activity42
+individual tissues
+motifs discovered
+83 motifs discovered
+33 motifs discovered
+discovered motifs
+past decade
+matching parentheses
+mesoderm induction
+pattern formation
+past century
+exact position
+matching letters
+medical informatics
+high sensitivity
+exon sensitivity
+conserved matches
+human genes
+pre-transcriptional motifs
+genome alignments
+additional evidence
+specific repressors
+specific anlage
+peptides specific
+core promoters
+specific modification
+phylogenetic distance
+green boxes
+developmental contexts
+microrna cloning
+phylogenetic footprinting
+discriminatory power
+genes supported
+experimental assays101
+experimental investigation
+functional mirnas
+sites recovered
+additional 10 hairpins
+59 utr structure
+systematic discovery
+dosage compensation
+positional constraints
+significant impact
+key role
+computational framework78
+27 nucleotides upstream
+flybase47 release 4
+cis-regulatory module
+shared functions
+comparative detection
+defined tests
+inferred homology
+recovered transcripts
+short elements
+increased sensitivity
+related genomes15­19
+additional 50 mirnas
+functional categories
+functional mirna78
+predicted hairpins
+vivo targets
+significantly higher
+genome-wide conservation3
+editing sites
+largely independent
+target identification
+independent study113
+independent study74
+independent analysis52
+melanogaster genome
+spatial regulation
+59 cleavage site
+mirnas predicted
+additional candidates
+diverse conditions
+editing targets
+mirna 59 end
+distinct polypeptides
+motif depletion
+annotated utrs
+short exons
+unique structural
++3
+
+target overlap 1%
+88 3 129
+1
+
++1
+
+target overlap 40%
+systematic prediction
+predicted 101 mirnas78
+drosophila development
+split genes
+tissue-specific information
+chip-bound sites
+sites appeared
+control motifs
+target predictions
+12 drosophila genomes
+drosophila melanogaster
+mammalian selenoproteomes
+annotated nucleotides
+neuronal proteins
+false rejections
+mirna 59 ends
+van doren
+identify due
+higher organisms
+guide follow-
+search led
+regulated post-transcriptionally
+biologically meaningful
+mesodermal repressor
+higher coverage
+colour represents
+primers
+powerful methodology
+polycistronic transcripts
+higher fraction
+mammalian micrornas
+mature mirnas
+intronic structures
+editing structures
+yeast species
+conservation-inferred targets
+chip-inferred targets
+nature doi
+complete genome
+genome size
+fly genome
+computational identification
+random controls
+rfam mirnas
+14 rfam mirnas
+conservation required
+complementary aims
+6mers complementary
+longer elements
+negative regulation
+pre-transcriptional regulation
+genes involved
+genome-wide identification
+hairpin arms
+annotated 39 utr
+integrative genomics
+mirna function
+structural selection
+additional species
+chipbound regions
+stemloop structures
+motifs enrich
+non-palindromic motifs
+chip-bound motifs
+real motifs
+frame correction
+39 utrs rose
+drosophila embryo
+drosophila endoderm
+12 drosophila species22
+drosophila micrornas
+comparative predictions
+complete annotation
+tcl1 expression
+additionally supported
+systematic review
+systematic views
+
+1
+spurious gene
+discovered independently
+accurate processing
+phastcons track33
+h4-lys16 acetylation
+phastcons elements33
+gain insights
+16 divinity avenue
+induce acetylation
+processing indicative
+500 cummings center
+shortest exons
+initial strategy
+change
+tf
+59 utr structures
+39 utr structures
+anti-target genes
+414 genes rejected
+genes inconsistent
+surrounding genes
+non-proteincoding genes
+ion-channel genes
+rejected genes
+genes designated
+59 utr motifs
+10 sites versus 5
+specific classes
+validated mirnas
+alignment strategies
+alignment artefacts
+micro rnas
+potential roles
+non-messenger rnas
+developed methods
+structural signatures
+additional 42 predictions
+primate sequences
+distinct promoters
+permissions information
+including suppressor
+annotations
+dramatically increase
+manual review
+validated experimentally78
+metazoan genome22
+melanogaster melanogaster
+sequencing reads
+contrast evolutionary
+biological function
+39 utr sequences
+similar results
+transcriptional regulators
+drosophila species
+12 drosophila species
+phylogenetic clade
+phylogenetic shadowing
+split complex114
+phylogenetic framework
+phylogenetic tree
+cg4495
+powerful approach
+computer science
+reliable prediction
+drosophila phylogeny
+specifically excluding
+systematic identification
+neuroblast development
+discovered versus 57%
+discover motifs
+vivo binding92
+presented evidence
+providing evidence
+functional implications
+saccharomyces genomes
+low-coverage genomes
+12 fly genomes
+reference genomes
+diverged significantly
+informant species32
+melanogaster provided
+human promoters
+massachusetts institute
+randomized control
+mrna transport
+mrna bearing
+genes expressed
+sequencing reads78
+dna strands
+anti-sense hairpins
+cell-cycle regulation
+mirna-mediated regulation
+48 intronic candidates
+wesleyan university
+proteincoding exons
+metazoan species
+precursor structures
+flybase
+genome biol
+systematic characterization
+systematic understanding
+motifs compared
+se
+
+flies
+mo24 5 taatttat
+accompanying paper32
+eph ant
+provide
+d486­d491
+mo94 5 ttatttt
+case ranking
+tandem repeats
+kyoto encyclopedia
+metabolic pathways
+signalling pathways
+genetic code
+heart specification
+comprehensive database
+activators excluded
+simulans subgroup
+golden bug
+terminal differentiation
+biochemically active
+facilitate cross-referencing
+mcs
+online version
+applied evofold7
+pouya kheradpour2*
+asterisk denotes
+lineagespecific roles
+histone h4
+d158­d162
+fourth plot
+hundred candidates
+st johnston
+emily hodges
+soo park2
+oss um
+fewest sites104
+proven successful
+seung-won park15
+peili zhang1
+trends microbiol
+emily hodges12
+32 & manolis kellis1
+formulated hypotheses
+male flies
+chip-on-chip technology111
+leopold parts5
+sushmita roy9
+ees hrew
+scaled fraction
+repeat density
+stoned locus
+frequently sequenced78
+comparative analyses
+immediately relevant
+aid navigation
+selectively neutral125
+fly homologue
+fruitfly benefits
+genetic screens29
+largely non-conserved91
+substrate requirements
+candidates consisted
+method disagreed
+branching inhibitor
+housekeeping functions
+bassem hassan18
+simple analogy
+expanding universe
+worth noting
+reliably detectable
+lior pachter
+wiley jr1
+anat caspi
+santa cruz
+pioneering model
+independently rejected
+graham ruby10
+gir ri
+stic
+
+flies
+polycistronic transcripts23
+preferred orientations
+case selecting
+considerable fraction
+combinatorial regulation78
+fly micrornas
+doug smith
+epigenetic aspects
+fly orthologue
+margaret roark1
+heart specification118
+substantial improvements
+probabilistic algorithm
+yongkyu park15
+st pierre1
+aa ac
+benedict paten
+anat caspi13
+benedict paten4
+caenorhabditis elegans
+accepted 4 october 2007
+male-specific lethal
+box snornas
+distinguished alumnus
+uncharacterized ncrna66
+nonamer uuauuuauu
+sian gramates1
+tests accepted 87%
+natl acad
+charles yu2
+scoring scheme
+cg identifier
+systematically tested
+axis specification
+san francisco/university
+1101/ gr
+benefit greatly
+d141­d146
+loop regions10
+showing protein-
+stein aerts18
+trends ecol
+s8­s13
+watson school
+genetic screens
+highstringency candidates
+s2­s7
+principle enabling
+less-characterized mechanisms62
+opposite arm
+received 21 july
+ongoing effort
+james kent4
+venn diagrams
+douglas smith31
+d277­d280
+lior pachter25
+longer branches
+julius brennecke12
+potential role
+harvard university
+strongly enriched
+predictions validated
+informant species
+7mers complementary
+genes dev
+found 149 genes
+bls approach
+anti-sense strand
+transcribed strand
+opposite strand
+genomics hum
+present comparative
+heavily targeted
+motifs stemming
+alexander stark
+plos comput
+previously appreciated
+drosophila pseudoobscura
+drosophila trachea
+figure 1
+figure 2
+2computer science
+biomolecular science
+analysis leads
+diverse classes
+exons 73 flagged
+evaluated
+apparently non-conserved
++op 9 sp
+rhe sp
++pl 0 sp
++tr 5 sp
+correlation coefficient 0
+manoli@mit
++el 8 sp
+12 fly species
+12 species span
+species compared16­20
+genes co-expressed
+show
+manolis kellis
+representing targets
+ncrna discovery
+total
+pouya kheradpour
+predictive identification
+silico identification
+reliable identification
+database issue
+intronic predictions
+significantly lower
+human genetics
+developmental biology
+abundantly expressed
+metazoan eukaryotes
+supplementary fig
+showed
+tested 184 predictions
+incorporating 562 predictions
+incorporating 192 predictions
+black tracks
+collapsing variants
+black curve
+positional bias
+widespread impact
+comprehensive understanding
+mir-10
+
+0
+comparisons
+mir-10*
+mir-10
+ncrnas recovered
+developmental regulators
+genomes allowed
+aligned genomes
+mrna repression
+case found
+found computationally79
+as-yet-unknown classes
+highest abundance
+pseudogene abundance
+cornell university
+results affected
+results illustrate
+population biology
+cellular biology
+significantly enriched
+developmental genetics
+cdna
+sim ec
+sim gcgauuuggagcucucaaguuugggucacuuaaag-gggugacccagacaugaaagcugccaaaucgc
+temporal map
+sharp peak
+intensely studied
+broad peaks
+confirmed virtually
+physiological differences
+5-
+
+cuuugc
+julius brennecke
+refine thousands
+sushmita roy
+yongkyu park
+leopold parts
+uncertain quality
+future releases
+cg31044
+antone1 & william
+james kent
+compare chipon-chip
+adenosine deaminases
+silico evaluation
+prove surprisingly
+manually reviewed 928
+examined subsets
+stein aerts
+embo rep
+frame-shifting insertions
+clustering
+bassem hassan
+descriptive names
+seung-won park
+normalized fraction
+david haussler4
+distant species
+trends genet
+plos biol
+michael weir
+michael rice22
+characteristic
+michael rice
+michael weir23
+species compared
+prediction accuracy
+as-yet-unknown regulators
+let-7 function
+rnalevel function
+60% confidence
+80% confidence
+highest number
+confidence
+striking 16 compensatory
+region
+* region
+top 100 predictions
+plos genet 3
+short introns
+1 nucleotide
+nucleotide
+enhancer
+simulation study
+case study
+graham ruby
+precise positions
+eukaryotic mrnas
+ana gcgauuuggagcccucaaguuugggucacuuuaac-gcgugucccagacaugauggcugccaaauugc
+leuven school
+criteria applied
+mirnas77 lead
+frequently part
+fact converging
+23biology department
+32the department
+nature 447
+nature 434
+2
+
+nature
+nature
+nature 448
+nature 424
+nature 423
+molecular biology
+lower abundance
+wan2 & susan
+sufficient
+connecticut college
+multiple
+previously reported
+8 november 2007
+
+82
+molecular medicine
+8 november 2007
++ strand
+proteincoding function
+10 silent
+potentially leading
+increasing
+moj aacauuugg-ccugucaagucugcgccauuuaaau-gcguggcccagacaugacaagcuacaaauguu
+vir agcauuugg-uuugccaagucuguggcauuugaau-guaugucgcagacaugacaauc-gcaaaugcu
+ere gcgauuuggagccauuaaguuugggucauuuaaag-gggugacccagacaugagggcugccaaguugc
+sec gcgauuuggagcucucaaguuugggucacuuaaag-gggugacccagacaugaaggcugccaaauugc
+5 1025 enrichment
+mel gcgauuuggagcucucaaguuugggucacuuaaac-gggugacccagacaugaaggcugccaaauugc
+yak gcgauuuggagcccuuaaguuugggucauuuaaag-gggugacccagacaugagggcugccaaguugc
+enrichment
+wil gcaauuucgaacuauuaaguuuggaucacuuaaagcacgugauccagacauaauagaucugagauuuu
+gene 312
+gene
+set
+
+mir-190
+details found
+groups established
+site
+indiana university
+results demonstrate
+evolutionary
+rna
+rna 12
+rna 11
+5
+
+3
+
+mirna
+identify
+mirna*
+core
+spanning
+david haussler
+adjustments
+movement
+revealing
+mirna
+fs
+vertebrate
+divergence
+examples
+hepatitis
+******************************************************************************************************************************* ********************** ******************************************************************************************************************************* ********************** ******************************************************************************************************************************* ********************** ******************************************************************************************************************************* ********************** * ******* * ** ************************************************************************************************************** ********** ********* * *** *** ** ************************************************** *********************************************************** ****** * *** *** * ** * * * ************************************************** ****************************************************** **** *** ** * *** ** ******* ****************************************** ****************************************************** **** *** ** * * ******* ****************************************** ****************************************************** **** ** * * * ** ****************************************** ***************************************************** *** ** * * * **************************************** **************************************************** **
+
+mirna
+general
+motif
+patterns
+validation
+results suggest
+length
+conservation
+exon
+exon 5
+conserved
+including 24
+including
+pairwise
+regions
+level
+bound
+approaches
+data
+william gelbart
+alignment
+stem
+methods
+start
+mutations
+csf
+structure
+position
+5a
+microrna
+instances
+power
+yeast
+joseph
+jakob pedersen
+computational
+include 60
+localization
+resulting
+include 73%
+mir-996
+functional
+pse gcgauuuggagcccucaaguuugggucacuuaaau-gggugacccagacaugauggcuacuagauc-
+berkeley
+similar
+light blue
+multi-species
+coding
+average
+average 46%
+promoter
+2a
+signatures
+predicted
+predicted 98
+928 predicted
+mec
+intron
+dna
+annotated
+distance
+non-protein-coding
+5c
+hairless
+msl
+sa
+proteins
+rapidly
+represent
+action
+determined
+modifications
+plots
+contributions
+remains
+intron 4
+intron 5
+comparable
+exclusion
+mir-274
+effect
+stau
+targets
+targets
+
+0
+genome
+studies
+random
+14% random
+complementary
+elements
+genomics
+table 2
+table 1
+human
+177 structures
+structures
+`programmed
+chip
+90 motifs
+frame 1
+frame 2
+motifs
+drosophila
+harvard
+annotation
+126 intergenic
+expression
+intergenic
+supported
+analysis
+discovered
+arms
+insights
+63% matched
+negative
+integration
+bioinformatics 16
+e2f
+exons
+identified
+integrated
+center
+4a
+genes
+149 genes
+50 genes
+287 genes
+003 genes
+711 genes
+18 genes
+123 genes
+414 genes
+discovery
+potential
+rnas
+sequences
+information
+increase
+tissue-specific
+alignments
+18% increase
+short
+split ­
+
+­ ­ ­ ­ ­ 3
+remaining
+remaining 119
+224
+
+prediction
+prediction
+support
+recovered
+based
+development 131
+development 132
+development 111
+development
+vivo
+evidence
+significantly
+12 genomes
+melanogaster
+reads
+genomes
+mrna
+control
+predict
+predict 123
+sequencing
+2
+sequencing
+involved
+200 hairpins
+hairpins
+regulation
+intronic
+58 intronic
+hairpin
+editing
+59 utrs
+utrs
+39 utrs
+3 utrs
+mirnas
+8 mirnas
+lack
+school
+induction
+estimates
+roles
+assessment
+`rejected
+rox2
+rejected 5%
+rejected
+tree
+proposed
+report
+flanked
+observes
+appeared
+indicative
+66 candidates
+ucsc
+transcript
+fraction
+generally
+jersey 07103
+662 connections
+frameshift
+refine
+optimal
+locus
+represents
+middletown
+precise
+madeline
+rejected 1%
+41% exact
+enable
+developing
+characteristics
+model
+micrornas
+offsets
+search
+300 nucleotides
+catalogues
+distinguish
+corresponds
+regulated
+adaptation
+7a
+nucleotides
+owing
+modification
+identifying
+range
+90 nucleotides
+engineering
+fly
+focused
+`chip-bound
+49 families
+orange
+tss
+embryo
+manuscript
+mir-998
+providing
+mir-263a
+79 revealed
+candidates
+10 nucleotides
+comparably
+lysine 16
+difficult
+frequently
+density
+searching
+selenocysteine
+59 utr
+39 utr
+­ strand
+utr
+plos
+recovery
+expected
+compensatory
+1% expected
+8% expected
+previously
+11 compensatory
+science 314
+science 310
+science 287
+science 301
+science 299
+science 297
+science 293
+science 300
+correlation
+sp
+insertions
+mit
+species
+12 species
+species 2 5 6 8 9 12
+& kellis
+kellis
+matches
+kheradpour
+issue
+3 versus 1
+phylogeny
+sensitivity
+30% versus 22%
+identification
+recognition
+expressed
+discover
+han
+proteincoding
+structural
+& han
+overlap
+bls=0
+0
+
+20
+
+40
+
+60
+
+80
+
+bls
+bls
+molecular
+promoters
+245 predictions
+predictions
+101 predictions
+394 predictions
+consistent
+suggestive
+order
+99% specificity
+top
+positional
+role
+understanding
+factors
+specificity
+black
+characterization
+frame-shifting
+find
+impact
+precursor
+lower
+mir-11
+recovering 72%
+specifically
+recovering 68
+top 40
+distant
+variants
+chromosome
+compared
+abundance
+classes
+groups
+strands
+dev
+found
+set
+university
+results
+biology
+end
+depletion
+5 1025 depletion
+suggests
+59 end
+stark
+biol
+sim
+kent
+established
+co-expressed
+aligned
+medicine
+ncrna
+`confirmed
+ncrnas
+flagged
+preserve
+confirmed
+peaks
+clustered
+5-
+gcgauuuggagcccucaaguuugggucacuuaaau-gggugacccagacaugauggcuacuagauc-
+repression
+subsets
+enhancers
+roy
+& hassan
+prove
+allowed
+suggesting
+5
+hum
+striking
+future
+differences
+implications
+adenosine
+pseudoobscura
+genomes15­20
+confirmed 97%
+important
+4
+
+hum
+leads
+aerts
+strategies
+compare
+sharp
+stemming
+developed
+parts
+evaluation
+benefits
+relationship
+park
+artefacts
+due
+studied
+embo
+59 ends
+reviewed
+follow-
+trachea
+informatics
+59 cleavage
+william
+required
+normalized
+haussler
+indiana 47405
+light
+temporal
+descriptive
+rev
+david
+mir-190
+apparently
+eukaryotes
+uncertain
+
+29% 119
+thousands
+chipbound
+7mers
+demonstrate
+heavily
+brennecke
+details
+genet
+enriched
+cambridge
+michael
+regulators
+function
+assessed
+tissue
+suggest
+findings
+shown
+number
+a-to-
+1 tissue
+genetics 153
+genetics 143
+genetics
+reported
+study
+ana 1
+mrnas
+& gelbart
+criteria
+representing
+ana
+ruby
+gelbart
+part
+26 department
+department
+jakob
+positions
+pedersen
+suppressor
+3000 leuven
+fact
+lead
+analyses
++
+8 +
+3 +
+4 +
+9 +
+2 +
+connecticut 06320
+connecticut 06459
+susan
+spurious
+accuracy
+biogenesis
+present
+fig
+green
+& green
+doi
+contrast
+ere
+moj
+vir
+leading
+sec
+ere 0
+tissues
+blue
+mel
+introns
+yak 0
+pse
+wil 2
+wil
+yak
+massachusetts 01915
+massachusetts 02139
+massachusetts 02138
+massachusetts 02140
+massachusetts 02142
+bagpipe
+assembled
+contained
+dref
+spen
+arranged
+hoopengardner
+rajewsky
+lai27
+hannon12
+estimated
+robson17
+hundreds
+18laboratory
+obtained
+property
+washietl
+zubiaga
+mexico
+call
+brent
+hahn
+collection
+work
+melanogaster78
+organized
+22department
+1050 brussels
+mojavensis
+2
+kleb
+
+2
+minority
+selenium
+parallel
+types
+vivo79
+vivo78
+complexity
+cohen
+london
+staining
+e93
+15department
+easier
+press
+13university
+`abstained
+93% agreement
+revisions
+annotation48
+restricted
+crucial
+sand
+mo32
+deoras2
+incorporated
+prokaryotes121
+4center
+similarly
+confirming
+1b
+kegg93
+listed
+miller
+gilbert
+worse
+tool
+extended
+eastman
+werner-washburne
+enables
+bls/mec
+dozen
+& rubin
+metrics
+extending
+acknowledgements
+kanehisa
+lewis
+gcaaca
+availability
+folded
+polycomb
+hairless117
+ivanov
+measured
+e197
+ludwig
+gelbart8
+ssu
+
+1
+determinants
+bier
+reverse-strand
+steneberg
+pair-wise
+california 95064
+resistant
+requests
+kloosterman
+andrews
+& gladyshev
+height
+mo40
+deciphering
+r42
+edited69
+basis
+dozens
+1 bp
+-
+schroeder1
+suppl 1
+snorna-lbme-db
+ak
+
+0
+cons
+dewey24
+carlson
+hatfield
+il
+mouse
+2200 copenhagen
+make
+jerry
+& weber
+yandell
+weakly
+materials
+reese
+& andrew
+unification
+yeh
+biostatistics
+usa 103
+mechanism
+usa 102
+1038/nature06341
+classification
+eastman17
+cantor
+5i
+5e
+5d
+5f
+5b
+bailey
+ultimately
+informative
+revisiting
+www
+temporally
+donald
+re-categorized
+maeder
+bottom
+/
+deleted
+pose
+twist92
+lies
+wan
+art
+expression-guided
+comparing
+class
+bloomington
+sandmann
+ureta-vidal
+19department
+type
+boffelli
+stages
+kaufman
+na
+schroeder
+& kadonaga
+cooper
+hoskins
+theor
+purple
+garza
+rob
+staber
+known70
+depend
+finally
+reptiles
+zhang
+ncrnas67
+clark30
+room
+& kuroda
+illustrating
+colin
+rnomics
+ashburner
+e53
+uniform
+raney
+refs 35
+hairy
+grimson
+sechellia
+e185
+e69
+e60
+rasmussen2
+asense
+msb
+abrams
+three3
+casey
+39 utrs12
+cases
+pre-
+cas
+constraint
+hope
+california 97210
+bioengineering
+numbers
+dietzl
+kyl
+maeder17
+opo
+
+4
+beverley
+conversely
+occur
+celniker
+regions90
+rubin
+ettwiller
+lbnl
+produce
+mignone
+tomancak
+elnitski
+representation
+wienholds
+birds
+tendency
+geh
+interesting
+virol
+burge
+evol
+kulathinal1
+investigated
+scaling
+2bdgp
+& tavazoie
+rendering
+prospero
+avoided
+berezikov
+lai
+emerges
+emerged
+correct
+methods44­46
+mechanisms
+albuquerque
+california
+orf
+chen
+orb
+45
+
+initiation97
+fast
+& dollar
+philippakis
+yin
+response
+1a
+1c
+williams
+virilis
+require
+intensity
+tartu
+misra
+note
+chromosomes
+falls
+encodes
+established21
+considered
+aataaa
+madison
+cg14047
++1
+nekrutenko
+zeitlinger
+investigators
+stormo
+r104
+100 om 5
+me54
+10department
+selenoproteins
+mirtrons
+hofacker
+paper
+kryukov
+& cohen
+performed
+cliften
+colours
+deletions
+stretches
+estonia
+absence
+hedea-pi
+persimilis
+6a
+direction
+6d
+thousand
+andrew
+belasco
+39 utrs103
+1101/gr
+e271
+technology
+upregulation
+& hartl
+alphabet
+chip-determined
+validate
+research0083
+research0080
+self-ligation
+components
+relied
+abstained
+summed
+neurogenetics
+multiples
+improvement
+suite 2450
+mol
+beverly
+ananassae
+suppl
+willistoni
+& kreitman
+mammals
+
+0
+notably
+bryanne
+neurogenesis
+comparison
+ushb
+insect
+gregory
+fairbrother
+1­2-fold
+mammals
+determine
+allemand
+elemento
+combined
+dieldrin
+lane
+applying
+species-
+define
+polansky
+organogenesis
+ch
+6c
+tompa
+assessing
+e33
+mathematics
+nhgri
+briefly
+included
+grimshawi 0
+rs
+resolution
+alh
+vilo
+carlson2
+carlson7
+30department
+biosci
+erecta
+start-
+tgtanwtw
+& tuite
+& greenberg
+smale
+design
+displays
+bass
+section
+sus
+bartel10
+york 14853
+deborah
+edited
+[acman]
+observing
+celniker7
+sci
+vib
+chromosomal
+gerber
+rhea
+pavlovic
+maamnncaa
+mira
+ketting
+constrained20
+r3
+lestrade
+morgan
+history
+overlaps
+adenosines
+liuni
+& bellen
+even-skipped
+copeland
+goal
+ous
+blanchette
+hampered
+mapping
+biophysics
+deoras
+& eastman
+corda
+detected
+gene63
+mir998
+2d
+2e
+2b
+2c
+referred
+& pesole
+implicated
+missed
+participants
+hild
+benjamin
+matthews
+tatcgata
+xie
+kraut
+positioning
+probability
+co-regulated
+utrdb
+ameya
+harbours
+farabaugh
+& hardison
+interact
+eddy
+& frasch
+odc/oda 64
+versatility
+21department
+determines
+grey
+& posakony
+crosby1
+7d
+7c
+7b
+crosby8
+cancer80
+rat
+
+6
+depleted
+lie
+lim
+lin
+recognizing
+gilbert21
+research0086
+measures
+transcription-
+nondiscovered
+editing63
+guunuacg
+altered
+{lists
+eisen
+thomas
+wisconsin-madison
+bergman
+bartel
+e10
+affiliations
+& birney
+informants
+dgatae
+bdgp
+e1115
+oogenesis
+resolve
+stapleton
+han16
+rfc
+investigate
+gatggttccagtgagatatgtttgatattcttggttgtttcattcaaaagttcacccaggaatcaaacatattattactgtgaccct
+mir-29
+vertebrates
+angie
+lee
+ithaca
+& bielawski
+& burge
+usa 99
+17department
+localization71
+24department
+primordium
+stathopoulos
+grillo
+myrick1
+understand
+well-
+ochman
+empirical
+replaced
+overlooked
+confound
+venken
+hinrichs4
+neuroblasts
+pedersen3
+yuan
+8flybase
+eisen28
+cg8092
+belgium
+questions
+& hatzigeorgiou
+me117
+& kasif
+developed6
+marked
+cacrcac
+adams
+interestingly
+8b­
+crosby
+/reprints
+robson
+act87
+investigating
+manak
+annu
+exceeding
+newark
+cuppen
+proc
+vol 450
+dictates
+step
+mirna103
+bp
+odom
+dictated
+russell
+positive
+51 cases
+al
+morphogenesis
+lin1
+sections
+hinrichs
+line
+rcgyrcgy
+uu
+verification
+uk
+california 94720
+surpassing
+bicoid116
+yang
+functionality
+tarbase
+intensified
+worm
+reports
+gu
+illustrated
+chan
+animals
+fewer
+matthews1
+fold
+assembly
+copenhagen
+correspond
+9
+fro
+index
+berman
+3c
+3b
+3a
+3e
+3d
+prokaryotes72
+mir-181
+& lewis
+clark
+addressed
+59% agreement
+kenneth
+usa
+degradation99
+6b
+& levine
+& bergman
+york 10021
+cooperate
+account
+averaged
+hannon
+affiliated
+drosophila23
+slip
+pink
+brogna
+discussion
+umdnj-
+26-base-pair
+clusters
+dak
+& reenan
+correspondence
+bhalla
+& gerin
+variety
+relates
+utrsite
+ref
+red
+farh
+york
+& bartel
+okamura
+makova
+polansky17
+precisely
+staufen
+rasmussen
+biochem
+vertebrates86
+explanation
+reflecting
+chromosome75
+7bdgp
+mexico 87131
+unchanged
+okumura
+linked
+york 11724
+39utrs
+16department
+hahn16
+kaufman21
+consequences
+/nature
+text
+bompfuenewerer
+siepel
+knowledge
+huntingtin68
+jan
+margulies
+markstein
+displayed
+richards
+denmark
+dpe
+experiments
+processed
+/aca
+luo
+ability
+forward-strand
+importance
+me120
+& li
+boyer
+sequenced
+27department
+hfspo
+respect
+cu
+g-629
+addition
+9department
+yakuba
+wisconsin 53706
+diversity
+spradling
+3
+liza
+sensitive
+matthew
+castellano
+expand
+thought
+arising
+& plasterk
+rapid
+sethupathy
+tcagtt
+& stadler
+& ashburner
+hairy115
+loss
+bio/technology 8
+page
+exceed
+achaete
+highlighting
+ajioka
+tinman
+limitations
+& murakami
+panel
+rare
+hinxton
+pekarsky
+rendered
+editing39
+25department
+assess
+speciation
+baertsch
+tanimura
+funds
+matsumoto
+collected
+6institute
+endeavour1
+frameshifts64
+challenges
+genomes89
+distribution
+atyp
+int
+recognize
+inr
+eric
+leaving
+chance
+dewey
+prevalent
+searched
+4b
+4c
+6593807
+1391­1394
+08 ­ ­ ­ ­ ­ 4
+«
+4639­4645
+6597907
+29%
+5 5 3 1025
+5 4 3 1025
+5 4 3 1027
+1817­1821
+34%
+108
+109
+318 0
+103
+100
+101
+106
+107
+104
+105
+1777­1786
+3
+15
+9%
+99
+91
+90
+93
+97
+96
+1995
+1997
+1999
+1998
+101­103
+22 14
+8 0
+1747­1751
+564
+
+4
+68%
+4487­4492
+9
+266 0
+2185­2195
+3 2
+94 12
+95 12
+24%
+17%
+006%
+­
+278
+496­503
+1964
+15­56
+41 ­ ­
+73 7
+436­449
+54%
+52 26
+1034­1050
+414
+79%
+5 1024
+0%
+76%
+385­390
+10%
+3565­3576
+757­762
+94
+114
+3
+9
+102
+1 2
+1 0
+1 1
+329 0
+1 5
+94­96
+1439­1443
+1 5 3 29
+
+38
+
+47
+
+57
+
+67
+
+1 10 20 29 38 47 57 67
+4 ­ 4
+291 0
+90%
+80%
+4 0
+59
+58
+55
+54
+56
+51
+50
+53
+52
+5%
+281­297
+06 13
+06 15
+20%
+137­140
+448 0
+817­846
+9
+
+2
+4795­4800
+222
+17­25
+150
+157
+2609­2622
+298 0
+730­732
+98
+43 20
+27 ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ 4
+126
+92
+95
+81%
+303 0
+26 24
+1699­1711
+1007­1013
+52%
+7090407
+43%
+430
+78­86
+1 14
+1553­1561
+23%
+82
+1
+145
+142
+251­262
+5 7 3 1023
+120
+61 22
+991­1008
+87 15
+1991
+1990
+1151­1158
+5 10215
+338­345
+71­76
+996­1006
+2729­2742
+1994
+100%
+26 0
+022 15
+2
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+1%
+6 0
+135­177
+2219­2230
+1083­1085
+54 19
+64­72
+49%
+11­12
+14 ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ 4
+1
+
+5
+
+10
+
+14
+
+18
+
+25
+
+29 31
+
+36
+
+41
+2023­2031
+3
+83%
+89­100
+22
+5 10269
+23
+78%
+6%
+358 0
+61
+63
+65
+66
+67
+68
+69
+75 ­ ­ ­ ­ ­ ­ 4
+50%
+1133­1146
+797­807
+294 0
+788­793
+5
+
+1
+5
+
+0
+21%
+4
+60
+62
+64
+04 28
+97 4
+15 ­ ­ 4
+57%
+65 23
+5 2 3 1023
+75%
+287 0
+­ ­
+
+­ 4
+2003
+759­760
+5
+85 30
+89­117
+832­836
+271 0
+17 46
+309 0
+2 0
+6284­6291
+34 9
+24 10
+301­369
+1 27
+-3
+369 0
+193
+19%
+1­18
+3 3
+
+200
+
+18
+
+0
+5 8
+5 2
+5 0
+0
+19 ­ ­ 4
+85%
+6
+74%
+787­798
+38 12
+61%
+711 9
+187­193
+901­913
+5
+1
+363­364
+2222­2224
+24
+25
+26
+27
+20
+21
+28
+29
+2%
+·
+21­24
+2*
+91­105
+5 4 3 10211
+71 24
+5 31
+7
+31 44
+624­632
+4
+
+1
+67 18
+25­29
+18%
+697­702
+2
+
+5
+2
+
+0
+22 ­ 25
+77
+76
+75
+74
+73
+72
+5 4 3 10212
+79
+78
+25 30
+265 0
+8
+5 2 3 10212
+44 29
+28%
+176­188
+313 0
+100 35
+7593­7600
+336 0
+879
+9­23
+11590­11593
+007
+97 36
+13­16
+956­967
+$
+365 0
+187­200
+259
+
+45
+192­197
+275 0
+1566­1571
+2216­2218
+1017­1029
+30%
+16­23
+1661­1667
+24 44
+71
+70
+2 3 1027
+32 9 15
+31 63
+117
+66 24
+799­816
+%
+2495­2507
+04 25
+70%
+1996
+2002
+2000
+2001
+2006
+2007
+2004
+5 3 3 10218
+84
+1021­1027
+5 1 3 10220
+59%
+6 3 1027
+241­254
+28 0
+356 0
+11 ­ 23
+39
+38
+1540
+33
+32
+31
+30
+37
+36
+35
+34
+{
+3%
+283 0
+45 27
+32 ­ ­ 26
+24 51
+×10­2
+82 16
+1002­1011
+7 3 1024
+2387­2394
+576­586
+2743­2758
+131
+135
+0 1
+947­956
+02%
+8%
+88
+89
+80
+86
+87
+85
+338 0
+601­609
+1143­1144
+2454­2459
+14%
+*
+449­462
+288 0
+3 0
+65%
+198­202
+269 0
+17 12
+17 13
+6679507
+15­20
+919­929
+57
+32%
+179­193
+15 210
+304 0
+12%
+121
+122
+123
+124
+125
+483­501
+507­528
+1190­1202
+393 0
+3016­3031
+324 0
+57 39
+32 0
+46%
+449­479
+83­86
+45 42
+2005
+08 4
+56 ­ 7
+261 0
+49
+301­313
+43
+41 26
+26%
+9
+1
+25%
+12­14
+11%
+115
+116
+111
+110
+113
+112
+119
+118
+32 ­ 4
+79 5
+26 10
+566
+02 32
+56%
+2507­2518
+729
+83
+4 24
+81
+48
+46
+47
+44
+45
+42
+40
+41
+4*
+4%
+91 13
+151­156
+47%
+06 21

@@ -1,0 +1,10163 @@
+human­mouse speciation interspersed repeat family l1ma6 l1ma7 l1ma8 l1ma9 l1ma10 l1mb1 l1mb2 l1mc1 mlt1a mlt1a0 mlt1a1 mlt1b mlt1c looper mer20 mer33 mer53 tigger6a class line1 line1 line1 line1 line1 line1 line1 line1 malr malr malr malr malr dna dna dna dna dna kb 1
+smgsp
+
+6 6
+
+4 9
+
+2/2 5/4
+
+obox abpa/1 abpa/2 bdp/1
+
+7 7
+
+6 9
+
+3/3 7/2
+
+8
+
+5
+
+4/1
+
+beta-defensin proteins carboxylesterase carboxylesterase
+
+bdp/2 cease/1 cease/2
+
+8 8 8
+
+5 6 5
+
+3/2 6/0 4/1
+
+glioma pathogenesis-related protein homologues
+cg aac aag aat acc agc agg aaac aaag aaat aacc aagg aatg acag acat agat aggg aaaac 555 11 3070 1365 370 4 148 152 147 53 30 46 465 203 346 36 122 41 70 85 282 39 369 average
+antileukoproteinase 1 homologues hydroxysteroid dehydrogenase
+
+elafin
+
+2
+
+7
+
+4/3
+
+hsd
+
+3
+
+7
+
+7/0
+
+class mu glutathione s-transferases butyrophilin homologues class cyp4a cytochromes p450 prolactin-inducible protein
+n-terminal cytochrome p450 retroviral nucleocapsid protein gag iq calmodulin-binding region endonuclease/exonuclease/phosphatase family c-type lectin domain
+
+542
+
+© 2002 nature publishing group
+
+nature
+gst butyr cyp4a
+
+3 4 4
+
+7 5 7
+
+7/0 3/2 4/3
+
+pip
+
+6
+
+4
+
+4/0
+
+proline-rich proteins submandibular gland secretory proteins obox
+type iii small gtp-binding protein domain btb/poz domain tpr repeat pdz/dhr/glgf domain c2 domain cation channel
+domain leucine-rich repeat homeobox krab box calcium-binding ef-hand ankyrin sh3 domain egf-
+p183l r142q p30l q333k g955s a295v n750k h2921r g491s p269s
+c2h2 type immunoglobulin/major histocompatibility complex eukaryotic protein kinase atpase rna-binding region rnp-1
+§ gap initiationsk human mouse gap extensions{ human mouse alignment# x1 x2 x10 x100
+c-terminal sh2 domain basic helix-loop-helix dimerization domain bhlh serine protease
+c-terminal cadherin domain collagen triple helix repeat cysteine-rich flanking region
+predicted domains* catalytic domains non-catalytic domains secreted domains cytoplasmic domains nuclear domains amino acid identity
+rnases cyp2d
+
+13 13 14 15
+
+17 6 11 5
+
+11/6 6/0 7/4 3/2
+
+cystatins/stefins proteins
+b2 b4/rsine id mir/mir3 ltr elements erv_classi erv_classii erv_classiii malrs
+ribonuclease class cyp2d cytochromes p450
+
+gprp
+
+10
+
+5
+
+3/2
+
+probable functions
+hats tigger mariner unclassified total small rnas satellites simple repeats 660 599 53 8 1
+545
+
+© 2002 nature publishing group
+
+articles
+
+table 15 mouse homologous gene clusters cluster abbreviation* chr
+pfam domain family* clect ig sr tnfr pfam
+q2421h a53t q654e t57a n93s v109i f87l
+copies lines line1 line2 l3/cr1 sines b1
+p450 ccp scy krab domain family function immunity
+4 plasmid plasmid plasmid plasmid fosmid bac plasmid 3
+/nature
+
+© 2002 nature publishing group
+
+527
+
+articles
+
+figure 4 dot plots
+l1 transposable element g-protein beta wd-40 repeat zn-finger
+insulinlike growth factor binding protein acid-labile subunit gene
+class ia peptide-binding region shows increased non-synonymous-to-synonymous substitution
+secretory leukocyte protease inhibitor mediates non-redundant functions
+16 16
+
+7 6
+
+5/2 5/1
+
+mhc class ib
+
+mhci
+
+17
+
+8
+
+4/4
+homeobox proteins salivary androgen-binding protein alpha-subunit beta-defensin proteins
+growth factor binding protein acid labile subunit
+orthologous mouse regions line1 density
+mutation e251k r113h r376q l892s v211a
+tyrosine kinase loci reveals conserved regulatory domains
+mouse cystic fibrosis transmembrane conductance regulator genes
+biotechnology information
+
+mouse proteome
+eukaryotic protein invention appears
+radiation-induced mouse mutants causing heritable mendelian phenotypes
+cystic fibrosis transmembrane conductance regulator gene
+/nature
+
+© 2002 nature publishing group
+
+articles
+co-workers45
+/nature
+
+© 2002 nature publishing group
+
+articles
+pared
+scp domains prolactin-related proteins cathepsin j-
+cytochrome p450 4a fatty acid omega-hydroxylases
+/nature
+
+© 2002 nature publishing group
+
+articles
+table 5 composition
+/nature
+
+© 2002 nature publishing group
+
+articles
+
+figure 23 distribution
+/nature
+
+© 2002 nature publishing group
+
+articles
+
+figure 13 correlation
+mouse genome analysis group
+
+562
+
+© 2002 nature publishing group
+
+nature
+multiple murine 3 betahydroxysteroid dehydrogenase isoforms
+/nature
+
+© 2002 nature publishing group
+
+articles
+repeatmasker program
+draft genome sequence
+sequencing strategy
+
+ing directed sequencing
+line1 density based
+tie
+521
+
+© 2002 nature publishing group
+
+articles
+clones
+/nature
+
+© 2002 nature publishing group
+
+articles
+table 1 distribution
+content line1 density
+11 18 16 9 18 11 20 16 11 13 9 7 9 5 5 4 1 10 10 1 3 9 1 217
+
+19 28 27 11 19 18 26 19 17 18 10 17 9 5 17 6 16 12 17 3 3 9 16 342
+
+14 10 10 9 16 17 11 15 10 9 10 8 12 18 4 7 17 14 5 na na na 1 217
+
+21 21 15 13 24 23 23 21 17 16 27 10 14 18 8 9 20 19 7 na na na 16 342
+
+nature
+tissue microarray analyses implicate fgfr2 amplification
+wgs sequencing strain 129s1/svimj c3h/hej balb/cbyj total reads* 67
+line1 density
+vr1 vomeronasal olfactory receptor gene cluster197
+/nature
+
+© 2002 nature publishing group
+
+525
+
+articles
+libraries
+091
+
+© 2002 nature publishing group
+
+555
+
+articles
+table 18 snps generated
+/nature
+
+© 2002 nature publishing group
+
+561
+
+articles
+robert
+/nature
+
+© 2002 nature publishing group
+
+articles
+divergence
+clone inserts provide roughly 47-fold physical coverage
+murine cytochrome p-450 cyp4a protein
+class cyp2d cytochromes p450
+mom1akr intestinal tumour resistance region consists
+ultracontigs unanchored contigs largest 200 supercontigs largest 100 supercontigs number 176
+© 2002 nature publishing group
+
+537
+
+articles
+revised
+neuronally expressed rna gene called bc1
+strongly
+553
+
+© 2002 nature publishing group
+
+articles
+correlated
+aligned
+539
+
+© 2002 nature publishing group
+
+articles
+locations
+line1
+n-terminal zinc binding esterase/lipase/thioesterase
+mouse
+533
+
+© 2002 nature publishing group
+
+articles
+genomes
+humans noticed spontaneously arising coat-colour mutants
+529
+
+© 2002 nature publishing group
+
+articles
+depends
+/nature
+
+© 2002 nature publishing group
+
+articles
+/nature
+
+© 2002 nature publishing group
+
+559
+
+articles
+199
+/nature
+
+© 2002 nature publishing group
+
+523
+
+articles
+/nature
+
+© 2002 nature publishing group
+
+531
+
+articles
+investigate instances involving smaller incorrectly merged segments
+l1ma6
+l1ma8
+mouse 3 beta-hydroxysteroid dehydrogenase/delta 5-delta 4 isomerase
+seminal vesicle secretory protein family
+548
+
+figure 22 dot plot showing genomic alignment
+orthologous sequences undergoing neutral drift remain conserved
+male-specific steroid 16 alpha-hydroxylase gene family
+vitelliform macular dystrophy protein defines
+international human genome sequencing consortium initial sequencing
+limb-girdle muscular dystrophy type 2d
+suppress sperm capacitation-related events stimulated
+notably high mobility group hmg1/2 box
+transcription factor binding site244­246 stands
+dna stabilizes methyl cpg dinucleotides
+© 2002 nature publishing group
+
+543
+
+articles
+table 12
+figure 20 cytochrome p450 protein families
+perform de novo gene prediction directly
+short rna-derived short interspersed nucleotide elements
+riken genome exploration research group phase
+528
+
+© 2002 nature publishing group
+
+articles
+identical
+whitehead institute washington university sanger institute university
+mouse proline-rich protein multigene family
+multiple
+
+table 3 mouse chromosome size estimates chromosome actual bases
+mouse seminal vesicle secretory protein
+mouse genome lacking assigned conserved syntenic segments
+14 kda submandibular gland protein
+lineage-specific versus ancestral repeats
+
+interspersed repeats
+considers flanking base context effects
+approach involves producing random sequence `reads
+long interspersed repeated dna element
+dual-genome de novo gene prediction
+c-band positive homogeneously staining region
+interspersed repeat density gradually decreases 2
+active site ubiquitin domain histone-fold/tfiid-taf/nf-
+larger gprotein-coupled receptor superfamily tree193
+sex-specific mouse cytochrome p-450 genes
+carboxylesterase families
+human sequence variation database emphasizing data quality
+© 2002 nature publishing group
+
+557
+
+articles
+22
+547
+
+© 2002 nature publishing group
+
+articles
+551
+
+© 2002 nature publishing group
+
+articles
+541
+
+© 2002 nature publishing group
+
+articles
+pairwise percentage amino acid identities
+domain tyrosine-specific protein phosphatase
+international human genome sequencing consortium reported
+residual mhc class ii expression
+/nature
+
+articles
+table 14 human disease-
+sertoli cell tight junction strands
+placenta- specific cysteine peptidase genes
+serine protease homologues
+autonomous long interspersed nucleotide element
+de novo gene prediction methodologies
+transcriptional start sites remain poorly defined
+generalized pair hidden markov model
+naturally occurring dna polymorphism correlate
+trna-derived short interspersed repetitive elements
+submandibular gland secretory
+regulatory sequences directing liver-specific transcription
+human prolactin-inducible protein/gcdfp-15 gene
+600 highly polymorphic sslp markers ordered
+error bars depict standard deviation
+cytochrome p450 gene family
+avoid small artefactual syntenic segments owing
+join sequences
+
+table 2 basic statistics
+/nature
+
+articles
+main polyadenylation signal
+computational pipeline produces predicted transcripts
+including rtatccty 5 0 splice signals characteristic
+ribosomal protein pseudogenes incorrectly assigned
+major histocompatibility complex class
+reproduction-related wap domain proteins
+human­mouse refseq genes confidently assigned
+filtering de novo gene predictions
+cyan bars represent sequence coverage
+primary mhc class ii deficiency
+ring rna-directed dna polymerase
+de novo gene prediction programs
+cytochrome p450 family cluster
+cold spring harbor laboratory press
+cytochrome p450 cypd genes
+1 mouse-human orthologues orthologue regions aligned positions
+functional transcription factor binding sites
+6 million reads passed extensive checks
+seminal vesicle secretory proteins
+remaining set contained 498 putative trna genes
+human genome sequence1 provided extensive background
+560
+
+© 2002 nature publishing group
+
+nature
+© 2002 nature publishing group
+
+nature
+323
+
+546
+
+© 2002 nature publishing group
+
+nature
+10
+
+© 2002 nature publishing group
+
+nature
+558
+
+© 2002 nature publishing group
+
+nature
+544
+
+© 2002 nature publishing group
+
+nature
+550
+
+© 2002 nature publishing group
+
+nature
+tetraodon nigroviridis dna sequence
+local gene order remains largely intact
+ensembl gene prediction pipeline142 augmented
+iq solutions center
+cytochrome p450 gene families
+mouse acid-labile subunit promoter
+mouse genome
+mouse genome sequencing consortium*
+*
+program trnascan-se168 predicted 518 trna genes
+chronic non-spherocytic haemolytic anaemia
+fraction na anc varies markedly
+improved random mutagenesis protocols led
+dual-specificity protein phosphatase rnase
+germline homogeneously staining region
+compare rapidly retrieved sequence tags
+salivary androgen-binding protein alpha
+conservative domain prediction scheme
+wap domain antimicrobial proteins
+mouse acid-labile subunit genes
+ly49 natural killer cell receptors
+possess higher ka /ks values
+initial human gene catalogue1 contained
+representing neutrally evolving dna
+protein regions* domain-free protein regions*
+approximately twofold higher average substitution rate
+evolutionarily conserved functional building blocks
+rapidly evolving pem homeobox gene
+human olfactory receptor gene families
+mgsc produces additional bac assemblies
+glutamine-rich protein gene family
+deduced amino acid sequence
+intact open reading frames
+47 contained multiple olfactory receptor genes
+yielded clone-based draft sequence consisting
+cold spring harbor laboratory
+draft genome sequence greatly accelerated
+ten large-scale enu mutagenesis centres
+mouse chromosomes chromosome blocks segments human fraction
+showing 38% amino acid identity
+figure shows percentage residue identity
+europeans subsequently imported favourites
+multicomponent electron transfer chains
+sanger institute systems group
+non-aligning ancestral human dna
+high- density dna arrays
+substantially larger human gene count146
+sampling involved selecting gene predictions
+mhc class ib genes
+mouse genome analysis group consisting
+catalytic domain fibronectin
+growth hormone-responsive promoter element
+mouse salivary androgen-binding protein
+whey acidic protein genes
+pairwise amino acid alignments
+ltr insertion rate remain significant
+computing resource greatly accelerated
+de novo gene prediction
+mouse genome sequencing consortium progress
+27 hp alphaserver es40 systems
+centre de regulacio genomica
+underlie heritable phenotypic variation
+highest-scoring local mouse­ human alignment
+international collaboration involving centres
+original two-marker linkage group
+uk mrc mouse sequencing consortium
+p450 cytochromes
+olfactory receptor gene family
+recognized ltr element copies predating
+line elements prefer sex chromosomes
+id closely resemble ala-trna
+293 amino acid variants reported
+cent amino acid identity
+wellcome trust sanger institute--
+usher syndrome type 1b
+cysteine-rich flanking region
+genome-wide retroviral insertional tagging
+interspersed repeat family copies
+mouse genomes genome feature human initial
+p450 protein family
+suppress mouse sperm motility
+box sterile alpha motif
+prion protein gene region
+human chromosome 21 gene expression atlas
+mouse orthologous common fragile regions
+snps largely represent alternative alleles
+lineagespecific dna transposon families
+arrows denote matching segments
+smart domain-based sequence annotation resource
+human lineage-specific ltr repeats identified
+transcription factor binding sites
+swiss-prot protein sequence database
+median amino acid identity
+mammalian noncoding genomic dna
+genbank accession number caaa01000000
+ancestral repeat average substitution level
+rodent genes encoding homologues
+multiple duplicated regions exceeding 100 kb
+mouse olfactory receptor homologues194
+extensively validated mouse genetic map34
+de novo gene predictions
+olfactory receptor gene superfamily
+current endogenous retroviral elements
+female hamster cricetus cricetus
+homeobox proteins preferentially expressed
+transfer rna-derived promoter region
+simple sequence repeats
+
+mammalian genomes
+computational pipeline remains imperfect
+homeobox gene preferentially expressed
+cyp4d cytochrome p450
+roughly twofold higher substitution rate
+diverged ancestral repeat family
+gene predictions include homologues
+flowering plant arabidopsis thaliana
+deleted bases outnumbering inserted bases
+roughly twofold lower mutation rate
+/nature
+
+figure 18 gene ontology
+similarly reflects dense regulatory information
+active class ii elements
+wellcome trust sanger institute
+predicting protein cellular localization
+provide sufficient statistical separation
+obox
+content linear regression spearman rank
+recently reported high-resolution measurements
+498 putative mouse trna genes differ
+ensembl predicted gene sets reveals
+essential genes evolve slowly
+italic font represent families
+severe combined immunodeficiency resulting
+sequence identity rises gradually
+sequence identity falls slowly
+recent interspersed repeat elements
+human spermidine synthase gene
+short interspersed element sequences
+p450 cyp4a
+roughly twofold higher mutation rate
+gene family encoding proteins
+homeobox genes preferentially expressed
+lower interspersed repeat density
+human­rodent speciation
+/nature
+
+articles
+table 9 frequency
+genie gene prediction pipeline143
+undergoing rapid sequence evolution
+including ancient chinese references
+6
+
+4/2
+
+elafin
+confer muscle-specific gene expression
+interspersed repeats representing `fossils
+human­mouse speciation
+rodent dna sequence comparisons
+construct dense landmark maps39
+2 physical coverage§ physical coverage§
+cpg islands
+
+figure 6 size ratio
+smallest reported functional unit
+widely cited textbook figure
+natural killer cell receptors
+submaxillary gland protein
+hierarchical shotgun sequencing overcomes
+pure hierarchical shotgun sequencing
+cytochrome p450 expressed
+national human genome research institute
+testosterone 16-alpha hydroxylase regulated
+high-throughput retroviral tagging
+long interspersed repetitive elements
+de novo gene addition
+premature in-frame stop codon
+transmembrane protein b-dystroglycan
+restriction fragment length polymorphisms
+euchromatin-proximal major satellite repeat
+assembly data
+unprocessed sequence reads
+washington university genome sequencing center
+amino acid identities
+genome sequence en route
+human simple sequence repeat
+recently expanded gene clusters involved
+506 orthologous human­mouse gene pairs
+draft genome sequence includes approximately 96%
+complete human olfactory subgenome
+severe combined immunodeficiency disease
+gap extensions
+cumulative ka /ks ratios
+mouse mammary tumour virus
+class includes active ervs
+murine homeobox gene expressed
+major histocompatibility complex
+involving abundant neutral sites
+includes 121 small nucleolar rnas
+microsatellite repeat length resulting
+published continuous-time markov models
+murine beta-defensin expressed
+free left alu monomer
+identify chromosomal segments showing loss
+begin dissecting polygenic traits
+04 na na human fraction
+rna genes remains rudimentary
+howard hughes medical institute
+possess similar behavioural functions
+laboratory mouse
+
+recessive screens
+barbed line indicating direction
+lineage-specific gene family expansion
+requiring tedious restriction mapping
+true human homologues present
+snps offer potential advantages
+human olfactory receptor loci
+june 2002 human draft assemblies
+cold spring harbor
+doe joint genome institute
+89 na na na 1
+93 na na na 0
+high mobility group
+mouse genome informatics group
+bacterial artificial chromosome libraries
+excellent bacterial artificial chromosome
+genetic map grew slowly
+100-kb syntenic windows binned
+wellcome trust genome campus
+complete androgen insensitivity syndrome
+interpro domain prediction
+attaaa positioned 10­ 30 bases upstream
+mammalian odorant binding proteins
+alu equivalent b1 sines show
+recent gene-based synteny map37
+restriction endonucleases correspond precisely
+complete high-quality sequence afforded
+normalized rates obtained taking residuals
+chromosome features massive palindromes
+selenocysteine trna species complementary
+measuring evolutionary forces acting
+modelling human disease states15
+dna base composition
+androgen-binding protein locus
+protein database search programs
+major functional themes emerge
+observed discrepancy rates varied
+automated dna sequencing
+closely similar interspersed repeats
+life history influences rate
+class ib genes
+higher substitution rate obscures
+publicly funded sequencing groups
+eukaryotic/viral aspartic protease
+low ka /ks ratios
+set contained considerably fewer exons
+mouse genome sequencing consortium
+mouse bac ends quality assessment
+rapidly evolving 3 0 non-coding sequences110
+representing transposable elements inserted
+tissue-specific androgen-inhibited gene expression
+mouse genome sequencing project
+origins
+multiple continuously variable traits
+markedly dissimilar evolutionary history
+sequence conservation reflects biological function
+sgp2 produced qualitatively similar results
+local gene family expansions
+simple sequence length polymorphisms
+verifying resulting pcr products
+vertebrate immunoglobulin superfamily reflecting
+loci reveals overdominant selection
+putative trna genes violated
+fourth repeat class
+autosomal gene synteny groups
+cchc type hmg1/2
+ucsc tech report ucsc-crl-02-30
+unpredicted protein domains
+sampled 200 evenly spaced bases
+lower ka /ks values
+ihgc human genome paper1
+800 aligned ancestral repeat sites
+50 aligned ancestral repeat sites
+45 aligned ancestral repeat sites
+recently developed sequence-assembly programs
+underlying silent substitution rate
+submandibular gland
+reduced representation shotgun sequencing
+dna elements charlie
+programs produced comparable outputs
+ancestral repeats overcome issues
+apparent ka /ks ratio
+biomedical research traces back
+species remains fairly constant
+orthologous exons conserve phase
+articles
+
+initial sequencing
+created initial snp collections
+exploited comparative genomic analysis
+lower ka /ks ratio
+direct dna sequencing
+species show significant sequence conservation
+qtl mapping experiments succeeded
+phospholipid-binding protein secreted
+unusually high read coverage
+directly affects line integration
+previous genetic map assignment
+deterministic mutation rate variation
+mouse shows similar extremes
+mrc functional genetics unit
+single gene family member
+isolation show good alignment
+highly similar repeat sequences
+species reflects underlying proclivity
+single functional gapdh gene
+riken genomic sciences center
+id þ b4 sine density
+human l1 retrotransposon encodes
+near-perfect repeats spanning hundreds
+older ancestral repeats undetectable
+paralogous mouse-specific gene clusters
+include burgeoning mammalian est
+predicted domain regions
+/nature
+
+articles
+number
+zinc-finger homeobox 1b
+developmentally important gene cluster
+family-based interpro analysis interpro
+regional nucleotide substitution rate
+domain projection method
+initial threefold sequence coverage
+lineage-specific ltrs varies substantially
+thousand additional predicted exons
+class ii elements
+diverse transcriptional initiation revealed
+gpcr superfamily zn-finger
+encoded amino acid
+detect distant homologues
+distinguishing regulatory dna
+mrc mammalian genetics unit
+endogenous retroviral sequences
+higher average percentage identities
+mhc class i227
+median ka /ks values
+whole-genome shotgun-derived mouse chromosome 16
+current mammalian gene catalogues
+prolactin-inducible genes
+short gene predictions arising
+smart domain predictions
+possibly non-syntenically conserved regions
+common ancestral genome approximately 75 myr
+active l1 retrotransposon subfamily
+avoid potential biases inherent
+triangle represent mouse pseudogenes defined
+gene pairs encode transcripts
+1­5-bp unit ssrs including
+highly diverged families active
+class ii ervs
+adjacent de novo
+fourfold degenerate sites aligning
+recombinant dna constructs
+median ks values clustered
+human genomic dna
+human chromosome 19 show extreme divergence
+non-overlapping orthologous 100-kb windows
+initial mouse gene catalogue
+aligned fourfold degenerate sites
+800 aligned fourfold degenerate sites
+table 7 predicted repeat density
+median ka /ks ratio
+silent site substitution rate
+human dna polymorphisms
+mouse liaison group
+deletion snp recombination insertion neutral
+secreted class typically
+true functional trna genes
+/nature
+
+articles
+calculated
+large dna databases
+initial draft genome sequence
+dna-binding regulatory factor
+typical mouse refseq transcript
+recognize ancient repeat sequences
+phd finger zn-finger
+conservation levels vary regionally
+interspersed repeat sequence
+845 orthologous gene pairs referred
+existing laboratory mouse strains
+rapid positional cloning strategies
+physical maps provide thousands
+cytochrome p450
+cytochrome p450 4
+table 13 protein domains
+rna genes
+
+figure 16 structure
+higher nucleotide substitution rate
+mouse satellite dna
+becker muscular dystrophy
+cyp2d category includes
+repeat sequence families derived
+hox cluster including pem
+ancestral repeat family
+apparent neutral substitution rate
+gamma-interferon-activated sequence mediates
+class iii accounts
+6-200 mb gene cluster
+represent functional cpg islands
+000 loci affecting physiological traits
+european molecular biology laboratory
+glutathione
+stat5b protein family
+approximately equal time periods
+melanosome protein rab38
+simple sequence repeat
+greater positive diversifying selection
+identifying true trna genes
+/nature
+
+ibility complex
+highly similar substitution rates
+recombinant dna technology
+current human gene catalogue
+identical amino acid
+rnase gene family
+exons/transcript total predicted exons 44
+incorrectly merged segment
+approximately fourfold fewer discrepancies
+resulting draft genome sequence
+mammalian dna replication
+mammalian gene regulatory regions
+sequence reads
+paired-end reads
+dna transposons show
+mammalian gene count
+
+percentage
+adjacent non-repetitive dna
+speciation time
+resources included large collections
+large uncaptured gap
+additional read pairs number
+interspersed repeats predating
+divergence showing substantial variation
+recently discovered rnas involved
+approximate transcription start site
+higher dna loss
+numerous highly related genes
+dna transposons move
+seminal vesicle autoantigen
+hamster aphrodisiac protein
+older interspersed repeats
+dna sequences subjected
+including typical percentage identity
+examining aligned ancestral repeats
+similar neutral substitution rate
+interspersed repeat distribution
+similar conserved syntenic interval
+generate random shotgun reads
+instituto carlos iii
+b6 female dna
+islands identified
+
+figure 7 distribution
+7 million non-overlapping 100-bp windows
+human genome sequencing center
+human­mouse gene pairs
+interspersed repeat populations
+apparent local gene clusters
+higher neutral substitution rate
+mouse genomic sequence orthologous
+evidence-based gene prediction result
+reflect orthologous sequence pairs
+identify candidate regulatory elements
+extended mouse gene catalogue
+9 million non-overlapping 50-bp windows
+synonymous codon rate ratios
+non-homologous kir family
+hitherto unknown abpa paralogues
+interspersed ltrcontaining elements
+200 largest supercontigs span
+swiss national science foundation
+aag
+aagg
+aggg
+agg
+cystic fibrosis
+aaag
+continuous-time markov models230
+diet-induced insulin resistance
+acag
+mucopolysaccharidosis type iva
+interspersed repeat insertion
+ensembl genome database project
+human­mouse alignment catalogue
+key mouse genome databases
+2% diverged interspersed repeats
+neutral substitution rate provided
+major satellites comprise
+orthologous 100-kb mouse windows
+non-canonical homeobox cluster
+greatly increase prediction specificity
+local lineage-specific sine density
+recent previous map based
+perform directed mutagenesis
+675 finished mouse bac sequences
+mouse­human sequence alignment
+olfactory receptor genes
+set contained 335 trna genes
+briefly discuss rna genes
+distribution
+
+figure 27 conservation scores
+identify mammalian regulatory sequences
+mouse chromosome 16 recently published
+total cloned dna
+predicted transcripts predicted genes
+comparative genomic sequence analysis
+existing human genome browsers
+mouse genome
+
+figure 2 conservation
+greater purifying selection acting
+including abundant rnas involved
+human leukocyte antigen
+interspersed repeat-related data
+human genome sequence aligns
+assigned gene ontology
+facilitate testing candidate genes
+long-range locus control regions
+proline-rich-protein multigene families
+additional mouse cdnas improved
+older id elements
+figure 19 protein evolution
+figure 21 protein evolution
+large-scale comparative sequence analysis
+rapidly changing mouse genome
+interspersed repeats resulting
+human­mouse exon pairs
+sequence reads insert size
+b4 family resembles
+probabilistic gene structure model
+growth hormone induction
+whitehead institute/mit center
+fogarty international center
+mouse gene catalogue pseudogenes
+successful ltr element
+gene family subsequent
+interspersed repeat classes
+figure 29 estimated average number
+trypsin family integrase
+catalytic domains
+lineage-specific l1 copies peaks
+mouse genome mouse thousands
+odorant binding proteins
+mouse seminal vesicle
+perform shotgun sequencing
+high-throughput insertion site analysis
+mouse genetic map based
+creating double knockout mice
+similarly reveal gene clusters
+mouse sequencing consortium
+psx homeobox gene
+retention showed substantial variation
+vomeronasal receptor genes
+facilitate genetic mapping studies
+reflect true protein-coding genes
+full-length mouse cdna collection
+4 million sequence reads derived
+annotated mouse genome sequence
+understood gene family
+yielded greater short-range
+mouse­human orthologue median
+mutations provide important models
+homologous predicted gene
+ultracontigs include spanned gaps
+murine leukaemia virus
+ltr element insertions
+single largest fraction
+finished mouse genome sequence
+polymerase chain reaction
+show protein similarity
+mouse­human sequence comparisons
+gene ontology resource
+gene family expansions
+simple sequence repeats
+comparative genome sequence analysis
+variant amino acids
+plan nacional de
+predicted error rate
+human sex chromosomes show
+hamster vaginal discharges
+duchenne muscular dystrophy164
+hamster vaginal discharge
+lineage-specific repeat elements
+predicted interpro domains
+human draft sequence1
+repeat density remains
+possibly fatty acids
+human gene number provided
+human lineages remains unclear
+human­mouse common ancestor
+common human­mouse ancestor
+/nature
+
+articles
+275
+/nature
+
+articles
+112
+/nature
+
+articles
+subspecies mus musculus domesticus
+mouse genes
+genes comprise
+top 50 protein families/domains
+mariner element mmar1
+lawrence berkeley national laboratory
+4d show differing patterns
+gene family including
+ancestral repeat sites
+gpbox homeobox cluster204
+mouse lineage
+
+figure 9 comparison
+domain families
+649 domain families
+content
+figure 5 size distribution
+mouse show significant differences
+lineage-specific repeat sequences
+90 blocks segments mouse fraction
+ancestral repeat sequence
+putative trna genes
+human amino acids
+powerful genetic engineering techniques
+rapid gene sorting
+lineagespecific repeat sequence
+competing interests statement
+megabase declines 13-
+bind volatile odorants
+mucous layer overlying
+small-cell lung carcinomas
+salt lake city
+jukes­cantor formula ð
+competing financial interests
+inherited eye disorders155
+contiguous gene-deletion syndromes
+clinically relevant phenotypes15
+8
+
+4/4
+
+claudins
+
+claudins
+non-syndromic prelingual deafness154
+v754m q127h a25t
+medica/universitat pompeu fabra
+vertebratespecific retrovirus clade
+accurately follow fluctuations
+markedly accelerate progress
+cysteine proteinase inhibitors
+non-ligand gated helicase
+7th annual symposium
+occasional isolated interruptions
+dorsal­ventral patterning
+leber congenital amaurosis
+assembled reads represent approximately 7
+significantly lower proportion covered
+wellcome trust centre
+max planck institute
+proline-rich proteins
+encode gag/pol proteins
+§ physical coverage refers
+substitution rate varies
+rna secondary structure167
+nonsynonymous substitution distances
+high conservation scores relative
+interpro domain
+human alu density based
+well-curated refseq collection151
+predicted smart domains
+remained fairly constant
+conservation levels rise sharply
+00 uncaptured total estimated size
+recent id elements
+ancestral repeat sequences
+bare lymphocyte syndrome
+bardet­biedl syndrome
+gene-dense ache/tfr2 region
+ka /ks values
+medical research council
+snp consortium website
+tandemly repeated sequence
+reconstructing gene orders
+so-called `gene trap
+telomereproximal minor repeat
+domain integrase
+transcriptional start sites
+ancestral repeats falls
+hierarchical shotgun sequencing
+shotgun sequencing strategy
+yac-based physical map
+avoid intersubspecies breeding221
+mammary epithelial cells
+in-frame stop codon
+uga stop codon171
+full-length protein domain-
+random shotgun sequencing
+highly diverged 5 0 ends112­114
+long qt syndrome 5
+sevenfold sequence coverage
+7-fold sequence coverage
+cytoplasmic domains
+syndrome critical region
+local misordering affects
+orthologous gene pair
+numerous potentially functional
+ontario n2l 3g1
+ontario n2l 3l2
+ontario n6a 5b7
+fragmentary messenger rnas
+amino acid
+explore systematically recent evolution
+figure 17 taxonomic breakdown
+publicly funded groups
+74 -- -- -- -- 4
+008
+
+-- -- -- -- 20
+encode functional proteins
+fingerprint-based physical map44
+above-generated gene catalogues
+evidence-based gene prediction
+transcriptional regulatory sequences
+single element resembling
+visual inspection reveals
+human­mouse genome alignments
+red horizontal line represents
+ka /ks ratio
+mice lacking adiponectin/acrp30
+spearman rank analysis
+alternative splicing adds
+perform positional cloning
+translational apparatus category
+features reflect local variation
+comparative gene prediction
+national heart lung
+interspersed repeats grouped
+murine ribonuclease genes
+2
+
+sequencing centres generated 40
+high versus low
+compartmentalized shotgun assembler
+national eye institute
+wholegenome shotgun reads
+innate immune response176
+draft sequence showing
+obtain equal coverage
+swiss cancer league
+matrix attachment sites
+long-range repeat cluster
+full-length complementary dnas41
+rapid early coverage
+hat elements urr1
+substitution rate co-varies
+bac clones covering
+quality scores assigned
+orthologous mouse introns tend
+/nature
+
+significant variation
+small families consisting
+initial riken cdnas41
+repeat class
+partial gene models
+fingerprint contigs spanning
+near-perfect tandem repeats
+long-dead sine element
+initial gene catalogue
+bac-based physical map
+parallel adaptive radiations
+singlenucleotide polymorphism arrays
+reconstructing phylogenetic trees
+promoterless reporter construct
+mature dendritic cells
+combinatorial pattern matching
+protein family
+draft sequence
+520
+
+  
+
+ 
+
+
+
+covering
+robust draft sequence
+protein domains
+palindromic dinucleotide cpg
+domain length
+completely random cross-section
+exon count rises
+cyp2c family based
+clear protein similarity
+remaining 75 genes reported
+identical coding sequence length
+human genome sequence1
+false negative rate
+median divergence level corresponds
+experimental verification yields
+increasingly complete coverage
+interpro hierarchical relationships
+amino acids contribute
+smart domains specific
+orthologous gene relationships
+700 fourfold degenerate sites
+fourfold degenerate sites
+ratio varies widely
+remove linked polymorphisms270
+speciation
+small syntenic segments
+lower selective disadvantage
+underlying substitution rate
+evolutionary pressures exerted
+locate regulatory sites
+reviewed refseq mrnas
+homologous mouse genes
+examined 687 human disease genes
+additional functional abpa-
+large sequencing centres--
+direct product sequencing327
+human homologues
+bac inserts reported
+end-sequenced bac libraries
+non-genic trna-related sequences
+compact structures serving
+000 identified id elements
+well-studied gapdh gene
+immunoglobulinlike domain
+general medical sciences
+multiple markers supporting
+dna sequence
+sequence dna
+least-diverged ancestral repeats
+represent random fluctuations
+quantitative trait loci
+density gradient centrifugation
+gradually decreasing density
+insufficient marker density
+mouse gene encoding
+ancestral transposon relics
+functional alteration
+nature
+reciprocal syntenic blocks72
+escherichia coli host
+accelerate biomedical progress
+overlapping large-insert clones
+whole-genome shotgun assembler
+ly49 gene families
+approximately sevenfold coverage
+murine genes encoding
+nearby substitution rates
+nonsynonymous substitution rates
+inferred substitution rates
+precise ratio depends
+original variables neutral
+laboratory mouse occupies
+dense genetic map
+functional trna genes
+clusters bear witness
+positioned precisely relative
+end-sequenced bac library
+fingerprint contigs* number 37 1 1 3 3 3 2 4 2 1 0 1 2 4 2 0 0 4 0 2 2 mb 2
+mouse gene prediction
+chromosomal dna
+represent fragmentary products
+high-quality sequence assemblies
+main computational tool
+key informational tool
+single identifiable orthologue
+unanchored contigs fall
+modern rna world
+populous interpro families
+high-resolution recombination map
+mouse decidual cultures
+mouse phenome database
+83rd percentile orthologue
+rat id sequences
+single terminal read
+convergent functional evolution225
+equivalent functional niches
+human definitive placentae
+neutral substitution
+
+ebrates
+ecological space left
+rat salivary glycoproteins
+embryonic stem cells
+extensive cytogenetic comparisons
+encode non-protein-coding rnas
+elicits copulatory behaviour
+125 smaller supercontigs representing
+predicts gene structures
+clone types prepared
+homologous genes based
+high-quality draft sequence
+research group
+relative selective pressures
+single ancestral gene
+gene prediction process
+secreted proteins implicated
+full information hidden
+extensive background information
+dna sequences
+evidence-based gene catalogue
+transfer rna genes
+current substitution rate
+1441 north 34th street
+developmental stage selection327
+genome therapeutics corporation
+individual sequence reads
+predicted substitution rate
+rna recognition motif
+significantly smaller window sizes
+false positive rate
+reported 731 gene predictions
+mouse-specific retrovirus elements
+165 human refseq mrnas
+specific signaling pathways
+substantial regional fluctuation
+curated refseq collection
+long terminal repeats
+includes spanned gaps
+supercontigs number mb captured
+/aphrodisin homologues
+cross-species homologues
+1-mb region surrounding
+current draft sequence
+neutral dna
+3 million non-overlapping 50-bp
+deficient pheromone responses
+human/mouse homology relationships
+integrating database homology
+proteinaceous aphrodisiac pheromone
+observed discrepancy rate
+average base identity
+undiscovered conserved segments
+conserved syntenic segments
+342 conserved syntenic segments
+yeast artificial chromosome
+nucleic acids res
+interspersed repeat
+directional mutation pressure
+distinct rodent-specific type
+genetic map conflicted
+mouse mammary cells
+mouse radiation-hybrid map37
+mammalian trna genes
+02 na na
+lower percentage identity
+predicted domains present
+multiple alignment statistics
+mouse dna
+realistic evolutionary models
+large-scale transcriptional activity
+highly repetitive sequences
+fewer cpg islands
+expanded gene families
+predicted gene count
+individual conserved sequence
+1 million transposon relics
+exhibit similar behaviour
+positive diversifying selection
+446 noncoding rna genes
+noncoding rna genes
+non-overlapping 1-mb windows
+cultured mammalian cells
+interproscan computer resource179
+number n50 size gaps
+neutrally evolving regions
+additional regulatory elements
+snp rate showed
+link laboratory notebooks
+fourfold degenerate site
+unique advantages include
+lower gene count
+single gene catalogue
+comparative genomic hybridization
+repetitive sequence elements
+improve gene prediction
+gene structure prediction
+segments vary greatly
+additional strains reveals
+528 draft sequence contigs
+represent protein-coding genes149
+simple analysis suggests
+nearby evidence-based predictions
+high-density snp maps
+non-canonical splice sites
+mammalian gene count
+vanishing white matter
+completely finished sequence66
+`genetic arms race
+previously functioning abpa-
+harwell ox11 0rd
+specifically engineered loss-
+late cretaceous period
+dunn­sidak corrections
+continuing advances fuelled
+classic single-gene mutations
+normal wound healing
+proline-rich proteins229
+codon­anticodon pairing
+london nw1 2be
+mouse gene catalogues
+mouse genomic regions10
+human gene catalogues
+genetically closely linked
+single nucleotide polymorphisms
+000 single nucleotide polymorphisms
+complete genomic sequence
+lineage-specific elements point
+merge overlapping predictions
+fourfold degenerate codons
+strong purifying selection184
+comparative sequencebased discovery
+drives rapid evolution
+powerful evolutionary pressures
+orthologous genome remaining
+highly diverged copies
+wild mus musculus
+mhc class
+3 0 -utr regulatory signals
+represent evolutionary vestiges
+cancer gene discovery293­295
+complete gene structures
+high-density snp mapping
+initial snp collection
+lipocalin family members
+cellular component ontology
+false positive rates
+laboratory behavioural experiments
+geneva medical school
+harvard medical school
+common ancestral gene
+biological functions common
+richly annotated sequence
+mouse models replicate
+000 potentially active elements
+dna level
+european bioinformatics institute
+human hprt locus
+previous studies disagree
+functionally important elements
+discriminate regulatory regions
+newly identified paralogue158
+underlying mutation rate
+non-genic conserved sequences
+evolutionary processes shaped
+density gradient experiments
+single 36-kb segment
+national mouse club
+modelling human disease
+strong selective pressure
+nucleotide level totalled
+small central segment
+provide powerful reporters
+typical 510-kb segment
+mgsc originally consisted
+potentially neutral sites
+positive natural selection
+functionally important sequence
+female germ cells
+female germ line
+neutral substitution rate
+oxford ox3 7bn
+oxford ox1 3qx
+environmental health sciences
+4444 forest park avenue
+non-coding rna genes
+mouse proteins predicted
+adding finished sequence
+inferred consensus sequence
+finished bac-derived sequence
+fast molecular clock
+main class
+efficient techniques capable
+early hybridization experiments130
+developed efficient algorithms
+conserved syntenic interval
+additional factors influencing
+additional map-based information
+mouse-specific genes demonstrates
+genome sequencing center
+radiation hybrid map
+recent segmental duplications
+predicted cpg islands
+genome-wide substitution rate
+high-scoring whole-genome alignment
+integrating genomic homology
+human gene pairs
+lineage-specific line density
+deficit largely reflects
+recapitulating human phenotypes
+polypyrimidine tract beginning
+similarity score exceeding
+extensive interchromosomal rearrangement
+apparent false positives
+broad scientific network
+require positional cloning
+cpg islands show
+multiple molecular solutions
+derived remains unassigned
+general regulatory regions243
+non-canonical gc-ag introns
+gt-ag canonical introns
+23 non-canonical gc-ag introns
+identify putative genes
+cpg islands shows
+genomic regions lying
+genomic regions delimited
+colleagues45 recently reported
+dna molecules
+non-functional dna
+higher-organism dna
+dna methylation
+-rich dna
+dna replication
+animal dna
+regions located 200 bp upstream
+line­sine pairs115
+estimates partially originate
+adjacent homologous exons
+b2 element tails
+cambridge cb10 1sa
+cambridge cb10 1sd
+extensive lineagespecific innovation
+potential exonic features
+pink-eye dilution mutants
+largest transcript
+5-gb euchromatic genome
+evolutionary rates extends
+expectation remains roughly
+alpha-synuclein gene identified
+3 sequence coverage total 0
+3
+
+sequence coverage total 4
+underlying neutral rate
+higher substitution rate
+highly repetitive regions
+crossspecies sequence comparisons
+darker shades indicating
+earliest infectious retroviruses
+restriction-fragment length polymorphisms
+gene families related
+highly differing structure
+conserved noncoding sequences
+mouse gene catalogue
+recognizing statistical properties
+788 validated gene predictions
+secreted domains
+mouse-specific gene clusters
+class includes
+mouse phenome project
+12 adult mouse tissues163
+human gene catalogue
+translation start site234
+typically sharply defined233
+linear regression line
+developmentally specific expression
+excluded putative genes
+improved assembly algorithms
+transcribed mammalian genome
+underlying mutational processes
+preserve specific sites
+apparently false-positive exons
+master sequence related
+human orthologue pairs
+strong selective constraint
+dna transposons
+key experimental tool
+riken genome center41
+local alignment programme
+shares common ancestry
+analysing aligned sequences
+6 million passing reads
+finished bac-derived sequences
+mammalian species traces
+lineage-specific l1 copies
+phred quality score
+ancestral repeats provide
+roughly 180 syntenic regions
+average substitution rates
+homologous recombination made
+national cancer institute
+repeat family
+human gene count
+physical mapping information
+table 17 pairwise correlations
+south parks road
+aligned ancestral repeats
+observed sequence identity
+regions 200bp upstream
+domain signatures
+orthologous human gene
+pheromone gene lies
+androgen-regulated proteins involved
+15 cyp2c family cases
+linked genes evolve
+mrna start sites
+30% substitution level reflects
+draft genome sequence
+conserved syntenic blocks
+rodent germ line
+217 conserved syntenic blocks
+current laboratory strains
+65 million years ago
+mammalian gene collection
+hybrid wgs-bac assembly
+osp/claudin-11 null mice
+perform association studies
+orthologous 100-kb windows
+simpler organizational aspects
+basic researchers
+frequent horizontal transfer
+small genomic regions
+multiple annotated transcripts
+unprocessed pseudogenes arise
+includes back mutations
+truncated b4 sines
+dna evolution
+regulatory regions showed
+estimated false negatives1
+highlight key differences
+l1 5 0 -untranslated regions
+typical human gene
+neutral substitution rates
+yields similar estimates
+protein functions
+approximately 500 trna genes
+long-range regulatory information
+finished bac sequences
+mouse scl loci
+full-length endogenous retroviruses
+rodent­human divergence227
+show good agreement
+single bac links
+extant l1 elements
+transcription start site
+mouse germ line
+bind odorant molecules
+substantial sequence divergence
+catalytic regions
+chromosomal segments conserved
+underlying biological process
+smaller data sets236
+wgs shotgun approach
+large-scale gene-trap programmes
+sequence coverage estimated
+random breakage model
+human cytogenetic data
+past 40 million years1
+spontaneous mouse mutants
+table 10 gene count
+shows lower rates
+carboxy terminal portion
+20-kb non-overlapping windows
+undergone differential expansion
+linkage group
+unsatisfying outcomes due
+molecular mechanisms underlying
+tblastn computer program178
+initial comparative analysis
+active site zn-finger-
+probable pheromone genes
+na anc
+231 additional validated predictions
+chromosome yalso shows
+chromosomal structural elements
+remained highly active
+mousespecific cluster corresponds
+accelerate functional understanding
+draft genome sequences
+genomic rearrangements mediated
+sequence orthology covering
+mammalian immune system
+major evolutionary force
+conserved endonuclease required
+mouse­human split
+lyon repeat hypothesis
+ubiquitin domains
+genetics meets behaviour
+excludes lineage-specific repeats
+simulation experiments show
+complete human sequence
+average transcript length
+laboratory mouse genome
+multi-exon gene predictions
+percentage identity required
+human gene structures
+deriving large sets
+higher substitution levels
+genomic research total 22
+predicted gene counts
+prominent tail extending
+purge deleterious mutations
+decode genetic map269
+polynomial regression curve
+expressed sequence tags
+sequence contigs linked
+encode genes involved
+figure 10 age distribution
+mammalian ltr- transposons
+probing mammalian biology
+nucleotide sequence organization
+mouse regions showing
+including 19 orthologous pairs
+multiple gene deletions
+involve genes related
+abundant class
+mouse genome reported
+singleexon genes expressed
+inbred laboratory strains
+laboratory inbred strains
+male mutation rate
+cdna sequences back
+recent segmental duplication
+mariner element
+mouse gene predictions
+lineage-specific repeats identified
+average substitution level
+local gene clusters
+sequence conservation holds
+human gene predictions
+mammalian molecular clock
+single nucleotide level
+95 well-characterized regulatory regions
+mouse orthologous sites
+lower transposon activity
+purely codon-based analysis
+evolutionary forces shaping
+2 4 6 10 40 150­200 otherk total centre
+alternative splice forms
+correlations remain significant
+strong selective constraints
+draft human genome
+small segment altered
+drosophila annotation experiment
+qtl cloning project
+beta-defensin 5
+beta-defensin 3
+ncbi trace archive
+reasonable starting point
+equivalent neutral sites
+eukaryotic genome
+annotating mammalian genomes
+rapidly evolving exon
+ancestral chromosomal order
+large tandem repeats
+jukes­cantor estimate
+strong-to-moderate purifying selection
+mouse l1 elements
+mammalian gene number
+mouse genetic map
+additional protein-coding genes
+miss regions owing
+orthologous human sequence
+exons roughly doubling
+n50 supercontig size
+ancestral repeats recognizable
+sequence variants disease
+important mutations arose
+reduced nucleotide variability
+local marker order
+control gene expression
+eventually sequence maps
+similar repeats accumulate
+resembling unmasked tails
+affect mrna stability
+placental blood vessels
+incorrect global joins
+powerful experimental platform
+comparative developmental anatomy
+retroviral infection
+make mutant alleles
+cyp4a
+mutational forces vary
+deleterious background selection
+fewer large regions
+represent lineage-specific insertions
+shared dna
+recognize fossils older
+unusually high density
+human substitution level
+ancestral genome size
+readily revealed polymorphisms
+complete genome sequences
+500 actual human genes
+regulatory control regions
+full-length l1 copies
+human diseaseassociated sequence
+line-1 repetitive sequences
+279 high-quality candidate snps
+roughly 75 million years
+human endogenous retroviruses
+chromosome 7 harbouring 45 loci
+highly significant alignments
+joining fragmented transcripts
+mammalian protein-coding genes
+mouse/ human ratio
+/nature
+
+figure 8
+oklahoma advanced center
+identified ancestral repeats
+human disease gene
+fine scale
+
+figure 1
+high resolution map
+low snp rate
+mouse­rat speciation118
+large duplicated regions
+human gene sets
+genes differed markedly
+table 16 alignment statistics
+wobble rules show
+excluding transposable elements
+large time periods273
+supplementary information accompanies
+40-base perfect match
+sexual isolation mechanism
+alternative score function
+estimated gene count
+mouse predicted density
+raw assembly data
+effect remain unknown
+washington university school
+individual human bases
+active class
+orthologue pairs generally
+gene sequence evolution
+approximately 700-fold larger
+unknown function
+
+cy
+termed cpg islands
+mouse mutation `chocolate
+mus musculus musculus
+detect ancestral repeats
+represent local expansions
+human chromosome 12p13
+human chromosome 7q22
+human chromosome 7q11
+introduce significant numbers
+revealing molecular mechanisms
+sp100-rs gene fusion
+strong sequence similarity
+supporting evidence
+nature
+including substantial variations
+342 com-
+
+genome landscape
+synteny differs substantially
+trnascan-se program predicted 2
+genetic linkage map
+large genomic regions
+distinct splicing mechanism
+average recombination rate
+whole-genome sequence assembly
+reciprocally unique landmarks
+nearest human match
+wgs assembly strategy
+human genome showed
+fast search method
+horizontal dotted lines
+previous estimates based
+wild-type mouse orthologues
+genome
+
+figure 28 proportion
+finished mouse sequence
+gap penalty330
+gap initiations
+excluded uncertain matches
+mouse gene structure
+local gene duplication
+projected total length
+reduced purifying selection
+long assembled contigs
+mus musculus subspecies
+additional localization provided
+600 human refseq cdnas
+single mouse strain
+roughly 3 billion nucleotides
+human feature coding
+ensembl
+
+figure 15 comparison
+dashed lines show
+full-length human genes
+murine embryonic development
+range
+
+figure 11 density
+comprehensive genetic map
+dna metabolism
+discuss topics including
+ignoring nucleotide-level indels
+ensure proper expression
+comparative sequence analysis
+human chromosomes consist
+human chromosomes 1p36
+approximately fivefold underrepresentation
+kidney cyp4a2 mrna
+recent common ancestor
+finished genome sequence
+euchromatic mouse genome
+previous wgs assembly
+small data set
+regions forming alignments
+imply functional constraint
+euchromatic human genome
+eutherian mammalian radiation
+remarkably high specificity
+reflecting small misassemblies
+overlapping 5-mb windows
+500 overlapping 5-mb windows
+overlapping 5-mb * windows
+mouse sequence encoded
+strong positive correlation
+greater functional conservation
+inactive gene copies
+previously published collection
+omitting uncaptured gaps
+modern laboratory mice
+testis cdna library
+mouse orthologue added
+metabolize large numbers
+recognize cpg islands
+gapdh family
+eukaryotic genomes
+endogenous retroviruses fall
+incomplete genomic data
+pennsylvania state university
+solid reference foundation
+set contributed roughly 1
+distinct segmental contributions
+non-uniform local forces
+net relative expansion
+global synteny map
+mouse genome sequence
+twinscan predictions largely
+predicted proteins considered
+human genome sequence
+coordinate regulator
+international database
+rdna satellites
+initial phase
+mantle cell lymphoma
+males apply abpa
+show l-scores greater
+common biological factors
+15 mouse cyp2c sequences
+human protein-coding genes
+000 human protein-coding genes
+wgs assembly programme
+strong positive selection
+mouse cdna sequences
+immune response system
+mouse genome combined
+whitehead institute
+log probability scores
+taller blue rectangles
+documented rapid evolution
+increased positive selection
+androgen-regulated protein
+interspersed repeats
+human genome project
+translation start site
+human chromosome 20 aligns
+human chromosome 2 aligns
+genome sequence information
+full-length young elements
+non-functional orthologous sequences
+interesting feature common
+human-mouse genome comparisons
+metaphase chromosome bands
+ltr elements
+exploit additional read-pair
+cancer susceptibility loci
+mouse strains occurs
+terms `gene catalogue
+true human genes
+leading mammalian system
+orthologous mouse regions
+mouse orthologous regions
+distinguishing real genes
+nearest human homologue
+show similar degrees
+molecular phylogenetic analyses
+local sine density
+high-quality sequence differences
+strong linear correlation
+gapdh pseudogenes typically
+including single links
+current mouse strains
+expression array data
+61 standard sense codons
+table 4 syntenic properties
+gene family
+human bases covered
+independently remained repeat-poor
+ncbi gene-centered resources
+homeobox clusters
+-rich downstream region
+snp consortium
+kozak consensus sequence
+sequence variants listed
+individual mouse bacs
+multiple species comparisons
+mouse genome sequences
+wgs sequence assembly
+underlying block structure
+cytochrome p-450s
+uniform substitution process
+protein sequences
+human genome sequences
+apparently significant difference
+imperfect copies allowed
+large mgsc
+nature
+host defence genes
+male mutation bias
+unusually large numbers
+partially spliced mrna
+recent molecular studies
+tenfold higher concentration
+including pheromone olfaction
+mutation rates differ
+threefold higher density
+pseudogenes similarly arise
+cleanly separate neutral
+reciprocal unique matches
+bork group
+sanger institute
+codon position occurs
+normal human sequence
+human l1 retrotransposition
+human genome generated
+mouse genomics
+
+background
+share sequence similarity
+indicating extensive agreement
+compare general properties
+47 amino acids
+99 amino acids
+85 amino acids
+higher recombination rates
+greater purifying selection
+human snp variability
+riken cdna set
+conservation scores relative
+variable-length regions labelled
+class tend
+comparative genome analysis
+repetitive sequence content
+emphasizing comparisons
+flanking exons
+consecutive orthologous landmarks
+identified genomic regions
+campus box 8501
+shows higher conservation
+genome-wide sequence conservation
+rodent l1 evolution
+ancestral genome retained
+b1 family
+mutation
+genome-wide alignments
+upstream regions share
+human chromosomes show
+reflect systematic factors
+predicted genes 8 strand
+mouse genome information
+additional related genomes
+228
+
+figure 31 expected number
+adjacent extended supercontigs
+human match fell
+precise integration site
+mouse linkage data
+human disease genes
+mouse genome informatics
+release enhanced versions
+orr1 malrs
+non-autonomous malrs
+000 spontaneously arising
+* domains predicted
+domains predicted
+predicted domains
+large copy number
+ka /ks
+processed pseudogenes arise
+similar abpa genotype
+assign substitutions separately
+mhc complex
+repeatmasker program classified 2
+transcriptional unit
+leading model system
+locally aligned regions
+red bar shows
+growth hormone
+single intron insertion/deletion
+recent studies report
+distantly related organisms
+examined centromeric sequences
+substitution level calculated
+internal sequence gaps
+significant experimental evidence
+overlapping 5-mb window
+define gene features
+genomic deletions created
+mouse genome larger
+show proportions closer
+bars show
+mouse­human synteny
+protein matches
+human genome organization
+closely related genomes
+protein sets
+interpro domains
+mouse­human divergence
+genomewide score distribution
+obtain linking information
+resulting molecular insights
+generation-time effect hypothesis
+coverage exceeding
+wellcome trust
+coding regions comprise
+low validation rate
+average divergence level
+protein regions
+ltr copies
+deletion snp recombination
+mouse functional genomics
+74 -- -- -- 2
+521
+
+-- -- -- 0
+jc substitution level
+unique subfamily expressed
+health evaluation sciences
+pheromone binding
+higher deletion rate
+genome-wide score distributions
+table 6 divergence levels
+toxic compounds immunity
+human alu sines
+national science foundation
+mouse cdnas produced
+ancestral repeat
+maximum likelihood estimation
+abbreviation
+essentially equivalent preferences
+affiliations appears
+class correspond
+290 predicted exons included 79%
+median divergence levels
+single dominant lineage
+entire mouse genome
+stringently filtered alignments
+include recent pseudogenes
+similar relative positions
+values calculated separately
+calculating evolutionary rates
+prolactininducible protein
+protein homologies
+minor human allele
+earlier divergence times
+performed sequence comparisons
+early 1980s began
+govern chromosome function
+intermediate data sets
+mit genetic map
+including coding regions
+directed sequencing
+arachne quality scores $40
+049 predicted transcripts aggregated
+mouse­human orthologues
+caused insertional mutations
+subsequent efforts filled
+detailed phylogenetic tree
+human chromosome 17 corresponds
+human chromosome 20 corresponds
+large family
+describe biological process
+family expansion
+varies widely
+briefly discuss ways
+box plot
+variation reflects differences
+human genome identified
+align orthologous sequences
+rt­pcr owing
+000 distinct recombinational `bins
+divergence features neutral
+early rodent evolution
+mouse transcriptome based
+approximate fraction accumulated
+gene composition
+`domain
+uniform recurrent deletions
+bar harbor
+contributing factor
+earlier divergence time
+central model organisms
+000 predicted genes represented
+understanding gene regulation
+cathepsin cluster
+powerful starting points
+aligned confidently
+neutral molecular evolution
+international collaboration
+repeat category
+conservation level similar
+modern experimental science
+determine sine density
+sites examined affect
+understanding biological function
+common elements shared
+unrelated b2 sines
+remain imperfect
+indicating high levels
+/nature
+
+localization
+dividing mouse percentage
+protein evolution
+studied ten cases
+unanchored contigs
+average mouse intron
+average human intron
+putative orthologue
+reflect altered selection
+ribosomal rnas
+obtain greater continuity
+human disease phenotype
+repeat elements
+read coverage
+mendelian phenotypes
+chromosomal location effects
+salivary proteins
+biotechnology information
+human lineage assumed
+powerful general approaches
+discrepancies typically occurred
+independent event occurring
+genome exploration
+measure divergence rates
+identical exon length
+mgscv3 assembly features
+released assembly mgscv3
+mouse chromosome number
+fantom consortium
+lineage-specific functions
+tandem repeat
+markov models
+alignments included approximately 98%
+mouse genes lack
+homologous genes
+/nature
+
+residuals
+homologues
+assessed fine-scale accuracy
+positive selection due
+eventually assigned
+human genome derived
+produce finished sequences
+simple genomes
+base composition
+engineering chromosomal rearrangements
+require approximately 700 mb
+repeat sequences
+human sequence compared
+100-kb region
+homologous recombination
+ancestral element
+family presents
+stefin family
+initial sequencing
+enzymatic domains
+5 untranslated domains
+non-enzymatic domains
+extracellular domains
+domains affect
+nonenzymatic domains
+ir tails mouse
+gene prediction
+estimated mixture coefficients
+human cdnas challenge
+total genes examined
+repeat density
+figure 14 shows
+figure 25 shows
+initial paper1
+genetic map34
+occasionally giving rise
+erroneously merged
+ancestral identity
+figure 3 segments
+mouse lineages relied
+mouse chromosomes tend
+expected wobble rules
+map reveals
+gene content increases
+related human window
+conserve proteins
+encode proteins
+166 unanchored supercontigs
+blue lines connect
+human genome needed
+united states department
+b2 superfamily
+abundant superfamily
+b6 strain mapped
+create inbred strains
+sensitive homology search
+high frequency retrotransposition
+controls binding
+substrate binding
+refseq database
+elements predating
+previous prediction
+includes pem
+syntenic region
+sequence pair
+b1 element
+evidence-based prediction
+repeat copies
+fourfold degenerate
+physical map
+nuclear membrane
+influence mate selection
+find snps relative
+hierarchical shotgun
+dna
+random mutagenesis
+high gc content
+chromosomal assignment
+pronounced physiological differences
+transcription unit
+precise methodologies
+recent amplification
+genome size noted
+twofold lower
+assembly
+
+sanger
+igfals gene shown
+complex history
+alternative products
+diverse embryonic
+extensive arrays
+insertional mutagenesis
+secreted portions
+repeat distribution
+mouse intron marked
+nucleotide substitution
+mouse genome compared
+gene catalogues
+repeated sequences
+dystrophin protein
+prolactin family
+filtering process
+85% sequence identity
+sequence identity
+7% sequence identity
+protein section
+olfactory bulb
+olfactory tubercle
+olfactory cues
+highly repetitive
+subfamilies defined primarily
+additional sequencing
+mice lacking
+cellular functions
+alternative splicing
+mendelian disorder
+computational systems
+horizontal transfer
+repeat poor
+whole-genome shotgun
+cent identity
+mammalian mhc
+cdna collections
+neutral drift
+existing predictions
+initial catalogue
+/nature
+
+domain-
+paralogous clusters
+table 11 domain-based
+regulatory signals
+mouse cdnas sequenced
+family members
+gene products
+national institute
+noncoding rnas
+hybrid strategy
+genomic region
+called microsatellites
+syntenic segments
+342 syntenic segments
+gene pairs
+control element
+gene families
+& ii team
+substitution rate
+bac clones
+closely spaced
+full-length proteins
+exon prediction
+multiple segments
+dense cluster
+764 trna genes
+trna genes
+initial sequence
+sequence reported
+orthologous proteins
+`paired-end sequencing
+natural history
+physical maps
+figure 25 variation
+554
+
+figure 30 variation
+repeat hypothesis
+mouse proteome
+lineage-specific repeats
+human generation time
+gene catalogue
+percentage identity
+remaining 100 clusters
+cytosine residue
+original projection
+move directly
+tight junctions
+joint project
+seminal vesicle-antigen
+greatly expanded
+tumour suppressors
+primary publications
+consistency checks
+draft sequence
+cpg dinucleotides
+upstream region
+additional small
+reflect dense
+improved catalogue
+remain high
+random reads
+poorly represented
+orthologous region
+repetitive sequence
+pcr amplification
+`gene count
+gene count
+small segments
+wgs sequencing
+mhc genotype
+short perfect
+non-coding rnas
+score functions
+insertional polymorphisms
+transcription start
+twofold higher
+roughly fourfold
+regulatory elements
+tata box
+markedly increased
+lineage-specific duplications
+lineage-specific expansions
+directed finishing
+syntenic segment
+po box 100
+bac map44
+bac libraries
+complex genomes
+wgs assemblies
+groups recently
+nuclear location
+unknown functions
+human promoters lack
+single gene
+proteins contained
+mouse ratios
+element copies
+ancestral sequence
+genie system
+molecular functions
+extant gene
+typical gene
+small contigs
+functional annotation
+800 ancestral repeats
+ancestral repeats
+`ancestral repeats
+polyadenylation signal
+actual count
+considerably lower
+functional elements
+background strain
+subunits alpha
+germ cells
+unusually conserved
+artefactual collapse
+require changing
+highly significant
+bac-based reads
+substitution rates
+putative pseudogenes
+7 ancient repeats
+ancient repeats
+000 highly conserved
+highly conserved
+data reported
+random sampling
+random breakage
+snp map
+laboratory mouse
+repetitive expansions
+initial predictions
+534
+
+figure 12 conservation
+mouse sequencing
+encodes proteins
+lipocalin proteins
+blood institute
+functional sequence
+murine mutation
+repetitive sequences
+biological research
+tissues remain
+stop codon
+snps reveals
+blue indicating sines
+probable rate
+changing rate
+nuclear classes
+current catalogue
+126 orthologous pairs
+orthologous pairs
+found clear expansions
+constant size
+889 mouse initial*
+gene markers
+start codon
+national center
+100-kb regions
+functional constraint
+lineage-specific genes
+research resources
+genetic research
+genomic sequence
+computer resource
+non-overlapping sets
+random mutation
+predicted rate
+large region
+complete sequence
+neutral substitution
+high-quality libraries
+inherent biases
+vomeronasal organ219
+muscular degeneration153
+vomeronasal organ
+salivary glands
+gene structures
+mouse proteins
+493-fold coverage
+deeper coverage
+systematic sequencing
+genome sequencing
+human proteins
+344 human proteins
+orthologous locus
+4 million reads
+6 million reads
+irs excluding ssrs
+aligned region
+regulatory sequences
+cpg islands
+splice signals
+gene cluster
+increasingly complete
+gene density
+rna genes
+non-coding sequence
+equivalent families
+additional mammalian
+sp100-rs gene
+intermediate resource
+largely equivalent
+element activity
+scavenger receptors
+600 main street
+lineagespecific duplications
+sequence reads
+important promoter
+remains unclear
+true orthologue
+directed engineering
+gene predictions
+756 gene predictions
+refseq genes
+data underlying
+small misassemblies
+false positives
+positional cloning
+5 0 splice signal
+apparent deficit
+physiological systems
+systematically revealing
+genetic variants
+cloning systems
+natural selection
+paired-end reads
+* reads passing
+full-length elements
+orthologous segments
+functional sequences
+orthologous sites
+unprocessed pseudogenes
+relative rank
+human region
+gap
+clone-based sequences
+mouse gene
+transposable elements
+fine-scale alignment
+high-scoring alignment
+region surrounding
+surrounding region
+320-kb non-overlapping
+aphrodisiac pheromone
+pheromone responses
+combined rate
+insertion/deletion rate
+phenotypic variation
+information includes
+underlying genes
+underlying human
+full-length l1
+repeat classes
+major satellite
+exon pairs
+genomic sequences
+background level
+l1 elements
+conserved elements
+genetic map
+highly similar
+syntenic regions
+affecting regions
+closely represent
+linked variants
+biomedical research
+shares segments
+fall short
+short retroposons
+strong pressure
+true variants
+structural elements
+line elements
+connect phenotypes
+tumour types
+mouse mutants
+cpg sites
+twofold increase
+proteins based
+mutation rate
+713 sequence contigs
+sequence contigs
+previous
+
+estimates
+mammalian cells
+mammalian radiation
+average representation
+multiple regions
+genomic strategies
+vary substantially
+terms assigned
+substitution level
+clone-based maps
+snp density
+comparable rates
+evolutionary rate
+mouse orthologue
+laboratory manual
+laboratory strains
+laboratory notebook
+laboratory bench
+exon catalogue
+satellite sequence
+expanded rapidly
+diseaseassociated sequence
+ancestral genome
+endogenous retroviruses
+full sequencing
+highly non-uniform
+fingerprint contigs
+data showed
+functional genes
+coding region
+average rate
+substantially greater
+ly49 genes
+b1 density
+sequence quality
+splice sites
+5 0 splice sites
+inbred nature
+locally duplicated
+intact orfs
+extensively rearranged
+recombinational resolution
+pink-eye dilution
+arabidopsis thaliana49
+greatly exceed 30
+sexual isolation
+70­ 71% reported previously181
+largescale screens
+syntenic block
+gestation periods
+added subsequently
+added--chromosome 7 grew
+forces shaping
+quadratic functions
+initial period
+strongly biased
+greatly enriched
+primers complementary
+correlates strongly
+fallen markedly
+previously reported
+typical fluctuation
+scatter plot
+greatly improve
+cyp2d
+extensive consultation
+statistical problems
+initial appearances
+chemical mutagenesis
+evolving rapidly
+rapidly evolving
+nucleotide site
+highly expressed
+total proteins
+800 aligning sites
+closely linked
+repeatmasker program
+predicted density
+repeat content
+10% repeat content
+211 substitution ratio 1
+qtl experiments
+genomic comparisons
+dystrophin-related proteins
+tyr-rich proteins
+chimeric proteins
+whitehead/massachusetts institute
+clone-based information
+recent repeats
+quality assessment
+gene expression
+rapid evolution
+mus musculus
+genome research
+computer program
+candidate interval
+multiple perspectives
+multiple strains
+multiple tests298
+multiple forms
+multiple frameshifts
+orthologous sequences
+noncoding regions
+efficient tool
+remaining gaps
+substantial number
+comprise roughly 5%
+gene distribution
+gene order
+7sl rna
+telomerase rna
+rna intermediate
+b2 density
+significant expansions
+active
+nature
+mouse b1
+mouse models
+active elements
+neutral rate
+active groups
+comparative maps
+promoter regions
+aligned sites
+functional constraints
+multiple alignments
+regional human
+previous studies
+regulatory regions*
+regulatory regions
+000 predicted transcripts
+785 predicted transcripts
+201 predicted transcripts
+predicted transcripts
+data show
+stop codons
+conserved sequences
+initial analysis
+evidence-based analyses
+evolutionary forces
+evolutionary events
+similar instances
+large-scale discovery
+820 orthologous rodent
+600 orthologous loci
+nucleotide level
+correlation differing
+additional genes
+019 additional genes
+behavioural phenotypes
+mouse-specific clusters
+25 mouse-specific clusters
+washington university
+blastz328 program
+blast-2-sequences program
+000 polymorphic markers
+605 genetic markers
+well-studied markers
+understood precisely
+genetic markers
+repeatmasker100 program
+neutral sites
+repeat section
+duplicated regions
+actual length
+bac arrays290
+bac transgenesis
+bac library44
+bac microarrays
+000 predicted genes
+011 predicted genes
+63 predicted genes
+predicted genes
+591 predicted genes
+808 predicted genes
+mammalian host
+local rate
+considerably larger
+greater structural
+occulocerebrorenal syndrome
+candidate genes
+supercontigs captured
+medical genetics
+azfc region
+mouse show
+bpa/str region
+250-bp region
+maximal region
+050-bp region
+5-kb region
+proximal region
+repeat-poor region
+sp-100rs region
+aligned sequence
+l1 density
+powerful platform
+shotgun assembly
+androgen control
+small fraction
+5 0 -utr sequence
+finished sequence
+90% finished sequence
+molecular clock
+consensus sequence
+non-repetitive sequence
+3 0 -utr sequence
+class
+mouse b2
+transcription factors
+braf gene
+gene targeting
+oncofetal gene
+150-kb-long gene
+gene birth
+gene structure
+gene repertoire
+dmd gene
+gene hunter
+gene fragments
+desired gene
+favourable gene
+gene death
+a-synuclein gene
+generic gene
+gene features
+differential representation
+tandem expansion
+protein-coding sequences
+comparative values
+murine bruton
+murine inpp5b
+murine ortholog
+mixed strategy
+cumulative histogram
+cumulative proportions
+constructed catalogues
+comparative analyses
+substantially higher
+important mechanisms
+sequence data
+higher rate
+internal repeats
+single copy
+single genotype
+qualitatively consistent
+complete sets
+expression arrays
+additional links
+figure 24 comparison
+small amount
+genomes evolve
+orthologous mouse
+77 orthologous mouse
+sp100-rs array
+avoid complications
+selective pressures13
+polypyrimidine tract
+large-scale mapping
+united states
+mir transposon
+powerful tool
+regulatory regions--
+regulatory elements3­12
+extensive selection
+background selection
+orthologous genes
+single sine
+current copies
+mutation rates
+read evolution
+interpro collection
+genomic regions
+recognize syntenic
+extensive rearrangements
+female mouse
+cdna cloning
+mammalian defence
+mouse sequence
+chromosomal rearrangement
+estimated lengths ranging
+represent genes
+human sequence
+weak signals
+iterative alignment
+published data187
+alignment skips
+genetic maps
+unusually rich
+finescale alignment
+proteincoding potential
+genomic distribution
+euchromatic genome
+genome shows
+evolutionary rates
+approximately 300 kb
+roughly 60 copies
+actual total
+long-range factors
+polyadenylation site
+significant similarity
+recombination rate
+mouse repeats
+sequence similarity
+regional variation
+small number
+highly sequence-similar
+highly variable
+genomic divergence
+multiple chromosomes
+human repeats
+human
+
+repeats
+washington dc
+current sets
+mouse differs
+average rates
+translation start
+closely related
+single collection
+non-coding regions
+tissue-specific expression
+functional consequences
+functional features
+non-protein-coding genes
+human anatomy
+craniofacial research
+sequence analyses
+mammalian genome
+sequence information
+small set
+syntenic breaks
+western ontario
+cytoplasmic
+terminal oxidases
+endogenous retroviral-
+78 micro rnas
+intraspecies polymorphism
+genetic mapping
+reproductive behaviour
+micro rnas
+previous reports98
+spliceosomal rnas
+expressed-sequence tags
+previous report
+true positives
+increased density
+average percentage
+biological process
+reference sequence
+5-fold coverage
+genome sequence
+medical interest
+average density
+sequences aligned
+protein-coding genes
+000 protein-coding genes
+greater density
+table 9 shows
+key role
+draft form
+consensus sequences
+finished sequences
+ancient transposons
+genomic outliers
+genomic features
+genomic rearrangement275­278
+pairing information
+linking information
+l1 copies
+conspicuous feature
+prevalent feature
+complete independence
+earlier sine
+b1 sines
+snp consortium265
+wgs data
+molecular cloning
+452 cdna sequences
+cdna sequences
+normalized fraction
+neutral sequences
+lower level
+resulting picture
+encoding otoferlin
+cellular component
+localized largely
+read-pair links
+early 1980s
+minor satellite
+upstream regions
+similar rates
+mutation biases
+neutral rates
+functional analysis
+divergence rate
+whole-genome alignments
+proteome comparison
+75 million years
+150­200 million years
+22 million years
+sequence organization
+sequence patterns
+sequence matches
+synteny map
+genome-wide average
+genetic studies
+coding sequence
+orthologous locations
+active sine
+random insertion
+relative size
+small genomes
+large clusters
+true genes
+mouse relative
+average size
+improved detection
+markedly enhanced
+sophisticated models
+strains occurs
+intellectual programme
+enzyme polymorphisms
+systematically excluded
+dna-sequencebased polymorphisms
+situ hybridization
+single-nucleotide polymorphisms
+complexities arising
+reproductive traits
+correctly captured
+significantly expanded
+subsequent work
+resampling completely
+horizontal transmission121
+actual time
+phusion assembler
+similar percentage
+average mouse
+orthologous regions
+mouse sequences
+linkage groups
+sequence variation
+large-scale synteny
+unpaired reads
+unplaced reads
+sine density
+small portion
+neutral density
+ten cases
+experimental process
+human sequences
+segment sizes
+wobble rules
+disease susceptibility
+reverse transcription
+positive correlation
+genomic analysis
+whole-genome assembly
+additional features
+national institutes
+additional property
+additional strains
+genomewide average
+model system
+b4 sines
+wgs approach
+evidencebased catalogue
+high quality
+small subset
+quantity reflects
+radiation-hybrid maps
+predicted pseudogene
+twinscan predicted
+genome-wide density
+studied extensively
+31 center drive
+harvard-partners center
+validation rate
+metabolic rate
+evidence-based analysis
+lineagespecific evolution
+genetic variation
+polymorphic variation
+common ancestor
+evolutionary history
+standard deviation 0
+standard deviation 1
+standard deviation
+genetic length
+multiple species
+values greater
+major clades
+major themes--reproduction
+major discoveries
+major histocompatnature
+roughly compatible
+major spliceosome--
+short ssrs
+local density
+genome contained
+transposon insertions
+outliers show
+colleagues show
+maximum level
+related segment
+common structures
+conserved order
+human percentage
+3 0 splice site
+5 0 splice site
+conserved synteny
+synteny conserved
+slightly fewer
+higher rates
+denser map
+sequence-based map
+overlapping windows
+mouse interval
+mouse strain
+graph shows
+immune system1
+shows coincidence
+immune response
+typically extending
+200-bp upstream
+5% sequence divergence
+sequence divergence
+genome-wide estimates
+evolutionary studies
+real genes
+056 multi-exon genes
+271 multi-exon genes
+human mrna
+genome average
+genetic linkage
+genome sequences
+systems biology
+notable feature
+sequence-tagged sites
+small orfs
+genome-wide maps
+chromosomal locations
+large-scale misassembly
+fine-scale mapping
+host defence
+numerous members
+alignments show 66
+proper order
+higher percentage
+incomplete nature
+nature neurosci
+nature biotechnol
+mouse clusters
+mammalian-wide elements
+line-1 elements
+higher density
+long-range continuity
+observed base
+standard tool
+interpro classification
+conserved fraction
+gene regulation
+protein-coding regions
+similar sizes
+altered mutational
+current analysis
+positive selection
+differential expansion
+genome expansion
+cdna collection
+transposable elements255
+mammalian retroposons
+mammalian phylogenies104
+mammalian clades
+alu density
+total sequence
+comparative analysis
+conservative predictions
+large-scale alignments
+est information
+gene deletion
+smaller size
+alignment positions
+alignment gaps
+uncaptured gaps
+methods underlying
+candidate snps
+83 candidate snps
+female rate1
+female meiosis
+recombination rates
+genomic evolution
+significant nodes
+genome aligned
+extreme rate
+jackson laboratory
+chromosome 13 lower
+9% sequence identity53
+biological features
+sequence contig
+sequence identifiers
+biological function
+unassembled sequence
+cyp2a sequence
+sequence belongs
+well-conserved sequence
+sequence dissimilarity
+nonconserved sequence
+non-alignable sequence
+770 full-length cdnas
+strong homology
+zfhx1b gene
+mouse genes
+563 mouse genes
+actively conserved
+biomedical informatics
+integration platform
+visibly conserved
+singularly conserved
+mouse­human 1
+coding sequences
+smaller sizes
+000 human genes
+human genes
+primarily relics
+analysis shows
+computational genomics
+large blocks
+predicted orthologues
+local similarity
+exon length
+simple-sequence repeats
+retain repeats
+mammalian-wide repeats
+young/lineage-specific repeats
+primate-specific repeats
+mammalian cdnas
+100 significant alignments
+average length
+biomedical studies
+1­5 bp unit
+sequence alignments
+include clusters
+clusters include
+yeast saccharomyces
+dashed lines
+adult tissues150
+inserts ranged
+blastp program178
+public databases
+causative variant
+spontaneous mutations
+purely clonebased
+loose sense
+pilot project
+line tails
+deleterious mutations
+c3h/hej
+129s1/svimj
+quadratic regression
+ensure linkages
+solid lines
+infiltrated independently
+cellular compartment
+psx1
+
+hox
+project leadership
+antigen presentation
+ch-1211 geneva
+great radiation
+acquired mechanisms
+genetic instability
+codon usage
+copulatory plug
+cellular compartments
+manually reviewed
+definitively assign
+custom mutagenesis
+spermatozoa motility
+balb/cbyj
+principal forces
+50 south drive
+accumulate mutations
+invention
+endogenous compounds
+principal force
+genomewide comparisons
+broad spectrum
+trophoblast cells
+dotted lines
+ancestral species
+domain-free regions
+loss owing
+riken cdnas
+larger percentage
+readily aligned
+small deletions
+probable pseudogenes
+genes involved
+mammalian biology
+mammalian transposons
+cpg island
+lower specificity
+reflecting segments
+values smart
+repeatmasker library
+high-scoring matches
+behavioural patterns
+computer programs
+genome size
+chromosomal imbalances
+bases refers
+chromosomal misassignment
+related genes
+536
+
+table 8 density
+net loss
+control expression
+mouse history
+mouse genome
+human-mouse alignments
+yokohama institute
+mapping information
+information encoded
+large regions
+sequence assembly
+probable roles
+comparable accuracy
+nucleotide errors
+single chromosome
+protein
+component genes
+human history
+human genome
+additional pseudogenes
+significant match
+snp frequency
+riken set
+experimental manipulations
+experimental populations
+average divergence
+recent extrapolations141
+recent demonstration
+recent prog
+recent improvements
+recent developments
+recent debate
+recent relatives
+significant correlation
+chromosome arms
+data sets
+aligned regions
+100-bp windows
+20-kb windows
+sequence conservation
+mgsc sequence
+small indels
+extensive comparison
+odorant detection
+average fraction
+specific genes
+genome res
+cumulative non-synonymous
+inbred lines
+inbred strains
+research community
+protein-coding cdnas
+evolutionary analysis14
+evolutionary fates
+evolutionary consequences
+euchromatic portion
+larger size
+insert sizes
+musculus subspecies
+imply roughly 1
+human disease
+true concordance
+true complement
+strong predictor
+000 orthologous landmarks
+orthologous landmarks
+antimicrobial b-defensins
+substantial excess
+wobble rules172
+mouse-specific paralogues
+earlier observations282
+point mutations
+male meiosis
+delineate precisely
+remain difficult
+starting point
+discrepant markers
+male saliva
+antimicrobial peptides
+cytological localization
+relative ease
+remained close
+exon structure
+genome lies
+functional differences
+adjacent supercontigs
+high values
+mammalian genomes
+assembly quality
+divergence levels
+probable role
+424 5-mb windows
+5-mb windows
+evidence-based methods
+average depth
+computer simulation
+local variation
+multiprotein sequences
+non-repeat sequences
+896 orthologous introns
+orthologous introns
+neutral distribution
+small proportion
+greater tolerance
+greater degrees
+l-scores greater
+landmarks represent
+mammalian introns
+sines density
+good estimate
+purifying selection
+alignments contained 96
+predicted exons
+sex chromosomes
+previous evidence
+placental structures
+detect repeats
+45 bases aligning
+bases aligning
+young elements
+neutral divergence
+large scales
+large majority
+large obstacle
+gene affected
+46 -- -- 7
+35 -- -- 0
+94 -- -- 10
+-- -- 0
+50-bp windows
+conservation scores
+tissue-specific regulation
+genome-wide distribution
+govern insertion
+active shortly
+unusual expansion
+human based
+true number
+large-scale insertions
+sequence evolution
+represent pseudogenes
+human regions
+median size
+cumulative histograms
+human cancer
+important caveats
+rodent-specific repeats
+rodent oogenesis
+rodent homolog
+rodent lineage45
+rodent lineage--
+rodent eosinophil-
+repeatpoor loci
+qthe percentage
+surrounding regions
+genome-wide divergence
+abbreviated cluster
+assembly programs
+evolutionary analysis
+average number
+aligned reliably
+slightly lower
+fewer substitutions
+high recombination
+young l1
+fetal blood
+internal controls
+ag/gt consensus
+finished form1
+unique placement
+confidence interval
+mrna synthesis
+united kingdom
+manual inspection
+non-repetitive portions
+generated predominantly
+testing hypotheses
+mrna processing
+radiation-hybrid panels37
+outlier lipocalin
+taxonomic groupings
+scientific community52
+cyp2c pseudogene2
+permanent foundation
+vertebrate primordia
+polypurine tract
+c57bl/6j strain
+differentially regulated
+real explosion
+unique lens
+discard misassemblies
+aphrodisiac hormone
+zfhx1b locus
+locus distal
+significantly altered
+conserved subset
+071 33 435 232 82 97 mouse divergence 0
+actual proportion
+non-uniform distribution
+landmark order
+nature med
+207 524 190 human divergence 0
+adaptive evolution
+convergent evolution
+transgenic experiments
+large number
+strong correlation
+wgs assembly
+evolutionary conservation
+interchromosomal rearrangements
+recently lost
+similar activity
+similar results261
+molecular level
+aligned bases
+orthologous exons
+smaller fraction
+distinct sines
+proteomic data
+unpublished data
+rigorous estimates
+strong conservation
+genome level
+median values
+significantly larger
+related regions
+24% deletion rate
+deletion rate
+rodent lineage
+size ratio
+19 suspect predictions
+twinscan predictions
+prints predictions
+sgp2 predictions
+apparent differences
+additional species
+strong increase
+harvard univ
+increased conservation
+expression reference
+differential expression
+powerful measure
+computational identification
+total size
+insertion vary
+chromosomal rearrangements
+apparent lack
+bioinformatics solutions
+significant orfs
+male specificity
+sequence gaps
+cdna bases
+l1 characteristics
+genome-wide averages
+precise pathway
+standard deviations
+colleagues47 extended
+precise parentage
+copy number
+chromosome rearrangement
+nucleotide substitutions
+identify loss
+total genes
+differential distribution
+columns show
+nucleotide-level insertions
+specific locations
+low levels
+modest size
+intermediate size
+body size
+recent evolution
+ensembl build 29
+distinct colours
+incomplete owing
+underestimated owing
+45 distinct anticodons
+unmasked windows
+mouse reaches
+mouse represents
+mouse geneticists
+mouse strains
+mouse orthologs
+house mouse
+entire mouse
+february 2002 mouse
+mouse eosinophil-
+mouse excludes
+mouse embryo
+mouse fanciers
+mouse­rat
+species show
+recent pseudogenes
+significant role
+linkage studies
+mosaic model
+predictive model
+specific regions
+functional overlap
+longer functional
+largely due
+124 intronless genes
+rat genes
+proteincoding genes
+sex-linked genes
+single-exon genes
+genes residing
+dead genes
+human genes82­85
+human civilization
+human allele
+human disease15
+human grows
+human settlements
+human proteins1
+human homologues195
+full human
+human­gibbon
+human genome269
+human insulin-
+human genomes--mutation
+human tumours292
+assembly generated
+genome divergence
+wobble hypothesis
+coding length
+genome-wide alignments
+alu sines
+supplementary information
+assembled sequence
+lcad deficiency
+great similarity
+considerably longer
+smart version
+mouse-rat comparisons
+litter sizes
+smart database186
+non-uniform manner
+exons revealed
+unique match
+landmark resides
+practical approach
+sexual dimorphism
+shorter rectangles
+approach works
+cut-and-paste mechanism
+entire collection
+phylogenetic tree
+triangle represents
+evolutionary selection
+dynamic nature
+similar analysis
+calculated separately
+show evidence
+human bases
+coding regions
+common origin117
+common trimeric
+perfect conservation
+conservation levels
+human alignments
+data set
+large-scale deletions
+cell res
+mouse lineage
+direct selection
+fivefold higher
+smaller number
+proteins compared
+introns relative
+mouse cdnas
+000 mouse cdnas
+chromosomal breaks
+scaling factors
+p27kip1 loss
+lowe syndrome
+unknown function
+independent analyses
+williams syndrome
+shown directly
+causative factors
+female mice
+notable cluster
+genomic window
+display information
+incorrect information
+mouse chromosome 5
+mouse chromosome 16
+mouse chromosome 11
+mouse chromosome 13
+mouse chromosome 12
+mouse chromosome 1
+mouse chromosome 2
+mouse chromosome 7
+mouse chromosome 6
+mouse chromosome
+large-scale differences
+mammalian species
+human lineage
+neighbouring supercontigs
+conservation similar
+mixture coefficients
+alu rich128
+alu activity
+random sample
+female preference
+extremely strong
+neutral conservation
+human chromosome 14
+human chromosome 19
+human chromosome 17
+human chromosome
+human chromosome 22
+human chromosome 20
+human chromosome 21
+human chromosome 2
+related effects272
+mouse windows
+identify blocks
+genome-wide analysis
+large genomes
+specifically expressed
+map qtls
+molecular lesions
+molecular defect
+sequence overlaps
+molecular structure
+identical sequence
+molecular timescale
+molecular function
+molecular dates
+molecular clocks
+molecular phylogenetics
+molecular darwinism
+transposon-derived sequence
+gene proposed
+n50 length
+242 200 100 n50 length
+standard set
+genome-wide set
+practical techniques
+androgen regulation
+including rrnas
+permanent reference
+100 beaver street
+145 columbia street
+include mutations
+183 euston road
+including eosinophil-
+320 charles street
+including c57bl/6j
+709 swedeland road
+fluctuates locally
+1 cyclotron road
+deposited early
+include recombination-
+systematic under-
+time-consuming process
+including proximity
+systematic initiative
+early date
+1 bungtown road
+mouse assembly
+genome singly
+genome research54
+primate genome
+mosaic genome
+genome evolution75
+kersli@genome
+entire genome
+genome browsers
+rice genome
+local assembly
+active subfamilies
+murine placenta
+orthologous intervals
+greater degree
+rodent genomes
+human analysis
+human snps
+human biology
+000 recognizable copies
+exact copies
+larger fraction
+mgscv3 assembly
+chromosome res
+significant differences
+antimicrobial properties
+gene content
+chocolate mice
+ethological studies
+small-scale studies
+larger-scale studies
+larger ratio
+low values
+extremely large
+high priority
+unmasked genomes
+vertebrate genomes
+host genomes
+modern genomes
+line densities
+inspection suggests
+iii
+­iii
+function specific
+cloned insert
+significantly fragmented
+taking advantage
+detailed picture
+neighbour-joining method
+detailed description
+compositional constraints
+coding-frame constraints
+classes showed
+biological interest
+sequence evidence
+true exons
+exons contained
+mate selection
+roughly 100­120 myr
+roughly 150­200 myr
+mouse orthologues
+mouse tend
+introns processed
+genomewide correlation
+identify regions
+vertebrate evolution
+comparative genomics
+including cdnas
+important challenge
+important roles
+important points
+processed pseudogenes
+relative frequency
+haplotype blocks
+alternating blocks
+hirschsprung disease
+conservation score
+median divergence
+occurred largely
+readily works
+prosite patterns
+readily accomplished
+isochore patterns
+larger ontologies
+isochore organization
+compositional patterns
+current paper
+readily assayed
+coding sequences255­260
+total length
+massachusetts institute
+codon position
+neutral evolution
+b6 strain
+molecular biology
+genome assembly
+higher conservation
+robert david2
+robert plumb4
+excluding outliers
+robert baertsch10*
+robert nicol2
+27 lineage specific
+87 lineage specific
+genome analysis
+discontinuous variation
+genome-wide detection
+full length
+possibly rodent-specific
+entire length
+performing pcr
+results show
+poster included
+gross level
+discordant locations
+finished form
+level reaches
+desired level
+intronic level
+rt­pcr
+years ahead
+chromosomal position
+mouse genomes
+inbred mice
+categories fell
+conservation corresponds
+human genomes
+nature rev
+telomeric regions
+-poor regions
+-rich regions
+repeat-poor regions
+-richest regions
+low-complexity regions
+localized regions
+regions comprised
+-richer regions
+000 intergenic regions
+untranslated regions
+regions totalling
+sequencesimilar regions
+repeatpoor regions
+22 mouse introns
+gender-specific expression
+sex-dependent expression
+affect expression
+functional characterization
+nature genet
+smaller portion
+human phenotype
+human genome1
+mouse chromosomes
+significant proportion
+larger number
+prostate cancer
+breast cancer
+developmental specificity
+local rearrangements
+evolutionary parameters
+human chromosomes
+human chromosomes 21
+consecutive exons
+approximately normal
+important role
+experimental evidence
+equilibrium distribution
+ubiquitous distribution
+compositional distribution
+repeatmasker output
+repeatmasker run
+excluding chromosome
+erv elements
+evolution correlate
+calculated similarly
+interpro entries
+high conservation
+time adjacent
+single location
+readily identified
+carefully aligning
+interspecies divergence
+divergence times
+larger set
+identify interesting
+computer algorithm
+estimated sizes
+total fraction
+significantly increase
+5-mb bins
+na
+generating mutants
+modern lineages
+related genomes
+success rates
+mouse genetics
+significant overlap
+examined predictions
+rapidly eliminated
+life sci
+`family
+family
+tiny fraction
+red line
+genome-wide efforts
+human genetics
+observed ratio
+chromosomal location
+slightly smaller
+set included
+molecular evolution
+domains
+000 distinct exons
+500 distinct exons
+genome evolution
+mouse began
+mouse exons
+exploit information
+best-estimate total
+large deletions
+single overlap
+percentage bin
+synonymous site
+locally estimated
+long-range comparison
+necessarily limited
+chad nusbaum2
+slam--cross-species genefinding
+sweat glands
+la jolla
+natl acad
+1-7-22 suchiro-cho
+83rd percentiles
+scientific community
+assayed easily
+mailstop bcm226
+successful invasion
+neighbour-joining method297
+clofibrate inducibility
+genscan program145
+scott schwartz27*
+carol bult16*
+steve searle4*
+scaled version
+del punta
+proceeded swiftly
+ambiguities resolved46
+richa agarwala7
+tuberous sclerosis
+dudley wyman2
+5/3 function
+strategic advice
+cell pathol
+communication disorders
+replication timing279
+body weight
+mailstop 84-171
+genic structure
+peer bork11*
+kirsten mclay4
+karen oliver4
+lior pachter8*
+glenn tesler41*
+walnut creek
+unwise target
+tim cutts4*
+formally defined
+repeatedly acquired
+carol scott4
+alex poliakov13*
+proceeded apace
+mosaic structure
+tom landers2
+reverse pattern
+parsimonious path
+chromosomally localized
+administrative work
+pathogen response
+rachel ainscough4
+ian korf14*
+drug abuse
+baylor plaza
+secretarial assistance
+trivial exercise
+3-b-hydroxysteroid dehydrogenases
+discoid placentae200
+cns myelin
+zemin ning4*
+mark daly2*
+unfortunate choices
+meiotic recombination258
+ted sharpe2
+creating progenitors
+eutherian orders23
+retinitis pigmentosa
+oestrous cycles
+constructed dendrograms
+justin deri2
+leo goodstadt23*
+roosevelt drive
+karen barlow4
+axin hua33
+caenorhabditis elegans49
+reverse transcriptase
+enzymatic activity
+mikita suyama11*
+strictly valid
+signal-to-noise ratio135
+alexandre reymond9*
+jun kawai17
+arian smit29*
+kris wetterstrand20
+interesting mutant
+genis parra5*
+trends ecol
+olivier couronne13*
+correctly excluded
+joy davies4
+streamlined protocol
+incorrectly
+previously described1
+ivica letunic11*
+carried out73
+subcellular compartments
+000 meioses divides
+white-line subdivisions
+fine texture
+host-defence mechanisms224
+van etten
+evan keibler14*
+steven seaman2
+intermediate scales
+adrienne hunt4
+stuart mclaren4
+kanagawa 230-0045
+kerstin lindblad-toh2*
+970 evans hall
+maintain copydependent
+accessed remotely
+ian jackson12
+susan lucas37
+black line
+emphasis shifted
+somatic cells69
+compositional compartmentalization
+laura elnitski26*
+9500 gilman drive
+nasal area
+white lines
+independent opportunities
+cristyn kells2
+codon boundaries
+sampling variance
+antagonistic coevolution
+placental prolactins
+ssaha-snp program324
+late-branching lineages26
+intragenome duplication
+piero carninci17
+considerable pharmacological
+231 cory hall
+southern blotting62
+pavel pevzner41*
+supplement trembl
+placental structure
+st louis
+abpa subunits221
+wratko hlavina7*
+sheila dodge2
+lucy matthews4
+conspicuous outlier
+colin dewey22*
+jane peterson20
+arne stabenau3*
+ralph santos2
+adrenal glands
+rat probasin
+pankaj agarwal6*
+eitan winter23*
+baylor college
+620 parrington oval
+timothy holzer2
+raymond wheeler18*
+rigorous estimates55
+von niederhausern24
+somatic mutations
+santa cruz
+sophie williams4
+reporter correlates
+concerted effort
+equilibrium distributions
+stephan beck4
+francesca chiaromonte19*
+detection method
+shan yang31
+type
+beverley meredith4
+mark diekhans10*
+abrupt shifts
+san diego
+matthew jones4
+rosie levine2
+mark guyer20
+sharper definitions
+pattern persists
+virtual reality
+infertile men
+restrict attention
+toby bloom2
+nonself discrimination
+nicolas bray13*
+circled areas
+accepted 31 october 2002
+predominantly multiples
+fan hsu10*
+gustavo glusman29*
+catherine ucla9*
+s140­s148
+jim meldrim2
+received 18 september
+webb miller27*
+darren grafham4
+exudative vasculopathy
+porphyria variegata
+cxc chemokines
+separated cleanly
+interferon-g-activated sequence-
+haematopoietic cells152
+yoshihide hayashizaki17
+yasushi okazaki17
+guy slater3*
+luminal epithelium
+close agreement
+university park
+body size107
+passive spacer
+institut municipal
+brian schultz1
+cystein proteinases
+x-chromosome inactivation
+kulbokas iii2*
+karen foley2
+individually tracked
+intercellular barrier
+improve discrimination
+gain-of-function mutations
+megan mccarthy2
+enzymatic involvement
+gene-related features
+´ sante gnerre2*
+michele clamp4*
+febs lett
+disease-resistance functions49
+¨ victor sapojnikov7*
+causal connection
+chloride channels
+chromatin flavors
+s132­s139
+brian spencer2
+paul flicek14*
+marina alexandersson8*
+victorian england
+marc botcherby12
+ultimate aim
+evanne trevaskis1
+angela hinrichs10*
+ratna shownkeen4
+allelic imbalance
+tim hubbard4*
+jamey wierzbowski2
+jonathon bailey4
+ming li36*
+amino-acid replacing
+amount attributable
+nonspecific esterases
+duplication boundary
+knockin techniques17­22
+alan coulson4
+arkadiusz kasprzyk3*
+harlequin pattern
+jane rogers4
+christine lloyd4
+evan mauceli2*
+personal communication
+prosite profiles
+nick goldman3*
+prostate probasin
+repair processes92­94
+melanie wall4
+johanna thompson1
+emmanuel mongin3
+confounding variable
+grey line
+adam felsenfeld20*
+roest crollius
+earliest indication
+minimal amounts
+vice versa
+repbase release 5
+specialized aspect
+pheromone-carrier function
+apparent absence
+mating programmes
+explored previously259
+meiotic recombination138
+selectively disadvantageous
+christopher clee4
+roderic guigo5*
+nccr frontiers
+serum albumin
+santa barbara
+jorg schultz42*
+incorrect incorporation
+ewan birney3*
+near-exact duplication
+colour corresponds
+reliable guides
+1 rue michel-servet
+special credence
+full descriptions
+extraordinary trove
+subtelomeric regions1
+den hollander
+eduardo eyras4*
+stage-specific manner
+nicole stange-thomann2
+mouse-based phenogenomics
+type 6
+sarah sims4
+shiaw-pyng yang1*
+emma overton-larty4
+steven johnson25
+vastly complicates
+s647n w157r
+gave rise
+inna dubchak13*
+steven leonard4
+plant-specific self-incompatibility
+independent variable
+line-1 retrotransposition
+pallavi eswara27*
+repeatmasker analysis
+gapped blast
+charles sugnet10*
+il4/il13/il5 cluster4
+mysterious phenomena
+peter an2
+cell layers
+b6 genome
+alignable genome
+species unique
+mouse lineages
+similar homologue
+anchored sequence
+estimates suggest
+aligned position
+higher frequency
+generally higher
+slightly higher
+molecular genetics
+human lineages
+lower estimate
+anchored contigs
+extremely high
+high degree
+reliable alignments
+strain differences
+behavioural differences
+total number
+blue line
+upstream 200 bp
+probability scores
+9 upstream 200 bp
+17 additional cases
+mammals showed
+cpg substitutions
+4d show
+irs
+
+average
+primate lineage
+fragmentation rate
+partially represented
+5-mb window
+probable addition
+recent paper
+recent reports
+divergence time
+kthe number
+vast number
+including positions
+including gaps
+minimal number
+chromosome inactivation
+chromosome karyotyping
+-rich chromosome
+chromosome bands
+total assembly
+active members
+local mice
+artificially low
+smaller errors
+readily alignable
+remainder aligned
+greater proportion
+missing owing
+50-base windows
+50-kb windows
+mouse homologue
+210 finished bacs
+recent substitutions
+adjacent exons
+mouse species
+pseudogenes included
+roughly 6 mb
+genes reside
+roughly 188 mb
+human homologue
+final assembly
+entire assembly
+confound assembly
+preliminary assembly
+50-bp window
+previously identified
+twinscan identified 145
+estimated length
+codingregion snps
+serial analysis
+comprehensive analysis
+close analysis
+exonlevel analysis
+loss-of-heterozygosity analysis
+coding-region snps
+analysis facilitates
+slam analysis
+interproscan179 analysis
+closer analysis
+transcription end
+evolutionary survival
+blast match
+extreme outliers
+net change
+entire set
+closer match
+88 sequence-based ultracontigs
+extreme deviations
+match uniquely
+extreme bias
+set represents
+binding
+receptor
+subspecies recognition
+significantly correlated
+central place
+size differences
+strongest correlation
+closer correlation
+general correlation
+developmental regulation
+extra segment
+moderate conservation
+authors contributed
+cross-species conservation
+chromosome number
+wgs technique
+time spent
+modest increase
+similar types
+coding exons
+3 coding exons
+/nature
+14
+/nature
+point substitutions
+finer scale
+intermediate scale
+comparing thousands
+notable limitation
+id
+significant similarities
+rodent-specific sines
+logarithmic scale
+notable findings
+notable features
+excluding gaps
+mrna 3 0 ends
+large crosses
+mouse qtls
+similar proportion
+584 -- deletion 0
+component densities
+homologue lies
+systematic errors
+autosomes shows
+pseudogene insertion
+insertion represents
+lower end
+detailed methods
+paired reads
+rodent phylogeny
+snps identified
+possibly due
+regions shorter
+gene-rich cluster
+including differences
+position 23 corresponds
+irs human
+mismatch levels
+oncogene discovery
+nuclear
+phylogenetic assumptions
+quadratic regressions
+mammalian-wide subfamilies
+well-characterized organism
+eds lyon
+change significantly
+omitting centromeres
+eds foster
+milder phenotype
+eds soll
+eds hirschberg
+exponential curve
+wellcharacterized phenotype
+quadratic curve263
+sequence-similar subfamilies
+slippage events
+eds strathern
+molecular evidence
+selection
+investigation
+reflecting windows
+u12 introns
+u12-type introns
+entire chromosomes
+primate evolution
+concerted evolution
+eutherian evolution
+genome-scale evolution
+sequences align
+heterochromatic portion
+retrotransposed pseudogenes
+similar results
+similar orientation
+extreme conservation
+present rates
+roughly half
+estimates refer
+blue density
+chimpanzee estimated
+co-workers113 estimated
+specific differences
+david kulp18*
+fully exploit
+unambiguously mapped
+anchor points
+david willey4
+simon whelan3*
+simon potter4*
+sensitive instrument
+simon gregory4*
+uncanny accuracy
+simon cawley18*
+b6 obtained
+strand asymmetries
+drosophila melanogaster50
+b6 strains
+expectation increases
+david torrents11*
+growing repertoire
+explore issues
+colour codes
+genus drosophila
+knockout manipulation
+documented roles
+growing desire
+pfam
+reverse strand
+david haussler32*
+sensitive settings
+drosophila crumbs
+genome technology
+powerful applications
+mouse genomics
+rev model
+cpg content
+precise definition
+identical length
+926 19 7 960 length occupied
+direct estimate
+earlier estimate
+4d vary
+2
+
+frequency ratio
+4
+
+frequency ratio
+higher proportion
+claudins form
+familial form
+electrical engineering
+electronic form
+nonsyndromic form
+deeper understanding
+overestimate owing
+centromeric end
+mouse crossing
+mouse cross
+mouse results
+contraction
+
+mouse
+detailed knowledge
+non-synonymous site
+authentic genes
+genes diverge
+predict genes
+human counterparts
+human physiology
+marked conservation
+estimated number
+analysis suggests
+liver cells
+mutant characteristics
+secreted
+ir tails
+simply relying
+transgenic animals
+growing number
+assessed gaps
+gaps closed
+differ slightly
+transgenic mice287
+relate simply
+recent identification
+matches removed
+red component
+common cross
+9 including ssrs
+principal role
+bootstrap values
+found 19 instances
+high proportion
+similarly shown
+mixture decomposition
+primate lineages
+hitch-hiking effect
+mixture attributed
+reliably assembled
+examined alignments
+phylogenetic implications
+co-workers developed
+examples include
+larger proportion
+qtl identification
+state-of-the-art methods
+evidencebased methods
+signaturerecognition methods
+taxonomic range
+important opportunity
+note
+nature
+rodent reproduction
+eliminating copies
+albino loci
+selected sequences
+rfx5-deficient mice
+cdkn2adeficient mice
+house mice
+mutant mice
+knockin mice
+detect pseudogenes
+oxford univ
+recent origin
+large part
+genome-wide estimate
+lower extent
+replication errors
+mating preference
+crumbs homologue 1
+james cuff4*
+erroneous assignments
+dynamic interplay
+mechanistically identical
+andrew sheridan2
+317
+
+prolactin cath-
+similarly sought
+eric berry2*
+zody2* & eric
+necessarily identical
+bin ma38*
+james kent10*
+andrew kirby2*
+skin diseases
+non-primate homologue
+unambiguously reside
+`repeat
+insert lengths
+repeat
+orientation constraints
+clone
+anchored supercontigs
+species derive
+27 excluding ssrs
+40 base utrs
+content density
+data supported
+data sources
+represents deletions
+suffered deletions
+gc content
+reflecting contributions
+clear orthologues
+important issue
+gender differences
+correlating differences
+impressive differences
+principal differences
+recognize pseudogenes
+conservative estimate
+selected loci
+77 adjusted ratio 1
+adjusted ratio
+greatest interest
+palaeontological evidence
+topics discussed
+interpreting evidence
+intervals defined
+considerable interest
+confidence intervals
+assigned
+studied elsewhere193
+independent origins
+mental health
+large units
+alignable portion
+identical number
+mouse placenta
+tenfold denser
+broadest categories
+incomplete knowledge
+john burton4
+selectively removed
+dozen categories
+john tromp44*
+rat microsatellites
+john attwood4
+removed 24-fold
+enrichment based
+pcr-analysed microsatellites
+statistically adjusted
+direct study
+non-syntenic regions
+genes responsible
+human reproduction
+computer science
+linkage relations
+early estimate
+suggests ways
+family/domain members
+highest similarity
+genetic basis
+tighter distribution
+empirical distribution
+content local
+non-synonymous mutations
+clear pseudogenes
+data freely
+refined estimates
+expected values
+extreme differences
+observed proportion
+evidence set
+order-specific sines
+molecular characterization
+mouse autosomes
+red boxes
+red lines
+biomolecular science
+simulation study
+lander@genome
+tetrameric ssrs
+20-bp-long ssrs
+19 ratio* dog
+a-rich ssrs
+dimeric ssrs
+human autosomes
+mouse compared
+rev model231
+mouse epididymis
+trends genet
+cell genet
+local peak
+evolutionary relationship
+produce larger
+human proteomes
+precise origin
+high threshold
+ucsc browser
+creating demand
+reproductive physiology
+bac-end sequences37
+established worldwide
+hundred nucleotides
+breast tumors
+warm-blooded vertebrates
+jia li35*
+hewlett-packard company
+ultracontig lengths
+jr & boeke
+6-fold longer
+version july 2002
+org/ mus_musculus/
+mrc
+bruce birren2
+interrupted temporarily
+diane gage2
+jonathan butler2*
+ribonuclease
+producing
+german ministry
+abel ureta-vidal3
+4a
+paracentric inversions
+upper bound
+reproductive defects
+accompanying paper
+factored out261
+arbitrary lengths
+30-base plateau
+line-1 retrotransposons
+patternhunter program71
+omim code
+takifugu rubripes
+black boxes
+enzymes eosinophil-
+intracellular parasites116
+2800 mitchell drive
+wide variety
+genewise program144
+val curwen4*
+originated closest
+placental development
+waterston@gs
+companion paper327
+high-level view
+great bulk
+expanding universe
+considerable overlap
+action plan
+interesting examples
+division highlights
+oncogenes collaborating
+property shared
+embo rep
+biochemical studies78­81
+considered regions
+low proportion
+marked differences
+length $500 bp
+substitutions distribute
+number ssrs
+blue boxes
+dark blue
+blue lines
+light blue
+crucial roles
+ratio test
+species reveal
+ssr length
+classes procreate
+power lies
+absolute number
+suspicious classes
+chromosome physiology
+occurred frequently
+immunity suggest
+allowing comparison
+deletion characteristics
+thought typically
+preliminary test
+chi-squared test
+incomplete sensitivity
+limited sensitivity
+primarily due
+kidney diseases
+define parameters
+missing exons
+extreme examples
+recognized easily
+bases present
+figure 14
+figure 26
+figure
+shown adjacent
+000 mapped qtls
+box
+box 1045
+assessing conservation
+conservatively considered
+authors declare
+approximately 165 mb
+approximately 8 mb
+crucial role
+identify components
+lengths tend
+genes dev
+reveals
+michael quail4
+michael kamal2*
+michael morgan40
+anchored assembly
+explanation lies
+1 downstream 200 bp
+200 bp downstream
+bp mb21
+downstream 200 bp
+hormonal regulation
+generation time101
+etn insertion
+narrow range
+interquartile range
+broadly consistent
+manner consistent
+utr regions
+drift
+richard mott21*
+underway worldwide15
+difficulties encountered
+wide application
+donna karolchik10*
+ann joy4
+deeper survey
+frequently occur
+1/100 chance
+46 expected anti-codons
+richard mccombie39
+adequately explain
+evolution sections
+exclude pseudogenes
+rearrangements needed
+pseudogenes illustrate
+400 pseudogenes distributed
+increase sensitivity
+inherently part
+blue curve
+interesting case
+harder challenge
+remain
+drosophila melanogaster
+uncertainties noted
+6 synonymous substitutions
+synonymous substitutions
+coarse-scale identification
+comprehensive identification
+principal issue
+increasing premium
+weakly selected
+trna
+ka
+marked excess
+analysis suggested
+generation time
+set suggested
+primates relate
+shorter lengths
+salivary
+tested experimentally84
+room 4b09
+virtually absent
+placental mammals
+stronger bias
+proteome
+weak correspondence
+centres
+maynard smith
+intact
+colleagues283 analyse
+past century
+colleagues45 analysed
+mouse/human ratio
+physical
+526
+
+600-kb section
+due partly
+sva role
+established role
+typically subject
+distal ends
+repeatmasker found
+element
+-richest half
+receptors
+gc-rich isochores
+final step
+methods development
+methods tended
+focusing primarily
+notable difference
+remains
+landmarks occur
+yellow mice
+fancy mice
+means excluded
+hormonal steroids
+preferential accumulation
+carefully checked
+results suggest
+window occupied
+identical residues
+functions
+identity
+4% identity
+95% identity
+4d increases
+prediction
+estimating synonymous
+consistent colour
+highest degree
+clinical interest
+find evidence
+hormone metabolism
+ratios
+determined empirically
+ratios ð
+showing
+content imply
+remainder belong
+mhc
+selected subset
+short
+mechanistic basis
+// www
+california 92093-0114
+green boxes
+focus primarily
+/ cgi-bin/repeatmasker
+studied organisms
+laboratory
+opposite ends
+exons increasing
+sequencing
+estimate derived
+tetramer ssrs
+cell biol
+methods
+production
+trends mol
+reported
+clear tendency
+defines
+assemblies
+accumulating faster
+directly
+silent
+database
+partly supported
+sharp peaks
+consisting
+initial
+remarkable abundance
+compare
+acting
+pem
+progress
+augmented
+enu
+building 50
+prove enlightening
+diverged
+strands
+uniform compared
+proteins
+institute
+species difference
+erroneous case
+part enhanced
+multiple
+responsible intervals
+remainder consistent
+cases correspond
+notable contrast
+rna
+substitution
+future success
+explained simply
+refseq
+includes
+program
+decrease due
+bac
+long
+expected proportion
+region
+gene 207
+gene 174
+gene 261
+gene
+gene 276
+gene 100
+ssrs spawned
+ssrs overlapped
+fewer
+murine
+strategy
+ancestral
+small
+improved
+avoid
+promoter
+strict definition
+kilobases matched
+probability exceeds 83%
+ac ag
+cases falling
+recently
+mutants
+potential
+published
+rfx5 case
+alignment
+fourfold
+ssr classes
+washington
+washington 98103
+actual
+orthologue
+start
+`functional
+research
+mammals cutoff
+inserted
+polymorphism
+ly49
+back
+rnas
+rank
+reduced
+thousands
+322 high-quality
+tags
+aligns
+feature
+100 kb
+8 kb
+complete
+pairs
+900 kb
+300 kb
+845 pairs
+37 kb 2
+4 kb
+303 kb
+500 kb
+061 pairs
+200 kb
+2 kb
+59 kb
+kb
+20 kb
+941 pairs
+506 pairs
+34 kb
+1 kb
+10 kb
+394 snp 0
+families
+resulting
+largely
+regional
+models
+apparent
+clones
+b1
+sharply
+overlapping
+tissue
+probable
+approximate
+polymorphisms
+normalized
+39 discrepancies
+taking
+covered
+regression
+arising
+publicly
+traits
+000 reads
+reads
+4 reads
+transcription
+211 current
+additional 9
+catalogue
+reflects
+predicted
+substantially
+center
+rate
+roughly 6%
+roughly 40%
+roughly
+roughly 32
+roughly 4
+major
+show
+cases selected
+map
+usa * members
+b4
+b2
+validated
+annotation
+shows
+linear
+abundant
+instances
+mouse-specific
+odorant
+23 instances
+1% lower
+lower
+342 segments
+16 segments
+segments
+segments 0
+sites
+000 sites
+full-length
+nature 274
+nature
+nature 392
+26%
+nature
+nature 356
+nature 337
+nature 317
+nature 402
+nature 418
+nature 419
+nature 417
+535
+
+nature
+nature 335
+nature 380
+nature 385
+nature 224
+nature 420
+nature 409
+nature 408
+nature 407
+nature 405
+nature 233
+elements
+experiments
+1 million
+interpro
+phenotypes
+count
+9 million
+base
+7 million
+2 million
+groups
+orthologous
+closely
+purifying
+powerful
+represent
+significant
+rapidly
+biological
+riken
+sequence
+l1
+providing insight
+conserved
+content shown
+contigs
+repeats
+single
+similarly
+project
+clustered
+combined
+resources
+expanded
+line
+genetic
+physiological
+forces
+codon
+arise
+typical
+discovered
+equivalent
+referred
+undetectable
+polymorphic
+probabilistic
+examining
+revealed
+cells
+inserts
+cited
+identifying
+`typical
+facilitate
+assessment
+excellent
+emerge
+processes
+thaliana
+violated
+sampling
+events
+sampled
+libraries
+fingerprint
+testosterone
+cpg
+scores
+quality
+evolving
+recent
+mutation
+vary
+linked
+programs
+contained 95
+strong
+contained
+true 5 0
+`true
+492 contained
+exon
+localization
+segment
+qtl
+increased
+discuss
+remained
+annotated 5 0
+precisely
+expansions
+ervs
+library
+annotated
+relative
+mutational
+domain-free
+centre
+average 3
+average
+sequences
+wgs
+greater
+rates
+structures
+system
+control
+large
+expansion
+active
+provide
+important
+rodent
+83 loci
+039 percentage
+loci
+percentage
+250 loci
+5 gb compared
+cluster
+density
+aligned
+distinguishing
+foundation
+unique
+`finished
+levels
+comprise
+led
+mrna
+reciprocal
+encodes
+interval
+global
+testis
+statistics
+est
+school
+modern
+testing
+strain 129
+generated
+strain
+strategies
+finished
+cyp2c
+behavioural
+regulated
+collaboration
+similar
+data
+cdna
+sine
+estimates
+neutral ð
+neutral
+predictions
+101 predictions
+25 clusters
+clusters
+maps
+transcripts
+226 transcripts
+retroviruses
+possibly
+produced
+extended
+tool
+290 extended
+hughes
+& hughes
+14% smaller
+size
+91 size
+owing
+distinct
+ensembl
+reflect
+mouse
+local
+model
+63 genes
+`genes
+genes
+289 genes
+000 genes
+84 genes
+99 human
+human
+20 human
+landmark
+correlate
+fossils
+biases
+mapping
+deficiency
+mechanism
+score
+created
+encoded
+threefold
+conservative
+mgscv3
+similarity
+left
+rules
+collection
+residuals
+comparisons
+smart
+musculus
+approach
+briefly
+triangle
+common
+res
+5% higher
+higher
+10% higher
+values
+involved
+loss
+unknown
+analyses
+factors
+information
+supercontigs
+377 supercontigs
+418 supercontigs
+alu
+related
+expressed
+molecular
+effects
+occurring
+integration
+corresponds
+developmental
+process
+techniques
+minor
+early
+history
+links
+including
+early 2001
+include 12
+developed
+investigate
+informatics
+include
+genome 4
+genome
+genome 94
+genome 12
+genome 11
+genome 9
+genome ð
+2 genome
+site
+--
+14 -- 0
+25 -- 8
+000 copies
+50 copies
+copies
+adjacent
+studies
+high
+recombination
+altered
+305 recombination 0
+method
+significantly
+insert
+specific
+subspecies
+blocks
+disease
+217 blocks
+matches
+patterns
+organization
+larger
+coding
+sets
+table
+532
+
+6
+table 15
+table 17
+table 5
+table 9
+table 8
+table 3
+table 2
+table 1
+table 7
+table 6
+table 4
+table 18
+table 16
+table 14
+table 13
+table 12
+table 11
+table 10
+codons
+robert
+university
+excluding
+homology
+variation
+length
+locations
+pcr
+level
+2 years
+included
+50 years
+000 based
+typically 50
+typically
+based
+regions
+200 regions
+expression
+linkage
+cancer
+approximately 5%
+approximately 46%
+approximately 98%
+approximately 40%
+median 3
+median 8
+approximately
+approximately 80%
+median 2
+median
+approximately 99%
+approximately 170
+approximately 31
+approximately 32
+approximately 10
+approximately 83%
+provided
+n50
+approximately 0
+approximately 1
+approximately 3
+distribution
+repeatmasker
+order
+synteny
+divergence
+5% divergence
+computer
+identify
+sines
+fraction
+1 fraction
+64 ratio*
+* ratio
+ratio
+total 10
+total
+total 1
+reporter
+populations
+represents
+rt
+& lawrence
+incomplete
+release
+-rich
+successful
+variable
+expectation
+cell 99
+colleagues45
+cloned
+tail
+transcriptome
+kozak
+past
+full
+termed
+differ
+plan
+initiation
+comprehensive
+psx
+agreement
+specifically
+fragmented
+link
+defined
+age
+degrees
+claudins
+molecules
+lyon
+function
+placental
+replication
+obtained
+recognizable
+assessed
+observed
+essentially
+mutations
+cell 110
+fusion
+lymphoma
+20 times
+distributions
+added
+line-1
+tails
+duplication
+bias
+assumed
+requiring
+differed
+event
+translation
+dominant
+block
+structure
+required
+excluded
+orthology
+eutherian
+documented
+estimation
+previously
+downstream
+affect
+preferences
+counts
+landscape
+olfaction
+features
+harwell
+abpa
+website
+allele
+cell 87
+filled
+sgp2
+interesting
+forms
+frequent
+normal
+decode
+general
+starting
+browsers
+fall
+l-scores
+excludes
+search
+constructs
+share
+response
+males
+association
+fine
+fivefold
+continuing
+entire
+giving
+proportions
+lines
+programmes
+likelihood
+intermediate
+pattern
+improve
+variations
+rise
+domesticus
+decreasing
+london
+independent
+corrections
+rat
+continuity
+report
+bands
+cell 107
+cell 106
+white
+released
+inhibitors
+period
+ltrs
+strains
+relied
+spliced
+incorrect
+separate
+cell 53
+subjected
+lawrence
+occasionally
+leading
+activity
+creating
+inactive
+subfamily
+innovation
+cell 109
+issues
+retrotransposition
+cell 2
+129 strains
+repeat-poor
+non-functional
+closer
+unclear
+twinscan
+mutant
+stat5b
+validation
+000 bases
+4 bases
+900 bases
+200 bases
+234 bases
+955 bases
+bases
+`bases
+15 bases
+120 bases
+4
+
+bases
+40 bases
+alignments
+729 alignments
+lineage
+cdnas
+number
+number 68 5 4 1 2 12 3 4 4 5 3 2 1 5 1 2 2 1 2 0 9 2
+chromosome 1
+chromosome 2
+chromosome 3
+chromosome 6
+chromosome 7
+chromosome 13
+chromosome 16
+chromosome 19
+chromosome 4
+chromosome 15
+chromosome 22
+chromosome
+low
+windows
+assembly
+identified 47
+identified
+000 snps
+biology
+294 snps
+snps
+transposons
+609 snps 47
+analysis
+ultracontigs
+88 ultracontigs
+match
+extreme
+set
+pennsylvania 16802
+correlation
+pennsylvania 19406
+conservation
+mgsc
+time
+increase
+tend
+specificity
+reflecting
+1 orthologues
+orthologues
+& park
+notable
+oxford
+park
+scale
+184 insertion 0
+insertion
+primarily
+marked
+detect
+hypothesis
+obtain
+landmarks
+genomes
+hormone
+subfamilies
+rodent-specific
+genome1
+consists
+18 subfamilies
+detection
+phenotype
+curve
+eds
+suggests
+quadratic
+selection
+introns
+chromosomes 21
+chromosomes
+chromosomes 15
+chromosomes 16
+evolution
+314 pseudogenes
+recognize
+synonymous
+118 pseudogenes
+rearrangements
+`pseudogenes
+portion
+pseudogenes
+295 rearrangements
+estimated 20%
+estimated
+estimated 1
+knockout
+strand
+b6
+young
+imply
+challenge
+subset
+accuracy
+colour
+simon
+exploit
+univ
+sensitive
+growing
+alignable
+2 increases
+points
+drosophila
+paralogues
+extremely
+david
+400 young
+roles
+peaks
+deleted
+reveal
+mapped
+cambridge
+degree
+explore
+variability
+indicating
+understanding
+engineering
+properties
+insertions
+form
+genetics 141
+genetics
+genetics 115
+genetics 21
+immunity 8
+immunity
+tree
+000 exons
+slightly
+compounds
+orfs
+shorter
+3 exons
+frequency
+recognition
+domain-
+begin
+exons
+clear
+transgenic
+kidney
+correlated
+734 exons
+located
+measure
+began
+med
+ir
+generally
+189 exons
+characteristics
+8 gaps
+positions
+simply
+define
+9 exons
+breaks
+efforts
+ways
+0
+
+frequency
+5
+
+frequency
+generate
+contributions
+member
+press
+gaps
+examined
+role
+lineages
+12% assembled
+uniform
+humans
+effect
+7 assembled 2
+assembled
+mixture
+7 assembled 15
+regulation
+methods
+deletion
+mice
+errors
+trnascan-se
+listed
+transposon-derived
+allowed
+distal
+aspects
+accumulated
+caused
+hormonal
+retained
+columns
+homologue
+community
+influence
+labelled
+classified 2
+zfhx1b
+contribute
+76% retained
+classified
+oklahoma 73019
+erroneous
+change
+james
+describe
+parameters
+mmar1
+missing
+partly
+success
+calculating
+reside
+eric
+dynamic
+unrelated
+crucial
+prolactin
+occupied
+diseases
+evaluation
+carefully
+dividing
+preference
+bin
+pronounced
+approaches
+densities
+enhanced
+top
+suggest
+igfals
+insights
+numbers
+performed
+oklahoma
+andrew
+determine
+grouped
+overlaps
+97% identical
+identical
+5 errors
+made
+species
+derived
+deletions
+position
+differences
+origins
+bioinformatics
+evidence
+studied
+intervals
+interest
+bioinformatics 17
+bioinformatics 18
+1% intervals
+correspond
+lack
+health
+7 intron
+intron
+remainder
+technology
+categories
+bacs
+adjusted
+john
+tenfold
+retention
+indels
+bins
+knowledge
+hundreds
+removed
+qtls
+microsatellites
+members
+types
+irs
+uk
+correlations
+calculated
+non-synonymous
+due
+location
+proportion
+50 myr
+65­ 100 myr
+75 myr
+20­25 myr
+65 myr
+40 myr
+myr
+3 0 ends
+ends
+red
+science
+science 276
+science 286
+science 296
+science 297
+science 291
+science 293
+science 228
+science 288
+science 287
+ssrs
+rev
+genomics 45
+genomics 13
+genomics 12
+genomics 15
+genomics 33
+genomics 79
+genomics 70
+genomics 6
+genomics
+genet
+yellow
+empirical
+reports
+psx1
+absolute
+development
+ranging
+survival
+contributing
+hewlett-packard
+falling
+jia
+matched
+non-syntenic
+opposite
+oncogenes
+enlightening
+percentiles
+faster
+refer
+ac
+yokohama
+spermatozoa
+`fancy
+code
+action
+authentic
+definition
+needed
+relations
+tumors
+vertebrates
+nucleotides
+phylogeny
+steroids 62
+results
+physiology
+factored
+histograms
+etn
+overestimate
+rubripes
+established
+separated
+erv
+affected
+order-specific
+implicated
+bruce
+counterparts
+tetramer
+rfx5
+bound
+division
+entries
+shared
+prove
+co-workers
+expanding
+residues
+window
+biochemical
+patternhunter
+oncogene 19
+checked
+eliminated
+orientation
+inversions
+exclude
+enzymes
+probability
+grey
+arachne 2
+waterston
+mitchell
+gpbox
+belong
+sva
+jonathan
+crosses
+06 jc 0
+& abel
+promoters
+variety
+lost
+overlap
+gene-rich
+contraction
+retrotransposons
+lengths
+dog
+& cross
+filtered
+bac-end
+technique
+23 implicated
+predict
+jackson
+ministry
+org/
+black
+eliminating
+boundaries
+jr
+jc
+companion
+embo
+assessing
+arachne
+illustrate
+find
+distributed
+tended
+create
+intracellular
+indication
+examples
+mismatch
+aggregated
+enrichment
+bulk
+tighter
+crossing
+abundance
+bootstrap
+accumulating
+diane
+variance
+ucsc
+longer
+remarkable
+advantage
+genewise
+july 2002
+clinical
+paper
+originated
+accounts
+harder
+otoferlin
+melanogaster
+defects
+5-fold
+extra 4
+03 jc 0
+demand
+plateau
+cutoff
+sections
+`custom
+infection
+interrupted
+view
+diverge
+absolute 0%
+cross
+val
+46*
+affiliations
+substitutions
+165 substitutions
+34 substitutions
+10% substitutions
+17 substitutions
+067 substitutions
+47 substitutions
+blue
+represented
+classes
+occurred
+anchored
+95% anchored
+present
+comparison
+sensitivity
+terms
+test
+berkeley
+align
+recognized
+notably
+organisms
+excess
+authors
+sample
+ncbi
+considered
+sequenced
+estimate
+result
+produce
+michael
+´ michael
+30 bp
+$50 bp
+100 bp
+50 bp
+320 bp
+75 bp
+67 bp
+500 bp
+500­700 bp
+200 bp
+661 bp
+50­100 bp
+45 bp
+888 bp
+20 bp
+generation
+18 range 0
+29 range 0
+range 1
+range
+4d ¼ 0
+4d
+consistent
+000
+552
+
+chance
+collapse
+signatures
+kilobases
+ann
+williams
+ag
+richard
+survey
+responsible
+insight
+reproduction
+placenta
+19% overlapped
+fragmentation
+chance
+production
+placenta 23
+exceeds
+similarities
+bork
+occur
+centromeres
+lowe
+characterization
+underway
+spawned
+absence
+albino
+donna
+application
+sources
+highest
+explain
+suggested
+make
+opportunity
+strict 1
+threshold
+lander
+organism
+decrease
+mit
+supported
+difficulties
+thought
+& lander
+expected
+proposed
+ssr
+components
+overlapped
+focusing
+14 `reproduction
+assumptions
+estimating
+slippage
+22 cases
+cases
+160 mb
+8 mb
+818 mb
+900 mb
+3­5 mb
+4 mb
+91 mb
+300 mb
+5 mb
+187 mb
+477 mb
+6 mb
+400 mb
+2 mb
+3 mb
+9 mb
+0 252 16 4 17 14 11 19 55 7 6 9 2 27 13 10 2 1 17 2 7 13 mb 14
+859 mb
+120 mb
+mb
+140 mb
+1 mb
+87 mb
+695 mb
+700 mb
+10 mb
+16% difference
+content
+
+0
+content
+difference
+part 1
+part
+case
+noted
+identification
+increasing
+selected ð
+issue
+addition
+selected
+metabolism
+3 0 end
+end
+19 autosomes
+autosomes
+87 compared
+189 compared
+compared
+2% compared
+0% compared
+42% compared
+20 compared
+5% compared
+21% compared
+500 compared
+8% compared
+217 compared
+applications
+proteomes
+future
+power
+mammals
+tested
+stronger
+5 0 utr
+absent
+correspondence
+3 0 utr
+room 1419
+peak
+tested 11
+generating
+liver
+& smith
+tendency
+refined
+analyse
+room 5523
+room 311
+epididymis
+century
+dystrophin
+freely
+3 5 0 utr
+4 3 0 utr
+place
+primates
+smith
+units
+analysed
+section
+shown
+origin
+paired 5 0
+6 paired 15
+paired
+isochores
+6 paired 3
+study
+mouse/human
+half
+implications
+step
+providing
+& sharp
+focus
+sharp
+explained
+massachusetts 02453
+massachusetts
+means
+massachusetts 02115
+massachusetts 02138
+sought
+explanation
+massachusetts 02141
+accumulation
+found
+found 1
+department
+comparing
+dev
+discussed
+determined
+subject
+note
+relationship
+1 relationship
+difficult
+1 gb
+gb
+5 gb
+9 gb
+7 gb
+utrs
+5 0 utrs
+3 0 utrs
+basis
+extent
+contrast
+www
+& green
+california 95064
+green
+california 94720
+california
+california 94608
+california 93106
+california 94598
+/
+sci
+biol
+mol
+usa 48
+usa 98
+usa 99
+usa 90
+usa 97
+usa 94
+usa 95
+usa 88
+usa 81
+usa 82
+usa 85
+usa 87
+usa
+trawling
+& guigo
+crb1
+& wilkinson
+& hedges
+biometry
+differentiated
+reduplication
+miller
+elegans
+vl30
+china
+rust3
+pancreas
+genome59
+psx2
+derivatives
+kleeman
+& ahn
+concepts
+wang
+organized
+& mullikin
+kazazian
+revisit
+methodology
+significance
+bestrophin
+worley45*
+dinosaurs
+000276 000822 003006 000719 003593 000504 004244 001680 001841 000477 001849 001611 001356 001909 002048 002110 001452 000561 001584 003961 005225 000210 001440 001478 000008 000636 001650 000980 001092 001254 003308 000379 000626 004822 000387 002156 001969 001965 001878 000910 001660 000483 002126 000087 000372 001128 000721 000048 005135 001304
+
+rhodopsin-
+cyp4
+biocluster
+fig
+silver
+padgett
+crick
+xu
+replaced 3
+midpoint
+maryland 20892
+saha
+tempting
+kohne
+wash
+gilbert
+miracle
+parallelism265
+& pachter
+& margulies
+acquisition
+gly-
+boston
+well-
+androl
+gov/homologene/
+retaining
+singer
+dubchak
+mesirov
+rediscovery
+pathogens
+participate
+lethal
+hogenesch
+localizing
+furey10*
+& hutchison
+altogether
+fail
+extend
+deussing
+mei
+cytogenet
+met
+& taylor
+invertnature
+union
+craig
+musculoskeletal
+exactness
+dots
+graphical
+rflps
+toolkit
+pioneers
+josep
+academic
+karlsson2*
+& apweiler
+homogeneity
+keeler
+easy
+har
+alus
+alu-
+altschul
+steps
+schug
+elnitski
+individuals
+collet
+dental
+ovcharenko
+adey
+soc
+intron--
+suffice
+joseph
+understandably
+homogenous
+proven
+accounting
+jenkins
+asterisk
+activated
+cook1
+li109
+catalonia
+peters
+occurrence
+sign
+raju
+address
+anchoring
+terrence
+vectors
+myers
+love
+give
+anatomical
+& ochman
+riken132
+ohshima
+interproscan--
+zhao
+boyle
+webster
+& willliams
+pachter
+divided
+aging
+varieties
+yielding
+se
+decades
+coincidental
+mariuzza
+lercher
+records
+cystatin
+letunic
+typed
+suggesting
+squares
+possibility
+& russell
+parkinson
+`nr
+av261464
+burst
+& varmus
+transgene
+& karlin
+& coffin
+uk/
+prospect
+sam
+turner
+goodman
+coincide
+wilson1
+laws
+imagines
+slow
+& rajbhandary
+genera
+krishna
+16th
+vision
+west4
+& matzuk
+human122
+extinct
+prototype
+species198
+enable
+hervk10
+gardiner-garden
+verified
+binart
+underestimate
+maeda
+edges
+& payne
+bernardi
+decomposed
+poly
+discarded
+clay
+& beadle
+mayer2
+& bradley
+toth
+acta 1482
+sprunt
+joyner
+johnston
+acx
+berger
+& hudspeth
+oesophagus
+series
+materials
+& matusik
+major/minor
+laird
+al
+ar
+ensuing
+ideally
+--overlaps
+selection247
+veyssiere
+partitioned
+nelson
+dyer
+reasoning
+particles
+asterisks
+centromere
+degeneration
+plass
+fra14a2/fhit
+joined
+mammal
+olne
+penalties
+otof
+scientists
+barnabas
+janne
+sequences111
+initiated
+corrected
+foundations
+omitted--
+axis
+ihnestrasse 73
+toyoda
+intended
+mendel
+brown2
+continued
+attributing
+conjugation
+ponting23*
+stylianos
+speculate
+selection--requires
+& jurka
+reduce
+& deininger
+catalogued
+ftp
+missed
+paucity
+pleckstrin-
+castle
+gundersen
+nelson1
+moderately
+& nachman
+hgp
+play
+tpg
+cover
+exp
+pennacchio
+impact
+kadi
+failed
+wayne
+& eeckman
+yeager
+ser
+bammler
+murids
+tsunenari
+nserc
+kimberly
+& lazure
+genscan145
+microbiol
+ross
+phylogenet
+salinas
+ests
+mott
+fewell1
+hardison31*
+hgvbase
+conclusions
+input
+kulp
+emergence
+continue
+chakravarti
+clancy
+investigacio
+exaggerated
+//genome
+occupy
+osoegawa
+holmquist
+relaxed
+prized
+covariation
+parsed
+translocations
+edwards
+re-mapping
+du
+suppression
+90 pig
+lane
+broader
+inferences
+parham
+frankel16*
+boisclair
+marra
+morse
+bird
+x-linked
+lessons
+lec
+lee
+other70
+leu
+ctx
+celera
+contaminants
+makes
+francis
+commun
+challenges159
+reproduce
+thin
+garcia-meunier
+coffin
+weaker
+srm
+shuffled
+bonhomme
+gebauer-jung
+hormones
+establishment
+cd30
+demonstrating
+gregory
+counted
+houston
+human136
+federico
+disrupted
+annotate
+hallmarks
+fields
+noshiro
+methylated
+content99
+content90
+motifs
+biomedicine
+zody
+respond
+manuscript
+matthias
+venter
+accompany
+t4d
+unexpectedly
+steimle
+& aquadro
+viewed
+kappler
+bred
+fact
+comprising
+domachowske
+/slam/mouse/
+leukencephaly
+unravel
+& brent
+second-order
+& haigh
+configuration
+doerge
+chosen
+figures
+cm
+conclude
+ca
+600 loci30
+gaspari
+genes--
+spain
+& collins
+weber
+eur
+hubbard
+complemented
+balb
+architectures
+diabetes
+matsushita
+& kelly
+waltham
+pregnancy
+literally
+mementos
+intracisternal-
+easteal
+& osawa
+& bock
+disease-associated190
+heterozygosity288
+seeds
+non-hodgkin
+ferretti
+revise
+assess
+lund
+makova
+terminates
+tina
+construction
+convergence
+genome134
+evident
+int
+nonetheless
+bourque
+l-score
+disjunction
+rule
+roberts
+extrapolated
+madsen
+lacrimal
+smith43
+edward
+contemplated
+efficiency329
+coefficient
+chen
+invariant
+chem
+symer
+reconstruction
+ichikawa
+metaphorically
+detoxification
+skudlarek
+gle
+2­3-fold
+modulated
+cystatins
+non-reciprocal
+& rohlf
+reprod
+tolerated
+/pub/mouse_contigs/mar10_02/
+uw2230
+separates
+proposed137
+theories
+yang
+ning
+lab
+lay
+arch
+species327
+parra
+japan
+satisfies
+break
+medicine
+hogan
+lisa
+`childcare
+underway285
+sharpen
+cyp2d9
+observations
+kolbe26*
+& walsh
+merck
+species135
+contents
+strength
+convenient
+completed
+circles
+hammond
+fichant
+acknowledgements
+accounted
+sun
+5 december 2002
+fitted
+heuristics
+charlesworth
+subtle
+telomeres
+implementation
+nachman
+curr
+pheromones
+explanations
+& macleod
+co-vary
+immunol
+shiraishi
+unable
+drawn
+accord
+handful
+wi
+wu
+han
+cox
+zdobnov
+hwang
+regarded
+ideograms
+dozens
+applied
+blume
+3 0 ests
+whelan
+aid
+mitchell-olds
+launched
+phred20 3
+phred20 0
+phred20 1
+phred20 9
+eukaryotic-specific
+& weber
+nih
+quentin
+hand
+joanne
+thr
+studying
+decomposing
+& ruiz
+1 terabyte
+adiponectin
+understand
+purple
+& kaplan
+vol 420
+obp
+rendering
+korenberg
+mutated
+overcounting
+affymetrix
+dlouhy
+update
+chordates
+paces
+compensate
+macaya
+zhang
+turns
+missouri 63110
+locuslink
+wolfe
+energy
+nakamura
+mammals104
+endocrinology 135
+jax
+plotted
+dfnb9
+& adolph
+frameshift
+organizations
+discussions
+herbk113
+redundancy
+discussion
+criterion
+gonads
+displayed
+physiol
+cshl
+& rykowski
+acknowledge
+vicinity
+evol
+provision
+human-rodent
+schultz
+nematode
+challenged
+challenges
+santibanez-koref
+viable
+e-
+care
+& davies
+transition
+support
+striking
+omitted
+naanc
+accordance
+fickett
+correction
+recover
+& chun
+swelled
+paralogy
+importantly
+mispredictions
+metazoan-specific
+thompson
+fort
+msc-226
+elected
+& nielsen
+& sankoff
+miyawaki
+notice
+missouri 63130
+dominant-spotting
+hybrids
+& karn
+four-
+kinases
+stephen
+krivan
+exist
+develop
+investigated
+mcaleer
+terai
+validate
+ccx
+laboratories
+valuable
+hoxc
+hoxb
+hoxa
+hoxd
+speed
+struct
+yu
+benefit
+xenobiotics
+ponce1
+exposed
+bell-shaped
+recorded
+& chen
+assemble
+wolf
+inclusion
+& eppig
+coats-
+25-fold
+delayed
+minna
+default
+waltzing
+rossant
+yoo
+completeness
+//snp
+storage
+mathematics
+genes232
+peas
+pointing
+4-fold
+below--
+vert
+coloured
+anal
+mullikin4*
+& firestein
+& betty
+answers
+green30*
+polymeropoulos
+rice51
+fulton1*
+pepin1
+wendl1
+figs 12
+reshaping
+kasper
+clarke
+mcisaac
+& dean
+masaki
+anticipated
+bairoch
+waterston1*
+unsurpassed
+douglas
+mammalian-specific
+housed
+chinwalla1*
+pub
+reason
+aphrodisin
+acrocentric
+resequencing
+lejeune
+reflected
+deanna
+eddy
+jordan
+& wolf
+ogata
+sts
+lin
+extrapolating
+deermouse
+artefacts
+wasserman
+mervl
+dehal
+completion
+disease191
+e-mail
+switzerland
+hered
+anticipate
+culture
+plummeted
+oeltjen
+20-fold
+distinguish
+secrets
+& rattner
+androgens
+skolnick
+maintenance
+castresana
+collected
+abril5*
+territory
+onset
+& bernardi
+tracie
+developed34
+mallon
+church7*
+antonarakis9*
+karn
+monomeric
+ponting
+tromp
+conflict
+& goldman
+crucible
+93/0
+lio
+& nei
+murvy
+& fisher
+smit
+springer
+describing
+debry
+cgh
+reoccur
+cgx
+2/3
+100 cpus
+mice157
+toft
+boissinot
+placing
+collapsed
+injection
+mindful
+draw
+ooi
+korf
+2log10
+& waxman
+placentation
+virtue
+gu
+miner1
+proposition
+morel
+kate
+phenomenon
+moribund
+unstructured
+kapranov
+kuroda-kawaguchi
+notwithstanding
+placenta202
+collins
+focused
+convert
+kymberlie
+chang
+clark
+msvsp99
+manipulate
+hudson
+1/2
+1/1
+romagnano
+haussler
+ocrl1
+meet
+surely
+kassos
+claire
+encyclopedia
+intermediates
+hand1
+blake
+exclusion
+mesothelioma
+subtraction
+yasunaga
+magnitude
+gene244
+zdobnov11*
+& okada
+transitions
+hla
+maximizes
+jill
+& eichler
+diminishes
+austin
+unsupported
+8q21
+literally `
+adopted
+dimasi
+wilkinson
+& clark
+submitted
+agtr2
+gene-poor
+instance
+york 11724
+& frankel
+& pevzner
+connected
+bromham
+& moore
+re-estimate
+millennia
+mgi
+kong
+transposition
+receptor-
+computed
+argued
+strech-jurk
+tens
+kidneys
+ferguson-smith
+human2
+human1
+limits
+rouquier
+200 mb60
+& fickett
+weiss24
+yan
+yac
+refs 215
+texas
+catalogoue148
+ordinal
+http
+27 institutions
+fujibuchi
+16 morgans
+reflection
+bootstrapping
+report31
+talley
+detail
+haldane
+lipocalin-
+comments
+sokal
+utah
+immunology
+alternatively
+lipocalins
+martin
+pinpoint
+demonstrated
+offset
+tongue
+daniels
+recruited
+suzuki
+gov/genomes/m_musculus/mgscv3_release1/
+gain
+& jean
+& durbin
+education
+elaine
+tegoni
+searched
+tissue-
+anthony
+determination
+simpson
+reymond
+neoplasia
+calculate
+liverspecific241
+& ramsey
+solution
+sundseth
+natarajan
+ç http
+nei
+asif
+malleable
+retroposition
+afonso
+refinement
+jade
+interpret
+moran
+prokaryotes
+& mikoshiba
+disruption
+berlin
+moulded
+kumar
+ed
+maglott7*
+exceptions
+root
+polyadenylation235
+g1c
+reconciled
+jones25
+middle 67%
+corbani
+combination
+fixation
+weakness
+znf133
+onethird
+proteinnature
+side
+briand
+clausen
+principles
+extract
+jp/
+quantify
+surprise
+& lacy
+starts
+isn
+& roderick
+n-ethyl-n-nitrosurea
+palumbo
+begins
+mislabelled
+ginger
+gov/genome/guide/mouse/
+100­130 myr23­25
+immunological
+doi
+observation
+principle
+implying
+attempts
+endonuclease126
+biophys
+lutz-prigge
+guthrie
+& mouchiroud
+orgebin-crist
+kollmar
+campbell12
+& babiarz
+well-documented
+pets
+baboon
+durrett
+dickens23*
+sslps
+cawley
+hamada
+distinction
+contribution
+appeared
+height
+efficacy
+chun
+exception
+casals
+balance
+gly
+catalysis
+kim
+huson
+trimming
+bailey
+papain-
+singer2*
+& myers
+genotypes
+bold
+heiskanen
+trna169
+flourished
+& nathans
+contrib
+perform522
+creation
+failure
+mullikin
+fractions
+re-evaluated
+biocomput
+unlocking
+died
+jones
+& mccarthy
+assume
+paralogue
+di-
+depend
+finally
+reptiles
+& kazazian
+analogous
+slash
+mcconaughy
+lander2
+sturtevant
+cys-
+template
+koop
+suggestion
+& todd
+hardies
+mesirov2*
+pelts
+appending
+antigens
+making
+pink
+woodbury
+1% increments
+designed
+evgeny
+grow
+man
+& burton
+co-workers48
+deposit
+crumbs1
+thresholds
+flicek
+monitor
+gen
+mismatches
+& court
+fulton1
+yanai
+canada
+alistair
+emerged
+purine
+divergence92
+arthritis
+detected 558
+heterochromatin
+org
+purmann
+advance
+egasyn
+carry
+goffin
+infiltrate
+isolate
+davies
+& miller
+track
+telomere
+tracy
+sutton
+surprising
+aataaa
+twinscan160
+feng
+newey
+conjunction
+yield
+sean
+& hancock
+copies123
+tsui
+& palumbi
+satisfying
+repertoires
+metabolites
+diamonds
+pohl1
+lopez
+parentheses
+traded
+innovations
+exhibits
+wake
+hematopoiesis
+blastz
+investigating
+mouchiroud
+eppin
+pac
+emes23*
+rat67
+assist
+krushkal
+accountable
+ribonucleases
+schwartz
+sueoka
+embl
+eddy25*
+adams
+gaffney
+mutagenesis258
+greyscale
+symp
+hattori
+ostertag
+tease
+leja
+zerial
+deep
+examine
+fill
+transposon-
+etienne-julan
+rajkovic
+chris
+ant2
+& seldin
+androgen-dependent
+ovary
+metazoans
+founded
+partitioned 521
+daniel
+heterogeneity
+straightforward
+endocrinol
+applicable
+loftus
+roskin10*
+brackets
+ohno
+abp
+lundwall
+genotyping
+ggx
+situation
+baron
+libraries43
+arachne56
+kaneko
+extinction
+landes
+weichenhan
+montgomery34
+minimum
+out-group
+robinson
+ryo
+larsen
+acta
+hennighausen
+collins20*
+myal
+filters
+existence
+detected
+misunderstandings
+crohn
+2s
+repeating
+co-variation
+fish
+hard
+idea
+ryan
+funding
+abbaszade
+circumstance
+riggs
+difficulty
+takasaki
+predate
+mutagenesis274
+rosinski-chupin
+interrelationships
+& abelson
+mamm
+4-mb
+contrary
+download
+delehaunty1
+confirms
+built
+fer-1-
+gov/blast/db/nr
+nash1
+reflections
+decades-
+kawai
+thomas
+scattered
+converge
+relation
+permission
+& negishi
+tavere
+rest
+battey
+resolve
+interleukins 4
+ansorge
+gibbs28
+bucan
+esophagus
+screened
+& prydz
+dunham
+ansari-lari
+bb615096
+line-dependent
+sapiens
+davisson
+purpose
+task
+chemistry
+prevention
+shape
+source
+insect
+addressed
+¼ 23=4 lnð1 2
+brent
+germany
+& bonhomme
+proportional
+representative
+adjusting
+murphy
+colleagues296
+cure
+serological
+16% misnature
+ly6
+& carlson
+implies
+`transform
+aquaporin
+matsuda
+deamination
+polyamines
+knight
+rp12
+heidelberg 69117
+mural
+glaxosmithkline
+nhan1
+access
+leveraging
+spacing
+rchar1
+imperfections
+trachea
+standpoint
+chromosome65
+chu
+spermatozoa209­211
+& kanehisa
+payne
+gov/pub/tracedb/mus_musculus/
+account
+& glazko
+& subramanian
+transversions
+gabriel
+sites185
+gcx
+& moran
+inst
+lucinda
+hgvbase192
+georgiades
+li
+matassi
+disrupts
+ribonucleases224
+descendants
+biomol
+preclude
+wade
+nusbaum
+lespinet
+ref
+math
+tsurumi-ku
+clarify
+biochem
+acquire
+ballard
+curves
+homeodomain
+roskin
+recombineering
+xenobiotic
+taylor70
+text
+cd21
+& searle
+þ ¼ pffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+chromosomes63
+itakura
+margulies
+richards
+takahashi
+fixed
+& broach
+biosynthesis
+koonin
+content81
+tovar
+sexes
+huang
+piechaczyk
+ellsworth
+arisen
+freeman
+arrangements
+/downloads
+batzoglou
+desilva
+indistinguishable
+infer
+mcmurtry
+orth
+covarication
+requests
+muscle
+& bernard
+cyp2d22
+add
+resolved
+tests
+& maglott
+suwanichkul
+laukaitis
+gottgens
+accessible
+kruglyak
+& sippel
+assuming
+& gautier
+panel
+introduced
+billions
+/pub/mouse_contigs/mgsc_v3/
+gleaned
+serdobova
+roe33
+org/phenome
+8/9
+pig
+& ponting
+4b
+4c
+thiery
+commensal
+violate
+divergent
+pruitt
+mardis1
+sung
+biochemistry 28
+physiologies175
+visible
+annotations
+jareborg
+ma
+mt
+ar ¼ 0
+hsmar1
+dietrich
+descent
+interpretation
+embryogenesis
+makalowski
+touraine
+fitness
+& boisclair
+diana
+gow
+gov
+strains45
+formation
+publication
+c3h
+encouraging
+ranz
+carrel
+genesis 31
+toh
+eukaryote-specific
+serve
+clustalw
+twenty-
+* 4=3þþ rest
+car
+-
+rodents
+immunity--
+& rubin
+birky
+glusman
+rogers
+inaccuracies
+sage
+substituting
+n-
+availability
+bain
+reconstruct
+fra3b/fhit
+licking
+mergers
+sharpens
+1960s
+//www
+oxidation
+tar * *
+alexandersson
+& hurst
+pla2g2a
+elinor
+viruses
+cyp2b
+methyl-cpg
+meyerhofstrasse 1
+& haldane
+interacts
+texas 77030
+prussia
+assembling
+trypsin-
+1038/nature01262
+campbell
+scaffolds
+//bio
+5-
+successfully
+zoom
+lamp2
+fingerprinting
+fredman
+& rosenberg
+totals
+carcinogenesis
+sept
+presence
+rely
+klysik
+cuenot
+ssaha
+attempted
+vivo
+bengtson
+turnover
+rubin13
+escape
+setting
+papers
+tri-
+permitting
+endocrinology 141
+strausberg
+leads
+lakso
+discern
+wiehe
+refs 161
+& boursot
+culminating
+quick
+illustrating
+50 megabases
+descended
+modifying
+sports
+criteria
+immunoglobulins
+three-
+lower-
+conversely
+opin
+& furano
+inheritance
+& mariuzza
+rubin
+copeland
+inactivation132
+slam162
+informs
+branches
+14195 berlin
+inform
+exclusive
+hardison
+& li
+burge
+gtx
+hamilton
+blueprints
+advent
+gautier
+gangeswaran
+begun
+botstein
+kent
+filipski
+retrovirus-
+turn
+schwartz10*
+kurachi
+millions
+iap
+holden
+hum
+& dove
+lowest
+pro
+cyp4b1
+phillips
+nonlinear262
+ensp00000285979
+mouse189
+trna-
+re-analysed
+nlm
+nekrutenko
+kidwell
+trnas
+dyn
+eosinophils
+& copley
+review
+importance
+zoubak
+ladeana
+proteins174
+id119
+beckman
+macrides
+poy
+nadeau
+& rougeon
+mikkers
+irrelevant
+//ftp
+html
+& frommer
+driven
+devoid
+footprint
+* vector
+inability
+males223
+phusion58
+guigo
+obps
+confined
+dunn24
+mears
+beta-defensins 1
+hurst
+& bird
+linzer
+yau
+connor27
+brown12
+sparser
+detectable
+ewing
+6 countries
+prolactin-
+applying
+taylor
+chiaromonte
+biochemistry
+rosen
+winking
+contradicted
+perry
+invest
+barcelona
+muzny28
+ala
+removal
+weber10*
+enhance
+& ward
+list
+& wasserman
+rats
+design
+brien
+& fox
+proceed
+hillier1*
+flam
+& eddy
+codes180
+caveat
+henderson
+challenging
+& agosta
+offspring
+influenced
+goal
+frequencies
+//wolfram
+explains
+simplicity
+emphasized
+pavlicek
+alter
+incompleteness
+return
+384-
+characterized
+jurka
+yoshida
+expect
+undertake
+abou-haila
+hill
+teach
+& aravind
+thread
+consequence
+paigen
+psi-blast
+storz
+assumption
+mainstay
+& penny
+king
+saitou
+& traut
+chordate-specific
+wilson
+missouri 63108
+nicholas
+measures
+transcription-
+measured
+mcpherson1
+rtc
+bethesda
+traut
+spurious
+compiled
+william
+longest
+pharmacol
+achieved
+arg
+muscle-specific242
+declined
+distinctive
+sequence96
+initially
+refs 217
+refs 213
+reese
+arbitrarily
+reasons
+decline
+& ashworth
+vinson2*
+evaluated
+early-transposons
+leger2
+miao
+comprehensively
+biochim
+& davis
+antequera
+durham
+exploiting
+lindblad-toh
+annu
+& eason
+proc
+weir
+& francke
+gamma
+deafness
+question
+goodstadt
+maine 04609
+raising
+individuality
+placenta/embryo
+graham
+saccone
+tentative
+mcdonnell
+users
+& hewett-emmett
+aneuploidy
+meaning
+daly
+fluorescence
+sgp-1
+departments
+scroll
+vallender
+refs 101­103
+wished
+klausner
+goodier
+manipulating
+& kramerov
+utah 84112
+cai
+chose
+wibr
+d4mit64
+& lancet
+feb
+depicted
+examination
+lalley
+hinxton
+ashcroft
+tar
+batten
+maternal
+org/mus_musculus/
+horm
+& boguski
+contaminated
+orange
+defining
+13b
+13a
+practice
+1700s
+brent14*
+trimmed
+respects
+hyman
+integrated
+york
+conflicts
+waterloo
+dermitzakis
+murrs
+echo
+gruneberg
+seattle
+superimposed
+simulate
+costantini
+loots
+ratio182
+clin
+purification
+digestive
+eukaryotes
+50 commonly
+chances
+subtracting
+rechler
+subtle286
+surroundings
+beddington
+words
+coordinating
+targeted
+sabeur
+ability
+graves1
+tiers
+kucherlapati34
+heredity
+respect
+trays
+birney
+confers
+feingold
+& linzer
+& ellegren
+duan
+& mckerlie
+& tulsiani
+automation
+undertaken
+tcx
+stat5a
+psi-blast178
+emeryville
+agents
+subramaniam
+refs 1
+wong
+dermitzakis9*
+francino
+extension
+bmbf
+dependence
+dependency
+outset
+wade2*
+placenta204­208
+copley21*
+promise
+cormier
+refs 29
+refs 28
+pufferfish
+& ning
+tzeng
+jaffe
+& powell
+demonstrate
+norman
+year
+18q22
+domesticated
+jaffe2*
+branch
+theor
+conclusion
+rvista
+kinds
+emmanouil
+rmer30
+5 7 93
+27%
+270
+271
+272
+273
+274
+275
+277
+278
+005%
+201­205
+058
+050
+405­445
+99
+98
+91
+90
+93
+92
+94
+97
+45­46%
+16 0
+2 47
+2 43
+221 2
+758­775
+10709­10713
+62%
+39%
+63 1
+63 2
+391
+390
+399
+949 19
+8 3
+695 6
+0598 ^ 0
+179
+178
+177
+176
+175
+174
+173
+171
+170
+300068
+845 1
+276
+1126­1137
+279
+337­351
+73 2
+73 0
+73 1
+950­958
+46 16
+444 13
+8870­8874
+447 ^ 0
+692
+696
+694
+69%
+860 31
+369
+10%
+22 2
+93­108
+25%
+102
+258
+259
+252
+253
+250
+256
+257
+254
+255
+5 57
+5 52
+104
+105
+92 0
+26­27%
+077
+071
+1425­1433
+441­451
+10887­10893
+019­0
+24 2
+24 0
+4 7
+4 6
+4 4
+4 3
+4 2
+4 1
+4 0
+4 9
+4235­4239
+3 464
+126 507 35 49 26 100 23 22
+346­0
+1095­1107
+137­141
+15þ
+04 0
+15­19%
+7 111
+151
+150
+153
+155
+154
+157
+156
+158
+15%
+15*
+471 377 88 48
+7­100
+95
+81%
+96
+75­76%
+7 4
+13323­13326
+248­254
+55 2
+55 3
+55 0
+241­248
+072 0
+181­193
+304
+241­247
+917­927
+917­920
+306
+23%
+238
+239
+236
+237
+230
+232
+233
+5 73
+04 41
+860­921
+090
+095
+93%
+314
+
+315
+
+315 316 316
+75 1
+795
+792
+791
+79%
+837­840
+2 81
+2
+9 2
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+9 3
+9 4
+574­578
+6 5
+6 4
+6 1
+6 0
+6 3
+6 2
+6 8
+03 19
+155­163
+03 16
+96 1
+96 0
+276902
+16­83%
+605 7
+9 176
+5 £ 1029
+8 86
+011 12
+511 48 2
+283­285
+283­284
+249 104
+216
+217
+214
+215
+212
+213
+210
+211
+218
+219
+5 11
+5 12
+45 0
+498 564 348 391 79 115 631 34 127 37 388 112 82 8 24 1 26 2
+1048­1059
+91%
+´
+136­140
+51 0
+479­485
+2119­2123
+2186­2194
+114­123
+182­187
+9 21
+9 20
+`
+1 26
+1 21
+1 22
+199
+198
+195
+194
+196
+191
+193
+19%
+008 0
+4701­4706
+247
+5 8
+5 6
+5 7
+113705
+5 2
+5 3
+5 0
+5 1
+249
+858
+85%
+6
+2 953
+031 0
+491­495
+00 0
+4239­4252
+84 0
+0 112
+124­133
+38 38
+302­1
+5869­5877
+490
+4 45
+4 43
+391­400
+086­0
+172
+396­406
+2 £ 1029
+364 0
+614­618
+685­690
+2045­2047
+þ=
+446 0
+31 0
+31 1
+264
+108 0
+319
+318
+313
+312
+316
+#
+41 0
+41 4
+372 183 169 149 140 137 138 122 119 116 121 115 105 107 107 96 91 85 84 55 134 88 6 5 2 3 13 4 5 5 6 4 3 2 6 2 3 3 2 3 1 10 52
+1 40
+19 3
+19 0
+19 1
+215­220
+7757­7761
+87%
+0­0
+{
+711­717
+92 1
+110­4
+275 0
+29 0
+7 8
+7 9
+7 5
+7 6
+7 7
+7 0
+7 1
+7 3
+351­359
+4 £ 1029
+524 0
+059­0
+149­154
+149­152
+957
+95%
+04 28
+49 0
+832­839
+018­0
+219 0
+202­214
+599
+0 13
+1401
+1736­1745
+330
+819­822
+33%
+058
+
+­ ­ ­ ­ 20
+327­375
+21 0
+1 60
+916­919
+9 67
+383­0
+631­634
+2 11 1 0
+29­36
+35 0
+¼
+76 1
+76 0
+12 0
+45%
+09 0
+09 2
+262­272
+6­100
+115 0
+80 0
+80 1
+3 85
+3 80
+494­500
+322­327
+548­555
+582­592
+§
+578
+160­163
+601508
+58 3
+4008­4013
+68 3
+68 0
+68 1
+3915­3921
+458­462
+35%
+350
+9 83
+352 0
+88 0
+251
+630 10
+15 0
+649­659
+502­507
+35 1
+222 0
+4 28
+4 29
+016­0
+476
+475
+168
+896 4
+166
+29%
+298
+297
+294
+295
+293
+290
+291
+468 1
+10774­10778
+37­51
+1996­2008
+81­91
+72 0
+1991
+178 0
+1992
+1994
+1997
+1996
+1999
+1998
+218
+
+322
+
+227
+910 7
+558
+556
+55%
+8 9
+8 8
+8 2
+8 1
+8 0
+8 7
+8 6
+15 46
+1872­1877
+37%
+794 539 73 2
+373
+237 0
+390­1
+09 7
+24
+
+4
+17­37
+229­234
+0197
+695­703
+2 75 11
+­
+8 28
+8 24
+585­606
+99­1
+388­393
+808
+388­396
+352­361
+979 0
+4 8
+41%
+412
+3389­3402
+967­981
+05 8
+05 0
+1741­1745
+2653­2657
+493 0
+1976
+1974
+1971
+1970
+387­391
+537
+530
+538
+048 22
+64 1
+981 0
+414­1
+414­0
+637­661
+593­608
+4087­4091
+39 0
+39 2
+þ ¼ 1 2
+104­111
+133­137
+133­135
+232­244
+7 47
+389 984 1
+743­750
+64 10
+240­245
+95 0
+034­0
+226 9
+3 21
+416­427
+99­103
+32­43
+605027
+1954
+47­67
+257­266
+230­239
+0 96
+0 94
+0 93
+1993
+4471­4476
+141 10
+1995
+823­828
+627
+1023­1027
+11995­11999
+46 0
+302­309
+808 17
+603896
+229
+482 0
+482 5
+2497­2502
+178 12
+4­97
+33­36
+9 0
+9 1
+9 6
+9 7
+9 5
+9 9
+778­789
+3
+50 0
+4 80
+152
+011­0
+4779­4784
+7 22
+7 20
+7 24
+06 0 0
+191­204
+1725­1729
+579
+299
+
+300
+160­165
+11645­11661
+1931
+1936
+1935
+1938
+01 7
+01 6
+01 0
+882 16
+600185
+* 25
+85 0
+19 0 0
+601
+600
+602
+58 1
+1200
+0 234
+58 4
+60%
+203 5
+203 0
+3 62
+309 7
+309 0
+5 10 15
+477 2
+4123­4130
+197
+190
+686 122
+30 1
+30 0
+30 2
+745
+74%
+´ 231
+138­0
+529­544
+1350­1356
+42 0
+253000
+7
+279­286
+14 24
+133 0
+20 18
+ð1 2
+1919
+311­319
+1915
+605284
+88%
+796­815
+91 2
+91 0
+139­141
+201 22
+795 789 951 1
+663
+38­41
+949­954
+79 0
+0001
+285
+579­588
+309
+
+310 311
+
+312 221
+002
+000
+008
+6 57
+76%
+1003­1007
+23­35
+159­166
+159­167
+54 0
+584 6
+1168­1174
+99 0
+45­48
+064 0
+76
+57­86
+401­417
+1 93
+1 99
+094 13
+1895
+1 15
+493 192 176 157 147 144 146 131 125 121 127 119 110 113 112 100 95 90 87 58 142
+8685­8697
+34 0
+71 1
+71 5
+667
+646
+0­100
+549­557
+301
+
+302
+81 0
+424 1
+547­548
+235
+000­30
+159
+024
+026
+022
+147
+705
+700
+1021­1032
+70%
+2 19
+2 18
+2 17
+2 16
+2 11
+2 10
+2 12
+1980
+69 1
+147 0
+296
+291­329
+73­75
+288 10
+89 0
+235­238
+091
+319 202 224
+120
+121
+122
+123
+124
+125
+126
+127
+¼ 0
+129
+79­92
+14 1
+14 0
+211 0
+176261
+745 11
+181 0
+209900
+930
+37 33
+þ
+778 14
+179­185
+61 5
+61 1
+705 4
+262
+261
+260
+267
+266
+265
+269
+268
+982
+447­450
+985
+98%
+6 15
+041
+14503­14508
+786­791
+87­97
+102700
+72%
+7­18
+111 0
+413­415
+773­785
+22 0
+108
+109
+103
+100
+101
+106
+107
+177­186
+177­189
+657­663
+292
+176200
+009­0
+68%
+372 0
+372 2
+107­114
+06 0
+2185­2195
+106 2
+24%
+245
+244
+492 2
+246
+241
+240
+243
+242
+248
+061
+063
+062
+33314­33320
+068
+18 0
+266­268
+2 52
+244 0
+533­539
+65 1
+02
+03
+01
+05
+266600
+0%
+78­94
+38%
+381
+388
+032 160 627 725 1
+38 1
+38 0
+16%
+169
+164
+165
+167
+160
+161
+162
+163
+337­340
+80%
+805
+181­187
+015­0
+8 13
+521 ^ 0
+6 9
+1­16
+1­11
+1­10
+205
+206
+10 0
+209
+409
+
+­ ­ ­ 0
+94 0
+94 7
+191 0
+953­958
+22%
+228
+227
+226
+225
+224
+223
+222
+221
+220
+5 41
+12 20
+468­475
+72 1
+455 2
+0
+1990
+533 0
+213­227
+788þ231
+1 14
+1 16
+1 17
+1 10
+1 12
+314
+9 10
+143­155
+9 18
+146
+144
+145
+142
+143
+140
+03 29
+148
+149
+14%
+1001­1005
+602421
+479­ 481
+0 ¼ 0
+167­181
+780­790
+02 47
+868­873
+113­118
+26 0
+2204­2215
+16­83% 0
+675­687
+1 2 6
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+1%
+327­338
+604­613
+201
+200
+203
+202
+204
+207
+208
+152 5
+20%
+152 0
+481­485
+481­489
+554­604
+02 0
+92%
+254110
+111­112
+40%
+7390­7395
+86 2
+86 0
+86 1
+784
+782
+78%
+57 9
+57 1
+577 7
+100­109
+738 3
+035­0
+43­52
+9 33
+9 39
+198 0
+4
+367­371
+378
+7 ­ 98
+845
+33 0
+374
+84%
+8 91
+290­297
+481
+95­102
+49
+
+0
+167­170
+303
+
+304
+
+215
+184 0
+0­93
+901
+300377
+833­838
+16­83% 78
+90 0
+90 8
+610­614
+502 4
+363­369
+¼ 2
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+2%
+219­235
+004­0
+78 1
+78 0
+78 3
+7 0 0 56
+1 35
+225­228
+182
+183
+181
+187
+185
+188
+189
+513­516
+86%
+1605­1610
+715­717
+853­885
+023­0
+53 1
+8
+98 1
+98 0
+065 0
+25 0
+1260­1263
+5 29
+462­471
+042
+
+­ ­ 0
+279 20
+331­1
+1863­1872
+048­0
+025 6
+966
+96%
+37 3
+37 0
+70 0
+102100
+352 1
+357 0
+242­244
+308
+309
+300
+301
+302
+303
+305
+307
+30%
+82 0
+82 1
+182­190
+1 71
+477­486
+1661­1671
+%
+947 3
+2002
+2000
+2001
+116­128
+86­89
+176807
+1352­1365
+731­737
+44%
+39
+38
+33
+32
+31
+30
+37
+36
+35
+34
+4 77
+3%
+847­848
+578­582
+2032­2039
+172 0
+345­1
+1­100
+94%
+0 2
+0 1
+0 0
+0 6
+0 5
+0 4
+0 8
+507­514
+487­489
+586
+587
+0 26
+0 25
+66 2
+322
+323
+320
+321
+326
+327
+324
+325
+328
+329
+6­99
+294 11
+021 9
+9 98
+9 99
+9 95
+2 202
+3182­3192
+80
+
+0
+469­478
+132
+519­520
+29­40
+2225­2229
+616­628
+138
+451­455
+2­4
+685­702
+508­512
+468
+46%
+4 12
+4 10
+305­316
+80­88
+573­583
+289
+288
+1­100 98
+281
+280
+283
+282
+284
+286
+1499­1504
+974 34
+322 20
+582­586
+051­0
+1986
+1987
+1984
+1985
+1982
+1981
+1988
+1989
+562
+74 1
+56%
+88
+32 13
+48
+49
+46
+47
+44
+45
+42
+43
+40
+41
+157 0
+4%
+07 0
+321 217
+1022­1037
+012­0
+369­372
+345
+347
+343
+191­194
+299
+3­13
+3­15
+3­19
+205 1
+8 15
+8 14
+8 11
+487­528
+393­396
+245 0
+4 33
+2209­2214
+05 33
+489­495
+3 9
+65%
+192
+1978
+267
+
+­ 0
+1969
+1966
+1962
+214 0
+17 0
+540
+549
+955­964
+803­808
+905­916
+36%
+364
+169­175
+535­546
+535­543
+1192­1197
+62 0
+62 1
+986 0
+600 2
+1 8
+1 2
+1 3
+1 0
+1 1
+1 6
+1 7
+1 4
+1 5
+406­425
+900
+243­250
+987­989
+90%
+70­74
+8 31
+815­824
+5 5
+59
+58
+55
+57
+56
+51
+50
+53
+52
+54
+5%
+743­748
+7 56
+9994
+42%
+590­594
+98­1
+7 52
+225­240
+5­15
+097 22
+07 41
+241 0
+52%
+524
+6634­6639
+ð
+137­140
+384­387
+26­36
+5722­5727
+198­204
+1
+1147­1153
+03 1
+03 0
+128
+87 1
+87 0
+8 50
+201 0
+1172­1177
+229­240
+5 4 7
+53­56
+073 0
+208900
+51­62
+479 9
+3 18
+3 12
+3 13
+3 16
+3 17
+3 14
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+681 7
+5835­5842
+039­0
+6%
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+50%
+506
+500
+635
+290 ^ 0
+13 0
+224 0
+97 0
+192 3
+8 79
+8 73
+6 65
+142623
+455­457
+753
+757
+1024
+1026
+1114­1121
+7 19
+7 16
+7 17
+7 11
+591 8
+153­159
+5
+2 1
+2 0
+2 3
+2 2
+2 5
+2 7
+2 6
+2 9
+2 8
+206400
+217­221
+1531­1535
+6414­6418
+311­320
+627­631
+1900
+13­16
+119­121
+52 0
+0 88
+614
+615
+700 22
+538­548
+1323­1332
+2 ¼ 0
+27 0
+186
+1 108
+36 0
+440­445
+3756­3764
+7%
+000­ 40
+772
+77
+75
+74
+73
+72
+71
+70
+79
+78
+696 79
+12 0 0 0
+2 21
+46­0
+488 6
+1304­1351
+83 0
+9407­9412
+45­71
+290 £ 0
+769­779
+3 58
+3 59
+76% £ 55%
+1605­1617
+467 ^ 0
+9
+896
+89%
+8­90
+314­331
+263
+67%
+785 8
+343­350
+10196­10201
+11 0
+99 17
+40 0
+000­40
+213 0
+141
+11293­11298
+853 8
+381­386
+022­0
+015
+6 21
+232­234
+93 0
+2222­2227
+315­329
+315­325
+563­573
+53 0
+1 244
+28 0
+28 1
+7 1 1
+45­58
+1559­1566
+&
+216
+
+305­307
+
+214
+261­282
+1 85
+201460
+25­3
+198­202
+198­203
+133
+131
+130
+137
+136
+135
+134
+139
+48 0
+1562­1566
+180
+8%
+89
+82
+83
+80
+81
+86
+87
+84
+85
+484 9
+900­903
+184
+3 0
+3 1
+3 2
+3 4
+3 5
+3 6
+656
+186 8
+655
+311
+310
+317
+315
+94­100
+919­929
+=
+20 0
+75­80%
+1751­1756
+2042­2053
+5 96
+1677­1685
+032
+033
+030
+035
+814­818
+370 0
+747­750
+2 62
+2 0 0 37
+32 4
+32 0
+735
+77 3
+934 9
+656 8
+036­0
+08 6
+490 8
+114 0
+426 0
+600 50
+287
+11%
+115
+114
+117
+116
+111
+110
+113
+3­4%
+119
+118
+156240
+242 0
+*
+145­0
+1­21
+1574­1583
+249­258
+74 10
+1­2%

@@ -1,0 +1,457 @@
+Improvement
+supplement
+Department
+Dickmanns
+Metropolis
+dimensionality
+Structure validation
+technique
+different structural
+side-chain remodelling
+low-energy structures
+`loop_relax
+downstream
+Grotthuss
+Structure Prediction
+bottleneck
+non-identical
+secondary structural
+MODBASE
+intensification
+biological
+clear-cut molecular
+Superpositions
+structure prediction
+automatic refinement
+low-resolution
+side-chain conformation
+crystallography
+Giorgetti
+long-standing
+judicious
+tree-search-with-pruning
+explosion
+Trust/MRC
+high-accuracy
+fast-fourier-transform-based
+conformation
+noncrystallographic
+excellent agreement
+Published
+represented
+principle
+three-residue
+per-residue
+rebuilding-and-refinement
+root-mean-squared
+Structure prediction
+procedure
+`Small-wobble
+hydrophobic
+inference
+systematic difference
+ARP/wARP
+flexibility
+Screening
+translational
+landscape
+template-based
+nine-residue
+Bioinformatics
+assessment
+Furthermore
+side-chain conformations
+conformational
+successful
+experimental constraints
+interaction
+MAMMOTH
+Predicted
+particular
+Rychlewski
+analogous
+polypeptide
+rotational
+challenge
+constraint
+optimizing molecular
+exceptional prediction
+following
+MolProbity software24
+highthroughput
+quasi-Newton optimization
+T0329_D2
+challenging
+2Department
+carboxyterminal
+chain-break
+less-accessible
+anomalous scattering
+crystallized
+information
+advantage
+computational infrastructure
+successful molecular
+molecular replacement4,5
+prognosis
+ARTICLES High-resolution
+RESOLVE12 automatic
+significant
+description
+superimposable
+trial-and-error
+Terwilliger
+connectivity
+clustering threshold
+improving
+effective
+Cambridge Institute
+Rotamer-pair
+TMalign33
+spectrometry techniques
+studies42
+correlation
+representation
+comparative-model-based
+structure alignment
+converging
+interpretation
+Publication
+Biochemistry
+displayed
+empirical backbone-backbone
+experimental information
+statistical
+complicate
+high-resolution refinement
+Scientific
+coordinates
+compensatory
+high-resolution structural
+computational efficiency
+combination
+Srivatsan
+single-wavelength anomalous
+evolution
+repulsive
+maintaining
+backbone-aligned
+homologous structure
+independent
+Leaver-Fay
+Tramontano
+combining
+atomic-level
+structure comparison
+side-chain truncation
+plausible rotation/translation
+minimization16
+Brzustowicz
+structural similarity
+evaluation
+rebuilding
+University
+moderate-resolution
+approaches
+additional experimental
+distant-template-based
+beginning
+Schueler-Furman
+Cambridge
+September
+Alignment
+crystallographic
+sequence-similar
+manuscript
+inter-atomic
+energy-based structural
+perturbation
+log-likelihood-gain
+temperature
+structure determination22
+Overhauser
+inferential structure
+fragment-insertion-based
+Automated
+percentage
+structures
+Kooperberg
+asymmetric
+continuous
+representative low-energy
+Preparation
+Schwarzenbacher
+suitability
+experimental diffraction
+translation
+Lazaridis
+population
+plausible
+subroutine
+quasi-Newton minimization
+anticipate
+preparation
+lowenergy comparative
+structure4
+usefulness
+T0330_D2
+generalization
+substantial
+alignment information
+hydrogen-deuterium
+anomalous scatterer
+efficient
+NMR-resolved
+performance
+worldwide
+subsequent automatic
+Diffraction
+complexes
+complementing
+Evaluating
+successive
+Carlo-minimization
+intrinsic
+parametric alignment
+stringency
+extensive refinement
+short-range interactions9
+high-throughput
+high-resolution rebuilding-and-refinement
+Garbuzynskiy
+crystallographer
+COMMENT002
+accession
+Rosetta-predicted
+aggressive
+energy-based optimization
+Supplementary Information
+knowledge
+structure predictions
+full-chain
+side-chain coordinates
+High-resolution structure
+Non-identical
+Nevertheless
+incorrect conformations
+Galzitskaya
+energy-directed
+Davidson­Fletcher­Powell
+insertion-based
+rigid-body
+staphylococcal
+Archaeoglobus
+progress3
+over-convergence
+Washington
+side-chain conformations14,15
+intervening
+Inferential structure
+ARP/wARP11
+intensity
+intramolecular
+truncating
+important application
+incorporating
+techniques
+Haematology
+symmetric
+identification
+calbindin
+geometric
+available
+molecular-replacement
+importance
+combinatorial optimization
+residue-level information
+interface
+understanding
+fragment-based
+diversity threshold
+automatic chain-tracing
+uncertainty
+propagation
+best-TFZ structure
+energy-based refinement
+prediction/phasing
+Laboratory
+contribution
+estimation
+earlier19
+experimental
+otherwise
+MolProbity
+Ramachandran
+Structure predictions
+consistent high-resolution
+structural improvement
+satisfaction
+`template
+six-dimensional
+expensive
+gradient-based algorithm
+California
+100-residue
+protein-protein
+Comparison
+corresponding
+alignable
+protocol51
+Rebuilding-and-refinement
+traversal
+Development fellowship
+well-packed low-energy
+minimization procedure
+backbonedependent
+Radiolytic
+Supplementary
+optimization
+characterizing
+Assessing
+low-energy
+diversification
+backbone-backbone hydrogen-bonding
+alignment algorithm
+comparative
+Assessment
+Correspondence
+different
+highresolution modelling
+Canutescu
+Energy-based
+computational structural
+catalysis
+Automated main-chain
+low-energy native-like
+development
+loop-relax
+structural alignment
+Institute
+`rebuildingand-refinement
+molecular replacement
+lowenergy
+high-resolution structure
+NMR-based
+secondary structure
+Finkelstein
+coordinate
+spherical
+`fullatom_
+orientation-dependent
+alternative
+template-based modelling
+candidate
+improvement
+Although
+extensive
+Acknowledgements
+identical
+symmetry7,8
+sequence-distant
+crystallographic diffraction
+density-constrained
+footprinting32
+completeness
+Algorithms
+macromolecular
+determining structures
+Laziridis­Karplus
+multipleminima
+consensus
+Laboratory supercomputer
+mixed-model
+indication
+rearrangement
+Converting
+accessible
+amino-acid-specific Ramachandran
+`crankshaft'-like
+sequences
+competition
+off-lattice united-residue
+superposition
+Grzechnik
+Brute-force likelihood
+Massachusetts
+RESOLVE
+minimization
+structure coordinates
+identical side-chain
+agreement
+illustration
+comparative modelling
+percentile
+invaluable
+comparison
+low-resolution modelling
+state-of-the-art
+practical
+energy-based rebuildingand-refinement
+repulsion
+insufficient
+High-resolution prediction
+conformations
+near-native predictions
+organizers
+diffraction-data-derived likelihood
+Ensembles
+communication
+functional
+constraint-generating
+Identification
+speciation
+sequence-identical
+intervention
+one-residue
+nucleotide
+112-residue a-helical
+experimental structural
+`refinement
+generation
+considerably
+Abendroth
+experimental structure
+important component
+incorporation
+convergence
+downstream perturbation
+ARTICLES Improving
+refinement procedure
+considerable
+structure13
+Comparative
+Auto-traced
+exploration
+distribution
+Jaroszewski
+hydrogen/deuterium exchange30
+Publishing
+computing
+configurational
+structure refinement
+Schematic
+assessing
+cyclic-coordinate-descent-based
+Superposition
+log-likelihood translation
+annealing19
+Plewczynski
+Improving
+Lymphoma
+sufficient
+ruggedness
+energy-based rebuilding-andrefinement
+METHODS SUMMARY
+Effective
+important
+transporter
+high-resolution predictions
+Englander
+crystallized construct
+Contributions
+Structure Initiative
+diffraction
+determination
+resolution
+non-native
+small-wobble

@@ -1,0 +1,1170 @@
+1038/nature05670
+
+letters
+quantifying social group evolution
+´ ´ ´ ´ gergely palla1
+team assembly mechanisms determine collaboration network structure
+cornell university library e-print condensed matter
+authors declare competing financial interests
+uncover basic relationships characterizing community evolution
+networks represent potentially generic characteristics
+5 zip-code age
+
+nreal / nrand
+
+nreal /
+665
+
+©2007 nature publishing group
+
+letters
+
+nature
+albert-laszlo barabasi2 & tamas vicsek1
+mobile phone company spanning 52 weeks
+5 april 2007
+
+letters
+received 2 january
+average time dependent auto-correlation function
+users provide additional information
+664
+©2007 nature publishing group
+
+nature
+©2007 nature publishing group
+
+nature
+aggregated link weight inside
+filled black symbols correspond
+stationary community undergoes minor
+capturing highly connected circles
+total aggregated link weight
+shared common activity pattern
+biological physics research group
+auto-correlation function decays faster
+ænrealæ/ ænrandæ ratio
+small fitness quickly disintegrate
+dynamically changing community structure
+large stationary community disintegrates
+phone-call network personal information
+667
+©2007 nature publishing group
+collaborative group spanning
+4
+co-authorship phone call
+
+neighbourhood
+5 april 2007
+
+letters
+
+record
+basic quantities characterizing
+filled black symbols
+highly connected neighbourhoods
+mobile phone users
+ænrealæ/ænrandæ
+findings offer insight
+randomly selected node
+quickly growing likelihood
+adjacency means sharing
+handbook 2nd edn
+aggregated link weights
+randomly selected users
+changing link weights
+open archives initiative
+archive spanning 142 months
+fully connected clique
+full-text html version
+long-term collaboration process
+human sexual contacts
+white line corresponds
+author information reprints
+phone record captures
+three-year time window
+clique percolation method23
+data collection process
+phone network correspond
+joint graph provide
+evolving network model
+randomly chosen individual
+publication record assigns
+social network analysis
+continually changing membership
+evolving social network
+group composition results
+uncovered communities correspond
+mapping knowledge domains
+complex network research
+analyzing clique overlap
+joint graph consisting
+composition remains unchanged
+similar results found
+fundamental differences suggest
+mobile communication networks
+rapidly changing communities
+detecting community structure
+self-similar community structure
+uncovered community structure
+average time spent
+identify community evolution
+0
+
+100
+
+co-authorship phone call
+
+50
+
+0
+05 co-authorship phone call =9  = 10 0 0 0
+relative node overlap
+highest average life-span
+consecutive time steps
+collaboration communities possesses
+win + wout
+instant communication events
+phone-call communities uncovered
+small groups displays
+open symbols show
+membership dynamics leading
+national science foundation
+social groups represented
+previous time step
+identifying evolving communities
+large communities raise
+internet dating community
+underlying community dynamics
+local community structure
+links inside communities
+complex community structure
+densely interconnected parts
+figure 2b shows
+team performance
+co-authorship network wc/wic
+mechanisms governing
+actual community size
+overlapping community structure
+members change dynamically
+tracking evolving communities
+methods
+locating communities
+ænrealæ/
+large groups persist
+co-authorship data sets
+cpm ´ community structure
+strong relationships
+æ decays faster
+joint group
+large linked networks
+phone-call communities divided
+small community sizes
+large non-stationary community
+open symbols
+small communities change
+/ nature
+aggregated weights
+research collaboration
+auto-correlation function
+basic events
+total weight
+= 6 phone call
+= 12 phone call
+8
+phone call
+phone call
+personal communication
+clique percolation
+social network
+network structure
+eotvos university
+cases correspond
+black nodes/edges
+dynamically altering
+fundamental differences
+4 million users
+connected subsets
+friendship circles
+local structure
+biological physics
+collaboration network
+phone data
+phone-call network
+average weight
+~t0
+
+tmax {t0 {1
+time evolution
+empirical analysis
+basic idea
+social network3
+social interaction
+ænrandæ 2 srand
+ænrandæ 1 srand
+common features
+biological nets
+joint network
+clique percolation23
+weight threshold
+joint graph
+communication network
+contacts belonging
+international collaboration
+columns corresponds
+co-authorship network
+mcdonnell foundation
+ænrandæ represents
+results suggest
+collaboration events
+online version
+increasing nature
+smaller collaborative
+remain unchanged
+publication records
+growing stage
+primary phone-call
+community structure
+permissions information
+supplementary information
+social networks
+coauthorship network
+network representation
+community evolution
+evolving communities
+joined graph
+bipartite graph
+social links
+physics education
+relative overlap
+average older
+average correlation
+average life-span æ
+average life-time æ
+co-authorship data
+phone calls
+time practically
+time steps
+time dependence
+time passed
+identifying communities
+win 1 wout
+average age
+inset shows
+communication patterns
+4a shows
+1d shows
+higher fitness
+phone-call communities
+large sizes
+large scale
+stationary community
+small groups
+data sets
+data samples
+primary data
+networks capturing
+one-mode projection
+descending order
+standard deviation
+4a inset
+scientific collaborations
+largest subset
+purple colour
+moderate levels
+eds carrington
+quantity found
+weak ties
+society1­7 results
+interesting effect
+collective dynamics
+directly tested
+high turnover
+preferential attachment
+itr programmes
+algorithm based
+natl acad
+positively correlated
+notre dame
+relative commitment
+error bars
+specific interest
+nested communities6
+tie strengths
+continuous change
+distant points
+professional cliques
+colour coded
+deeper understanding
+significantly larger
+complete sub-graphs
+accepted 8 february 2007
+smaller rate
+h-1117 budapest
+timeindependent membership
+natural connection
+characteristic features
+interesting observation
+random sets
+intermediate levels
+cambridge univ
+key features
+constant evolution7
+sage publications
+inter-community nodes/edges
+schematic dynamics
+two-week-long periods
+small sizes
+typical small
+small cliques
+complex networks
+time commitment
+age falling
+comparable age
+average size
+average ratio
+common nodes
+time step
+significantly higher
+higher level
+higher rate
+large communities
+cpm tend
+single community
+community decreases
+community disintegrating
+distinct community
+community formation
+optimal regime
+small community
+group
+12 10 8 6 4 2 0 0 20 40 60 80 100 120 zip-code age
+
+0
+weighted networks
+networks considered
+random networks
+long time
+overlapping communities
+smaller communities
+larger communities
+communities obtained
+subsequent states
+k-clique size
+step increases
+figure shows
+autocorrelation function
+decreasing function
+small communities
+data set
+non-stationary community
+links weaker
+inter-community links
+adding links
+links starting
+single links
+t0 zt
+weak links
+t0 denotes
+cpm community
+opposite tendency--
+rich set
+prominent peak
+details accompany
+adjacent k-cliques
+oxford univ
+scientists emerges
+important question
+zipcode averaged
+probability pl
+noticeable peak
+extended life
+4b inset
+significant fluctuations
+yellow colour
+monthly list
+red frame
+simple measure
+library
+sizes averaged
+cpm communities
+large institutions
+community size
+´ ´ ¨ ¨ computer science
+calculations show
+members abandoning
+members changed
+members belonging
+large wout/
+involved individuals
+algorithm developed
+simultaneously belong
+cpm method
+stability rules
+vicsek@angel
+optimal behaviour
+member joins
+member abandoning
+extended lifetime
+01 0 0 pl
+
+wout/
+ænrealæ
+share nodes
+communities born
+community members
+/
+ænrandæ
+weeks
+university
+authors
+probability pd
+optimal stationarity
+significant difference
+individuals representing
+changing
+social
+individuals living
+structure
+evolution
+nature 393
+nature 435
+neighbourhood
+activity
+pattern
+nature
+collaboration
+nature 411
+disintegrate
+record
+information
+network
+company
+capturing
+stationary 0 0
+`fitness
+stationary 0 0 10 20 30 40 50
+5 april 2007
+physics
+complex
+average
+time
+groups
+win
+communication
+= 18 co-authorship
+= 6 co-authorship
+co-authorship
+= 12 co-authorship
+large
+50 large
+05 large
+data
+internet
+results
+dynamics
+represented
+change
+membership
+52 months
+persist
+composition
+wc/wic < 5
+linked
+life-span
+quantities
+interconnected
+events
+tracking
+sets
+sizes
+steps
+overlap
+wout
+overlapping
+individual
+small
+50
+=1 =2 =3 =4
+
+
+
+=5
+
+=6
+
+=7
+
+=8
+
+small
+= 0­2 =3  = 4­34  = 35  = 36­52
+
+small
+age
+non-stationary 0
+non-stationary 0 0 10 20
+higher
+zip-code
+cpm
+community
+optimal
+commitment
+networks 26
+networks
+communities
+tmax {1
+states
+divided
+parts
+step
+
+
+
+30
+
+40
+
+50
+
+0
+size
+ratio
+knowledge
+tmax
+srand
+methods
+step
+function
+t0
+links
+t0 1
+yellow
+15
+
+pd
+
+0
+averaged
+scientists
+method
+behaviour
+0
+
+figure 3
+idea
+red
+probability
+representing
+opposite
+* averaged
+significant
+quantity
+k-cliques
+set
+life
+monthly
+figure 1
+figure 2
+figure 4
+oxford
+measure
+represents
+born
+long
+details
+important
+peak
+calls
+4b
+science
+science 286
+science 311
+science 296
+science 308
+members
+show
+difference
+developed
+belong
+individuals
+living
+institutions
+stability
+member
+& vicsek
+nodes
+wout/
+2 1 nodes
+666
+
+wout/
+10
+
+wout/
+0
+
+wout/
+lifetime
+stationarity
+limited
+sci
+maximum
+focus
+illustrated
+disintegration
++1 death
+radicchi
+finally
+excluded
+stable
+indicating
+applied
+dynamic
+amaral
+csermely
+condition
+school
+europhys
+uncovering
+supports
+& wasserman
+selecting
+inspection
+farkas
+`small-world
++1 splitting
+hungary
+sociol
+blue
+spiro
+assistance
+find
+reminiscent
+3c
+contrast
+3d
+loose
+proc
+contraction
+parameters
+resulting
+pollner
+vol 446
+wic
+1 1 snap-shot
+marked
+collaboration/communication
+addressed
+extinction
+unit
+plot
+khan
+usa
+suppl
+cecconi
+type
+separated
+continue
+watts
+validity
+clue
+´ derenyi
+stanley
+london
+values
+abandon
+& arenas
+address
+predict
+tt+1
+palla
+liljeros
+tech 21
+occur
+criterion
+onnela
+grow
+types
+maintain
+green
+& ng
+soc
+years
+uzzi
+paper
+scott
+committed
+tendency
+vicinity
+li
+estimating
+fig
+orange
+defining
+eur
+impossible
+self-optimization
+effects
+matched
+articles
+ebel
+merge
+2a
+2c
+& strogatz
+characterized
+warner
+homogeneous
+tz1
+generation
+series
+snapshots
+society
+static
+extract
+shown
+quantify
+rev
+inter-collaborations
+contained
+investigation
+dominated
+suggesting
+granovetter
+interactions
+& amaral
+& mendes
+york
+& borner
+org/abs/physics/0610104æ
+determining
+loreto
+frequent
+user
+rooted
+number
+cond-mat
+reached
+quality
+& maini
+similarly
+construct
+parallel
+1a
+strategy
+1c
+1e
+1f
+low
+relationship
+holme
+binned
+part
+colleagues
+& park
+future
+´ ´ acknowledgements
+shifted
+organisations
+elte
+viewed
+strength
+depending
+studying
+pazmany
+-
+extracted
+pair
+hu
+measured
+adaptability
+doi
+newcomers
+principle
+& borgatti
+derenyi
+/nature
+timedependent
+policy 34
+supported
+& aberg
+merged
+exchanged
+& liljeros
+ætnæ
+3b
+gen
+liu
+arxiv
+kossinets
+summary
+investigate
+yeung
+connections
+intensity
+result
+existence
+close
+subject
+commitments
++1 merging
+identification
+indiana 46566
+diaz-guilera
+wc
+ability
+correspondence
+article
+ja
+& newman
+contract
+æhttp
+requests
+giralt
+height
+respect
+math
+´ palla
+capable
+union
+edling
+appears
+extraction
+& leydesdorff
+ph
+define
+families
+search
+group26­28
+al
+lives
+whole17­22
+3department
+connections 21
+present
+case
+leave
+complexity 8
+replaced
+situation
+property
+szabo
+//lanl
+leaving
+disappear
+james
+lett
+& parisi
+split
+document
+castellano
+development
+everett
+dorogovtsev
+hand
+purpose
+identity
+scaling
+lower
+dddas
+materials
+stny
+wagner
+homogeneity
+ch
+aspect
+usa 101
+davidsen
+web
+preprint
+000 authors25
+newman
+heidelberg
+match
+customers
+insensitive
+fate
+checking
+showing
+birth
+press
+taking
+emergence
+e-prints
+heart
+essential
+/reprints
+www
+people
+springer
+growth
+matching
+investigating
+dense
+res
+illustrate
+core
+predicting
+self-organization
+ratios
+`dynamic
+co-authors
+column
+discussed
+faust
+suggestions
+¨ shiffrin
+presence
+hopcroft
+accumulated
+clustering
+friends
+support
+kulis
+detectable
+danon
+& albert
+time-evolution
+longer
+´ barabasi
+issue
+calculated
+detailed
+defined
+physica
+contribute
+exist
+check
+2center
+compared
+otka
+detail
+geographically
+& watts
+papers
+dodds
+phys
+& selman
+models
+1 ´ ´ statistical
+´ guimera
+departments
+observe
+conferred
+& bornholdt
+20
+
+*
+10
+
+0
+2 0
+0
+10 20
+7
+
+0
+30 40 50
+
+0
+875 0
+8
+
+0
+1999
+065103
+08
+16
+2658­2663
+38
+30
+975 1
+509­512
+5 4
+5
+
+0
+145­150
+1
+
+0
+24­27
+8
+94
+< 30­35
+1998
+4
+
+0
+478­484
+160202
+95 0
+8 2
+8 0
+1
+0 0 0
+155­174
+ð2þ
+03 0
+1302­1305
+0
+
+0
+0
+
+1
+8 1
+24
+0 1
+0 0
+21
+22
+23
+28
+`
+< 35
+3
+
+0
+95
+
+0
+29
+7
+20
++1
+3 0
+*æ
+875
+
+0
+2
+311
+590­614
+11
+10
+12
+15
+14
+17
+16
+19
+18
+18 16 14 12 10 8
+
+
+
+*
+
+20 15 10 5 0
+æ
+321­330
+697­702
+2
+
+0
+6 1
+6 0
+6
+
+6 0
+200
+73
+9
+
+1
+49­61
+78
+04 0
+975
+
+1
+5249­5253
+036122
+20
+
+30
+35 30 25
+
+*
+11­16
+13
+5 1
+02 0
+9 1
+06
+8 4
+
+0
+3
+440­442
+26
+27
+6
+
+0
+150
+68
+1 0
+925 0
+9741­9749
+2 0 5 10 15 20 25 30 35 40
+8 0 20 40 60 80 100 120 140
+
+20 15 10 5
+
+60 50 40 30 20 10 0
+825 0
+9
+1973
+5183­5185
+4 0
+ð1þ
+4
+5 0
+50
+1608­1618
+30
+
+40
+
+50
+
+0
+907­908
+7 0
+25
+1360­1380
+814­818
+9 0
+1 2
+1 1
+85
+
+0
+*
+925
+
+0
+6
+9
+
+0
+85 0
+07
+12
+1 0 0 20 40 60 80 100 120
+0 0 10 20
+2001
+5
+88­90
+2005
+7­10
+151­158
+= 18
+2002
+2003
+2000
+2006
+2004

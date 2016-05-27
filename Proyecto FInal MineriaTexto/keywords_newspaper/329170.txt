@@ -1,0 +1,13 @@
+natural
+cc
+m
+j
+proteins
+329170txt
+ww
+master
+sequences
+samorogu
+protein
+structure
+amino

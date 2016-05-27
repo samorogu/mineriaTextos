@@ -1,0 +1,469 @@
+two-dimensional
+influence transcriptional
+McDonnell Foundation
+Pseudoallelism
+Department
+physiological
+measurement replication
+description
+environment
+Allele-specific repression
+Ovcharenko
+heterogeneity
+Takahashi
+advantage
+overdominance
+phenotypes
+regulatortarget
+transcriptome
+difference
+Lewis-Sigler Institute
+5-lipoxygenase
+REVIEWS
+Classification
+inducibility
+measurable heritability
+Laurie-Ahlberg
+biological
+speculation
+accumulation
+unexpected
+Interacting
+consistent
+ubiquitous
+empirical
+Pharmacogenomics
+Cis-acting expression
+perspective
+NOVEMBER
+attributable
+unavailable
+Continuous
+experiment
+gene-expression measurement
+nonadditivity
+`cis-regulatory
+non-additive
+multivariate
+proliferation
+allele-specific
+Estimators
+regulators'17
+understanding
+Comparative
+cis-acting heterozygosity
+geneby-environment
+Non-additivity
+precocious introduction
+conflation
+underdominance
+correlation structure
+FURTHER INFORMATION
+high-throughput identification
+falsediscovery
+discontinuous
+population association
+heterozygous individuals
+Therefore
+DNFLLRLSQS IPNLKHLDLR
+landscape
+non-expression phenotypes31
+VCIALNCPKL KTFNIGRHRR
+conventional
+Transgressive segregation
+uniformity
+nucleotide resolution
+Differences
+Weatherbee
+Bioinformatics
+polymorphism responsible
+quantitative phenotypes
+`genetical
+theoretical
+cumbersome positional
+populations
+Blackwell
+Centennial Fellowship
+tissuespecific
+suggestive
+infinitesimal
+Combining
+following
+non-additivity
+experimental follow-up
+processing
+calculation
+variance29
+Foundation Centennial
+cis-acting regulatory
+distinguishable
+compatible
+downstream
+inheritance
+DNFLLRLSQS IPNLKHLVLR
+option=content
+positional
+Spilianakis
+Exploiting
+membrane-spanning
+mid-value
+genome-wide
+recombinational
+large-effect
+interchromosomal
+information
+cis-regulatory
+annotation
+organismal phenotypes
+Churchill
+mid-parent
+long-range
+transcript-level
+allele-specific measurement
+complexity
+extrapolation
+correlation
+human-specific transcription
+triggering
+evolutionary
+interpretation
+stability
+statistical
+agricultural
+complicate
+polymorphisms responsible
+IPNLKHLVLR ACDNVSDSGV
+highdensity oligonucleotide
+left-most
+trans-linking
+combination
+localization49
+functional
+genomewide expression
+Daughter-cell specificity
+expression quantitative
+association
+structural
+susceptibility
+molecular phenotyping
+Functional
+IPNLKHLDLR ACDNVSDSGV
+Saccharomyces cerevisiae
+liver10,44
+single-nucleotide resolution
+arbitrariness
+non-functional `cis-regulatory
+transcriptional plasticity
+effect-size
+combining
+assumption
+small-scale
+haplotype-dependent influence
+integrative
+biometrical
+Bersaglieri
+ACDNVSDSGV VCIALNCPKL
+University
+extraordinary
+regulators
+oligonucleotide
+polymorphisms influence
+chromosomal
+regulatory
+Pleiotropy
+array-based
+Trans-acting regulatory
+definition
+interaction
+transcript abundance
+`neighbourhood
+tissue-specific expression
+phenotypic information
+proteins62
+consequence
+Schwartz104
+studies34­37
+architectures
+Foundational
+allele-specific quantitative
+probability
+one-primer
+cell-typedependent influence
+organismal
+phosphoglucomutase
+nonrandom
+temperature
+cuticular hydrocarbon
+intermediate
+Gomulkiewicz
+realization
+Cis-regulatory
+percentage
+molecular
+Cavalieri
+phenotypic divergence
+Heritability
+discovered
+KTFNIGRHRR DNFLLRLSQS
+continuous
+biosynthesis
+Uncovering regulatory
+Regulatory
+Neighbouring
+Kwiatkowski
+Whole-genome genotyping
+multi-copy
+disequilibrium
+population
+quantitative
+autoregulatory
+following methodological
+cis-regulatory polymorphisms
+Association
+biochemical
+Hirschhorn
+distinguished
+Tibshirani
+correction
+Empirical threshold
+Integrating genotypic
+substantial
+exchanging
+dispensable
+influencing expression
+transcription
+Disruption
+genome-wide expression
+Simultaneous genotyping
+functional polymorphisms
+necessary regulatory
+multicellular
+Autoregulatory
+Statistical significance
+significant
+comparisons
+cis-acting
+trait-by-trait
+nucleotide
+overestimation
+observation
+environmental
+strain-specific
+traditional
+hematopoietic
+Hoeschele
+differential expression
+intercross
+phenomenon
+coincidental colocalization
+rediscovery
+molecular characterization
+haematopoietic
+threshold
+Coordinated
+availability
+principal
+multipoint
+proportion
+Plasmodium falciparum
+transcriptional modulatory
+Transcript
+Eucalyptus
+permission
+Nevertheless
+Contribution
+lymphotoxin-
+Polymorphisms
+recombinant
+Keightley
+particular importance
+colocalization
+nonrandom association
+architecture
+implication
+Whitehead
+Farrall31
+nucleoplasm
+differential transcription
+heterogeneous organismal
+individual
+laboratory populations
+polymorphic
+indirectness
+interacting
+pleiotropic trans-acting
+Additivity
+identification
+conceptual
+complement
+Swanson-Wagner
+discovery
+available
+sex-dependent
+transcriptional regulation
+Empirical significance
+condition-dependent
+transgressive segregation29
+hypothesis
+Integrated transcriptional
+Methodological
+correspondence
+cis-regulation
+TATA-less
+Steinmetz
+Velculescu
+single-locus inheritance
+microarray technology
+scale-free
+connection
+Individual
+Statistical
+Laboratory
+contribution
+expression
+experimental
+trans-acting regulatory
+polygenic
+Directional
+False-discovery
+dimensional
+adaptation
+subphenotype
+segregants
+Kirkpatrick
+Kendziorski
+progenitor
+co-inheritance
+Gene-by-environment interaction
+corresponding
+sufficient
+quantitative twodimensional
+systematic
+Geographic
+postmodern
+trans-acting transcriptional
+Dissecting
+detection80
+exponential
+S-adenosylmethionine
+non-cell-autonomous
+phenotypic
+transcripts
+pleiotropic
+YKL132C
+prevalence
+microarrays
+formulation
+sample/reference
+Integrative
+Genome-wide
+Correspondence
+Allendorf
+underestimate
+transformative
+difficult
+development
+Hoogendoorn
+comprehensive
+permutation
+appreciable
+distinction
+polymorphism
+Bioinformatic
+segregating population
+gene-by-environment
+Hirschsprung
+coordinate
+explicable
+Similarly
+Subsequent
+alternative
+Molecular
+large-scale
+demographic
+Andjelkovic
+interspecific backcross
+hybridization
+homozygous
+additivity
+Matsuzaki
+Deutschbauer
+Tissue-specific expression
+DATABASES
+task=view
+Evolutionary
+frequency distributions116
+Microarrays
+Molecular Dissection
+individuals
+dimorphic
+accessible
+protein-coding
+classical
+Understanding quantitative
+Arabidopsis
+International
+polymerase loading60
+developmental
+connecting
+gene-mapping
+genotypic
+quantitative PCR49,50,57­59
+Population
+epigenetic
+dissection
+confidence
+analyzing regulation
+comparison
+GENETICS
+dependence
+Altshuler
+Dimensional
+Saccharomyces
+mathematical
+haplotype
+outstanding unresolved
+Advancement
+Identification
+false-positive
+clustering
+additional
+Interchromosomal
+transcript
+Approaches
+Cis-acting
+Vogelstein
+underexplored114
+synthesis
+expression phenotypes
+mechanistic
+sex-specific nonadditivity
+allele-specific expression
+segregation
+Following
+Quantitative
+regulation107,108
+considerable
+Pontecorvo
+Recombinant
+Interpretation
+cis-acting polymorphisms
+Zuckerkandl
+distribution
+particular pleiotropic
+Publishing
+phylogenetic
+families18
+exogenous
+quantification
+Evolutionary developmental
+chromosome
+archetypal trans-acting
+Vuylsteke
+Drosophila melanogaster
+conclusion
+directional genetics29
+inducibility109
+structure
+neighbouring
+resolution

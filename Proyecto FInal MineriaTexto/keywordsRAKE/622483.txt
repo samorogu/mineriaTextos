@@ -1,0 +1,1345 @@
+stochastic model
+protein gfp lacy laci event burst decay burst decay burst decay reaction
+national science foundation faculty early career development grant phy-0094181
+national science foundation graduate research fellowships
+1 2
+
+nlacy ngfp nlacl blacy bgfp blacl
+
+--
+low-noise events involving high molecule numbers
+predict dynamic distributions reflecting noise-induced behavior
+harvard university graduate biophysics program
+biological systems correctly capture system dynamics
+faithfully predict experimental dynamic population distributions
+faithfully predicting dynamic population distributions
+black arrows denote protein production
+dy dt 1
+
+tmg x2 x2
+gene networks systems biology
+
+ne
+uninduced gfp levels slowly decays
+faithfully predict steady-state population distributions
+predicting stochastic gene expression dynamics
+escherichia coli lactose uptake network
+dg dt
+
+1
+
+x2 x2
+prior pioneering studies aimed
+respective lowercase concentrations scaled
+theoretical predictions change quantitatively
+exponentially distributed random integer
+populations display stochastic switching behavior
+functional gat repressor protein
+switching event depends
+provide interesting quantitative information
+theoretical monostable­ bistable boundaries
+model explicit molecular events
+06 0 min 216 min 790 proteins 790 proteins 50 proteins 34
+low concentrations makes extraction
+single cell behaviors deviate
+decreasing gfp levels yields
+connect dynamic cellular behavior
+stable steady states separated
+gat repressor binding site
+health grant gm068957
+incorporates relevant network components
+stochastic model correctly predicts
+produce lacy molecules faster
+stochastic model reproduces ballistic
+steady state noise properties
+full dynamic distributions measured
+examine steady state distributions
+dynamic stochastic model
+parameter
+previously obtained parameter estimates
+alexander van oudenaarden*§
+*department
+intrinsic noise terms y-int
+intrinsic noise level y-int
+experimentally measure population distributions
+steady state protein numbers
+tmg binding decouples laci
+single stable steady state
+recently undergone cell division
+intracellular tmg molecules bind
+cells cease gfp production
+laci represses lacy transcription
+fluorescent reporter gfp integrated
+gat promoter reports activity
+noise-induced population heterogeneity
+exponential decay
+harvard medical school
+decay time
+dilution time scale due
+biological systems leads
+intermediate unstable steady state
+describe dynamic network behavior
+discrete molecular events
+predicting stochastic dynamics
+reaction rates
+fully induced population decrease
+affect decay
+ignore specific events
+burst size measurements
+single cell gfp fluorescence
+setting error bars equal
+mrna burst sizes
+single extracellular inducer concentration
+transmembrane protein involved
+org cgi doi 10
+step includes characterization
+direct biochemical assays
+accurately describes distributions
+predicted distributions proved
+fluorescent reporter systems
+stochastic modeling techniques
+dynamic population distributions
+shaded bistable region
+steady-state protein levels
+camp receptor protein
+lactose utilization network
+lactose uptake network
+upper dark line
+large cell-tocell variability
+laci repression based
+predicted population distributions
+discrete molecule numbers
+dynamic stochastic model
+subsequent protein creation
+studying cellular memory
+stochastic cellular dynamics
+natural endogenous network
+modeled stochastic effects
+inherent stochastic effects
+gene regulatory networks
+absolute protein numbers
+simulate large populations
+understand single-cell behavior
+red solid lines
+fractional asymmetry introduced
+measure population distributions
+coli strains lack
+single parameter analytically
+including high levels
+dynamic distributions requires
+repression factor representing
+absolute molecule numbers
+reach steady state
+maximally produce lacy
+lower dark line
+low steady states
+red fluorescent protein
+positive feedback loop
+expression reporters measured
+ballistic versus stochastic
+analytical stochastic models
+calculating propagated errors
+long time limit
+significant cell-to-cell variability
+predictions traditionally stem
+slightly higher quantities
+translation effectively amplifies
+shorter time intervals
+1 -- source ref
+transmission depends greatly
+tmg collectively switch
+coli cells displays
+missing noise parameter
+dynamic deterministic model
+illustrates stochastic transitions
+rfp reporter generates
+individual protein molecules
+represents passive uptake
+stochastic simulation algorithm
+single cells
+jerome
+steady state measurements
+8 proteins 5 proteins error 16 15% 34
+stochastic burst
+full deterministic model
+maximal production rate
+reporter fluorescence values
+sufficiently detailed set
+longer changing quickly
+cells randomly leave
+passive tmg uptake
+measure gfp levels
+unstable steady state
+tmg inhibits laci
+crp activation region
+red lines represent
+rfp expression levels
+uninduced fixed point
+pnas web site
+correlated extrinsic noise
+deterministic models supplemented
+inherently stochastic nature
+cell division vary
+tmg-transporting lacy molecules
+major noise sources
+bistable behavior observed
+stochastic simulation captures
+burst sizes
+population survival rate
+effective noise network
+longer affects gfp
+extracellular tmg ranging
+values remain constant
+gfp fluorescence levels
+relevant information difficult
+crossed square represents
+effectively causing cells
+average network behavior
+extrinsic noise levels
+biological systems
+relevant noise sources
+present laci tetramers
+average gfp levels
+model intrinsic noise
+intrinsic noise term
+similar noise characteristics
+intensity fluctuations introduced
+fully uninduced cells
+fully induced cell
+burst size
+systems biology
+represent intracellular concentrations
+deterministic differential equations
+national academy
+national institutes
+important stochastic factors
+rfp fluorescence levels
+fully induced cells
+noise measurements [ g-total
+intrinsic 2 2 2 gfp noise
+intracellular tmg concentration
+demonstrating average behavior
+noise values measured
+fully capture
+intracellular tmg due
+individual cells grown
+uninduced cells grown
+mrna production rate
+total gfp noise
+ratio nlacy blacy
+intermediate tmg concentration
+noise ratio combined
+correctly predicts
+individual cells behave
+initial tmg concentration
+individual model parameters
+escherichia coli
+3b shows simulations
+induced cells grown
+active degradation rate
+estimated average time
+dilution rate due
+additional fit parameters
+systems level
+protein numbers
+stochastic switching
+protein levels
+experimentally examine
+dynamic behavior
+gat promoter
+population distributions
+cellular dynamics
+protein level
+experimental distributions
+random creation
+longer stable
+protein production
+stochastic dynamics
+predict distributions
+stochastic effects
+gene networks
+gene expression
+intermediate distributions
+low levels
+feedback loop
+steady-state behavior
+steady states
+fluorescent levels
+stochastic measurements
+red bars
+stochastic behavior
+laci numbers
+protein molecules
+destruction events
+lac repressor
+essential events
+stochastic model
+protein concentrations
+high levels
+dx dt
+active uptake
+dynamic responses
+steady state
+large effects
+stable state
+average obtained
+experimental dynamics
+stochastic models
+parameter error
+fluorescent molecules
+metabolic networks
+presteadystate distributions
+longer affects
+faithful reporter
+dynamic data
+low concentrations
+activator site
+steady-state solutions
+stochastic component
+ballistic switching
+experimental error
+g-int g-total global
+protein degradation
+laci tetramers
+lacy expression
+network behavior
+populations induced
+parameter values
+molecule counts
+integrated experimental
+fully uninduced
+boston university
+total laci
+noise parameter
+extrinsic components
+measured experimentally
+single ``ballistic
+vertical arrows
+fluorescent counts
+positive interactions
+positive connection
+population average
+lacy molecule
+rfp distributions
+induced population
+intermediate concentrations
+gfp proteins
+published estimates
+uninduced states
+increased levels
+passive ``leak
+camp binds
+dashed line
+burst
+single cells
+noise network
+laci component
+laci represents
+laci back
+inactivated laci
+proteins influenced
+fully induced
+switching transitions
+noise measurements
+intermediate concentration
+uniform population
+population morphing
+single mrna
+& van oudenaarden
+rate constant
+survival rate
+deterministic model
+intracellular environment
+ballistic behavior
+average behavior
+production rate
+intrinsic noise
+results provide
+induction level
+randomly partitioned
+epigenetic memory
+simplified greatly
+magnitude exponentially
+weak source
+monte-carlo algorithm
+fully activating
+effective inactivation
+full set
+strains analyzed
+experimental section
+uninduced state
+initial state
+entire network
+stochastic fluctuations
+gene encoding
+ngfp 790 210 molecules
+fluorescence due
+observed behavior
+general behavior
+extracellular concentration
+mrna production
+gfp molecules
+total noise
+intracellular tmg
+gfp fluorescence
+rfp levels
+blue arrows
+reduced model
+model consists
+predictive model
+model predictions
+uninduced cells
+individual cells
+original states
+cells remain
+previous studies
+lacy production
+gfp concentrations
+molecules decreases
+average cell
+rfp proteins
+fluorescence counts
+extrinsic noise
+induced cell
+stochastic response
+deterministic models
+supporting information
+ngfp bgfp
+induced state
+noise models
+multiplicative factor
+active fraction
+factor accounts
+conversion factor
+required ratio
+experimental data
+blacy bgfp
+gfp noise
+instantaneous values
+assign values
+choose values
+nlacy ngfp
+production rates
+simulations predict
+monte-carlo simulation
+simulation purposes
+cell generations
+cell divisions
+nlacy blacy
+daughter cell
+cell division
+cell moves
+lacy molecules
+noise sources
+expect noise
+inducer concentration
+absolute number
+final state
+previous state
+cells grown
+additional parameters
+proteins produced
+measured explicitly
+measured directly
+induced cells
+lac promoter
+lower peak
+previous models
+comprehensive models
+population distribution
+regulating gfp
+rate constants
+i3i 1 rate
+basal rate
+extracellular tmg
+wild-type k12
+helpful discussions
+negative connections
+approximation leaves
+calibration tool
+central goals
+subsequently grow
+heavily influenced
+daughter cells
+room 13-2008
+interest statement
+cells resuspended
+capital variables
+microscopic detail
+roughly equivalent
+suzanne komili
+cultures resuspended
+experimental results
+lac operon
+subsequently resuspended
+small signal
+general applicability
+contributed equally
+fully defined
+cells turning
+operator sites
+conflicts declared
+make predictions
+reveal transient
+massachusetts institute
+current understanding
+avano@mit
+small fraction
+77 massachusetts avenue
+standard deviation
+bacterial persistence
+approved march 19
+induction history
+rna polymerase
+negative interactions
+cells occupy
+microscopic approaches
+review november 14
+good agreement
+eter variation
+dale muzzey*
+ultimately triggers
+fruitful discussions
+increasing nonlinearity
+external stimuli
+cells begins
+extended periods
+history resuspended
+prepare cells
+submitted directly
+predictive power
+propagated directly
+equilibrate eq
+greater detail
+highly inactivated
+upstream regulators
+technical assistance
+environmental stress
+tmg concentration
+gfp mrna
+individual parameters
+rare production
+term global
+uninduced peak
+tmg models
+published values
+lacy creates
+lacy transcription
+lacy transcripconflict
+cell growth
+model matches
+noise diagram
+tmg denotes
+noise parameters
+induced-touninduced transitions
+1 x2
+lacy mrna
+global noise
+deterministic equations
+mrna degradation
+transcription rates
+macroscopic rates
+3a shows
+important features
+escape rates
+total
+
+g2
+comparing rfp
+wide range
+combined
+7306 www
+modified gillespie
+relation stems
+relation n2
+weak correlation
+slight correlation
+35 43 210 210 -- 10
+parameters required
+undetermined parameters
+fluctuations due
+average number
+rfp mrna
+2 global exp
+peak decreases
+blue curve
+equations describing
+rate identical
+ballistic transition
+cell biol
+noise generated
+han lim
+track ii
+equilibrium distribution
+computational approach
+000 simulated cells
+examining correlations
+stochasticity characteristic
+binomial distribution
+gray boxes
+integrating eqs
+inducer thiomethylgalactoside
+subpopulation switches
+tmg independent
+fit parameters
+activator crp
+lacy fluctuations
+test predictions
+monte-carlo method
+pnas office
+attila becskei
+12 ``monte-carlo hours
+3b
+pnas
+1/2 division
+tmg maintain
+previous study
+19 7305
+
+biophysics
+
+fig
+dynamic
+careful measurement
+rapid loss
+fresh media
+preparation media
+mukund thattai
+tmg transition
+present work
+ma 02115 edited
+lacy increases
+study ref
+lacy
+mettetal
+protein
+independent experiments
+magnitude dependent
+plasmid number
+display
+distributions
+stochastic
+diagram indicating
+data shown
+molecule
+response depending
+coli
+usa
+
+www
+populations
+measure
+relevant
+bistable
+numbers
+levels
+system
+single
+science 297
+parameter
+science 304
+science 309
+science 307
+science 305
+laci
+8 proteins 34
+proteins
+0 min
+high
+10­20 min
+1 min
+population
+feedback
+dynamics
+case shown
+activity
+terms
+recently
+binding
+department
+decrease
+previously
+monostable
+production
+network
+predict
+gene
+measurements
+error
+behavior
+red
+model
+studies
+states
+introduced
+uninduced
+integrated
+depends
+predicts
+intrinsic
+molecules
+fluorescence
+concentrations
+ratio
+19
+
+7309
+
+biophysics
+unstable
+19 7307
+
+biophysics
+values
+simulation
+cell
+noise
+concentration
+state
+bgfp 1 2
+grown
+bgfp
+bgfp 35
+extrinsic
+ballistic
+average
+ngfp
+due
+measured
+induced
+promoter
+blacy
+12 nlacy
+nlacy
+blacy 1 2
+models
+rate
+gfp
+represent
+division
+3b
+reports
+predictions
+demonstrating
+setting
+represents
+higher
+square
+factors
+inducer
+requires
+000 cells
+translation
+observed
+transcription
+causing
+significant
+propagated
+point
+quickly
+combined
+estimated
+present
+difficult
+captures
+sources
+behave
+cells
+1
+cells
+g-total
+time
+mrna
+lacy
+degradation
+fit
+dilution
+tmg
+28 ref
+transitions
+data
+rates
+describe
+equal
+simulations
+important
+rfp
+published
+diagram
+gillespie
+correlation
+relation
+growth
+independent
+range
+similar
+7308 www
+parameters
+global
+blue
+2 global
+peak
+equations
+results
+affect
+subpopulation
+produced
+distribution
+maintain
+thiomethylgalactoside
+magnitude
+number
+eqs
+lim
+plasmid
+correlations
+depending
+simulated
+dependent
+gray
+set
+approach
+2
+
+g2
+ii
+matches
+identical
+rare
+characteristic
+fluctuations
+defined
+crp
+transition
+becskei
+2 hours
+method
+hours
+1/2
+response
+boston
+experiments
+case
+1073 pnas
+7304 ­7309 pnas
+increases
+pnas
+biol
+test
+generated
+study
+nature 435
+nature 420
+nature 422
+g-int
+nature 437
+nature 427
+indicating
+0509874103
+
+loss
+3a
+media
+measurement
+loss
+thattai
+ma
+work
+mettetal*
+mettetal
+ma 02139
+shown
+usa 43
+usa 99
+usa 59
+usa 98
+usa 97
+usa 102
+usa 100
+fig
+0509874103
+
+fig
+sci
+forget
+young
+& sayler
+contributions
+calculate
+e-mail
+technique
+removal
+finally
+matlab
+include
+preserved
+activated
+phenotypes
+blake
+nlaci 50
+pedraza*
+difference
+endy
+table 2
+table 1
+applicable
+& swain
+measuring
+kowalik
+& siggia
+consistent
+prediction
+initialized
+maloney
+chait
+& leibler
+expressed
+shared
+learned
+guet
+emonet
+contrast
+& gilbert
+genet
+composed
+represented
+interpret
+implementation
+accomplished
+materials
+compare
+addressed
+gordon
+pan
+levine
+dna
+proceed
+abbreviations
+ozbudak
+generate
+process
+sample
+timing
+chem
+relations
+2
+kurtser
+& keasling
+degrade
+merrin
+discreteness
+cases
+iii
+circumstances
+augment
+strain
+n1/2
+growing
+proof
+control
+rosenfeld
+magnitudes
+share
+chin
+conversely
+& brent
+eng
+discussion
+& rotman
+gatr
+occur
+bacteriol
+proc
+contribute
+fed
+shea
+& cluzel
+parallel
+types
+varied
+elowitz
+hasty
+gladney
+green
+nancy
+noteworthy
+move
+stability
+paper
+monitor
+treat
+drs
+absence
+differently
+correspondence
+raser
+combination
+processes
+introduce
+units
+1b
+0509874103
+
+table 2
+association
+advent
+2d
+transmitted
+2a
+2b
+found
+chung
+generation
+elston
+calibrate
+combining
+alon
+extract
+fundamentally
+increase
+correct
+drifting
+possibility
+drives
+complicated
+estimate
+pedraza
+reflect
+kaufmann
+] [nlaci
+widths
+& elowitz
+times
+thiberge
+derivations
+pradines
+grossman
+probability
+crapo
+smaller
+approximately
+type
+& mcadams
+leading
+histograms
+construct
+1a
+1c
+miller
+summarized
+giving 0
+continuous
+transferred
+limiting
+determined
+biotechnol
+ertugrul
+tion
+generality
+kepler
+demonstration
+rao
+multistability
+sciences
+fitting
+transcribed
+build
+acquire
+swain
+unmeasured
+pairs
+& elston
+principle
+physics
+fact
+minimal
+incorporate
+show
+willard
+supported
+& lengeler
+find
+impact
+explain
+ærn
+methods
+liu
+harlepp
+showed
+tmg-bound
+shape
+remove
+summary
+investigate
+i-int
+yildirim
+fail
+precision
+& weiner
+kussell
+blaci
+ability
+initially
+paulsson
+distinguish
+received
+improved
+cox
+attributed
+g3g 1
+propagation
+resuspension
+ribosomes
+details
+addition
+create
+genetic
+imports
+expected
+sufficient
+al
+orange
+efflux
+cantor
+applied
+extracted
+siggia
+le
+& collins
+ross
+characterize
+serra
+technology
+juan
+natl
+effect
+hysteresis
+strength
+robust
+vilar
+scenario
+& mackey
+analysis
+& stephanopoulos
+2006 vol
+solve
+muller-hill
+inducers
+2c
+y3y 1
+immediately
+brackets
+dissociation
+instance
+kaern
+resnekov
+potential
+relevance
+matched
+euler
+rev
+indicative
+mol
+dr
+gr
+colman-lerner
+lost
+kishony
+prog
+repressed
+acad
+sensitive
+calculated
+export
+acar
+blaci 5
+on-to-
+genetics 149
+ozbudak*
+purple
+demonstrated
+kopell
+& weiss
+wong
+pesce
+comparison
+off-to-
+meaning
+wolf
+characterized
+lacked
+cambridge
+hooshangi
+biophys
+dolnik
+determine
+& arkin
+proportional
+analyze
+synthesis
+function
+washed
+complete
+parammettetal
+reduce
+productions
+shraiman
+genetics 169
+dittmar
+robustness
+natick
+nobelmann
+isaacs
+moved
+r-int
+constructed
+novick
+2006
+
+vol
+mathworks
+generally
+arkin
+valid
+genome
+nat
+separate
+additionally
+& olson
+balaban
+independently
+assume
+phys
+observe
+4b
+simpson
+4a
+© 2006
+1996
+1965­1969
+274
+1633­1648
+]} 1
+1962­1965
+103
+100
+28­31
+33
+30
+37
+34
+0
+6
+8614­8619
+1 10
+10­21
+1999
+1998
+471­476
+1
+100 0
+7714­7719
+2010­2013
+25
+26
+27
+20
+§
+28
+1183­1186
+3
+1957
+451­464
+84
+7
+415­418
+[3]
+1997
+22
+1807­1814
+3 9
+9160­9164
+2
+14 0
+1973
+11
+22­24
+12
+15
+14
+17
+16
+19
+18
+937­944
+2340­2361
+1968
+22977­22984
+73
+]
+1509­1521
+161
+8
+10
+13
+123
+553­566
+178
+25 0
+1622­1625
+03
+06
+04
+231­237
+[2]
+2
+
+[4]
+24
+21
+02
+6790­6795
+29
+2841­2851
+2075­2080
+633­637
+737­740
+32
+12795­12800
+31
+35
+9
+228­232
+69­73
+6 170 0
+000 ­ 6
+4
+51
+50
+[1]
+4551­4556
+77­91
+1259­1264
+&
+1 2
+3116­3136
+1811­1814
+1­3
+{[
+[5]
+``
+1977
+132­143
+81
+23
+2000
+5
+2001
+21 0
+699­706
+3581­3586
+2002
+2003
+2006
+2004
+2005

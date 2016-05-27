@@ -1,0 +1,295 @@
+non-core
+explicit asymptotic
+selection
+phenomenon
+Sprinzak
+Similarly
+three-dimensional structure
+Güldener
+desirable
+Research
+experiments
+frequency
+following assumption
+Margalit
+consecutive superfamily
+re-calculating
+Molecular
+insertion­deletion mismatch
+homology
+concatenating
+probability
+shuffling
+Assignment
+`training
+data-simulation
+proportion
+Integrative approach
+interested
+condition
+conditional probability
+sophisticated simulation
+correspondence
+`building
+individual interactions
+affected
+Puntervoll
+advantage
+Secondly
+potential domain­domain
+different experimental
+Correlated sequence-signatures
+Structure-based assembly
+possible
+Analysis
+observational uncertainty
+likelihood maximization
+Università
+rigorous alternative
+Brookhaven
+difference
+bringing
+Experimental
+structural
+well-known
+superfamily
+necessary
+Münsterkoetter
+`non-core
+outperform
+predictive approach
+composition
+consensus
+assignments
+particular superfamily
+Superfamilies
+predicted
+quaternary
+biological
+different prediction
+accuracy
+Hochberg
+permutation
+successful
+predictive
+domain­domain interactions
+implicit assumptions
+functional
+three-dimensional
+imposing
+Estimates
+Teichmann3
+p-values
+two-hybrid analysis
+simulation technique
+threshold
+facility
+individual
+superfamilies
+comprehensive two-hybrid
+eliminating
+combining
+rigorous
+assumption
+category
+Inferring domain­domain
+practical
+different potential
+sequences
+explicit information
+statistical association
+two-hybrid experiments
+interacting
+Biological evidence
+INTRODUCTION
+Informatica
+different implicit
+Morgenstern
+investigation
+erroneous predictions
+structural information
+Costantini
+approach
+complement
+discovery
+protein­protein
+dimerization
+Interaction
+hypothesis
+protein­protein interactions
+identifier
+University
+confidence
+possibility
+standard
+Seventy-three
+difficulty
+eukaryotic
+homologous
+three-domain
+Published
+Teichmann
+binomial distribution
+Mattingsdal
+likelihood
+Interrogating
+motivation
+analysing
+comparison
+simplifying assumption
+interaction
+Prediction
+enzymatic
+Biostatistics
+September
+uncertainty
+protein­protein interaction
+simulation
+multi-domain
+throughput
+Statistical analysis
+suggestion
+incompleteness
+Laboratory
+rigorous statistical
+expression
+DISCUSSION
+crystallographic
+structural prediction
+consecutive superfamilies
+computational
+schematic representation
+classification
+large-scale
+Mannhaupt
+Thornton
+physical interactions
+Predictions
+over-represented
+approximate
+domain­domain
+regulatory
+extracting structural
+superfamily interactions
+archaeal
+statistical approach
+Sprinzak-score
+Superti-Furga
+Shuffling
+different possible
+Assembly
+publication
+Ausiello
+structural prespective
+Predicting
+available
+predictions
+Quaternary Structure
+three-dimensional conformation
+replicate
+Bioinformatics
+`Sprinzak-score
+Controlling
+themselves
+structures
+Dipartimento
+transient interactions
+large-scale interaction
+Frishman
+Bottcher
+N-terminal
+domain-level structure
+mismatch
+Assigning p-values
+repertoire
+Cambridge
+assignment procedure
+representative
+Benjamini
+constituent
+two-hybrid technique
+eubacterial
+considerable
+Yamanaka
+abundance
+single-base
+evolution
+predicted domain­domain
+Deng-score
+ancestral
+quaternary structure
+superfamily assignment
+alternative approach
+Comparative assessment
+Ceulemans
+satisfying conditions
+following
+distribution
+different superfamily
+procedure
+single-domain
+identical
+addressing
+specific cellular
+ORIGINAL
+correction
+statistic
+influence
+one-third
+evidence
+conserved
+assumptions
+diverged
+Schematic
+structural classification
+present-day
+Domain­domain
+functions
+strength
+combination
+statistical inference
+simulating
+complexity
+Understanding
+majority
+methodology
+potential
+possible interactions
+adjacent
+significance
+predictions condition
+Throughout
+ABSTRACT Motivation
+Sistemistica
+Structural
+classifying
+SUPERFAMILY
+literature
+Protein­protein interaction
+simulated
+satisfying condition
+collection
+|I|/|P|
+complexes
+important
+significant
+insufficient
+possible superfamily
+statistical prediction
+meaningful
+comprehensive analysis
+shuffled
+algorithm
+database
+powerful approach
+correspond
+`Deng-score
+REFERENCES
+throughput approach
+elucidating
+Chabanis-Davidson
+re-assign
+largescale interaction
+original
+Brannetti
+Predicted

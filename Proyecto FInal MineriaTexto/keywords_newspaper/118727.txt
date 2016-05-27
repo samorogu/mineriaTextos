@@ -1,0 +1,13 @@
+web
+mfe
+sequence
+118727txt
+rna
+prediction
+server
+master
+sequences
+samorogu
+structures
+structure
+secondary

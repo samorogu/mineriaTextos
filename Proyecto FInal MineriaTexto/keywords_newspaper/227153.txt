@@ -1,0 +1,13 @@
+contigs
+sequenced
+227153txt
+sequence
+clone
+sequencing
+master
+genome
+human
+draft
+clones
+samorogu
+data

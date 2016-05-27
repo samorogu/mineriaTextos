@@ -1,0 +1,340 @@
+well-characterized Gal4p-binding
+represent
+Conversion
+Sequence-tagged
+YMR318C
+background
+multidimensional chromatography
+Steinhauser
+Protein-DNA interactions
+detection
+summarized
+Wingender
+resistance
+Purkinje
+Hawthorne
+drug-resistance
+GAL1-10-7
+statistical
+ribosomal
+morphology
+particular perturbation
+Integrated
+D6Rik61
+Graphical
+catabolism
+follow-up perturbations
+knowledge
+Zlatanova
+functional
+Goodlett,1
+galactose utilization
+technique
+proportion
+infection
+rightmost
+distinguishing
+affinity
+association
+-permeable
+org/VERAandSAM/
+DNA-binding
+derivative
+Beckman,1
+centromere
+Kruglyak
+Blattenberger,1
+correspondence
+perforin-containing cytolytic
+systematic perturbations
+two-hybrid
+­containing transmembrane
+galactose-utilization
+selective
+permission
+dependent
+Alternatively
+activation
+morphological
+haplotype
+understanding biological
+biochemical
+Dubbelde,1
+Informatics
+Conversely
+gluconeogenic
+cellular
+Cellular
+metabolite
+GeneCluster application
+supplementary information
+ribosomal-protein
+sporulation
+necessary
+maximum-likelihood estimation
+transmission
+Microarrays
+qualitative
+plaque-forming
+Washington
+pathwayspecific
+informative
+supplement
+fluorescent intensity
+Systematically Perturbed
+Sadowski
+Wild-type
+biological
+Ashburner
+accumulation
+build-up
+replacement
+interferon-
+transcription-factor
+Heinemann
+Perturbation
+physical-interaction
+reference
+metabolic
+Christmas,1
+Proudfoot
+Yokoyama1
+Resistance
+regulatory interaction
+Integrate
+activation receptors
+Department
+combining
+Platform
+assumption
+protein-DNA
+transport
+C57BL/6
+Geometric Computing
+capillary-liquid-chromatography
+Schwikowski
+interacting
+operation
+immunoreceptor tyrosine-based
+D6Mit370
+powerful technology
+innervation
+Felsenstein
+single-deletion
+integrative
+expressed
+significant expression
+repression
+Biological Processes
+experiment
+messenger
+proof-of-principle
+respectively
+suggesting
+Burnashev
+Cladistics
+Chaudhry
+particular Biological
+Activation
+available
+higher-than-expected
+McLaughlin
+Heusel,1
+interactions
+Ranish,1,2
+SCIENCE
+University
+component
+hierarchical-clustering
+Departments
+agreement
+hypothesis-driven
+approaches
+Martegani
+hypothesis
+invaluable
+regulatory
+recurrent
+metabolite accumulation
+Computational
+Scalzo,3
+enzymatic
+progenitor
+self-organizing
+chromosomal interactions
+epimerase
+intracellular galactose
+D6Rik59
+important
+TRANSFAC
+detrimental
+published
+Alternative
+expression
+Protein-protein interactions
+repressor
+metabolize galactose
+Aitchison
+Ultimately
+digestion
+GAL-enzyme expression
+Integrated physical-interaction
+Copyright
+large-scale
+large-scale comparison
+explicit physical
+physical interactions
+lymphocytic
+Advancement
+magnitude
+Schnitzer
+proteinprotein
+Accordingly
+involvement
+I­specific
+wild-type
+detectable
+similarity
+3Computer
+cellular perturbation
+perturbation
+temperature
+regulatory mechanism
+trademark
+Infection
+translation
+established Gal4p-binding
+Downloaded
+regulation
+perturbations
+replicate
+Bioinformatics
+Wieczorke
+environmental perturbation
+Ontology
+Nucleotide
+Buhler,3
+Association
+synthesis
+protein-protein
+glutamatergic
+Although
+deficiency
+expression-level
+inflammatory
+D6Mit198
+susceptibility
+histocompatibility
+Roosevelt
+environmental
+construction
+Neighbor
+regulatory phenomena
+pathogens
+different perturbations
+Expression
+C57BL/6-infected
+production
+largescale
+abundance
+corresponding mRNA-expression
+tyrosine-based activation
+responding
+replication
+Formulate
+integrating
+supp_info/nbt1200_1257/
+Quantitative evaluation
+protein-protein interaction
+transcriptional interference
+metabolism
+Supplementary
+individual
+ITAM-coupled
+Beinhauer
+regulatory interactions
+interaction
+following
+demonstrate
+spectrometry
+loxP-kanR-loxP
+Consistent
+Information
+transcriptional
+Aebersold,1,2
+indicated
+measurement
+Surrounding
+differential comparison
+glucose-6-phosphate
+schematic
+galactose induction
+integrated approach
+2Molecular Biotechnology
+corresponding
+likelihood statistic
+GALinducing
+chromosome
+physical
+widespread expression
+information
+conversion
+respiration
+binding-site prediction
+rearranged
+Changeux
+Extensive biochemical
+galactokinase
+monomeric
+responsible
+coexpression
+indistinguishable
+mechanism
+preventing
+microarray
+Chromosomal
+potential
+protein-expression
+Cambridge
+4Microbiology
+Proteomic
+importance
+protein-protein interactions
+immunity
+experimental approaches
+-impermeable receptors
+nonspecific
+Institute
+comprehensive
+protein-abundance
+polySULFOETHYL
+HighWire
+NKC-linked
+MatInspector
+significant
+molecular interactions
+identical
+transporter
+horizontal
+nucleotide
+inhibitory
+cytotoxicity
+additional perturbation
+comparing gene-expression
+observation
+Euclidean
+high-resolution
+Perturbed Metabolic
+overnight
+cytomegalovirus
+recombination
+biochemistry
+raffinose
+Involvement
+Bumgarner,4
+transcription
+Combinatorial
+quantitative
+cation-exchange-chromatography
+assistance
+uridylyltransferase

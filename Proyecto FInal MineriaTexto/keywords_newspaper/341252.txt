@@ -1,0 +1,13 @@
+g
+j
+341252txt
+prior
+r
+master
+rotamers
+rl
+samorogu
+distribution
+data
+protein
+rotamer

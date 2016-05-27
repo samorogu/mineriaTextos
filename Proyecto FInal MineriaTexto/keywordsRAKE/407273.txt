@@ -1,0 +1,1392 @@
+free open source software package named pointillist
+small noise level produce high absolute ti values
+free open source software package
+receiver operating characteristic graph showing
+generated simulated data mimicking real high-throughput data
+0508647102
+
+smooth parametric decision boundaries derived
+handle multiple data sets differing
+software package named pointillist
+reveal direct protein­dna interactions
+receiver operating characteristic graphs
+observed density slowly increases relative
+reinforcing bona fide observations
+standard normal cumulative density function
+data integration methods typically divide
+improved threshold significance level selection
+favoring high abundance species
+nodes represent biomolecular species
+imply direct physical interactions
+separates uniformly distributed data elements
+method selects significant data elements
+remove random errors completely
+labeling-based mass spectrometry approaches
+monte carlo generated h0 distributions
+smooth parametric decision boundaries
+globally interrogate biological systems
+plotting multiple data sets
+multiple data sets difficult
+avoid potential local minima
+continuous valued data acquired
+specific assumptions hold true
+move individual data elements
+favor widely studied proteins
+methods select truepositive data elements
+mg methods favor data elements
+noise level inversely related
+significance level [compare u1
+remove putative false-positive elements
+multiple data sets generated
+multiple data types offers
+candidate true-positive data elements
+true-positive data elements cluster
+48
+
+17301
+
+applied biological sciences
+
+conclusions
+applied biological sciences
+
+permits
+make data integration nontrivial
+method produce comparable accuracy
+iteration procedure correctly captures
+reduce false-positive errors based
+curated exemplar data set
+chromatin immunoprecipitation chip data
+union method depends crucially
+differences make network reconstruction
+p2 values correspondingly closer
+fully verified data sets
+smallest false-positive error rate
+remaining data elements tend
+true-positive data elements tend
+producing asymmetric decision boundaries
+putative background data elements
+count selected data elements
+h0 pdfs meet [marked
+large cumulative density ratio
+integrate global data sets
+additional integration methods widely
+methods
+simulated data sets
+complement data set cc
+weighted integration method produces
+method mixture distribution models
+dashed blue curve shows
+np integration methods outperform
+curated training data set
+monte carlo sampling
+monte carlo simulation
+monte carlo simulations
+systems biology
+daehee hwang*
+555 protein­dna interactions
+produce probabilistic models
+enhanced simulated annealing
+0 enhanced simulated annealing
+technology includes systematic biases
+multiple data sets
+dashed blue lines
+estimate data integration parameters
+inherently high false-positive
+cumulative observed densities
+mrna expression level
+cumulative density function
+real biological data
+pfizer global research
+1441 north 34th street
+bound transcription factors
+gene expression arrays
+isotope-coded affinity tag
+protein abundance measurements
+985 protein­protein interactions
+edges represent interactions
+protein­protein interactions
+simulated data sets
+standard normal distribution
+individual data sets
+developed data integration methods
+decision boundaries arrived
+inherently high falsepositive
+dashed contour lines
+putative true-positive set
+illustrate characteristic features
+combining multiple sets
+indirect logical interactions
+high false-positive rate
+normal random noise
+dashed blue curve
+additional false negatives
+real high-throughput data
+high false-negative rate
+high error rates
+weighted integration statistic values
+mixture distribution models
+data sets generated
+correspondingly colored method
+real experimental data
+provide strong evidence
+cumulative expected density
+complex data sets
+data sets tend
+data sets equally
+4b represent loci
+applied smoothing techniques
+cumulative expected densities
+org cgi doi 10
+data elements measures
+data elements scattered
+exclude data elements
+data elements retained
+true-positive data elements
+48
+
+17297
+
+applied biological sciences
+probability density function
+pedro de atauri*
+mixture distribution modeling
+real data distribution
+real data distributions
+kernel density estimation
+observed data elements
+fewer false negatives
+reducing false negatives
+putative background set
+gene expression levels
+hamid bolouri*
+*institute
+symmetric decision boundary
+decision boundary arrived
+asymmetric decision boundary
+transcriptional regulatory network
+selected elements depends
+curated database information
+eastern point road
+data set 2ln
+potential false negatives
+potential positive elements
+false positives considerably
+false positives automatically
+fewer false positives
+random background elements
+true-positive error rates
+observed data distribution
+small-scale experiments tend
+considered true negatives
+pnas web site
+esa stopping criteria
+de novo predictions
+false positive rate
+real data dcdf
+background data elements
+mixture distribution model
+ti ti riei
+true data elements
+galactose utilization network
+highly abundant proteins
+data set represents
+data set independently
+training data set
+source data
+false-positive reduction method
+affected data elements
+data elements affected
+generate 3 10 30 data sets
+data sets include
+ln pi
+
+2w
+gene perturbation experiments
+heuristic np method
+data integration procedure
+np decision boundary
+mimicking data
+strains cell types
+high sw values
+earlier experimental data [
+data set includes
+union method improves
+mixture distribution method
+resulting network recapitulates
+data integration methods
+final decision boundary
+selected data elements
+data elements selected
+false-negative error rates
+seattle wa 98195 contributed
+significant elements common
+accompanying companion paper
+h1 distributions represent
+data sets integrated
+missing data points
+mm methods outperform
+null hypothesis h0
+data integration weights
+data integration methodology
+h1 distributions meet
+implicit method presented
+selecting elements significant
+np methods highlights
+intersection method i1
+data selection process
+decision boundary calculated
+experimental technologies provide
+scaling factor ri
+standard normal
+integration statistic sw
+significance level 1
+significance level
+resulting decision boundary
+weighted integration statistics
+integration statistic values
+gamma 2 distribution parameters
+weighted integration methods
+computing pj values
+sw values exceed
+generate random numbers
+cumulative density
+minimize false positives
+maximizing statistical power
+statistical power compared
+true positives selected
+simulated data
+intersection methods treat
+ln
+
+pi 1 pi
+experimental technologies measure
+noise level
+truepositive elements
+chromatin immunoprecipitation
+differing depth
+understand cellular behavior
+observed density
+selection threshold corresponds
+wi
+
+max{cdf
+np weighted fisher
+method
+pnas november 29
+handling missing values
+biological data
+decision boundaries
+data generated
+repeat steps ii­
+favor identification
+global data
+false-negative errors
+parametric method
+remaining elements
+true-positive elements
+biological network
+true-positive rate
+reveal relationships
+typically perturbs
+initial weight vector
+random noise
+highly asymmetric
+integrate data
+data sets
+18 data sets
+``mixture model
+mixture model
+data elements
+de atauri
+data integration
+nonsmooth-decision boundaries
+artificially generated
+protein molecule
+significance threshold
+experimental data
+expected density
+high-throughput experiments
+false negatives
+lower level
+galactose utilization
+fully realize
+verified experimentally
+scaling factor
+blue line
+null hypothesis
+significant elements
+background elements
+false-positive rate
+decision boundary
+random signs
+integration statistic
+systematic biases
+cc meet
+missing data
+data set 1
+data set 2
+data set
+safety sciences
+false positives
+chip assays
+objective function
+small-scale experiments
+network model
+true positive
+true negatives
+training set
+ratio versus
+affected elements
+elements affected
+data characteristics
+data analysis
+three-dimensional data
+demanding data
+data element
+merge data
+considerable data
+spatiotemporal interactions
+false-negative rates
+uniformly distributed
+distributed uniformly
+curated databases
+technology producing
+elements moved
+discourage elements
+pertinent elements
+relative measure
+systems biology
+weighed integration
+integration statistics
+integration achieves
+weighted integration
+small portion
+combining mrna
+contour gradient
+high-throughput technologies
+rapid rate
+transcriptional regulation
+noise characteristics
+cellular process
+cc sets
+systematic differences
+experimental conditions
+gamma distribution
+true positives
+integration method
+gamma distributions
+high-throughput assays
+integration methods
+estimate false-positive
+methods highlights
+methods treat
+error prone
+background control
+network coverage
+selected elements
+elements selected
+vitro measurements
+systematic bias
+black curve
+highthroughput measurements
+red curve
+repeat steps 1­7
+point represents
+true differences
+final set
+ti ri
+noisy data
+np perform
+statistical power
+union approaches
+software 23
+relative importance
+experimental perturbation
+nonuniform distribution
+central distribution
+noncentral distribution
+uniform distribution
+relative performance
+true component
+true negative
+full set
+first-pass set
+np methods]
+final outcome
+total data
+integrating data
+statistical foundations
+classical approaches
+negative differences
+highlight differences
+sets h1
+asymmetrically distributed
+joint-significance threshold
+ystems biology
+union method
+elements chosen
+nonaffected elements
+measurement error
+union methods
+intentionally simplistic
+numerical analysis
+correlation coefficients
+case-by-case basis
+selections based
+squared sum
+lhood@systemsbiology
+wide variety
+san diego
+pertinent characteristics
+metropolis algorithm
+current memberships
+computational predictions
+greatest information
+grid matrix
+major challenge
+right-hand tail
+important imperatives
+green line
+green histogram
+previous section
+distortion problem
+genomics hum
+mudholkar­george
+national academy
+positive infinite
+earlier version
+largely uncorrelated
+4b summarizes
+critical analysis
+homologous proteins
+genome res
+conflicts declared
+15k 12 5k 2
+cf min[
+preceding section
+evaluated numerically
+rna interference
+gray dots
+detailed view
+grid points
+estimates converge
+green crosses
+performs worse
+hbolouri@systemsbiology
+previous figures
+cell proteomics 1
+simply taking
+efficient means
+equal chance
+black line
+weighted sum
+acm trans
+mcgraw­hill
+explicitly dividing
+mm-based estimation
+manner similar
+cofactor associations
+ratio decreases
+gauss-legendre quadrature
+confounding problems
+euclidean distance
+turn affecting
+butterbaugh professorship
+frederick roth
+von mering
+supporting information
+h0 distribution
+sw pdfs
+iteration process
+companion paper
+pnas
+
+november 29
+pnas november 29
+measurement technology
+optimization process
+rejection method
+common method
+weighted method
+method meta-analysis
+weight vector
+methods involve
+methods discussed
+previous methods
+max{cdf
+pi 2ncdf
+np fisher
+data type
+intersection approaches
+highly correlated
+cellular components
+future technologies
+point nearest
+missing values
+allowing selection
+randomly selected
+sophisticated measure
+2b shows
+3b shows
+initial set
+pj exp
+identified independently
+optimization algorithm
+analyses presented
+mg method
+weight representing
+nonoverlapping area
+threshold fisher
+small proportion
+h1 distribution
+simplest set
+rule removes 1%
+adaptive rule
+larger region
+liptak­stouffer
+complementary region
+main difference
+1c compares
+search process
+methods presented
+statistical metaanalysis
+p2 axis
+suitable threshold
+thresholded fisher
+weighted fisher
+weights change
+optimal weights
+recalculated weights
+select weights
+methodology associates
+methodology unambiguously
+repeat step 1
+approaches fc
+opposing demands
+marker shape
+stephen ramsey*
+irregular manner
+1b illustrates
+distinct populations
+two-tailed test
+effective means
+generalized framework
+oxford univ
+performance advantage
+i2 performance
+equal performance
+average performance
+performance degradation
+1c shows
+unweighted fisher
+explicit mm
+produce
+reaches fc
+effective methods
+leroy hood
+leroy hood*
+simple illustrative
+removed iteratively
+combine independent
+calculated weights
+mm method
+4a shows
+h0 measured
+interest statement
+nonlinearly transformed
+methodologies presented
+estimated h0
+real 1
+reliability parameter
+ls method
+ls methods
+attractive sources
+low geometric-
+illustrative examples
+approach focuses
+management science
+increasing number
+quantitative comparison
+generated
+cdf difference
+general purposes
+tend
+make
+widely
+increases
+ideal performance
+integrated range
+si cdf
+observed
+si
+
+cdf
+present
+
+address
+usa
+
+17296 ­17301
+
+www
+limited utility
+sciences
+pointillist
+potential
+ti
+results show
+sets
+data
+interactions
+p1 axis
+elements
+integration
+small
+noise
+assumptions
+related
+training
+continuous
+accuracy
+avoid
+significant
+false-positive
+error
+network
+model
+background
+provide
+producing
+probability
+statistic
+ln
+p2
+curve
+np
+pdfs
+includes
+boundary
+applied
+technology
+2 distribution
+distribution
+distributions
+org
+set
+union
+differences
+approaches
+threshold
+distributed
+affected
+biology
+include
+large
+based
+predictions
+generate
+compare
+information
+earlier
+proteins
+weighted
+estimate
+wa 98103
+maximizing
+combining
+points
+parameters
+common
+wi
+expected
+``weighted
+behavior
+bolouri
+procedure
+seattle
+levels
+compared
+handling
+corresponds
+riei
+select
+statistics
+estimation
+falsepositive
+steps 2
+4b
+method
+methods
+{pi
+pi
+1
+
+1
+
+1
+
+pi
+unweighted
+mg
+point
+cc
+technologies
+selection
+selected
+measure
+perturbation
+iteration
+paper
+shows
+6 shows
+optimization
+developed
+calculated
+assays
+pj 1
+h0
+presented
+databases
+sw
+weight
+intersection
+area
+1073 pnas
+pnas
+resulting
+dcdf
+1 1 dcdf
+difference
+illustrate
+1c
+stouffer
+region
+understand
+measurement
+esa
+selecting
+noisy
+rule
+values
+types
+ri
+integrated
+ri 0
+initial
+fisher
+weights
+methodology
+nonaffected
+present
+search
+oxford
+total
+integrating
+purposes
+numbers
+effective
+si
+chosen
+ideal
+1 estimated
+proteomics
+numbers 1­10
+simplest
+importance
+irregular
+ramsey
+metaanalysis
+measured
+infinite
+suitable
+minimize
+components
+lower
+shape
+1b
+test
+usa 102
+populations
+8 show
+utility
+correlated
+framework
+general
+methodologies
+opposing
+4a
+performance
+h1
+0508647102
+
+hwang
+hwang
+mm
+fc 0
+fc
+cdf
+1 cdf
+limited
+p1
+address
+& hood
+range
+{p1
+decreases
+ls
+hood
+simple
+ii
+range 1
+combine
+removed
+17298
+
+www
+17300 www
+axis
+interest
+transformed
+reliability
+identified
+type
+step 2
+proportion
+sources
+10 examples
+step
+step 5
+low
+examples
+results
+science 298
+science 292
+science 306
+science 302
+approach
+science 240
+number
+comparison
+breadth
+leslie
+sci
+snyder
+existing
+015 determined
+october 5
+0508647102
+
+fig
+localized
+dimensionality
+calculate
+extrapolate
+gerber
+presents
+finally
+48 17299
+
+nonparametric
+division
+risk
+yeast
+distort
+choice
+figs
+application
+beginning
+ref
+table 1
+& azzalini
+weston*
+discrete
+approximately
+dealing
+maximization
+prediction
+fold
+expense
+run
+recalculate
+implemented
+& haussy
+goodlett
+contrast
+satisfy
+rust*
+2005
+
+vol
+degree
+jaakkola
+hildebrand
+genes
+genet
+residual
+understanding
+focused
+nature 417
+observing
+legend
+assures
+study
+commonly
+published
+] run
+makes
+vii
+increased
+young
+addressed
+plot
+handled
+remainder
+abbreviations
+scenarios
+comp
+lowering
+fraenkel
+tested
+cases
+iv
+iii
+insights
+majority
+durdin
+avoiding
+equation
+optimizing
+mol
+regions
+freedom
+arrive
+performed
+arise
+accept
+salter
+times
+occur
+eng
+ct 06340
+fourth
+reject
+divides
+ft
+fw
+siarry
+predicated
+membership
+& bork
+designed
+outline
+assign
+plotted
+definitions
+-threshold
+odom
+nonparametric
+omitting
+satisfies
+& wagner
+jansen
+inclusion
+& olkin
+estimating
+easier
+overcome
+finance
+washington
+practice
+fig
+effects
+half
+yu
+fixed
+edge
+university
+academic
+2a
+siegel§
+biol
+ei
+detect
+simplicity
+scheme
+perspective
+approximated
+irregularities
+maximizes
+shown
+space
+hedges
+quantify
+integrates
+rev
+imperative
+maximized
+issue
+math
+stat
+rinaldi
+confidence
+siegel
+curved
+capture
+base
+york
+initialize
+bowman
+determining
+hyperbolic
+aitchison
+place
+bioinformatics 20
+user
+origin
+groton
+axes
+instances
+directly
+significantly 0
+clarity
+miss
+size
+guess
+thorsson
+categorical
+introduction
+system
+construct
+1a
+john
+insightful
+relationship
+bar-joseph
+intell
+accurately
+rejected
+holds
+bailey
+part
+assay]
+eliminated
+require
+aims
+ranish
+classes
+biotechnol
+corre
+generality
+2005 vol
+& eisenberg
+keller
+demonstration
+swets
+chem
+converges
+note
+text
+t-distribution
+added
+node
+greenbaum
+satisfying
+formulae
+deena
+harbison
+disease
+comprise
+combinations
+pk}
+minimizing
+find
+berthiau
+unable
+rich
+thompson
+emili
+syst
+krogan
+snel
+drawn
+3a
+produced
+salwinski
+fields
+maximize
+guessing
+computed
+wf
+000 genes
+close
+lee
+nesvizhskii
+& gifford
+case
+metabolites
+determined
+progress
+kolker
+scaled [
+multiplied
+terms
+nature
+deliver
+consists
+essentially
+met
+freely
+infinitely
+agree
+unequal
+1
+pdf
+u2
+tradeoff
+sixth
+applicability
+nat
+perpetuating
+oliver
+transformations
+alistair
+int
+combined
+user-
+degrees
+define
+letter
+efficacy
+sufficient
+natl
+precision
+krause
+organelles
+aitchison*
+andrea
+assigning
+69 genes
+mcdf
+reliable
+aebersold
+viii
+situation
+p-
+correspondence
+x-axis
+robert
+determination
+vi
+pressing
+conf
+pruning
+binary
+constrained
+grant
+xenarios
+add
+parts
+split
+limitation
+& lin
+conflict
+development
+calculation
+effect
+moving
+purpose
+bumgarner
+& gerstein
+scenario
+ideker
+gilchrist
+mrowka
+stringent
+kluger
+rest
+gordon
+identify
+summed
+leslie*
+speed
+incurring
+accepted
+cutoff 0
+cornell
+ease
+smith
+fitting
+concerns
+requiring
+& elkan
+simul
+smax
+aspects
+phelps
+evaluate
+galitski
+press
+color
+loss
+sizes
+reduces
+shapes
+acad
+deal
+jennifer
+smith*
+& herzel
+devroye
+error-prone
+patzak
+scale
+confirm
+0 pdf
+e-mail
+compute
+proc
+christmas
+demonstrated
+minimization
+hannett
+illustration
+ratios
+terminated
+greenblatt
+birnbaum
+reduced
+addition
+013 maximizes
+deane
+importantly
+cutoff
+grouped
+accommodate
+determine
+proportional
+mark
+chung
+long
+fraction
+& aebersold
+skewing
+recompute
+buhler
+repeated
+inverse
+applying
+versions
+assoc
+generating
+maximum
+vivo
+demonstrate
+uf
+rust
+defined
+describe
+al
+weston
+reflecting
+moves
+1 fw
+yoo
+ideally
+annu
+amounts
+trials
+priori
+details
+sponding
+draw
+simon
+users
+andrew
+anal
+additionally
+missed
+lead
+assume
+1 w2
+heath
+presenting
+§departments
+biotechnology
+knockouts
+013
+28­36
+0
+559­574
+1337­1342
+© 2005
+1997
+01]
+015
+49
+102
+[
+6
+1971­1973
+99
+1994
+1
+449­453
+1985
+25
+0 1
+20
+025
+1954
+25­2
+7
+797­798
+2
+{1
+11
+10
+13
+12
+14
+17
+16
+19
+18
+447­477
+2001
+1­3
+}
+666
+343­372
+17302­17307
+3
+8
+15
+929­934
+05
+21
+]
+799­804
+689­700
+2005
+9
+135 6
+334
+5383­5392
+640­643
+4
+349­356
+1988
+209­228
+399­403
+053
+1285­1293
+1956
+0002
+48
+5
+5­11
+74
+2002
+2003
+2004

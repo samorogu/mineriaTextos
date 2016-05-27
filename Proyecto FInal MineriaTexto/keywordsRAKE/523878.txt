@@ -1,0 +1,915 @@
+3*
+small rnas play important regulatory roles
+total distinct small rna
+delaware biotechnology institute
+half represented lower abundance small interfering rnas
+form typical pre-mirna hairpin structures
+adapted massively parallel signature sequencing
+library signatures sequenced distinct signatures genome matches 56
+org/cgi/content/full/309/5740/1567/ dc1 som text materials
+inflorescence small rnas matching intergenic regions
+intergenic regions potentially represent mirnas
+genomic regions previously considered featureless
+predicted sirnas matched multiple locations
+clear differential expression recapitulating
+org
+
+science
+
+vol 309
+
+2 september 2005
+
+1567
+
+downloaded
+enhance mirna prediction capability
+considerable small rna activity
+org/cgi/content/full/309/5740/1567 supporting online material
+small rnas matching classes
+perfectly matching signatures reflects
+highly regulated small rnas
+highly expressed genes suggested
+specialscience
+
+ized cell types
+model plant arabidopsis thaliana
+quantify small rna abundances
+produce numerous small rnas
+supporting online material www
+dna transposonrelated sequences identified
+longer double-stranded rna molecules
+small rna data contained
+matching small rna signatures
+distinct small rnas matched
+nsf plant genome program
+small rna mpss data
+small interfering rnas
+represent perfectly matched mirnas
+figure 3a includes examples
+inflorescence small rnas matched
+contained small rnas found
+genome ethe institute
+red bar maximum 9125 tpq
+science web sites related
+small rna mpss libraries
+includes signatures matching
+previously unrecognized activity
+numerous chromosomal locations
+genome considered inactive
+overlapping genomic locations
+typical genic region
+nih p20 rr16472-04
+transcriptome cheng lu
+1 shivakundan singh tej
+york avenue nw
+transcriptome
+cheng lu
+enzymes called dicers
+slightly lesser extent
+reverse transcriptase generates
+print issn 0036-8075
+bhairpin[ precursors transcribed
+extending previous arguments
+ethidium bromide staining
+small rnas contained
+rna-dependent rna polymerase
+distinct signatures matching
+small rna component
+small rna mutants
+small rna involvement
+1568
+
+2 september 2005 vol 309
+
+www
+small rnas matching
+matching small rnas
+distinct small rnas
+online issn 1095-9203
+distinct genomic loci
+represent good candidates
+small nucleolar rnas
+small rnas map
+small nuclear rnas
+identify small rnas
+rdr2-independent small rnas
+small rnas e21
+intergenic regions exceeded
+sparse cluster filters captured 71
+nucleic acids res
+predicted mrna targets
+small rna data
+small rna signatures
+small rnas matched
+diverse eukaryotic organisms
+observed good correlations
+numerous small rnas
+gray vertical bars
+million small rnas
+science vol 309
+
+references
+org
+
+2 september 2005
+
+1569
+
+downloaded
+thin yellow bars
+percent sequence identity
+imperfectly matched targets
+genomic sequences matching
+normalized abundance level
+arabidopsis small rnas
+matched unique sites
+reflect stronger silencing
+complementary molecule produced
+including high-resolution figures
+specific genomic locations
+low-molecularweight rna isolated
+small rna molecules
+general antisense control
+mrna abundance distributions
+previous arabidopsis studies
+black vertical bars
+s9 tables s1
+5 million total signatures
+notes data files 1
+total distinct sequences
+sequence originally targeted
+lower levels compared
+rna gelblot analysis
+rna gel blots
+match nearby sequences
+mpss sequences hundreds
+transgene mirna targets
+selected additional articles
+retrotransposon-related sequences identified
+mirna molecules originate
+matching 73 mirnas accounted
+unannotated transposon-related sequences
+inverted genomic repeats
+article cites 19 articles
+atset2 data sets
+molecular biology http
+match repetitive sequences
+seedling signatures 1 inflorescence 721
+signatures sequenced
+regulatory role
+small rna
+signatures matching
+distinct signatures
+622 distinct signatures
+small rnas
+intergenic regions
+``genome matches
+hairpin folding
+form hairpins
+multiple mechanisms
+differential control
+black bar
+antisense rna
+perfectly match
+data sets
+1 2
+
+sequences matched
+intergenic region
+additional signatures
+unannotated regions
+figure excludes 39
+longer mrnas
+perfectly proportional
+highly concentrated
+highly preferential
+nsf sger #0439186
+resources related
+mpss data
+small differences
+small proportion
+rna isolated
+ribosomal rna
+rna adapters
+polyadenylated rna
+mpss signatures
+total abundance
+genome res
+intergenic space
+pericentromeric regions
+euchromatic regions
+matching strands
+previously demonstrated
+reported previously
+previously reported
+transposon-related sequences
+transfer rnas
+stippled bars
+genomic gaps
+genomic research
+genomic features
+low-abundance signatures
+signatures mapping
+genome-matched signatures
+unmatched signatures
+polyacrylamide gel
+quarter million
+cell types
+vertical lines
+low abundances
+moderate abundances
+major types
+44 articles hosted
+sequences accounted
+org
+
+downloaded
+mirna candidates
+seedling signatures
+mrna levels
+low abundance
+arabidopsis genome
+org/cgi/content/full/309/5740/1567#related-content
+org/cgi/content/full/309/5740/1567#otherarticles
+diverse treatments
+low level
+selected representative
+yellow shading
+readily observed
+maximum height
+marine studies
+molecular functions
+transposons contained
+genes matched
+4067 genes matched
+included rna
+abundance filters
+endogenous targets
+plant cell 16
+additional support
+sparse cluster
+black triangles
+plant physiol
+arabidopsis chromosomes
+online version
+17-nucleotide sequences
+isi web
+inverted repeats
+web interface
+mpss results
+data set
+title science
+dtl
+
+science
+sequencing errors
+sequencing reactions
+entire region
+sequence deeply
+5s/trna region
+pericentromeric region
+arabidopsis inflorescence
+s4 references
+library reflect
+mirna derives
+mirna precursor
+inflorescence library
+seedling library
+sirnas targeted
+blue boxes
+helpful discussions
+labeled oligonucleotides
+unknown sources
+american association
+100fold differences
+degradation products
+green@dbi
+germline tissue
+bpaired[ filter
+rice conservation
+mir gene
+broad range
+proximity-based algorithm
+1 shujun luo
+subject collections
+base pairs
+soil sciences
+large proportion
+rights reserved
+supported primarily
+2008
+
+reports
+
+blots
+25861 industrial boulevard
+colored triangles
+include as02
+obtaining reprints
+highwire press
+genome biol
+entities comprise
+functional basis
+represented
+animal systems
+registered trademark
+published weekly
+opposite arm
+target gene
+accepted 28 july 2005 10
+summary statistics
+rnase iii­
+repetitive sources
+doe de-fg02-04er15541
+cross-species conservation
+sparse configurations
+specialized class
+hollow triangles
+methods figs
+typically dense
+cellular processes
+delaware
+venn diagram
+exhibited 10-
+caenorhabditis elegans
+existing methods
+sequentially ligated
+right-hand blots
+obtaining permission
+mirnas accounted
+unannotated repeats
+specific sequence
+table s7
+table s5
+table s6
+table s3c
+table 1b
+table 1a
+table s8
+table s3a
+arabidopsis mirnas
+inflorescence tissues
+640 4 combined seedling 1
+total number
+total numbers
+som file 2
+som file 1
+increased levels
+antisense transcripts
+updated information
+org/cgi/collection/molec_biol information
+detailed information
+quantitative information
+plos biol
+sequences found
+table s1
+functional categories
+transposon categories
+silenced genes
+genes dev
+9100-fold greater
+bottom strands
+greater variety
+silence genes
+lower
+characterize mirnas
+table s4
+rdr2 mutant
+characterize sirnas
+secondary sirnas
+unannotated pseudogenes
+box numbered
+nonredundant set
+complexity difference
+orange box
+trends genet
+relative number
+detailed analyses
+size fractionation
+full complexity
+generated libraries
+2008
+
+reports
+
+elucidation
+table s3
+build clusters
+sparse clusters
+dense clusters
+predominantly found
+seedling libraries
+filters based
+matches
+sequenced
+atset1 filter
+selection criteria
+meyers@dbi
+repeat scores
+sirna as02
+article appears
+table s2
+represent
+tandem repeats
+annotated retrotransposons
+matching
+mirnas present
+528 distinct
+833 distinct
+``distinct
+2008
+
+reports
+fig
+sirnas dependent
+seedlings 3 seedling 802
+signature
+box 9 retained
+featureless
+rna 9
+rna
+intergenic
+regions
+online
+rnas
+matched
+downloaded
+numerous
+data
+signatures
+abundance
+red
+half
+captured
+examples
+targets
+833 total
+062 total
+``total
+cluster
+plant
+text
+arabidopsis
+000 sequences
+sequences
+sites
+web
+match
+mrna
+genome
+mpss
+science
+science 309
+sequencing
+sequence
+library
+mirna
+cell 106
+repetitive
+notes
+1
+reflect
+produced
+including
+blots
+isolated
+molecules
+cell 14
+sparse
+table 1
+inflorescence
+528 2 seedling 686
+seedling
+org
+filters
+som
+identified
+mutant
+identified 39
+information
+s1
+100 tpq
+repeats
+925 tpq
+10 tpq
+specific
+biol
+rdr2
+genes
+s4
+greater
+atset2
+analysis
+strands
+compared
+categories
+mirnas
+800
+
+www
+1114112
+
+www
+www
+sirnas
+box 3
+3a
+genet
+box 2
+analyses
+tandem
+numbers
+s3
+complexity
+retained
+number
+size
+dependent
+set
+version 5
+libraries
+libraries 2
+present
+transcripts
+elucidation
+based
+increased
+height
+included
+clusters
+4600 clusters
+found
+572 pseudogenes
+s2
+atset1
+pseudogenes
+sirna
+criteria
+meyers
+repeat
+124 article
+article
+retrotransposons
+http
+transposons
+seedlings
+fig
+2008
+
+fig
+amplified
+abundant
+tigr
+4solexa
+cdna
+song
+sijen
+bartel
+li
+micrornas
+strand
+list
+repeatmasker
+round
+caudy
+upper
+grateful
+d109
+consistent
+^ function
+chen
+plasterk
+nature 426
+sunkar
+parizotto
+current
+souret
+contrast
+impact
+lee
+e104
+active
+consideration
+strong
+rdr
+org/cgi/content/full/309/5740/1567/dc1
+representing 84%
+preferentially
+resulting
+nature 409
+explained
+addressed
+wang
+refers
+usa
+representing
+carrington
+generate
+chr
+approach
+jacobsen
+gels
+clicking
+examined 61
+dunoyer
+bernstein
+24 nucleotides
+work
+reproduce
+im
+aaas
+december
+cited
+sample
+species
+pink
+voinnet
+derived
+designed
+requirements
+correspond
+transitivity
+mir172
+ambros
+developed
+insight
+mentioned
+4 christian
+fit
+r30
+detected
+production
+pass
+correspondence
+combination
+centromeres
+retrotransposon
+westhead
+university
+xie
+rrnas
+exons
+ca 94545
+2 7 april 2005
+shown
+jackson
+sm39
+sm38
+s3b
+sm35
+gaasterland
+common
+interactions
+free
+sm1
+times
+manuscript
+org/
+snornas
+top
+regulation
+1c
+1d
+messing
+jen
+listed
+park
+nature 433
+part
+differentiate
+corresponded
+jones-rhoades
+lim
+chromosome 1
+accessed
+descriptions
+annotation
+meyer
+rdr6
+template
+-
+majority
+probed
+correlation
+copyright 2005
+eukaryotes
+services
+probes
+doi
+observation
+average
+griffiths-jones
+sum
+10-fold
+representatives
+spaces
+snrnas
+d637
+green1
+1126/science
+distributed
+thousands
+triangle
+/permissions
+trnas
+de 19711
+3b
+derive
+investigate
+processed
+result
+versus
+nakano
+identification
+//www
+2* pamela
+dc 20005
+biotechnol
+distinguish
+reaction
+megabase
+poly
+sciencemag
+absence
+//mpss
+expected
+location
+diversity
+gustafson
+sm14
+extensive
+applied
+grishok
+haudenschild
+diminished
+characteristics
+site
+examined
+comments
+suggests
+belong
+highlighted
+complex
+martienssen
+enrich
+week
+linsley
+accumulation
+3college
+greatest
+comparisons
+left
+3¶ ends
+bsignatures
+brenner
+true
+wortman
+advancement
+sm19
+sm18
+lacking
+rows 1
+michalopoulos
+mol
+324 retrotransposon
+rrna
+signal
+proportionally
+himber
+udel
+scale
+hannon
+exceeding
+/
+newark
+e-mail
+hammond
+five-
+comparison
+union
+al
+washington
+removing
+fraction
+two-thirds
+r51
+absent
+made
+zhu
+evident
+2-week-
+paired
+distribution
+similar
+curr
+rahm
+evidence
+4 blake
+chromosome
+yoo
+chua
+application
+nat
+department
+nt
+hayward
+briefly
+time
+individual
+validation
+2 1
+5986
+650 77
+146 104
+è62%
+19
+521
+445
+[
+33
+32
+31
+35
+434
+6
+9%
+92
+920 17
+1
+686
+132
+1114112
+27
+20
+23
+407
+633 20
+978 33
+1484
+è40%
+7
+124 27
+21
+77
+17%
+2
+310
+11
+10
+12
+15
+14
+17
+18
+277
+77%
+72
+2237
+75
+693
+8
+13
+124
+41%
+16
+3
+363
+0^
+0 0
+044 67
+1641
+379 24
+67
+68
+101 70
+630
+461
+787
+102 42
+9
+80%
+4955
+769
+213
+210
+4
+58
+52
+1567
+2003
+044
+5¶
+*
+168 91
+721
+1200
+5
+4%
+489
+2002
+2000
+2001
+2004
+2005
+2008

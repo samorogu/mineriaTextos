@@ -1,0 +1,285 @@
+significant difference
+increased interaction
+domain-domain interactions
+systematic
+similarity
+interaction frequency
+PF00008 PF00533
+statistical
+participate
+differentiation
+availability
+Interacting
+signalling Toll-like
+indicator
+trade-off
+network-wide
+Interactions
+susceptible
+Apoptosis
+DISCUSSION
+proportion
+inter-quartile
+Caenorhabditis
+Uncovering
+publication
+Lethality
+DNA-binding
+decomposition
+extensive
+`interface
+suppressor
+self-contained
+correspondence
+PF00439 PF00531
+frequency distribution
+dependent
+protein-protein interactions
+orthology-based
+non-overlapping clustering
+PF00531 PF00178
+Consortium
+Cytokine-cytokine interaction
+indication
+probability
+Evolutionary
+promiscuous structural
+clustering algorithm
+communities
+Interactome-transcriptome
+difference
+Non-cancer
+categories
+Inferring
+network-based
+processes
+community identification
+Neuroactive ligandreceptor
+Death-domain Ets-domain
+Reference
+Formstecher
+Sensitivity
+identifying
+composition
+informative
+right-hand
+Zinc-finger
+component
+comprehensive two-hybrid
+reasonable
+prediction reliability
+biological
+Ashburner
+Distributions
+accumulation
+Discovering regulatory
+Clustering
+predictive
+Mammalian Protein-Protein
+constructing
+reference
+Systematic identification
+robustness
+peripheral
+protein-network
+prediction
+proteinprotein interaction
+Paired-box
+individual
+interactome Clustering
+orthologous interactions
+implemented
+PF00856 PF00076
+recognition
+domain-domain interaction
+Adipocytokine signalling
+Development
+highlighting
+incompatible
+INTRODUCTION
+automatic identification
+Interactome
+importance
+Construction
+identification
+inflammation
+structural information
+Preferential attachment
+PF00643
+participation
+discovery
+available
+SH3-domain Bromodomain
+mammalian protein-protein
+TNFR/NGFR cysteine-rich
+respectively
+processing
+Protein-Protein Interaction
+homologues
+Adipocytokine
+PF00069 PF00628
+interaction promiscuity
+extensive genomewide
+distinguish
+membership distribution
+Eisenberg
+likelihood
+proteinprotein connectivity
+additional
+noncancer
+Saccharomyces cerevisiae
+higher-than-expected interaction
+Probability
+dependence
+essential
+important
+breakdown
+functional diversity
+Specificity
+consequence
+complicated
+approaching
+non-cancer
+annotation Immunoglobulin
+examining
+computational
+clique-clique
+transduction TGF-beta
+communication
+Identification
+interaction connectivity
+community
+unification
+Comparing
+cancerous
+Statistics
+REFERENCES
+topological
+non-redundant
+specificity
+Increasing
+community structure
+clustering
+community assignment
+confidence
+protein-interaction
+PHD-finger Zinc-finger
+Biomolecular Modelling
+Modelling Laboratory
+overlapping community
+Carbohydrate metabolism
+non-cancer counterparts
+centrality
+Connectivity
+regulation
+SET-domain
+detrimental
+non-cancer population
+Bioinformatics
+Salwinski
+community membership
+conceivable
+increased connectivity
+Jak-STAT Adipocytokine
+sensitivity
+Supplementary information
+ppromiscuity-value
+alongside
+different k-cluster
+sufficient
+interesting
+overlapping
+co-occurrence
+PF00292 PF00856
+construction
+transduction Adipocytokine
+ppromiscuity
+particular
+signalling TGF-beta
+population
+abundance
+supplementary
+Bromodomain Death-domain
+molecular
+transduction Jak-STAT
+evolution
+characteristic
+interactomes
+signalling Adipocytokine
+protein-protein interaction
+extensive communities
+overlapping communities
+Conserved
+molecular interaction
+scientific community
+reproduction
+sequence-based
+phenotypic
+distribution
+modulation
+Information
+Leukocyte
+topological distinction
+ORIGINAL
+Furthermore
+PF00533 PF00010
+Evolution
+Regulation
+Attribution Non-Commercial
+TGF-beta Neuroactive
+non-commercial
+ACKNOWLEDGEMENTS
+Percentage
+transduction
+information
+different
+PF00010 PF00292
+completeness
+Associate
+Interestingly
+propensity
+degredation
+functionality
+interconnection
+genome-wide
+Difference
+comprehensive experimental
+ABSTRACT Motivation
+evolutionary conservation
+machinery
+development
+ligandreceptor interaction
+Lichtenberg
+description
+Institute
+comprehensive
+Functional organization
+interactome
+evolutionary distinction
+collection
+complexes
+high-throughput experimental
+carcinoma
+PF00097 PF00855
+significant
+percolation clustering
+first-draft
+toxicity-modulating
+intrinsic
+increased frequency
+structure
+Predictive
+microarray expression
+PF00628 PF00097
+observation
+Drosophila
+bioinformatics/
+Community
+Topological structure
+principle
+correlation
+descending
+Cytoskeleton
+validation
+enrichment
+CONCLUSION

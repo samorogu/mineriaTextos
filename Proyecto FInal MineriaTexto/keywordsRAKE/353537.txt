@@ -1,0 +1,2098 @@
+/nature
+
+762
+©2004 nature publishing group
+
+insight review articles
+$5 anticipated $5 outcome 0
+765
+
+©2004 nature publishing group
+
+insight review articles
+repeated selection
+763
+
+©2004 nature publishing group
+
+insight review articles
+valued
+764
+©2004 nature publishing group
+
+insight review articles
+3 3
+
+4 4 prediction error
+761
+
+©2004 nature publishing group
+
+insight review articles
+box 1
+stores predictions spike-encoded prediction error
+
+
+dopamine terminal
+increasing monetary reward selectively recruits nucleus accumbens
+target neural structures
+
+extracellular dopamine fluctuations encode  [
+human brain
+recent functional magnetic resonance imaging
+midbrain dopamine neuron
+
+6 6
+
+modified predictions feed back
+reward-prediction-error hypothesis
+
+figure 1 td prediction-error signal encoded
+/nature
+
+insight review articles
+reward
+humans preferentially increase synaptic dopamine concentrations
+insight review articles
+
+computational roles
+drugs directly engage dopamine-mediated reinforcement learning signals
+simple scalar quantities called reinforcement signals
+/nature
+
+insight review articles
+49
+functional magnetic resonance imaging study
+dorsal anterior cingulate cortex shows fmri response
+­1 action selection
+
+figure 2 equating incentive salience
+experience elaborate bizarre cognitive distortions
+neurotransmitter release
+
+1 1 5 5 three-factor update rule
+extracellular space carries prediction-error information
+functional magnetic resonance imaging
+action start intake running activity
+]
+
+2 2
+
+ transforms spikes carrying prediction error
+/nature
+
+767
+©2004 nature publishing group
+open questions surrounding mental illness
+over-learning grossly maladaptive prefrontal representations
+computational theory -- reinforcement learning --
+766
+©2004 nature publishing group
+
+nature
+passive learning task activate human striatum
+revisiting state st sufficiently frequently
+action required
+
+figure 4 detecting actor
+discounted future rewards average [ 0r
+predictability modulates human brain response
+actor inhibit dopamine neuron spiking
+longer-lasting synaptic dopamine concentrations
+traditional stimulus­response models focused
+anterior cingulate cortex responds
+reinforcement learning theory explicitly models
+suppress prepotent drug-seeking behaviour17
+dopamine neurons encode reward-predictionerror signals
+760
+©2004 nature publishing group
+goals
+reinforcement learning theories seek
+current td error current reward+ ·
+behaviour produces phasic dopamine release
+early human neuroimaging results suggest
+competing psychological explanations differ
+topographically organized reciprocal connections
+reinforcement learning called temporal-difference learning
+detect rewardprediction-error signals inspired
+pfc actively maintains goal representations
+blood oxygenation level dependent
+cognitive control
+reinforcement learning theory
+include specific neuropharmacological findings
+human critic responses
+
+signal change
+continuous tdlike error signal
+td error signal reproduces
+categorize decision problems correctly
+cingulate motor area revealed
+simple economic realities select
+recent computational modelling work
+reinforcement learning theory predicts
+complex drug-seeking behavioural repertoires
+simple conditioning task reveals
+behavioural control requires vastly
+substantia nigra show phasic
+gated prefrontal cortex model
+psychological learning rule proposed
+reinforcement learning system possesses
+human ventral striatum locked
+early modelling work showed
+action selection -- responds
+mesencephalic dopamine systems based
+monetary incentive delay task
+phasic dopamine response acts
+cognitive control consistently implicate
+anterior cingulate cortex
+nervous systems deem valuable
+numerous internal states intervene
+dopaminergic gating takes place
+/nature
+
+stimulus­reward learning
+increase dopamine concentrations
+reinforcement learning models provide
+appropriately update goal representations
+dopamine system influences sequences
+dopamine gating hypothesis
+
+pursuit
+animals learn basic contingencies
+basic reinforcement learning mechanisms
+learning goal-directed approach behaviour
+delayed reward time exposes
+organism selects action based
+nervous system sets goals
+human actor responses
+
+rewards
+`light predicts goal representation
+learn stimulus­action associations
+10 12 14
+
+figure 3 scaled responses
+learn stimulus­reward associations
+nucleus accumbens dopamine
+td algorithm learns ^
+learning trial average [rt+rt+1+rt+2+
+target structures controls
+multiplicative learning rule
+maladaptive prefrontal representations
+prediction errors
+
+figure 5
+dynamic task switching
+simplest td models
+delayed response task
+dopamine-encoded prediction-error signal
+competing interests statement
+competing financial interests
+human prefrontal cortex
+select goal-directed behaviours54
+important downstream target
+update representations appropriately
+visualize reward-prediction-error signals
+psychomotor stimulant theory
+phasic dopamine release
+reinforcement learning theory
+medial frontal cortex
+frontal cortex coupled
+scalp-recorded event-related potential
+amygdala-ventral striatal subsystems
+concrete description reads
+functional imaging
+explicitly implemented components
+dramatically impairing illnesses
+random variables indexed
+dopamine-encoded prediction error
+reward-dependent discrimination task
+reinforcement learning provide
+target structures act
+rank numerous dimensions
+reinforcement learning signals
+blocking dopaminergic neurotransmission69
+dopaminergic fibres originating
+primary dopaminergic nuclei
+enormous incentive salience
+appetitive approach behaviour17­19
+human error processing
+reinforcement learning systems
+inferior temporal cortex
+single prediction error
+passive learning paradigms
+reinforcement learning model
+underlying neural computations1
+mobile organisms possess
+dorsal striatum correlated
+highly abstracted definition
+beautiful visual images35
+dorsal striatum --
+current prediction error
+reinforcement learning models
+actor response detected
+reinforcement signals define
+event-related brain potential
+relate critic signals
+dopaminergic systems primarily
+total future reward6
+prediction current prediction
+specific model components30­34
+frontal lobe damage
+freely moving animals
+psychological term defined
+external error signals
+tonic dopamine signals
+predictive hebbian learning
+provocative biological musings
+facile biological wisdom
+synthetic neural model
+top blue arrowhead
+bottom blue arrowhead
+reinforces behaviour leading
+actor­critic model
+short-latency dopamine response
+dopamine phasic signals
+dopaminergic models provide
+stimulus­response learning
+dopamine-based gating signals
+frontal lobe function
+primary taste reward
+human brain activity
+actor­critic models
+dopaminergic activity belies
+midbrain dopaminergic activity
+predictive sensory cue
+2 $1 anticipated $1 outcome $0
+proves remarkably persistent
+equally debilitating symptoms
+lower green arrowhead
+recursion relation shows
+dynamic categorization tasks
+top green arrowhead
+address detailed issues
+stimulus­action learning8
+dopamine responses comply
+human reward systems
+real computational models
+formal learning theory
+reinforcement learning terms
+prefrontal cortex function
+classic dopamine hypothesis
+locate brain responses
+identify brain responses
+resulting brain responses
+record brain responses
+negative prediction error
+implementing concurrent effects
+phasic dopamine response
+negative reward-prediction-error signal
+analogous reward-prediction-error signal
+similar brain circuits
+internally represented goals
+covert internal states
+require hierarchical updating
+complex social settings
+reduced dopamine activity
+dopamine neurons report
+dopamine neurons recorded
+freely moving rats
+dangerous goal-directed behaviour
+human reward responses
+reinforcement learning proposed
+update goal representations
+phasic dopamine responses
+repeating learning trials
+stimulus­action learning
+specific neuromodulatory systems
+instrumental conditioning literature6
+original learning hypothesis
+incentive salience
+
+serve
+dynamic gain control
+signal reward error
+prominent activation response
+drugs correlates directly
+predictive reward signal
+baseline firing rate
+simple experiment designed
+dissociable neural responses
+strong reward responses
+nucleus accumbens
+pharmacological data showing
+pause responses measured
+receives reward information
+learning automatic actions
+predict drug availability
+reward-relevant brain regions
+summed future reward
+sublenticular extended amygdala
+criticize specific actions
+dopamine neuron firing
+temporal prediction errors
+choose design details
+red question mark
+provide solid support
+understand neuroimaging experiments
+common valuation scale43
+pfc produces deficits
+excess dopamine activity
+single dopamine neuron
+potential future rewards
+cumulative future rewards
+support sustained activity
+ventral tegmental area
+reward-prediction error depends
+positive reward-prediction error
+sophisticated neural system
+expect valuation mechanisms
+clinical psychopathology observed
+basal ganglia provide
+idea `incentive salience
+normal reward-delivery time
+80 60 40 20 block dopamine binding
+event-related potentials research
+prefrontal goals
+
+require
+similar experimental design
+reward related learning
+delayed reward time
+current reward information
+dopaminergic gain modulation
+td error
+visual working memory
+cingulate cortex
+humans engage
+maintained goal representation
+temporal difference models
+addictive drugs result
+achieve desired states
+presented theoretical evidence
+organism queries stored
+organism updates stored
+monkey dopamine neurons
+including cognitive disorganization
+improve reproductive success
+normal brain development
+acquire sugary water
+predict drug delivery
+dopamine function discussed
+make good estimates
+prediction-error response
+prediction-error signal
+theoretical neuroscience ch
+future rewards delivered
+future rewards received
+reward-predictionerror signals
+surrounding structures
+dopamine release
+executive function observed
+behavioural deficits observed
+reinforcement theory
+dopaminergic spiking
+dopamine disturbances produce
+implement gating effects
+recent theories
+pfc gating signal
+actions define `rewards
+function reward function
+actively maintained
+recent work
+reinforcement signals
+reinforcement learning
+conditioning task
+goal representation elicit
+`prediction error
+^ ^ prediction error
+binding dopamine required
+prefrontal cortex
+4 2 6 ventral putamen
+
+*
++ ­
+address important disturbances
+activate structures
+reward-prediction-error hypothesis
+human brain
+`reinforcement signal
+incentive salience
+actor signals
+engage excessively
+acting selectively
+selectively engaged
+predictions follow
+store predictions
+refine predictions
+computational models
+neuron spikes
+learning representations
+current reward+
+/nature
+
+*
+10 time
+signals
+nature
+computational theories
+dopaminergic signals
+dorsal striatum
+grossly biased
+matured sufficiently
+actor­critic
+temporal prediction
+actor response
+nac
+
++
+critic
+mental illness
+critic signals
+surprising catch trial
+simple models
+reward-prediction-error signal2
+direct associations
+delivered back
+learning signal
+nervous systems
+dopamine signals
+phasic dopamine
+baseline signals
+human beings
+reward-prediction error
+hebbian learning
+biological findings
+simple hypothesis
+neural systems
+colleagues recently extended
+brain structures
+8 signal change
+specific roles
+prefrontal representation
+dopamine systems
+reinforcement learning2
+blue arrowhead
+critic signal
+adjust predictions
+/nature
+
+neuromodulation
+brain systems
+computational extension
+computational substrate
+learning rate
+cognitive control
+desired response
+firing rate
+phasic activity
+error function
+integrative theory
+ventral
+nature
+brain response
+gating signals
+signals related
+neural responses
+error detection
+error monitoring
+dopamine excess
+future selection
+similar results
+tegmental area
+neuromodulatory systems
+proposal shows
+recursion relation
+insular cortex
+dissociable roles
+decision algorithms
+long-range connections
+orbitofrontal cortex
+motor output
+dopaminergic neurons
+green arrowhead
+injected directly
+economic discounting
+dorsal striatum21
+question shows
+current theories
+neural mechanisms
+human decision-making
+goal representations
+action selection
+original hypothesis
+reward prediction
+passive delivery
+monetary reward
+dopaminergic system
+behaviour based
+current representation
+monetary payoff
+monetary gains
+monetary payoffs40­42
+control sequences
+addictive drugs
+nervous system
+red arrowhead
+simple storage
+simple `light-predicts-juice
+organism --
+incentive memory
+incentive salience19
+simple situations
+dopamine activity
+reward learning
+gating signal
+dopamine neurons
+goal-directed behaviour
+passive tasks
+afferent signals
+pause signals
+single neuron
+human brains
+ventral striatum
+phasic bursts
+human subjects
+information processing
+subcortical structures
+learning tasks
+forebrain structures
+learning episodes
+limbic structures
+habit learning
+prediction errors
+compulsive nature
+received
+nature
+mental structure
+cognitive processes
+numerous studies
+experiment showed
+numerous levels
+dopaminergic function
+perturbed mental
+basic assumptions
+cognitive disorganization
+brain activity
+neural system
+similar potentials
+specific claims
+behavioural control
+instrumental conditioning
+behavioural settings
+similar activity
+dopamine system
+stimulus administered
+stimulus occurs
+stimulus responsible
+learning effects
+neuromodulatory control
+executive control
+gating hypothesis
+goal-directed behaviour58
+fixed delay
+goal-directed learning27
+delay trials
+formal models
+trial [rt+rt+1+rt+2+
+value-dependent selection
+common goal
+dopamine delivery
+network model
+future work
+computational role
+drugs abused
+response diminishes
+drugs disrupt
+antipsychotic drugs
+haemodynamic response
+results led
+neuroleptic drugs
+pause response
+organisms learn
+sugary water
+experimental work
+humans range
+current predictor
+neural basis
+neural economics
+neural substrate
+neural netw
+consistently observed
+bursts signal
+observed consistently
+critical signal
+predictionerror signal
+dopamine function
+prediction made
+develop models
+models discussed
+quantitative models
+dopamine mediates
+dopamine transmission
+dopamine reviewed
+dopamine agonists
+dopamine generates
+dopamine projections
+dopamine receptors
+burst signals
+pharmacological manipulations
+phasic burst
+data suggest
+green hall
+subjective estimates
+beautiful faces
+selective updating
+normal trials
+desires --
+external feedback
+vta --
+correlate directly
+solid line
+habenular complex
+highly reinforcing
+goal 100 control
+hemodynamic responses
+responses bigger
+consummatory responses
+valuable goal
+addictive drug
+brain res
+incorporates information
+afferent information
+goal representation
+dopamine effects
+animals learn
+learning trial
+cognitive disorders
+molecular mechanisms
+extended periods
+specific actions
+conditioning paradigm
+distant future
+average sum
+conditioning tasks
+average bold
+basal ganglia
+regain control
+temporal difference
+intervening states
+experimental data
+conceptual level
+animals treated
+reward-dependent learning2­5
+rapid processing
+expectations make
+real-world settings
+untreated animals
+clinical expression
+clinical efficacy
+encode
+current research
+simple idea
+simple observations
+burst response
+action selection34
+action learning1
+future rewards
+normal functions
+spike activity
+electrophysiological activity
+neurons housed
+ventral putamen32
+ventral putamen
+predict reward
+catch trials
+water fails
+closely related
+biological assay
+biological algorithms
+biological substrates
+reward-prediction system11
+current state
+reward system
+compulsive drug
+drug consumption
+drug addiction20­21
+dopamine actions
+dopamine disturbances
+dopamine plays
+theory vol
+mesolimbic system
+internal evaluation
+important players
+important component
+basal forebrain
+important contributions
+gating effects
+reward-prediction errors
+direct behaviour
+behaviour concerns
+perseverative behaviour
+measurable behaviour
+goal information60
+fundamental goal
+signals carried
+formal synthesis
+action required
+effect results
+learn tasks
+extended sequence
+pauses signal
+gating functions
+active representation
+emotional function
+system-level function
+natural reward
+reward delivery12­16
+variable reward
+predicted reward
+behavioural decision-making
+nature neurosci
+robinson model
+reward-dependent actions
+rely heavily
+read@bcm
+negative reinforcers
+authors declare
+recurrent pathways
+remains close
+highlighted activation
+pathologic gambling
+natl acad
+extensively modelled
+weighted version
+distracting information56
+virtually impossible
+san diego
+appleton century-crofts
+recognition memory
+past decade
+numerical quantity
+catastrophically rearrange
+activation represents
+buy milk
+eds black
+2 anticipated $0
+picture emerging
+neuro-imaging studies
+representational organization
+averaging occurs
+natural consequence
+gamma-aminobutyric acid
+working memory
+guide sequences
+ny acad
+pathological gambling
+grocery store
+modern recapitulation
+artificial truncation
+read montague1
+densely innervated
+affect overt
+moves left
+occur precisely
+working memory
+
+*
+motivational views
+opponent interactions
+maturing rapidly
+adequately maintain
+probabilistic transition
+mclean hosp
+vicious cycle
+deep limitations
+error-related negativity
+electrophysiological recordings
+negative feedback53
+refrigerated section
+passively delivered
+virtually unable
+performance feedback
+wide spectrum
+eds miyake
+special reference
+eds karmos
+hyman3 & jonathan
+positive deviations
+addicted individuals
+offers hope
+1 baylor plaza
+hear voices
+powerfully consolidated
+associative processes
+merriam webster
+longer-term judgments
+exponential discounting
+subcortical regions
+alert monkeys
+intimately tied
+components capture
+neuro-dynamic programming
+dopamine-receptor blockers
+oxford univ
+gambling urges
+identified included
+2 outcome 0
+discriminatory capacities
+diverse mechanisms20
+successive steps
+performance xviii
+gambling tasks47­49
+unnaturally disrupted
+rewarded picture
+artificially divided
+& von cramon
+typical pause
+suggest ways
+baylor college
+growing knowledge
+signalto-noise ratio
+induce euphoria
+context dependence
+avoid undesirable
+behavioral sciences
+athena scientific
+understood pathology
+feedback loop
+negative consequences
+popular formalization
+seh@harvard
+young synthesizers
+typically stochastic
+moved close
+negative feedback
+eds monsell
+vertical bars
+fmri visualization
+elegant papers
+vast improvement
+dashed line
+dramatic symptoms
+di chiara
+remarkable similarity
+diverse classes
+overlapping regions
+behavioural choices
+nature rev
+make choices
+results point
+objective rewards
+higher rewards
+rewards received
+biological disturbances
+words `current
+catecholamine effects
+acute effects
+catch trial
+`catch trial
+classical conditioning 2
+/nature
+juice delivery
+potentials reflect
+real world
+behavioral evidence
+direct evidence
+link sequences
+valuation yields
+fmri evidence
+food reward
+organism transitions
+delivery time
+functions including
+rats drink
+behavioral functions
+food reward17
+untreated rats
+ventral parts
+ventral striatum30
+juice reward
+neural mechanism
+active maintenance
+active games
+treated animal
+pleasant-tasting juice
+animal presses
+animal releases
+food rewards
+sophisticated understanding
+reward expectancy
+assess actions
+choose actions
+reward-yielding actions
+initiating actions
+contemplated actions
+succeeding state
+comparing disturbances
+psychiatric disorders
+present state
+3 harvard university
+abstract approaches
+abstract proxies
+hyper-dopaminergic state
+jdc@princeton
+addicted person
+successor state
+hedonic impact
+subsequent state
+state engendered
+formal construct
+drug addiction
+mind & behavior
+expected future
+work suggests
++ 1r
+[rt]+
++ 2r
+policy function
+ventral part
+`policy function
+formal framework
+turn leads
+causal role
+eds houk
+neuroleptics treat
+originally suggested
+adaptable weight
+tested successfully
+specifically address
+incentive-salience ideas
+light signalling
+explore quantitatively
+computes values
+impinging sources
+trends cogn
+experimenter moves
+finding offered
+left histograms
+physiological data2­3
+regions respond
+plausible answer
+correct choice
+independent groups
+full story
+vta implement
+vta
+
+ wi =
+correlations familiar
+parameterized view
+modes requiring
+transformation characterizes
+handled theoretically
+unifying interpretation
+stored policy
+verbal interpretation
+major role
+world quickly
+actions required
+formal relationship
+recently offered
+robinson model26
+associate stimuli
+rewarding stimuli
+conditioned stimuli
+back
+state st
+hedonic evaluation
+princeton university
+disease definitively
+probability weighted
+key component
+unexpected losses
+2menninger department
+greatest accrual
+money received
+central role
+reward amount
+choices made
+trends neurosci
+readily lead
+cambridge univ
+relative influence
+drug-related cues
+button press
+called
+simply changing
+expected payoff 37­39
+physiological actions
+reinforcement
+things deemed
+state produced
+wolfram schultz
+elsevier science
+motivated behavior
+theory
+error
+study
+midbrain
+temporal-difference
+shows
+directly
+challenges suggested
+--
+experience
+predictability
+focused
+activate
+carries
+link behavior
+prediction
+actor
+`actor
+provide
+update
+effective valuations
+ideal case
+long history
+representations
+passive
+phasic
+learning
+nature
+nature 412
+basic
+early
+based
+stimulus
+change
+illness
+selection
+model
+critic
+`critic
+drugs
+response
+signal
+models
+dopamine
+roles
+suggest
+complex
+region involved
+striatum
+takes
+internal
+problems
+define
+responses
+brain
+information
+hypothesis
+theories
+mechanisms
+future
+average
+behavioural
+control
+damage
+level
+require
+area
+design
+states
+valuable
+animals
+gain
+action
+representation
+activity
+ventral
+neurons
+work
+gating
+`gating
+predict
+system
+important
+behaviour
+goal
+`goal
+neuron 19
+neuron 38
+neuron 33
+neuron 32
+neuron 30
+neuron 36
+neuron 25
+learn
+function
+`reward
+reward
+putamen
+activation
+negative
+modulation
+serve
+depends
+result
+terms
+received
+`trials
+support
+`pause
+analogous
+address
+tasks
+working
+positive
+memory
+produce
+data
+fmri
+symptoms
+components
+discussed
+act
+disorganization
+box 1
+stored `
+presented
+understand
+cue
+delivered
+question
+correlates
+implement
+amygdala
+regions
+including
+choose
+monkey
+acquire
+light
+achieve
+deficits
+stored
+success
+persistent
+rewards
+effects
+errors
+observed
+goals
+proposed
+evidence
+valuation
+organism
+required
+central
+rats
+food
+functions
+active
+show
+difference
+research
+juice
+experiment
+animal
+burst
+`burst
+1 2 4 6 8 time
+time
+actions
+expectancy
+decision-making
+princeton
+improve
+abstract
+neuroscience
+disorders
+hedonic
+st
+state
+good
+appetitive
+disturbances
+evaluation
+development
+person
+neuroscience 59
+defined
+plays
+university
+ch
+sequence
+made
+trial
+behavior
+choices
++
++ 1
+`binding
+]+
+binding
+1 +
+physiological
+answer
+interpretation
+observations
+subjects
+respond
+suggested
+elicit
+role
+leads
+groups
+houk
+handled
+values
+pauses
+correlate
+vta
+policy
+challenges
+correct
+specifically
+brains
+ideas
+ideal
+surprising
+ways
+effective
+modes
+signalling
+adjust
+tested
+history
+reflect
+motivated
+weight
+idea
+story
+construct
+finding
+guide
+world
+transformation
+cogn
+desires
+explore
+produced
+histograms
+striatum30
+familiar
+view
+treat
+parts
+effect
+experimenter
+sources
+classical
+recently
+& robinson
+framework
+robinson
+addiction
+colleagues
+stimuli
+accrual
+experiments
+case
+money
+losses
+probability
+relationship
+point
+4 department
+long
+link
+5
+department
+suggests
+disease
+words
+key
+valuations
+carried
+pfc
+pfc 55
+nac
+neurosci
+region
+cambridge
+press
+cues
+amount
+part
+simply
+neuromodulation
+range
+influence
+involved
+lead
+expected
+understanding
+mechanism
+`things
+schultz
+rev
+& schultz
+science 249
+science 254
+science 295
+science 275
+science 304
+science 302
+science 140
+vol 431
+desirable
+berridge
+hohnsbein
+updated
+guiding
+infancy
+miller
+consistent
+approximation
+established
+selected
+neuroimage 12
+told
+seerefs 54
+obtained
+100 msec
+berke
+punishment
+elaborated
+modulated
+cocaine
+call
+assessment
+belmont
+erp
+concepts
+ern
+impair
+end
+lesions
+& correa
+earlier
+montague
+& malenka
+shallice
+behav
+utilitarian
+fact29
+fig
+affected
+elliott
+interfering
+forgoe
+& sejnowski
+series
+slea
+principles
+large
+driving
+1038/nature03015 1
+medicine
+drug-free
+estimate
+rewards1
+organize
+features
+service
+needed
+stuss
+timescales
+acquisition
+well-
+manner
+cort
+relapse
+involving
+potency
+flow
+nystrom
+probe
+analogue
+pagnoni
+explain
+fields
+coles
+licking
+bad
+63 bears
+architecture
+implication
+sensitivity
+alterations
+fail
+capacity
+patients
+discovery
+preserve
+reproduction
+extend
+triggers
+resistant
+cog
+adapted
+directions
+drug-
+asks
+formalizes
+commission
+formalized
+dots
+egelman
+applied
+originate
+koechlin
+breiter
+texas 77030
+salamone
+amyg
+thoughts
+academic
+ikemoto
+macaque
+proposes
+psych
+& ljungberg
+similarities
+printz
+neurophysiol
+everitt
+desire
+reeke
+www
+kakade
+post
+meyer
+soc
+dilemma
+amsterdam
+refined
+psychol
+form
+failure
+& dayan
+braver
+& cohen
+deichmann
+diagnose
+exist
+doya
+conditions50­52
+longer
+concept
+focus
+computation
+hijacked
+anticipation
+environment
+finally
+advantage
+minute
+neuropsychol
+lever
+prevent
+occurrence
+maximization
+axes
+wait
+pathologies
+marked
+schizophrenia71
+apparent
+cases
+car
+believed
+agent
+sample
+fortunately
+discussion
+antagonism
+parameter
+product
+critics
+applications
+friston
+& hoormann
+& wagner
+tendency
+blocked
+delgado
+forms
+gate
+provision
+establishing
+reward-seeking
+ed
+begun
+shown
+opened
+interference
+massachusetts 02138
+suggesting
+formula
+possibility
+bayer
+& willoughby
+emotion
+parkinson
+carry
+arch
+judgements
+amphetamines
+nutrition
+pittsburgh
+short
+potenza
+pre
+addressing
+ann
+berns
+& barto
+skinner
+sutton
+apicella
+considered
+implications
+redirected
+critchley
+recipe
+fifty
+notations
+gehring
+aharon
+proportion
+gen
+synapse
+cereb
+yield
+ldopa
+yeung
+discussing
+& gurney
+ameliorating
+montague &
+informed
+formed
+knutson
+cast
+policies
+involved68
+medin
+tononi
+assigns
+holroyd
+over-training
+tracking
+behaviorism
+both61
+guides
+fissel
+weinberger
+inhibition
+execution
+adams
+td-
+kaiser
+pathogenesis
+compulsion
+refer
+equivalent
+punishments
+hypothalamus
+obeys
+sporns
+investigators
+involvement
+operator
+psychophysiol
+assumed
+equates
+stark
+assumes
+agree
+describe
+al
+scanned
+`surprise
+above21
+weights
+deviation
+massachusetts
+1
+
+neuromodulators
+represent
+sci
+lack
+ullsperger
+zink
+polarity
+& kouneiher
+worse
+& desimone
+randomness
+hyp
+conceptualize
+perspective
+`opens
+creatures
+learner
+activations
+learned
+kahneman
+movement
+options
+goss
+trained
+establish
+controlling
+& abbott
+equation
+doi
+conspire
+maps
+larsen
+jersey 08544
+explains
+creature
+simplicity
+sophistication
+redgrave
+pfc62
+pfc63
+& shizgal
+& bozarth
+late
+absence
+alter
+association
+& dickinson
+habits
+found
+referred
+malfunction
+nieuwenhuis
+psychology
+safety
+heroin
+beginning
+generate
+brainstem
+& fiez
+assign
+reinforced
+encoding
+reflected
+risk-
+& montague
+kind
+prescott
+deciding
+motivation
+strengthen
+noelle
+categorized
+& glimcher
+built
+procurement
+play
+acts17
+mach
+serotonin
+clear
+gaba
+iterations
+fong
+& shah
+5department
+duncan
+failed
+factor
+servan-schreiber
+obtain
+erickson
+cohen4
+generally
+locating
+set
+achieved
+rougier
+collectively
+schizophrenia
+balleine
+degree
+pictures
+conditions
+attention
+distinguish
+prescription
+upgraded
+consume
+corresponds
+perspectives
+reduction
+timesteps
+assigning
+century
+incremented
+bad `
+& imperato
+assignment
+infused
+noll
+& hommer
+source
+location
+& donchin
+evaluate
+& prokasy
+hallucinations
+lost
+doherty
+methods
+scale
+annu
+connecting
+proc
+run
+neurobiology
+simulation
+extensions
+& tsitsiklis
+usa 85
+steven
+mcclure
+& dolan
+application
+actors
+decremented
+dale
+hyman
+allowing
+amphetamine
+overlooking
+psychiatry
+dickinson
+resources
+ody
+dissociations
+non-linear
+objects
+consideration
+receive
+guidance
+addressed
+usa
+reflects
+clever
+procuring
+account
+challenge
+reproduce
+hollerman
+process
+rescorla
+effectively
+sought
+conversely
+holds
+located
+waelti
+modulations
+efficiently
+bind
+houston
+14 october 2004
+chosen
+& hyman
+li
+reilly
+contention
+avolition
+daw
+mode
+receptor
+cohen
+falkenstein
+westdorp
+overstimulated
+ref
+dictionary
+york
+interaction
+davis
+attack
+simulate
+& driver
+compensation
+greater
+half
+striatum70
+demonstration
+mit
+persistence
+advances
+intentions
+class
+face
+wagner10
+planning
+hijacking
+means
+abstr
+rt+2
+computed
+acquired
+acquires
+distractability
+pattern
+st+1
+written
+identification
+ability
+distribution
+& edelman
+hits
+career
+theoreticians
+interesting
+estimation
+respect
+neuropsychology
+addition
+& panksepp
+unlike
+perseveration
+vd
+ripe
+thut
+site
+dual
+bertsekas
+reporting
+dayan
+ofc
+neuroreport 8
+schurger
+center
+variety
+thought
+patterns
+metalearning
+& balleine
+& beiser
+increases
+sequencing
+recurs
+& coles
+refs 2
+e-mail
+tmc
+assuming
+demonstrated
+schizophrenia
+5
+selecting
+recognized
+neuroreport 14
+error45
+refs 22
+delusions
+maze
+& berns
+eat
+wise
+problem
+entering
+branch
+conclusion
+& knight
+4c
+43­48
+48
+0< <1
+109
+660­669
+1991
+1990
+1993
+1994
+1997
+1996
+1999
+1998
+20­27
+5274­5278
++2
++1
+­
+1754­1759
+619­639
+1225­1228
+1963
+329­337
+17
+385­390
+1181­1185
+167­202
+951­958
+309­369
+304­309
+1972
+4 0
+815­826
+59
+58
+55
+54
+57
+56
+51
+50
+53
+892­895
+52
+331­345
+515­532
+6
+6­41
+1593­1599
+0
+331­358
+1995
+265­284
+[
+497­498
+1
+97­98
+229­243
+2
+339­346
+423­428
+11
+10
+13
+12
+15
+14
+19
+18
+695­703
+]
+287­296
+3
+223­278
+495­506
+60
+61
+62
+63
+64
+65
+66
+67
+^
+9­44
+4
+64­69
+0
+
+­0
+68
+69
+2481­2484
+375­411
+95­115
+5
+3072­3077
+679­709
+`
+1
+
+0
+94
+271­290
+16
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+2279­2282
+7
+469­492
+72
+71
+8
+713­737
+33
+32
+877
+9
+146­151
+537­551
+4308­4314
+452­454
+8954­8964
+70
+828­836
+0 ­0
+%
+2002
+2003
+2000
+2001
+2004
+245­253
+900­913
+39
+38
+31
+30
+37
+36
+35
+34
+623­630
+&
+412­438
+3­25
+83
+80
+84
+1981
+603­616
+5154­5167
+246­257
+249­270
+741­747
+=
+2793­2798
+7­9
+6159­6165
+285­298
+137
+503­520
+1936­1947
+1­5
+47
+358
+591­611
+110
+1986
+1987
+1988
+1377­1379
+46
+44
+45
+42
+43
+40
+41
+1­27

@@ -1,0 +1,13 @@
+genes
+network
+models
+expression
+100166txt
+j
+regulators
+master
+biological
+samorogu
+model
+gene
+data

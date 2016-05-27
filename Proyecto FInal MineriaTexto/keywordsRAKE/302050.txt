@@ -1,0 +1,1237 @@
+highly integrated biochemical networks lacks quantitative support
+highly integrated module-free metabolic network organization remains
+comprehensive enzyme catalyzed functional relatedness
+black-outlined boxes denote core substrates belonging
+clear-cut modularity imposes severe restrictions
+size-independent clustering coefficient offers strong evidence
+methods supporting text tables s1
+chemically isolated functional modules composed
+uncovered hierarchical modularity closely overlaps
+blue-outlined boxes denote nonbranching pathways
+metabolites forming tightly interconnected clusters
+org science vol 297 30 august 2002
+
+1555
+
+downloaded
+org science vol 297 30 august 2002
+
+1553
+
+downloaded
+org science vol 297 30 august 2002
+
+1551
+
+downloaded
+ump leaps putative module boundaries
+2008
+
+reports
+
+1554
+
+30 august 2002 vol 297 science www
+german scholarship foundation studentships
+methods som text figs
+chemically isolated molecular machines
+considered fundamental building blocks
+graph theory­ based analysis
+previously established graph-theoretical representation
+danish national science foundation
+1552
+
+30 august 2002 vol 297 science www
+original network reduction procedure
+geographic information systems advice
+natural environment research council
+nonuniform size potentially separated
+org/cgi/content/full/297/5586/1551 supporting online material
+standard clustering algorithm uncovers
+average linkage clustering method
+highly interlinked modules connected
+highly integrated small modules
+average-linkage hierarchical clustering algorithm
+highly connected topologic modules
+system size­independent clustering coefficient
+supporting online material www
+densely interconnected functional modules
+manifestly modular network made
+topological overlap matrix ot
+potential functional modules encoded
+fully connected biochemical network
+high topological overlap close
+coli overlap matrix ot
+identified hierarchical architecture reflects
+high intrinsic potential modularity
+metabolites represent carbohydrate metabolism
+power law degree distribution
+isolated structures built
+colored boxes denote
+highly integrated modules
+small hypothetical network shown
+detailed quantitative characterization
+red-outlined boxes denote
+module-free scale-free network
+black-outlined boxes show
+fully separated modules
+replacing nonbranching pathways
+topological overlap ot
+three-step reduction process
+nucleic acids res
+print issn 0036-8075
+topologically well-limited area
+rapid flux reorganization
+including high-resolution figures
+global topologic representation
+predominant biochemical class
+actual biochemical pathways
+online issn 1095-9203
+fully interlinked cluster
+standard clustering algorithm
+average clustering coefficient
+end pathways branching
+purely topologic perspective
+highly connected metabolites
+nested topologic modules
+standard clustering algorithms
+mathematical framework proposed
+clustering coefficient decreases
+numerous 4-node modules
+topologic overlap matrix
+large-scale functional map
+true functional organization
+single biochemical reaction
+predominant biochemical classification
+putative module boundaries
+org/cgi/content/full/297/5586/1548/ dc1 materials
+org/cgi/content/full/297/5586/1551/ dc1 materials
+thewit metabolic maps
+small molecule biochemistry
+clustering coefficient offers
+high clustering coefficient
+global topological organization
+topologically distinct regions
+high topological overlap
+highly connected nodes
+distinct modules built
+respective biochemical reactions
+small molecule class
+color code applied
+aromatic compound metabolism
+accepted 18 july 2002
+
+references
+nucleic acid metabolism
+york avenue nw
+monocarbon compound metabolism
+uncover potential relations
+amino acid metabolism
+cyclic uridine 5 -monophosphate
+african bird database
+manuscript benefited tremendously
+reusing existing modules
+topological overlap matrix
+inherently hierarchical organization
+manifestly modular topology
+small hypothetical network
+zoological museum university
+identified network architecture
+providing productivity data
+simple heuristic model
+complex intracellular web
+cyclic cytidine 5 -monophosphate
+putative modules obtained
+inherent self-similar property
+power law scaling
+hierarchical modularity reconciles
+condensed metabolic network
+metabolic network] decays
+biologically relevant subnetworks
+carrying discrete functions
+shared biochemical classification
+derived hierarchical tree
+single module based
+topological overlap illustrated 0
+inherent modular structure
+supporting material
+deterministic scale-free networks
+seamlessly embedded modularity
+nested modularity suggested
+shaded blue boxes
+loosely connected group
+dashed lines correspond
+hierarchical network organization
+coli metabolism offered
+substrates directly appearing
+topological overlap shown
+proposed network model
+color code denotes
+world wide web
+blue-shaded region denotes
+large 16-node module
+scale-free degree distribution
+separable functional elements
+direct links connecting
+system-level cellular organization
+article cites 26 articles
+scaling law quantifies
+pyrimidine metabolic module
+coli metabolic network
+uridine 5 -mono-
+
+fig
+small network shown
+densely integrated
+organizational levels simultaneously
+1 1 1 1/3 2/3 1 2/3 1
+densely linked nodes
+nonbranching pathways
+strong correlations
+ki nearest neighbors
+integrated web
+diamonds denote
+integrated modules
+cell biology http
+putative modules
+functional class
+dynamically interconnected
+method identified
+shaded boxes
+red-outlined boxes
+replicated clusters
+uncovered automatically
+org
+
+downloaded
+clustering coefficient
+science online
+power law
+hypothetical module
+topological overlap
+direct evidence
+integrated submodules
+overlap matrix
+algorithm package
+modules based
+potential modularity
+functional classification
+biochemical classes
+topological modules
+substrates forming
+green-outlined boxes
+species belonging
+biochemical reactions
+directly relevant
+molecular interactions
+color code
+potentially comprising
+ultimately encoded
+potential candidates
+fundamental conflict
+tree reflects
+blue-shaded region
+place close
+accepted 25 july 2002
+biological systems
+small size
+functional classes
+functional units
+functional capabilities
+hierarchical organization
+hierarchical architecture
+2008
+
+hierarchical organization
+inherent modularity
+topological modularity
+online version
+degree distribution
+nodes belonging
+scaling law
+modular organization
+metabolic organization
+clear boundaries
+providing data
+three-dimensional representation
+single framework
+metabolism based
+large modules
+16-node module
+pathways involving
+embedded modularity
+functional properties
+system-level structure
+method divided
+natural resources
+topological sense
+org/cgi/content/full/297/5586/1551#otherarticles
+natural breakdown
+signaling molecule
+hierarchical network
+network size
+small cluster
+hierarchical modularity
+modular network
+dtl
+
+science
+title science
+matrix denotes
+metabolic network
+complex network
+uridine 5 -triphosphate
+process reminiscent
+wide fluctuations
+90 articles hosted
+deoxycytidine 5 -monophosphate
+isi web
+large-scale features
+discrete entity
+delimited regions
+detailed diagram
+uridine 5 -diphosphate
+deoxythymidine 5 -monophosphate
+dashed line
+biological organization
+biological perspective
+cellular organization
+postgenomic biology
+modules suggested
+64-node modules
+extended modules
+hijk modules
+modular networks
+hierarchical topology
+metabolic networks
+complex networks
+hierarchical manner
+hierarchical tree
+abc module
+similar size
+modular topology
+scale-free network
+network topology
+system-level features
+community structure
+color coded
+modular versus
+organizational levels
+metabolic tree
+metabolic databases
+metabolic functions
+scale-free networks
+network integrates
+data points
+cytidine 5 monophosphate
+cytidine 5 -diphosphate
+diamonds represent
+spatial data
+cytidine 5 -triphosphate
+represent members
+pyrimidine metabolites
+distinct substrates
+updated information
+org/cgi/collection/cell_biol information
+modularity assumes
+additional information
+underlying modularity
+hierarchical levels
+scale-free topology
+biological networks
+nonbiological networks
+metabolic reactions
+hierarchical model
+coli metabolism
+escherichia coli
+pyrimidine metabolism
+model network
+saccharomyces cerevisiae
+visual inspection
+curves averaged
+recent studies
+visibly segregated
+american association
+light orange
+dynamic integration
+ci averaged
+distinguishing feature
+cohesive units
+inset displays
+degree exponent 1
+key issue
+slowly impact
+wit project
+thymidine triphosphate
+thymidine diphosphate
+increasing sizes
+unique feature
+schematic illustration
+s3 11 april 2002
+s15 29 april 2002
+deoxyuridine 5 triphosphate
+notre dame
+deoxythymidine 5 -diphosphate
+strongly supports
+varying sizes
+london ser
+deoxythymidine 5 -triphosphate
+deoxycytidine 5 -diphosphate
+cellular functionality
+special role
+topology-based approach
+enlarged view
+thymidine monophosphate
+subject collections
+rights reserved
+defined 2n/ki
+connection steps
+repeated indefinitely
+recent observation
+registered trademark
+de klerk
+published weekly
+starting point
+theoretical analyses
+evolutionary mechanism
+deoxyuridine 5 -diphosphate
+living cell
+enzymes catalyzing
+dt tp
+deoxyuridine 5 monophosphate
+international union
+repeated quadrupling
+cellular metabolism
+birdlife international
+prime challenge
+seamlessly partitioned
+threatened birds
+prominent examples
+lipid metabolism
+deoxycytidine 5 -triphosphate
+step quadrupling
+aquidex aeolicus
+lynx edicions
+dark pink
+coc/birdlife cameroon
+resources related
+gene duplication
+zno008@northwestern
+exhaustively studied
+identifiable task
+initial binding
+typical configuration
+decreasing interconnectedness
+ecological communities
+connected nodes
+existing nodes
+larger modules
+notes
+
+www
+reactions highlight
+metabolic substrates
+substrate module
+scale-free model
+direct link
+northwestern university
+network models
+scalefree network
+arrows show
+protein interaction
+species diversity
+protein domain
+protein complexes
+intuitive topology
+observed hierarchical
+43 distinct organisms
+tree shown
+/ networks/cell/index
+obtaining reprints
+higher chance
+elementary components
+cellular components
+intuitive views
+obtaining permission
+common substrates
+apparent contradiction
+immediately apparent
+blue circles
+visually apparent
+large number
+important role
+zmuc database
+reduced metabolism
+equivalent links
+multiple connections
+carbamoyl phosphate
+barabasi1* ´
+spatially
+linear set
+links display
+generic property
+trends ecol
+increasing order
+coenzyme metabolism
+simultaneous emergence
+cambridge univ
+intermodule links
+share links
+characterized quantitatively
+magnitude larger
+external nodes
+peripheral nodes
+scale-free nature
+downloaded
+higher degrees
+methods
+results demonstrate
+hubs integrate
+chicago univ
+similar number
+nature biotechnol
+initial application
+ci number
+article appears
+closer inspection
+integrated
+1c reproduces
+highwire press
+cellular function
+/[min
+central node
+2008
+
+reports
+fig
+observed properties
+s1
+1/3
+
+1/3
+ump
+kj degrees
+evidence
+online
+current models
+nature genet
+clustering
+standard
+offers
+boundaries
+high
+pathways
+overlap
+small
+science
+science 295
+science 297
+science 291
+science 286
+law
+matrix
+nature rev
+organization
+connected
+intrinsic
+architecture
+research
+modules
+part
+
+fig
+hierarchical
+module
+size
+independent
+materials
+2/3
+modular
+network
+represent
+classification
+scaling
+single
+information
+modularity
+org
+networks
+coli
+scale-free
+metabolites
+illustrated
+2008
+
+reports
+9
+system
+shared
+simultaneously
+degree
+obtained
+reports
+cell
+denotes
+york
+uncover
+subnetworks
+separable
+tree
+manuscript
+quantifies
+cellular
+characterization
+suggested
+property
+cluster
+database
+world
+metabolism
+2008
+
+reports
+functions
+elements
+www
+reactions
+university
+levels
+properties
+show
+model
+protein
+43 species
+shown
+/
+degrees
+group
+correspond
+linked
+higher
+components
+obtaining
+intuitive
+substrates [
+substrates
+blue
+apparent
+neighbors
+genet
+larger
+spatially
+1/3
+ecol
+scalefree
+links
+coenzyme
+order
+cambridge
+substrate
+characterized
+connections
+set
+generic
+[min
+emergence
+reduced
+important
+link
+phosphate
+models
+zmuc
+partitioned
+nodes
+256 nodes
+ki ­ 1
+ki
+results
+chicago
+current
+nature 397
+nature 407
+number
+part
+kj
+nature 329
+observed
+closer
+nature
+article
+hubs
+nature 402
+2 observed
+nature 335
+nature 393
+nature 385
+application
+495 article
+1c
+http
+press
+function
+rev
+node
+fig
+organisms
+43 organisms
+concept
+sci
+l-glutamine
+eds
+flake
+stattersfield
+subjected
+technique
+eukaryote
+wuchty
+dctp
+bakker
+bioessays 24
+indicating
+brown
+incorporate
+keeping
+colwell
+fall
+somera
+altering
+rosenzweig
+girvan
+demonstrated
+affect
+cdp
+accumulation
+overbeek
+smaller
+neighborhood
+consistent
+prediction
+understanding
+biochemistry-based
+currie
+copenhagen
+eng
+assistance
+find
+lennon
+fjeldså
+3a
+contrast
+hundreds
+surette
+paquin
+graves
+dowsett-lemaire
+ctp
+color-coded
+andriamampianina
+dcdp
+//arxiv
+vespignani
+hopfield
+fell
+org/abs/cond-mat/ 0108043
+addressed
+analyzing
+apply
+schilling
+usa
+2department
+elenga
+predictions
+milo
+encode
+conservation
+cieplak
+achieving
+successful
+biogeogr
+koonin
+behalf
+c47
+reproduce
+suggestive
+making
+hansen
+aaas
+gaston
+december
+cited
+organized
+copying
+surround
+novit
+kremen
+sole
+alb@
+pair
+explains
+mendes
+barkai
+wiley
+collection
+connectivity
+rows
+branches
+correlate
+replication
+hasty
+wint
+nih
+complexity
+subsequently
+produces
+hierarchy
+ttp
+murray
+existence
+owens
+ln 4
+wagner
+motifs
+absence
+paley
+archaea
+correspondence
+anim
+evol
+reordered
+propose
+pyruvate
+possess
+2/40
+kerr
+shen-orr
+2a
+2b
+found
+spellman
+org/cgi/content/full/297/5586/1551/dc1
+week
+dichotomy
+4b
+connect
+measure
+approximated
+nucleotide
+cump
+space
+flagella
+4c
+languy
+performs
+internet
+suggesting
+illustrate
+red
+predicted
+blue-
+free
+approaches
+statistics
+biochemically
+si/pub/networks/pajek/
+definition
+watts
+local
+uncovering
+cmp
+lyons
+barabasi
+probability
+holter
+biomed
+rahbek
+biol
+s-dihydroorotate
+org/
+tdp
+leading
+top
+approximately
+1a
+needed
+lawrenson
+auk 102
+lauffenburger
+conserv
+greenwood
+isolation
+collins
+oikos 81
+ranging
+accessed
+synthesis
+vicsek
+html
+1/
+mangan
+karp
+schuster
+1b
+kepler
+turner
+turn
+bacterium
+-
+bacteria
+instance
+genetically
+green
+efg
+play
+added
+replicas
+copyright 2002
+react
+visualize
+eukaryotes
+services
+interconnectivity
+doi
+broadie
+rogers
+calculated
+physica
+ricklefs
+eisen
+physics
+fact
+coetzee
+albert
+lewis
+supported
+ravasz
+hartwell
+implying
+relation
+participate
+access
+´ adv
+parameters
+1126/science
+distributed
+dcmp
+woodward
+thousands
+columns
+pastor-satorras
+peptide
+/permissions
+goltsev
+3/4
+3b
+represented
+evolution
+resolve
+investigate
+dump
+packer
+accompanied
+//vlado
+discussions
+jeong
+metabolite
+capacity
+mus
+harvey
+identification
+email
+//www
+comparable
+dc 20005
+notion
+1
+
+department
+gotelli
+hurtt
+jetz
+jn
+banavar
+concentrated
+parentheses
+alon
+equal
+leibler
+dorogovtsev
+fedoroff
+pellegrini-toole
+groups
+dutp
+karev
+coexistence
+giles
+ln 3
+sciencemag
+exception
+dowsett
+dtmp
+ribosomes
+pp
+generality
+addition
+due
+dtdp
+genetic
+rao
+expected
+riley
+define
+direction
+arkin
+freckleton
+understand
+present
+act
+uni-lj
+waltenbaugh
+generate
+flammini
+pathology
+pomeroy
+grant
+belong
+parts
+cyan
+21-01-0547
+ecography 24
+investigated
+ecography 23
+sys
+appeared
+lawrence
+reflect
+experimental
+vazquez
+left
+campbell
+koleff
+ccmp
+identify
+farther
+featherstone
+smith
+advancement
+hay
+belongs
+combine
+natl
+newman
+farkas
+mod
+gartshore
+identical
+asymptotically
+branch
+rules
+il 60611
+mol
+mongru
+identifying
+zool
+grants
+decrease
+acad
+crowe
+strogatz
+tmp
+annu
+comments
+schluter
+decomposition
+proc
+willig
+refer
+assembly
+energy
+computer 53
+agreement
+prohibited
+compl
+dependence
+recognized
+wolf
+dudp
+soc
+capper
+dilemma
+palsson
+presence
+tombor
+washington
+contrasts
+payn
+lande
+determine
+measured
+oltvai
+anderson
+2/13
+yellow
+mcmillen
+linn
+letscher
+removed
+absent
+partitioning
+arranged
+fmf
+evident
+krummenacker
+balmford
+utp
+k-independent
+baker
+isaacs
+maritan
+al
+internal
+botstein
+lees
+nat
+department
+nr
+theor
+phys
+kitano
+center
+bottom
+allowing
+cressie
+4d
+delineate
+dandekar
+implies
+dutson
+assume
+organism
+barcelona
+purple
+time
+requires
+4a
+0
+341
+7
+198
+25­27
+529
+440
+64
+101
+105
+901
+32
+2616
+6
+98
+90
+93
+95
+1993
+1995
+1994
+1997
+1999
+1998
+´ 13
+556
+1
+1694
+144
+1693
+7821
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+2*
+5031
+47 ´
+391
+581
+299
+2833
+´ 11
+1073374
+621
+*
+5661
+203
+4534
+­
+1803
+651
+11
+10
+13
+12
+15
+14
+17
+16
+19
+99
+350 ­363
+326
+75
+70
+2
+229
+3
+559 ´
+8
+123
+417
+18
+1
+
+1 1
+2­ 6
+1662
+50 0
+570
+14863
+65
+66
+67
+252
+]
+97
+1200
+4 ­ 8
+31
+30
+9
+168
+4
+267
+268
+74
+1551
+56
+539
+46556
+69
+1987
+1985
+1982
+1988
+066130
+1­3
+509
+43
+40
+5
+2002
+2000
+2001
+2008
+066122

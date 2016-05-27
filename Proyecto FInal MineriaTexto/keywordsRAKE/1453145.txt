@@ -1,0 +1,1646 @@
+26
+
+james sinclair & michael cardew-hall
+
+occluded articles 600 occluded articles 500 400 300 200 100 0 0 200 400 600 total articles tagged fig
+responses 10 8 7 4 4 4 4 3 reason category search box allowed greater specificity depends
+free text search query requires greater mental activity
+22
+
+james sinclair & michael cardew-hall
+
+table 3 last-strike queries method
+jeffrey zeldman [23] initially criticized tag clouds simply
+19
+
+james sinclair & michael cardew-hall
+
+table 2 questions asked
+17
+
+james sinclair & michael cardew-hall
+
+table 1 participants participants
+25
+
+james sinclair & michael cardew-hall
+
+table 7 reasons
+16
+
+james sinclair & michael cardew-hall
+
+generation
+20
+
+james sinclair & michael cardew-hall
+
+fig
+18
+
+james sinclair & michael cardew-hall
+
+fig
+24
+
+james sinclair & michael cardew-hall
+
+table 5
+23
+
+james sinclair & michael cardew-hall
+
+table 4
+27
+
+james sinclair & michael cardew-hall
+28
+
+james sinclair & michael cardew-hall
+
+[11]
+15
+
+james sinclair & michael cardew-hall
+21
+
+james sinclair & michael cardew-hall
+3rd european semantic web conference
+occluded articles increased proportionally
+search box tag cloud
+
+search box
+authorgenerated metadata lacks credibility
+associate freely determined keywords
+freely determined keywords assigned
+tags invoked ideas immediately
+international dcmi metadata conference
+author-generated dublin core metadata
+default font size set
+occlusion remained roughly constant
+co-occurring tags presented articles tagged
+information-seeking task required specific information
+first-year engineering class offered
+popularity metric hinders access
+interlinked related tag sets
+michael cardew-hall
+department
+cloud search box tag cloud 1
+article cites 7 articles hosted
+user interface element commonly
+individuals ostensibly create tags
+people performing information-seeking tasks
+michael cardew-hall journal
+system selected articles randomly
+collaborative web tagging workshop
+800 1000 1200
+
+percentage occlusion 70 60 50 40 30 20 10 0 1 2 3 4 5 session fig
+participants sharing similar interests [15]
+information professionals
+
+additional services
+folksonomy-based websites order results
+vector spaces algorithm provided
+author versus expert categorization
+tag clouds
+
+tag clouds
+criticized tag clouds
+browsing versus finding
+
+questions 2
+15th international conference
+formulating specific query terms
+james sinclair
+tag clouds support browsing
+system presented search results
+system generated query results
+share similar interests
+tagging services
+
+tagging services
+tag cloud interface showed
+greater specificity
+search box allowed
+maximum text size
+video game addiction
+arxiv preprint cs
+first-year engineering class
+false intellectual equivalence
+world wide web
+31
+
+search box 300 250 200 frequency 150 100 50 0 0 2 4 6 8 10 12 14 number
+tag cloud requires
+cloud remained constant
+tf-idf term-weighting method
+single keyword requires
+add subject-related metadata
+ranking folksonomy search results
+information management tasks
+single click requires
+promote social capital
+social book-marking service
+fast growing subset
+frequency 300 250 200 150 100 50 0
+
+tag cloud
+
+0 2 4 6 8 10 12 14 number
+popular folksonomy-based websites
+tag cloud occlusion
+highwire press platforms
+recognizing relevant words
+15 originally published online
+conventional search box
+search box lets
+search box exclusively
+search box due
+`browsing versus finding
+information processing & management 42
+system allowed participants
+tag cloud increased
+vector spaces algorithm
+compound words created `
+providing quality metadata
+power law distribution [15]
+tag size relative
+tag cloud required
+social bookmarking service
+social bookmarking tools
+­ yahoo acquires del
+performed empirical studies
+empirical evidence prompted
+important organizing instruments
+information seeking tools
+viewing individual articles
+matched query terms
+author generated metadata
+examine user perceptions
+social capital analysis
+specific topics represented
+traditional search interface
+search interface showing
+information architecture practitioners
+tagging services exist
+13] tagging services sidestep
+tagging services acts
+tag cloud contained
+tag cloud offers
+front tag cloud
+tag cloud `suggested
+tag cloud familiarizes
+tag cloud unfamiliar
+tag cloud histogram
+tag cloud dominated
+tag cloud outweighed
+tag cloud translates
+tomas vander wal ­
+york times 11 december
+sage journals online
+spicific [sic] things [
+focussed queries based
+finding things unexpectedly
+published introductory studies
+perform information-seeking tasks
+typical folksonomy data
+exploring folksonomy data
+delegate data entry
+user created metadata [14]
+locate relevant information
+similar tagging vocabulary
+two-phase search process
+social feedback aspect
+search box interface
+result set displayed
+supplementary classification scheme
+building quality assurance
+tagging systems mitigate
+seeking specific information
+specific information seeking
+tag clouds `create
+collaborative tagging services
+entering query terms
+tag based query
+making access easier
+australian national university
+recall relevant words
+consensus vocabulary emerges
+exit survey support
+including tag links
+timesaving feature common
+support knowledge sharing
+collaborative tagging systems
+exit survey search 35
+subsequent tag cloud
+ten participants commented
+title=tag_cloud&oldid=63880649
+tag cloud query
+describing related resources
+participants relied solely
+medium-sized organization scale [21]
+delicious user community [17]
+browsing activity
+determine meta keywords
+answer question fig
+tag cloud shows
+people seeking information
+giving 890 last-strike queries
+enter `web design
+major disadvantage compared
+emergent dataset arising
+elicit information-seeking behaviour 1
+tag cloud interface
+sinclair@anu
+non-specific information discovery
+system presented participants
+examine user interfaces
+semantic web
+questions makes sense
+tag cloud keyword
+existing folksonomy dataset
+folksonomy tag cloud
+tag clouds provide
+questions asked participants
+tagging services claim
+typing search terms
+tag cloud displayed
+maximum resource discovery
+total number
+search fig
+participant solely relied
+allowing authors control
+tag cloud made
+find related articles
+database system assigns
+term `amateur bibliography
+horizontal screen space
+popular tagging systems
+social navigation tool [22]
+classify resources added
+yahoo acquires flickr
+single word tags
+present folksonomy data
+folksonomies ­ cooperative classification
+tag cloud `suggests
+strike query methods
+tagging systems find
+examining survey comments
+relevant keyword present
+wrote responses
+folksonomy dataset created
+table 3 shows
+full text
+surrounding text
+table 1 summarizes
+17th conference
+information science
+http
+table 6 participants
+last-strike query
+`last-strike query
+cambridge university press
+tagged articles
+articles tagged
+queries required
+89 participants answered 10 questions
+search box
+search box 367
+search box ­
+tagging simply
+relied solely
+web resources
+co-occurring tags
+query method
+metadata quality
+author-generated keywords
+tag clouds
+search terms
+social aspect
+social bookmarking
+greater preference
+information-seeking task
+total
+direct access
+simply retrieving
+analysis based
+reason `
+last-strike queries
+commonly referred
+create metadata
+larger font
+last-strike usage
+collaborative bibliography
+information seeking
+selected tag
+information-seeking behaviour
+collaborative tagging
+asked participants
+query terms
+tag 10 articles
+tag articles
+support tagging
+james
+user interfaces
+tagging articles
+question
+
+07
+
+06
+
+participants
+
+05
+
+04
+
+03
+
+02
+
+01 1 2 3 4 5 6 7 8 9 10 question
+search interface
+search results
+information architecture
+finding information
+folksonomy-based dataset
+single query
+tagging services
+[16]
+
+tagging services
+tagging services [5
+`tag cloud
+tag cloud 427
+tag cloud
+vander wal
+artificially selected
+online version
+maximum frequency
+finding things
+wide variety
+/cgi/content/abstract/34/1/15
+
+published
+serendipitous discovery
+exit survey
+query results
+single word
+articles featuring
+ranks articles
+placing articles
+answer question
+
+number
+single tag
+presented participants
+metadata creation
+knowledge sharing [20]
+metadata specialist
+roughly half
+emergent vocabulary
+relevant information
+provided keywords
+search boxes
+search facility
+search mechanism
+search word/
+search bar
+previous search
+search engines
+social aspects
+single interface
+tagging system
+allowing spaces
+specific differences
+classification scheme
+usefull [sic]
+extremely common
+entering queries
+fast[er]
+manner similar
+amateur bibliography
+specific characterization
+scaling constant
+specific equation
+quality filter
+feedback mechanism
+tagging systems
+tagging interface
+provided participants
+participants relied
+browsing behaviour
+relevant keywords
+relevant keyword
+keyword relevant
+expensive task
+social navigation
+single keyword
+information professionals
+uncontrolled vocabulary
+individual weights
+low-level topics
+word combination
+individual non-conformity
+mit press
+collaborative organization
+tag proportional
+tag usage
+single page
+people tagging
+information science
+information science 2008
+information science 37
+information science 32
+specific questions
+query made
+system administrators
+system recorded
+article tagged
+systems important
+usable systems
+large-scale systems
+specific content
+professional bibliography
+information retrieval
+
+1
+information technology 21
+information artefacts
+information retrieval
+information institute
+digital information 2
+information gained
+information seeker
+seek information
+interface depended
+collaborative work
+plain-text tagging
+popular press [1
+displayed results
+results page
+strike queries
+algorithm selects
+participants commented
+interface participants
+dangerous things
+sorting things
+tags added
+fig
+shared metadata
+people working
+enhance people
+subsequent article
+unauthorized distribution
+tagging resources
+create tags
+social incentive
+worst-case-scenario folksonomy
+folksonomy develops
+larger-scale folksonomy
+folksonomy datasets
+folksonomy definition
+term `folksonomy
+folksonomy frequency
+select articles
+electronic environments
+specific topic
+increasing integration
+excellent review
+high level
+broader aim
+scientific journals
+powerful tool
+report upwards
+cognitive load
+accessed 3 july 2006
+nav citations
+/cgi/alerts subscriptions
+accessed 24 june 2006
+rights reserved
+sole means
+displayed order
+chartered institute
+experimental psychology
+positive attributes
+accessed 23 june 2006
+improved annotation
+/archives/2005/5/4/ tag_clouds_a_response
+accessed 3 june 2006
+accessed 27 june 2006
+/ archives/zeldman-in-the-title
+d-lib magazine 12
+d-lib magazine 11
+offer[ing]
+visual summary
+sustainable fuels
+allowed
+experimental conditions
+computer literacy
+lasting trend
+expanding rapidly
+accessed 10 march 2006
+/ 2005/12/09/yahoo-acquires-delicious/
+cognitive distance
+remove forebrain
+/cgi/content/refs/34/1/15
+
+downloaded
+scientific idea/discovery
+accessed 17 july 2006
+acknowledging contributions
+hold true
+usage patterns
+accessed 26 october 2006
+nav permissions
+supplement indexing
+american society
+computer games
+ranking results
+peer-reviewed conferences
+step back
+approximately 25 minutes
+right-hand side
+man credited
+potentially resulting
+tagsize = 1 +
+externally vetted
+key characteristic
+accessed 5 june 2006
+enormous variety
+controlled vocabularies
+largely silent
+deliberate misuse
+academic literature
+responses
+hierarchical clustering
+students enrolled
+visual depiction
+cued recall
+corporate intranet
+guardian 12 september
+deliberately misleading
+punctuation inside
+strategic acquisition
+visual design
+personal benefit
+rapid expansion
+organizational settings
+accessed 7 october 2006
+fringe contacts
+chapel hill
+hierarchical schemes
+happen quickly
+accessed 18 july 2006
+/~doctorow/metacrap
+north carolina
+medium-sized organizations
+2008 © 2008 chartered institute
+accessed 25 july 2006
+slashdot science5
+properly evaluating
+examine aspects
+/subscriptions reprints
+retrieval processes
+minimum frequency
+inside technology
+accessed 27 october 2006
+increase accessibility
+net/random/ entrysel
+semiotic dynamics
+generally alphabetical
+accessed 19 july 2006
+popular keywords
+articles inaccessible
+articles accessible
+1177/0165551506078083
+downloaded
+prevented participants
+recruited participants
+participants lacked
+reminding participants
+participants favoured
+allowing participants
+giving participants
+question provided
+query methods
+amateur bibliographies
+subject terms
+relevant article
+article related
+find information
+acm press
+domain analysis
+chicago press
+broad categorization
+greater
+relevant answer
+resources visible
+key resources
+resources compiled
+tag returned
+early feature
+characteristic feature
+key questions
+unanswered questions
+non-specific questions
+completing 10 questions
+participants made 13
+folksonomy dataset
+tags created
+maintain consistency
+great deal
+top 70 most-
+interesting application
+great advantage
+great benefit
+encourage consistency
+mathes [14] commented
+less-than-ideal dataset
+interface shown
+general topics
+tagging items
+tagging paper
+relevant resource
+participants preferred
+significant number
+directly compare
+`website design
+fmin + 1
+website design
+contributed tags
+multi-word tags
+called `tags
+tags supported
+find amusing
+approximately half
+chosen keyword
+allowing authors
+academic article
+popular tags
+participants answered
+continue querying
+navigation aid
+ideally suited
+australia
+
+abstract
+learning objects
+table 2
+table 7
+table 6
+table 5
+basic problem
+paper reports
+table 4
+tags made
+refer broadly
+significant proportion
+e-prints communities
+good
+
+conversely
+fall short
+tripartite network
+broad categories
+key factor
+reflect contexts
+email alerts
+ongoing cost
+broader criticisms
+mentioned previously
+griffin [11] argue
+conditions produce
+age range
+waikato library
+general browsing
+participants querying
+interested participants
+participants stated
+figure 6 shows
+participant observes
+participant performs
+keyword nasa
+keyword biology
+weighted list
+general review
+subject area
+general area
+top 70 tags
+content tags
+full potential
+potential users
+questions answered
+compare number
+find interesting
+participants select
+jon claimed
+military applications
+personal relevance
+baseline study
+generally lead
+difficult challenge
+put time
+wikipedia encyclopaedia
+porter counter-argues
+content authors
+people found
+answer 10 questions
+answer questions
+participants appeared
+zeldman appears
+workshop
+cognitive effort
+generally make
+heated discussion
+large number
+small number
+comments include
+endnotes 1 2 3 4 5 6 7 8 http
+/ http
+au journal
+org/science www
+/ www
+half devoted
+participant comments
+participant tags
+recently items
+simply
+frequently studied
+answer question
+participant group
+clear potential
+size
+examples included
+tagged
+method
+support
+presented
+author
+montanez point
+reasons
+generated
+articles
+1074 articles
+10 articles
+metadata
+sharing
+data
+enterprise context
+study found
+search 96
+search
+terms
+specific
+spaces
+formulating
+finding
+services
+showed
+query
+experiment sessions
+cloud 1
+cloud
+create
+categorization
+tag
+
+3
+tag
+tag 26
+6 related
+system
+information
+interface
+tagging
+algorithm
+results
+things
+created
+browsing
+`browsing
+`keywords
+keywords
+keyword
+people
+05 keyword
+folksonomy
+`folksonomy
+classification
+yahoo
+classify
+order
+percentage
+tool
+result
+elicit
+disadvantage
+evidence
+claim
+journals
+displayed
+term
+determine
+examine
+important
+building
+design
+recall
+non-specific
+popularity
+expert
+interfaces
+studies
+entry
+examining
+consensus
+engineering
+allowing
+click
+giving
+makes
+process
+frequency
+zeldman
+knowledge
+queries
+links [36]
+14 queries
+compared
+space
+1177/0165551506078083
+300 participants
+89 participants
+participants
+· participants
+popular
+made
+navigation
+resources
+feature
+ranking
+questions 5
+questions 1
+questions 2
+questions
+10 questions
+content
+top
+preferred
+interesting
+consistency
+great
+dataset
+number
+provide
+enter
+typing
+website
+aid
+perform
+comments
+cambridge
+compare
+typing [
+fmin
+department
+bibliographies
+[5] provide
+york
+70 tags
+tags
+organization
+half
+find
+present
+answered
+authors
+article
+items
+mathes
+work
+answer
+network
+manner
+interested
+devoted
+cost
+studied
+organizations
+topic
+conversely
+produce
+scaling
+domain
+shown
+proportion
+learning
+acm
+suited
+griffin
+returned
+fall
+large
+small
+stated
+reflect
+paper
+communities
+frequently
+clear
+factor
+querying
+`shared
+recently
+australia
+methods
+examples
+range
+criticisms
+include
+refer
+chicago
+suggests
+chosen
+incentive
+email
+group
+broad
+previously
+answer 17
+problem
+library
+question
+participant
+easier
+screen
+`easier
+general
+list
+select
+subject
+list [37]
+potential
+resource
+session
+university
+wikipedia
+appeared
+study
+time
+sessions
+applications
+montanez
+porter [26]
+context
+point
+relevance
+nasa
+montanez [29]
+porter
+inaccessible
+study [
+jon
+jon [25]
+difficult
+accessible
+lead
+biology
+flickr [3]
+flickr
+enterprise [
+enterprise
+make
+appears
+effort
+discussion
+included
+delicious
+delicious [4]
+found
+database
+folksonomies
+preference
+title
+http
+journal
+www
+www [9]
+figure 3
+experiment
+figure 8
+figure 1
+figure 2
+figure 4
+figure 5
+figure 6
+figure 7
+cognition 27
+presents
+rise
+summarized
+doctorrow
+miller
+consistent
+millen
+preferences
+rawsugar6
+autotagging
+conduct
+dk/issues/issue3/_12/thomas/index
+employees
+golder
+browse
+tabulated
+music
+separated
+expose
+springer
+ma
+1 delicious2
+turn
+verify
+tidying
+attempt
+www2006/25
+blog=1750
+classified
+barton
+feinberg
+cy/0605015
+mccarthy
+perception
+wanted
+exposing
+organize
+rank
+featured
+quicker
+adopted
+needed
+master
+listed
+ranging
+serve
+formulate
+17 august 2005
+tonkin
+fuelled
+1045/april2005-hammond
+mind
+contents
+montenegro
+hammond
+doi
+observation
+resnick
+responded
+non-experts
+vanderwal
+situations
+mixture
+hendry
+observed
+techniques
+approach
+//www
+restricting
+urls
+non-professionals
+technorati3
+currier
+interest
+smartness
+voice
+robertsin
+//jis
+seattle
+citeulike
+avoids
+www2006
+rawsugar
+claims
+left
+proposed
+ariadne 47
+unfair
+monday 3
+collections
+gave
+critique
+bottom
+repository
+post
+farrell
+managers
+presence
+marchionini
+loreto
+hypermedia
+form
+sutton
+attempted
+uk/issue5metadatamasses
+submitting
+expertise
+furl
+uk/articles/v02/i02/greenberg
+ny
+papers
+shiffrin
+damianos
+faster
+assume
+ds/0512090
+concept
+indicating
+focus
+wiil
+downloading
+domingue
+hannay
+emphasized
+perceived
+standards
+item
+guy
+findings
+parsia
+htm
+fmax
+makeup
+address
+bookmarks
+]uch
+scenarios
+opposed
+memory
+clicking
+cases
+behalf
+necessarily
+refine
+serendipity
+occur
+pink
+edinburgh
+wonderful
+designed
+date
+//bokardo
+canberra
+hirst
+forms
+correspondence
+subordinates
+org/ 10
+kerr
+//flickr
+selfpromotion
+heading `
+torch
+small-
+factors
+ausloos
+investigation
+navigating
+internet
+carr
+brooks
+onomi
+advantages
+org
+language
+place
+org/10
+saving
+lau
+org/
+/academic/computer-mediated-communication/folksonomies
+coining
+convention
+greenberg
+browser
+net/random/entrysel
+shtml
+answering
+strengths
+begin
+price
+considered
+adopt
+archaeology
+show
+taxonomy
+searchenginewatch
+suggest
+15­29 © cilip
+ways
+naaman
+svenonius
+dated
+effective
+mars
+burkeman
+obscuring
+irrelevant
+case
+investigating
+interactions 7
+characteristics
+alphabet
+archive
+html
+screenshot
+disadvantages
+whole-ofinternet
+inability
+researchers
+//jodi
+thinking
+blog
+read
+jenkins
+//adammathes
+reduces
+fidelman
+/journalsreprints
+confirm
+budva
+notably
+`cute
+cattuto
+communication
+lively
+hey
+start
+`copy
+regard
+wexelblat
+/journalspermissions
+ac
+videos
+al
+field
+symbol
+pool
+represent
+lack
+follow
+referring
+/blog/050320213044
+lambiotte
+corollary
+worst
+syracuse
+eds
+employing
+opting
+dissertation
+magnolia
+public
+contrast
+bloggers
+observing
+narrow
+options
+//blog
+//slashdot
+uk/issue47/tonkin/
+male
+history
+bowker
+`smart
+fi
+choice
+response
+marlow
+essence
+hypertext
+scott
+resort
+firstmonday
+weight
+idea
+skewed
+research
+issue
+lakoff
+benefits
+conducted
+sagepublications
+introduction
+wulf
+assumption
+option
+part
+kind
+sub-cloud
+determines
+scotland
+majority
+adds
+act 0200
+nonspecific
+thomas
+commas
+defended
+] clicking
+dourish
+cuomo
+//del
+understudied
+bibliography-
+//dev
+blog=1829
+scanning
+1045/january2006-guy
+familiarity
+griffith
+halves
+pattuelli
+respondents
+ranked
+pdf
+pp
+ensured
+partly
+fire
+/daily/0505a
+lives
+metacrap
+classifications
+dc-2003
+costly
+drawbacks
+traditionally
+purpose
+meta-tag
+äschke
+references
+[1]
+mysql
+heidelberg
+huberman
+schmitz
+interestingly
+terminology
+understood
+nicholasjon
+eliminate
+usa
+/doc/internals/en/full-text-search
+primarily
+//dx
+boyd
+ht06
+don
+exploration
+choosing
+coded
+pietronero
+explaining
+problems
+helping
+ariadne
+technorati
+helps
+wished
+putting
+people-tagging
+proliferation
+commercial
+explore
+engage
+addressed
+decrease
+soton
+nobel
+depicted
+didn[
+women
+/index
+purposes
+high-
+mullets
+eswc 2006
+queue 3
+philosophy
+collection
+fits
+//en
+light
+divided
+masses
+hypothesize
+techcrunch
+popularly
+practice
+realize
+constraints
+internet [
+smallwood
+ecs
+log
+davis
+histograms
+lists
+suitability
+blogosphere
+sub-sub-clouds
+consequences
+proceedings
+databases
+fact
+dieberger
+cognitively
+underappreciated
+thousands
+photographs
+familiar
+topixa
+proponents
+stumme
+ability
+memephoria
+hypothesis
+commenting
+arrington
+unclear
+conclude
+/daily/0405d
+respect
+addition
+huysman
+sagepub
+sufficient
+unlike
+podcasts
+`tail
+audiences
+meta-utopia
+php
+english
+firstly
+hotho
+ariadne 5
+warrant
+icio
+nanotechnology
+helpful
+searching
+ideal [32
+star
+establishing
+recognition
+limitations
+inaccurate
+selecting
+unsuitability
+paste
+washington
+female
+lund
+folksonomy-
+rushed
+intention
+/www2006/28
+convergence
+limit
+hand
+piece
+display
+details
+conclusion
+kinds
+variation
+precision
+straw-men
+searches
+[9]
+[18]
+1990
+1996
+1999
+[35]
+[8]
+[34]
+[19]
+18 1
+331­40
+0%
+[21]
+10%
+[32]
+55
+53
+5%
+[33]
+10 %
+[6­8]
+9
+
+1
+[20]
+6 7 8 9
+
+4
+65 194 194
+28­35
+0
+89 6 83 18­24 10 2 973 108
+[
+1 10
+[23]
+198­208
+1
+1995
+[22]
+2
+11
+10
+12
+15
+14
+17
+19
+18
+1%
+40­51
+]
+3
+31­39
+6%
+2%
+31 173 233
+[25]
+[12
+4
+[10]
+33 %
+805­25
+[24]
+5
+[31]
+`
+6
+25
+21
+[29]
+29
+·
+[27]
+2]
+7
+[12]
+[3]
+18]
+36 %
+70
+[26]
+53 2
+8
+[13]
+[2]
+[28]
+39
+9
+[30]
+30]
+384­413
+411­42
+[14]
+[5]
+2003
+2000
+2001
+2006
+2007
+2004
+2005
+2008
+625­31
+31
+34
+3%
+[15]
+[4]
+21 %
+33]
+36­45
+8%
+[16]
+[36]
+[7]
+[27] ­
+35]
+[37]
+[6]
+[17]
+1986
+öö
+48
+42
+41

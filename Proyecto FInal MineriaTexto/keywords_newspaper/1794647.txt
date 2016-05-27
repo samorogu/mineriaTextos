@@ -1,0 +1,13 @@
+nmr
+models
+energy
+1794647txt
+regions
+refinement
+master
+samorogu
+protein
+molecular
+model
+structure
+replacement

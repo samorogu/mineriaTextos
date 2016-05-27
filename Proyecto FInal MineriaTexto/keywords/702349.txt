@@ -1,0 +1,217 @@
+lower-probability
+humans15,19
+hierarchy
+right-handed
+subgoals23
+Department
+anatomical separation
+high-level
+behavioural perseveration
+Supplementary Information
+principal
+visualization
+Reward-related
+parameters
+postcentral
+Kringelbach
+Foundation
+suboptimal
+environment
+significant value-related
+reinforcement learning2
+primates24­26
+Acknowledgements
+Massachusetts
+heuristics14
+activation
+value-sensitive
+Reinforcement
+systems11
+framework
+Differential activation
+Exploration
+behavioural control20
+difference
+LETTERS NATURE|Vol
+Exploration-related
+best-fitting
+overriding
+Fellowship
+North-Holland
+appetitive
+representation
+temporal-difference
+magnitude
+architecture
+Computational Neuroscience
+cumulative likelihood
+Neuropsychologia
+predictive
+Kaelbling
+differential
+financial
+value-based exploitative
+unpublished
+consistent
+California Institute
+Neuropsychological
+Specifically
+pathology28
+frequency
+ventromedial prefrontal
+prefrontal
+Loewenstein
+`four-armed
+dorsolateral prefrontal
+advantageous
+Initially
+restricted
+NATURE|Vol
+integrative
+`1-greedy
+Programme
+alignment
+computational reinforcement
+activations
+exploration
+model-based
+structure21
+equivalent
+discovery
+Sejnowski
+King-Casas
+Characteristic
+University
+processing
+illustration
+behavioural strategies
+behaviour
+analytical
+complicated
+possibility
+likelihood
+METHODS
+prediction algorithm
+comparison
+Cambridge
+uncertainty
+anomalous
+experience
+substantial experimental
+ventro-medial prefrontal
+`exploration­exploitation
+dopaminergic3,4
+signature
+contribution
+error-driven prediction
+Technology
+punishment
+subject-averaged structural
+regulating competition
+probability
+characterization
+decision-related
+functional
+noradrenaline
+exploitative behavioural
+Statistics
+involvement
+functional organization
+stimuli13
+self-directed exploration
+inter-trial
+supervene12
+whole-brain correction
+Gharamani
+theoretical1
+Dissociable
+California Boulevard
+additional
+introduction
+Critchley
+available
+Illustration
+regulation
+intraparietal
+Aston-Jones
+subsequent
+theoretical
+prefrontal controllers22
+model-generated
+exploration-related activation
+frontopolar
+time-locked
+well-regarded
+sophisticated
+manipulation27
+particular
+Rajkowski
+Alexandra
+neuropharmacological
+maximizing
+Metalearning
+characteristic
+explore/exploit
+computational modelling
+Supplementary
+aforementioned strategies
+Neurology
+exploitative
+strategies
+informational
+acquisition
+addressing
+Servan-Schreiber
+button-press
+Publishing
+mesencephalic
+exploration1,13
+Introduction
+Furthermore
+Prediction
+ethological10 perspectives
+Generalization
+Bongiolatti
+regression
+reward-related
+Correspondence
+information
+different
+hemodynamic
+LETTERS
+exploratory
+Activation
+statistical parametric
+mechanism
+propensity
+blood-oxygenation-level-dependent
+Kouneiher
+regulating
+switching
+independent
+trial-by-trial
+ubiquitous
+description
+Embedded
+characteristic1
+cortico-basal
+studies7­9
+Gottfried
+explorationencouraging
+neuroanatomical
+subjective desirability
+curiosity
+quantitative
+O'Doherty
+instrumental
+Neuroimage
+observation
+Consistent
+post-task
+subcortical network15
+dopaminergic/striatal
+negligible
+saccade24­26
+orbitofrontal
+Amsterdam
+Uncertainty-based competition

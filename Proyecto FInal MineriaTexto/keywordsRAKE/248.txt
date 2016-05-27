@@ -1,0 +1,1004 @@
+identifying essential mechanisms underlying specific behaviors
+bifurcation analysis traces time-varying change
+automatically discover regulatory relationships solely
+systems biology impact pharmaceutical industries
+computing packages originally designed
+conducting extensive literature surveys
+gaining renewed interest today
+day mandate simulation-based screening
+receiving renewed mainstream attention
+domains produces modular architectures
+biological regulation requires high throughput
+org science vol 295 1 march 2002
+
+1663
+
+downloaded
+model-based experiment planning dictates
+gradually transform biological research
+individual components dynamically interact
+collect comprehensive data sets
+notes
+
+review
+
+reverse engineering
+sony computer science laboratories
+1664
+
+1 march 2002 vol 295 science www
+1662
+
+1 march 2002 vol 295 science www
+provide potential therapeutic targets
+predict systemic side effects
+signal transduction knowledge environment
+kitano symbiotic systems project
+complex biological regulatory systems
+undergo structural dynamics analysis
+network model include performing
+sensitivity analysis provide insights
+diagrams provide limited knowledge
+predict complex behaviors
+principles underlying biological robustness
+models reveal computational adequacy
+specific kinetic parameters
+minimal side effects
+sharp differences arise
+confirm earthquake resistance
+york avenue nw
+print issn 0036-8075
+including high-resolution figures
+nucleic acids res
+modular open-source software
+mechanismbased drug discovery
+established experimental facts
+review describes insights
+research institutions sharing
+avoid acquiring data
+rare cascading failures
+michigan medical school
+key starting point
+enable minute quantities
+characteristic slow degradation
+idealized laboratory settings
+overview
+hiroaki kitano
+overview hiroaki kitano
+identify specific interactions
+measurement bottlenecks exist
+flux balance analysis
+automated discovery analysis
+construct biological systems
+existing experimental evidence
+interacting signal-transduction cascades
+alternative metabolic pathways
+online issn 1095-9203
+resolve ambiguous hypotheses
+xml-based computer-
+
+fig
+polymerase chain reaction
+entropy-based decision-making algorithms
+readable model definition
+definite design principles
+automated discovery system
+studying complex networks
+measurements requires consideration
+network structures remain
+phenomenological properties exhibited
+biochemical factor involved
+nutritional conditions based
+complete system-level analysis
+build simulation software
+current experimental practices
+traditional stability analysis
+reflect dynamic behavior
+systems biology workbench
+systems biology mark-
+doyle2*
+advanced technologies
+sufficiently advanced technology
+complex engineering systems
+provide system-level insights
+eliminate inadequate models
+investigate network dynamics
+ambiguous network hypotheses
+improve system performance
+functional regulatory circuits
+biological complexity
+marie
+total analysis system
+steadystate rate constants
+general engineering purposes
+systems biology research
+systems biology institute
+high throughput
+areas requires breakthroughs
+article cites 18 articles
+multiple drug system
+making large-scale measurements
+traffic patterns emerge
+infer causality based
+erato kitano project
+metabolic network structure
+regulatory relationships
+in-depth simulation model
+identify feedback mechanisms
+dynamic analysis methods
+essential property
+sensitivity analysis
+bifurcation analysis
+complex systems
+individual components
+biological systems
+biological network
+complexity underlying
+jp
+
+review
+therapeutic agents
+underlying molecules
+signal line
+predict switching
+signal-transduction cascades
+structural stability
+advanced software
+design principles
+biological simulation
+regulatory circuits
+cell biology http
+metabolic analysis
+steadystate analysis
+universal principles
+dynamic systems
+systems behavior
+simulation project
+traffic patterns
+biological significance
+biological phenomena
+rate constants
+potential benefits
+drug administration
+comprehensive database
+devised based
+biochemical pathways
+advanced engineering
+much-touted potential
+system-level analysis
+engineering systems
+theoretical insights
+experimental devices
+substantial research
+hypothesis-driven research
+research begins
+hypothesisdriven research
+dynamic analysis
+biological knowledge
+biological system
+biological science
+dynamic behavior
+2008
+
+systems biology
+systems biology
+large-scale data
+idealized process
+desired data
+drawing diagrams
+metabolic pathway
+systemic response
+microarray data
+graceful degradation
+quantitative data
+provide major
+california institute
+85 articles hosted
+microfluidic systems
+dynamical systems
+robust systems
+multiple components
+kitano@csl
+software infrastructure
+software tools
+inadequate models
+existing knowledge
+network responsible
+network dynamics
+system failures
+system performance
+design patterns
+complex stimuli
+measurement technologies
+simultaneous measurement
+multicellular structures
+limited scope
+comprehensive set
+biochemical interactions
+analysis tools
+systems-level analysis
+clustering analysis
+homeostatic regulation
+transcriptional regulation
+dynamic simulator
+feedback regulation
+factor comprehensiveness
+computational sciences
+multiple items
+promote stability
+multiple hypotheses
+system structures
+circuit patterns
+imprecise components
+key properties
+functional properties
+biological complexity
+system analysis
+org
+
+downloaded
+modern engineering
+biochemical networks
+electrical engineering
+molecular interactions
+genetic interactions
+gene interactions
+design method
+interactions modulate
+unknown interactions
+good design
+systems-level design
+system behavior
+computational science
+posttranslational mechanisms
+exploratory mechanisms
+intrinsic mechanisms
+developmental biology
+molecular biology
+network structure
+protein concentrations
+increased emphasis
+practical terms
+permit visualization
+american association
+continuous spectrum
+central issues
+tokyo 141-0022
+pacific symposium
+physical implementations
+systems-level
+departments
+technical innovations
+malfunction occurs
+segment formation
+analytical method
+suite 6a
+minimize malfunctions
+expression profiling
+recurrent theme
+external fluctuations
+system-wide catastrophe
+hypotheses embedded
+major challenge
+blind trial-and-error
+overlapping processes
+rationally predicted
+3-14-13 higashi-gotanda
+earliest stage
+elaborate hierarchies
+rights reserved
+mathematical tools
+major reason
+negative feedback
+practical application
+tokyo 150-0001
+isi web
+technology corporation
+largely hidden
+embody arthur
+obtaining reprints
+highwire press
+bird program
+insufficient coverage
+optimal order
+theoretically suggest
+circadian rhythms
+subject collections
+ann arbor
+collective efforts
+widely appreciated
+functionally insulated
+registered trademark
+published weekly
+fruitful discussions
+uncertain-
+
+ty
+intensive investigation
+long history
+widely recognized
+exhaustive diagram
+expose inconsistencies
+enable integration
+static roadmap
+systems-level organization
+optimally allocated
+largely unaware
+paradoxical features
+express surprise
+online version
+approach advocated
+experimentally confirmed
+sophisticated theories
+feasible application
+6-31-15 jingumae
+phase portrait
+hidden complexities
+theoretical bridge
+detailed illustration
+common infrastructure
+mit press
+ex-
+
+periments
+signals encoded
+ultimate goal
+encourage automation
+bacterial chemotaxis
+multidimensional space
+emerging discipline
+engineered object
+obtaining permission
+gratuitously uncertain
+periodic table
+discipline fragmentation
+contradictory issues
+golden opportunity
+evolutionary family
+uncertain environments
+model representing
+correct model
+final model
+detailed model
+competing models
+system behaves
+system dynamics
+gene level
+circuit level
+molecular level
+abstraction level
+hypothesis-driven science
+title science
+dtl
+
+science
+medical practice
+circuits react
+system-level understanding
+in-depth understanding
+cell regulation
+accurate measurements
+// www
+high-throughput measurements
+single-molecule measurements
+system level
+item comprehensiveness
+dimension represents
+time-line comprehensiveness
+world scientific
+highrise building
+diagram represents
+cellular signaling
+analytical methods
+desired properties
+physical properties
+robust properties
+model represents
+model building
+org/cgi/content/full/295/5560/1662#otherarticles
+relative insensitivity
+critical component
+gene-regulatory networks
+gene-regulatory logic
+mrna abundance
+computable set
+mrna transcripts
+intracellular biochemical
+engineering complexity
+engineering theory
+cellular system
+systematically control
+control method
+feed-forward control
+gain information
+updated information
+org/cgi/collection/cell_biol information
+additional information
+organismal function
+successful experiments
+perfect adaptation
+fragility features
+// ecocyc
+resulting features
+time frame
+equivalent functions
+escherichia coli
+catastrophic failure
+identifying
+seek answers
+supported experimentally
+normal operation
+convergent evolution
+molecular-level understanding
+system control
+hidden nature
+nature biotechnol
+identify genes
+article sketches
+article appears
+understand biology
+enables models
+system functions
+apparent robustness
+malfunctioning cells
+norbert weiner
+genome sequencing
+rice genome
+represent attempts
+fully understood
+resources related
+exploratory studies
+desired state
+large number
+proteins continues
+conventional methods
+isolated parts
+parameter insensitivity
+japan science
+information derived
+experiments needed
+impact
+automatically
+critical aspects
+requires
+sufficient accuracy
+doyle@cds
+stke http
+cell cycle
+effects
+insights
+research
+environment
+include
+sony
+experiment
+downloaded
+provide
+project
+systems
+kitano
+network
+analysis
+regulation
+computational
+identify
+components
+simulation
+engineering
+mechanisms
+biology
+dynamics
+emerge
+hypotheses
+algorithms
+feedback
+fig
+online
+current
+causality
+areas
+reveal
+conditions
+large-scale
+reaction
+technology
+infer
+networks
+breakthroughs
+technologies
+general
+model
+knowledge
+models
+system
+level
+science
+science 287
+science 295
+science 284
+science 282
+circuits
+www
+measurements
+cellular
+represents
+scientific
+comprehensiveness
+building
+methods
+properties
+erato
+mrna
+org
+insensitivity
+set
+org/cgi/content/full/295/5560/1662
+gene-regulatory
+critical
+structure
+control
+information
+fragility
+theory
+cell
+resulting
+conventional
+adaptation
+parameter
+derived
+response
+complexity
+enables
+operation
+seek
+coli
+supported
+cds
+molecules
+evolution
+experiments
+intracellular
+sufficient
+cell 11
+stimuli
+drawing
+ecocyc
+integration
+stke
+function
+failure
+functions
+needed
+time
+understanding
+nature 397
+nature 387
+nature 406
+nature
+article
+524 article
+robustness
+resources
+studies
+scope
+practice
+accuracy
+attempts
+understand
+aspects
+doyle
+weiner
+understood
+cells
+genome
+http
+japan
+proteins
+number
+state
+cycle
+parts
+genes
+sci
+lack
+focus
+computation
+assembled
+barkai
+layers
+opportunities
+protocols
+analogous
+csete
+choice
+magic
+proc
+list
+phosphorylation
+prototypes
+afcs
+infancy
+pass
+chen
+driven
+selected
+revolutionize
+m31
+find
+consistently
+conduct
+experience
+john
+deemed
+cellularsignaling
+manually
+modify
+simon
+focused
+standard
+dry
+2control
+shift
+coexpressed
+bioengineering
+e60
+composed
+scales
+modulated
+genomics
+prove
+predictions
+live
+chu
+shed
+shinagawa
+means
+type
+reflects
+attained
+foundations
+iv
+iii
+ma
+ministry
+modified
+reproduce
+strategies
+numbers
+aaas
+transition
+december
+cited
+assumptions
+airplane
+posttranscriptional
+redundancy
+clarke
+damage
+shibuya
+plans
+catalog
+cambridge
+inconceivable
+light
+onami
+fundamental
+correlation
+picoliters
+developed
+insight
+affect
+legome
+nano-technologies
+fit
+imoto
+listing
+yi
+yoo
+animal
+richness
+food
+mi 48109
+stabilize
+weng
+university
+identified
+found
+noble
+series
+idea
+interplay
+femto-lasers
+denotes
+medicine
+achievements
+sbw
+localization
+cars
+sbml
+free
+interconnections
+approaches
+members
+radically
+enormous
+language
+created
+determining
+modularity
+days
+vision
+incorporated
+barriers
+preservation
+cybernetics
+csete1
+precisely
+agriculture
+org/
+physically
+consistent
+addressed
+cope
+rejected
+environmental
+part
+future
+accessed
+borisuk
+concentration
+subsystems
+built
+-
+subjects
+ca 91125
+davidson
+copyright 2002
+reach
+jst
+services
+measured
+conspicuous
+doi
+disease
+databases
+eisen
+notion
+dassaw
+incorporate
+selection
+phenomenon
+biocomputing 2002
+carefully
+availability
+1126/science
+controls
+electrophoresis
+hope
+exchanged
+/permissions
+compartmentalized
+shared
+introduced
+yield
+module
+operates
+depends
+ability
+exploited
+artificial
+identification
+conceptual
+progress
+email
+//www
+knowing
+creating
+dc 20005
+rapidly
+derive
+gilles
+distinguish
+alon
+cellml
+relevant
+sciencemag
+modeling
+negative-feedback
+pp
+basis
+create
+spread
+combined
+biophysicists
+treatment
+obtained
+natl
+al
+systematic
+demand
+present
+classifications
+developing
+conserved
+discoveries
+alike
+correspondence
+dictum
+coupled
+characteristics
+surprisingly
+ii
+make
+indistinguishable
+gibbs
+week
+jp/
+singapore
+anesthesiology
+purpose
+airplanes
+framework
+biocomputing
+ideker
+bodies
+proposed
+mol
+obtain
+motivating
+sources
+voltage
+questions
+speed
+grounded
+conclude
+advancement
+samples
+wet
+occurring
+micro-tas
+biologists
+progressed
+guide
+burns
+projects
+reduces
+fba
+/erato/
+classified
+cases
+drosophila
+creation
+ironically
+examples
+users
+lead
+contributing
+e-mail
+core
+noise
+assembly
+view
+step
+offset
+refers
+comparison
+dialog
+backup
+anderson
+alliance
+communication
+washington
+attains
+acad
+references
+sander
+area
+extremely
+biol
+ed
+pasadena
+kegg
+form
+goals
+survive
+usa
+absent
+made
+define
+promises
+ad
+deep
+examine
+simulations
+machine
+puzzling
+edwards
+reality
+drugs
+caltech
+test
+mathematics
+theor
+generates
+accidental
+generated
+important
+tested
+organism
+required
+simpson
+1948
+92
+95
+1669
+21­24
+1997
+1998
+1969
+1664
+1662
+195
+302­313
+59­75
+6
+97
+1999
+1
+498 ­509
+16
+24
+26
+27
+20
+21
+28
+25
+7
+2
+188
+11
+10
+13
+12
+15
+14
+17
+18
+1977
+3­13
+1069492
+1
+
+*
+26­28
+175­ 186
+7­9
+699
+3
+8
+125
+19
+15­17
+369
+365
+22
+23
+29
+69
+9
+14863
+1678
+4
+4649
+2256
+913
+1200
+5
+484
+2002
+2000
+2001
+18 ­20
+168
+2008

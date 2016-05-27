@@ -1,0 +1,2427 @@
+template refined model
+
+nmr
+
+1hb6 1who 1gnu 1a19 1fvk 1mzl 1tvg 2snm 1agr 1abq
+
+2abd 1bmw 1kot 1ab7 1a24 1afh 1xpw 2sob 1ezy 1awo 1ty9a 2c21c 2fhqa 1jgcb 1rqia 1lvhb 1aco 2b2j
+
+86 94 119 89
+powerful global optimization ideas underlying monte carlo minimization16
+molecular replacement solutions involves applying rigid-body transformations
+rosetta fragment-insertion-based de novo folding protocol36
+maintain subpopulations exploring alternative energy minima
+acyl coa binding protein 2abd
+rosetta de novo modelling method13 led
+selenium single-wavelength anomalous disper° sion
+lymphoma society career development fellowship
+gave similarly low molecular replacement scores
+laziridis­karplus implicit solvation model38
+crank compound monte carlo minimization moves
+performed cyclic-coordinate-descent-based backbone torsion angle moves
+computational infrastructure underlying rosetta@home
+blind rosetta de novo structure predictions
+protein structure initiative lists hundreds
+independently determined high-resolution x-ray crystal structures
+produce de novo protein structure predictions
+refinement protocol
+x-ray structure starting model* length
+radical footprinting32 show great promise
+tested sequence homologues gave exceptionally
+ibm blue gene watson supercomputers
+protein 1xpw
+argonne national laboratory supercomputer centres
+259
+©2007 nature publishing group
+
+articles
+
+nature
+261
+©2007 nature publishing group
+
+articles
+
+nature
+263
+
+©2007 nature publishing group
+
+articles
+
+nature
+physically realistic all-atom force field
+fragment insertion-based de novo protocol
+crystallographic phase problem
+bin qian1*
+2b2j failed
+energy-based de novo protein folding
+typically gave slightly worse results
+high-resolution de novo structure prediction
+rosetta de novo prediction protocol
+final models include high-resolution features
+method combines monte carlo minimization
+112-residue a-helical casp7 target t0283
+black mesh represents electron density
+ca­ca distance distribution function
+metropolis monte carlo criterion
+aggressively employs fragment insertion moves
+template refined model auto-traced residues
+casp7 target predicted de novo
+1038/nature06249
+
+articles
+high-resolution structure prediction
+give good molecular replacement models
+1awo
+1ezy
+1ab7
+jane coffin childs fellowship
+monte carlo minimization procedure found
+automated protein model building combined
+annotated comparative protein structure models
+lowest energy all-atom refined model
+archaeal ammonium transporter amt-1
+resolve12 automatic map tracing programs
+molecular replacement trials gave significantly
+acyl coa binding protein
+produce clear-cut molecular replacement solutions
+de novo folding methods
+empirical backbone-backbone hydrogen-bonding potential
+©2007 nature publishing group
+
+nature
+de novo modelling case
+primarily lennard­jones interactions
+off-lattice united-residue force field
+a1b secondary structure classes
+high throughput protein fold identification
+de novo structure prediction
+residual dipolar coupling data
+guanine nucleotide binding protein
+264
+©2007 nature publishing group
+
+doi
+©2007 nature publishing group
+
+doi
+8 november 2007
+
+articles
+
+improving model accuracy
+phaser showed clear features
+template refined model tfzi
+eliminating neighbouring pairs separated
+x-ray crystallographic phase problem4
+monte carlo minimization move
+nmr refinement tests displaying superpositions
+automated main-chain model building
+howard hughes medical institute
+automatic chain-tracing program resolve12
+de novo prediction methods
+cases enabling molecular replacement phasing
+initial 10­ 20u random change
+rosetta low-resolution energy function14
+recognize near-native predictions based
+protein structure alignment algorithm based
+relative accessible surface areas
+short distances greatly complicate
+ab initio molecular-replacement phasing
+refinement yields low-energy native-
+average per-atom distance da
+ab initio phase determination
+symmetric helical membrane proteins
+good molecular replacement solution
+subsequently released crystal structure °
+8 november 2007
+
+articles
+
+provide tests
+rosetta all-atom energy includes
+non-identical side chains longer
+overly closely related structures
+allatom refinement runs initialized
+rosetta all-atom force field
+backbonedependent rotamer library developed
+stringent post facto test
+lowest rosetta all-atom energies
+success rate drops rapidly
+casp7 comparative modelling target t0385
+standard metropolis criterion based
+subsequently released crystal structures
+x-ray crystallographic phase problem
+high-accuracy all-atom structure prediction
+template sequence identity falls
+cyclic coordinate descent solution
+phaser log-likelihood translation function
+converting x-ray diffraction data
+lowest energy refined model
+worldwide protein data bank
+consistently produce significant improvements
+rosetta all-atom energy function
+make blind structure predictions
+nuclear magnetic resonance data
+ab initio phasing techniques
+enabling precise drug design
+protein structure change studied
+initial all-atom refined ensembles
+core secondary structural elements
+powerful global optimization techniques
+population size stayed unchanged
+50 low-energy all-atom refined models
+2abd
+nmr ensembles gave essentially
+protein side-chain rotamer preferences
+lowest energy refined models
+lowest energy 25 refined models
+electron density map immediately
+limited experimental structural data
+shorter non-identical side chains
+rosetta side-chain packing protocol51
+molecular replacement models agree
+consistently improves models derived
+lowest energy refined structures
+mass spectrometry techniques coupled
+oneor three-residue fragment insertion
+initial molecular replacement model
+low-resolution protein structure models
+x-ray protein structure refinement
+improved blind predictions based
+consistent high-resolution structural inference
+25 lowest energy rosetta models
+sequences lacking close homologues
+structurally similar experimental models
+refining protein structure models
+ideal peptide bond length
+de novo predictions
+monte carlo move
+rapidly constrain structure prediction
+rapidly phase diffraction data
+rosetta all-atom refinement protocol
+de novo modelling
+©2007 nature publishing group
+fragment-based segment rebuilding method
+highest translation function z-score
+produce protein structure models
+parametric alignment ensemble generation
+author information rosetta software
+phaser molecular replacement software10
+sufficiently accurate previous models
+starting nmr structure based
+improve protein structure predictions
+protein structure models derived
+rosetta all-atom refinement method
+newly inserted fragment based
+deposited nmr structural ensemble
+stochastically selected chain-break position
+de novo models
+ca­ca distance constraints
+experimentally determined protein structures
+all-atom refinement protocol consists
+build density-constrained protein coordinates
+chain break remained ° larger
+targeted rebuilding-and-refinement protocol introduced
+natural globular proteins remains
+molecular replacement solution obtained
+automatically traced residues starting
+protein backbone torsion angles
+argonne national laboratory
+full deposited nmr ensemble
+casp7 template-based modelling assessment
+newly generated model formed
+methods summary
+models produced
+improve molecular replacement solutions
+deposited nmr ensemble individually
+positions exhibiting small variance
+structure model cluster centre
+matching molecular models obtained
+multiple sequence alignment information
+applying all-atom refinement
+identical side-chain conformation fixed
+lennard­jones potential
+nuclear magnetic resonance
+cyclic coordinate descent
+soft interaction centres
+clear-cut phasing solution
+refined model files
+solve protein crystal structures
+monte carlo-minimization approach
+electron density map
+all-atom force field13
+rosetta@home participants
+protocol targets aggressive sampling
+per-residue backbone conformation variation
+casp7 gave significantly
+nmr refinement test cases
+ab initio phasing
+follow low-resolution modelling
+ab initio modelling
+refined crystal structure13
+doe incite program
+wellcome trust/mrc building
+all-atom refined models
+000 all-atom refined models
+compound moves extend
+x-ray diffraction data--suggest
+ten randomly chosen positions
+rosetta temperature factor
+high-resolution structure prediction
+anomalous scatterer sites10
+nuclear overhauser effect
+refined models versus
+similar local sequences
+inferential structure determination
+well-packed low-energy model
+comparative modelling case
+general medical sciences
+refined models consistently
+molecular replacement scores
+radiolytic protein footprinting
+assessing protein models17
+all-atom structure prediction
+refining protein models
+true electron density
+abl tyrosine kinase
+energy-directed barrier hopping
+knowledgebased potentials derived
+intrinsic sulphur atoms29
+amino acid sequences
+finding 3d similarities
+academic users free
+intel pentium iv 1
+nucleic acids res
+read2 & david baker1
+relieve inter-atomic clashes
+contributing structural biologists
+davidson­fletcher­powell
+apo calbindin d9k
+contributing computing power
+weak phase information
+moderate-resolution nmr experiments
+high-resolution crystal structure
+protein structure prediction
+protein data bank
+structure prediction tools
+effective energy function
+flattening energy barriers16
+significant energy gap
+torsion angles belonging
+lowest energy structure
+all-atom rebuilding-andrefinement protocol
+computational structural biology1
+computational structural biology
+global energy minimum
+experimental phase information
+molecular replacement tools
+optimizing molecular replacement
+molecular replacement efforts
+attempt molecular replacement
+molecular replacement solution
+initial nmr ensemble
+summary percentile score
+electron density maps
+geometric distance test
+comparative protein modelling
+hydrophobic core formation
+detailed all-atom force-field
+inferential structure determination22
+comparative modelling predictions
+all-atom energy-based protocol
+low-energy local minimum
+peptide bond length
+fast gradient-based algorithm
+de novo
+recently developed packing metric
+blindly predicted model
+rotamer-pair energy calculations
+decreasing tfz scores
+final refined models
+chain-break closing process
+energy-based model selection
+molecular replacement calculations
+side-chain torsion angles
+globular protein fold
+representative low-energy structures
+blind
+262
+
+predictions produced
+diffraction-data-derived likelihood scores28
+000 lowest energy models
+lowest energy models
+modest energy barriers
+targeted rebuilding-and-refinement protocol
+produce comparative models
+distant structural homologues
+molecular replacement trials
+high-resolution rebuilding-and-refinement protocol
+experimental nmr information
+experimental constraints derived
+deposited nmr structure
+phasing crystallographic data
+high-resolution crystal structures
+molecular replacement trial
+combined nmr ensemble
+bayesian scoring functions
+closest existing `template
+bayesian statistical analysis
+subsequent automatic tracing
+amino acid sequence
+segment modelling protocol
+3d-jury44 templatebased models
+nmr chemical shift
+side-chain conformation prediction
+increasingly powerful approach
+closest homologous structure
+submitted refined models
+fragment insertion trials
+potential search model
+newly generated model
+selection process inspired
+selection process alternates
+angle standard deviations
+incorporating discrete optimization
+fragment insertion trial
+internal torsion angles
+brute-force likelihood calculations
+experimental diffraction amplitudes
+*sync alignment method45
+rosetta-predicted side chains
+rosetta source code
+protein tertiary structures
+protein structures derived
+nmr-resolved protein structures
+state-of-the-art phasing tools
+local energy minimum
+energy-based rebuilding-andrefinement method
+high structural similarity °
+trie data structure
+molecular replacement solutions
+successful molecular replacement
+published online 14 october 2007
+progressively lower energies
+ca­ca pair
+rigid body refinement
+input nmr spectra20
+experimental structure factors
+protein structure models
+nmr structure ensemble
+comparative models based
+­100 ­120 energy ­140 ­160 ­180
+
+4 3 2 1 0
+
+average per-residue
+superimposed 100 low-energy models
+maintain distinct populations
+stochastically selected position
+substantial improvements achieved
+deposited crystal structure
+all-atom refinement calculations
+improved side-chain modeling
+energy landscape explored
+nmr models deposited
+phases experimentally derived
+starting nmr ensemble
+structure factors deposited
+accurate high-resolution models
+all-atom refinement protocol
+crystallographic diffraction data
+assessing model quality
+core side chains
+broadly conformational space
+conformational space annealing19
+starting nmr models
+3dpair50 structure alignment
+plausible partial solutions
+plausible rotation/translation solutions
+closest local minimum
+randomly picked positions
+improved structure refinement
+seventh critical assessment
+sixth critical assessment
+nmr structure refinement
+measured diffraction data
+native protein sequences
+aggressive all-atom refinement
+iterative fragment extension
+low energy models
+starting models based
+additional experimental information
+average ° ° per-residue ca
+model quality assessment
+all-atom refinement procedure
+modelled electron density
+t0283 structure prediction
+large spherical probes
+ca­ca distances
+authors contributed equally
+orientation-dependent hydrogen bonding
+cambridge cb2 0xy
+increasingly important component
+strong atomic repulsion
+backbone torsion angles
+current diversity threshold
+optimize side-chain packing
+extensive all-atom refinement
+all-atom refinement protocol--
+shear moves preceded
+moves involve insertion
+phaser crystallographic software
+lowenergy comparative models
+identify distinct populations
+cluster° ing threshold
+side-chain torsional barriers
+allowed structure prediction
+side-chain rotamer conformations
+buried side chains
+improving nmr models
+side-chain truncation approach
+molecular replacement searches
+sequence identity lower
+original cluster assignment
+lower sequence similarity
+increasing chain-break score
+focus allatom refinement
+resulting models satisfy
+t0283 blindly predicted
+full six-dimensional search
+amino-acid-specific ramachandran maps
+continuous peptide chain
+segment rebuilding protocol
+fragment assembly starting
+lowest energy regions
+converged low-energy models
+moves assist convergence
+structurally diverse population
+segments structural similarity
+hybrid prediction/phasing algorithms
+fragment insertion site
+energy landscape produced
+independent segment rebuilding
+segment rebuilding process
+subtle backbone conformation
+protein loop closure
+improve starting models
+lower computational cost
+nmr structure coordinates
+genome sequence information
+structurally alignable regions
+build comparative models
+largest cluster contained 10%
+long standing challenge
+previous crystal structures
+casp7 targets t0354
+fine optimization stage
+randomly chosen nine-residue
+iterative structure refinement
+submitted models coincided °
+blind casp trials
+heavy atom derivatives
+t0283 crystal structure
+nmr modelling cases
+initial clustering step
+clear templates identified
+prepare search models
+molecular replacement phases
+highest energy member
+comparative modelling cases
+poorly ordered termini
+repulsive weight facilitates
+modelled sequence constituted
+phaser z-scores greater
+core residue all-atom
+selected constraint-generating models
+energy landscape identified
+structure refinement methods
+model accuracy produced
+present detailed descriptions
+conformational space annealing
+search model back
+energy-based structural improvement
+long surface loops
+physical energy terms
+energy-based rebuildingand-refinement method
+high structural variation
+entire crystallized construct
+closest remaining cluster
+lower constraint limit
+largest sphere tangent
+full likelihood targets
+full combinatorial search
+ca atoms ° agreeing
+illustrated map improvement
+protein folding
+comparing structure models
+iterative protocol outlined
+casp6 target t0199
+rosetta refined
+current parent population
+template-based models submitted
+compensatory shear motion
+closest cluster member
+invaluable test set
+randomly chosen positions
+random number seeds
+poor gdt-ha score
+locally incorrect conformations
+authors discussed results
+newly included regions
+targeting aggressive sampling
+diffraction data sets
+regions structurally aligned
+native structure backbone
+enabling tests
+residues structurally aligned
+refined model
+refined nmr
+high accuracy required
+force field
+local minima
+partially rebuilt models
+multiple monomers present
+rosetta@home
+aggressive sampling stage
+nmr-based search models
+high-resolution prediction
+higher energy clusters
+template matching
+parent population generated
+rosetta prediction
+supplementary table 2 shows
+high-resolution predictions
+energy function
+diversification step favours
+112
+
+* pdb accession numbers
+refined models
+template structure
+prepared search models
+rebuilding-and-refinement method applied
+aggressive nature
+global optimization
+refined structures
+screening larger numbers
+closest template
+black mesh
+blind predictions
+lowest energy
+lowest energy 10%
+ten rebuilding stages
+electron density
+higher variation regions
+national institute
+resolve12 programs
+global minimum
+structure
+
+prediction
+structure prediction
+torsion angles
+x-ray crystallography
+molecular replacement
+automatic refinement
+phase extension
+energy-based optimization
+structure predictions
+structure model
+high-resolution refinement
+rebuild completely regions
+comparative modelling
+nmr structure
+compound move
+fragment insertion
+group composed
+experimental phasing
+automated method
+# predicted model
+starting model
+displaying superpositions
+tfz scores
+accessible ° ° surface
+angle parameters
+crystallographic data
+experimental structure
+energy-based selection
+globular fold
+improving rapidly
+lowest average
+modelling target
+low energy
+rebuilding-and-refinement tests
+phasing trials
+nmr data
+experimental information
+structure deposited
+distant homologues
+natural protein
+model ensemble
+protein models
+rosetta rebuilding
+crank moves
+predicted structure
+nmr ensemble
+solvation contribution
+structurally diverse
+great interest
+phaser software10
+shorter sequence
+{ sequence identity
+template structure4
+convergence criterion
+aggressively perturbing
+crystal structure 6 5
+crystal structure
+nmr ensembles
+`rotamer trials
+nmr models
+independent
+
+calculations
+structure factors
+structure automatically
+all-atom refinement
+template-based modelling
+experimental data
+combinatorial optimization
+energy gap
+highest energy
+structural alignment
+side chains
+porting rosetta
+average per-residue
+provide significantly
+protein structures
+final predictions
+blue gene
+chain-break closure
+anomalous scattering
+unexpectedly powerful
+powerful supplement
+nmr structures
+allatom refinement
+phase estimation
+phase estimates
+nmr refinement
+maps produced
+global measures
+deposited ensemble
+moves involve
+all-atom rebuilding
+accurate model
+stringent test
+model population
+automated rebuilding10­12
+medical research
+8 november 2007
+
+optimization
+full ensemble
+target t0199
+target sequence
+distance ° exceeds
+energy-based refinement
+original starting
+predicted models
+starting models
+model quality
+conformational space
+diversity threshold
+larger barriers
+model submitted
+side-chain conformations
+exceptional prediction
+prediction quality--
+critical assessment
+likelihood functions
+translation search
+diffraction data
+crystallographic data6
+accurate modelling
+template-based models
+full methods
+backbone elements
+refinement protocol
+refinement problem
+fragment set36
+iterative procedure
+clustering threshold
+data typically
+rebuilding-and-refinement protocol
+predicted structures
+native sequences
+crystal structures
+crystal
+
+structures
+quality assessment
+segment rebuilding
+protein chain
+staphylococcal protein
+100-residue protein
+crystallized protein
+parent based
+core packing
+trial structures
+hydrogen bonding
+model superimposable
+accurate bond
+`mixed model
+cambridge institute
+model exceed
+internally consistent
+mass spectrometry
+ideal values40
+ccd solution
+short range
+author contributions
+contributed equally
+model accuracy21
+model added
+source code
+multiple copies
+translation searches
+reference model
+closest cluster
+national institutes
+1038/nature06249
+
+positions
+structure superpositions
+models produced
+superimposed models
+nmr spectroscopy
+final minimization
+aggressive sampling
+model accuracy
+starting population
+gdt-ha comparison presented
+final test
+comparative modelling--owing
+shear moves
+consistently approach
+molecular replacement4
+low variance
+distinct populations
+quasi-newton optimization
+greedy
+
+optimization
+optimization problems19
+alignment ensemble
+total energy
+refinement procedure
+initial set
+conformational sampling
+alignment ensembles
+significantly improve
+silico phasing
+high-throughput phasing
+1038/nature06249
+
+methods
+computational efficiency
+computational effort
+mixed-model based
+input ensemble
+resulting ensemble
+native structure
+structures produced
+highresolution modelling
+phaser software
+lower limit
+focus sampling
+constraint pairs
+target t0283
+extensive refinement
+remaining models
+resulting models
+rebuilding-and-refinement protocol--
+rebuilding process
+current shortcomings
+peptide plane
+peptide chain
+scored structure
+actual structure
+correct structure
+best-tfz structure
+rebuilding-and-refinement method
+nature struct
+rotamer probabilities
+ten ensembles
+cases studied
+ccd moves
+ten models
+nmr cases
+loop-relax protocol
+grail problem
+multipleminima problem
+`rebuildingand-refinement protocol
+original population
+chosen stochastically
+supplementary information
+robotics algorithm
+unsolved problem
+standard deviations
+side-chain conformations14
+side-chain remodelling
+stage consists
+full chain
+starting values
+screened rapidly
+llg scores
+backbone conformation
+methods discussed
+permissions information
+residue-level information
+small moves
+native conformation
+coordinates deposited
+precise locations
+side chain
+insertion site
+detailed description
+area accessible
+chain break
+derive constraints
+plausible orientation
+ca geometry
+refine automatically
+low energies1
+side-chain coordinates
+casp7 targets
+casp7 assessors
+identical residues
+casp7 predictors
+iterative rebuilding
+correct conformation
+randomly selected
+successful approach
+empty space
+chosen randomly
+quasi-newton minimization
+final population
+submitted models
+high variance
+previous studies42
+previous reference14
+maximum likelihood
+fold topologies
+accurate structures
+population back
+challenging test
+input population
+entire population
+ca coordinates
+search models
+model comparison
+models generated
+insufficient data
+native sequence
+proteins doi
+rotamer outliers
+ensemble evolution
+natural evolution
+chemical cross-linking31
+homology modeling
+cpu cost
+wellcome trust
+related principle
+progressively increased
+effective searches
+subsequent copies
+larger scale
+eliminated completely
+iterative evolution
+sequence mapping
+torsional states
+additional monomers
+notably improved
+atomic resolution
+statistical survey
+sequence representatives
+repulsive part
+comparing models
+validate models
+models refers
+screen models
+protein sci
+pcons method
+important method
+method outlined
+accuracy required
+backbone conformations
+previous templates
+programs presented
+internal coordinates
+parent population
+long loops
+closest previously
+proteins based
+data sets
+differ significantly
+average percentage
+non-native conformations
+methods enzymol
+side-chain atoms
+structure comparison
+high dimensionality
+high symmetry7
+high variation
+high values
+test cases
+alignment accuracy
+determining structures
+nativelike structures
+precise regions
+modelling approaches
+online version
+chain closure
+focuses sampling
+lower bounds
+arp/warp software
+clash score
+existing strategies
+incorrect constraints
+refinement problems
+rebuilding-and-refinement protocol13
+high accuracy
+residues immediately
+consensus core
+perturbed randomly
+112 ca atoms
+structure validation
+complete minimization
+ten times
+wobble moves
+identified unambiguously
+selected population
+random perturbation
+random sample
+accurate atoms4
+state-of-the-art algorithms
+simulated annealing
+structural metrics
+side-chain degrees
+estimate packing
+ten small
+consensus information
+lowenergy regions
+existing templates
+varied immediately
+shear moves14
+simple approach
+dfp minimization
+ten templates
+buried atom
+strong correlation
+tabu search
+search intensity
+actual search
+search points
+discussed previously
+parametrically generated
+bond lengths
+backbone variation
+backbone agreement
+supplementary material
+supplementary figs 3
+larger set
+stochastically rebuilt
+ten cases
+backbone accuracy
+final stages
+diffraction peak
+loop regions
+uniform archive
+large deviations
+large sphere
+missing densities
+major challenge
+systematically under-packed
+systematic difference
+computationally expensive
+temporarily broken
+natl acad
+acta biochim
+harmonic tether
+carboxyterminal helices
+fast-fourier-transform-based approximations
+convergence tolerance
+r213­r220
+spatial restraints
+d301­d303
+human intervention
+260
+
+thinner lines
+opposite direction
+000 cpu hours
+omitted amino-
+explicit control
+protein-protein docking
+fixed portion
+intramolecular cross-links
+trial-and-error trimming
+discrete
+
+1 university
+hills road
+von grotthuss
+less-accessible area
+initially represented
+site spaced
+chain termini
+rhiju das1*
+added flexibility
+gradual ramping
+considerable room
+functional labeling
+polypeptide chain
+2s contour
+eds casadio
+intervening portion
+primary bottleneck
+excellent agreement
+smooth rearrangement
+b-factor column
+highly sequence-similar
+resolution offered
+avoid converging
+fully modelled
+d291­d295
+short-range interactions9
+alpha carbons
+6 ghz processor
+noncrystallographic symmetry
+hydrogen-deuterium exchange
+archaeoglobus fulgidus
+inherently dynamic
+5s contour
+typically 20 members
+palo alto
+1s contour
+clearest indication
+deviate considerably
+efficient crossing
+wide utility2
+hydrogen/deuterium exchange30
+delano scientific
+poorly packed
+ending positions
+insufficient restraints
+schematic diagram
+biological macromolecules
+srivatsan raman1*
+premature convergence
+te 5 8p2da2/3
+deeper understanding
+tabu search18
+matured considerably
+explicitly represented
+gradual convergence
+alternate cycles
+personal communication
+b-factor effectively
+rationally designed
+thick line
+philip bradley1
+ii72­ii76
+stick representation
+full-chain models
+standard deviation
+assess accuracy
+atomic-level accuracy
+larger region
+ten stages
+move sets
+small sphere
+cartesian coordinates
+alternating small
+x-ray
+pdb data
+° ° ° ° residues aligned
+significantly reduced
+final result
+increasing number
+blue gene/
+refined
+entire system
+remaining fragments
+trim back
+templates matched
+sequence-distant templates
+templates suitable
+candidate templates
+acta crystallogr
+backbone perturbations
+complete rebuilding
+casp organizers
+domains present
+rare cases
+single move
+move types
+key step
+achieved success
+ramachandran outliers
+asymmetric unit
+interacting segments
+broad range
+successive stage
+stage differs
+group
+gdt-ha score25
+combining phases
+results suggest
+variable regions
+correct regions
+deletion regions
+separate regions
+strand regions
+pinpoint regions
+small perturbations
+sh3 domain
+3d-jury server44
+roughly equal
+practical utility
+t0330 domain 2
+configurational entropy
+give
+backbone-aligned residues
+adjacent residues
+residues upstream
+aligning 70 residues
+sequence-identical residues
+112 residues correctly
+genome biol
+final round
+ten iterations
+native proteins
+balances intensification
+correlation arises
+marked correlation
+intensification procedures
+move type
+rotation search
+nature
+backbone degrees
+residue contacts
+reference set
+proteins representing
+proteins requires
+marked improvement
+greatest improvement
+sufficient quality
+macromolecular complexes
+continuing advances
+providing highthroughput
+csa strategy19
+large fraction
+continued increase
+tree-search-with-pruning strategy
+alternating wobble
+one-residue fragments
+preceding paragraph
+template
+errors due
+performed
+long-standing challenges
+recent years
+largely dominated
+pack successfully
+52
+
+dn
+
+2hh6
+guide convergence
+molprobity software24
+important application
+binding
+simple folds
+`fullatom_ relax
+molprobity server
+translational degrees
+requiring approximately 100
+main text
+jr & cohen
+suggested earlier19
+extended chain
+computer time
+notable result
+supplementary table 2
+supplementary table 1
+small proteins
+adjacent region
+applied iteratively
+37
+
+cm
+
+2hhz
+rosetta
+total number
+large number
+presented results
+diversification stage
+incorrect regions
+maintain
+ideas
+powerful
+made testing
+4 a34 divided
+pdb failed
+compute sets
+key steps
+requiring crystals
+penalty ec
+diversification stages
+downstream atoms
+supplementary fig
+small number
+present study
+rebuild regions
+dn cases
+intensification stages
+techniques
+accelerated progress
+broad exploration
+single residue
+° distance
+deviation describes
+square deviation
+cb deviation
+{ length
+lowest
+field
+length
+cm cases
+downstream perturbation
+1a brings
+produce
+10­55 fragment
+protein
+& karplus
+structural
+solution
+doi
+accepted 13 september 2007
+optimal superposition
+briefly summarized
+combines
+model
+combined
+derived
+practical applications
+development
+predictions
+° model
+model 1
+nmr
+diversification steps
+regions assessed
+attempts equal
+density
+energy
+based
+modelling
+mutated serine
+consistently
+structure 8
+structure
+moves
+`crank
+protocol
+deposited
+algorithm
+problem
+rebuilt region
+region rebuilt
+side-chain
+target
+root-mean-squared deviation
+starting
+angles
+trials
+black
+low
+distances
+insertion
+ca °
+constraints
+ca
+casp7
+conformation
+aggressive
+minimization
+fold
+test
+procedure
+data
+ensemble
+solutions
+improve
+1038/nature06249
+three-residue
+inference
+z-score
+individually
+size
+generation
+phaser
+typically
+ensembles
+formed
+design
+developed
+recently
+tracing
+positions
+produced
+centre
+constrain
+highest
+essentially
+sequence
+introduced
+models
+5 models
+10 models
+200 models
+method
+improving
+alignment
+conformations
+significantly
+average
+methods
+structures
+landscape
+sampling
+cluster
+pairs
+determined
+higher
+lower
+8 november 2007
+score
+largest
+software
+refinement
+`refinement
+variance
+populations
+aligned
+annealing
+population
+critical
+build
+identified
+accurate
+packing
+obtained
+superpositions
+quality
+parent
+`shear
+member
+rebuilding
+approach
+submitted
+t0283
+move
+search
+generated
+backbone
+native
+selected
+crystallized
+compensatory
+targeting
+casp6
+chain
+rebuildingand-refinement
+targets
+allowed
+fixed
+modelled
+z-scores
+converged
+inserted
+show
+t0385
+cambridge
+important
+included
+large
+ramachandran
+comparing
+sphere
+numbers
+weight
+deviations
+nmr-based
+monomers
+illustrated
+assembly
+challenge
+chosen
+outlined
+termini
+site
+success
+convergence
+variation
+searches
+accuracy
+small
+° coordinates
+`small
+coordinates
+blue
+templates
+crystallogr
+sets
+casp
+identification
+present
+cases
+26 cases
+segments
+asymmetric
+algorithms
+solve
+loops
+perturbations
+achieved
+close
+step
+outliers
+broad
+previously
+stage
+gdt-ha
+phases
+results
+regions
+entropy
+downstream
+types
+screening
+presented
+3d-jury
+stages
+equal
+practical
+complete
+incorrect
+found
+single
+prepared
+perturbed
+domain 3
+200 residues
+90 residues
+6­20 residues
+70 residues
+residues
+residues 10
+atoms
+diversification
+intensification
+correlation
+rebuild
+atom
+comparison
+residue
+set
+proteins 35
+proteins 43
+proteins
+26 proteins
+proteins 59
+proteins 50
+proteins 60
+proteins 61
+improvement
+summarized
+errors
+study
+type
+relax
+complexes
+principle
+`wobble
+ending
+dn
+result
+terms
+suggested
+advances
+successfully
+mutated
+fraction
+trim
+superposition
+preceding
+time
+llg
+fragments
+root-mean-squared
+sample
+optimal
+years
+challenges
+jr
+wobble
+metric
+extended
+25 september 2007
+peak
+accepted
+notably
+briefly
+dominated
+csa
+members
+10­30% increase
+perturbation
+dfp
+full-chain
+screened
+guide
+1 fraction
+consensus
+exploration
+application
+folds
+varied
+molprobity
+degrees
+rotation
+university
+approaches
+system
+providing
+text
+approximately 2
+packed
+reduced
+strategy
+compute
+validation
+sci
+region
+applied
+table 1
+cm
+° { number
+number
+steps
+applications
+iterations
+sufficient
+steps 1­3
+pdb
+lengths
+iterations 1
+iterations 2
+penalty
+clusters
+serine
+divided
+made
+crystals
+rebuilt
+­round 6
+metrics
+assessed
+attempts
+round
+25 attempts
+progress
+fig
+deviation
+struct
+1a
+biol
+proteins6
+schueler-furman
+dabaker@
+kuhlman
+miele
+bringing
+commented
+ramp-
+chen
+chem
+previously14
+engh
+brought
+existed
+rossmann
+berlin
+small-wobble
+work
+wang
+end
+strop
+2b2j27
+minimized
+rieping
+green
+interpretation
+fall
+vary
+& skolnick
+wales
+takamoto
+overcome
+combination
+2hi6
+2hi0
+2hcf
+t0368
+x-ray-
+chivian
+t0329_d2
+checked
+garbuzynskiy
+pieper
+illustrate
+rejected
+doreleijers
+iteration
+preparation
+2a­
+seed
+implemented
+-
+dunbrack
+/aq 5
+retaining
+acknowledgements
+calculated
+suitability
+crystallographer
+section
+probe
+org/software/
+yielded
+intensification--adopts
+fidelis
+fields
+observed
+//www
+extent
+uncertainty
+5u
+lazaridis
+requests
+basis
+lovell
+dickmanns
+turned
+publicly
+** solved
+characterizing
+toolkit
+filtered
+catalysis
+zemla
+permit
+kim
+materials
+rotated
+assigned
+judge
+regarded
+spread
+performance
+clustered
+usa 102
+usa 100
+ccd37
+www
+truncated
+/
+illustration
+lobanov
+opin
+ensure
+soc
+rounds
+& chance
+catalyse
+bottlenecks
+incorporation
+seattle 98195
+encoded
+{ gdt-ha1
+portions
+liwo
+& bax
+permitting
+& elofsson
+& lamzin
+annu
+/nature
+comments
+technique
+finally
+rosettacommons
+analogous
+advantage
+zhang
+springer
+orientations
+solved
+upper
+hindered
+above13
+dauter
+nakamura
+explosion
+groups
+funded
+exiting
+/reprints
+2department
+suppl
+arp/warp11
+rotational
+cas
+modified
+making
+simulation
+occur
+andrade
+2hr2
+inputs
+recovery
+displayed
+vicinity
+decreased
+correspondence
+half
+maintaining
+shown
+theory
+uncertainties
+grzechnik
+& tramontano
+california
+turn
+place
+note
+carry
+1u
+iz-score
+1b
+1d
+padding
+copy
+elofsson
+truncating
+generalization
+distorted
+terwilliger
+rullmann
+investigations
+molecule
+sali
+finkelstein
+& olmea
+helix
+bioinformatics 19
+yield
+reprints
+mapped
+encouraged
+t0380
+ways
+successes
+propagation
+overview
+pol
+enable
+traversal
+observe
+developing
+freely
+wwpdb
+pas
+fewer
+`small-wobble
+bring
+barstar
+tm-align
+nesg
+threaded
+minimize
+rest
+rescored
+dodson
+rost
+laidig
+mol
+satisfaction
+kennedy
+discarded
+abendroth
+science 285
+competition
+fit °
+& blundell
+pannu
+t0357
+airlie
+references
+ortiz
+sides
+raimondo
+1002/prot
+describe
+al
+misura
+completeness
+ideally
+biochemistry
+sheffler
+approach--
+massachusetts
+represent
+subjected
+coloured
+2hq7
+condition
+list
+perrakis
+canutescu
+tm-score
+sum
+judicious
+contrast
+movement
+promising
+& jaroszewski
+amount
+2hh626
+charge
+strauss
+& baker
+d2 ° ° °
+keeping
+norwell
+accept
+offspring
+reject
+intended
+habeck
+advice
+moult
+connectivity
+bioinformatics
+brzustowicz
+comparative-model-based
+held
+paper
+absence
+2u
+all-
+level
+idea
+ginalski
+expect
+optimized
+health
+evaluation
+giorgetti
+haematology
+beginning
+thrown
+retained
+caption
+bioinformatics 21
+fischer
+frequently
+modbase
+maximized
+biomolecules
+focusing
+anticipate
+radii 0
+majority
+generalized
+petsko
+reach
+box 357350
+complementing
+mammoth
+ruggedness
+& markley
+ambiguities
+converge
+randy
+merged
+& galzitskaya
+resolve
+investigate
+schwarzenbacher
+glover
+chose
+usa 96
+usa 97
+interface
+explore
+sensitive
+godzik
+point
+ensures
+expanded
+evaluated
+evaluating
+error
+exclude
+& laguna
+& kaptein
+emphasize
+widely
+database
+2ib0
+pymol
+hypothesized
+kluwer
+parents
+2mfo2dfc
+translated
+alignments
+examples
+melnik
+decision
+proc
+& kleywegt
+vol 450
+usa 84
+placing
+forward
+spawning
+stringency
+principles9
+uk
+curr
+defined
+department
+bonneau
+allowing
+carrying
+berman
+degrade
+t0316
+& rychlewski
+query
+monomer
+young
+resources
+`loop_relax
+noted
+smaller
+& scheraga
+3u
+access
+3c
+3a
+lee
+suggests
+addressed
+ficner
+usa
+t0330_d2
+leaver-fay
+crossed
+smear
+computed
+biophys
+& nilges
+purposes
+iteration 7
+iteration 4
+iteration 1
+sought
+4a­
+prognosis
+mccoy
+leukemia
+distant-template-based
+fold13
+ambiguous
+& einsle
+& huber
+/aq
+
+80
+produces
+including
+li
+das
+biomol
+trimmed
+morris
+progress3
+subset
+score24
+measure
+rev
+perfect48
+2e­
+ref
+red
+mccoy2
+`crankshaft
+manuscript
+log-likelihood-gain
+publication
+bosch
+subroutine
+exhibit
+constrained
+linked
+expected6
+instance
+ncsa
+kooperberg
+placement
+wallner
+agrees
+decade
+knowledge
+grishaev
+& brunger
+over-convergence
+usefulness
+closer
+exploited
+closed
+importance
+figures
+t0331
+huang
+respect
+addition
+lga
+ensuring
+plewczynski
+received 8
+comment002
+align
+enthalpy
+e112
+20 min
+simons
+hubbard
+parts
+ball
+http
+figure 1
+figure 2
+figure 3
+figure 4
+expand
+& snoeyink
+henrick
+science 309
+science 302
+englander
+& read
+lattice
+match
+& myers
+grids
+searching
+rohl
+sdsc
+& dunbrack
+locate
+approximating
+carried
+freedom
+run--
+washington
+speciation
+refs 21
+appl
+repeated
+bradley
+evident
+tmalign33
+compared
+havranek
+sasa
+4d
+4c
+1661­1681
+** 5
+63 20
+83 60
+60 0
+8
+
+12
+779­815
+100
+12
+
+112
+8 14
+8 12
+92
+1991
+3370­3374
+1995
+1997
+1996
+1999
+1998
+6611­6615
+56 52
+8 8
+8 5
+40%
+53 31
+63 0
+14994­14999
+14 92
+392­400
+­
+2
+8 25
+0 66
+73 0
+44 103
+133­152
+188­196
+65 0
+05
+4
+
+11
+383
+389
+6
+
+0
+62 0
+1 8
+1 6
+1 5
+21636
+43 36
+80%
+4 7
+4 6
+4 5
+4 4
+4 3
+32
+59
+50
+52
+51
+1­11
+7057­7062
+64 0
+658­674
+50 55
+251­276
+1015­1018
+75 132 112
+0
+5802­5806
+38­44
+°
+``
+9 15
+9 12
+234
+1
+145
+1328­1339
+1993
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+91 85
+6 5
+6 4
+6 3
+6 8
+200
+24 37
+3 10
+7281­7292
+3
+60
+63
+57 0
+80 47
+5 14
+4
+3­7
+23 30
+161­172
+1025
+1024
+1023
+2001
+5
+2005
+674­678
+2 7
+2302­2309
+12 62
+149­164
+90%
+5 6
+5 3
+22
+
+0
+6
+86 43
+0
+
+26
+52 0
+66­93
+437­450
+59 0
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+78 0
+7
+170
+458­463
+20 14
+189
+2606­2621
+8
+659­668
+­ 0
+1368­1372
+83 0
+1229­1236
+17 63
+#
+45 0
+33
+1868­1871
+9
+68 58
+268
+209­225
+139­147
+7 4
+7 6
+10383­10388
+30%
+37 47
+37 44
+å
+%
+49 0
+2002
+2003
+2000
+2006
+2007
+2004
+30%4
+900­913
+39
+38
+67 0
+31
+30
+37
+36
+35
+34
+93 143 97 129 56 149 158
+37 50
+285­289
+0 4
+51 0
+48 0
+**
+
+68
+**
+
+8
+88
+76 0
+0 25
+69 0
+3 8
+3 3
+3 4
+66 0
+15­29
+303­306
+1026
+126
+59 56
+$ 0
+2025­2030
+1364­1368
+58 0
+64
+
+4
+68 0
+29 15
+78 48
+44
+45
+44 82
+281
+963­972
+35 97
+6 14
+6 17
+79 0
+1987
+*
+5
+
+28
+74 0
+48
+49
+46
+47
+42
+43
+40
+41
+650­655

@@ -1,0 +1,1104 @@
+zm
+rcsa nhar hns lrp ihf crp prop fis
+z1
+rpos
+
+z2
+oxyr ada
+
+z3 z4
+real network structure coherent feedforward loop incoherent feedforward loop operons controlled
+argr
+argf argcbh argd arge argi
+ftsqaz
+
+katg
+
+osmc
+
+alka
+
+1department
+2002
+
+nhaa
+
+dps
+
+letter
+table 1 · statistics
+biologically meaningful combinatorial regulation clusters
+repeatedly swapping randomly chosen pairs
+transcription factor argr uniquely controls
+1038/ng881
+© 2002 nature publishing group http
+xn
+
+x1 x2 x3 xn
+early stationary phase gene regulation
+algorithm detects locally dense regions
+shmoolik mangan1 & uri alon1
+67
+
+letter
+methods
+transcriptional interaction database
+dor share common biological functions
+randomly constructed genetic nets
+edges represent direct transcriptional interactions
+experimentally observed temporal program
+newly identified gene circuits
+2002
+
+© 2002 nature publishing group http
+8
+
+34 6 68 203 0
+
+© 2002 nature publishing group http
+© 2002 nature publishing group http
+vitro dna binding data
+transcription factors controlling sim motifs
+transcription factor directly binds
+transcription interactions specifically manifested
+lines represent transcriptional regulation
+generating temporal expression programs
+coherent feedforward loop circuit
+termed `dense overlapping regulons
+systematically detecting network motifs
+encode arginine biosynthesis genes
+transcription
+nature genetics · volume 31 ·
+rejects transient activation signals
+introduce additional network motifs
+x1
+
+x2
+
+x3
+coli transcriptional regulation network
+motif characterizes 40 effector operons
+coherent feedforward loop
+large sims occur infrequently
+termed `feedforward loop
+arabinose feedforward loop
+transcriptional feedback loops occur
+detects dense regions
+termed single-input module
+transcription factors controlling
+feedforward loop motifs
+basic building blocks
+competing financial interests
+easily interpretable view
+detailed temporal program
+standard average-linkage algorithm20
+sea urchin gene
+basic building blocks2
+competing interests statement
+nucleic acids res
+feedforward loop motif
+coherent feedforward loops
+vivo genetic experiments
+crp arac
+
+arabad
+nature genetics · volume 31 ·
+64 nature genetics · volume 31 ·
+68
+
+nature genetics · volume 31 ·
+detecting dense regions
+generating unprecedented amounts
+dense overlapping regulons
+single mrna molecule
+stationary phase response
+obtained identical results
+complex wiring diagrams1­10
+bind regulatory sites3
+specific gene regulation
+nature genetics website
+additional transcriptional regulation
+internally dense regions
+splitting distance18 larger
+overlapping regulation compared
+reject rapid variations
+prokaryotic genetic circuits
+arbitrary degree distributions
+net indirect effect
+general transcription factor
+transcription factor appears
+regulating transcription factor
+`general transcription factor
+determining gene expression
+global transcription factor
+fluctuating external signals
+generating bipartite graphs
+detecting recurring patterns
+termed `multi-input modules
+transcription factors regulating
+general transcription factors
+transcription factors participating
+transcriptional regulation network
+single transcription factor
+arginine biosynthesis pathway
+rapid system shutdown
+specific promoter sequences
+best-characterized regulation networks
+gene regulation networks
+`specific transcription factor
+specific transcription factor
+transcriptional regulation networks
+`global transcription factors
+global transcription factors
+statistically validate models
+thin red line
+regulatory feedbacks loops
+direct transcriptional interactions
+additional transcription factors
+including alternative -factors
+single input module
+detecting network motifs
+exploring complex networks
+functionally related genes
+persistent activation profiles
+real connectivity matrix
+letter
+network motifs
+intracellular regulatory networks
+neuron connectivity networks
+including transcription factors
+involving 116 transcription factors
+genomic cis-regulatory logic
+identical regulation signs
+l-arabinose utilization system
+randomized connectivity matrices
+additional transcriptional interactions
+escherichia coli k-12
+escherichia coli
+shai
+present motif assignment
+overlapping regulation motif
+flagella biosynthesis genes18
+genetic regulatory networks
+overlapping interactions exist
+transcription factors greater
+genomic expression data
+sugar utilization systems
+remaining disjoint systems
+small disjoint systems
+extensive literature search
+z1 z2
+coli transcriptional network
+data set consists
+basic computational elements
+modular cell biology
+input transcription factors
+transcription factor regulates
+cellular regulation network
+information processing performed
+included 81 transcription factors
+transcription factors nodes
+amino-acid biosynthesis systems
+randomly chosen
+full regulatory behavior
+simple markov-chain algorithms
+sim motif appears
+extended regulondb data
+rapidly degradable proteins
+control gene expression
+molecular cell biology
+mathematical analysis suggests
+feedforward loop
+randomized networks appearances
+outgoing edge `stubs
+highly significant motifs
+motif structure
+coli data set
+stationary phase
+making decisions based
+cycles*
+*cycles
+
+appearances
+coli network occurs
+define `network motifs
+nodes represent operons
+complete data set
+transcriptionally regulates operon
+network motifs found
+1 network motifs found
+temporal program
+network motif dynamics
+transcriptional regulation
+outgoing edges
+arginine biosynthesis
+israel science foundation
+combinatorial interactions
+dense regions
+feedforward loops
+transcription factor
+operons controlled
+direct effect
+amino-acid biosynthesis
+specific functions
+transcription factors
+transcriptional network
+alternative factors
+involving -factors
+biological networks
+regulatory logic
+connectivity matrix
+persistent signals
+transcriptional networks
+zm
+thin line
+multi-input modules
+temporal ordering
+common themes
+biological networks7
+l-arabinose utilization
+genetic networks
+real network
+transcriptional inputs
+global analysis
+genetic switch
+genomic networks
+full network
+regulatory networks
+large degree
+single subgraph
+operons z1
+structure
+repeated appearances
+identical rows
+molecular biology
+cis-regulatory elements
+sim system
+feedback loops
+additional insight
+regulatory site
+additional types
+mathematical analysis
+present analysis
+escherichia coli
+common function
+connectivity patterns
+overlapping interactions
+loops greater
+coli network
+network motifs
+complex systems
+disjoint systems
+splitting distance
+literature search
+minerva foundation
+rapid response
+binding sites
+rapid fluctuations
+microarray data
+data collection
+highly significant
+computation performed
+promoter region
+gene activated
+data availability
+mathematical model
+markov-chain algorithm21
+statistically significant
+graphical models
+edge stubs
+specific systems
+network database
+data set
+external signal
+computational elements
+2002
+
+letter
+
+fig
+network motif
+expression kinetics
+expression resulting
+single dor
+computational analysis
+randomized network
+metabolic pathway
+escherichia coli3
+outgoing nodes
+incoherent
+crp
+additional operons
+activation thresholds
+activation threshold
+sim motifs
+sequence motifs
+computational identification
+specific function
+single layer
+cell types
+cell cycles
+effector operons
+000 randomized networks
+randomized networks
+random graphs
+nonzero elements
+invaluable database
+existing database
+additional layer
+metabolic networks
+scene analysis
+sequence analysis
+sim motif
+motif occurs
+significant motif
+flagella pathway
+established interactions
+unified interactions
+faster interactions
+interactions added
+randomized ensemble
+dense interconnections
+`effector operon
+arabad operon
+subsecond timescale
+saccharomyces cerevisiae
+boolean kinetics4
+dynamic behavior
+steady state
+xml format
+nutrient limitations
+long-lived proteins
+accepted 15 march 2002
+authors declare
+slower shut-
+similar rejection
+protein lifetimes
+distance measure
+important feature
+ron milo2
+gaining insight
+yields net-
+
+13
+urialon@wisemail
+trends genet
+significantly activate
+important step
+significant finding
+recursively searching
+recent advances
+imrandij = imij
+protein molecules
+regulators affecting
+metabolic stability
+multiple inputs
+clustering rules
+master activator
+protein assembly
+jmrandij = jmij
+rna polymerase
+il/ mcb/urialon
+living bacteria
+american society
+notable feature
+protein concentrations
+confer recognition
+sigmoidal forms
+received 4 october 2001
+modular form
+qualitatively similar
+give rise
+lowest threshold
+owing largely
+enumerated efficiently
+auto-regulatory loops3
+anaerobic metabolism
+boolean kinetics
+statistical significance
+findings presented
+homogenous mesh
+motifs found
+random suggests
+control motifs
+input signal
+l-arabinose operon
+nitrogen systems
+positively regulates
+random networks
+entire network
+ordering genes
+uncharacterized genes
+contiguous genes
+dor motif
+directed graph
+signal transduction
+connected graph
+supplementary information
+controlled
+connected subgraph
+loosely connected
+include interactions
+ten operons
+fn mk
+dor requires
+based solely
+design principles1­10
+dor detection
+large-scale organization
+high ratio
+post-transcriptional level
+level needed
+fn = 1/2
+functional design
+detect sims
+xn
+http
+generated networks
+greater number
+positively regulate
+algorithms aimed
+jointly regulate
+function stochiometrically
+dynamics panel
+enhanced regulondb
+regulondb team
+large number
+2 dynamic features
+short cascades
+pattern classification
+computation carried
+yield slightly
+stringent comparison
+fully understand
+clustering approach
+living cells
+stylized structures
+66
+
+long cascades3
+activated earliest
+genes based
+output operons
+58 autoregulatory interactions
+`coherent
+coherent
+submatrices representing
+rare cases
+weizmann institute
+symbols representing
+node represents
+scanning row
+2
+published online
+higher eukaryotes
+deactivated latest
+cell-cycle time
+multiple times
+time scale
+high frequencies
+unknown type
+low probability
+genes regulated
+circuit simulation
+effective number
+group
+proper number
+output operon
+2a corresponds
+operons regulated
+regulated operons
+define dors
+dors connects
+65
+
+letter
+dors corresponded
+operon organization
+web fig
+random structures
+control operon
+typically control
+rpos
+gene
+clusters
+regulation
+x1
+controls
+experimental study
+directed
+fig
+direct
+regions
+represent
+generating
+dense
+real
+circuits
+functions
+signals
+ty = tz = 0
+2002
+
+factors
+transient
+including
+data
+overlapping
+nature 402
+nature 376
+nature
+nature 407
+nature 410
+expression
+methods
+algorithm
+activation
+network
+coli
+motifs
+large
+suggests
+loops
+occur
+cell 72
+database
+networks
+input
+analysis
+motif
+577 interactions
+interactions
+624 interactions
+randomized
+nodes
+cellular
+making
+israel
+response
+sim
+occurs
+included
+pairs
+molecular
+significant
+cycles
+signs
+rapidly
+define
+behavior
+literature
+patterns
+edge
+arac
+proteins
+complete
+set
+24 systems
+systems
+regulates
+circuit
+genes
+information
+flagella
+connected
+signal
+output
+directed
+found
+operons
+3 operons
+>13 operons
+424 operons
+25 operons
+include
+random
+level
+design
+fn = 1
+ratio
+organization
+based
+sims
+dor
+control
+dynamics
+algorithms 14
+algorithms
+regulate
+function
+regulondb
+regulated
+operon
+activated
+entire
+table 1
+study
+features
+cascades
+structures
+pattern
+typically
+sites
+simulation
+approach
+experimental
+understand
+layer
+comparison
+carried
+slightly
+long
+form
+cells
+generated
+row
+tz
+frequencies
+weizmann
+type
+cases
+science
+times
+submatrices
+deactivated
+symbols
+science 286
+probability
+autoregulatory
+science 269
+online
+science 292
+higher
+interconnections
+node
+science 279
+time
+number
+ty
+2a
+dors
+fig
+concept
+similarity
+long-tailed10
+crucial
+generalize
+overlap
+compact
+winfree
+hunger
+removal
+supported
+finally
+ti
+visualizing
+bioessays 20
+x1y2
+case
+hughes
+subunits
+salmonella
+rao
+joined
+= 1/
+transduced
+zn
+occurrence
+sign
+pass
+//genetics
+organisms
++
+microbiology
+find
+t1 = 0
+contributes
+acknowledgments
+contrast
+c47­52
+& neidhart
+understanding
+possibility
+groups
+represented
+epigenesis
+change
+tavazoie
+size 1
+shift
+symp
+`dual
+york
+composed
+named
+­ay
+­az
+rarely
+kind
+& hart
+rises
+2department
+duda
+positive
+negative
+guideline
+opposed
+criteria
+rearranged
+outputs
+clue
+& shapiro
+abundance
+majority
+work
+mj
+activities
+proportions
+preserving
+sought
+eng
+wiley
+t2 = 0
+lab
+applications
+verified
+-phage5
+huerta
+stress
+tetali
+separations
+correspond
+cascade
+complexity
+tournaments
+representation
+hierarchy
+hartwell
+quake
+& arkin
+absence
+image
+correspondence
+tombor
+widely
+combination
+`and-gate
+= 10 connections
+processes
+break
+mrand
+biomol
+term
+lifetime
+transmitted
+& davidson
+generation
+gifford
+autoregulation
+x2y1
+kannan
+shown
+& vempala
+integrated
+activity
+governing
+members
+adding 35
+generate
+fixed
+yuh
+biomed
+biol
+precisely
+zi
+savageau
+barabasi
+1a
+1c
+1b
+1e
+1d
+1f
+glucose
+helpful
+serve
+`andgate
+part
+dzi/dt =
+1+
+collado-vides
+manner
+shilo
+thought
+hopfield
+-
+mechanism
+note
+mij = 0
+mij = 1
+transcribed
+build
+differences
+mcadams
+reach
+falls
+neidhart
+doi
+considered
+partition
+berg
+elowitz
+notion
+fact
+show
+albert
+algorithm13
+shen-orr1
+participate
+homology
+knowledge
+explain
+xt
+integrate
+biophys
+compiled
+bolouri
+quantified
+combinations
+thieffry
+approximately 5
+//www
+require
+respond
+shapiro
+achieved
+version 3
+connections
+result
+discussions
+jeong
+& young
+jaakkola
+determined
+responses
+autorepression
+bray
+equal
+leibler
+rehovot 76100
+characterization
+appeared
+subgraphs
+surette
+salgado
+raise
+recur
+basis
+addition
+responds
+expected
+& murray
+schleif
+stresses
+arkin
+formed
+nonmetric
+incoming
+t3 = 0
+applied
+p0
+exponential
+evaluated
+replaced
+­azi
+interconnected
+characteristics
+characterize
+il
+shuts
+parts
+units
+estep
+lie
+promoters
+hand
+levels
+3 part
+frequently
+built
+scaling
+addressed
+sets
+entry
+depth 5
+perez-rueda
+rest
+assigned
+dy/dt =
+pac
+metabolic19
+struct
+conclusions
+organism
+newman
+insensitive
+& church
+survival
+comparing
+doyle
+mol
+clustered
+emergence
+theor
+represses
+works
+reduces
+strogatz
+oltvai
+examples
+choosing
+provided
+annu
+repression
+e-mail
+dz/dt =
+core
+hengge-aronis
+2b
+broken
+gained
+column
+reduced
+act
+22 april 2002
+pathways
+`slow
+rev
+previously
+analysis2
+xyz
+washington
+& collado-vides
+kalir
+determine
+/
+x2y2
+autorepressors
+ed
+xy1
+registered
+delayed
+encodes
+collected
+& albert
+enumerating
+removed
+groupings
+frequency
+promoter17
+distribution
+stages
+minutes
+average
+ac
+defined
+likewise
+al
+scanned
+defines
+negative/positive
+& watts
+kauffman
+role
+briefly
+hartemink
+phys
+searched
+biocomput
+regulations
+allowing
+physics
+& barabasi
+starting
+0
+7
+296
+27
+026118
+= 4
+= 3
+= 0
+509­512
+±
+85%
+1993
+1995
+1996
+4 ± 3 2
+199­224
+1310­1324
+1
+22
+29
+9
+×
+307­312
+20
+58%
+187
+559­565
+21
+­
+5 ± 2 28 ± 7 57 ± 14 0
+18
+1999
+11
+10
+13
+12
+15
+14
+17
+16
+19
+=
+165­168
+64
+01
+1896­1902
+1969
+8
+651­654
+2
+1205­1214
+03
+3
+391­419
+268­276
+25%
+50%
+422­433
+<
+< 0
+= 2
+001
+1973
+80%
+4
+293­308
+2080­2083
+72­74
+18 ± 0
+433­440
+1998
+390
+6
+70%
+437­467
+5
+= 1
+650­656
+2002
+2000
+2001

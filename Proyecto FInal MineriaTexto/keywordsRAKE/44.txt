@@ -1,0 +1,2679 @@
+cyca skp1 r1 cbf3
+
+cyce
+ps76
+
+c26 c26
+p68
+rpa
+
+c28
+
+skp2
+r2 c27
+
+c25
+
+c4
+
+cdk2
+e20
+chk1
+c-tak1
+
+c11b
+dmp1 p19arf
+
+p53
+
+cycb
+c42 c41
+
+cdc25c
+pt14y15 pt161
+
+sl1
+
+p26
+mdm2
+dp1 prb e2f
+ps216
+c38 c39 c37 c36 c40 c18
+
+c29
+c2
+
+cyca
+s9 c30 c41 c5 c15
+
+p53 box
+c9
+p16 pcna
+
+r11 c1
+
+cycd
+c34 c22
+
+c3
+
+cdk4/6
+c32
+
+fos
+
+replication
+r11
+pcna rpa
+cyce r2 cyca
+
+gadd45
+r6
+p53
+
+r10 s9
+
+cycd p21/gadd45 cyca
+
+p44 p43
+p21 p27
+p57 pt380
+
+c7
+
+r2
+
+c21
+p68
+
+p68 primase pol 
+
+c23
+py15
+cdk1
+c16
+
+cks1
+
+c6
+
+wee1
+14-3-3
+
+myt1
+p42
+cyclins
+c43
+
+p16
+c12 c10
+p19arf pt286
+
+sl1
+affiliation networks
+network theory company directors movie actors biomedical authors 0
+c14 c24
+
+dmp1
+c11 c11a
+
+cdc25a
+c42 cdk1 cdk
+
+cyclin box
+max
+
+cych
+
+cdk7
+
+c11b
+
+c8
+r2 c13 c19 c2
+insight review articles
+
+exploring complex networks
+steven
+partially synchronized state
+
+figure 3 schematic illustration
+undirected links represent high-voltage transmission lines
+display enhanced signal propagation speed
+insight review articles
+figure 6 degree distributions
+figure 7 bipartite versus unipartite representations
+topology combines fast signal processing
+e2f
+
+plk1
+
+© 2001 macmillan magazines
+10-1
+
+probability pj
+
+10-2
+
+10-4 0
+001
+
+random graphs
+
+figure 5 average path length
+simple rules yield complex food webs
+small world inside large metabolic networks
+c14
+
+p48
+cak
+
+transcription
+769 biomedical journal articles published
+bipartite graphs -- film actors
+c20
+
+c35 c31
+
+myc
+heavy-tailed degree distribution emerges automatically
+globally coupled integrate-and-fire neural oscillators
+probability qk
+
+10-2
+
+10-3 0
+
+10 20 30 number
+nematode worm caenorhabditis elegans12
+familiar unipartite representation depicts
+insight review articles
+analogue
+identical oscillators
+
+figure 2 spontaneous synchronization
+studying social relations cross-culturally
+randomly constructed genetic nets
+approach yields elementary derivations
+computations involving million-node networks
+apc
+c41
+provide high-speed communication channels
+functionally distinct `trophic species
+western systems coordinating council
+york state electric power grid
+269
+
+insight review articles
+system
+abstract n-dimensional state space
+original sociological experiment67 --
+linear­log plot shows
+spatially coupled solidstate lasers
+log­log plot shows
+generating functions yield predictions
+boards decreases roughly exponentially
+simplest random graph models52
+coauthors 10
+0
+
+101
+
+10 2 101 10 3
+
+10 4 0 15 5 10 transmission lines
+
+20
+
+0
+
+100
+
+200 300 acquaintances
+undirected links represent acquaintances
+mammalian cell cycle control
+transmission lines decays exponentially
+state variables represent concentrations
+observation suggested intriguing links
+real affiliation networks58
+random model accurately predicts
+generalized random graphs provide
+simplest random graph predicts
+associative memory neural networks
+network science deserve coverage
+average component size diverges
+c37
+
+c17
+weakly coupled limit-cycle oscillators
+globally coupled laser arrays
+approach discards important information
+insight review articles
+271
+
+insight review articles
+0
+275
+
+insight review articles
+7
+average path length
+ieee computer society press
+random graph model teases
+identical dynamical systems coupled
+box 1 nonlinear dynamics
+electric power research institute
+empirical degree distributions pj
+stable fixed point --
+coupled dynamical systems
+networks
+coupled semiconductor laser arrays
+interacting dynamical systems --
+partially synchronized state
+properties -- short paths
+synchronization phase transition persists
+linear­log plot
+generalized models predict exponential
+richly connected nodes tend
+community food webs
+identical integrate-and-fire oscillators38
+differential equations represent
+love bug worm
+figure 8c shows
+gain qualitative insight
+display enormous numbers
+creating interlocked directorates
+pink dashed lines
+kinetic rate laws
+infection occurs locally
+rhythmically flashing fireflies
+bacterium escherichia coli
+ingenious self-consistency argument
+internet movie database
+play parlour games
+sophisticated models82­84 include
+algorithmic challenge posed
+locally coupled version
+tail-to-head neural connections
+unipartite representation shown
+governing equations describe
+locally stable equilibria
+stable fixed points
+potentially important consequences
+regular lattice
+table 1 clustering
+pol 
+
+nature
+non-negative integers {dk}
+combinatorial optimization problems33
+randomly distributed frequencies
+central pattern generator
+correct qualitative behaviour
+dna repair systems
+d-dimensional cubic lattice
+mammalian cell cycle6
+power grid depends
+power laws arise
+673 company directors linked
+including synaptic delays
+cardiac pacemaker cells
+movie actors
+47 million telephone numbers
+rich sensory environments
+barabási85 suggested
+exploring spatiotemporal chaos
+laser arrays provide
+biological signalling pathways
+weakly coupled oscillators
+simplest mathematical settings
+phase transition occurs
+telephone call graphs13
+sociologists58 call `transitivity
+single characteristic scale
+telephone call graph13
+heuristic approach based
+sparse neuronal networks
+sparse interaction networks
+approximate power law
+truncated power law
+molecular interaction map
+problem remains unproven
+display self-organized criticality
+random graph constructed
+system behaves incoherently
+differential equations dx/dt
+component placement optimization
+world-wide web scaling exponent
+figure 1 wiring diagrams
+neuronal branching patterns
+human contact patterns
+deep mathematical innovations
+requires global coordination
+approximately lognormally distributed
+lamprey locomotor cpg
+concepts97
+
+dynamical systems
+figure 8 structural properties
+fittest transportation network
+smooth interactions akin
+coupled dynamical systems
+dynamical systems coupled
+nonlinear differential equations
+generalized random graphs
+computing statistical averages
+oscillators suddenly `freezes
+stochastic growth model
+identical chaotic maps
+completely synchronized state
+coupled limit-cycle oscillators
+clustering coefficient56 predicted
+bipartite collaboration graph
+full bipartite graph
+lorentzian probability density
+power grid affects
+reflect sociological effects
+watts91 recently developed
+rigorous distributional approximation
+geophysics 2nd edn
+main topological features
+giant component exists
+directed url hyperlinks
+remaining portion depends
+main unsolved problem
+overlap knits virtually
+ripe topics include
+primate visual cortex
+network growth rules
+chaotic intensity fluctuations
+central pattern generators
+worst computer attack
+figure 4 solvable model
+size scales linearly
+involve nonlinear functions
+fully-connected graphs --
+mathematical reach --
+power system outage
+square-root critical behaviour
+airborne infectious diseases
+modular cell biology
+potentially formidable dynamics
+lattice dynamical systems
+classic work deals
+synchronized chaos requires
+growing random networks
+random target person
+unifying principles underlying
+generalized random connectivity
+lamprey model suggested
+scientific collaboration networks
+identical chaotic systems
+high clustering --
+josephson junction array
+greatest challenge today
+random director works
+metabolic reaction networks9
+nonlinear dynamical systems
+social networks affects
+rorschach test --
+power law graphs
+standing wave pattern
+lower critical dimension
+skew distribution functions
+nodes represent generators
+biological oscillators communicate
+controls cell division
+electrical power grids
+semiconductor laser arrays
+random model quantifies
+random model captures
+scale-free networks measured
+resulting wiring diagram
+involve travelling waves
+temporal coherent oscillations
+western united states
+nearby states flow
+difficult search problems
+complex network architectures
+0
+coupled nonlinear oscillators
+coupled neurons fire
+small world problem
+complex static behaviour
+counterintuitive biological prediction
+distributed natural frequencies
+fully connected networks
+random initial condition
+arbitrary degree distribution
+single giant component
+social network analysis
+small world web
+clusters crosslink spontaneously
+prescribed degree sequence
+bell-shaped poisson distribution
+10 0 cumulative probability
+
+101
+
+10 2 indegree
+
+103
+
+104
+fully connected network
+largest food web
+stable limit cycle
+idealized coupling architectures
+measurement errors
+nature
+linear stability problem
+real chaotic system
+randomly chosen director
+cortical connection matrices
+randomly selected pairs
+real networks lie
+geometrically regular ways
+additional social forces
+high clustering observed
+small-world neural architecture
+external graph algorithms
+random network architectures
+greatly increased probability
+power law pk ~
+national science foundation
+truncated power-law pk
+natural frequencies lie
+triangle fhi corresponds
+giant component depend
+predicted rz agrees
+real physical systems
+local information --
+simple architectures allowed
+richly connected nodes
+scale-free random networks
+interesting social interactions
+random graph model
+small blue bars
+skewed degree distribution
+previously existing nodes
+pulse-coupled biological oscillators
+corporate director network
+large network analysis
+york times 21 february 1998
+york times printed
+nodes represent scientists
+network topologies discussed
+kuramoto model continues
+eventually select buttons
+perfectly coherent array
+poisson degree distribution
+affect connection weights
+transmission lines
+box 1
+typical board size
+large system size
+figure 5 shows
+figure 8 shows
+smaller data set
+globally stable
+exponentially fast
+small-world network model
+simple ring geometry
+important people sit
+scale-free networks
+
+pk
+power transmission
+biomedical scientists
+pk dk /
+biomedical collaborations
+state variables
+degree distributions
+ten nodes connected
+corporate board data
+local spatial structure
+10 probability rz
+
+5 10 number
+scale-free distributions
+ecological webs
+stable state
+heavy-tailed distribution
+systems coupled
+power grid
+power lines
+figure provided
+complex systems
+nodes grows slowly
+power law
+predicts correctly
+typically nk shortcuts
+complex architectures
+undirected links
+fixed point
+electric fields22
+neural networks
+dynamical systems
+food web
+complex networks
+shows 11 directors
+nonlinear equations
+state space
+913 actors linked
+optimization principles
+power --
+limit-cycle oscillators
+metabolic networks9
+`small world
+small world
+coupled oscillators
+neural network
+bipartite graph
+bipartite approach
+chaotic systems
+graph theory
+lines connecting
+food webs4
+rorschach test
+generating functions
+synchronized pack
+related lines
+courant institute
+log back
+poisson distributed
+crisscrossed lines
+giant component
+western interconnection
+wave propagation
+formed automatically
+mammalian intestine48
+fast response
+synchronized group
+metabolic networks
+nonlinear systems
+social network
+coupled neurons40­42
+coupled lasers
+dynamical system
+bipartite graphs
+electric field
+national networks
+world dramatically
+random architectures
+dynamically complex
+incoherent state
+equilibrium state
+short paths
+infectious diseases
+metabolic network
+acquaintances linking
+undirected link
+underlying lattice
+cell biology
+random graph
+call graph
+real graph
+identical oscillators
+random networks
+wiring diagrams
+cortical wiring
+real networks
+original links
+semiconductor lasers
+semiconductor lasers24
+key properties
+emergent properties
+neutrally stable
+enormous network
+network topologies
+information flow
+natural frequencies
+random graphs
+simple model
+completely random
+1991 ieee comput
+company
+self-organized criticality
+approximately exponential
+main phenomena
+coherent oscillations72
+identical lasers
+trophic level
+combine dynamical
+dynamical processes
+generic dynamical
+270
+corporate directors
+mean-field theory
+metabolic networks6­9
+rewired --
+crossed --
+coauthored --
+lasers --
+average number
+giant web
+real network
+collective behaviour
+long-term behaviour
+static pattern
+small clusters
+small degree
+natural pacemaker
+biological oscillators
+laser array23
+scale-free graph
+simple condition
+favour simple
+josephson arrays
+scientists tend
+power grids
+computational power
+power stations
+neural comput
+random model
+scale-free networks
+networks `scale-free
+wiring diagram
+world-wide web
+empirical studies
+chemical oscillations
+united states17
+complicated ways
+synaptic inputs
+7 million customers
+medline database
+travelling waves
+mathematically rigorous
+attack tolerance
+average separation
+highly skewed
+intriguing explanation
+far-flung settings
+single-mode approximation
+time-dependent gain
+amazingly rich
+inherently difficult
+represented geometrically
+empirical examples
+critical point
+chemical reaction
+dynamical models
+limit cycle
+pulse-coupled oscillators
+regular networks
+coupled equally
+solvable model
+273
+
+© 2001 macmillan magazines
+biological rhythms
+biological examples
+© 2001 macmillan magazines
+chaotic lasers
+276
+
+© 2001 macmillan magazines
+considered chaotic
+corporate governance
+corporate governance17
+computer viruses29
+random member
+random struct
+random edge
+random button
+random breakdowns
+degree distribution
+distribution decays
+network architecture
+lattice models
+analysis reveals
+renormalization-group analysis
+computational analysis
+graph consists
+giant component88
+functional approach
+complementary approach
+citation networks
+small-world networks
+networks pervades
+technological networks
+gene networks
+financial networks
+evolving networks
+tackle networks
+self-healing networks
+scale-free architecture
+dynamical complexity
+complex plane
+completely regular
+probability pj
+scientific cross-fertilization
+spatial dimension
+easily solvable
+short run
+fourth dimension
+temporal instabilities20
+generic features
+realistic features
+creates clusters
+josephson junctions27
+pulse-coupled oscillators37
+degree sequence
+occur automatically
+incoherence persists
+cumulative distribution
+ring lattice
+system evolves
+nervous system
+physical system
+-- chains
+world-wide web10
+years --
+added --
+pj denote
+random pairs
+small worlds
+small uncertainties
+small disturbances
+small cluster
+`small worlds
+underlying network36
+bipartite structure
+social mechanisms
+mathematical aspects
+desynchronized completely
+lamprey eel49
+mathematical resolution
+global self-entrainments
+local clustering
+bipartite case
+director sits
+system size
+affects function
+generating function
+small-world network
+gene network
+network visualization
+network topology82­84
+network forms
+network anatomy
+biochemical network
+regulatory network
+directors sitting
+distinct kinds
+competing interactions
+directors serve
+directors lies
+binding interactions
+directors sit
+nonlinear dynamics
+affects topology
+field dx/dt
+statistical mechanics
+exponential distribution62
+exponential amplification
+statistical physicists
+local events
+dk denotes
+statistical physics
+exponential cutoff14
+dynamical process
+barabási
+& barabási
+oscillators self-organize
+non-identical oscillators
+simple case
+metabolic stability
+elegant model
+model starts
+toy model
+mean-field model
+model accounts
+chaotic attractor
+pattern formation
+small components
+regular chain20
+natural consequence
+natural place
+random failures
+mathematical models
+citation distribution
+clustering coefficient
+clustering coefficients
+preventing clustering
+observed clustering
+connected piece
+highly connected
+connected triple
+probability rz
+probability tending
+global coupling
+additional complexity
+dynamically advantageous
+kuramoto26 refined
+animal gaits
+threads attached
+business practices
+technological standpoint
+generic source
+swimming travels
+refractory periods
+disturbance report
+cricket chirps
+heuristics apply
+middle ground
+approached analytically
+make progress
+benchmarking role
+triangle fgi
+motor demands64
+pure mathematics53
+261 feature films
+desirable outcome
+longer run
+convenient measure
+spatial instabilities
+nervous system25
+behave collectively
+intricate tangle
+great deal
+generate collectively
+mutual collaborator
+negative derivative
+happy coincidence
+isotropic gas
+oscillating neutrinos
+cooperative phenomenon
+diáz-guilera
+rock lake
+applied mechanics
+damage worldwide
+renormalization arguments47
+swimming rhythm
+deliberate attacks
+normal accidents
+primary literature5
+security privacy 343­359
+c47­c52
+generic portion
+nationwide fad
+powerful computers
+logarithmically binned
+corporations ranked
+oregon led
+periodic pulsations
+specific examples
+self-sustained oscillation
+displaced vertically
+los alamitos
+crossover picture
+curious phenomenon
+long-term prediction
+closest rival
+sudden impulses
+rewiring transforms
+favourite actor
+spin glasses
+solve analytically
+drops sharply
+vast meshwork
+computational challenges
+neuron fires
+speck carried
+cornell university
+spurious crossings
+asynchronous states
+stoichiometric conversions
+epidemiological invasions
+model91 underestimates
+motivated originally
+present layout
+longer accept
+relating anatomical
+concrete example19­24
+quintessential `old-boy
+joint conf
+& van vreeswijk
+mammals consists
+inverted triangles
+refuted mathematically
+parameter regimes
+empirical study
+line thickness
+high-energy physics
+rotating spirals
+sensed immediately73
+private communications34
+undesirable discontinuities
+experimental collaborators50
+dt +
+voltage level
+secondary shoulder
+eventually circulates
+slightest bit
+falafel vendor
+null hypothesis
+strongly peaked
+favourite topics
+uk/group/ tw/papers/wijcai99
+issue concerns
+complete description
+functional advantage
+erratic fluctuations
+pajek program
+inflicted billions
+calculate rz
+slowly lift
+specialized facilities
+asymptotically exact
+polar coordinates
+easily accessible
+neuromuscular rhythms
+good problems
+rough generalizations
+fractal geometry
+therapeutic drugs9
+simulation provided
+highly clustered
+technical terms
+closely related
+preferential instability
+coefficients rz
+firefly flashes
+strongest response
+joint membership
+encouraging progress
+aperiodic motion
+entire ensembles
+allometric scaling
+canadian provinces
+independently rediscovered
+chorusing crickets
+repeated differentiation
+viscous fluid
+bin ratio 2
+upright triangles
+trends microbiol
+distant parts
+landau damping
+scroll waves
+marlon brando
+spinal cord
+recently led
+notoriously prone
+broader movement
+212 kimball hall
+lighter moments
+die zeit
+lu90 applied
+covalent modifications
+symbols denote
+mutual appearances
+& sigüenza
+reinert76 improved
+hopfield43 pointed
+condensed-matter physics
+infinite variance
+solid line
+minds nowadays
+gene expression
+desynchronized group
+boca raton
+lewinsky scandal
+vaccination strategies
+enzyme actions
+bewildering variety
+coupling architecture
+graph structure
+computer scientists
+single board
+computer science
+brain theory
+local coupling
+chaotic attractors
+computer simulations
+natural frequency
+additional structure
+population biology
+existing nodes
+phase transition44
+phase transitions
+phase locking
+probability qk
+power-law form
+network topology
+connected components
+web pages
+small number
+biological time
+coauthorship networks
+large number
+research supported
+choosing pairs
+research activity
+qk denote
+introduce pairs
+research deal
+joining pairs
+infectious disease
+scientific communities
+power-law relationships
+frequency locking
+frequency plateaus
+mean-field models
+components grow
+slider-block models
+typically impossible
+form patterns
+york 14853-1503
+setting dynamics
+individual dynamics
+nodal dynamics
+collective dynamics
+cascade dynamics
+data pouring
+earliest work
+theoretical physics
+theoretical prediction
+providing data
+functional connectivity
+raw data
+pioneering work
+network structure
+nearest-neighbour coupling
+sinusoidal coupling
+coupling strength
+evanescent coupling
+greater coupling
+rewiring links
+shortcut links
+incoming links
+regular lattices
+arranged side
+mutual synchronization
+mathematical sciences
+collective synchronization
+flip side
+actual distribution
+ten nodes
+scale-free case
+connected buttons
+phase dynamics
+periodic function
+complicated function
+limit cycles
+network robustness
+network thinking
+complexity caused
+structural complexity
+kuramoto model
+pk denote
+small-world topology
+expected topology
+ényi52 studied
+kleinberg66 introduced
+natl acad
+recent interest
+oscillation correspond
+isolated button
+1 buttons strewn
+cascading failures
+implicit formula
+one-dimensional chains
+current interest
+/~fan/power
+target node
+notes comput
+studied deeply
+formula derived
+added continuously
+population splits
+short chain
+strange attractor
+scale-free property
+yield
+exploring
+fastest oscillators
+exact results
+results show
+connection diversity
+striking results
+earlier results
+maximum number
+cliques account
+forming cliques
+hubs dominate
+high-degree hubs
+dominant hubs
+small compared
+network evolution
+ten members
+board consists
+improved form
+board interlocks
+form pz ~
+intermediate case
+people sit
+famous people
+crc press
+mit press
+people means
+probability proportional
+theoretical side
+temporal
+nature
+ecosystem science
+proved theorems
+16th int
+axes x1
+princeton univ
+architectural questions
+functional genomics
+long-term possibility
+thread began
+large-scale organization
+internet backbone11
+august 10th
+cellular automata
+cambridge univ
+common modes
+shortest route
+1 tanh x2+2x
+1
+
+2
+basic issues
+steady emission
+preprint cond-mat/0008465
+evolutionary significance
+opposite extreme
+essentially intractable
+approximated analytically
+wanders forever
+numerical simulations
+details matter
+dynamic synapses
+lasers lock
+conjecture holds
+cascading series
+intuitive ideas
+opposite end
+shed light
+article reviews
+preprint cond-mat/0006001
+newsweek 11 october 1999
+actors
+preprint cond-mat/0007235
+edges leaving
+applied mathematics
+preferential attachment
+apparent stability
+mean-field solution
+schematic
+good reason
+ith oscillator
+closed loop
+combinatorics probab
+global
+nature
+model ecosystems
+time delay
+allowing nodes
+nodes removed
+heavy tail
+order parameter
+long tail
+flavour evolution
+distribution found
+confusing effect
+heart physiology 268­278
+node diversity
+largest companies
+reed derived
+complications illustrates
+confirmed numerically10
+colours code
+sinoatrial node
+walsh65 showed
+nextnearest neighbours
+theoretical neuroanatomy
+boards `interlock
+overlapping boards
+strogatz@cornell
+coloured links
+links running
+flexible class
+modelling populations
+wide range
+review
+impressive result
+pure appl
+989 scientists linked
+internet topology
+board number 3
+expand g0
+years 1995­1999 inclusive
+winfree discovered
+oscillator lattices
+data shown
+results hold `
+total number
+1548 past <http
+called components
+nodes correspond
+isolated nodes
+kuramoto solved
+error function
+average
+oscillator running
+fields ranging
+log
+locked amplitudes
+coupled
+kopell introduced
+state
+nearest neighbours
+kc /
+strogatz conjectured
+strogatz
+department
+time increases
+rules
+important
+peskin conjectured
+identical
+theory
+synchrony found
+--
+systems
+green circles
+cell 10
+laser
+simple
+power
+53 predict
+memory
+concentrations
+coauthors
+communication
+interacting
+functions
+architectures
+random
+call
+graph
+single
+approach
+networks
+array
+space
+decays
+molecular
+lie
+generators
+degree
+problem
+system
+05
+
+pj
+pj
+graphs
+small
+large
+lamprey
+poisson
+critical
+point
+mathematical
+patterns
+web
+arrays
+director
+network
+000 network
+673 directors
+information
+interactions
+directors
+scale-free
+exponential
+local
+oscillators
+2 oscillators
+model
+1955 model
+regular
+natural
+distribution
+042 clustering
+clustering
+connected
+probability 0 1
+probability
+selected
+0
+
+rz
+eventually
+structural
+rz
+forces
+observed
+spontaneously
+grows
+physical
+table 1
+prediction
+geophysics
+allowed
+interesting
+scaling
+topics
+20% sit
+cortex 10
+discussed
+spatial
+condition
+depend
+states
+waves
+lasers
+`small-world
+triangle
+recently
+corresponds
+directed
+problems
+weights
+wave
+static
+geometry
+times
+agrees
+controls
+2 times
+slowly
+largest
+small-world
+increased
+grids
+sequence
+overlap
+portion
+phase
+size
+research
+pairs
+0
+
+qk
+qk
+models
+components
+frequency
+
+106
+
+104
+
+102
+
+100 100
+york
+dynamics
+work
+chaos 7
+theoretical
+data
+connectivity
+chaos
+coupling
+199 links
+links
+33 links
+side
+exponent  2
+ring
+synchronization
+function
+limit
+complexity
+pk ~
+topology
+pk
+blue
+attractor
+algorithms
+57 studied
+isolated
+interest
+acad
+/
+years
+formula
+population
+pages
+algorithms 6
+field
+comput
+added
+lattices
+set
+today 47
+failures
+89 introduced
+chains
+actual 0
+chosen
+perfectly
+correspond
+linked
+buttons
+today 2
+connection
+results
+1
+
+100 10 number
+number
+00 0 10 20 30 number
+cliques
+hubs
+structure
+board
+form
+case
+kuramoto
+& kuramoto
+people
+press
+scientists
+science
+science 286
+science 284
+science 283
+science 275
+science 279
+internet
+solution
+relationships
+possibility
+study
+total
+genomics
+hold
+end
+significance
+effects
+series
+formation
+probab
+1999 inclusive
+ranging
+matter
+fields
+property
+proved
+simulations
+synapses
+locked
+solved
+oscillator
+stability
+approximated
+mechanisms
+october 1996
+x1
+sciences
+forever
+steady
+article
+x2+2x
+running
+communities
+thinking
+cambridge
+robustness
+nearest
+mathematics
+amplitudes
+conjectured
+coloured
+1
+
+shortcuts
+plane
+denotes
+reason
+thread
+linking
+collaborations
+fastest
+common
+attractors
+loop
+neurons
+organization
+questions
+proportional
+intuitive
+shortcuts
+department
+issues
+cellular
+separation
+extreme
+leaving
+process
+lock
+holds
+attachment
+light
+neuroanatomy
+coauthorship
+erratic
+shortest
+explanation
+disease
+princeton
+essentially
+preprint
+princeton 1999
+10 august 1996
+equally
+int
+time
+nodes
+107 nodes
+200 nodes
+order
+tail
+evolution
+neighbours
+synchrony
+showed
+circles
+000 companies
+confirmed
+complications
+nk
+node
+chain
+heart
+occur
+nk  1
+nk 0
+brain
+shown
+impossible
+& reed
+colours
+1 1 nk 10 100 1
+error
+ecosystems
+incoherence
+link
+effect
+increases
+compared
+found
+4 boards
+914 boards
+boards
+& strogatz
+strogatz
+populations
+result
+kopell
+green
+& kopell
+10 members
+members
+range
+called
+class
+appl
+nature
+nature 402
+nature 407
+nature 406
+nature 404
+nature 393
+peskin
+kinds
+winfree
+g0
+40
+
+g0
+< kc
+kc
+kc 2
+> kc
+http
+<http
+1172­1177 <http
+co-directors
+testbeds
+fronts
+feeding
+& enquist
+dzg0/dxz
+slowest
+ben-avraham
+oltavi
+kourtchatov
+govern
+érez
+epidemiologists
+vector
+disciplines
+elegans
+organisms
+contributes
+scientists14­16
+138 kv
+interpret
+& stanley
+oxford
+crawford
+projection
+skewness
+berlin
+springer
+characterize
+turcotte
+movies
+concepts
+revenues
+wang
+walsh
+feasible
+aging
+fortune 1
+geology
+answer
+types
+amin
+attracts
+substrates
+broder
+achacoso
+vary
+london
+//vlado
+sigvardt
+manuscript
+fit
+harmonics
+break
+represents
+briand
+durability
+maritan
+& kretzschmar
+quantify
+surprise
+abbott
+turning
+created
+barabasi
+strogatz56
+atp
+& rinaldo
+neutrinos32
+idealizations
+clarity
+similarly
+top
+fabiny
+listed
+redner
+intestine
+albert
+neurobiologists
+distance
+twenty-
+spectrum
+non-generic
+seek
+-
+plenty
+acknowledgements
+buchsbaum
+milgram
+germany
+dot
+likhanskii
+solutions
+biometrika 42
+situations
+monica
+consilience
+consisting
+floor51
+radius
+subject
+killworth
+bressloff
+addison-wesley
+erez
+//www
+& martinez
+weak
+extent
+html>
+resistant
+fault
+dorogovtsev
+exceeds
+adapted
+asked
+height
+8 march 2001
+proceeded
+basis
+arbib
+ann
+life
+quantities
+suppose
+stopping
+kohn
+grown
+stein
+evolve
+mccarty
+percolation
+bornholdt
+publ
+delight
+ownership
+academic
+simulated
+left
+proposed
+stimulations
+gov>
+extracted
+adding
+molloy
+weiss
+spread
+coalescing
+gave
+scala
+indicative
+birth
+steps
+hung
+cliché
+www
+phaselocking
+bottom
+ucsd
+corp
+permitted
+dollars
+soc
+presence
+accommodate
+yahoo
+& mendes
+width
+fraction
+astrophysics
+psychol
+head
+offer
+simplifications
+ps> 66
+moore
+implications
+sidestep
+flammini
+floor
+vanishes
+reality
+papers
+tie
+shrink
+asterisk
+assume
+erdö
+[ 2+
+focus
+expected51­53
+roy
+comments
+computation
+aiello
+remarkably
+//xxx
+reassemble
+brown
+prog
+anonymous
+turns
+settle
+765 kv
+htm
+groups
+change
+colaiori
+cases19
+kauffman
+navigation
+plotted
+logical
+applications58
+& roy
+synchronizable
+edmunds
+prey
+encode
+black
+mitchison
+cases
+oliva
+amaral
+facilitating
+trans
+diagram3
+carroll
+self-synchronization
+& sahre
+economy
+applications
+produce
+date
+inform
+& erneux
+pulled
+imagining
+serving
+argued
+thumb
+vicinity
+etworks
+decades
+& lu
+finance
+golomb
+bound
+tails
+half
+synchronize
+500 kv
+ed
+gaussian
+firms
+canada
+naparotovich
+emerged
+squares
+synchronizability
+& white
+org
+watts
+collapsing
+impose
+intuition
+xn
+symmetry
+omitted
+biol
+directly
+wallinga
+1c
+draft
+fmf
+structures
+williams
+& ebel
+ethnology 27
+proving
+& barabasi
+& fell
+eliminated
+modelled
+1/
+turned
+lago-fernandez
+begin
+phil
+threshold
+proportion
+written
+nonlin
+& mandel
+frustrated
+345 kv
+wiener
+nj 1
+* damp
+burst
+ncstrl
+netw
+apologies
+jeong
+reproduced
+fails
+invoked
+inhibitory
+sites
+reading
+fads
+comp
+concentrate
+comm
+suppressed
+kogut
+leibler
+learning
+math
+caricature
+theorizing
+attaching
+defined
+combined
+& murray
+fig
+6a
+6b
+6c
+6d
+substations
+offered
+evidence
+self-loops
+watts75
+promising
+ermentrout
+media
+fractals
+tononi
+researchers
+universal62
+taxa
+guided
+rest
+summed
+ithaca
+snarl
+mol
+mod
+serves
+served
+dimensions
+krapivsky
+transformers
+broken
+generated
+//math
+west
+sporns
+op
+outlook
+& lenstra
+& heagy
+mar
+start
+fundamentals
+& scalia-tomba
+pull
+& reinert
+reed88
+pantaleone
+define
+ac
+lanl
+al
+analytically86
+mormons
+ay
+& perelson
+conflate
+seglen
+neutrinos25­32
+interest91
+enzymes6
+phys
+kirby
+& faloutsos
+thorp
+starting
+sci
+follow
+randomness
+list
+anal
+fragility
+design
+perspective
+sociol
+consumers
+utah79
+excitatory
+contrast
+ma
+proc
+directions
+strong
+inspired
+extremes
+pick
+struggle
+gaussian62
+in-degree
+cannibalism
+pdf>
+broke
+varying
+neurosci
+wiesenfeld
+huge
+f0
+share
+sense
+g1
+acts
+ensemble
+fl
+huerta
+acquisitions
+meta-complication
+mixing
+cereb
+paper
+signs
+230 kv
+fruitful
+absence
+minute
+propose
+& jeong
+callaway
+yu
+triggered34
+predators
+repeating
+characterized
+needless
+generation
+reduce
+ball
+& walker
+connect
+wondered
+projected
+wisconsin
+sparked
+beginning
+definition
+sakaguchi
+leading
+confirming
+inhibitions
+weinheim
+16 hours1
+part
+hollywood
+diffusion
+kind
+grey
+treated
+uni-lj
+7b
+vulnerable
+depending
+& hansel
+onset
+find
+analogy
+intell
+santafe
+measures
+& amaral
+& stewart
+physica
+wasserman
+exp
+velocity
+dragged
+& westbrook
+impact
+circle
+vanwiggeren
+permission
+& vilaseca
+& newman
+arxiv
+remove
+acquaintances2
+tended
+defense
+classes
+cherniak
+usa 98
+usa 97
+corbacho
+collaborators
+wilson18
+expendable
+simply
+adaptation
+grenfell
+universality
+internet79­81
+due
+lett
+understand
+plasmas
+handling
+replaced
+behavior
+& wang
+stimulated
+mollison
+wilson
+flows
+levels
+barbour
+task
+inhibition
+hastings
+reviewed
+readers
+nodes89
+& faust
+omnivory
+couple
+spires
+vladimirov
+emergence
+sharpened
+rotate
+& yamamoto
+popular
+comprise 7
+essential
+terminology
+ecology
+methods
+creation
+kephart
+contacts
+abello
+step
+error-tolerant
+usa
+watts92
+coexist
+firing
+cutoff
+tombor
+martinez
+resilience
+placing
+question
+lond
+specifically
+handbook
+fragmented
+& leyvraz
+repeatedly
+/sfi/publications/abstracts/00-07-041abs
+& ermentrout
+influence
+& watts
+elements
+accidental
+fishes
+implies
+age
+required
+speculations
+literally
+simon
+indicating
+probe
+& lapucci
+boots
+ring21
+imply
+mormons79
+availability
+3c
+collins
+3a
+3d
+explore
+peristalsis
+preferentially
+symp
+43 mormons
+examining
+artif
+demonstrated39
+tools
+neurobiology
+commun
+shinomoto
+reflects
+sort
+ariaratnam
+started
+occurred
+virulence
+normalized
+& arenas
+proof
+simulations46
+sin
+daido
+collection
+inst
+ambiguous
+hartwell
+mentioned
+`degrees
+blake
+li
+lect
+degrees
+choose
+eur
+practice
+dai
+newman
+documented
+bollobá
+day
+ebel
+arecchi
+chung
+colet
+burdened
+vch
+rev
+virulence68­71
+ref
+red
+christensen
+& williams
+pecora
+clarify
+surely
+tied
+/sfi/publications/abstracts/00-12-062abs
+likelihood
+segregated
+dubbed
+davis
+evans
+& shelley
+intuitively
+similar-
+barthé
+precisely
+fascinating
+attach
+stephan
+siam
+`velocity
+branches
+johnson
+banavar
+richer
+kleinberg
+amplitude
+exhibit
+symmetries
+cohen
+phytoplankton
+curves
+imdb
+corral
+hopfield
+angle
+pursued
+polarization
+instance
+techniques
+lectures
+centre
+courtesy
+business9
+& havlin
+stronger
+keeling
+databases
+fact
+text
+fear
+q0
+bernard
+hope
+beat
+1 nj
+words
+areas
+tuned
+& sasaki
+winful
+unison
+strengthened
+violet
+awaits
+phases
+unravel
+ends
+& edelman
+knopf
+limits
+epidemics
+figures
+faloutsos
+ca
+//dream
+jeong77
+epigenesis
+coherence
+blackouts
+unlike
+ei
+1
+adamic
+vn
+272
+
+imagine
+capture
+v1
+kozyreff
+center
+colour
+perseus
+mirollo
+/2
+preprints
+accurate
+wagner
+appeared
+earthquakes
+utah
+turbulence
+lost
+page
+entrained
+wscc
+home
+highlighting
+lead
+e-mail
+assuming
+noise
+disentangle
+semin
+engendering
+extension
+universe
+ényi
+& iyengar
+bhalla
+recruited
+weight
+& albert
+made
+calls
+levin
+excitement
+dimensions25
+theor
+stat
+repeat
+vol 410
+ultimately
+simon80
+si/pub/networks/pajek/pajekman
+res
+indirectly
+272
+274
+108
+101
+91
+93
+94
+96
+1991
+1990
+1992
+1995
+1994
+1999
+1998
+9
+245
+37­46
+1969
+1967
+> 0
+11149­11152
+10
+14
+520­543
+90
+92
+388
+100
+5234­5237
+3809­3812
+1975
+1973
+199 0
+1111­1151
+59
+58
+55
+54
+57
+51
+50
+53
+52
+4089­4094
+34
+4745­4748
+131­134
+819­841
+20
+628­638
+1645­1662
+151
+156
+088
+404­409
+5468­5471
+0
+97
+1993
+588 0
+1997
+1996
+1563­1569
+1894­1896
+440­442
+1
+143
+251­262
+215­237
+&
+111­126
+623­660
+1483­1490
+93­96
+23
+334­343
+2
+11
+13
+12
+15
+17
+16
+19
+18
+59­64
+1%
+200
+1198­1200
+859­867
+3
+43
+25
+=4 1 2 3 4
+60
+61
+62
+63
+65
+3002
+68
+1980
+< 3
+< 1
+< 0
+000 10
+2]
+1095­1139
+40­46
+76
+17­61
+4
+309­320
+67
+69
+70
+845
+01 0
+2703­2734
+161­179
+425­440
+381­387
+2758­2761
+4629­4632
+5
+= 11
+`
+4252­4260
+193
+349­392
+173­197
+509­512
+6
+15­42
+1933­1938
+1696
+89
+24
+26
+27
+21
+22
+28
+29
+7
+180­183
+355
+64
+77
+75
+74
+73
+72
+71
+372­377
+79
+78
+1005­1010
+95
+1461
+443­452
+4287­4296
+60­67
+1960
+46­89
+2000
+2001
+231­234
+127­141
+449
+39
+38
+33
+32
+31
+30
+37
+36
+35
+8
+000
+
+0
+0 0
+88
+83
+80
+81
+86
+87
+84
+85
+155­179
+1986
+3201­3204
+56
+651­654
+378­382
+3180­3183
+4626­4628
+>
+é
+2418­2427
+~
+1955
+47
+437­467
+2160­2170
+295­305
+266
+268
+1677­1679
+1842­1845
+154­159
+151­158
+1987
+1984
+1985
+*
+1988
+1989
+1­2
+332­343
+82
+48
+49
+46
+44
+45
+42
+40
+41
+590 0
+1­20
+084 0

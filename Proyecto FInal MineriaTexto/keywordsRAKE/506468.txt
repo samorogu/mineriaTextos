@@ -1,0 +1,1323 @@
+collapsed recording sites spanning 2 mm
+© 2006 nature publishing group
+
+865
+
+letters
+
+nature
+© 2006 nature publishing group
+
+867
+
+letters
+
+nature
+© 2006 nature publishing group
+
+869
+
+letters
+
+nature
+complex
+
+© 2006 nature publishing group
+
+nature
+basolateral amygdala encode expected outcomes
+distinct amygdala neurons respond preferentially
+inset histograms show ii_ci subtracted
+amygdala neurons prefer negative conditioned stimuli
+activity closely tracks behavioural learning
+© 2006 nature publishing group
+
+nature
+nsf graduate research fellowship
+require substantial investigative effort
+spoiled gradient recalled acquisition
+negative conditioned visual stimuli engage
+visual stimuli--remain poorly understood
+obtained complete data sets
+nei institutional training grants
+demonstrate clear anatomical clustering
+york state psychiatric institute
+visual cortical areas te
+eyes typically stayed closed
+negative cell rows sorted
+40­60 psi aversive air-puff directed
+minimize broken fixation behaviour
+positioned recording chambers based
+blinking decreased significantly starting
+870
+
+© 2006 nature publishing group
+image identity weakens substantially
+72/100 cells changed activity
+prefer positive conditioned stimuli
+28/100 neurons changed responses
+post-visual-stimulus data point significantly
+response rate changed significantly
+identified change point differed
+principal component analysis platform
+air-puff
+
+cells coding positive cs
+licking rate decreased significantly
+distinct amygdala neurons encode
+anova showed significant effects
+amygdala neural activity reflected
+distributions comparing change points
+images modulate neural activity
+process called reinforcement learning
+change-point algorithm identified trial 29
+brain analyses visual information
+quickly neural activity changed
+visual stimulus median difference 21
+activity reflected negative image
+image identity coding index
+trace interval showing significantly
+neural activity change point
+­identity interaction coding indices
+inset histograms show
+interconnected brain structures function
+trace interval neural responses
+institutional animal care
+reconstructed recording sites
+recording site
+866
+
+locations
+cells coding negative cs
+conventional metal microelectrodes
+goldman philanthropic partnerships
+receiver operating characteristic
+css predicted uss
+magnetic resonance imaging
+fractal patterns constructed
+durapuncturing guide tubes
+competing financial interests
+cue sampling depends
+culpeper scholarship award
+medial temporal lobe
+100-ms windows moved
+video camera feed
+motor-controlled hydraulic microdrive
+conditioned fear acquisition
+aversive air-puff directed
+average normalized neural activity
+influence amygdala neural responses
+16 february 2006
+
+letters
+
+patterns
+interconnected brain structures--including
+anterior­posterior dimension
+encoding predicted outcome
+colour map represents
+animal procedures conformed
+previous neurophysiological recordings
+motorized multi-electrode drive
+basolateral amygdala depends
+bi-modally distributed data
+data point compares
+conducted data analyses
+responses frequently occur
+tungsten microelectrode dorsal
+brain structure implicated
+visual response latency
+neurons encoding positive image
+aversive unconditioned stimulus1
+complex sensory stimulation
+consecutive overlapping time-windows
+rapid associative encoding
+visual stimuli disappear
+non-yellow data points
+16 february 2006
+
+letters
+
+figure 2
+avoid aversive uss
+blinking rate increased
+air-puff inhibitory response
+investigated amygdala neurophysiology
+neurons changed activity
+modelled normalized response
+2d inversion recovery
+mixed-trial fmri study
+ventral tegmental area
+fixation point onset
+anterior temporal pathways
+infrared eye tracker
+anterograde tracing study
+signal detection theory
+symbols denoting properties
+visual stimulus value24­26
+visual stimulus onset/offset
+demonstrate faster learning
+primate frontal cortex
+author information reprints
+anatomical information acquired
+sensory stimuli endowed
+anterior­ posterior extent
+10-ms moving average
+shaded regions show
+amygdala neurons encode
+best-fit weibull functions
+provide conflicting data
+subcortical brain areas--involved
+midbrain dopamine neurons
+examined neural responses
+examined neural activity
+averaged neural activity
+neural activity increased
+complex anatomical connections
+500-ms trace interval
+non-human primate behaviour
+intricate neural circuitry
+avoid aversive stimuli
+cells sustained
+
+figure 1
+identified change point
+visual stimulus interval
+blinking behaviour changed
+amygdala receives inputs
+cells showed value-coding
+encoding predictive reward
+magnified images show
+olfactory conditioned stimuli
+compared spike counts
+authors contributed equally
+licking response rates
+visual stimulus paired
+behavioural responses thought
+blinking responses showed
+air-puff excitatory response
+career development award
+primate amygdala represents
+peri-stimulus time histograms
+amygdala activity predicts
+earlier time points
+amygdala neurons encode--
+temporally extended representation
+mediates reinforcement learning
+previous lesion studies
+nuclei located deep
+reward inhibitory response
+psths sum activity
+orbital prefrontal cortex
+relative reward preference
+amygdala cell recorded
+visual stimulus onset
+image selectivity initially
+trace median difference 11
+primate orbitofrontal cortex
+9 ml liquid reward
+neural activity began
+receive error signals
+represent reinforcing stimuli6­8
+trace interval activity
+dorsal­ventral extent
+denotes negative value-coding
+vertical green lines
+cumulative spike count
+bin significantly greater
+recorded neural activity
+medial­lateral extent
+behavioural change points
+accessory basal nuclei
+image identity coding
+blinking change points
+100 cells coding image
+modulation occurs rapidly
+white curves show
+coronal mri acquired
+single amygdala neurons
+individual amygdala neurons
+statistically significant percentage
+overlapping time segments
+orbitofrontal cortex neurons
+licking change point
+include appetitive conditioning
+denotes positive value-coding
+behaviour strongly suggests
+100 neurons encoding image
+recently shown images
+abstract images acquired
+single neuron responses
+neuronal activity related
+amygdala central nucleus
+neurons encoding positive
+neurons encoded image
+image values reverse
+recording sites
+visual association learning
+neural activity plotted
+amygdala neural signals
+monkeys learn suggests
+reward preference task
+single amygdala neuron
+neurons representing positive
+behavioural responses plotted
+amygdala neuron recorded
+amygdala neurons responded
+macaque monkey amygdala
+1038/nature04490
+
+letters
+bin spanning
+trial number relative
+compare behavioural learning
+blinking behaviour provided
+neurons encode
+fixation point
+coding index
+histograms show
+methods
+behavioural task
+behaviour changed
+roc analysis applied
+cells showed
+basolateral amygdala
+conditioned stimulus
+aversive stimuli
+data demonstrate
+data point
+data analyses
+distinct contributions
+nature rev
+cortical inputs
+3
+visual stimuli
+visual stimuli
+data points
+single interval
+cells encoding
+spike count
+shaded regions
+arrows point
+distinct populations
+anatomical destination
+amygdaloid complex
+cell shown
+principal goals
+inhibitory responses
+visual stimulus
+neurons encoding
+unconditioned stimulus
+conditioned reflexes
+sensory stimuli
+reinforcing stimuli
+visual responses
+change points
+brain area
+neural responses
+neural data
+excitatory response
+neural activity
+trace interval
+coding compared
+primate amygdala
+amygdala nuclei
+aversive learning
+conditioned values
+nature neurosci
+significant bin
+responses began
+complex interactions
+evidence suggests
+dots represents
+recording electrode
+primate dorsolateral
+cortical pathways
+immediately posterior
+significantly correlated
+16 february 2006
+
+interval
+conditioned images
+neuronal responses
+neuronal activity
+brain structures
+100 value-coding cells
+visual cortex21
+visual representations
+visual system
+visual stimuli--
+visual stimuli3
+spike waveforms
+1051 riverside drive
+ventral striatum
+authors declare
+methodological procedures
+infrared beam
+previous days
+eye closures
+aversive conditioning
+statistically indistinguishable
+central nucleus
+author contributions
+dopamine subpopulations
+predominantly encoded
+rapid appearance
+ventral striatum6
+orbitofrontal neurons
+orbitofrontal cortex
+cells change
+neural substrate
+represent stimuli
+behavioural responses
+100 value-coding neurons
+supplementary information
+permissions information
+received information
+cells adds
+negative-coding cells
+positive-coding cells
+multiple cells
+blinking data
+relative contributions
+relative contribution
+provide signals
+reinforcement learning1­5
+anticipates reinforcement
+amygdala activity
+coronal mri
+amygdala neurons
+neural signals
+reinforcement learning
+data establish
+data presented
+sigmoid functions
+functions overlapped
+regression lines
+significant effect
+data analysis
+motor responses
+previous studies
+average neural
+amygdala circuitry
+brain plasticity
+includes neurons
+neurons represented
+well-isolated neurons
+neurons categorized
+neurons begin
+valuecoding neurons
+orbitalfrontal cortex
+prefrontal cortex
+accessory basal
+overlapping region
+sensory systems
+sensory properties
+circuitry operates
+sensory cortices
+16 february 2006
+
+figure 3
+neuronal signaling
+amygdalo-nigral circuitry
+central nucleus30
+signals representing
+image selectivity
+single image
+fixation task
+error signals9
+time interval
+image identity
+abstract images
+brain mri
+trace
+
+1 center
+change-point test12
+change-point test
+blinking behaviour
+physiological responses
+liquid reward
+neurons represent
+subjects learn
+behaviour change
+macaque monkeys
+influence behavioural
+error signals
+emotional responses
+behaviour depicted
+appetitive behaviour
+amygdala raises
+amygdala activation
+dorsolateral amygdala
+mammalian amygdala
+amygdala projection
+licking began
+visual processing
+prefrontal cortex6
+analytic methods
+substantia nigra29
+wide range
+selectively `listen
+individually controlled
+strongly influenced
+permutation test
+primary objectives
+yellow dots
+weighing 4­10 kg
+trace-conditioning procedure
+keck center
+macaca mulatta
+affective significance
+amygdala-dependent mechanisms
+black dots
+tongue extending
+prime candidate
+cumulative record
+supplementary figs 3
+signal amplification
+natl acad
+narsad foundations
+somatosensory components
+accepted 25 november 2005
+opposite directions
+bottom squares
+lower mammals
+supplementary note 3
+custom-written matlab
+supplementary note 2
+supplementary note 1
+influence attention28
+pseudorandomly interleaved
+represented graphically
+flexible manner
+rhinal cortices
+nih guidelines
+single-cell level
+oxford univ
+extensive interconnections
+averaging procedure
+opposite trend
+smaller effect
+representational processes
+mahoney center
+keck foundation
+predominantly reflects
+plexon system
+weibull function
+fhc instruments
+appetitive learning9
+critical roles
+tick marks
+functional analysis
+analysis reflects
+daniel salzman1
+action potentials
+intimately related
+determined quantitatively
+easily distinguishable
+supplementary methods
+trace-conditioning procedure11
+determined empirically
+parahippocampal cortices
+purposes depending
+probable border
+offline verification
+reference distribution
+defensive behaviour--
+trends cogn
+great deal
+wilcoxon test
+lateral nucleus
+adaptive behaviour--
+fear memory
+quantitative analysis
+ny acad
+172 image/cell combinations
+received 20 september
+fundamental process
+john wiley
+cognitive behaviours
+mental dysfunction
+intercalated masses
+cases resulting
+learning
+joseph
+learning occurs
+involve learning
+learning curve
+neurons responded
+evaluate signals
+reward value15­17
+negative association
+reward tube
+developed rapidly
+rapidly adjust
+data collection
+represent emotions
+neuroimaging studies
+future studies
+trace intervals
+physiological properties
+valuecoding neuron
+received support
+subcortical projections
+separate populations
+roc analysis
+columbia university
+negative-coding populations
+intrinsic connections
+emotional lives
+cds2005@columbia
+paired t-test
+compare quantitatively
+monkeys learn
+reflect cs
+image disappearance
+image appearance
+image viewing
+image disappears
+emotional learning
+viewing licking
+anticipatory licking
+nonreinforced images
+images present
+negative values
+similar normalization
+initial contingencies
+dynamic interactions
+individual trials
+mri support
+monkeys centred
+rhesus monkeys
+red ticks
+red dots
+acquire positive
+trial closest
+trial types
+negative images
+roc values
+nature 398
+nature
+develop rapidly
+þ exp ð2x=
+20-ms steps
+middle square
+licked sporadically
+online version
+neurobiological aspects
+laboratory notes
+input pathways
+multiple comparisons
+formed locally
+negative learned
+reversed image
+images reversed
+trial number
+amygdala representation
+amygdala neurons--
+human amygdala
+signals predict
+monkey amygdala
+mri combined
+updated representation
+plastic representation
+95% prediction intervals
+important role
+blinks occurring
+emotion circuits
+opposite order
+reflect image
+macque monkey
+rhesus monkey
+alert monkey
+supplementary fig
+positive images
+blue ticks
+non-reinforced images
+image slice
+monkeys learned
+experiment shown
+variance accounted
+initial associations
+trials compared
+reversal learning
+similar representation
+rate
+conditioned
+show
+4 histograms
+response
+monkeys performed
+coding
+non-reinforced trials
+5 occurred 80­180 ms
+500 ms preceding
+encoding
+significantly
+air-puff
+identified
+interaction
+eyes
+acquired
+closed
+component
+showing
+grants
+identity
+neural
+information
+cells
+data
+significant
+responses
+ii_ci
+avoid
+dorsal 75%
+activity
+868
+
+activity
+brain
+neurons
+196 neurons
+normalized
+structures
+onset
+figure 4
+overlapping
+extent
+recorded
+value-coding
+trace
+change-point
+cs
+behavioural
+blinking
+behaviour
+amygdala
+change
+34 18
+
+12 8
+
+23 11
+
+6 7
+
+9 7
+
+excitatory
+16 february 2006
+indices
+contributed
+study
+properties
+process
+psths
+greater
+association
+2d
+related
+occurs
+white
+percentage
+curves
+olfactory
+prefrontal
+quickly
+16 february 2006
+
+24
+cumulative
+analysis
+signal
+appetitive
+methods
+pathways
+strongly
+influence
+distributions
+compared
+shown
+learning
+signals
+negative
+reward
+rapidly
+average
+mri
+represent
+studies
+number
+physiological
+values
+neuron 39
+neuron
+neuron 46
+neuron 20
+roc
+populations
+compare
+columbia
+conditioning
+reversed
+basal
+connections
+lateral
+lateral 75%
+support
+emotional
+image 1
+image 2
+image
+licking
+images 1
+images
+209 intervals
+interactions
+located
+develop
+green
+rev
+prediction
+applied
+plotted
+intervals
+initial
+similar
+provided
+monkeys
+learned
+reflect
+red
+accounted
+responded
+based
+variance
+anova
+positive
+trial 38
+trial 35
+trial 33
+trial 48
+trial
+trial 52
+time 0
+time
+non-reinforced
+difference
+difference 20
+difference 1
+difference 0
+predict
+occurred
+collection
+licked
+online
+exp
+electrode
+combined
+middle 50%
+input
+memory
+comparisons
+associations
+aspects
+steps
+slice
+processing
+formed
+function
+laboratory
+preceding
+task
+york
+york 10032
+development
+representation
+role
+order
+emotion
+human
+neurons--
+human
+
+5
+blinks
+monkey
+fig
+t-test
+blue
+projections
+experiment
+100 ms
+350 ms
+50­100 ms
+0­99 ms
+90 ms
+120­220 ms
+20 ms
+performed
+reversal
+8 trials
+18 trials
+5 trials
+20 trials
+4 trials
+3 trials
+trials
+neurosci
+rasters
+code
+two-dimensional
+truncated
+results
+& robbins
+neurobiol
+sci
+involved
+decisions
+row
+anticipation
+charles
+finally
+program
+presentation
+indicating
+& nishino
+trial-by-trial
+sloan
+table 1
+assignments
+addressed
+sons
+roesch
+maren
+implemented
+mason
+assistance
+that--
+3c
+contrast
+nichd
+lee
+understanding
+free
+kandel
+depend
+reversals
+studied
+total
+punishment
+tasks
+members
+describe--
+modulated
+decrease
+freese
+usa
+npg
+positive-
+& amaral
+interruption
+separated
+pavlov
+ir
+tested
+account
+viewed
+characterize
+work
+spike-sorting
+www
+interdependent18
+ann
+divided
+stefanacci
+cardinal
+holland
+morrison1 &
+fudge
+fp
+connectivity
+revealed
+comp
+mathworks
+narishige
+computations
+ledoux
+correlation
+typical
+food
+timing
+experiments
+london
+nimh
+auditory
+& barbas
+onsets
+expectations
+100/196
+eur
+correspondence
+outlined
+2w
+cognition
+2g
+2a
+arrow
+inherent
+schoenbaum
+characterized
+baxter
+ghashghaei
+evolve
+ed
+measure
+time9
+factors
+increase
+suggesting
+associate
+possibility
+two-
+marina
+estimate
+asl
+v1
+dashnaw
+davis
+annu
+designed
+ono
+responses12
+parkinson
+blink
+digitizing
+structures6
+top
+1a
+1e
+observations
+convention
+smoothed
+science 304
+rewards
+relationship
+part
+corresponded
+population
+newsome
+fairhurst
+schultz
+providing
+spout
+lick
+turned
+discussions
+manuscript
+linked
+spgr
+strength
+form
+4c
+rodents
+performance
+price
+measures
+anatomy
+gallagher
+organization
+measured
+approved
+doi
+face
+analysis13
+critchley
+fact
+slope
+/nature
+100% certainty
+labar
+supported
+relation
+eyes--
+nishijo
+find
+impact
+& montague
+& swets
+neurol
+updating
+move
+saddoris
+wallis
+actions
+report
+primates
+3a
+committees
+science 275
+paper
+3d
+tremblay
+gatenby
+humans
+gottfried
+& haber
+licks
+vol 439
+side
+hippocampus
+creating
+amaral
+motivation
+suggested
+reaction
+directly7
+unit 87
+taking
+& phelps
+requests
+hirsch
+filtering
+pitkanen
+key
+supply
+exclusively
+respect
+blinking--
+2c­
+addition
+sara
+defined
+gaze
+slowly
+& murray
+& miller
+observe
+understand
+3department
+unlike
+aggleton
+correcting
+behavior
+shadlen
+sanghera
+& balsam
+comments
+& wakeman
+verified
+suggest
+make
+accomplished
+perirhinal
+events
+higher
+mentoring
+assignment
+-73 stefanacci
+trajectories
+neuroscience 97
+& quirk
+dayan
+purposeful
+underlies
+variety
+materials
+model
+neuroscience 115
+gallistel
+assigned
+psychophysics
+identify
+localize
+chiba
+wiley-liss
+mcdonald
+source
+transformed
+advanced
+air-puffs
+loss
+belova1*
+implications
+everitt
+press
+usa 101
+searched
+paton1*
+maintained
+essential
+scored
+doherty
+sequence
+& dolan
+delivered
+& gallagher
+/
+setlow
+prog
+proc
+symbol
+refer
+neurophysiol
+iv_ci
+update
+& roper-hall
+& carmichael
+punishments
+analysing
+comparison
+neurobiology
+tease
+slightly
+artefact
+modalities
+determine
+assessed
+rolls
+acknowledgements
+fast
+start
+& olson
+suzuki
+delivery
+gore
+convergence
+science 301
+1b­
+computing
+describe
+al
+goldberg
+warning
+& schoenbaum
+/reprintsandpermissions
+nonetheless
+& schultz
+nan
+details
+extinction
+principle
+kinds
+superposition
+klingenstein
+attentional
+allowing
+4d
+longer
+correlates
+fitted
+psychiatry
+indirectly
+4a
+0
+ð
+`
+1997
+844­ -852
+4
+18
+þ ð1 2
+155­ -159
+6
+1992
+1999
+1
+3881­ -3888
+2005
+¼ 0
+25
+26
+21
+22
+28
+451
+2069­ -2081
+375
+8%
+1927
+7
+20
+2 ¼ 0
+51%
+3570­ -3583
+*
+­
+1988
+65%
+` 2
+447­ -478
+233­ -250
+11
+10
+13
+15
+14
+16
+19
+55
+92
+1966
+155­ -184
+307­ -310
+321­ -331
+13124­ -13131
+295­ -317
+104
+8
+213­ -287
+2
+17
+479­ -494
+937­ -945
+02
+05
+¼ 61
+3
+2­0
+27
+704­ -708
+23
+75
+29
+63
+1104­ -1107
+552­ -582
+06
+1996
+32
+1998
+301­ -323
+9
+1979
+486
+þ
+65­
+610­ -626
+ð1þ
+1970­ -1981
+563­ -573
+5
+257­ -332
+30
+1261­ -1279
+300
+þ ¼
+12
+1­4
+985
+1025
+855­ -867
+44
+1­ -66
+40
+1593­ -1599
+¼ 39
+` þ
+2002
+2003
+2000
+2004

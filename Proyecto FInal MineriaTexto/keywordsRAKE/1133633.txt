@@ -1,0 +1,1426 @@
+cmfinder dataset family entero cre histone 3 ire intron gpii lysine purine rfn rhino cre secis
+pairwise sequence similarity ranges 20­39% trna cmfinder
+foldalignm­mccaskill foldalignm­foldalign srp-euk-arch cmfinder foldalignm­mccaskill foldalignm­foldalign srp-bacterial cmfinder foldalignm­mccaskill foldalignm­foldalign
+
+40­59%
+
+60­79%
+
+80­99%
+
+0
+pt nt à pf nf mcc ¼ pffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi ðpt þ pf þðpt þ nf þðnt þ pf þðnt þ nf þ ð5þ
+
+2
+ctrna pga1 glms let-7 lin-4 mir-10 s2m avg number
+alignment trna--80­99% sequence similarity 9 10 trna--40­59% sequence similarity
+
+fig
+predicted secondary structure formation free energy change
+covariance model based rna motif finding algorithm
+alignment cmfinder foldalignm­mccaskill average mcc 1 0
+low scoring cells saving cpu time
+bioinformatics
+sequence analysis
+
+original paper
+
+vol
+pmmulti algorithms promise good speed assuming
+post processing foldalign pairwise scans
+low sequence similarity ranges
+local pairwise dataset contained 14 trna
+metric approximates matthews correlation coefficient
+conduct local multiple structural rna alignments
+alignment foldalignm­foldalign 10 average mcc 1 0
+bl þ þ 
+ngap ij kl
+ðij
+ribosomal rna comparative structure models
+rna base pairing probability matrices
+foldalign generated base-pair probability matrices
+pt þ nf
+pt þ pf
+generate foldalign base-pair probability matrices
+sequence similarity ranges
+test basic local multiple alignment
+lower folding free energies
+predefined fixed window sizes
+eighth annual international conference
+dmitrij frishman
+
+abstract motivation
+foldalign performs local pairwise alignments
+utilizes hidden markov models
+memory efficient dynamic programming algorithm
+signal recognition particle database
+cmfinder showed comparable performances
+run larger datasets pairwise all-against-
+base pairing probability vectors
+discovering common stem-loop motifs
+qffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi pajq pap lq
+base-pair probability matrices pa
+simple sequence similarity searches
+foldalign generated probability matrices
+foldalignm­mccaskill version
+recent efficient approaches include evofold
+foldalign local pairwise scans
+ignoring non-canonical base pairs
+frequently occurring base pairs
+pair probability score matrices based
+foldalign base probability matrices
+dynamic programming recursions 8 > siþ1
+org
+
+multiple structural alignment
+1093/bioinformatics/btm049
+
+multiple structural alignment
+maximum allowed length difference
+pairwise local structural alignment
+alignment trna--60­79% sequence similarity 1 0
+mouse genomic regions unalignable
+pairwise foldalign alignments based
+rna sequences
+elfar torarinsson1
+computationally find non-coding rnas
+purine sequence pairs
+average sequence similarities ranging
+conserved rna secondary structures
+common local structure motifs
+falsely predicted base pairs
+correctly predicted base pairs
+consensus base-pair probability matrix
+rna secondary structure prediction
+base pair binding probabilities
+global multiple structural alignments
+computational rna structure prediction
+simple clustering approach worked
+pair
+
+930
+
+multiple structural alignment
+weighted pair-group clustering method
+foldalignm­mccaskill
+foldalignm include implementing
+global multiple alignment algorithm
+rna consensus structure prediction
+base pair probability matrix
+local pairwise foldalign
+foldalign pairwise scans
+dynamic programming matrix
+test multiple local clustering
+2007 advance access publication february 26
+entero orir
+rna sequence candidates found
+bl þ > > ij kl
+global multiple alignment program
+single sequence folding methods
+base-pair probability matrices
+single structured rna sequences
+foldalign pairwise alignments
+pairwise foldalign alignments
+low sequence similarity
+low base-pair probability
+pairwise
+
+cm finder 0
+pairwise foldalign scores
+foldalignm­foldalign
+trna--20­39%% sequence similarity 1 0
+noted sequence similarity
+mccaskill-generated base-pair probability
+
+929
+foldalign generated matrix
+pairwise foldalign scan
+computational molecular biology
+boltzmann weighted ensemble
+928
+
+multiple structural alignment
+low sequence similarities
+rna secondary structure
+optimal structural alignment
+rna secondary structures
+base-pair probability matrix
+rna sequence analysis
+base-pair level relative
+dna-protein sequence analysis
+/2 pairwise alignments
+common rna strucuture
+consensus secondary structure
+secondary structure prediction
+highest scoring alignment
+extensive foldalign version
+rna multistructure landscapes
+modern rna world
+dk
+
+1
+
+introduction
+
+traditionally
+sfold web server
+t4 phage lysozyme
+mfold web server
+box tymo trna-
+accelerated probabilistic inference
+stochastic context-free grammars
+pf
+/2 cheap string-
+gap ij penalty
+nf
+observed secondary structure
+local pairwise set
+consensus probability matrix
+sequence similarity
+
+scores
+conserved structural rnas
+nuclelic acids res
+rfam base-pair assignments
+high scoring pairs
+rna structure evolution
+entire base pairs
+exploiting conserved structure
+large ribosomal subunit °
+nucleic acids res
+cmfinder performs
+non-coding rna genes
+highest scoring pair
+specific sequence similarities
+significant common sequence
+simple clustering works
+simple single-linkage clustering
+local mutiple dataset
+nucleic acid folding
+strict consensus structure
+accompanying perl scripts
+danish research council
+rna family database
+60­79% sequence identity range
+20­59% sequence identity range
+cmfinder dataset
+mirna family joined
+automated structure prediction
+dataset foldalignm
+significant base pairs
+random sequence permutation
+test foldalignm
+progressive multiple alignment
+nucleotide sequence alignments
+covariance models
+current pairwise version
+good structure prediction
+local multiple set
+comprehensive four-family dataset
+outperforms cmfinder
+long-term matrix requires
+true base pairs
+named foldalignm
+foldalignm outputs
+72
+foldalignm
+
+clustal/alifold 0
+state-of-the-art clustering algorithms
+global comprehensive dataset
+scan human-mouse pairs
+pt
+simple clustering procedure
+rfam seed alignments
+30 flanking genomic nucleotides
+maintaining dinucleotide frequencies
+equilibrium partition function
+providing good understanding
+complete atomic structure
+aligned rna sequences
+unaligned rna sequences
+hierarchical clustering schemes
+conduct semi-local clustering
+advanced clustering scheme
+500 long genomic context
+sequences 56 63 29 75 48 29 47 12 63 64 22 17 14 9 9 11 23 35
+fold alignm
+sequences miss half
+progressive multiple-alignment approach
+cmfinder datasets
+program foldalignm
+global clustering dataset
+oxford university press
+advanced clustering approach
+base pairs gutell
+2
+
+methods
+
+multiple alignments
+steadily increasing number
+faster genome annotation
+cluster contained sequences
+average mcc performance
+rfam seed sequences
+mirna family cluster
+global clustering set
+probability matrices
+pairwise scans
+non-coding rna families
+ran local all-against-
+sequences base pair
+40% sequence similarity
+20­40% sequence similarity
+80­99% sequence similarity
+sequence similarity
+expensive pmcomp algorithm
+structure similarity
+families trna
+80­99% similarity range
+multibranch point list
+cpu time
+family includes 20 subsets
+original alignments
+base-pair probabilities
+time improvements presented
+pairwise alignments
+correlation coefficient
+foldalign dataset
+clustering large datasets
+cluster sequences based
+foldalign version
+foldalign found
+structure motifs
+similarity scores
+cmfinder
+randomly chosen sequences
+folding energy
+foldalignm
+scoring scheme
+common structure
+pairwise scan
+cluster similar candidates
+speed improvements
+// foldalign
+foldalign input
+foldalign employs
+foldalign  parameter
+single sequence
+sequence database
+multiple alignment
+nucleic acids
+average mcc
+8 average mcc 0
+mccaskill
+base pairs
+rna folding
+sequence based
+clustering similar sequences
+non-coding rna
+1
+
+global alignment
+conserved structures
+base-pairing matrices
+small well-defined clusters
+specific rna
+ngap insertions
+align unbranched segments
+length difference
+consensus matrix
+ribosomal rnas
+local version
+structure prediction
+global dataset
+motif lies
+kl þ2z
+
+þ
+trna
+14 trna
+local clustering
+global alignments
+genomic context
+efficient implementation
+structural information
+conduct clustering
+genome res
+foldalign output
+cluster analysis
+2
+
+global clustering
+cluster similar sequences
+progressive alignment
+base pair
+multiple organisms
+49
+
+rna cast 0
+rna molecule
+rna molecules
+genome-wide scans
+faster annotation
+comprehensive dataset
+single nucleotides
+significant candidates
+long-term matrix
+well-defined structures
+sequence length
+dataset includes
+pre-filtered based
+calculate mcc
+base paired
+19 family dataset
+finding homologs
+base-pair match
+consensus shapes
+consensus shape
+primary sequence
+sequence belonging
+à 1 progressive alignments
+progressive alignments
+low cutoff
+acm press
+correlation coefficients
+dinucleotide frequencies
+local datasets
+reliable prediction
+hybridization prediction
+multiple sequences
+final alignment
+alignment errors
+multibranched structure
+3d structure
+rna sequences
+hierarchical clustering
+3
+
+semi-local clustering
+unlike evofold
+non-coding rnas
+candidates found
+short-term matrix
+statistical folding
+simultaneously folding
+comprehensive study
+perl implementation
+recent implementation
+fig
+starting point
+quadratic time
+expensive all-against-
+sequence exists
+perfectly predicted
+significant improvements
+genomic sequences
+test clustering
+clustering procedure
+rfam assignment
+complete dataset
+respective family
+good sensitivity
+large differences
+randomly chose
+cluster prediction
+increasing number
+updated version
+current version
+early version
+latest version
+true negative
+preserves dinucleotide
+counting true
+true positive
+dinucleotide distribution
+run all-against-
+greedy approach
+good localization
+large set
+pmcomp algorithm
+pmmulti lacks
+þ  pmmulti constructs
+sankoff algorithm
+random sequences
+fast folding
+scores represented
+descending scores
+noncoding rnas
+untranslated rnas
+non-messenger rnas
+prediction accuracy
+shuffling preserves
+embo rep
+guide tree
+excluding sub-alignments
+pages 926­932 doi
+redefining method
+simultaneous solution
+evolutionary history
+recursion differs
+archaeal srp
+2007 associate editor
+energetically indistinguishable
+recent programs
+protosequence problems
+depends directly
+unpaired bases
+stinus lindgreen
+protein pathway
+putative studies
+initialization sla
+ch index
+forty percent
+rights reserved
+positive predictive
+bacterial srp
+danish center
+unbranched segments
+63
+
+stem loc 0
+rnaprotein interactions
+complicates implementation
+denmark
+
+received
+rational design
+changed dramatically
+w135­wi41
+late 1990s
+looser list
+approximated matthew
+codon usage
+natural sciences
+apparent paradox
+tedious study
+dk/ contact
+observed frequency
+jan gorodkin1
+scientific computation
+plos comput
+extreme differences
+change
+dendrite method
+main exceptions
+average score
+500 long sequences
+long sequences
+good clusters
+clustering function
+high cutoff
+methods sections
+reliable methods
+pairwise
+redefined alignments
+general test
+foldalign
+fast version
+human genome
+branch points
+comparable performance
+multibranch points
+methods section
+bmc bioinformatics
+17 rfam families
+term describes
+memory intensive
+false positive
+terms account
+false negative
+collect data
+ran tests
+memory limitations
+perform alignments
+ten sequences
+related sequences
+nineteen sequences
+pre-aligned sequences
+input sequences
+general evaluation
+average lengths
+general identify
+calculate scores
+joint score
+matrices
+large clusters
+pmcomp joins
+re-implemented pmcomp
+data set
+clustering results
+running all-against-
+expected slightly
+eukaryotic complexity
+matches ip
+columns pq
+calculated matthew
+art programs
+great importance
+permissions@oxfordjournals
+assuming
+unpaired position
+life sciences
+scanning considerably
+cutoff mentioned
+effective approach
+3
+
+performance measures
+gorodkin@genome
+mcc
+1
+
+pmcomp improvements
+shuffled sequences
+probability
+probability 1
+finding
+motif
+higher sensitivity
+energy
+numbers represent
+preliminary results
+evaluation made
+defined analogously
+references
+altschul
+left part
+sequences exists
+perform significantly
+efficient
+longer families
+default parameters
+generated
+cluster sequences
+perfect clusters
+¼ max siþ1
+> > > max si
+pmcomp program
+general pmcomp
+terms describe
+higher specificity
+promising program
+results section
+local
+sequences belong
+initial step
+rna
+pmcomp complexities
+conduct
+approaches
+ran stral
+bl þ
+performance measure
+based
+pmcomp aligns
+base
+pairs
+aligning 11 sequences
+cluster add
+general implemented
+sequence
+algorithms
+prediction
+good
+alignment
+structure
+performs
+evofold
+matrix
+algorithm
+rnaalifold performed
+include
+lq
+university
+advance
+structured
+time
+february 6
+unalignable
+recent
+performances
+predicted
+dataset
+rfam
+family
+candidates
+alignments
+average
+generate 20
+generate
+matthews
+comparable
+found
+run
+test
+pair
+approach
+oxford
+2
+
+clustering
+clustering
+pmmulti
+length
+scores
+rnas
+segments
+presented
+list
+small
+current
+method
+multibranch
+
+927
+scan
+chosen
+gap
+unbranched
+all-against-
+providing
+complete
+nucleotides
+methods
+set
+similar
+improvements
+section 2
+number
+1 0 2 3 4 5 6 7 8 number
+1 0 2 3 4 5 6 7 8 9 number
+1 0 2 3 4 5 6 7 8 9 10 number
+shuffled
+points
+function
+bioinformatics
+memory
+max
+ran
+4
+
+data
+
+2
+exists
+sensitivity
+terms
+false
+higher
+term
+gutell
+program
+2­10 sequences
+9­71 sequences
+71 sequences
+135 sequences
+sequences
+9 sequences
+general
+10 datasets
+datasets
+cluster
+score
+> > > > si
+si
+> si
+< ð2þ si
+> > > > siþ1
+> > > > > si
+pmcomp
+calculate
+sankoff
+complexities
+promising
+information
+frequency
+measure
+localization
+fast
+publication
+specificity
+homologs
+columns
+redefined
+scanning
+importance
+eukaryotic
+life
+describe
+subsets
+align
+ip
+belong
+720 subsets
+running
+center
+programs
+position
+human
+permissions
+match
+calculated
+20 subsets
+expected
+cutoff
+performance
+results
+stral
+numbers
+performed
+aligns
+part
+accuracy
+made
+3
+
+results
+altschul
+output
+defined
+lengths
+19 families
+parameters
+families
+perform
+17 families
+clusters
+rnaalifold
+effective
+aligning
+add
+gorodkin
+implemented
+step
+step 4
+limited
+sci
+hmms
+acknowledgements
+biol
+peter
+iii
+recomb
+2004a
+excluded
+jakob
+case
+2004b
+comm
+81
+
+clustal/pfold 0
+seemingly
+choice
+4
+
+conclusion
+
+3
+evidence
+positions
+table 1
+deals
+science
+> i5m5j
+smaller
+dealing
+cost
+rnomics
+copenhagen
+clustalw
+time-consuming
+technology
+contrast
+evaluating
+averaging
+hours
+constructed 10
+l22
+directions
+opin
+compute
+thousand
+washietl
+involved
+re-implementation
+resulting
+published
+domains
+implement
+suitable
+makes
+durbin
+holmes
+divide
+uzilov
+basis
+addressed
+dna
+usa
+2department
+finally
+examination
+pp
+means
+definition
+restrictions   ð
+tested
+1870 frederiksberg
+cases
+join
+thousands
+equation
+averaged
+co-workers
+elegantly
+averages
+pt/
+compare
+process
+ii
+end
+provide
+s0
+pedersen
+erickson 1985
+located
+pruning
+speeding
+acta
+stemloc
+alternative
+proc
+gardner
+produce
+deviates
+journals
+erikson
+types
+realized
+remember
+assign
+make
+michel
+architects
+rnacast
+playing
+sub-alignment
+lb
+interesting
+giegerich
+estimating
+detected
+production
+ðai
+defining
+split
+correspondence
+zucker
+evol
+rsearch
+material
+runs
+mention
+harabasz
+successor
+articles
+possibilities
+merge
+l4
+l2
+mrna
+table 2
+scfg
+referred
+havgaard1
+weight
+hard
+principles
+remove
+http
+ibhv
+reused
+eds
+author 2007
+mattaj
+crucial
+increase
+k2b=
+maximized
+correct
+math
+stat
+classification
+january 16
+subsequences
+purines
+put
+hand
+refer
+havgaard
+à1 þ ðaj
+determining
+m22
+feasible
+due
+torarinsson
+ding
+westhof
+knudsen
+faculty
+top
+needed
+eddy
+intermediate
+biochem
+option
+johnson
+milligan
+centroids
+bihop
+translation
+substructures
+erickson
+prune
+require
+submitted
+1/
+reeder
+mind
+argument
+manuscript
+manner
+biopolymers
+chem
+note
+materials
+strengths
+added
+thi
+i2a
+assessed
+segment
+surprising
+considered
+clear
+order
+proceedings
+ku
+significance
+calculates
+fact
+joining
+tendency
+detection
+supported
+ncrnas
+threshold
+availability
+slow
+dalli
+identification
+infernal
+biophys
+move
+hit
+klein
+trnas
+report
+procedures
+workman
+filled
+ban
+view
+redefine
+computed
+robustness
+testing
+result
+paul
+detect
+expert
+ways
+siam
+bk þ
+state
+features
+stadler
+geometric
+hofacker
+email
+discovery
+pfold
+recently
+ability
+missing
+lb ¼ 0
+jq
+article
+bonhoeffer
+nat
+hits
+ruzzo
+november 30
+deletions
+sensitive
+þ ðai
+filtering
+locarna
+simply
+considers
+kp
+krogh
+java
+perspectives
+addition
+pb
+yao
+treat
+interest
+compensating
+improve
+designed
+finished
+understand
+present
+applied
+cobalamin
+rosenblad
+evaluated
+reliably
+u1s
+eur
+layer
+52 min
+iv
+dynalign
+ribosome
+mattick
+conflict
+independent
+weinberg
+struct
+constructed
+
+10
+28 trnas
+restricted
+finds
+13 thi
+sets
+griffiths-jones
+composed
+uk
+generally
+obtain
+localize
+insight
+extracted
+regarded
+attractive
+natl
+srpdb
+rev
+declared
+mol
+accepted
+loss
+sorting
+lost
+performing
+cooper
+steps
+k5n5l
+
+2
+nice
+calinski
+hand
+
+*
+searching
+monatsh
+examples
+genetics
+ð4þ pab ¼
+comments
+locate
+bk
+negatives
+substitution
+properties
+comparison
+extension
+column
+þ s0 >
+genet
+ivo
+$20­60% depending
+ã
+1
+
+division
+introduced
+positives
+predictions
+acad
+ppv
+determine
+capable
+reducing
+transfer
+u1
+specifically
+psychometrika
+start
+resulted
+revised
+independently
+gain
+scope
+huttenhoffer
+count
+rnaz
+consist
+la
+gaps
+zuker
+problem
+nagai
+krogh 1999
+curr
+choosing
+adequate
+aj
+al
+rawlings
+work
+check
+constructed
+compared
+e33
+ravenna
+ends
+cmfinder--
+compares
+details
+briefly
+suppl
+calculating
+cove
+prepared
+hein
+bioinfomatics
+appl
+resolution
+avoid
+83 0 0
+2 0
+15
+1974
+71 0
+81%
+243­251
+0
+14
+77 0
+7
+2135­2144
+6
+526­538
+65 0 0 0
+66 0 0
+55 0
+60 0
+926
+
+ß
+885­889
+301­310
+4
+81 0
+[
+à
+31
+446­454
+3516­3523
+1105­1119
+810­825
+à1 þ é
+95 1 0
+13­24
+72 0
+1990
+1993
+1994
+1997
+1996
+1999
+241­254
+95 0
+1
+75 1 0
+75 0
+2079­2088
+84 0
+þ 2
+70 0
+20
+59 0
+8 0
+81
+363­364
+40 1 0
+2222­2227
+24
+40%
+27
+22
+23
+29
+931
+1157­1166
+þ é
+78 0 0
+64 0
+25
+319
+21
+78 0
+à1
+80
+84
+þ 1
+82 1 0
+173
+2454­2459
+56 0
+92 0
+47
+
+0
+3 0
+76 0 0
+81
+
+0
+76 0
+18
+80 0
+11
+10
+19
+445­452
+40­59
+75
+
+0
+1967
+53 0
+91 0
+þ à ð
+60­79
+74 0
+76
+73 0
+73
+79
+78
+986­991
+89 0
+96 0
+4 0
+3
+1815­1824
+125
+2
+71 1 0
+ã
+83 0
+16
+3406­3415
+77 0 0
+9 0
+65 0
+¨
+167­188
+88 0 0 0
+ð1þ
+à1 þ
+80 0 0 0
+86 0
+ð3þ ð
+342
+405
+85 0
+26­51
+62 0
+102
+90 0
+50%
+]
+>
+þ1
+é
+67 0
+68 0
+30
+159­179
+439­441
+905­920
+79 0
+77 1 0
+79
+
+0
+1975
+1059­1066
+þ
+216
+45
+255­278
+4816­4822
+32
+289
+6 0
+442­451
+97­98%
+3724­3732
+5 0
+919­929
+50
+65
+54 0
+5
+7 0
+8 2007
+22 0 0
+82 0
+94 0
+932
+95 0 0
+49 0
+1985
+73 0 0 0
+40 0
+71 0 0
+835­843
+20­39
+44
+1­27
+43
+à 1
+> >
+1593­1599
+39 0
+2002
+2003
+2000
+2001
+2006
+2007
+2004
+2005
+12

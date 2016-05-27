@@ -1,0 +1,1626 @@
+computational linguistics grammar induction machine learning protein classification language acquisition
+automatically acquired regular grammars achieve perplexity
+uk research nlp carroll cfg-resources]
+statistically feasible local-context significance criterion
+sequential symbolic data possess structure
+tree structure excludes cyclic recursion
+previously undescribed statistical significance criterion
+existing methods require corpora tagged
+solid black line connecting
+[begin p55 3 begin e56 thinks
+posit globally valid categories
+online multilingual bible texts
+dan david prize foundation
+adios attained classification performance comparable
+neural information processing systems
+including standard tests routinely
+space supports functional classification
+raw symbolic sequential data
+completely bias-free unsupervised learning
+capture long-range syntactic dependencies
+recursively structured phrasal constituents
+equivalence class e50 {bird
+protein data correlating sequence
+including unconstrained natural-language data
+multiple alternative subpaths coexist
+bootstrap mode requires larger corpora
+graph brings closer far-
+capture long-range structural dependencies
+state-of-the-art constituent learning algorithm
+grammar induction integrate statistical
+includes reliable syntactic information
+partially aligned sentential contexts
+adios enforces long-range agreement
+natural language processing tasks
+­israel binational science foundation
+raw sequence data carry
+machine learning paradigm
+unsupervised algorithm recursively distills
+weak generativity criterion requires
+extremely small corpora generated
+leading significant pattern perform mex
+natural language acquisition involves
+context-sensitive probabilistic criterion defined
+algorithm yields equivalence classes
+reduce generalized search path
+protein sequences syntactic structures
+variable-order markov probability functions
+[p72 p178 3 e66 thinks
+natural languages
+zach solan*
+tree-structured root patterns distilled
+learned natural language grammar
+automatically acquired representation
+atis-2 natural language corpus
+computational grammar induction
+defining syntactic constituents
+construct generalized search path
+algorithm generates candidate patterns
+average-case computational complexity
+captures longer-range dependencies
+modern computational approaches
+protein sequence data
+results constitute significant progress
+grammaticality judgment tests
+preset ``cutoff parameter
+good operational approximations
+nucleic acids res
+local flow quantities
+null hypothesis stating
+reliable ``gold standard
+42nd annual meeting
+technical report msr-tr-2001-72
+existing equivalence classes
+org cgi doi 10
+weak perfect generativity
+maximum recursion depth
+6th international colloquium
+raw sequential data
+carnegie mellon university
+protein sequences annotated
+18th international conference
+de la higuera
+crucial conceptual components
+optimal precision-recall tradeoff
+probabilistically annotated grammar
+finite-state language processing
+large-scale raw corpora
+raw sequence information
+recent evidence suggests
+support extensive generativity
+mutual information-based approaches
+& van den bosch
+eighth national conference
+artificial language acquisition
+mutual information measures
+credit assignment problem
+newly abstracted pattern
+recursively encountered pattern
+size
+adios
+pnas august 16
+exhibits good performance
+additional equivalence class
+optional equivalence class
+shimon edelman§
+*school
+influential early work
+linguists traditionally analyze
+adios run constitutes
+ieee computer society
+equivalence classes e56
+equivalence classes leads
+statistical information present
+rewire graph create
+begin 3 e1 3 3 e5 3 end
+ieee international conference
+encountered equivalence class
+partially overlapping strings
+applying hierarchical clustering
+final graph includes
+usa
+
+pnas
+
+august 16
+pnas web site
+read disturbs joe
+tel aviv university
+reduced generalized path
+data sparseness problem
+partially alignable sentences
+identify significant segments
+algorithm largely circumvents
+structural language modeling
+infer underlying rules
+final lexicon includes
+present experiment concentrated
+present work focuses
+train multiple learners
+discovers hierarchical structure
+natural language experiments
+natural language corpus
+require unsupervised learning
+homology tree structure
+berkeley linguistic soc
+candidate significant pattern
+context-sensitive statistical evidence
+adios algorithm empirically
+adios algorithm differs
+adios achieved perplexity
+respective adios grammars
+significant pattern subject
+support structured generalization
+33 11633
+
+computer sciences
+
+ mode
+path segments encountered
+800-sentence training corpus
+resulting typological relationships
+trained adios instances
+default learning mode
+generalized search path
+current search path
+natural-language atis-2 corpus
+generate data rich
+computational linguistics
+computer speech language 4
+artificial context-free grammars
+recall performance unrivaled
+leading significant pattern
+learned structures safer
+context window widths
+structured language model
+parameter values explored
+current common context
+e5 e2 e3 e4
+identical root patterns
+hierarchically structured patterns
+method achieves precision
+target grammar g0
+training data generated
+motif extraction algorithm
+learning complex syntax
+multiple adios learners
+produce acceptable sentences
+word n-gram probabilities
+generalized path consisting
+generalized search paths
+33 11631
+
+computer sciences
+
+fig
+33
+
+11629 ­11634
+
+computer sciences
+
+fig
+training corpus results
+produces 99% ungrammatical sentences
+probability functions
+test corpus clearner
+partially aligned
+sequential data
+fixed context defined
+grammar induction
+original corpus sentences
+adios model trained
+test corpus ctarget
+training corpus ctraining
+corpus sentence defines
+paths entering e1
+computer linguistics
+protein sequences
+vertex k-l-1 ii
+paths entering e4
+language acquisition
+pl increases leftward
+international conference
+microsoft research
+language processing
+statistical significance
+statistical information
+natural language
+raw corpora
+functional information
+syntactic categories
+sequence data
+structural information
+invoked recursively
+raw data
+natural-language corpora
+unsupervised learning
+3
+perplexity measures
+adios criterion
+grammars acquired
+equivalence class
+tel aviv 69978
+psycholinguistic tests
+signal processing
+david horn*
+language modeling
+adios brings
+mex criterion
+equivalence classes
+9 equivalence classes
+language data
+candidate pattern
+bootstrap mode
+pattern significance
+rule induction
+special begin
+perform mex
+org sprot
+tested previously
+infinite recursion
+unsupervised algorithm
+raw text
+natural languages
+statistical cues
+supporting information
+part-of-speech information
+generalization­bootstrap
+purely statistical
+pnas august 16
+target grammar
+learning algorithm
+hierarchically structured
+variable-order markov
+generalized path
+functional properties
+current version
+cornell university
+multiple edges
+artificial intelligence
+representations acquired
+structural descriptions
+natural-language text
+significant pattern
+significant pattern]
+statistical method
+search segments
+largely encode
+standard deviation
+human subject
+syntactic sense
+national academy
+root pattern
+syntactic regularities
+optimal combinations
+small size
+n-gram models
+final path
+inherently safer
+de marcken
+3d captures
+atis-cfg grammar
+learned grammar
+context-free grammar
+language consists
+observed data
+untagged data
+artificialgrammar data
+applying adios
+equivalence relations
+e2 3 e3 3 e4
+involves testing
+final graph
+default mode
+data graph
+language model
+technique defines
+atis-2 corpus
+motif extraction
+path leftward
+seeking subpaths
+identical prefix
+identical suffix
+linguistic theories
+parallel bible
+transition probabilities
+dan klein
+unsupervised algorithms
+learner generates
+strong generativity
+target grammars
+grammar g0
+iterative search
+search path
+computer science
+previous approaches
+hierarchical process
+& van zaanen
+resulting representation
+van zaanen
+conceptual knowledge
+significant patterns
+comparable level
+original search-path
+significance conditions
+root patterns
+adios representation
+classification
+statistical computation
+rulebased methods
+experimental results
+encountered vertices
+structure discovery
+begin 3 e1 3
+achieved 100% precision
+pattern creation
+multiple levels
+pattern spectrum
+pattern p116
+pattern matching
+pattern distillation
+pattern p49
+pattern extraction
+outcome pattern
+parse tree
+pattern spectra
+complexity science
+em algorithm
+algorithm starts
+algorithm proposed
+algorithm picks
+graph structures
+finite grammars
+probabilities result
+context-free grammars
+grammar consisting
+adios algorithm 1
+adios algorithm
+teacher generates
+structured generalization
+context-sensitive mode
+open circles
+prime examples
+3c compares
+prior assumptions
+separate path
+grammatical primitives
+external events
+resulting corpus
+complex cfg
+postprocessing stage
+structure-sensitive aspects
+lecture notes
+increase linearly
+making productive
+patternlike constructions
+lawrence erlbaum
+chosen path
+approved june 14
+menlo park
+submitted directly
+finite state
+alcohol oxidase
+shai shen-
+searches performed
+ben sandbank
+phrase doesn
+ima volumes
+acquires depends
+end-points obey
+deem grammatical
+svm-prot system
+3b illustrates
+proved elusive
+precisely fits
+distributional analysis
+intelligence artificielle
+defines precision
+horowitz center
+initial path
+exact match
+artificial-grammar experiments
+numbered arrows
+``semantically supervised
+order-permuted versions
+euclidean distances
+mathematical foundations
+trees rooted
+complementary distribution
+ny 14853 edited
+dictated solely
+possibly indicating
+544a­544d
+inherently ambiguous
+150-learner cohort
+defined algorithmically
+corpus sizes
+double annotations
+generating grammatical
+output generated
+sheet music
+global criteria
+artificialgrammar output
+intermediate nodes
+tough movement
+physical features
+asa ben-hur
+review december 25
+addison­wesley
+document analysis
+inferences locally
+progressive abstraction
+roded sharan
+cognitive scientists
+connectionist perspective
+main path
+grammatical inference
+computers humanities 33
+roni katzir
+se37@cornell
+kind learned
+parse trees
+entire process
+extended version
+bo pedersen
+exert influence
+path sections
+recurring motifs
+san francisco
+aaai press
+eytan ruppin
+avoids overgeneralization
+daunting challenge
+dendrogram illustrating
+3-gram models
+barb finlay
+combines statistics
+entire corpus
+training corpus
+successfully overcoming
+yaniv oshrat
+context-free productions
+experiments designed
+collocation frequencies
+real issue
+external referee
+sophisticated smoothing
+automatic distillation
+swissprot database
+minimal assumption
+building blocks
+morgan kaufmann
+operations carried
+automata theory
+rethinking innateness
+corpus generated
+stochastic annotation
+original unit
+acceptability data
+adios carries
+larger units
+context free
+common context
+context dependent
+context sensitive
+condensed text
+supporting text
+original lexicon
+multiple loops
+nonsimple graph
+context-free mode
+parent patterns
+patterns learned
+yielded 28 patterns
+patterns constructs
+base sequences
+teacher produces
+significant number
+declared significant
+adios graph
+original sentences
+adios patterns
+linguistic domain
+proceed leftward
+hierarchically composed
+evaluation method
+ta1 grammar
+g0-grammatical strings
+simple cfg
+approximate g0
+mit press
+strings generated
+extra-linguistic knowledge
+procedure seeking
+representative result
+single unit
+human subjects
+protein
+result implies
+unit situated
+knowledge discovery
+e5 e2
+original symbols
+original members
+lexicon clusters
+finite lexicon
+generalization factor
+294-word lexicon
+speech acts
+published methods
+transcribed speech
+lexicon entries
+speech segmentation
+context window
+pnas office
+3 e5 3 end
+largest overlap
+incoming
+solan
+clearner accepted
+human-judged precision
+elements subsumed
+right-moving ratio
+minimum overlap
+rewiring modes
+``decrease ratio
+pattern types
+context-sensitive rules
+cognitive science
+adios-generated sentences
+grammatical sentences
+343 remaining sentences
+sentences defined
+adios algorithms
+adios instance
+single learner
+learner suffices
+learner ahead
+algorithm relies
+bioinformatics data
+representations learned
+recall reach 90%
+recall acceptance
+low recall
+mex procedure
+leaf level
+letter level
+end product
+context e2
+rewriting rules
+context-free rules
+corpus size
+highly correlated
+algorithmic approach
+generative fashion
+alex clark
+decrease dl
+success rate
+open slot
+initially coinciding
+irreversibly rewired
+relevant slot
+single slot
+751 enzymes belonging
+repeat step 4
+special symbols
+principle difficult
+trends cognit
+left untouched
+expressive power
+directed pseudograph
+enzyme commission
+straightforward manner
+strict definition
+distill rule-
+adios works
+adios makes
+relevant vertices
+vertices comprising
+ctarget accepted
+complex
+11630 www
+psycholinguistic testing
+model constraints
+cfg rules
+oxidoreductases family
+track ii
+diverse issues
+wide variety
+partly supported
+algebraic processes
+form n1
+traversal order
+coinciding paths
+atis cfg
+specific cfg
+386 unique sentences
+e4 display
+beginning vertex
+successfully tested
+detecting units
+context provided
+point e2
+coherent bundle
+starting points
+mark johnson
+case consists
+test set
+training set
+generalization step
+generate acceptable
+rewiring step
+calculate precision
+e3 e2
+recall level
+ed stabler
+criterion
+dendrogram shown
+vertices subsumed
+top level
+teacher instance
+vertices e2
+proving effective
+linguistics 27
+similar manner
+carroll
+e56
+root-patterns extracted
+linguistics
+attained
+end vertices
+starting point
+unique words
+begin
+sequence
+slot form
+paths leave
+location e3
+recursion
+requires
+significance
+ec numbers
+generalized
+comparable
+larger
+paths join
+perplexity
+corpora
+learning
+standard
+sciences
+e66
+space
+contexts
+israel
+construct
+agreement
+progress
+present
+capture
+grammar
+language
+data
+equivalence
+significant
+markov
+root
+subpaths
+evidence
+ieee
+structured
+atis-2
+bible
+categories
+variable-order
+generativity¶
+generativity
+search
+segments
+approaches
+hierarchical
+structures
+require
+leading
+methods
+results
+problem
+structure
+tree
+pattern
+define pr
+e5
+performance
+context-sensitive
+algorithm
+grammars
+0409746102
+
+grammars
+grammars 7
+relationships
+school
+path
+work
+corpus
+p55
+extraction
+soc
+test
+explored
+experiments
+training
+distilled
+linguists
+learned
+trained
+common
+defined
+generated
+experiment
+clearner
+resulting
+context-free
+constitute
+fixed
+22 generated
+ungrammatical
+increases
+adios
+context [
+context
+text
+graph
+mode
+patterns
+model
+sequences
+mex
+method
+strings
+g0
+learners
+cfg
+150 learners
+mit
+languages
+unit
+subjects
+result
+procedure
+p178
+p72
+knowledge
+acceptable
+window
+ctarget
+p178]
+generalization­
+generalization
+lexicon
+speech
+1073 pnas
+pnas
+algorithms
+syntax
+unique
+solan
+values
+rewiring
+ratio
+0409746102
+
+solan
+read
+accepted
+ctraining
+subsumed
+point
+precision
+instance
+overlap
+science 283
+science 298
+science 291
+science 274
+science 275
+200 sentences
+000 sentences
+700 sentences
+sentences
+learner
+consisting
+representations
+e2
+99% recall
+recall
+e3
+level
+level 3
+level 2
+end
+28 rules
+592 rules
+rules
+000 rules
+7 rules
+calculate
+expressive
+highly
+types
+effective
+top
+manner
+principle
+dl
+approach
+left
+specific
+computation
+word
+leave
+regularities
+domain
+word 10
+generative
+size
+proving
+slot
+declared
+relies
+rule-
+root-patterns
+published
+proceed
+numbers
+sense
+enzymes
+members
+definition
+number
+rewired
+extracted
+acceptability
+enzyme
+conditions
+initially
+levels
+step
+similar
+cognit
+makes
+composed
+clark
+pseudograph
+symbols
+constraints
+atis
+success
+works
+rule
+vertices
+generate 896
+generate
+testing
+teacher
+join
+order
+klein
+ii
+sentence
+form
+family
+diverse
+provided
+ta1
+supported
+processes
+variety
+paths
+e1
+e4
+vertex
+tested
+units
+johnson
+starting
+case
+loops
+& johnson
+bundle
+set
+www
+ec
+11632
+
+www
+location
+ec 1
+words
+11634
+
+www
+pl
+ed
+bioinformatics
+shown
+fig
+1 define
+define
+pr
+limited
+fronts
+figs
+govern
+affect
+cfgs
+vector
+& chater
+chen
+implemented
+selected
+seeks
+2005
+
+vol
+reported
+through-
+interpret
+obtained
+leaves
+stern
+total
+univ
+plot
+dna
+abbreviations
+call
+saffran
+berlin
+correspondingly
+hold
+derivation
+springer
+straddle
+exceptions
+gross
+description
+replacing
+maintain
+london
+thesis
+fit
+production
+& doddington
+reasonable
+series
+childes
+extract
+quantify
+& manning
+estimate
+bates
+incorporated
+nouns
+implicated
+disciplines
+enhancing
+intell
+& diab
+showed
+iteration
+karmiloff-smith
+rao
+well-
+macwhinney
+indexed
+kermorvant
+schlesinger
+germany
+mitigate
+calculated
+& rosenfeld
+notion
+incomplete
+earth
+situations
+judged
+reconstruct
+dr
+fields
+traversed
+expasy
+cai
+& omohundro
+received
+providing
+rightward
+cow
+cameron-faulkner
+contribution
+fillmore
+appeared
+represented
+loaded
+proceeded
+basis
+& tomasello
+expected
+life
+generalizing
+applied
+metaanalysis
+iv
+seattle
+parisi
+split
+sussex
+grammar-
+hand
+acoustics
+elman
+assigned
+han
+regarded
+macdonald
+chelba
+locations 2
+opt
+advances
+left-
+& mehler
+bottom
+comments
+illustration
+olsen
+permitted
+simul
+presence
+tables 2­5
+carrasco
+categorization
+width
+psychol
+forming
+tables 10
+incorporation
+encoded
+removed
+portions
+builds
+originating
+moore
+nj
+generally
+& chen
+15a
+governed
+time
+357 terminals
+n2
+n3
+n4
+remarkable
+piscataway
+charge
+phonemes
+string
+table 1
+table 7
+application
+findings
+wolff
+shared
+address
+fernau
+behav
+e64
+marked
+traversing
+& dupont
+inside-
+cat
+labeled
+trans
+predict
+allowed
+discussion
+levy
+applications
+date
+bonatti
+displayed
+jim
+decreases
+correspondence
+introduce
+nos
+james
+proteins
+naming
+751 proteins
+shows
+rely
+lingustics 12
+origin
+omitted
+accruing
+impossible
+george
+1c
+1e
+1d
+1g
+1f
+pittsburgh
+lieven
+locations
+note
+phillips
+goodman
+beth
+considered
+average
+conservatively
+show
+spaces
+proportion
+& ullman
+magerman
+settings
+reveals
+reading
+& young
+ji
+analyzed
+parentheses
+acquiring
+enabling
+reside
+seidenberg
+just-detected
+aiming
+capable
+workshop
+likewise
+& vervoort
+offered
+situation
+susx
+& schabes
+assigns
+section 4
+initialization
+section 7
+section 2
+section 3
+harris
+ithaca
+captured
+pereira
+electronique
+capability
+equivalent
+notably
+artif
+comparison
+cambridge
+determine
+gomez
+start
+embedded
+ac
+al
+examine
+ideally
+conll-2002
+mathematics
+coherence
+students
+included
+barcelona
+sci
+chinese
+generalize
+children
+polarity
+box 2
+box 1
+time [
+returned
+difference
+list
+becker
+search-sections
+ma
+mcclelland
+produced
+dietterich
+recogition
+aimed
+subsumes
+finally
+brunswick
+preloaded
+adriaans
+aslin
+compare
+stated
+stacking
+share
+accept
+& braine
+species
+uncertainly
+resemble
+fundamental
+stolcke
+hierarchy
+developed
+closeness
+paper
+& glass
+pena
+vijayan
+association
+marcus
+2d
+2f
+2g
+eager
+2c
+found
+generation
+30 trials
+macmillan
+& walker
+operation
+psychology
+load
+safety
+occurs
+alleviating
+one-to-
+differ
+terminals
+100 verses
+conducted
+horse
+resnik
+introduction
+focusing
+translation
+treated
+comput
+2005 vol
+reliance
+added
+english
+assoc
+kay
+measured
+physics
+find
+parameters
+merged
+learns
+verbs
+fan-
+reject
+slots
+decline
+pp
+13 stands
+appears
+& saffran
+pa
+nadel
+ph
+praeger
+evaluated
+behavior
+swindlehurst
+vol
+belong
+development
+literature
+undecidable
+predecessors
+lower
+``parts
+montreal
+organization
+loading
+guyon
+exclusively
+ostendorf
+heidelberg
+evaluate
+philos
+tables 1­12
+bit
+cogs
+flux
+& oncina
+indication
+translated
+markman
+release 40
+& newport
+scale
+lari
+continuing
+restrictive
+informatics
+chomsky
+handconstructed
+range
+hopcroft
+hemphill
+eurospeech
+question
+long
+icgi 2002
+underlined
+khudanpur
+characteristic
+called
+dog
+functionality
+genome
+department
+problems
+replace
+illustrated
+eds
+& vishton
+unstructured
+& marcus
+ending
+dealt
+smaller
+replicates
+replicated
+selecting
+3a
+degree
+length 4
+implementation
+& plunkett
+addressed
+london 358
+iii
+averaged
+control
+threshold 1
+links
+daelemans
+inaccessible
+dependence
+effectively
+& snow
+sought
+compatible
+occur
+varies
+forest
+demonstrating
+correspond
+encyclopedia
+divided
+bins
+50 terminals
+interpreted
+mentioned
+choose
+documented
+& ghahramani
+identified
+slide
+saarbrucken
+performs
+ref
+greedy
+york
+likelihood
+godfrey
+& niyogi
+times
+length
+histograms
+roche
+adopts
+acquire
+unavailability
+goldberg
+grounding
+proceedings
+nowak
+terminal
+candidates
+thousands
+means
+geman
+terms
+nature
+ability
+importance
+interchangeable
+ca
+maximize
+table
+nespor
+29 terminals
+unlike
+& swartout
+appearance
+hillsdale
+member
+fellbaum
+http
+identity
+sets
+& pereira
+immediately
+roth
+replacement
+shen
+choosing
+e-mail
+mccandless
+henrichsen
+komarova
+introduced
+tree-terminal
+rendered
+letters
+assess
+section 6
+function
+histogram
+repeated
+made
+instructive
+limit
+iterated
+rabbit}
+chromosome
+compared
+roark
+details
+branch
+finch
+astronomy
+augmented
+4­17
+~ 11
+77­80
+102
+¨ 19
+93
+1991
+1990
+1994
+1997
+1996
+1999
+293­295
+000
+­
+1979
+0409746102
+1239­1253
+01
+73­86
+106­118
+553­554
+843­874
+0
+1993
+129­153
+38­40
+[
+1
+140­162
+1954
+26
+1995
+2
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+22­28
+]
+3
+25
+40%
+22
+1599­1603
+65
+´ 27
+6}
+114­119
+96­101
+4
+984­989
+319­329
+8 896
+200 ­10
+´ 38
+5
+© 2005
+`
+6
+271­296
+¶
+24
+27
+20
+21
+23
+28
+29
+7
+604­607
+78
+3692­3697
+7­11
+8
+30
+9
+329­354
+16­24
+¥
+95%
+2002
+2003
+2000
+2001
+2004
+2005
+431­436
+39
+33
+32
+31
+37
+36
+35
+34
+24­27
+1926­1928
+138
+§
+30­22
+70%
+1986
+454­457
+45%
+249­276
+57­68
+961­967
+**
+219­224
+2484
+120
+35­56
+981­984
+179­215
+35­42
+043
+478­485
+1985
+1988
+1989
+{3
+42
+40
+41
+1­26

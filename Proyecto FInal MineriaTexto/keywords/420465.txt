@@ -1,0 +1,700 @@
+represent
+RNAprocessing
+similarity
+different functional
+eutherian radiation
+Department
+alignment-related ascertainment
+Hillier,4
+Hinrichs,1
+identity-based
+Mechanisms
+Fleischmann
+genedense
+two-state phylogenetic
+excluded
+DNA-binding
+Ovcharenko
+Spieth,4
+coordinate regulator
+belonging
+Duplication
+Biocomputing
+transposon
+-flanking
+trans-acting antisense
+Oda-Ishii
+replication
+RNAbinding
+HG02238
+anonymous
+difference
+calibration procedure
+Transcriptional
+Chiaromonte
+Reference
+fourfold degenerate
+GO:0007268 GO:0030154
+ARHGAP15
+inspection
+nonrepetitive noncoding
+predicCooper
+Batzoglou
+consistent
+repetitive
+estimates
+phylogenetic shadowing
+structure prediction
+Efficient identification
+base-level
+realistic
+Bejerano,1
+Stojanovic
+synonymous substitutions
+established
+mutational
+maximum-likelihood parameter
+trans-dev
+Base-by-base conservation
+Improvements
+target-site
+Weinstock
+transcription regulator
+Supplemental
+statistical esticoverage
+segmentation
+explosion
+Secondary structure
+eutherian
+respectively
+parameter estimates
+nucleotide substitutions
+secondary structures
+Education
+high-CNF
+separation
+Published
+consideration
+stem-pairing
+genome-wide human/mouse
+determining secondary
+Pfeiffer
+noticeable
+5-nucleotide
+elaborate
+Space/Time
+log-odds
+paradoxus
+kudriavzevii
+GO:0007275 GO:0005216
+Alternative
+MicroRNA-directed
+CACNA1D
+intergenic conserved
+additional complexity
+cell­cell signaling
+GO:0007267 GO:0016071
+effective population
+experimentation
+Fractions
+mammal-specific conservation
+Corresponding
+Mitchison
+genome-wide alignments
+phylogenetic information
+predictions
+substitutions
+Bioinformatics
+annotations
+human­mouse
+GO:0007399 GO:0009887
+Histograms
+finger/homeodomain transcription
+SK-N-AS
+Blakesley
+Large-scale clustering
+interaction
+particular
+Expression
+analogous
+RNA-binding
+human/mouse substitutions
+homeobox
+Characterization
+ELAV-like
+mammalian
+megabase-sized
+Conserved
+deficiencies
+PhastCons Conserved
+Comparative
+tissue-specific alternative
+Visualizing
+specialized
+purifying selection
+Haussler1,2
+Untranslated
+metamorphosis
+Categories
+simulation
+practical
+mojavensis
+nearperfect
+discussion
+permission
+Blumenthal
+dependent
+Clawson,1
+important cellular
+Functional enrichment
+Sequencing
+widespread post-transcriptional
+genome-wide
+parameter
+significant mammal-specific
+Biomolecular
+RNA-edited
+different categories
+cis-regulators
+alternative calibration
+Selective constraint
+cis-regulatory
+meaningful
+annotation
+Callaway
+compensatory substitutions
+Churchill
+effective
+complementary sequences
+long-range
+recombination
+microtubule-based
+correspond
+ether-a-go-go
+lineage-specific conserved
+negligible
+correlation
+GO:0009653 GO:0008066
+Kimura-Yoshida
+parameter estimation
+non-coding
+antisense
+HNRPA28
+morphogenesis glutamate
+Weinstock,5
+statistical
+GO:0003723 GO:0007268
+manuscript
+interesting
+Scamuffa
+nonconserved phylogenies
+Johnstone
+nonorthologous
+Kulbokas
+Evolution
+PHylogenetic
+stochastic context-free
+identifying sequences
+smoothness constraint
+non-negligible
+Rincon-Limas
+GO:0008066 GO:0008134
+noncoding sequences
+Simulation
+framework
+Ashburner
+GO:0006333 GO:0007399
+smoothness
+association
+structural
+SYNCRIP
+significant enrichment
+influencing subcellular
+GO:0016071 GO:0006397
+Sequencing Consortium
+classified
+GO:0006397 GO:0006512
+post-transcriptional regulation
+composition
+transmission
+reasonable
+Bouffard
+Blanchette
+Saccharomyces cerevisiae
+constraints
+biological complexity
+Phylogenetic estimation
+Bliskovski
+hypergeometric
+human/chicken comparisons
+Anopheles
+Rosenbloom,1
+noncoding conservation
+Siepel,1,6
+Hoopengardner
+Supplemental Interestingly
+principled
+Medstrand
+conserved non-coding
+Development
+California Biotechnology
+Noncoding sequences
+sequences conserved
+investigation
+Grzybowska
+GO:0008134 GO:0005515
+homothorax
+Probabilistic
+Evolutionary conservation
+Constrained ancestral
+foundation
+neurotransmission
+near-perfect complementarity
+University
+Sometimes
+divergence
+multi-species conserved
+possibility
+difficulty
+Yamamoto
+homologous
+regulatory
+base-by-base conservation
+likelihood
+posterior probability
+ultraconserved
+information threshold
+Rosenberg
+featureBits
+Chinwalla
+transition
+Phylogenetic shadowing
+length-dependent
+identifying conserved
+Evolutionarily conserved
+consequence
+stimulate
+human/rodent ultraconserved
+whole-genome alignments
+probability
+mammalian ancestral
+Accordingly
+specificity
+Probably
+conserved phylogeny
+diversification
+comFigure
+publication
+PhastCons PhastCons
+Antoshechkin
+Downloaded
+regulation
+intermediate
+percentage
+structures
+insightful
+forward/backward algorithm
+Cambridge University
+genome-wide predictions
+phylo-SCFG
+relationship
+explanation
+prediction
+Zajac-Kaye
+translation
+additional evolutionary
+secondary structure
+organogenesis morphogenesis
+Ogurtsov
+intergenic
+Washington University
+discriminating
+preparation
+functional sequences
+protein-coding constraints
+quantitative comparison
+References
+Aruscavage
+post-transcriptional regulatory
+McDowell
+extracting
+structural constraints
+unchanged
+Vertebrate
+substantial
+Potential involvement
+gene-poor
+evolutionary divergence
+Lindblad-Toh
+Patterson
+transcription
+thorough
+potential
+GO:0030528 GO:0007275
+posterior probabilities
+effectiveness
+cross-species
+Stevenson
+accuracy
+Sanderson
+antisense transcription
+State-transition
+decreasing
+context-dependent substitution
+GO:0005216 GO:0006333
+eukaryotes
+human/chicken high-CNF
+Biological
+cis-acting
+probabilistic
+considered
+particular categories
+traditional
+continuous-valued
+phastCons high-CNF
+multi-species
+differential expression
+incomplete
+falsegenome human/mouse/rat
+phenomenon
+Slightom
+genomewide
+Multiple-sequence
+processing ubiquitin
+Srinivasan
+threshold
+knowledge
+extensive secondary
+chromatin structure
+orthologous sequences
+posttranscriptional regulatory
+phylo-HMM
+represented individual
+nucleotide substitution
+equilibrium
+intersect
+subcellular localization
+Nevertheless
+nonstem-pairing component
+Ancestral
+Brandstrom
+phylogenetic stochastic
+Pedersen,1
+Siedlecki
+appreciable improvement
+secondary
+evolution
+approach
+transposition
+predicted
+GO:0005515 GO:0007018
+GAL4-binding
+conserved noncoding
+Distributions
+noncoding constraints
+erroneous
+reference
+electroporation
+sensitivity
+Human/chicken
+low-alignment
+detection
+individual
+cell-cell signaling
+predicted conserved
+Shabalina
+forthcoming
+structures important
+interacting
+McAuliffe
+Caenorhabditis
+Similarly
+Felsenstein
+functional classification
+maximumlikelihood parameter
+Human­mouse alignments
+identification
+tolerance
+likelihood estimates
+available
+occurring antisense
+Cunningham
+complementary
+importance
+efficiency
+eukaryotic
+as-yet-undiscovered functions
+hypothesis
+Covariation
+GO:0007018 GO:0003723
+microRNA
+ancestral alignment
+Bekiranov
+GO:0003677 GO:0030528
+sensitive
+connection
+Boffelli
+Statistical
+Laboratory
+Conversely
+experimental
+Computational discovery
+filtering
+MicroRNA
+Multi-LAGAN
+large-scale
+nucleotide polymorphism
+polyadenylation-binding
+Discussion
+community
+sequences
+Miller,3
+mammalian/vertebrate ultraconserved
+neurogenesis
+functional annotation
+tremendous
+O'Connor
+vertebrate
+Hariharan
+California
+differentiation cell-cell
+Goldstein
+eightfold
+Horizontal
+Ontology
+Margulies
+hand-curated
+Feierbach
+Comparison
+graphical
+Especially
+Kondrashov
+Pennsylvania
+state-transition probabilities
+Post-transcriptional regulation
+Naturally occurring
+determination
+Plajzer-Frick
+Wilson,4
+pseudoobscura
+evolutionary conservation
+molecular evolution
+Transposable
+alternative pre-messenger
+human/Fugu conserved
+non-coding sequences
+structural constituent
+expectation maximization
+eukaryotic translation
+Supplementary
+Endrizzi
+regulatory variation
+selective constraint
+widespread conservation
+Wilczynska
+PhastCons
+Griffiths-Jones
+purifying
+Assessing
+Additional
+averaging
+Furthermore
+Richards,5
+Stokowski
+comparative
+cross-species conservation
+ubiquitin
+combination
+RNA-edited potassium
+human/chicken ultraconserved
+underestimate
+human/mouse comparisons
+accumulating
+sense/antisense transcriptional
+Balakrishnan
+difficult
+development
+Regulatory functions
+Affymetrix/NCI
+molecular functions
+cisregulatory
+Institute
+comprehensive
+Biotechnology fellowship
+constraining
+stochastic contextfree
+Macmenamin
+Comparative Sequencing
+non-genic conserved
+phastCons
+arbitrary threshold
+Up-to-date
+Dermitzakis
+neuropathy
+nevertheless
+Hirschsprung
+analyzing conservation
+marginalizing
+coordinate
+unification
+Kobayashi
+Tatusova
+stringent
+sense-antisense transcription
+CpG-binding
+Mendelian Inheritance
+Jongeneel
+human/rodent
+selection procedure
+Molecular
+Elroy-Stein
+alignment
+visualization
+overlapped
+Predicted conserved
+below-average
+characterization
+nonpairing
+Combinatorial microRNA
+Kronmiller
+attractive
+alignable
+noncoding functional
+Annotation
+identical
+orthologous conserved
+insensitive
+GO:0009887 GO:0009653
+parameter-rich
+widespread secondary
+phylogeny
+background
+sequencing
+Blankespoor
+interpretability
+cerevisiae
+necessary
+Schwartz
+allowable structures
+regulatory potential
+user-defined
+Predicted vertebrate
+informative
+RepeatMasker
+arbitrary
+rearrangement
+alignments
+essential
+ananassae
+protein-coding
+top-scoring
+conditional
+References Aruscavage
+branch-length
+available continuous-time
+Conservation
+ENCyclopedia
+International
+Fragments
+information theoretic
+multi-species sequences
+developmental
+describing
+Uchikawa
+Evaluation
+fivefold
+transcript stability
+conserved phylogenetic
+human/chicken conservation
+Karolchik
+equivalent
+agreement
+substitution
+two-species
+substantial enrichment
+ontology
+Affymetrix transcriptional
+Beckstrom-Sternberg
+comparison
+Rosenbloom
+constraint
+Generation
+regulatory sequences
+approximate quantitative
+Statistics describing
+dependency
+Systematic discovery
+Donaldson
+computational
+transposable
+orientation
+intronic/intergenic
+preliminary
+appropriate
+Identification
+false-positive
+Hirschman
+individual parameter
+additional
+translatability
+Kolmogorov-Smirnov
+approximate
+overestimate
+Computational Molecular
+Transcriptome
+BLAST-like alignment
+voltage-gated
+metabolism
+pufferfish
+kluyveri
+different branch-length
+independent annotations
+neurogenesis organogenesis
+trans-dev categories
+space-time
+circumstantial
+algorithm
+stem-loop
+phastCons conservation
+Widespread occurrence
+nonconserved
+Engineering
+Ovachrenko
+distribution
+GO:0030154 GO:0007267
+Wagner-McPherson
+introducing
+Efficient
+Remington
+correction
+paraneoplastic
+significant fracother
+appropriate parameter
+db=OMIM
+glutamate
+chromosome
+functions
+Description
+Noncoding
+stationarity
+inmouse/rat alignments
+considered significant
+whole-genome alignment
+transport
+Drosophila melanogaster
+Tello-Ruiz
+variation
+unannotated
+functional noncoding
+conserved sequences
+IP41HG02371
+RNA-editing
+translation initiation
+enhancers
+Ultraconserved
+prevalent
+Drosophila
+different calibration
+selectional explanation
+retardation
+enrichment

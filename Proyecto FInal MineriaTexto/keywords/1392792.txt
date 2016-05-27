@@ -1,0 +1,694 @@
+co-transcribed
+similarity
+three-dimensional structure
+Veterinary
+different functional
+Weissenbach
+phenotype/
+Kerlavage
+Frameshifted
+triploid
+poliovirus
+succinct definition
+amplification
+aminoacyl-sRNA
+Structural variation
+Stockholm University
+irrelevant
+insulator
+Overlapping
+Fleischmann
+sequences determining
+Additionally
+identical transcripts
+silencing autosomal
+alternate definition
+Dispersed regulation
+advantage
+activation
+Listewnik
+RNAcoding
+replication
+transcriptome
+eukaryotic cell-free
+trans-splicing
+post-ENCODE
+Strausber
+applicable
+International Fellowship
+Brubaker
+biological
+GENCODE annotation
+Griffith
+Conventional
+Nomenclature Organization
+consistent
+Wesselink
+recruitment
+perspective
+insertion
+bacterial
+Giorgetti
+refunction
+Detection
+Bruce,2,4
+mutational
+organisms
+Paccanaro
+hereditary
+computational metaphor
+Selective silencing
+component transcripts
+structure Epigenetic
+Escherichia
+McClintock
+segmentation
+explosion
+Unannotated
+understanding
+Transposons
+operating
+inheritable
+Published
+placeholder
+Tschermak
+interpret
+Computational
+thymidine
+Griffiths
+identifiable
+experience
+products
+Alternative
+WormBook
+Ainscough
+understandFigure
+higgledy-piggledy
+highdensity
+problematic
+trans-spliced transcripts
+different high-density
+Haemophilus influenza
+Assessing
+analyzing
+Therefore
+forefront
+Evaluation
+Johannsen
+Pseudo-messenger
+conventional
+Corresponding
+Brimacombe
+frameshift
+annotated regulatory
+textbook definition
+Bioinformatics
+mysterious
+themselves
+annotated transcripts
+anagenomic sequences
+transcribed reCriteria
+Mechanism
+Representation
+pervasive transcription
+diffusible substance
+abundance
+overlapping products
+hereditary information
+challenge
+methylation
+information processing
+mammalian
+large-scale computational
+following
+INK4a/ARF
+microarray strategies
+Villa-Komaroff
+Integration
+developmental-stage-independent
+something
+Lukasser
+comtentative
+transcribed non-proteincoding
+information
+present-day
+structural variation
+Pharmacology
+inheritance
+Whole-genome
+discussion
+experimental validation
+products themselves
+Blumenthal
+Spilianakis
+methodology
+significance
+genome-wide
+Large-scale transcriptional
+haplotype structure
+functional products
+segmenting
+Pneumococcus
+Cattolico
+description
+Virology
+Albrecht
+collection
+Matsudaira
+polymerase
+membership
+high-throughput experimental
+organism-independent
+demonstrating
+summarize
+chromatin immunoprecipitation
+annotated alternative
+Gesellschaft
+gene-finding
+long-range
+recombination
+explicit
+Community
+Gerstein,1,2,3,9
+complexity
+Untranslated sequences
+particular cellular
+correlation
+pre-mRNA
+evolutionary
+interpretation
+Annotated
+antisense
+chromatin accessibility
+Gene-associated
+experiments
+statistical
+existence
+arrangement
+compatible
+Merregaert
+Pseudogene transcription
+small/medium proportion
+Inherited information
+fundamental definition
+derivative
+Although regulatory
+suppressor
+stability
+chimerism
+combination
+Alternatively
+antigenic variation
+Deutsche
+Mikkelsen
+framework
+milestone
+Heterogeneous
+Transcriptional
+transparent
+Stimulation
+ever-expanding knowledge
+gebeta-globin
+Integrated pseudogene
+hypothetical mechanism
+nonvirulent Pneumococcus
+establishing
+Korbel,2,5
+Emanuelsson
+mitochondrial
+difficult
+full-text
+Albertson
+Developmental
+cytogenetic
+generation
+postgenomic
+LM07056
+frequency
+modification Pseudogenes
+paralogous
+inactivation
+hairpin-shaped precursor
+Haemophilus influenzae
+Different statistical
+Dermitzakis
+etymology
+messenger
+practical importance
+systematic definition
+localization
+University
+Sometimes
+divergence
+According
+possibility
+standard
+examining evolutionary
+Doolittle
+homologous
+chromosomal
+regulatory
+overlapping functional
+remainder
+implication
+definition
+connectivity
+protein-coding sequences
+databanks
+protein-centric
+GLI-Kruppel-related
+Statistical analysis
+proteincoding
+DNA-sequence
+high-resolution
+Rozowsky
+Zhengdong
+Newburger
+Guhathakurta
+revolution
+enumerate
+impossible
+Hofacker
+high-throughput experiment
+annotated
+Environmental
+adenovirus
+Downloaded
+regulation
+scription
+statement
+Regulatory
+compromise
+molecular
+Producing
+Alexander
+summarization
+Linguistic approaches
+Prissette
+pseudogene annotation
+Snyder2,8
+post-translational
+completed
+continuous
+immediate
+pseudogene transcription
+experimenwith something
+translation
+Emanuelsson,6 Zhengdong
+conceivable
+2Molecular Biophysics
+secondary structure
+Mackworth
+intergenic
+normalizing
+compensation
+References
+regulatory interactions
+Swarbreck
+biochemical
+providing
+3Computer
+Organisms
+unchanged
+Vandenberghe
+Regulation
+pangenesis
+Waterston
+demonstration
+Acknowledgments
+Williams
+Wahlestedt
+Biological complexity
+Künstliche Kreuzung
+Lindblad-Toh
+rearranged
+Euskirchen
+responsible
+consortium
+Alexandersson
+transcribed pseudogenes
+emphasis
+transcribed
+performance
+canonical
+intergenic transcription
+noncoding intergenic
+cytological
+chromosomes
+pseudogenization
+medium-sized
+callable
+one-to-one correspondence
+eukaryotes
+Raeymakers
+expressed pseudogenes
+transcript
+post-translational modification
+evolutionarily
+observation
+surprising
+well-curated GENCODE
+neighboring
+specific secondary
+Different strategies
+traditional
+Takahara
+Goldberg
+principle
+Sturtevant
+duplication
+selection
+Wynshaw-Boris
+phenomenon
+disjonction
+Consensus annotation
+Chromatin structure
+Transcribed pseudogenes
+biological nomenclature
+protein-coding transcripts
+discovery complicated
+homology
+Nishimura
+different biological
+chromatin structure
+three-segment
+operational
+GC-content
+molecules
+identification
+comparative analysis
+biological literature
+Biochemical activity
+viewpoint
+statisFirst
+Collapsing
+Parasitic
+pseudogenes Biochemical
+degradation
+recombining
+altogether
+subroutine
+polymerase activity
+analysis procedure
+Balakirev
+nonspecific activity
+evolution
+determining biological
+Brookhaven Symposia
+Unannotated transcription
+parasitic
+discontinuous structure
+consisting
+Transcription-mediated
+potential alternate
+Albanova University
+Rheinberger
+highthroughput experiments
+generations
+intervening
+requirement
+FitzHugh
+Haussler
+alternative transcription
+transcripts themselves
+bacteriophage
+Pseudogenes Pseudogenes
+Johnannsen
+Alekseyev
+Dobrovic
+Guidelines
+consecutive
+boundary
+available
+importance
+complement
+eukaryotic
+Projecting
+Phenomena complicating
+functional pseudogene
+Constrained
+transcripts structural
+Iserentant
+Problematic
+subsequent sequencing
+acknowledge
+pre-ENCODE
+Biochemistry Department
+distinction
+Conversely
+homologue
+rearrangements/structural
+characterization
+Bernfield
+Consortium
+community
+intermediate products
+sequences
+Conclusion
+problemselection
+Fine-scale structural
+Huttenhofer
+high-throughput experiments
+Predicting
+vertebrate
+comprehensive transcript
+cross-over
+Disjointed
+MaxEntropy selection
+high-density oligonucleotide
+different transcription
+Definition
+pseudogene
+Many-to-many relationship
+extensive transcriptional
+substance
+determination
+VP2-VP3
+Consequently
+5European Molecular
+Prominent
+exception
+Piccolboni
+originate
+l'Académie
+Supplementary
+5-nucleotide
+Kulbokas
+situation
+significant signature
+Sweepstake
+pneumococcal
+provocative
+transcriptional activity
+prevalence
+orthography
+Furthermore
+Abhandlungen
+Evolution
+discrepancy
+Artificial transmutation
+well-characterized protein-coding
+Discontinuous transcription
+Heidelberg
+transcripOverall
+different
+overlapping transcript
+microarray
+phenotype
+schematic
+Verhandlungen
+composition
+annotated transcription
+development
+independent
+proscientific
+Institute
+coevolution
+8Molecular
+Henikoff
+appreciable
+co-product
+Laboratory
+Dougherty
+puzzling
+polymorphism
+Ontology Consortium
+Sementchenko
+expression
+analysis
+many-to-many
+X-inactivation
+landmark
+organization
+Contreras
+contingent
+alternative products
+Leonardson
+Roll-Hansen
+Mendelian Inheritance
+particular characteristic
+alternative
+classification
+Biochimie
+alternate
+Connecticut
+Although
+transformation
+sex-linked
+increased
+RNA-to-DNA
+Montelione
+Antonarakis
+Transcriptional repression
+Rozowsky,2
+individual molecules
+Cellular
+sequencing
+execution
+Neurospora metabolism
+Richmond
+necessary
+transcripts Post-transcriptional
+schematized
+/National
+specific
+definition impractical
+three-dimensional chromatin
+U01HG03156
+rearrangement
+-globin-related pseudogene
+regulatory sequences
+Non-coding
+terminology
+biological knowledge
+protein-coding
+alternative isoforms
+classical
+metabolic
+Lindemeyer
+Copy-number
+additional regulatory
+beta-globin
+Phenotype
+developmental
+retrotransposition
+describing
+promoter-associated transcription
+gene­pseudogene
+erythroid-specific
+contributing
+ChIP­chip
+genes/regulatory
+scientific
+experimental validafunctional
+confidence
+transcribed sequences
+Chemistry
+ChIP­chip experiments
+complementation
+comparison
+Rosenbloom
+retrogene
+Large-scale
+Abstract
+practical
+non-genic conservation
+functional polypeptide
+Nirenberg
+chromosome structure
+Approximately
+Weissman,7
+appropriate
+Yanagisawa
+Identification
+pre-mRNAs
+proportional
+intermediate transcripts
+betaglobin
+Hirotsune
+additional
+Interchromosomal
+Kirkness
+nucleotide
+Zipursky
+transform
+Luscombe
+intention
+Ponjavic
+Eukaryotes
+overlapping transcripts
+pseudogene transcripts
+Agarwala
+synthesis
+blueprint
+considerably
+Structured
+Trans-splicing
+expressed retrosequence
+mechanistic
+segregation
+-undecanucleotide
+enumerating
+Nagalakshmi
+reference annotation
+mutational approaches
+Phenomenon
+Comparative
+regulation Unannotated
+Ouellette
+Grienenberger
+projecting
+homotypic trans-splicing
+Perspective
+heterogeneous
+distribution
+Bekiranov
+replicase
+Introduction
+Hackermüller
+abstract
+contribute
+influence
+meaningless
+conserved
+Functionality
+large-scale variation
+ribonucleoprotein
+chromosome
+physical
+incorrect
+Description
+Noncoding
+tentative
+Post-translational
+Erblichkeitslehre
+occasional
+application
+Versuche
+functionality
+trans-spliced transcript
+determining expression
+analyzing ChIP­chip
+Discovering transcription-factor
+predominant
+sequences idenncRNAs
+Epigenetics
+regulatory apparatus
+noncoding
+Dabbouseh
+geneticist
+important
+Baltimore
+genetical
+enhancers
+Tongprasit
+heritability
+delineation
+Drosophila
+ambiguous boundary
+locatable
+deoxyribonucleic
+immunoglobulin
+functional noncoding
+validation
+resolution

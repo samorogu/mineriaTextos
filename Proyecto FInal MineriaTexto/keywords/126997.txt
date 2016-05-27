@@ -1,0 +1,258 @@
+irregular secondary
+Wittinghofer
+particular
+significant denseness
+Kolinski
+supposition
+Discussion Benchmark
+threshold
+Gaussian
+Appendix
+alignment
+previous
+foldable
+well-aligned
+prediction methodology
+implementation
+twilight
+biological annotation
+improvement
+experiment
+Ran-binding
+excluded
+Concluding
+flowchart
+Needleman­
+correspondence
+saturation
+refinement algorithm
+Marti-Renom
+combination
+Nevertheless
+significant improvement
+template-based alignments
+possible
+building full-length
+MODELLER
+Rearrangement
+Brookhaven
+difference
+templates identified
+one-seventh
+Potential
+presented
+Overview
+Washington
+single-domain structures
+consensus
+threading
+magnitude
+reasonable
+Full-length
+significant progress
+conclusion
+structure completeness
+essential
+requisite resolution
+low-resolution templates
+templates
+Skolnick
+weighted
+reference
+sequence
+structure prediction
+contact-number
+individual
+Tramontano
+PROSPECTOR
+protein-folding
+continuous sequence
+Meleshko
+fulllength
+Unaligned
+Gilliland
+power-law
+Clarendon
+Improvements
+identification
+Representative
+comprehensive benchmark
+knowledge-based statistical
+invariant
+numerous
+accuracy confidence
+Side-chain
+coordinate assignment
+comparable
+acceptable resolution
+Harrison
+medium-size
+respectively
+University
+conformation
+representative benchmark
+wire-frame
+Integration
+refinement
+nonhomologous
+homologous
+Altschul
+configuration
+Communicated
+topology
+definition
+structural resemblance
+September
+December
+dependence
+side-chain
+practical
+structure predictions
+protein-specific
+procedure
+Dynamics
+Shindyalov
+high-resolution
+Certainly
+low-to-moderate
+probability
+large-scale
+Swindells
+rank-one
+Betancourt
+powerful
+Eisenberg
+300-residue
+addressed
+sequences
+structure classification
+intermolecular
+skolnick
+recognition algorithm
+state-of-the-art structure
+temperature
+backbones
+refinements
+extrinsic
+knowledge-based potentials
+approach
+consensus information
+realistic situation
+Bioinformatics
+top-scoring templates
+November
+rearranging
+structures
+acceptable templates
+Comparison
+contribute
+alignments identified
+Especially
+structure superposition
+correlation coefficient
+one-third
+low-to-moderateresolution experimental
+construction
+understandable
+systematic
+Ran-RanBP1­RanGAP
+unaligned
+improved
+percentage
+Fernandez
+largescale
+RMSDglobal
+backbone structure
+secondary structure
+Blundell
+MacArthur
+challenge
+suggestive
+optimization
+exploration
+continuous fragments
+secondary structures
+biochemical
+distribution
+Kuhnlength
+Consistent
+recognition
+single-domain
+motivation
+orientation
+generality
+unphysical alignments
+calculation
+Furthermore
+alignment algorithm
+immediate practical
+structure refinement
+combination procedure
+structural alignments
+resultant full-length
+singledomain
+Westbrook
+research
+full-length
+comparative
+conformational
+simulation
+hydrogen
+physical
+Templates
+successful
+different
+protein-like
+completeness
+sensitive
+efficient
+state-of-theart structural
+statistical potentials
+majority
+methodology
+potential
+structure comparison
+RMSDlocal
+objective
+parallel hyperbolic
+Multiple-Template-Based
+Structure Alignment
+contacting
+accuracy
+deviation
+GM-37408
+structural alignment
+SPICKER clustering
+Kuhn-length
+reassem-
+PSIPRED
+systematic demonstration
+low-resolution experimental
+BIOPHYSICS
+connectivity
+optimized
+important
+Excellence
+significant
+potentials
+functional analysis
+Conformational
+elemental building
+templates alignments
+SPICKER
+structure alignments
+observation
+algorithm
+buildable
+demonstrating
+calculated
+correspond
+individual templates
+academic
+hierarchical
+principle
+optimized potential
+correlation
+Needleman
+structure alignment
+available comparative

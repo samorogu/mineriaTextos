@@ -1,0 +1,316 @@
+`small-world
+date/party
+transcriptome
+similarity
+laboratory
+transmembrane
+fingerprint
+characteristic
+stability
+Fellowship
+computational
+Genentech
+statistical
+ribosomal
+Department
+stabilization
+alternative
+Molecular
+frequency determination
+Supplementary Information
+Foundation
+described27
+calmodulin
+parent-of-origin
+normalization10
+scale-free protein­protein
+different biological
+Sex-dependent
+Waterbury
+topological
+containing
+trans-regulatory
+distinguishing
+threefold
+strategy13
+Although
+inviability
+messenger
+Acknowledgements
+Two-tailed
+Date-hub/module
+Robustness
+identical
+Evolution
+schematic
+subcellular localization
+Jing-Dong
+different experimental
+homologue
+integrity
+functional
+Rayburn1
+individual condition
+unification
+interactions10
+Dana-Farber
+`pheromone treatment
+exhaustive two-hybrid
+apical­basal
+functional annotation
+association
+oogenesis
+evolution
+Evolutionary
+Presuming
+Armstrong
+Systematic identification
+localized
+Computing
+cis-regulatory divergence
+representation
+deleterious
+appearance
+genome-wide prediction
+arbitrary
+biological
+subnetwork
+Saccharomyces cerevisiae
+essential
+therapeutic
+homogeneous
+measuring
+level'15
+financial
+Castillo-Davis
+different interaction
+normalization procedure
+Postdoctoral Fellowship
+Organized modularity
+consistent
+Borchers2
+administrative assistance
+empirical
+threshold
+convergent extension
+Conservation
+Biomedical
+flamingo/starry
+interaction verification
+separating
+biological significance
+Metabolic
+organizing
+neighbourhood
+developmental
+Caribbean
+`breakdown
+plasticity
+large-scale localization
+subsequent
+scaffold
+interactions
+genes5,6
+viability
+ommatidial
+expression-profiling compendium
+expression difference
+experiment
+robustness3,4
+Massachusetts
+respectively
+understood
+nonparametric Mann­Whitney
+trans-regulatory divergence
+available
+comparable
+epigenetic
+`sporulation
+transcriptional regulation
+interactome
+University
+dissection
+component
+co-expression
+Goldberg2
+behaviour
+centrality
+selective
+hypothesis
+possibility
+Correlation
+regulatory
+experiments5,6
+nonbiological scale-free
+Attacking
+Velculescu
+Trans-acting regulatory
+comparison
+Ashburner
+respiration
+Meiklejohn
+complexes
+resistant
+determining
+Localization
+protein­protein interaction
+Altshuler
+sensitive
+`unfolded
+important
+`budding
+marc_vidal
+Lauffenburger
+regulator
+distinction
+Undergraduate
+Functional profiling
+experimental
+Clingingsmith
+false-positive interactions
+`interactome
+Highlighting
+interactions published
+Kruglyak
+two-hybrid
+Consortium
+community
+high-level
+Gogh/strabismus
+flexibility
+Interdisciplinary Informatics
+Lethality
+`filtered
+localization diversity
+functional homogeneity
+essentiality
+Biomolecular Interaction
+Christine Jolicoeur1
+orientation
+clustering
+confidence
+Eisenberg
+Diversity
+additional
+subcellular
+subnetworks
+organized modularity
+Differences
+duplicate
+Functional organization
+Weatherbee
+stereociliary
+California
+Single-nucleotide polymorphism
+Regulatory
+low-level
+molecular
+Vogelstein
+metabolism
+Probability
+single-gene
+Transcriptome profiling
+corresponding
+well-characterized
+literature14
+definition
+protein­protein interactions
+lethality
+randomized interactome
+Sawamura
+Subnetworks represent
+non-biological
+different behaviour
+systematic
+expression measurement
+profiling compendium9
+Expression
+spillover
+determining functional
+Blackwell
+Volkerding
+partitioning
+high-quality
+experimental assistance
+reciprocal
+Characterization
+comparable clustering
+sterility
+Futhermore
+robustness
+Worcester
+genome-scale
+comprehensive two-hybrid
+concurrency
+clustering coefficient
+Comparative assessment
+distribution
+synthesis
+Hirschhorn
+Madhavarapu
+Publishing
+calculation
+correction
+partnership
+Biotechniques
+expression profiling
+filtering
+proteomewide
+epithelial
+spectrometric identification
+neighbourhood26
+subnetworks corresponding
+Genome-wide
+significant proportion
+intersecting
+Francisco
+Development
+information
+different
+two-sided
+interspecific expression
+transcription
+Competing interests
+interests statement
+postgenome
+application
+non-biased functional
+intuitive
+Drosophila melanogaster
+significance
+algorithm
+development
+Correspondence
+Pellegrini
+`endoplasmic reticulum
+description
+institutional
+representation24
+Institute
+comprehensive
+Collective
+`homeostasis
+Frederick
+respective
+expression differences
+connectivity
+Hollocher
+Biological Chemistry
+successive
+epidemiological
+computation
+Fromont-Racine
+organization
+prevalent
+Drosophila
+Conversely
+partition
+purification
+Functional characterization
+experimental conditions
+high-throughput
+correlation
+high-confidence interactions
+Molecular Pharmacology
+`mitochondrion
+technical

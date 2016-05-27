@@ -1,0 +1,1328 @@
+domain 2 guanylate cyclase ras ras fgf potato inhibitor peptidase m10 kunitz bpti kazal kringle squash hnh endonuclease elongation factor ts % id range
+multiple complex structures
+domain 1 signaling grhogap rhogdi cytokines­receptors fgf receptor peptidases­inhibitors peptidase s8 timp trypsin trypsin trypsin trypsin
+colicin pyocin elongation factor tu % id range
+9
+
+5897
+
+biochemistry
+
+empirically derived potentials incorporate thermodynamic effects
+multiple cyclins control eukaryotic cell division
+denote isoforms iiic & iiib formed
+single cyclin yields viable strains
+fibroblast growth factor receptor system
+% id range
+cyclin cyclin-dependent kinase regulatory subunit
+domain 1 domain 2 show
+kinase cyclase system
+ab
+
+log10
+
+cab eab eab
+russell*
+european molecular biology laboratory
+thick lines denote interactions significant
+cyclin-dependent kinase regulatory subunit
+molar-fraction random state model based
+36 peptidase inhibitor complexes
+peptidase inhibitor complexes
+obtained protein 3d coordinate
+
+predict
+identify residues making atomic contacts
+fibroblast growth factor
+template complex gave significant scores
+signaling domain interactions
+trypsin homologues
+experimentally determined binding affinity relative
+peptidase inhibitor 59%
+peptidase inhibitor
+protein domain families
+trypsin
+fgfr-inducible baf3 cell lines
+multiple complex structures
+discern direct physical interactions
+databank suggests considerable variation
+structural biology
+patrick aloy
+determine protein interaction networks
+large scale two-hybrid studies
+van de waals interactions
+process effectively removes complexes
+fgfs play key roles
+catalog interaction data contained
+large-scale yeast two-hybrid experiments
+yeast protein interaction network
+4 fgf receptor structures
+fgf receptor system
+``kunitz
+interrogating protein interaction networks
+proposed protein interaction networks
+yeast kinase cyclin interactions
+incorporating 3d structure information
+proposed protein­protein interaction
+28 putative cdk cyclin pairs
+cytokines
+peptidases
+yeast protein­protein interactions
+interacting residue pairs identified
+fibroblast growth factors
+save laboratory time
+cyclin cks 3d complex
+proposed cks cyclin interaction
+fgf homologous factors
+cyclin dependent kinase 2
+kinase cyclin combinations
+experimental structural biology
+extracellular growth factors
+intracellular signaling molecules
+measuring mitogenic activity
+surface residue frequencies
+numerous helpful comments
+sfields yp project
+page charge payment
+multiple homologues
+kinase cyclin complex
+identify putative interactions
+intracellular mitogenactivated protein
+systematically extract information
+munich information center
+nucleic acids res
+site-directed mutagenesis experiments
+fgf receptor
+identify interacting partners
+protein­protein interfaces
+protein­protein docking
+cell cycle progression
+org cgi doi 10
+comparing two-hybrid data
+permit critical interrogation
+transfer functional information
+pdb code 1cvs
+intriguing recent finding
+de add info
+protein-interacting partners change
+differing heparin affinities
+molar expected frequency
+constrained mainchain conformations
+exclude buried side-chains
+structural genomics efforts
+interaction partners preferred
+complex 3d structures
+modeling interacting interfaces
+fgf receptors
+7 fgf receptors
+protein­ protein interactions
+protein­protein interactions
+il-1 receptor structure
+kin28 ccl1 complex
+term ``low affinity
+molecular interaction details
+direct atomic contact
+lys-278-asp-9 hydrogen bond
+actin bundling proteins
+results agree closely
+make atomic contacts
+3d structures agrees
+immune system complexes
+validating interactions determined
+mapping proposed interactions
+ovomucoid inhibitor
+assigning statistical significance
+statistical confidence based
+sequence identity ranges
+find significant scores
+356 unique interacting pairs
+protein
+5896 ­5901 pnas april 30
+predicts correct interactions
+interacting protein domains
+provide molecular details
+predict functional associations
+low sequence identities
+il-1 scores highest
+pfam domains matched
+yeast proteome database
+interacting protein families
+involve detailed loop
+suggesting molecular details
+infer molecular details
+derive empirical potentials
+apparent functional similarity
+model putative interactions
+genome annotation efforts
+highly significant values
+3d structure showed
+potentially interacting proteins
+key interacting residues
+intensively studied interactions
+kin28 ccl1 pair
+model protein interactions
+3d protein complexes
+high sequence identity
+high affinity interactions
+protein interaction data
+human cdk2 cyclin
+key contacts discussed
+high scoring complexes
+web sites http
+russell
+
+pnas
+
+april 30
+test putative interactions
+structure figures showing
+interaction detection methods
+shows considerable promiscuity
+sequence comparison permits 14
+low significance values
+complex 3d structure
+3d complex structure
+involving intermediate proteins
+yeast proteins proposed
+fgf-1 fgfr-1c complex
+homologous intraspecies pair
+protein family pairs
+identified interacting residues
+interacting residues identified
+fgf family
+give significant scores
+rank interacting pairs
+method successfully predicts
+yeast proteins provide
+enzyme inhibitors
+protease inhibitors
+protein sequences database
+evaluating potential interactions
+defined interacting residues
+yeast interactions mapped
+signaling
+
+abbreviations
+make favorable complexes
+method predicts 158 interactions
+correct interactions occur
+homologous proteins interacting
+complex gave
+derived main-chain
+ensure sufficient data
+number nonidentical complexes
+protein structures
+interaction networks
+protein databank
+cytokine receptor
+cytokine receptor 92%
+state university
+obtained simply
+3d structures
+receptors fgfr-1c
+protein complex
+protein associations
+9
+
+5901
+
+biochemistry
+
+bridge
+kin28 ccl1
+scoring system
+interacting protein
+atomic detail
+thin lines 0
+dashed lines 0
+putative interactions
+structures provide
+molecular basis
+sequence identities
+protein families
+protein interactions
+structures suggest
+separate structures
+crystal structures
+interacting partners
+key interactions
+considerable redundancy
+fgf
+interacting surface
+functional genomics
+3d complex
+receptors fgfr-2b
+large-scale studies
+low affinity
+protein eng
+protein fold-recognition
+hydrogen bond
+cyclin knockouts
+cdk2 cyclin
+amino acids
+key issue
+protein complexes
+potential complex
+interacting domains
+cytokine receptors
+prioritize experiments
+correctly predicts
+prioritizing experiments
+human complex
+mainchain contacts
+466 interactions proposed
+proposed interactions
+interactions proposed
+590 interactions proposed
+interacting families
+statistical significance
+significant scores
+interacting pairs
+potential interaction
+successfully model
+direct contact
+organism relative
+relative orientations
+percentage relative
+relative accessibility
+identified domains
+fgfr system
+pfam domains
+chaperonin-tcp1 complex
+crystallographic complex
+protein family
+protein surfaces
+cks domains
+binding sites
+highly specific
+inhibitors
+critical reading
+explicit modeling
+change gradually
+pairs identified
+interacting residues
+nonidentical complexes
+pfam families
+signaling 89%
+bind receptors
+low degree
+signaling
+sequence similarity
+complex structure
+largest values
+interaction types
+interaction promiscuity
+empirical potentials
+000 random sequences
+random sequences
+interacting complexes
+detailed studies
+yeast proteins
+3d complexes
+recent years
+broadly agrees
+hydrogen bonds
+pdb identifiers
+recent effort
+large set
+interacting pair
+accurate details
+3d structure
+poor scores
+identified hundreds
+interacting proteins
+interactions compare
+optimal interactions
+36 remaining interactions
+collates interactions
+noninteracting pairs
+extracted 59 pairs
+observed contacts
+result suggests
+human cdk2
+pfam database
+interacting molecules
+provide confirmation
+provide knowledge
+fgfr interaction
+protein sci
+homologous families
+interacting surfaces
+sufficient number
+correct side-chain
+human proteins
+-trefoil fold
+defined links
+scop database
+create ambiguities
+gene fusion
+genetic events
+major goal
+phe-122­ile-13
+3 standard deviations
+clarified simply
+expectation e-
+target proteases
+typically involve
+arg-122­tyr-13
+differential activation
+alternative splicing
+subcellular localizations
+surprising suggestion
+c-terminal extensions
+ancient relatives
+coc distances 5 å
+wound healing
+jp y2h
+lys-278­asp-9
+observed affinities
+rich source
+property conservation
+noo distances 5
+noo distances 3
+lo conte
+possibly reflecting
+manually grouped
+trends genet
+germany communicated
+reprint requests
+antibody antigen
+biological processes
+produced hundreds
+macromolecular observations
+learning principles
+arg-122-gln-141 salt-bridge
+nonredundant database
+phyletic distribution
+review november 16
+cdc28 pcl1
+good agreement
+increasing pace
+observed tendency
+predicted scores
+major problem
+involve cdk2
+enzymatic specificity
+optimize pairings
+salt bridges
+val-278­lys-9
+interactions predicted
+mhc complexes
+complexes starting
+model proteins
+significant score
+sab values
+interaction specificities
+pair exists
+structure [1fin
+crystallographic structure
+crystal structure
+structure determination
+gene-fusion studies
+side-chain conformations
+cell sci
+inspection shows
+pdb codes
+20 human fgfs
+homologous complexes
+proteins sharing
+unbound proteins 10%
+proteins occurred
+poorer results
+interpret results
+method permits
+low intersection
+fgfr specificity
+consistently predicted
+predicting interactions
+main-chain interactions
+hydrophobic interactions
+main-chain contacts
+receptor
+yeast two-hybrids
+proteins homologous
+homologous proteins
+fgf-2 fgfr-1
+good correlation
+similar fashion
+discussed previously
+compare sequences
+interactions shown
+35 interactions shown
+fgfs adopt
+side-chain potentials
+side-chain potential
+modeled complexes
+russell@embl-heidelberg
+side-chain contacts
+similar studies
+homologous sequences
+x-ray crystallography
+limited focus
+score significantly
+log-odds score
+initial analysis
+experimental means
+completely rule
+publication costs
+interact agrees
+atom distance 5å
+residues participating
+red characters
+data sources
+bind tightly
+gene expression
+gene order
+highland park
+hydrophobic core
+methods
+overview
+experimental methods
+computational methods
+fgf-1 & fgf-2
+9
+
+5899
+
+biochemistry
+nonredundant set
+literature demonstrated
+prediction accuracy
+discussion
+evaluation
+ypd names
+lower affinities
+proteins lead
+method finds
+method identifies
+method correctly
+table 1 shows
+regulating cdks
+broad classes
+predictions made
+kinases shows
+sources [including
+part previously
+clear correlation
+total number
+genome biol
+3 shows instances
+total score
+1
+
+nb
+
+table 1
+structures
+based
+eab 5
+1
+
+na
+
+nb 20
+yellow background
+eab
+blue background
+proteins interact
+7 receptors
+receptors
+protein
+cyclin
+information
+system
+modeled
+
+fig
+positive examples
+nature makes
+factors
+cell
+cell 98
+cell 101
+yeast
+complex
+cdk
+process
+org
+determined
+predict
+092147999
+
+interrogating
+``high
+proposed
+affinity
+14 significant
+significant
+3d
+interaction
+cab
+cab 0
+make
+efforts
+il-1
+details
+identified
+12 scores
+de
+potentials
+scores
+interactions
+14 interactions
+pairs
+contacts
+provide
+cks
+model
+& russell
+russell
+
+1
+russell
+suggesting
+identity
+confidence
+10% identity
+give
+involve
+significance 10 3
+residues
+rank
+favorable
+significance 0
+side-chains
+affinities
+involving
+cyclins 3­32%
+experimental
+promiscuity
+expected
+evaluating
+studied
+binding
+infer
+database
+genome
+showing
+cyclins 10­38%
+cyclins
+discussed
+cdk2
+defined
+complexes
+homologous
+pair
+structure
+studies
+3 shows
+2 shows
+cytokine
+data
+proteins
+proteins 35
+results
+1073 pnas
+pnas
+similarity
+predicted
+fgf-1
+molecules
+fgfr
+family
+fgf-2
+correlation
+mapped
+surfaces
+sources
+comparison
+ensure
+previously
+similar
+modeled
+nb
+test
+sequences
+fgfs 1­9
+fgfs
+9 fgfs
+total
+contact
+number
+limited
+yellow
+crystallography
+blue
+positive
+bind
+order
+including
+main-chain
+red
+park
+part
+sab
+embl-heidelberg
+means
+score
+hydrophobic
+participating
+expression
+codes
+makes
+analysis
+background
+predicting
+costs
+lead
+specificities
+clear
+distance
+rule
+methods
+092147999
+
+aloy
+aloy
+946­950
+
+aloy
+table 1
+shown
+show
+http
+517 side-chain
+side-chain
+316 side-chain
+evaluation
+occur
+na 20
+ypd
+accuracy
+set
+kinases
+literature
+lower
+intersection
+na
+sci
+method
+12 predictions
+94 predictions
+instances
+cdks 38­58%
+classes
+predictions
+cdks
+cdks 24­78%
+homologues
+result
+examples
+interact
+two-hybrids
+biol
+nature
+fig
+extrapolated
+lack
+& hogue
+huynen
+grateful
+follow
+integrity
+calculate
+geier
+murzin
+bhat
+mediated
+preserved
+pochart
+cruciat
+hodges
+stocker
+encouragingly
+summarized
+nc 2 4 2 4 4 2 10 10 2 6 2 2
+sardon
+fhf
+march 13
+small
+refer
+upper
+three-dimensional
+unable
+tardif
+& bourne
+lockshon
+judson
+organisms
+giving
+sum
+zhang
+experiment
+advance
+& pavletiich
+coimmunoprecipitation
+westbrook
+reported
+strategies
+& barrett
+taylor
+rcsb
+bader
+colored
+gruber
+involved
+study
+leaving
+tyr-24
+procedure
+suitable
+involves
+-2c
+kister
+& nurse
+requiring
+prefer
+marked
+d-69012
+put
+addressed
+thought
+apply
+donaldson
+morphogenesis
+negative
+substitutions
+usa 93
+brunswick
+type
+pawson
+immunoglobulins
+& eisenberg
+transient
+mansfield
+wolting
+iii
+rice
+toxins
+gibson
+labeled
+significances
+usa 96
+performed
+sought
+andrade
+divided
+species
+methodology
+swissprot
+querol
+regulation
+schultz
+map
+proc
+davis
+compatibility
+attempt
+& sakaki
+ultimately
+gilliland
+green
+grandi
+ito
+superimposing
+ponting
+areas
+& measday
+research0034
+kyrpides
+compatible
+fit
+kanazawa-
+kaps
+michon
+absence
+decades
+lappe
+gibbs
+combination
+matches
+washington
+discuss
+absent
+conti
+intermediary
+development
+bosche
+-1b
+prompted
+applicable
+investigated
+yoshida
+loops
+shindyalov
+jackson
+robert
+rev
+lys-163
+denoted
+xu
+ref
+baron
+mcewen
+approaches
+members
+derivation
+determining
+int
+assign
+probability
+coming
+improvements
+construct
+& sonnhammer
+knight
+5898
+
+www
+clarity
+illustrate
+-2b
+evolution
+approximately
+eddy
+chem
+miller
+scant
+final
+listed
+fhfs
+§1734 solely
+frishman
+require
+weissig
+& lichtarge
+binds
+bauer
+& weil
+hannenhalli
+manuscript
+1­research0034
+ornitz
+& fallon
+strength
+generated 1
+note
+performance
+2002
+
+vol
+differences
+promiscuous
+gsf
+paid
+colvin
+future
+eisenberg
+considered
+average
+databases
+& teichmann
+gabb
+section
+fact
+interrogate
+attempts
+availability
+2002 vol
+homology
+feng
+marzioch
+uetz
+explicitly
+thompson
+curr
+iliopoulos
+thousands
+postfach 10 22 09
+ranking
+& ouzounis
+foremost
+salwinski
+marcotte
+hetero-multimers
+akeson
+yeates
+accordance
+alteration
+mewes
+common
+london
+pellegrinin
+achieved
+respect
+usa 98
+yanofsky
+leave-one-
+lost
+ailey
+szebenyi
+representatives
+blast2
+moont
+& chothia
+progress
+& lipman
+approach
+mannhaupt
+jersey-
+recently
+ability
+importance
+& bork
+attention
+weak
+usa 97
+chiba
+interface
+article
+received
+essentially
+context
+explore
+andrews
+unclear
+copley
+& garrels
+considers
+hattori
+addition
+cross-linking
+detected
+& goldfarb
+systems
+crystallogr
+describe
+schuller
+birney
+search
+5900 www
+understand
+evidence
+present
+applied
+schoorlemmer
+align
+evaluated
+-3b
+perez-iratxeta
+cagney
+coulier
+vi
+refs
+iv
+ii
+bowlin
+hubbard
+xenarios
+deletion
+& cross
+jeffrey
+sowa
+advertisement
+mips
+validate
+expand
+schreuder
+giot
+alscript
+components
+sarubbi
+gelfand
+brenner
+gavin
+gene-fusions
+questions
+ile-122
+molscript
+alignment
+fgfr-3b
+tryptase
+payne
+natl
+-3c
+heidelberg
+identical
+embl
+boxed
+15 angstroms
+embo
+evaluate
+mol
+macarthur
+rick
+loss
+identifying
+& sternberg
+interestingly
+altschul
+pellegrini
+renamed
+alignments
+www
+haase
+barton
+ouellette
+bork
+massague
+& hendrickson
+rutgers
+e-mail
+lemcke
+krause
+stauber
+narayan
+chains
+pfeiffer
+gln-141
+& yeates
+found
+defrayed
+conclusions
+central
+snel
+underway
+aviles
+wensel
+trump-kallmeyer
+presence
+assess
+& mohammadi
+acad
+kraulis
+remain
+madden
+russo
+& thornton
+srinivasan
+durbin
+mckee
+sections
+tyrosine
+function
+fgfr-2c
+soffientini
+schlessinger
+subjective
+significances 0
+cytol
+explaining
+enright
+schaffer
+demonstrate
+ac
+fgfr1c
+al
+plotnikov
+presented
+diverse
+proteinase
+operation
+nj
+compared
+variety
+nc
+generally
+digabriele
+hurwitz
+torrents &
+scored
+polar
+appl
+berman
+fgfs-12
+polyak
+assayed
+chance
+important
+fisher
+jack-knife
+jones
+gao
+n-
+depts
+required
+ozawa
+bateman
+searched
+howe
+angiogenesis
+71­99
+49­54
+289­291
+0
+140
+32
+194­200
+242­245
+-4
+50­100
+25­26
+271
+66%
+100
+105
+793­797
+38
+30
+36
+35
+65­100
+86­89
+4569­4574
+0­100
+01­0
+6
+27­99
+092147999
+99
+97
+96
+1991
+1993
+1995
+1997
+1999
+1998
+1 16 2 12 2 12 12 112 10 2 37 3 4 19 1 1
+263­266
+44­100
+313­320
+1
+364­373
+141­147
+5 å
+34
+62­100
+28­100
+99­100
+24
+25
+26
+27
+20
+21
+23
+29
+403
+90­100
+415
+13­20
+53­100
+16 2 12 2 12 12 172 12 2 70 20 4 24 2 2
+88
+80
+87
+82­100
+85
+1992
+7
+304­306
+1483­1488
+-11
+-14
+253
+185
+603­613
+40­84
+61­76
+402
+65%
+2
+37­40
+386
+45­106
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+257­259
+35­84
+26­28
+]
+3 18
+389­402
+8
+69­73
+66­72
+929­938
+311
+24%
+01
+3
+358
+10%
+395­408
+376
+10­100
+22
+28
+27­100
+252
+69
+01 16 2 12 2 12 12 83 5 2 21 2 4 12 1 1
+12­100
+33
+31
+641­650
+83­86
+22­100
+9
+1041­1047
+-13
+47
+42
+4
+59
+56
+51
+50
+37
+303
+114
+112
+42%
+623­627
+60­100
+100%
+302
+307
+841
+235­242
+4285­4288
+2000
+1811­1820
+*
+413­424
+57­100
+78
+1­3
+1­4
+850­860
+15292­15297
+61­100
+83
+5
+70%
+1996
+38­100
+2002
+2001
+36­100

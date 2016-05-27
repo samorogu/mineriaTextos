@@ -1,0 +1,13 @@
+network
+metabolic
+data
+al
+master
+2004
+et
+regulatory
+samorogu
+model
+gene
+expression
+613191txt

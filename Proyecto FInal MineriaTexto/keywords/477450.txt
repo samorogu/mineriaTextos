@@ -1,0 +1,320 @@
+exclusive
+hygromycin-B
+interpretation
+remarkable
+similarity
+endoplasmic reticulum
+jjj¼bait
+cap-binding
+Metabolic
+Decapping
+stability
+sequencing
+response32
+frequency
+Edelmann1
+purifications
+alternative complexes
+Molecular
+Supplementary Information
+core­module cross-talk
+individual integrative
+homotypic
+knowledge
+propensity
+physiological
+phenotypic signature
+large-scale
+proportion
+MIPS/SGD
+a-ketoglutarate dehydrogenase
+environment
+false-positive/
+Omnipotent metabolic
+sequential
+Marzioch1
+palmitoyltransferase
+heterogeneity
+Discussion
+complex41
+cytoplasmic messenger
+saturation
+rapamycin
+Meyerhofstrasse
+combination
+Systematic interpretation
+Nevertheless
+Correspondence
+hydroxyurea
+Modularity
+degradation
+inclusion
+replication
+biochemical properties
+Structure-based
+Izaurralde
+macromolecular
+Elucidation
+multidimensional
+intersection
+association
+structural
+socio-affinity
+determined eukaryotic
+sporulation
+necessary
+progression
+Systematic identification
+Q/t-SNARE
+ARTICLES NATURE|Vol
+six-transmembrane-segment
+identified
+phosphorylation
+Escherichia
+repeat-containing
+arbitrary
+prokaryotic sequences
+biological
+co-localized
+Saccharomyces cerevisiae
+inspection
+Sensitivity
+terminology
+core­module interactions
+accessible
+predictive
+Subramanian
+co-purify
+financial
+TAP-fusion
+Euroscarf
+supporting
+generation
+peripheral
+receptor-coupled
+architectural
+lipoamide dehydrogenase
+Comparison
+exclusive cap-binding
+approximation
+individual
+non-stoichiometric
+authenticity
+Percentage
+ring-like
+tandem-affinity-purification
+14-3-3-binding
+transport
+small-scale
+established
+Interactions
+functional similarity
+Attachments
+assistance
+localization
+integration
+thickness
+reminiscent
+Complexes
+Malgorzata Schelder1
+subcellular localizations
+re-evaluation
+protein­protein interactions
+chaperonin-containing
+available
+`socio-affinity
+near-physiological
+accuracy/
+re-engineer
+database22
+interactions
+respectively
+evidence25
+reflection
+component
+Weisbrodt
+biosynthesis
+Extrapolation
+de-adenylation-dependent
+Architecture
+TAP-tagged
+Published
+regulatory
+combinatorial
+transduction
+preventative
+dissociation
+pair-wise
+definition
+galactose
+interaction
+palmitoyl transferase
+Large-scale
+Biological processes
+heat-induced
+functional annotation
+prokaryotic
+de-adenylated
+upper-diagonal
+METHODS Experimental
+Artavanis-Tsakonas
+purification procedure
+Functional organization
+homologous
+expression
+cytoplasmic
+well-studied
+cap-dependent translation
+two-hybrid studies12,13
+characterization
+orientation
+amphiphysin-like
+functional
+comprehensive
+appropriate
+Bouwmeester
+de-capping
+Therefore
+Anne-Claude
+energy-driven conformational
+proportional
+centrality
+three-dimensional
+clustering
+Superti-Furga1,4
+Interaction
+synthetic-biology
+subcellular
+Lauffenburger
+metabolic
+co-regulated
+regulation
+`guilt-by-association
+protein-complex architecture
+dispersion
+duplicate
+production
+Oppenheim
+cerevisiae RNA-binding
+reproducibility
+subsequent
+percentage
+molecular
+microarray
+consistent
+synthesis
+Genome-wide characterization
+Definition
+pleiotropy
+gene-to-phenotype
+phenotypes38
+twohybrid
+post-translational
+Information Purification
+components/total
+individual complexes
+interaction verification
+McKendrick
+parts-list
+incorporation
+systematic
+particular
+proliferation
+cytoplasmic processing
+Sec1/Munc18
+exonuclease
+evolutionary conservation
+abundance
+different protein-complex
+polypeptide
+14-3-3-affinity purification
+cross-talk
+modulation
+socioaffinity
+challenge
+phylogenetic conservation
+genome-scale
+metabolism
+information
+experimental stringency
+exploration
+phenotypic
+proteome-scale
+spectrometry
+Socio-affinity
+transcriptional
+Publishing
+processing
+additional biological
+Dumpelfeld1
+modularity
+diversification
+complexes22
+biogenesis
+anti-fungal
+Neubauer1
+organizational
+dehydrogenase complexes
+nucleotide
+Frequency
+Heidelberg
+definitive
+complexes components
+Ghaemmaghami
+different
+redundancy
+Conformational
+Bouwmeester1
+translation initiation
+efficient
+transcription
+attribute
+Krause1,3
+mechanism
+University
+Lazarettgasse
+eukaryotic translation
+functionality
+capbinding
+significant
+Tandem-affinity purification
+genome-wide
+different conditions38,39
+composition
+interactions26
+literature
+Lichtenberg
+components
+high-frequency
+Similarly
+assignment
+promiscuous
+correlation
+Analyzing
+Acknowledgements
+collection
+complexes
+Lcb1­Lcb2
+molecular complexes
+cycloheximide
+Phenotypic
+comparison
+organization structure
+structure
+protein-complex
+Similarities
+ARTICLES
+Bioinformatics
+Schumannstrasse
+orthologous
+Anne-Marie
+purification
+dehydrogenase complexes43
+additional attachment
+raffinose
+principle
+fundamental
+Marie-Anne
+chaperonin
+organization
+ARTICLES components

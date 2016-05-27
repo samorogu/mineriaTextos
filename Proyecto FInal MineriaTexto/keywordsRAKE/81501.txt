@@ -1,0 +1,1185 @@
+national science foundation grants dms-0109086
+standard hierarchical clustering calculation based
+12
+
+7821­7826
+
+mathematics
+
+applied
+
+computed quickly
+long paths contribute exponentially
+santa fe institute collaboration network
+traditional hierarchical clustering based
+show clear community structure similar
+initially empty vertex set
+independent path counts computed
+newman*§
+*santa fe institute
+fraction correctly classified start
+united states college football
+represent real social groupings
+edges represent regular-season games
+vertices represent larger groups
+small hierarchical clustering tree
+separate single peripheral vertices
+weights give reasonable results
+examples include social networks
+datasets representing real-world networks
+newman
+
+mathematics
+
+applied
+
+fig
+santa fe institute
+sparse networks
+pnas june 11
+word clustering introduced
+chesapeake bay food web
+org cgi doi 10
+upper saddle river
+1399 hyde park road
+simple unweighted version
+current academic home
+traditionally disparate fields
+self-contained ecological subsystems
+mi 48109-1120 edited
+primary divisions detected
+technical reports series
+large geographic distances
+subsequent social evolution
+extracts clear communities
+detect community peripheries
+fairly cohesive structure
+hierarchical tree showing
+tightly knit groups
+right-skewed degree distributions
+computergenerated graphs similar
+actual factions observed
+hierarchical clustering algorithms
+marine organisms living
+weighted path counts
+edge-independent path counts
+western athletic teams
+review existing methods
+hierarchical clustering method
+western athletic conference
+hierarchical tree calculated
+empirically observed network
+divisions running principally
+roughly equal size
+analyze food webs
+informative community divisions
+increasingly large components
+interdisciplinary research center
+means american football
+investigated community structure
+underlying community structure
+extracting community structure
+complete community structure
+detect community structure
+controlled test bed
+simple traditional division
+represent related papers
+distinctive statistical properties
+give excellent agreement
+power-law degree distributions
+college football games
+scientist coauthored articles
+strongly connected cores
+core vertex sets {1
+entire algorithm runs
+strong community structure
+augmenting path algorithm
+vertices correctly classified
+vertices classified correctly
+fully connected graph
+unlike previous methods
+progressively removing edges
+edges represent games
+detecting community structure
+large collaboration networks
+graph represent teams
+algorithm reliably detects
+computer-generated net-
+
+fig
+network represent teams
+large communities corresponds
+densely connected vertices
+vertex pairs independently
+method correctly identifies
+karate club study
+santa fe
+sunbelt teams played
+network
+pnas june 11
+group working primarily
+network represent scientists
+karate club networks
+hierarchical clustering
+``small world effect
+karate club network
+social network analysis
+resulting graph shows
+united states
+edges connecting communities
+defined smaller groups
+count edge-independent paths
+zachary observed 34 members
+network structure genuinely
+typically weights paths
+benthic organisms find
+vertex­vertex connections
+find community boundaries
+standard method
+high edge betweenness
+informative divisions
+large set
+hierarchical tree
+college football
+called clustering
+clustering coefficient
+hierarchical fashion
+represent pages
+functional groupings
+represent cycles
+tangled datasets
+sparse graphs
+traditional methods
+marine organisms
+chesapeake bay
+nested set
+spond roughly
+separate groups
+college names
+classified incorrectly
+resulting tree
+pnas
+
+june 11
+food webs
+single topic
+excellent agreement
+bottom represent
+review december 6
+large estuary
+separate components
+factions involved
+collaborate primarily
+karate club
+large graphs
+social networks--networks
+community structure
+independent paths
+33 vertices representing
+food web
+statistical properties
+correctly grouped
+interdisciplinary centers
+related topics
+network size
+large fraction
+benthic organisms
+food web--
+food chains
+real-world graphs
+independent teams
+shortest path
+largest community
+vertices correctly
+choose smaller
+smaller components
+smaller subcommunities
+methods presented
+122653799
+
+munity structure
+sunbelt conference
+recent research
+research topic
+research topics
+detecting com-
+network calculated
+network primarily
+vertex equal
+actual division
+low degree
+high degree
+traditional method
+traditional techniques
+worldwide web
+social networks
+social networks 1
+karate
+
+girvan
+collaboration graph
+split corresponds
+social network
+collaboration networks
+real-world networks
+power grids
+approach works
+weighted count
+figurative sketch
+remain isolated
+scaling linearly
+interconference games
+mathematical models
+precise distribution
+lower density
+attended afterward
+disagreement developed
+simply stated
+high betweenness--
+jennifer dunne
+track ii
+prentice­hall
+ignore direction
+ideal classification
+ann arbor
+alternative approach
+dwell principally
+performs remarkably
+12 7823
+
+works provide
+sarah knutson
+approach-- focusing
+properly nested
+inherently directed
+clark hall
+2nd ed
+largest eigenvalue
+book publications
+sociological literature
+group organisms
+substantial role
+geographically close
+avoid confusion
+technical approaches
+originally compiled
+trophic relationships--
+dominant member
+middle depths
+intraconference games
+trophic levels
+reprint requests
+uniformly distributed
+decreasing betweenness
+preceding paragraph
+related species
+agent-based models
+included solely
+surface-dwelling colleagues
+east coast
+matthew salganik
+detects significant
+good predictor
+ny 14853-2501
+basic principles
+functional clusters
+approved april 6
+loosely connected
+high sensitivity
+running time
+connected triples
+fundamenta mathematicae 10
+called dendrograms
+typical values
+submitted directly
+highest betweenness
+scaling logarithmically
+collaboration network
+single edge
+vertex betweenness
+algorithm runs
+computer-generated graphs
+directed graphs
+produces graphs
+actual split
+edge-independent paths
+paths converges
+strong communities
+separate communities
+conference structure
+study problems
+web graph
+tree shows
+network structure
+equal weight
+community represented
+original club
+single nodes
+regularseason division
+pelagic organisms
+probability pin
+4b shows
+exponential form
+centrality indices
+betweenness centrality
+4a shows
+gray lines
+mid-american teams
+original graph
+solid lines
+teams playing
+genus level
+lowest level
+greater probability
+heightened probability
+disciplinary lines
+trophic level
+pelagic community
+previous section
+average degree
+documented structure
+shortest paths
+metabolic networks
+networks possess
+biological networks
+acquaintance networks
+technological networks
+neural networks
+club study
+interdisciplinary work
+traffic models
+state university
+interconference play
+largest component
+intracommunity connections
+doug white
+looser connections
+statistical physics
+cornell university
+calculation
+research interests
+friendship network
+metabolic network
+network reflecting
+network transitivity
+citation network
+network flows
+network includes
+weight wij
+strongest weight
+total weight
+poor results
+promising results
+expected results
+pnas office
+fundamental split
+average distance
+edges remain
+strongest edges
+intergroup edges
+adds edges
+remaining edges
+scientists involved
+expect scientists
+scientists working
+detecting communities
+community-finding
+
+method
+modified method
+method presented
+method detects
+newman
+
+fig
+newman
+
+fig
+polynomial-time ``max-flow
+significant extent
+calendar year 1999
+pout pin
+closely aligned
+cambridge univ
+adjacency matrix
+networked systems
+ultimately resulted
+schematic representation
+research focus
+finding suggests
+studied recently
+finding contrasts
+taxon feeding
+calculates betweenness
+closely connected
+people chosen
+practical matter
+rapidly break
+club administrator
+small number
+edge betweenness
+edge ``betweenness
+leading members
+edge betweenness--
+vertex shapes
+corre-
+
+girvan
+girvan@santafe
+algorithm presented
+algorithm performs
+algorithm identifies
+community-structure algorithm
+algorithm includes
+algorithm splits
+fast algorithm
+common acquaintance
+common experience
+prominent taxa
+cluster taxa
+recalculating betweennesses
+communities produced
+constructing communities
+identifying communities
+correct communities
+final vertices
+vertices belonging
+vertex pairs
+define weights
+traffic flow
+species play
+neo martinez
+recent studies
+practical applications
+essentially random
+connected subsets
+total number
+factor number
+minimum number
+administrator represented
+club members
+teams separated
+connected represents
+form metacommunities
+steve strogatz
+4c shows
+intercommunity edges
+node-independent paths
+rightly belong
+artificial networks
+worst-case time
+time period
+institute
+form communities
+small-world property
+clustering
+initial split
+edges scales
+edges affected
+scientists grouped
+accurate method
+science 286
+similar
+defined communities
+removed edge
+network nodes
+dense networks
+algorithm fails
+information flow
+recalculate betweennesses
+average number
+communities built
+method appears
+generalize freeman
+applications range
+zachary constructed
+vertices joined
+128 vertices divided
+give
+classified
+type shown
+real
+football
+path
+social
+collaboration
+community
+bay
+equal
+methods
+structure
+small
+groups
+detecting
+degree
+newman
+web
+tree
+applied
+played
+detects
+identifies
+analysis
+weighted
+articles
+high
+connected
+typically
+means
+boundaries
+power-law
+games
+effect
+edge-independent
+unlike
+components
+sets
+genuinely
+world
+examples
+coauthored
+agreement
+properties
+working
+removing
+betweenness
+count
+benthic
+papers
+computer-generated
+cores
+vertex
+graphs
+paths
+study
+weights
+club
+division
+shortest
+show
+fraction
+graph
+level
+8­12 teams
+centrality
+7 shows
+probability
+lines
+teams
+3 shows
+form
+group
+networks 33
+networks
+species
+algorithms
+university
+white
+flow
+connections
+component
+conference
+administrator
+intercommunity
+traffic
+play
+time
+network
+weight
+represented
+results
+defined
+1073 pnas
+pnas
+average
+split
+edges
+scientists
+118 scientists
+method
+generalize
+feeding
+studied
+year 2000
+scales
+recalculate
+separated
+pout
+cambridge
+closely
+chosen
+systems
+affected
+documented
+approaches
+pelagic
+metacommunities
+dwell
+interests
+matter
+built
+finding
+representation
+calculates
+worst-case
+techniques
+fails
+artificial
+extent
+period
+break
+accurate
+shapes
+bottom
+range
+grouped
+initial
+resulted
+removed
+define
+max-flow
+matrix
+4c
+members
+edge
+girvan
+pairs
+zachary
+girvan*
+122653799
+
+girvan
+algorithm
+122653799
+
+fig
+[2]
+
+fig
+fig
+betweennesses
+common
+taxa
+test
+communities
+vertices
+32 vertices
+271 vertices
+focus
+12 7825
+
+applications
+joined
+work
+appears
+studies
+type
+freeman
+martinez
+divided
+random
+& martinez
+subsets
+node-independent
+constructed
+applications
+physics
+number
+find
+nodes
+nodes 1
+information
+represents
+& strogatz
+strogatz
+dense
+section
+shown
+belong
+property
+neighbors
+katz
+sci
+similarity
+desirable
+oikos 87
+types
+relationships
+calculate
+removal
+undirected
+conjecture
+kumar
+amaral
+fall
+& samukhin
+node-
+reciprocal
+ulanowicz
+nature ´
+disconnect
+past
+imply
+sociol
+friendships
+& harary
+make-
+schedule
+habitat
+subdivided
+focused
+separation
+shades
+step 2
+leaving
+consists
+composed
+conversations
+addressed
+apply
+complex
+estimate
+eye
+takes
+nuances
+depicted
+& leyvraz
+brunswick
+incorporates
+successful
+ecol
+watts
+refrain
+evidenced
+central
+cases
+``slice
+account
+join
+mn
+london
+indicating
+& faust
+& barabasi
+links
+share
+pieces
+effectively
+numbers
+sense
+scheduling
+psychometrika 18
+guarantee
+end
+varied
+methodology
+proc
+mendes
+designed
+revealed
+repeat
+shortcomings
+short
+attempt
+correspond
+mark
+baird
+realizes
+correlation
+definitions
+2 years
+order
+redner
+making
+feature
+mathematicians
+paper
+& wagner
+tendency
+perfect
+´ krapivsky
+forms
+soccer
+eur
+press
+propose
+discuss
+identified
+divides
+& wiener
+improvements
+found
+phys
+significantly
+reduce
+idea
+connect
+measure
+substantially
+extract
+res
+rev
+sociometry 40
+m2n
+internet
+denoted
+squares
+known--
+theory
+lawrence
+formation
+& kochen
+definition
+language
+raghavan
+barabasi
+moment
+turn
+length
+incorporated
+top
+frequent
+comprised
+approximately
+determination
+ties
+precisely
+illustrate
+similarly
+data
+construct
+milgram
+perfectly
+williams
+centered
+favorably
+part
+stata
+peculiar
+population
+§department
+future
+barthelemy
+biotechnol
+psychol
+comput
+half
+mind
+tells
+strength
+-
+ideas
+instance
+square
+performance
+usa 97
+circles
+added
+pair
+measured
+prove
+surprising
+wasserman
+& albert
+fact
+extensions
+iterations
+selected
+mexico
+albert
+text
+detection
+sage
+converge
+conference--
+misclassified
+tempted
+2002 vol
+menger
+inferior
+probabilities
+ahuja
+jersey­
+shepp
+handle
+michigan
+de
+quantified
+kind
+trees
+magnanti
+words
+applying
+reveal
+sources
+node 3
+unfeasible
+break-
+funded
+result
+fail
+jeong
+ways
+nature
+tend
+diamonds
+reproducible
+drawn
+reliability
+speed
+commun
+knowing
+usa 98
+ability
+article
+improve
+concentrated
+received
+collaborators
+taking
+conclusions
+previously
+sensitive
+interesting
+finds
+faloutsos
+monogr
+zout 6
+point
+appeared
+expectations
+exploit
+adding
+7826
+
+www
+addition
+dge-9870631
+7824 www
+strategy
+interest
+& ulanowicz
+understand
+instructor
+present
+case
+exception
+compiling
+rutgers
+aij
+yodzis
+2000 season
+guide
+conferences
+classifying 90%
+pool
+surface
+rajagopalan
+economics
+perform
+make
+progressing
+lett
+unity
+acquaintances
+deletion
+avoids
+dorogovtsev
+infinite
+& winemiller
+pathologies
+tomkins
+variety
+thought
+researchers
+weakest
+proposed
+phy-9910217
+rest
+identify
+ecosystems
+& stanley
+ithaca
+hope
+application
+similarities
+authors
+belongs
+natl
+usage
+tests
+rna
+department
+makes
+background
+success
+interestingly
+individuals
+www
+oltvai
+plausible
+acad
+7822
+
+www
+faction
+piscataway
+e-mail
+respects
+measures
+run
+performed
+journal
+broken
+comparison
+discussed
+scott
+ensure
+grouping
+today 2
+impractical
+tombor
+subcommunity
+ecology
+broder
+shadings
+& orlin
+existed
+maghoul
+handbook
+physicists
+methodol
+naturally
+function
+2002
+
+vol
+repeated
+´´ acad
+nm 87501
+ecosystem
+robustness
+considered
+sum
+highlight
+interplay
+introducing
+100 realizations
+sidestep
+influence
+remove
+triangles
+nj
+& watts
+points
+nat
+residence
+anthropol
+node
+elements
+kinds
+meaning
+fell
+describing
+revolve
+friends
+methodologies
+tested
+scala
+& faloutsos
+n3
+starting
+305­359
+1­48
+404­409
+0
+1994
+34}
+016131
+60­67
+3}
+026118
+329­364
+452­473
+6
+``
+99
+131­134
+1992
+1998
+651­654
+122653799
+
+1
+1
+4633­4636
+139
+25
+26
+27
+20
+21
+22
+23
+29
+401
+9
+1953
+393
+7
+180­183
+1993
+2
+{33
+440­442
+1999
+11
+10
+13
+12
+15
+16
+19
+18
+1978
+11149­11152
+8
+14
+17
+410
+39­43
+1927
+2­4
+3
+15­17
+24
+268­276
+1208­1218
+28
+85
+407
+404
+33
+96­115
+34
+1977
+1967
+1121­1122
+509­512
+4
+31
+309­320
+59
+64
+[1]
+1989
+327­340
+´ 9
+35­41
+4629­4632
+5
+130­131
+2002
+2000
+2001
+251­262

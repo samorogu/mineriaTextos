@@ -1,0 +1,13 @@
+motif
+sequence
+j
+binding
+sites
+1362387txt
+nrsf
+master
+fig
+samorogu
+canonical
+chipseq
+genome

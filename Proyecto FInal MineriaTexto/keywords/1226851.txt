@@ -1,0 +1,386 @@
+Schmidler
+msb4100020
+Expression Microarray
+supplement
+probabilistic statistical
+computation
+Integrated
+Metropolis
+`black-box
+technique
+convenient inclusion
+dimension algorithms
+stochastic
+Assigning
+Biocomputing
+High-throughput fluorescence
+Informative
+Decomposable graphical
+Golightly
+Sensitivity
+ðÞpðyjÞ
+biological
+protein­protein
+revolution
+consistent
+prediction
+structure prediction
+whole-genome annotation
+Stochastic
+parsimony
+advantageous
+Bumgarner
+sequential
+Model-based clustering
+segmentation
+non-linear
+bifurcation
+component
+Graphical
+understanding
+efficient non-sequential
+refinement
+secondary statistical
+Published
+Computational
+Markovian
+Comparative evaluation
+experience
+simultaneous
+-infected Escherichia
+simultaneous estimation
+DISCUSSION
+deterministic
+inference
+classification
+problematic
+stochastic computation
+stochasticity
+inferring large-scale
+Explaining
+Corresponding
+Mitchison
+`posterior
+Kalbfleisch
+Hall/CRC
+equilibrium distribution
+inferential
+widespread availability
+Liebermeister
+reversible
+particular
+SYSTEMS BIOLOGY
+marginalisation
+Expression
+emphasising
+integrating
+Improvements
+strategies
+challenging
+Stochastic relaxation
+experimental technology
+information
+discussion
+Ginsburg
+Goldstein
+methodology
+parameter
+Single-cell
+peptide/protein composition
+commodity computing
+Iterative
+collection
+applications
+inferential algorithm
+Traditional statistical
+synchrony
+Churchill
+effective
+Inferring quantitative
+complexity
+intrinsic stochasticity
+parameter estimation
+Modelling within-motif
+Pritchard
+experiments
+observational
+interesting
+highdimensional
+Probabilistic segmentation
+non-statistical
+chromatography
+multiparameter single-cell
+framework
+quantitative information
+association
+Inferring
+intensity estimation
+realistic
+Blanchette
+computational algorithm
+Statistics
+Anopheles
+measurement
+Biochemical
+DarrenWilkinson
+hybridisation
+expensive experimental
+fundamental distinction
+Pepperkok
+stochastic biochemical
+regulatory
+likelihood
+inevitable
+autoregressive
+Rosenberg
+bottom-up mechanistic
+probability
+variables
+bioinformatics
+protein-signaling
+Microarray
+identifying gene­gene
+specificity
+impossible
+publication
+introduction
+sequential inference
+regulation
+Automated
+inconvenient
+non-parametric
+Cambridge University
+relationship
+Dangerous
+continuous
+population
+spectrometry clustering
+microarray experiments
+References
+fluorescence microscopy
+Logvinenko
+biochemical
+inferring
+nanomolecular
+coestimation
+Ellenberg
+statistical methodology
+efficient
+transcription
+probabilistic conditional
+significant
+Embracing
+Biological
+AdvancedTheory
+intrinsic
+Nakicenovic
+pre-calculated
+Nonparametric
+traditional
+probabilistic graphical
+high-throughput
+principle
+Quantitative
+Wilkinson
+Henderson
+Multivariate
+parameters
+image-analysis
+Statistician
+experiment
+likelihood alignment
+intractable
+Challenor
+statistical bioinformatics
+Wakefield
+HMM-based
+COMPUTATIONAL SYSTEMS
+conjunction
+processes
+within-motif dependence
+Synchrony
+differential
+process-based
+non-Bayesian
+statistical perspective
+predictive
+Hartemink
+biological processes
+probabilistic information
+independence structure
+individual
+Handbook
+coclustering
+underlying conditional
+Opgen-Rhein
+`corrected
+identification
+confusion
+Informative structure
+geometric
+Equations
+discovery
+posterior distributions
+Genome-wide estimation
+Obviously
+nonlinear multivariate
+influential
+so-called full-conditional
+uncertainty
+propagation
+Statistical
+non-trivial
+expression
+experimental
+Lucarelli
+applicability
+sequences
+normalisation
+Predicting
+Modelling
+extraction
+Permissions
+protein-protein
+graphical
+top-down
+two-channel microarray
+modelling
+intermediary variables
+Richardson
+single-cell
+retrotransposition
+uncertain
+biopolymer
+empirical
+optimization
+irrespective
+Biometrics
+procedure
+unsatisfactory
+Furthermore
+Metropolis­Hastings
+`chemical
+Symposium
+spectrometric
+different
+challenging inferential
+cytometry
+Statistical mechanical
+microarray
+drawback
+quantitative modelling
+Bioformatics
+difficult
+development
+literature
+transcript concentrations
+comprehensive
+numerical
+Newcastle University
+Publications
+normalization
+Inference
+secondary structure
+Experiments
+quantitative
+intracellular processes
+efficient computational
+wavelet-based functional
+combinatorial summation
+p-dimensional
+Sequential
+Reconstruction
+alignment
+Greenbaum
+Kirkwood
+Detecting homogeneous
+Although
+relevance
+Schellnhuber
+structural
+ORMATICS
+diffusion approximation
+background
+conventional statistical
+necessary
+Computing
+Microarrays
+probabilistic functional
+informative
+Grzegorczyk
+high-resolution single-cell
+arbitrary
+statistical inference
+mathematical
+satisfactory
+Time-course expression
+multivariate diffusion
+developmental
+phenomenal
+regression modelling
+Stochastic Modelling
+Reversible
+Interface
+INTRODUCTION Bioinformatics
+processing
+Proceedings
+informatics
+Typically
+Characterizing
+comparison
+Biostatistics
+dependence
+simulation
+practical
+important
+nonBayesian
+Gillespie
+computational
+Knowledge
+manipulation experiments
+functional
+appropriate
+parameter uncertainty
+proportional
+clustering
+Nutrition
+probabilistic
+approximate
+translate
+`Bayesian-inspired
+Affymetrix
+phylogeny estimation
+sophisticated
+posterior
+hierarchical
+attainable
+considerable
+normalising
+Parameter estimation
+Proteomics
+high-dimensional integration
+Biometrika
+heterogeneous
+spectrometry
+Bhattacharjee
+quantitative high-resolution
+Dekker/CRC
+generating
+engineering
+Lauritzen
+formulation
+Mathematics
+distributions
+high-dimensional graphical
+calibration
+application
+interested
+Improving
+conditional independence
+Practical
+restoration
+proteomic
+Rosenbluth
+intensive algorithms
+algorithm
+resolution

@@ -1,0 +1,215 @@
+selection
+two-dimensional
+similarity
+desirable
+nonparametric
+Cottrell
+minimizing
+Quantitative
+Department
+components analysis
+alternative
+arrangement
+previous
+synthetic
+Supporting
+dimensionality
+symmetry
+fine-tune
+deterministic
+Grigorenko
+Langford
+first-level
+Kaufmann
+Although
+recogniSCIENCE
+stochastic
+Guyot-Sionnest
+identical
+30dimensional logistic
+correspondence
+advantage
+permission
+Hecht-Nielsen
+cross-entropy
+activation
+Engineering Research
+possible
+introduce
+probability
+reconstructions
+Rumelhart
+pretraining algorithm
+Maksimchuk
+Bpretraining
+outperform
+Washington
+Advanced
+nonlinear generalization
+Canadian Institute
+Tenenbaum
+Networks
+available
+Dimensionality
+layer-by-layer
+Pretraining Unrolling
+hj¿recon
+detection
+intensity
+abs/physics/0601055
+Olivetti
+Shallower
+wavelength
+non-Gaussian
+nonlinear
+driving-force
+Lorentz-force
+resonances
+symmetric
+Boltzmann
+experiment
+imensionality reduction
+reconstruction
+SCIENCE
+off-resonant
+layer-by-layer pretraining
+handwritten
+measuring
+supporting
+classification
+logistic
+Smolensky
+visualization
+component
+University
+steepest
+Umstadter
+agreement
+possibility
+perpendicular
+directions
+Bdecoder
+Obviously
+Landauer
+comparison
+Cambridge
+Parallel Distributed
+December
+low-dimensional
+compatible
+principal components
+Computer
+multiclass
+published
+resonance
+high-resolution
+30dimensional autoencoder
+Hopfield
+autoencoder
+Copyright
+communication
+intrinsic dimensionality
+Advancement
+well-known
+Nonlinear
+simplified
+proportional
+six-dimensional
+summarize
+dimensionality reduction
+Bvisible
+argumentation
+configuration
+Corresponding
+additional
+multilayer
+twodimensional
+trademark
+Downloaded
+Ramakrishna
+Helmholtz-Hochschul-Nachwuchsgruppe
+metamaterial
+Association
+corresponding
+fine-tuning
+relationship
+fine-tuned
+continuous
+grayscale
+systematic microscopic
+newswire
+particular
+Following
+constituent
+real-valued
+standard
+Deutsche Forschungsgemeinschaft
+Layer-by-layer pretraining
+Leonhardt
+algorithm
+related-content
+Veselago
+oscillator
+Harshman
+References
+30-dimensional autoencoder
+following
+Rosen-Zvi
+Reducing
+document-specific
+procedure
+high-dimensional
+Information
+nonlinear dimensionality
+spectrum
+discrepancy
+magnetic-dipole
+Bconfabulation
+discussions
+Distributed Processing
+Bconfabulated
+McClelland
+transverse component
+Unrolling Fine-tuning
+information
+different
+reduction algorithm
+completeness
+efficient
+lithographic
+Bautoencoder
+mechanism
+metallic
+polarization
+Information Processing
+Soukoulis
+pretraining multiple
+Gaussian
+infeasible
+ensemble
+two-dimensional autoencoder
+difficult
+simplicity
+multiple
+electric
+excitation
+Brestricted Boltzmann
+high-order
+HighWire
+Deerwester
+significant
+horizontal
+structure
+pretraining
+effective
+Salakhutdinov High-dimensional
+two-layer
+detectors
+derivatives
+retrieval
+alternative visualization
+backpropagation
+Advances
+Kambhatla
+stochastic real-valued
+Highstrete

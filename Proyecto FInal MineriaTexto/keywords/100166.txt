@@ -1,0 +1,371 @@
+similarity
+represent multivariate
+understandable
+perturbations
+cisregulatory
+Supporting
+genome-wide molecular
+canonical
+capturing
+stochastic
+significant annotations
+ingredient
+distinguish regulation
+advantage
+activation
+Inferring Cellular
+condition
+related-content
+assignments
+functional annotations
+array-cluster variables
+composing different
+bootstrap procedure
+particular experiment
+consistent
+Stochastic
+meaningful biological
+Dynamical
+established
+specification
+localization
+SPECIAL SECTION
+sequential
+reconstruction
+designing
+relational
+justification
+explosion
+Foundation
+Dvzeroski
+understanding
+granularity
+Computational
+different regulators
+technical
+Causation
+composing
+experience
+Intuitively
+throughput
+examining
+inference
+stochasticity
+construct-
+BIOLOGY SPECIAL
+well-understood principles
+confidence
+Mitchison
+procedural methodology
+Bioinformatics
+composite
+Fudenberg
+particular
+Representation
+probability characterize
+submodels
+challenge
+Expectation Maximization
+following
+respective gene-cluster
+Integration
+transduction
+information
+posttranscriptional
+straightforward
+Significant
+Kaminski
+description
+high-confidence
+likelihood estimation
+cis-regulatory
+annotation
+bootstrap
+correspond
+hypotheses
+representation
+restriction
+parameter estimation
+candidate structure
+significant regulation
+conditional distribution
+experiments
+two-level
+existence
+Extensive
+sevproach
+manuscript
+Heerwarden
+GeneClusterg
+correspondence
+Evolution
+different regulator
+combination
+Christiansen
+Analysis
+Complexity
+proteinprotein interactions
+Heckerman
+subnetwork
+characterized
+Clustering
+knockout
+desirability
+hypergeometric
+challenges
+measurement
+GeneClusterg Alternatively
+principled
+Structures
+Shen-Orr
+Ecosystems
+strategies
+individual regulatory
+associate
+University
+Uncertainty
+mechanisms
+regulators
+dependencies
+regulatory
+Maximization procedure
+Cambridge
+Darwinian
+consequence
+high-resolution
+additional structure
+intuition
+Copyright
+variables
+reflected
+downstream transcriptional
+compatibility
+Downloaded
+Ecological
+intermediate
+observations
+reestimate
+Association
+insightful
+Hammerstein
+different submodels
+systematic evaluation
+Different regulatory
+environmental
+suitability
+conditional probabilities
+regulator
+alternative experimental
+combining additional
+biological regulatory
+biological principles
+interactive
+Regulatory Networks
+Information
+resentation
+biological phenomena
+first-order
+feedback mechanisms
+efficient
+transcription
+mechanism
+potential
+regulation mechanism
+Glossary
+systematic validation
+significant
+Biological
+transcript
+partition
+probabilistic graphical
+high-throughput
+Amsterdam
+differential expression
+dissecting
+selection
+cluster­array
+normalizing variables
+availability
+indicator
+knowledge
+parameters
+chromatin structure
+distinguishing correlation
+condisumption
+Kaufmann
+permission
+coexsignal
+congruent
+statistical regression
+yeast-mating
+procedures
+evolution
+graphical representation
+Washington
+Probabilistic Reasoning
+architecture
+Ashburner
+predictive
+computational procedures
+ancestral
+protein-DNA interactions
+individual
+Relational
+describing probability
+interacting
+regulation mechanisms
+Cellular Networks
+International Conference
+simplifying
+available
+variability
+combining
+general-purpose
+conditional regulation
+distinguish
+Lorberbaum
+significant annotation
+ArrayCluster
+Stability
+High-throughput genome-wide
+exprescan
+estimation
+expression
+experimental
+reinclude observations
+characterization
+model-based methodology
+probability distribution
+regulated
+sequences
+kinematic
+expression attribute
+trademark
+Ontology
+recurring
+protein-protein
+diversity
+Schwikowski
+Princeton
+Probabilistic graphical
+Selection
+conditional probability
+biological interpretability
+intriguing
+difficult challenge
+glossary
+hightranscription
+optimization
+Campbell
+procedure
+Supported
+orientation
+Furthermore
+Mathematics
+Intelligent
+different
+SpringerVerlag
+declarative approach
+Alternatively
+Unselfish
+composition
+development
+literature
+promoters
+assignment
+FEBRUARY
+declarative
+coexRegulation
+Jerusalem
+Visualization
+Similarly
+Although high-throughput
+underlying
+Hartemink
+ArrayClustera
+feedforward
+conclusions
+Jaakkola
+Springer-Verlag
+Probabilistic Graphical
+probabilistic
+Clutton-Brock
+Chickering
+Simplifying
+Evolutionary
+extracting meaningful
+flexibility
+Sudarsanam
+SECTION Reconstruction
+biological knowledge
+mathematical
+conditional
+phenomena
+proteinprotein interaction
+model-based approach
+Ontology annotations
+Wapinski
+measurements
+integration
+repression
+decomposition
+Dieckmann
+Population
+Koninklijke Nederlandse
+SCIENCE
+underlying distribution
+Proceedings
+Wetenschappen
+problematic assumption
+parametric representation
+extension
+coregulaWe
+neighbor
+stochastic differential
+computational
+Psychology
+causation
+Advancement
+MATHEMATICS
+clustering
+statistics
+additional
+robustness
+orthogonal extension
+approximate
+Computational Molecular
+translate
+contradictory
+extensive validation
+partitioned
+efficient computation
+protein-protein interaction
+Gyllenberg
+Engineering
+exploration
+regulator-target
+transcriptional
+Introduction
+phylogenetic
+influence
+engineering
+Gimelfarb
+effective inference
+Francisco
+high-throughput heterogeneous
+coexpression
+interested
+Hofbauer
+exregulation
+Procedures
+deviation
+open-ended
+independent experimental
+important
+pathways
+mitogen-activated
+corresponding
+Prediction
+biological mechasumption
+SECTION Conclusion
+Artificial Intelligence

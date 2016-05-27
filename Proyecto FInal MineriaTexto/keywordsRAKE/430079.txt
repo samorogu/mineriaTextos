@@ -1,0 +1,4130 @@
+ap-
+
+proximate neuronal mechanisms mediating contrast gain control
+postulate highly nonlinear image processing eventually combine
+nonclassical receptive field increases information transmission efficiency
+proc natl acad sci usa 76
+proc natl acad sci usa 99
+proc natl acad sci usa 102
+proc natl acad sci usa 94
+adaptive rescaling maximizes information transmission
+ventral stream visual salience map
+understanding v1 simple cells simple-cell receptive fields
+joint orientation-spatial frequency tuning surface
+retinal ganglion cells prevent synaptic noise
+cortical middle temporal area postulates
+rust7
+smith-kettlewell eye research institute
+receptive-field mapping techniques typically subtract
+experiments record neuronal response extracellularly
+linear receptive fields hold promise
+naturalistic free-viewing visual search task
+stc analysis consistently revealed additional excitatory
+inverses produce high firing rates
+natural images yield spatial receptive fields
+sinusoidally driven thalamocortical relay neurons
+ieee trans biomed eng 15
+studies compared spatial receptive-field maps
+spike trains transmit visual information
+attractive linear receptive field model
+filter produce high firing rate responses
+filter produce large firing rate responses
+mammalian y-type retinal ganglion cells
+cereb blood flow metab 21
+temporal stimulus statistics dramatically change
+similar ln model works equally
+spatial receptive field map describes
+stochastic integrate-and-fire neural encoding model
+linearized spatiotemporal receptive field model
+recently developed adaptive stimulus techniques
+estimating spatio-temporal receptive fields
+linear spatiotemporal receptive field structure
+van de grind wa
+de ruyter van steveninck
+monkey primary visual cortex revealed
+parameters control filter adaptation independently
+phase-separated fourier model depends significantly
+cortical neurons encode natural images
+linear receptive field accurately predicts
+spatiotemporally inseparable receptive field
+characterization techniques allowed researchers
+spatial receptive field describes selectivity
+nat rev neu¨ rosci 5
+nonlinear stimulus­response mapping function
+pyramid based texture analysis/synthesis
+estimated spatial receptive fields predict
+shows strictly linear spatiotemporal summation
+complex cell receptive fields measured
+ganglion cells combine subregions
+vitro guinea pig retina
+receptivefield parameters neatly spaced
+stylized linearly summating field
+natural spatial statistics evoke complex
+flat temporal frequency spectrum
+including additional terms modeling suppression
+subunits driving contrast gain control
+renders spike-triggered average ineffective
+phase-invariant complex-cell receptive field
+6helen wills neuroscience institute
+synaptic potentials underlying direction selectivity
+marmoset lateral geniculate cells
+understanding v1 simple cells describes
+afferent retinal ganglion cells
+cell exhibit similar spatial frequencies
+complexcell receptive fields measured
+embraced additional nonlinear behaviors
+sophisticated temporally nonlinear model
+linear x-type ganglion cells
+flat spectrum differs markedly
+gain control mechanisms dampen
+cat retinal ganglion cell responses
+mammalian lateral geniculate nucleus
+spatiotemporal receptive field map
+smith-kettlewell eye research institute
+neurons function differ-
+
+ently
+biphasic temporal weighting function
+spatiotemporal receptive fields estimated
+extraclassical receptive field properties
+locally prevalent root-mean-square contrast
+primate lateral geniculate nucleus
+strong nonlinear adaptive mechanisms
+separate spatiotemporal receptive field
+nonlinear mapping techniques provide
+spatiotemporal phase-separated fourier model
+integrate-and-fire dynamics significantly improves
+modeling human psychophysical experiments
+salamander retinal ganglion cells
+y-type retinal ganglion cells
+complex cells generally find
+contrast gain control begins
+contrast gain control modifies
+estimated spatiotemporal receptive field
+sufficiently rich stimulus set
+second-order volterra/wiener regression models
+understanding complex-cell receptive fields
+measuring complex-cell receptive fields
+full spatiotemporal receptive field
+free viewing visual search
+spatiotemporal receptive field measured
+macaque retinal ganglion cells
+linear receptive ural stimuli
+cat lateral geniculate nucleus
+receptive field structure varies
+complex stimuli including natural scenes
+visual cortical receptive fields
+similar low-level image processing
+black solid traces control
+spatiotemporal receptive field organization
+model human image code
+linear receptive field specifies
+idealized linear receptive field
+fixed linear receptive field
+filter produce negligible responses
+nonlinear directionally selective subunits
+primate retinal ganglion cells
+local contrast determines gain
+macaque v1 receptive fields
+linear receptive field estimated
+v1 complex cells recovered
+fixed temporal weighting function
+macaque primary visual cortex
+1970s experiments noted nonlinearities
+pseudorandom spatiotemporal pattern stimuli
+characterize complex-cell receptive fields
+cortical receptive field profiles
+opt image sci vis 14
+opt image sci vis 20
+monkey retinal ganglion cells
+v4 spatiotemporal receptive fields
+single stimulus class predict responses
+linear receptive field measured
+underlying initial linear sum
+rapid serial visual presentation
+primate retina signal colour
+cat retinal ganglion cells
+resulting linear receptive field
+linear receptive field fitted
+simple dethis model predicts
+visual receptive fields based
+temporal weighting function predicts
+current models predict neuronal responses
+demonstrated pronounced nonlinear effects
+gain control mechanisms reduce
+white noise analysis due
+linear receptive field properties
+contrast gain control trains
+linear receptive field led
+receptive field mathematically tractable
+control eigenvalues calculated based
+lgn relay cells ¨ originates
+neural information processing systems
+produced powerful quantitative models
+driving contrast gain control
+complex natural video sequences
+filter weights involves presenting
+acterizing neural response properties
+visual contrast gain control
+ganglion cell spike generation
+push­pull inhibition underlies
+cat primary visual cortex
+substantially lower firing rates
+modeling simple-cell direction selectivity
+mask inherently nonlinear summation
+simple-cell response behavior involves
+position invariance reported previously
+free-viewing visual search
+gain control mechanisms operate
+gain control mechanisms affect
+linear receptive field model
+straightforward receptive-field map predict
+included feedback gain controls
+higher-order thalamic relays burst
+visual cortical neurons revealed
+center­surround receptive fields
+paralyzed ferret v1 respond
+subunit receptive fields identified
+multiple ganglion cell types
+striate cortical simple cells
+mammalian v1 complex cells
+receptive-field mapping techniques
+fp model performs poorly
+natural stimulus statistics alter
+contrast adaptation occurs partly
+simple dynamic laboratory stimulus
+short-term adaptation increases
+understanding v1 complex cells
+measured firing rate attributable
+initial linear processing stage
+compare models objectively based
+understanding v1 simple cells
+filter produce large responses
+inhibition underlying size tuning
+gain control adaptation effects
+conditions approximating natural vision
+predicted tuning curve agreed
+linear filter changed dynamically
+nonclassical receptive field
+simple cell precisely predicts
+lateral geniculate nucleus
+nonparametric model estimated directly
+spatiotemporal receptive fields
+produced enormous amounts
+simple white noise analysis
+v1 neurons depend partly
+receptive field involves
+predicted spatial frequency tuning
+complex-cell receptive fields
+kernel regression techniques
+attention modulates neuronal responses
+simple-cell receptive fields
+receptive fields cover
+spectral-temporal receptive fields
+spatiotemporal receptive field
+assumptions require additional validation
+accurately describe neuronal responses
+represents preferred spatial phase
+nonclassical receptive-field modulation
+nonlinear auditory neurons obtained
+bimodal contrast­response functions
+average light intensity falling
+cat horizontal cell responses
+complex-cell receptive field
+simple stimulus experiments provide
+retinal gain controls
+hierarchical bayesian inference
+support vector machine
+melanopsin-expressing ganglion cells
+ganglion cells inform
+catfish ganglion cells
+predict natural visual responses
+salazar receptive field
+receptive field component
+receptive field nonlinearly
+second-order mechanisms revealed
+salamander bipolar cells
+retinal ganglion cells
+phase-separated fourier model
+models include nonlinear mechanisms
+integrate-and-fire spike generator
+spatial-frequency tuning curve
+flat power spectra
+receptive fields measured
+data sample size place
+spatial receptive fields
+estimated receptive field
+y-type ganglion cell
+curr opin neurobiol 10
+curr opin neurobiol 14
+curr opin neurobiol 11
+temporal receptive field
+simple receptive fields
+peripheral nervous system
+adaptive mechanism intrinsic
+proposes future avenues
+gain control mechanism
+fixed weighting function
+presynaptic bipolar cells
+simultaneously recorded retinal
+gain control mechanisms
+nonlinear receptive field
+linear receptive field
+receptive field predicts
+ganglion cells adapt
+v1 receptive fields
+receptive field mechanisms
+linearized reverse-correlation procedure
+van wezel rj
+subunit receptive fields
+spatial receptive field
+primary visual cortex
+22nd annual conference
+simple-cell receptive-field profiles
+visual surface representation
+retinal ganglion cell
+tuning curve measured
+totally linear field
+black solid traces
+unlike cortical cells
+temporal weighting function
+de valois rl
+thalamic relay cells
+phenomena
+
+received sept
+complex video sequences
+natural video sequences
+fairly successful attempt made
+classical receptive field
+adaptive temporal integration
+blowfly visual system
+second-order fourier power
+stepwise regression procedure
+strict cross-validation procedure
+separate visualization procedure
+slow na inactivation
+receptive field organization
+established quantitative fields
+thalamic relay functions
+gain controls based
+measured firing rates
+alert macaque monkey
+linear receptive depends
+actual receptive field
+receptive field center
+receptive field architecture
+receptive field structure
+size tuning gion
+deliver substantial excitation
+spatially opponent excitation
+static receptive field
+high temporal ley
+conventional v1 models account
+spatially shifted subunits
+requires additional understanding
+pattern-specific attentional modulation
+nonpoisson spike generation
+early visual system
+static texture patterns
+receptive field profile
+natural movie varies
+primary sensory cortex
+dynamical nonlinear components
+van essen dc
+first-order kernel estimation
+central visual pathways
+ferret simple cell
+reach visual cortex
+v1 neuron response properties
+simple spike-triggered averaging
+discrete complex cells
+frank complex cells
+complex cells consist
+contrast vary independently
+contrast gain control
+feedforward neural networks
+artificial neural networks
+linearized reverse correlation
+linearly summating stage
+simple cells relate
+nonspecific suppression noted
+macaque visual cortex
+van hateren jh
+anterior visual areas
+underlying biological mechanism
+first-stage linear sum
+early visual processing
+natural scenes revealed
+monochromatic natural scene
+limulus lateral eye
+strongest retinal input
+minimal integrateand-fire-or-burst model
+volterra analyses applied
+kernel regression methods
+reasonable approximations thereof
+models implicitly assume
+questions left unanswered
+smith iii el
+second-order polynomial models
+filtering involves multiplying
+subregions shifting smoothly
+develop parametric descriptions
+retinal spike trains
+reduce noise amplification
+responses interact subtractively
+cone photoreceptor response
+response prop-
+
+erties
+nonlinear transducer function
+spatial frequency channels
+two-dimensional spectral analysis
+neuronal spike trains
+linear filter describes
+subserving selective attention
+natural viewing conditions
+cortical complex cells
+higher firing rates
+spatiotemporal transfer function
+naturalistic experimental conditions
+nonlinear subunits coextensive
+parallel visual pathways
+higher-order stimulus statistics
+model characterization techniques
+working hypothesis suggests
+visual area mt
+fairly restricted class
+natural image sequences
+neurons exhibit progressively
+additional fundamental determinants
+average firing rate
+spike generation mechanisms
+early nsli studies
+mc cann gd
+spatial frequency tuning
+primate visual cortex
+linear temporal filter
+nonlinear systems analysis
+linear systems analysis
+potential filtering operations
+visual pattern analyzers
+instantaneous nonlinear function
+nonlinear simple cells
+locally prevalent luminance
+dynamic laboratory stimulus
+red dashed traces
+white noise presents
+spatial frequency selectivity
+natural image statistics
+receptive-field spatial structure
+immediately preceded spikes
+post hoc application
+challenging problems facing
+exp brain res 79
+exp brain res 62
+exp brain res 66
+exp brain res 135
+prog brain res 144
+exp brain res 15
+prog brain res 134
+exp brain res 93
+natural scenes produces
+receptive field generated
+ganglion cell types
+awake behaving cat
+cell responds indiscriminately
+firing rates obtained
+annu rev neurosci 8
+annu rev neurosci 25
+annu rev neurosci 24
+temporal stimulus statistics
+linear model units
+linear model conveys
+totally linear model
+highly simplified stimuli
+phaseshifted linear filters
+maximally informative dimensions
+cognitive neurosciences iii
+second-order wiener kernel
+white temporal statistics
+understanding cellular mechanisms
+extrastriate visual areas
+visual neuroscience closer
+comparing visual models
+bipolar cells contribute
+early visual pathway
+simple cell performs
+hyperpolarization lasting 100 ms
+second-order mechanisms accounts
+simultaneously presenting stimuli
+nonlinear spatial properties
+produce quantitative predictions
+weighted linear sum
+increasing contrast reduces
+continuous subthreshold potential
+simultaneously recorded neurons
+receptive field shown
+luminance gain control
+apparent contrast-dependent change
+static nonlinear function
+frequency tuning curves
+natural image ensemble
+high spatial frequencies
+quantitative neuronal models
+spatial frequency analysis
+single linear filter
+spatiotemporal energy models
+identify attentional modulation
+bottom trace shows
+two-dimensional spatial structure
+response sample sizes
+full spatiotemporal-chromatic response
+dynamic grating sequences
+fly visual neurons
+higher temporal frequencies
+visual inputs received
+short spike sequences
+ganglion cell responses
+response modulation ratio
+trast­response functions
+spontaneous firing rate
+models degrades substantially
+references
+adelson eh
+maximum likelihood estimation
+maximal firing rate
+nonlinear functional characterization
+modeling spike times
+direction selectivity measured
+optimal spatial frequency
+random-bar stimuli aligned
+simple linear sum
+nonlinear spatial subunits
+cat striate cells
+multiple linear filters
+spatial stimulus statistics
+retina adapts separately
+decreasing stimulus energy
+v1 complex cells
+estimated upper bound
+ion channels work
+simple linear filter
+modern computer vision
+monkey striate cortex
+including direction selectivity
+firing rate responses
+nonlinear v1 simple
+measured tuning curves
+firing rate response
+v1 simple cells
+random spike trains
+spike-triggered stimulus ensemble
+additional stimulus classes
+analyzing neural responses
+relating neural responses
+temporal contrast sensitivities
+simple cell recorded
+fairly good understanding
+cell types express
+intrinsic cellular properties
+successful quantitative definitions
+arbitrary stimulus sets
+ecologically relevant stimuli
+nonlinear system identification
+cat visual cortex
+complex stimulus ensembles
+linear­nonlinear­poisson
+nonlinear model predicts
+linear model predicts
+gray circle shows
+auditory cortical responses
+estimated model parameters
+temporal integration properties
+mechanisms generating bursts
+cat striate cortex
+additional excitatory eigenvectors
+describes orientation tuning
+cambridge cb2 1tn
+standard model status
+standard model existed
+nonlinear output transducer
+estimated 60 ­ 80 cell types
+characterizing linear systems
+auditory cortical neurons
+initial studies exploring
+photograph evoked strong
+nonlinear spatial summation
+actual direction selectivity
+relevant visual features
+simple cells suggest
+iterative stimulus reconstruction
+weighted image intensities
+successful
+
+functional model
+simple laboratory stimuli
+natural temporal stimuli
+slow contrast adaptation
+v1 neurons behave
+static nonlinearity creates
+nonlinear components required
+test specific hypotheses
+important limiting factor
+complex nonlinear model
+visual cortex succeed
+weighted normalization mechanism
+primate outer retina
+luminance gain gain
+work lies ahead
+quantitative fp model
+visual neurons adapt
+low temporal frequencies
+temporal response properties
+random noise stimulus
+simple linear model
+receptive-field regions overlap
+firing rates computed
+random temporal sequence
+complex visual stimuli
+spatial stimulus structure
+nonlinear output transform
+gray line shows
+measured signals attributable
+represent visual features
+natural visual responses
+v1 neurons estimated
+identify promising areas
+orientation tuning bandwidth
+bright cat-cam movie
+arbitrary stimulus ensembles
+actual spike times
+half-wave rectifying nonlinearity
+intrinsic noise level
+linear sum giving
+simple stimulus experiments
+optimal sensory signals
+earlier visual neurons
+nonlinear response properties
+v1 complex cell
+natural scene stimuli
+psft model incorporates
+facilitate model selection
+important nonlinear phenomena
+time-varying natural scenes
+linear response sum
+v1 simple cell
+temporal contrast adaptation
+nonlinear v1 responses
+response amplitude saturates
+spike-triggered covariance methods
+basic tuning properties
+prevailing stimulus statistics
+natural scene movies
+nonlinear stages adapt
+predicting spike rates
+obvious nonlinear behavior
+ignoring retinal circuitry
+soc neurosci abstr 31
+soc neurosci abstr 30
+drawing intensity values
+figure 4c shows
+natural scene stimulation
+complex cells respond
+simple cell behavior
+transformation typically takes
+future predictive models
+macaque area v4
+contextual response modulation
+contextual signals influence
+resolves subtle failures
+/ magnocellular type
+standard model including
+lnp model predicts
+gabor function model
+predict retinal responses
+including contrast adaptation
+energy model combines
+yielded revised measures
+primarily divisive influence
+natural scene perception
+single v1 neurons
+static natural images
+suggests orientation selectivity
+lgn responses demonstrated
+predicting neuronal responses
+measured responses based
+understand visual processing
+center­surround organization
+simple standard model
+lgn relay neuron
+predict neuronal responses
+dashed lines outline
+current v1 models
+two-stage black box
+bright light evokes
+linear filter width
+reduce response magnitudes
+time-varying natural images
+v1 response properties
+understanding lgn responses
+linear model fails
+simpler linear model
+contrast response function
+contrast­response function
+nonlinear signals passed
+neuronal light responses
+simple cell means
+thalamocortical relay
+preliminary data suggest
+input­ output function
+understand simple cells
+contrast­response functions
+linear model response
+neurophysiological data gathered
+physiological studies suggest
+spatial phase relationship
+overfitting problem makes
+simple-cell definition offers
+dynamic predictive coding
+make quantitative predictions
+understand cellular mechanisms
+simulated natural vision
+soc lond ser
+recent experiments suggest
+functional response properties
+half-wave squaring nonlinearity
+reserved validation dataset
+spatial attention effects
+subthreshold membrane voltage
+existing standard model
+linear filter approach
+spike generator includes
+potentially explainable variance
+steady contrast level
+bar stimulus depends
+horizontal cell network
+nonlinear stages based
+lgn neurons compute
+including random bars
+dark light evokes
+natural vision movies
+specific problem depends
+predictive models represent
+lgn neurons depends
+deviations functionally important
+model realistic patterns
+fast timescale suggests
+limited dynamic range
+red dashed needed
+substantially improve predictions
+neural network analysis
+nonlinear model tend
+lnp model works
+twodimensional shape features
+predict neural responses
+nonclassical modulation
+require multiple filters
+nonlinear network model
+excitatory tuning appears
+standard model description
+current models predict 40%
+white noise approach
+receptive fields
+intracellular recordings suggested
+approximately equal energy
+suggesting direction selectivity
+geniculate fields
+predicting v1 responses
+make responses independent
+characterize v1 neurons
+measured responses tend
+natural images presented
+spike-triggered average
+
+carandini
+dark tarzan movie
+commonly accepted models
+nlsi analysis requires
+nonspecific suppression results
+theory explains data
+lgn neuron measured
+qualitative response properties
+simple arithmetic rules
+1­2 ms refractory period
+adaptive encoding
+single v4 neurons
+drifting sinusoidal gratings
+involved static images
+biol sci 234
+provide key insights
+biol sci 228
+developing testable models
+prevent overestimation
+approximately equal numbers
+gain control
+ganglion cells
+15­20 ganglion cells
+v1 neuron types
+yielded results consistent
+significant eigenvectors identified
+receptive field
+psft model predict 20%
+characterization techniques
+improve model performance
+model predict responses
+contrast suddenly steps
+stimulus luminance divided
+adaptive properties
+total response variance
+relay cells
+transient responses lies
+psychophysical modeling
+determine explainable variance
+gain traces
+visual information
+recent studies show
+lgn neurons respond
+firing rates
+input­ output relationship
+spatiotemporal organization
+inherently nonlinear
+poorly predicts
+weighting function
+filter produce
+ventral pathway
+fourier transform
+previous nlsi studies
+spatiotemporal structure
+additional subunits
+van hateren
+van essen
+ganglion cell
+dynamic sequences
+natural information
+receptive-field estimation
+mechanisms underlying
+retinal image
+generate experimental stimuli
+nonlinear systems
+second-order terms
+first-order relays
+firing rate
+occurs primarily
+reversed compared
+compare model performance
+cereb cortex 13
+temporal frequency
+lnp model captured 81%
+stochastic stimuli
+additional input
+layer 4 v1 neuron
+temporal statistics
+linear modeling
+low response variability
+multiple mechanisms
+neuronal function
+cortical cells
+visual field
+de valois
+retinal processing
+fourier analysis
+neuronal noise
+retinal signals
+dynamic mechanisms
+luminance gain al
+nonlinear system
+visual system
+linear­nonlinear
+nonlinear transducer
+nonlinear behaviors
+physiological systems
+regression procedure
+nonlinear mechanisms
+temporal frequencies
+spatiotemporal summation
+spatiotemporal coupling
+interactive techniques
+auditory system
+macaque monkey
+two-dimensional image
+nonlinear function
+spatial frequency
+visual image
+frequency tuning
+size tuning
+spatial statistics
+receptive-field organization
+linearized reverse-
+
+10590 ·
+intracellular signal
+solid line
+initial attempts
+spatial position
+control responsiveness
+simple-cell behavior
+attentional modulation
+cortical simple
+mask stimulus [
+paralyzed cat
+spike generation
+full understanding
+tuning bandwidth
+highly localized
+spike-triggered ensemble
+highly desirable
+synaptic potentials
+biological system
+receptive-field structure
+visual processing
+lateral spread
+linear filtering
+combines linear
+temporal properties
+spatial profiles
+functionally driven
+spatiotemporal inputs
+primate cortex
+temporal phase
+visual cortex
+image processing
+complex cells
+neural networks
+cat retinal
+receptive-field profile
+spatial frequencies
+lgn originates
+spatial tuning
+complex-cell model
+neural mechanisms
+retinal research
+simple cells
+suppressive fields
+striate cortex
+significant eigenvalues
+information transfer
+information maximization
+spike trains
+synaptic organization
+nonlinear phenomena
+separate excitatory
+nonlinear properties
+spatial overlap
+large ensembles
+spike-triggered average
+neuronal behavior
+visual areas
+neural function
+visual properties
+rapid sequences
+phase channels
+nonlinear filter
+opt soc
+linear filter
+gain factor
+high frequencies
+geniculate neurons
+elegant code
+previously unaccounted
+generally encouraging
+federal institute
+simple-cell summation
+deviate markedly
+lateral inhibition
+extrastriate areas
+idealized boxes
+fundamentally alter
+accommodated neatly
+v1 cells
+geniculate inputs
+visual neurosciences
+early vision
+naturalistic stimuli
+spatiotemporal elements
+higher gain
+recording techniques
+recorded spike
+spike rates
+weighted sum
+burst firing
+natural signals
+predictive modeling
+highly variable
+synaptic excitation
+spike-triggered covariance
+understanding v1
+v1 function
+simple outline
+simple components
+neural selectivity
+stimulus size
+tuning properties
+temporal integration
+nonlinear represent
+push­pull
+direction selectivity
+nonlinear subunits
+stimulus statistics
+model describes
+temporal contrast
+retinal studies
+retinal circuitry
+retinal illumination
+models describes
+hypothesis suggests
+retinal circuit
+contextual modulation
+spatial structure
+spike generator
+cell predicts
+
+10584 ·
+underlying biology
+underlying biophysical
+complex patterns
+maximum rate
+neurons falling
+future research
+additional investigation
+temporal adaptation
+relevant parameters
+synaptic integration
+early studies
+early days
+scene analysis
+experimental noise
+dashed line
+neuronal model
+neuronal circuit
+neuronal diversity
+neuronal models
+extrastriate area
+eye movements
+maximum likelihood
+horizontal features
+visual features
+retinal output
+stimulus class
+spatial profile
+simple experiments
+synaptic input
+visual pathway
+multiple contrasts
+grating sequences
+neuronal responses
+adapt based
+neuronal response
+free parameters
+gray circle
+cortical models
+cortical computation
+black curves
+neurophysiological mechanism
+temporal evolution
+computational modeling
+field dj
+suppressive field
+parallel processing
+white spatial
+regulates gain
+change dynamically
+white noise
+structure depends
+gabor functions
+spike rate
+polarity invariance
+curr biol 13
+higher-order correlations
+visual adaptation
+image contrast
+natural scenes
+cortical responses
+areas v1
+temporal responses
+quantitative model
+temporal response
+salamander retina
+neurons early
+response gain
+spike times
+intermediate size
+size adds
+stimulus selectivity
+synaptic explanation
+synaptic depression
+monkey v1
+black line
+spatial vision
+information needed
+complex cell
+previous statistics
+nonlinear model
+natural movie
+linear model
+natural stimulus
+nonlinear influences
+frankly nonlinear
+nonlinear summation
+parameters directly
+linear filters
+linear models
+linear operators
+model predicts
+frequency responses
+cognitive neurosciences
+horizontal connections
+powerful means
+local connections
+strategic position
+visual neuroscience
+visual sciences
+visual computation
+koniocellular cells
+nonlagged cells
+temporal nonlinearity
+simple cell
+cortical neurons
+mechanisms underlie
+dichoptic mechanisms
+visual stimuli
+temporal stimulation
+visual images
+linear response
+contrast sensitivities
+relevant stimulus
+image pixels
+image preceding
+excitatory tuning
+visual responses
+instantaneous input
+functional properties
+full model
+smooth function
+recovery function
+sigmoidal function
+contrastresponse function
+upper bound
+gillespie dc
+finite sample
+connection profiles
+unbiased sample
+contrast-dependent change
+thalamic circuitry
+intrinsic photosensitivity
+yield hodgkin
+simple-cell definition
+preddie dc
+functional organization
+nonspecific suppression
+high contrast
+promising parallel
+natural vision
+area v1
+spatial summation
+spatial scale
+spatial interaction
+spatial frequency-selective
+section describes
+amplify noise
+current research
+actual behavior
+cat-cam movie
+manner similar
+schematic shows
+cat v1
+functional architecture
+nonlinear neurons
+single model
+light statistics
+single valued
+single neurones
+single frame
+nonlinear inputs
+optimal architecture
+measured responses
+covariance analysis
+visual neurons
+spatial responses
+spatial response
+dark stimulus
+tractable model
+filtering models
+small bright
+2005 annual meeting
+awake animals
+prickaerts jh
+accepted oct
+computationally tractable
+substantially overrepresented
+modulatory terms
+baddeley rj
+strongly reduces
+attention modulates
+established models
+actions potentials
+tractable description
+smith gd
+red curves
+nonparametric models
+substantially worse
+repeated 20 times
+action potentials
+steady discharges
+cerebral cortex
+response rate
+neurophysiological experiments
+membrane potential
+vision res 24
+vision res 26
+vision res 22
+vision res 38
+vision res 37
+vision res 33
+vision res 16
+vision res 36
+vision res 20
+vision res 30
+vision res 42
+vision res 29
+velocity selectivity
+directional selectivity
+basic selectivity
+twodimensional stimuli
+bright stimuli
+simplified stimuli
+random-bar stimuli
+mammalian retina
+complex end
+complex situations
+stimulus energy
+stimulus presentation
+half-wave rectification
+high contrasts
+infinitely high
+neuron specifies
+neuron performs
+computer vision
+natural sequence
+natural videos
+natural sounds
+stimulus area
+neural comput 2
+neural comput 16
+neural comput 17
+neural correlate
+neural netw 17
+neural codes
+cat area 17
+10577­10597 · 10583
+
+complex stimuli
+complex stimuli
+refractory period
+cortical sensitivity
+complex images
+black box
+sensory input
+simple model
+inhibitory tuning
+simple end
+simple arithmetic
+natural stimuli
+measured eigenvectors
+natural images
+nonlinear interactions
+nonlinear transformation
+output signals
+stimulus power
+optimal stimulus
+simple stimuli
+neural responses
+fp model
+cell based
+including correlation
+nonlinear effects
+cellular biology
+inhibitory signals
+discharge patterns
+upper limit
+orientation tuning
+cell types
+transfer properties
+quantitative aspects
+arbitrary stimulus
+rectifying nonlinearity
+large stimuli
+predictive power
+closed-loop experiments
+visual perception
+dark adaptation
+predicting direction
+current models
+hear res 66
+early decades
+filter measurement
+filter estimates
+stimulus pattern
+stimulus contrast
+nonlinear contributions
+response properties
+orientation selectivity
+quantitative predictions
+v1 plays
+sensory neuroscience
+weights arranged
+free inspection
+center­surround
+forest [cat-cam
+computer graphics
+promising avenue
+citron mc
+contextual influences
+relative magnitudes
+linearly summing
+transmission
+powerful guide
+natural movies
+current responses
+spatial correlations
+spatial axis
+natural stimulation
+average response
+random stimuli
+neural activity
+nonlinear stages
+inhibitory areas
+intrinsic variability
+inhibitory phenomena
+dynamic nonlinearities
+v1 responses
+actual responses
+gray histograms
+linear predictions
+fairly easy
+experimental studies
+dark squares
+action potential
+gray box
+experimental protocol
+visual stages
+actual response
+cortical circuits
+cortical layers
+90 ° stc analysis
+stc analysis
+temporal decorrelation
+standard model
+standard models
+gold standard
+filter output
+dark stimuli
+visual stage
+cells remains
+explainable responses
+two-stage model
+energy model
+neural representation
+ten parallel
+likewise improve
+models make
+energy consumption
+intracellular recordings
+existing models
+existing studies
+spiking mechanism
+factor contributing
+depend critically
+intracellular studies
+energy budget
+california institute
+indeparameters depend
+simple rectification
+current level
+area stsa
+large classes
+computational subunits
+spiking mechanisms
+time-varying stimuli
+preferred stimuli
+quantitative approaches
+operate directly
+directly affect
+directly affects
+interpreted directly
+white-noise stimulus
+full-field stimulus
+stimulus optimization
+trary stimulus
+stimulus preceding
+stimulus sequence
+average activity
+functional model
+cat roaming
+functional models
+functional considerations
+individual spike
+spike train
+functional circuitry
+cell centre
+contrast adaptation
+pattern adaptation
+phase difference
+v1 neurons
+sensory neurons
+energy response
+dashed lines
+considerably
+
+higher
+optimal algorithm
+white box
+synaptic physiology
+research aimed
+white aj
+gabor patch
+black regions
+sensory inputs
+models based
+correlation procedure
+static nonlinearity
+early part
+successful fit
+predictive model
+predictive model ¨
+background rates
+predictive models
+linear operation
+explainable variance
+cell responses
+vertical features
+trigger features
+adjusted dynamically
+basic features
+spike response
+luminance modulation
+explainable correlation
+specific problems
+lnp model
+anatomical mechanisms
+arbitrary stimuli
+good theory
+drifting grating
+nonlinear neuron
+primate retina
+spike output
+higher-level vision
+stark contrast
+relative contrast
+contrast levels
+contrast influence
+contrast saturabe
+contrast varied
+contrast affects
+realistic pattern
+contrast nin
+switching contrast
+strange vision
+earlier stages
+neural coding
+remaining parameters
+visual neuron
+linear prediction
+neurophysiological recordings
+lgn occupies
+neurophysiological studies
+preferred orientation
+modulates orientation
+dramatic change
+change continuously
+typically steer
+typically endowed
+variable filter
+visual science
+complex network
+perceptual adaptation
+history-dependent adaptation
+excitatory drive
+divisive inhibition
+recent theoretical
+recent studies
+lgn responses
+specific dataset
+high luminance
+experimental test
+optimal orientation
+contextual effects
+similar effort
+similar approaches
+abscissa shows
+specific theory
+phase sensitivity
+single microelectrode
+excitatory response
+filter width
+computational model
+secondorder model
+model quality
+psft model
+model accounts
+stc model
+universal model
+model generates
+adequate model
+poor model
+convenient model
+astonishing outliers
+symbol represents
+ecological deviance
+growing clearer
+lewis jw
+gamlin pd
+chronic implants
+ann arbor
+easy rationalization
+subcortical structures
+lamb td
+elegant equations
+studies provide
+gaussian distribution
+intracortical origins
+stc identified
+biol cybern 43
+hodgkin-huxley equations
+binocular interaction
+movement orthogonal
+supervised training
+documents differences
+software toolbox
+depression leading
+unpublished observations
+closely matched
+yau kw
+wide exploration
+factors led
+photopic illuminance
+briefly reviewed
+biased methods
+kosslyn sm
+obstacles lie
+dot product
+werner js
+perceptual grouping
+previous studies
+exhibits mixed
+models share
+bright-dark border
+com-
+
+posed
+illustrious precedent
+small resemblance
+klein sa
+4 hz sequence
+threedimensional surfaces
+man-kit lam
+broad attributes
+doupe aj
+grating filters
+scaled version
+vaughn wj
+thorell lg
+continuously graded
+maunsell jhr
+least-square algorithms
+editorial pressures
+combinatorial explosion
+subsequent studies
+neuroscience 0270-6474/05/2510577-21$15
+relative magnitude
+vice versa
+smith vc
+united kingdom
+machens ck
+speaker addressing
+fix matters
+anderson js
+literal adherence
+approximately proportional
+thompson id
+incomplete reflection
+alonso jm
+2318 fillmore street
+revised models
+sejnowski tj
+grey matter
+tidy picture
+andolina im
+construct models
+barely affected
+wagner dn
+length summation
+reasonable job
+biased sampling
+kording kp
+short timescales
+liao hw
+cox cl
+bondarko vm
+murphy pc
+moving patterns
+computational studies
+surround affect
+kluwer academic/plenum
+dual modes
+neurotransmitter release
+sleeping animals
+main determinant
+thompson jk
+martin pr
+gauselman ve
+resting discharge
+relative importance
+frazor ra
+encourages investigators
+revised oct
+brening rk
+corticocortical communication
+off-center versions
+equal footing
+wheat hs
+barlow hb
+structural constraint
+gaussian window
+oakely nm
+prolonged exposure
+approximately half
+baker ge
+weakly affected
+developmental biology
+tsherbach ta
+correspond nicely
+walt disney
+lookup table
+fruitful marriage
+san francisco
+phd thesis
+unanticipated influence
+insights gained
+bradford books
+peterson bb
+popular conception
+degrade quickly
+bottom row
+albeit imperfectly
+featural configurations
+basic models
+herz av
+chino ym
+biol cybern 90
+robinson fr
+reasonable predictors
+hawken mj
+notable differences
+perrett di
+ulinski ps
+chalupa lm
+przybyszewski aw
+gnadt jw
+plos biol 3
+osherson dn
+single neuron
+peterson mr
+parameterized coherently
+suppressive influences
+saving device
+single-unit recordings
+broadly distributed
+revised conception
+repeated trials
+petkov ci
+singh nc
+wu mc
+warland dk
+contrast normalization
+satisfactory grasp
+criticisms levied
+efficiency
+conveniently proven
+turtle cones
+hunt rh
+stacked representations
+contrast level
+sommer ft
+essential determinants
+efficiently coded
+matteo@ski
+knight bw
+test stimulus
+motion selectivity
+lgn neurons
+grating stimuli
+stimuli lying
+surrounding stimuli
+simpler stimuli
+biased stimuli
+nonoptimal stimuli
+spike threshold
+functional characteristics
+neuron responds
+neuron compute
+model responses
+integrated responses
+observed responses
+electrical responses
+nonlagged responses
+burst responses
+phase-independent responses
+grating responses
+phase-sensitive responses
+variance adaptation
+overt response
+response amplitude
+relative response
+response versus
+significant eigenvectors
+accurate understanding
+nonlinearities relevant
+light adaptation
+nat neurosci
+nat neurosci 8
+nat neurosci 7
+simple first-
+simple experiment
+quantitatively predicting
+determine precisely
+longer adapt
+low contrast
+surround suppression
+poisson output
+crossorientation suppression
+interocular suppression
+area v4
+feature attention
+important consideration
+local region
+standard theory
+sinusoidal gratings
+random gratings
+successfully predict
+area shown
+recent past
+subtle effect
+large literature
+100 ms presentation
+specialized properties
+predicting responses
+directly related
+derived directly
+dark bars
+neural science
+expansive nonlinearity
+quadratic nonlinearity
+phase-invariance nonlinearity
+major nonlinearity
+normalization model
+contrast polarity
+ultimate validation
+divisive stages
+measures suggest
+total variance
+predicted fairly
+studying neurons
+neurons succeed
+direction-selective neurons
+active neurons
+recent work
+predict responses
+lgn presented
+sparsify activity
+remote stimulation
+compare models
+maintained activity
+triggered correlation
+light fluctuation
+antidromic stimulation
+correlation coefficient
+orientation detectors
+goal-related activity
+suppressive eigenvectors
+full complexity
+10 ms period
+complicated model
+lesica na
+regularization procedure
+bar stands
+/parvocellular type
+past photoreception
+/magnocellular type
+central goal
+absolute difference
+complicated models
+small range
+past decade
+scale bar
+high-frequency range
+components figure 3
+response normalization
+response variance
+complicated stimuli
+adaptation effects
+optimal luminance
+output nonlinearity
+large effect
+models attempt
+compact answer
+compact description
+intensive representation
+compact descriptions
+previous work
+halfwave rectification
+qualitative mismatch
+v1 neuron
+contrast saturation
+contrast sensitivity
+rigorous test
+ultimate test
+test models
+termed `simple
+typically characterized
+typically explain
+cognitive science
+test stimuli
+vertical interactions
+digitized photograph
+attention reveals
+measurements presented
+negative polarities
+axis perpendicular
+pillow jw
+respond differently
+unresponsive regions
+burst spikes
+covariance matrix
+threshold models
+efficient framework
+variable filters
+proper application
+negative values
+models presented
+stanley gb
+light intensity
+distinct excitatory
+recent years
+current study
+drifting gratings
+stimulus context
+stimulus form
+gray background
+neural basis
+negative response
+measurement variability
+systematic variability
+quantifying variability
+gabor fits
+prediction agreed
+cat retina
+filter elongated
+typically include
+recent luminance
+contrast-normalization model
+influential model
+nice feature
+positive values
+wu m-
+pixel intensities
+models derived
+sherman sm
+invaluable guide
+easily incorporated
+successfully describe
+vast majority
+sensitivity regulation
+weigh contributions
+sutter ee
+sutter ml
+mazer ja
+suddenly increased
+sparse coding
+prominent feature
+martinez lm
+broad majority
+dacey dm
+lee ts
+factors influencing
+feature exhibits
+berry mj
+section asks
+convincingly shown
+extracellular recording
+technical factors
+lee bb
+massively influential
+computations performed
+predictable features
+proc
+response variability
+inhibitory interactions
+inhibitory regions
+100 ms bins
+previous theory
+theory ignores
+computational theory
+model performance
+real-time performance
+nlsi framework
+modest performance
+reid rc
+prediction based
+threshold nonlinearity
+model includes
+general model
+neurophysiological data
+pattern masking
+includes solely
+earliest stages
+general outlines
+phase advance
+subsequent stages
+fitting procedure
+neurons involved
+neurons respond
+characterizing neurons
+positive response
+response saturation
+model predictions
+poor predictions
+luminance values
+sepa- luminance
+complete model
+troy jb
+connor kn
+connor ce
+one-dimensional problem
+four-part definition
+slower change
+arithmetic remains
+hirsch ja
+marmarelis vz
+subsequent stage
+marmarelis pz
+easy problem
+complete description
+significant progress
+important factors
+important aspects
+border predicted
+energy
+4 figure 6
+spiking evoked
+sine-wave gratings
+stationarymodulated gratings
+cartesian gratings
+moving stimuli
+lgn neuron
+soc lond
+recent approach
+current estimate
+vis neurosci 7
+vis neurosci 2
+vis neurosci 14
+vis neurosci 9
+vis neurosci 4
+vis neurosci 6
+vis neurosci 3
+vis neurosci 16
+pixel intensity
+integration time
+spikes generated
+qualitative characteristics
+filter outputs
+notable nonlinearities
+inherent nonlinearities
+validation dataset
+responses predicted
+spiking responses
+predicted responses
+understand computation
+predicted response
+constant contrast
+data acquired
+published data
+model specification
+distinct classes
+pollen da
+bonds ab
+studied extensively
+perigeniculate interneurons
+schumer ra
+computational modelers
+key words
+past 40 years
+complications arise
+vivo electrophysiology
+classification scheme
+postnatal development
+davis tl
+eigenvector contrast
+vaney di
+chisum hj
+linden jf
+previous sections
+ramcharan ej
+reich ds
+valid reasons
+error bar
+fuortes mgf
+uzzell vj
+sakai hm
+explicitly represents
+agreed measure
+taylor wr
+solomon sg
+passaglia cl
+smirnakis sm
+precise form
+saul ab
+critical link
+baylor da
+hamilton db
+eggermont jj
+models fail
+berson dm
+requires knowledge
+proven impossible
+recover models
+lankheet mj
+larger surround
+olveczky bp
+observations demonstrate
+subsequent sections
+preexisting notions
+stc method
+open mind
+perfect substrate
+glezer vd
+graham nvs
+cornea corresponds
+approach posits
+digitized photographs
+2005 copyright © 2005 society
+tobin ea
+constraints provided
+biased theories
+watson ab
+guillery rw
+rodieck rw
+mata ml
+poisson process
+daugman jg
+alternative approach
+consistently
+varied population
+alternative method
+strongly modulated
+entire population
+schein sj
+formidable challenge
+solomon ja
+laughlin sb
+completely missed
+circadian photoreceptors
+kuffler sw
+approximately matches
+jakiela hg
+objective method
+close proximity
+cleland bg
+10577­10597 · 10597 wielaard dj
+andrews bw
+network nonlinearity
+significant failure
+10 ms range
+larger stimuli
+stimuli encountered
+heeger dj
+directly mapped
+output nonlinearities
+significant eigenvector
+important nonlinearities
+neuron give
+movement-sensitive neuron
+problematic neuron
+simoncelli ep
+neuron failed
+individual neuron
+decreased responses
+transient responses
+robson jg
+trends neurosci 26
+comput neurosci 17
+trends neurosci 24
+spiking activity
+movshon ja
+types considered
+recent study
+albrecht dg
+atick jj
+efficient coding
+important form
+demb jb
+low luminance
+recent advances
+work remains
+time courses
+group tested
+time constraints
+models account
+tested quantitatively
+remained constant
+geisler ws
+confuse failure
+time scale
+aleasily extended
+response dynamics
+tolhurst dj
+spot intensity
+gabor fit
+general characteristics
+deangelis gc
+gallant discusses
+gallant jl
+dean af
+correlation coefficients
+perfect correlation
+increase responses
+response time
+map
+confused
+
+figure 4
+top row
+bergen jr
+masland rh
+arbitrary combination
+accurate picture
+gardner jl
+half-squaring achieves
+40% figure represents
+stoner gr
+albright td
+fundamental linearity
+priebe nj
+species difference
+shapley rm
+width 5 ms
+reduced stimuli
+olshausen ba
+olshausen argues
+stimulus space
+baccus sa
+palmer la
+work arithmetically
+produce
+victor jd
+fitting algorithms
+revealed
+end result
+ringach dl
+wiesel tn
+result confirms
+follow hubel
+theunissen fe
+hubel dh
+stc result
+model captures
+views expressed
+lehky sr
+freed ma
+500 photographs presented
+simply running
+quadrature pair
+y-type
+cutoff point
+efficient method
+fire spikes
+starting point
+dong dw
+knierim jj
+common ideas
+benardete ea
+rust nc
+opposite polarity
+possibly obtain
+step response
+inhibitory parts
+control
+variance captured
+surround contribution
+kim kj
+emerson rc
+chichilnisky ej
+remaining data
+explain data
+artifact related
+freeman aw
+real experiment
+huxley characterized
+real world
+commonly referred
+closely resemble
+rately modeled
+freeman tc
+david sv
+zaghloul ka
+gazzaniga ms
+100 ms flashes
+v4 neuron
+review invoked
+major question
+review aims
+successfully capture
+wide agreement
+theory bias
+major role
+gen physiol 40
+gen physiol 105
+gen physiol 74
+gen physiol 72
+nlsi approach
+reduced set
+mante formalizes
+2 valerio mante
+be-
+
+carandini
+matteo carandini
+jones jp
+prediction error
+clear definition
+complex-cell
+fields
+information
+3 yang dan
+flashed gratings
+neurons estimate
+time shown
+increase sensitivity
+easily extended
+v4 study
+pointwise nonlinearities
+eigenvector shown
+variance explained
+exhibit
+simple-cell
+brodie se
+institute
+context encountered
+commonly approximated
+ordinate plots
+developed
+yield
+crucial elements
+approaches differ
+strictly
+partly
+task
+ln
+fixed
+theories emerge
+evoke
+promise
+limited amount
+moving spots
+background motion
+macaque
+limited number
+retinal
+describes
+luminance step
+trains
+underlying
+wiesel definition
+estimated
+viewing
+eye
+timing precision
+laboratory
+modeling
+temporal
+field
+gain
+driving
+rates
+significantly
+accurately
+present scope
+clear point
+meaningful comparison
+system
+statistics
+nonlinear
+linear
+locally
+driven
+selective
+primate
+horizontal
+encoding
+presenting
+predicts 40%
+predicts
+demonstrated
+visual
+
+10578 ·
+cells
+mechanisms
+conditions
+hodgkin al
+image
+linearity made
+understanding
+function
+auditory
+characterization
+class
+thalamic
+measured
+scene
+spatial
+shows
+similar
+functions
+frequencies
+including
+tuning
+rate
+single
+processing
+humphrey al
+straightforward
+feedback
+calculated
+fitted
+terms
+substantially
+measuring
+bimodal
+conventional
+resulting
+lower
+assumptions
+mathematically
+approximating
+cortex
+selectivity
+complex
+high
+natural
+parameters
+depends
+simple
+direction
+classical
+large
+fp
+reduce
+cellular
+suggests
+areas
+properties
+brain
+organization
+experiments
+monkey
+current
+average
+sum
+average 10%
+york university
+filter
+v1
+procedure
+random
+potentially
+identify
+lies
+weights
+evokes
+led
+precisely
+recently
+center
+subthreshold
+structure
+static
+fairly
+subunit
+analysis
+modulates
+time-varying
+improve
+make
+excitation
+push
+depend
+requires
+represent
+presentation
+agreed
+attention
+rapid
+area 17
+subunits
+behavior
+movie
+stimulus
+cat
+spike
+cell
+bound
+white
+research
+higher
+works
+based
+types
+features
+red
+lnp
+suggest
+contrast [
+vision
+contrast
+pattern
+vis 3
+vis 2
+input
+lgn
+change
+typically
+typically 5­10%
+adaptation
+excitatory
+recent
+10577­10597 · 10587
+
+model
+model
+circuitry
+magnocellular
+reported
+obtained
+changed
+ignoring
+total
+description
+operate
+vary
+affect
+maximal
+represents
+reasonable
+approximately
+exploring
+reconstruction
+timescale
+testable
+basic
+applied
+characterize
+independent
+previous
+obvious
+bottom
+surround
+models
+neuroscience
+box
+poisson
+studies
+insights
+values
+divided
+provide
+differs
+offers
+realistic
+revised
+recordings
+place
+fast
+burst
+fails
+developing
+grating
+accounts
+included
+attributable
+spontaneous
+numbers
+fundamental
+filters
+squaring
+transfer
+
+10594 ·
+stc
+intensities
+deviations
+evoked
+multiplying
+questions
+methods
+summation
+identification
+subregions
+influence
+arithmetic
+required
+giving
+means
+simpler
+overfitting
+identified
+prevailing
+facilitate
+simulated
+amplitude
+key
+psft
+equal
+succeed
+suggested
+contribute
+voltage
+smith
+sequence
+limulus
+descriptions
+stimuli
+images
+responses
+response
+predicting
+output
+suppression
+important
+predict
+inhibitory
+intensity
+nonlinearity
+movies
+normalization
+level
+validation
+variance
+neurons
+correlation
+stimulation
+orientation
+compare
+activity
+eigenvectors
+light
+inputs
+complicated
+type
+classes
+bar
+difference
+past
+range
+inhibition
+limited
+work
+attempt
+generated
+rectification
+low
+set
+compact
+representation
+qualitative
+test
+negative
+respond
+transformation
+characterizing
+variable
+application
+pillow
+axis
+efficient
+threshold
+stanley
+problems
+polarity
+presented
+spikes
+measures
+10577­10597 characteristics
+involved
+regions
+interactions
+photograph
+correlations
+effects
+perception
+variability
+v4
+distinct
+feature
+coding
+explain
+sensitivity
+wu
+tarzan
+sherman
+mazer
+width
+appears
+commonly
+positive
+definitions
+years
+bursts
+shown
+derived
+contrast-normalization
+show
+berry
+aspects
+rules
+dimensions
+describe
+section
+sutter
+wiener
+easily
+characterized
+relationship
+dacey
+recording
+influential
+guide
+real
+saturation
+shape
+majority
+remaining
+martinez
+elements
+contributions
+lee
+computations
+pixel
+related
+error
+tend
+layer
+dataset
+factors
+42 ms
+50 ms
+100 ms
+10 ­20 ms
+20 ms
+10 ­100 ms
+theory
+nlsi
+performance
+reid
+stages
+general
+includes
+network 12
+network 14
+network
+network 15
+network 6
+predictions
+luminance
+needed
+hirsch
+marmarelis
+connor
+troy
+determine
+complete
+definition
+hodgkin
+bars
+moving
+remains
+lines
+stage
+problem
+spiking
+predicted
+gratings
+results
+include
+nonlinearities
+understand
+data
+tobin
+specification
+notions
+classification
+modulated
+theories
+motion
+eggermont
+kuffler
+baylor
+development
+lesica
+olveczky
+solomon
+artifact
+sakai
+watson
+saul
+approach
+layers
+form
+vivo
+complications
+abscissa
+progress
+slower
+studied
+anatomical
+scope
+effort
+regularization
+bonds
+se
+decreased
+decades
+matches
+hamilton
+guillery
+investigation
+impossible
+meaningful
+coefficients
+population
+require
+recover
+opposite
+gazzaniga
+modelers
+laughlin
+explicitly
+circuits
+reveals
+fuortes
+world
+provided
+passaglia
+taylor
+daugman
+link
+smirnakis
+40 ­50 interneurons
+schumer
+method
+andrews
+linden
+species
+referred
+operation
+missed
+differ
+passed
+vaney
+first-
+clear
+predictable
+arithmetically
+bias
+close
+cleland
+fire
+chisum
+encountered
+open
+literature
+pollen
+emerge
+uzzell
+ramcharan
+pointwise
+essential
+plots
+sections
+graham
+adelson
+rodieck
+jakiela
+glezer
+reich
+wielaard
+lankheet
+experiment
+physiology
+larger
+3­ 4 photoreceptors
+transient
+huxley
+challenge
+decorrelation
+process
+fits
+timescales
+society
+brodie
+matrix
+mata
+spot
+approaches
+berson
+davis
+humphrey
+ordinate
+flashed
+flashes
+fail
+schein
+photographs
+words
+timing
+masking
+perfect
+adjusted
+context
+reasons
+corresponds
+specialized
+microelectrode
+demonstrate
+heeger
+retina
+neuron 45
+neuron 47
+simoncelli
+neuron 33
+neuron 35
+neuron 40
+neuron 46
+neuron 30
+neuron 37
+neuron 36
+neuron 26
+neuron 27
+neuron
+prediction
+robson
+dynamics
+neurosci 24
+neurosci 25
+neurosci 20
+neurosci 23
+neurosci 8
+neurosci 12
+neurosci 21
+neurosci 19
+neurosci
+neurosci 18
+neurosci 22
+neurosci 16
+neurosci 17
+movshon
+background
+science 182
+atick
+albrecht
+science 287
+science 264
+science 262
+demb
+consistent
+steps
+failure
+time
+increase
+extended
+tested
+constant
+account
+geisler
+computed
+effect
+tolhurst
+eigenvector
+study
+deangelis
+gallant
+dean
+summing
+crucial
+top
+advances
+half-squaring
+longer
+albright
+approximated
+suggesting
+priebe
+captured
+reduced
+masland
+elongated
+goal
+termed
+parts
+part
+stoner
+precision
+failures
+gardner
+10577­10597 · 10579
+
+figure 2
+bergen
+spots
+figure 1
+figure 2
+figure 3
+figure 4
+figure 5
+figure 7
+accurate
+increased
+linearity
+shapley
+olshausen
+baccus
+palmer
+victor
+fitting
+cambridge
+step
+made
+wiesel
+result
+hubel
+ringach
+theunissen
+lehky
+point 4
+point 1
+complexity
+basis
+ma
+california
+advance
+pair
+considered
+mapped
+region
+captures
+rust
+generate
+dong
+common
+point
+california 94720
+expressed
+california 94115
+university
+measure
+knowledge
+present
+benardete
+obtain
+simply
+knierim
+estimate
+contribution
+kim
+outputs
+comparison
+chichilnisky
+emerson
+fit
+explained
+combination
+amount
+resemble
+freeman
+modeled
+1 david
+david
+zaghloul
+role
+review
+agreement
+question
+capture
+physiol
+mante
+lond
+carandini
+10577­10597
+
+carandini
+jones
+york 10003
+1
+york
+number
+dan
+space
+al
+100 spikes/
+consists
+calculate
+paris
+segments
+similarity
+rise
+figs
+bringing
+school
+sillito
+convenience
+sengpiel
+guiding
+dawis
+evaluating
+infancy
+prenger
+chader
+blue
+errors
+keysers
+cheng
+tweaking
+1997b
+1997a
+guido
+harrad
+interpret
+distinctness
+m-sequences
+sheppard
+plenum
+brought
+weliky
+conclusions
+xiao
+ozaki
+room
+117 spikes/
+top-
+determining
+fiorentini
+wang
+mumford
+organized
+discovery
+preferably
+elicited
+jagadeesh
+revisit
+symposium
+shortens
+stimdepends
+sato
+indi-
+bolomon
+becker
+effective
+order
+interpretation
+neurophysiol 69
+satisfied
+activating
+fig
+overcome
+shimojo
+modification
+bread
+neuroinformatics
+0 spikes/
+series
+encourage
+surprise
+independence
+r0
+recovering
+created
+hyperbolic
+hopeless
+foldiak
+similarly
+recruiting
+bonin
+percentage
+discussion
+simulates
+centered
+tool
+binned
+project
+borst
+neurophysiologists
+tion
+enables
+bridge
+3726-05
+forced
+strength
+sensitiviy
+correlating
+consistency
+anatomy
+extending
+involving
+keat
+assessed
+ascends
+doi
+don
+accounted
+principle
+tens
+non-
+
+10580 ·
+bair
+mclean
+lennie
+hypothesizing
+dr
+fair
+observes
+testing
+subject
+recontrol
+sorts
+neurophysiol 74
+nature
+constitute 50%
+extent
+clues
+essentially
+han
+faces
+einhauser
+sinusoids
+guaranteed
+height
+weiss
+naka
+legend
+extraction
+expected
+suppress
+3department
+cartoons
+enroth-cugell
+originate
+applies
+surprises
+ii
+perform
+durand
+mukherjee
+pp 229 ­238
+supposing
+angle
+cycle
+butter
+academic
+sclar
+proposed
+brenner
+ommatidia
+neurophysiol 78
+neurophysiol 77
+modulate
+ideal
+transformed
+fares
+willmore
+lower-level
+omission
+yeh
+judge
+mit
+half-squares
+sosition
+10 presentations
+konig
+shapes
+pp 263­346
+lampl
+non-poisson
+rakshit
+operates
+misleading
+efforts
+slightly
+presence
+obtaining
+uncontrolled
+1990s
+suffice
+approximate
+fraction
+1973b
+pasadena
+head
+attempted
+sustained
+true
+minisymposium
+understood
+panels
+promises
+computing
+evidence
+accounting
+knowable
+constructed
+reality
+interested
+realize
+ferrets
+sobering
+concept
+focus
+parvocellular
+inverse
+passage
+finally
+meister
+division
+advantage
+one-
+neurophysiol 68
+orientations
+purpura 2004
+neurophysiol 64
+neurophysiol 66
+oftentimes
+standards
+leave
+solved
+7center
+cross-correlate
+findings
+sign
+cost
+shared
+subdivided
+exceptions
+pp 313­326
+plotted
+hsu
+pokorny
+thrun
+shelley
+carterette
+y-cells
+sharpee
+opposed
+kayser
+cases
+capturing
+ferster
+modified
+cai
+uli
+claim
+sense
+peters
+saito
+topic
+occur
+soodak
+fortunately
+natural-
+paninski
+1993a
+boston
+neurophysiol 16
+vidually
+sd
+tranchina
+acknowledge
+constitutes
+correspondence
+conveying
+tonic
+nature 436
+nature 433
+con-
+
+10588 ·
+chander
+zurich
+neurophysiol 57
+begun
+bolt-
+neurophysiol 58
+watanabe
+squared
+extrapolate
+emerged
+correct
+pp 217­269
+boahen
+org
+care
+sadakane
+invitation
+2005b
+origin
+symmetry
+omitted
+lau
+summarize
+facilitation
+necessarily
+silent
+1c
+anesthetized
+mechler
+on-
+derrington
+attwell
+eliminated
+subfields
+computes
+10 ­20 spikes/
+impinge
+1/
+inferring
+correction
+locations
+1992a
+1992b
+speakers
+isolate
+note
+resembling
+begin
+friedman
+knew
+importantly
+brisk-transient
+surprising
+properly
+segregation
+osborne
+discovered
+proportion
+absent
+primates
+summary
+london
+nature 423
+detect
+ways
+affecting
+arrival
+fitzhugh
+heterogeneous
+spare
+naito
+neurophysiol 45
+analyzed
+neurophysiol 48
+suppressed
+hochstein
+successes
+neurophysiol 46
+solving
+color
+neurophysiol 70
+considers
+nicole
+vinje
+6c
+gist
+designed
+diffuse
+instantiates
+case
+amend
+natsmall
+strait
+redlich
+presentations
+technology
+sparseness
+events
+sterling
+pp 327­338
+edges
+expression
+solve
+laboratories
+dimension
+edwards
+oxford
+aspect
+summed
+mimicking
+wassle
+thinking
+improvement
+obermeyer
+identifying
+revision
+stationary
+seconds
+biases
+nature 386
+conducting
+acm
+greatly
+act
+organizers
+kiper
+inclusion
+shapstrong
+theoretically
+ozeki
+weyand
+cats
+mammals
+convolving
+datasets
+embedded
+bandwidths
+char-
+
+10592 ·
+distance
+schutze
+80 spikes/
+ideally
+asymmetry
+event
+neurophysiol 90
+neurophysiol 92
+zrenner
+polar
+4molecular
+suited
+pool
+quantify
+irradiance
+pointing
+lack
+1978a
+1978b
+generalize
+messy
+reluctant
+caveats
+hunting
+undershoot
+decide
+akasaki
+eds
+evaluation
+schwartz
+6 jack
+design
+pass
+darkness
+neurocomputing 52
+haarsma
+hamamoto
+berkeley
+directions
+breakdown
+corrects
+half-squared
+trained
+1 jonathan
+establish
+corrected
+impulse
+equation
+sudden
+learn
+hosoya
+history
+ironic
+michigan 48105
+reinagel
+simplicity
+variant
+tadmor
+deboer
+neurophysiol 83
+discover
+hierarchy
+essence
+held
+existence
+confounded
+rapidly
+neurophysiol 94
+absence
+neurophysiol 67
+resolve
+motivated
+reflected
+10577­10597 · 10585
+
+smyth
+yt
+x-cells
+found
+weight
+dichotomy
+hard
+investigated
+yoshida
+expect
+unknown
+hayden
+issue
+plotting
+rieke
+story
+disposition
+imagine
+beginning
+computers
+conducted
+experimenter
+embraces
+feel
+00/0
+assumption
+statement
+molecular
+signaling
+kremers
+mclaughlin
+depolarization
+56 cd/
+ruttiger
+kara
+lagged
+severe
+onset
+extracted
+build
+play
+walker
+physics
+converge
+relation
+impact
+hope
+bottom-
+guided
+generalizations
+biophysics
+rest
+3a
+investigate
+achieved
+tended
+sem
+felsen
+knowing
+1523/jneurosci
+betsch
+distinguish
+ratliff
+collaborators
+duong
+sensitive
+address
+regulated
+complication
+strategy
+reduction
+collected
+evaluated
+replaced
+fiser
+reliably
+widely
+sums
+pp 1­70
+moment
+traditionally
+purpose
+robust
+things
+experimentalists
+sahani
+sinauer
+source
+location
+clamping
+bin
+werblin
+interestingly
+ignore
+flux
+translated
+clipping
+anzai
+nonetheless
+describing
+marcus
+investigations
+viewpoints
+e342
+served
+obscured
+predictability
+timecourse
+long
+handbook
+analyze
+authored
+insensitivity
+sun
+intuitive
+fukada
+called
+defined
+corners
+fixing
+points
+enquired
+neurophysiology
+explaining
+prepared
+lens
+meaning
+veritical
+allowing
+perspective--statistics
+departments
+notion
+inaccuracy
+avoid
+illustrated
+phenomenon
+theorist
+senn
+e-mail
+helps
+stable
+indicating
+inject
+probe
+telling
+categories
+vol 13
+limitations
+zj
+today
+neurophysiol 76
+3b
+degree
+jointly
+explore
+focused
+receive
+opinion
+implement
+composed
+examining
+addressed
+elucidated
+apply
+arbial
+calculation
+depicted
+typical
+formally
+roska
+normalized
+touryan
+november 16
+effectively
+averaged
+pillai
+advancement
+sought
+holds
+olshavsen
+ohzawa
+monoptic
+move
+neuroanatomy
+shimegi
+400 spikes/
+nakayama
+inconsistencies
+defining
+mini-symposium
+practice
+continuum
+rinzel
+edin
+truth
+subset
+variety
+maffei
+pendent
+deprived
+fitzpatrick
+explored
+repeats
+stimulate
+shoehorn
+1993b
+demonstrating
+publication
+relations
+ed 5
+ed 3
+completed
+pp 353­365
+dependent
+isolation
+purpura
+lorenceau
+collecting
+sen
+constrained
+apparently
+elaborations
+kittens
+instance
+kaplan
+accuracy
+optometry
+pp 401­ 443
+1973a
+proceedings
+pictures
+constrain
+fact
+goals
+supported
+convergence
+bisti
+kuyper
+thousands
+pointed
+achieve
+antagonism
+michigan
+ophthalmology
+4 bruno
+calling
+proponents
+view
+strengthened
+portend
+attempting
+missing
+segment
+invariant
+superpodriven
+ability
+boloori
+derive
+10577­10597 · 10577
+
+mini-symposium
+instant
+taking
+nature 410
+attributed
+beliefs
+passing
+desimone
+enrothcugell
+unclear
+conclude
+removal
+ca
+teasing
+li
+addition
+5psychology
+blakemore
+reclassified
+ca 94115
+appearance
+1 spike/
+surprisingly
+examined
+optimistic
+progressing
+largest
+difficult
+http
+object
+finds
+thought
+vorobyov
+comparisons
+arising
+bialek
+capabilities
+clipped
+resolved
+tests
+press
+neurophysiol 93
+success
+alternatively
+simple-
+exceed
+searching
+orientation-selective
+//strfpak
+pp 301­308
+sunderland
+projection
+assuming
+smyth
+inaccurate
+reaching
+journal
+worthy
+widespread
+extension
+introduces
+2departments
+pergamon
+interdependence
+10577­10597 prenger
+bursting
+overestimate
+ed
+troubling
+emphasis
+x-
+evident
+recognize
+irritation
+calibration
+details
+conclusion
+repeat
+emerges
+searches
+fregnac
+portion
+determination
+8621­ 8644
+591­ 611
+1910 ­1920
+344
+2510 ­2519
+294
+290
+275­298
+100
+97
+1991
+1990
+1993
+1992
+1995
+1997
+1996
+1999
+1998
+559
+107­116
+40%
+404
+1333­1336
+379 ­ 414
+391
+749 ­754
+260 ­276
+535­553
+247
+242
+159 ­178
+159 ­179
+177­201
+90° 90°
+683­702
+1968
+1964
+1966
+1962
+439 ­ 440
+635­ 646
+2533­2561
+547­583
+2718 ­2739
+107­120
+37­ 68
+1428 ­1438
+33­ 65
+04
+589 ­596
+1645­1650
+384
+7305­7323
+6394 ­ 6400
+1222­1243
+160
+10586 ·
+308 ­320
+531­546
+311­326
+607­ 620
+1979
+1978
+1976
+1975
+1974
+1973
+1972
+80%
+2005 · 25
+9945­9960
+675­ 679
+219 ­240
+2401­2417
+]
+7447­7454
+759 ­771
+338 ­349
+199 ­213
+10577­10597 · 10581
+10577­10597 · 10589
+759 ­791
+795­ 814
+703­718
+223­250
+909 ­919
+1118 ­1135
+470 ­ 484
+2315­2331
+0
+1994
+781­783
+1187­1211
+6991­7006
+803­ 817
+663­ 679
+265­284
+271­309
+302
+588 ­ 610
+[
+1885­1898
+913­931
+9904 ­9916
+1015­1027
+860 ­ 868
+119 ­135
+2379 ­2394
+95 0
+1
+1173­1184
+10577­10597 · 10593
+10577­10597 · 10591
+148
+553­577
+781­791
+19 ­25
+1957
+1953
+1959
+2649 ­2660
+71­77
+1045­1061
+100%
+267­288
+514
+1241­1250
+79 ­99
+2
+1193­1216
+9517­9528
+11
+10
+167­203
+2067­2080
+695­702
+401­ 408
+172
+1113­1122
+835­ 868
+143­151
+287­299
+1091­1117
+9445­9454
+3
+20
+3568 ­3581
+1172­1180
+681­ 693
+1036 ­1038
+10731­10740
+63
+500
+53­77
+409
+421­ 428
+961­980
+6°
+49 ­72
+69 ­73
+545­559
+49 ­79
+2904 ­2915
+391­ 408
+239 ­263
+206 ­224
+198
+4
+17­38
+12­24
+1115­1121
+109 ­115
+141­161
+161­179
+1133­1145
+10596 ·
+60%
+1­10
+5
+144 ­163
+493­ 497
+41­55
+41­50
+279 ­284
+289 ­316
+90°
+579 ­588
+1273­1276
+35­ 49
+4746 ­ 4759
+431­ 436
+305­325
+5411­5416
+85%
+6
+12236 ­12241
+85°
+1665­1699
+517­522
+780 ­789
+·
+91­109
+3°
+47­56
+2°
+7
+217­237
+5794 ­5803
+284 ­299
+565­571
+2548 ­2557
+187
+219 ­246
+996 ­998
+357
+106 ­154
+73
+1017­1033
+513­526
+181­197
+8
+583­587
+529
+505­529
+481­ 487
+314 ­320
+285
+32
+30
+9
+847­ 856
+3351­3362
+945­956
+379 ­385
+445­ 454
+157­170
+427­ 443
+747­757
+2002
+2003
+2000
+2001
+2004
+2005
+10053­10065
+31
+1782­1786
+255­270
+355­368
+263­274
+582­588
+233
+743­761
+163­175
+163­176
+549 ­564
+2379 ­2391
+75­93
+81
+383­390
+63­ 69
+1983
+318
+60 ­ 80%
+9756 ­9767
+574 ­591
+637­ 643
+2836 ­2841
+984
+1434 ­1448
+339 ­379
+386
+561­580
+10811­10818
+10582 ·
+1153­1171
+453­ 474
+2645­2654
+3201­3214
+1131­1139
+10577­10597 · 10595
+35%
+438 ­ 443
+372­379
+283
+287
+262
+5203­5211
+1901­1904
+8974 ­ 8979
+1986
+1987
+1984
+1985
+1982
+1980
+1981
+*
+1988
+1989
+122­126
+919 ­928
+1506 ­1516
+46
+47
+293­309
+379 ­ 400

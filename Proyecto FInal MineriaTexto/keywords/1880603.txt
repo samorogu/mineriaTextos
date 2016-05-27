@@ -1,0 +1,991 @@
+Agencourt Bioscience
+ARTICLES Evolution
+Lokyitsang10
+remarkable
+similarity
+particular
+resistance
+BLASTER-TX
+morphology
+false-discovery-rate-corrected Mann­Whitney
+phylogenetic framework
+Hydrolase
+neighbourjoining
+Vicario81
+laboratory-induced
+Annotation Coordination
+Baldwin10
+non-synonymous substitution
+Academico
+single-genome
+environment
+tissue-specific
+proteincoding sequences
+analogous
+heterogeneity
+Embryonic development
+derivative metabolic
+structure development
+Cheshatsang10
+Beltsville
+downstream
+transposon
+Alvarez10
+frequency distribution
+96European Bioinformatics
+Anderson21
+synonymous divergence
+33Laboratory
+Yamamoto99
+nucleolar
+Abdulkadir10
+mis-annotated
+Schaeffer
+Validation
+61Department
+Assemblers
+Tecnologie Biomediche
+Bachantsang10
+Schaeffer20
+secondary assemblies
+transmission
+applicable
+Universitat
+over-representation
+postzygotic reproductive
+Pollard14 Analysis/Writing
+inversions
+Exonerate24
+SPS2129,130
+inspection
+stem-loop structure
+Batzoglou
+singlecopy
+Biotechnology Information
+codon-based likelihood
+species-restricted
+repetitive
+Hollinger10
+prediction
+Arguello23
+Godfrey40
+Kulathinal
+unprecedented statistical
+perspective
+biological significance
+Doricent10
+reconciliation
+melanogaster homologue
+Virtually
+Dhargay10
+specification
+structure Coarse-level
+Schlenke89
+Informatics
+Freyhult22
+Microbiologia
+Synpipe32
+non-proteincoding
+specialist
+segmentation
+detoxification-gene
+respectively
+component
+reconciled consensus
+Raghuraman10
+secondary structures
+30BioMolecular Engineering
+protection
+illustration
+separation
+Makalowski
+oxidative
+Bioengineering
+Distribution
+transport Carbohydrate
+detoxification
+physiology
+recessive
+illegitimate recombination
+chemoreception
+respiration
+noticeable
+Aftuck10
+identifiable
+birth-and-death
+Repetitive
+Surprisingly
+experience
+transposable element-contaminated
+published
+selenocystein
+Technology
+higherquality
+molecular co-evolution
+introgression
+testis-biased
+classification
+problematic
+Collymore10
+Brockman10
+fundamental chromosome
+Drosophila chemoreceptor
+Oxidoreductase
+Strempel93
+Claudianos
+Bourzgui10
+Fleischmann
+establish
+PIF-transposase-like
+confidence
+Ubiquitous
+selenoprotein synthesis
+neurobiology
+likelihood
+artefactual duplication
+morphogenesis
+predictions
+Hurhula10
+Bioinformatics
+Nucleotide
+`transcription
+Greenberg
+Constraint
+CONTRAST22
+chemoreceptor
+Departamento
+Cambridge
+subsequent horizontal
+Predicted
+GeneMapper25
+Lubonja10
+homologous locations32,155
+Molecular Pathogenesis
+Hinrichs60
+gustatory receptors
+Particularly
+Costello43
+Feschotte
+Similarity
+annotation18
+challenge
+Carvalho36
+oxidative phosphorylation
+mammalian
+Chatterji
+suggestive
+extraordinary comparative
+Wasserman97
+Comparative
+100Institute
+cytochrome
+magnitude difference
+Langley29
+Different
+24Department
+Intracellular Non-nuclear
+high-resolution transposable
+melanogaster group-specific
+Organismic
+Mittelman10
+Sophophora
+`extracellular
+Computational identification
+Pennsylvania
+information
+mojavensis
+advantage
+Whole-genome
+discussion
+translational
+lineagespecific
+Differing
+discontinuous phylogenetic
+paralogous
+Batterham27
+specialisation
+high-confidence protein-coding
+reconciled orthologue
+Sequencing
+Transporter
+widespread
+Structural
+Biomolecular
+Phunkhang10
+Originiation
+testis-specific expression
+Schneider
+Bootstrap
+accessory
+tractability
+likelihood estimation
+59Department
+Bradley32
+cis-regulatory
+horizontal
+annotation
+specialization
+non-degenerate
+Protein-coding
+Extracellular
+effective
+homology-based
+recombination
+bootstrap
+ordinarily
+redundant
+rearrangement phylogeny
+fundamental
+molecular evolutionary
+foldback-like
+Inferring genome-scale
+Kapitonov
+likelihood framework
+evolutionary
+`peptidase
+Chiao-Feng
+olfactory/odorant
+non-coding
+recognition receptors
+Llopart42
+Shortrange
+stability
+computational
+Stavropoulos10
+Pernambuco
+arrangement
+pre-eminent
+ARTICLES expression
+telomere-specific
+non-synonymous divergence
+interquartile
+manuscript
+melanogaster selenoproteins
+Anderson10
+estimating
+production
+Castrezana37
+Teichmann18
+Evolutionarily
+combination
+Charlotte
+repetitive transposable
+Ponting58,59
+willistoni110,111
+Phosphorylation
+Thoulutsang10
+carboxyl/choline-esterase
+Rearrangement
+Larracuente
+Gustafson4
+miRNA­target
+retrotransposon
+genome-wide
+association
+structural
+77Department
+accessory-gland-specific
+Artieri24
+Bellaterra
+Cytoplasm
+intragenomic
+Functional
+contamination Expression
+17Department
+Salzberg45
+parameters
+Eickbush47
+Mitochondrion
+instability
+immune-related
+Makalowski20
+characterized
+permutation
+development
+pseudoobscura5
+Heger58,59
+independent
+generation
+Transcription
+formidable
+Hultmark62
+Quesneville84
+Translation Cell­cell
+Kristipati
+frequency
+combining
+laboratory
+Kheradpour9
+phylogenetic relationship
+Discovery
+nature06323
+Development
+Villasante16
+phylogeny Drosophila
+Wangchuk10
+Post-embryonic development
+single-copy
+selection­mutation­drift
+Gadbois10
+Andolfatto
+induction
+clustering
+heterochromatic
+Consiglio
+divergence
+possibility
+extraordinary
+Universita
+complicated
+Universite
+regulatory
+intermediate
+euchromatic transposable
+transpositional
+Planegg-Martinsried
+8Department
+Lazzaro72
+unresolved
+47Department
+Contributors
+protein-coding sequences
+transcript abundance
+75Department
+low-coverage
+Massachusetts
+Lozovsky69
+Non-nuclear membrane-bound
+phylogenetic distribution
+probability
+synonymous
+over-represented
+Transferase
+`G-protein-coupled
+Channer10
+electronic
+lower-quality
+illustrate
+69Department
+Ritchie25
+Giannoukos10
+mauritiana
+pseudogenes35,36
+Khazanovich10
+Environmental
+assumption
+Wolstenholme
+23Department
+Regulatory
+pseudo-tRNA
+molecular
+consistent
+Kataoka66
+DNA-based
+excellent
+Hahn8,43
+relationship
+Rockville
+94Institute
+Thomson10
+environmental
+differentiate
+population
+Friedrich10
+Dermitzakis
+Serendipitous discovery
+poly-adenylated
+protein-coding composition
+compensation
+individual
+non-protein-coding
+multicellular organisms
+reproduction
+Eyre-Walker
+synteny-aided orthology
+cis-regulatory modules144
+intronless
+synonymous substitution
+published secondary
+Clifton40
+nonsynonymous substitutions
+Farmington
+Batzoglou28
+one-tailed
+co-evolution
+Civetta41
+invertedrepeat transposable
+Regulation
+substantial
+Lipovsky10
+Delehaunty40
+Abderrahim
+non-melanogaster
+domestication
+Lineage-specific
+Contrasting
+synteny-based
+efficient
+transcription
+contiguous sequences
+responsible
+olfactory
+72Department
+melanogaster45
+Settipalli10
+melanogaster48
+Evolutionary Functional
+spermatogenesis
+random-breakage
+Vassiliev10
+13Department
+Boguslavskiy10
+Alexander10
+Larracuente1
+chromosomes
+pseudotRNAs
+Biologicas
+gain/loss
+Markiewicz10
+Montserrat
+complexes
+evolutionary constraint
+Chatterji38,39
+evolutionary processes
+comparisons
+Biological
+Cristianini
+nucleotide alignments
+99Department
+Pachter38
+Molecolare
+evolutionarily
+observation
+Agencourt
+Publication
+Consistent
+Assembler
+74Departament
+Shailendra
+Transport Biosynthetic
+subsequent
+gene-level
+Copenhagen
+willstoni
+transposable element/repeat
+Chromosome
+incorporate
+signatures
+genomewide
+melanogaster3,4
+Pedersen60,79
+xenobiotic metabolism
+miRNA­target prediction
+anatomical structure
+selenoprotein messenger
+phagocytosis
+poor-quality
+Transcription regulator
+epistatic
+grimshawi
+availability
+Supplementary Information
+Cell­cell signalling
+Mount45,75
+lowerquality assemblies
+83National
+Meldrim10
+Christophe
+cgi-bin/gbrowse/dmel/
+Kristiansen67
+structure predictions
+Carbohydrate metabolic
+interspecific
+proportion
+Biochemistry
+threefold
+Substitution
+high-quality assemblies
+Villasante
+nucleotide substitution
+Phylogram
+Physiology
+Fall/Winter
+exceptional
+odorant-binding
+immunity/defence
+Sec-specific
+expectation
+Biomedical Informatics
+Letendre10
+spliceosomal
+Drosophila69­73
+conjunction
+generalist
+Keightley
+superfamily
+footprint151
+Costello10
+Charlesworth
+transposition
+81Department
+Recife/PE
+investigate
+Manchester
+architecture
+Ashburner
+Porcelli26
+embryonic
+Functionally
+male-biased
+Gyaltsen10
+erroneous
+Rochester
+78Institue
+biological processes
+sensitivity
+newly-emerged
+Montooth17
+Specifically
+plausible
+H4-Lys16 acetylation
+ascertainment
+Vesicle-mediated transport
+Bloomington
+Spliceosomal
+Segarra19
+Sackton1,15
+Newfeld70
+Caggese26
+biogenesis
+interacting
+Haemophilus influenzae
+Caenorhabditis
+distinctive
+Blackburn
+GeneWise23
+Phillippy45
+proteins86,87
+gene-by-gene
+identification
+U12-dependent
+Abdouelleil10
+Mauceli10
+discovery
+available
+variability
+comparable
+93Department
+complementary
+Sparrow10
+sex-biased
+Rubenfield4
+efficiency
+eukaryotic
+Calabrese
+hypothesis
+Karpen13,65
+Reproduction
+contamination
+distinguish
+Stalker10
+selenoprotein biosynthesis
+Transposable element/repeat
+host­transposable
+71Department
+Rasmussen9
+Mendez-Lago16
+melanogaster8
+Halpern57
+Prevalence
+transcription-factor-binding
+Lineage-restricted
+Proteolysis
+expression
+experimental
+sechellia
+gametogenesis
+Kulathinal69
+92Department
+7Department
+Divergence
+Discussion
+Levesque41
+Drosophila Heterochromatin
+Consortium
+sechellia assemblies
+Bioscience Corporation
+unicellular
+adaptation
+mitochondrial
+sequences
+Sanchez-Gracia
+97Department
+Bioinformatics Institute
+Shiaw-Pyng
+functional annotation
+Quesneville
+vertebrate
+Matsuda66
+different whole-genome
+SE-90187
+California
+maintenance
+persimilis
+Montmayeur10
+localization Transport
+MacCallum10
+evolutionary consequence
+generating
+well-defined phylogeny
+exquisite simplicity
+46Department
+Integrated
+sufficient
+sequence/
+one-third
+Consensus
+understand
+Catabolic
+systematic
+Investigating
+Halligan56
+Francisco
+pseudoobscura
+lineage-specific transposable
+Grandbois10
+Delcher45
+Transposable
+reciprocal
+Estimating
+McCusker10
+McDonough10
+Wilkinson10
+unprecedented
+Supplementary
+precursor
+MacDonald10
+evaluating
+Wolbachia
+phenotypic
+Stephan93
+85Department
+cis-regulatory sequences
+procedure
+Alexander
+purifying
+Assessing
+orientation
+Nonetheless
+compensatory nucleotide
+Furthermore
+well-validated
+cisregulatory sequences
+Integrative
+discrepancy
+Widespread discordance
+detoxification/ metabolism
+Mathematics
+comparative
+Symposium
+Genome-wide
+non-neutral processes
+Correspondence
+Alejandro Sanchez-Gracia19,88
+canonical progression
+longer-range
+Johnson57
+bootstrap confidence
+cytometry
+Anastasia Gardiner25
+microarray
+Retroposed
+Hsiao-Pei
+underestimate
+Alternatively
+Drosophila phylogeny
+difficult
+lineage-specific
+evolutionary divergence
+Biochimica
+X-chromosome-linked
+Microbiologia dell'Universita
+Institute
+comprehensive
+RepeatRunner
+Yoshihiko Tomimura95
+respectively124
+additional Drosophila
+Laboratory
+footprint
+Providence
+opportunity
+contribution
+91Biomedical Informatics
+polymorphism
+Drosophila pseudoobscura
+ARTICLES chromosomal
+secondary structure
+Washington University
+orthologous
+functional non-coding
+McKernan4
+Christopher Strader10
+BLAST-based
+organization
+Molecular paleontology
+`proteolysis
+preference
+two-tailed permutation
+Bessette10
+Zdobnov102
+codonusage
+19Departament
+Similarly
+calculating evolutionary
+distribute
+Feyereisen
+sequestration
+homogeneity
+ribosomal
+differentiation
+behavioural
+Molecular
+alignment
+reproduction-related
+complexspecific
+false-discovery
+demographic
+Chapple31
+Connecticut
+Christopher
+Dipartimento
+Sisneros68
+evolutionary perspective
+Inferring
+signalling Vesicle-mediated
+Annotation
+Hillier40
+TGT/TGC
+saturation
+transduction Embryonic
+Gelbart11,12 Annotation
+38Department
+unification
+fourfold-degenerate
+development Post-embryonic
+multi-genome
+sequencing
+background substitutional
+glutathione S-transferase
+Leiva-Neto
+Evolutionary
+micro-structure
+Lapoint71
+Non-coding
+modification Regulation
+Filipski49
+deleterious
+hemizygosity
+RepeatMasker
+Magnisalis10
+Spaulding10
+rearrangement
+conclusion
+alignments
+assemblies
+ananassae
+protein-coding
+Management
+Matthews10
+metabolic
+Codon-substitution
+competition
+Edwards46
+Jagadeeshan24
+telomerase-generated
+Department
+International
+willistoni
+recognition
+developmental
+euchromatic chromosome
+Pittsburgh
+Boukhgalter10
+Entomology
+Sophophora melanogaster
+integration
+conservative
+Dordrecht
+readlength
+melanogaster melanogaster
+structural information
+Population
+contrasting
+sex/reproduction
+disentangle
+Analysis/Writing Coordination
+Vilella19,96
+selenocysteine
+synteny-based orthologue
+pseudo-transfer
+Celniker2
+Anxolabehere
+melanogaster euchromatic
+Universidad
+Kruskal­Wallis
+insecticide resistance
+limitation
+Koerich36
+constraint
+Generation
+non-immune
+recognized
+11Department
+testis-specific
+Hollocher
+Tesfaye10
+cis-element
+insufficient
+Intelligence Laboratory
+predictor
+immune-gene functional
+Remington57
+Kirkness57
+contractions
+transposable
+significant
+Developmental
+phylogenomic
+communication
+Subramanian
+Approximately
+fourfolddegenerate
+appropriate
+TCOFFEE34
+Single-copy
+Eickbush
+speciation
+custom-designed
+Sheffield
+whole-genome
+Castellano
+Pre-miRNA sequences
+dehydrogenase
+unambiguous
+Fluctuating
+32Department
+relocation
+approximate
+Minato-ku
+true-positive
+dispersion
+autosomes
+Drosophila radiation53
+conservation
+structure
+ARTICLES University
+metabolism
+Grabherr10
+Translational
+Montserrat Papaceit19
+cosmopolitan
+6Laboratory
+Interestingly
+maximum-likelihood estimation
+different Watson­Crick
+35Department
+Topping10
+McBride29
+Mollenhauer20
+Finishing
+Sturgill6
+Drosophila cis-regulatory
+considerable
+Greenberg1
+Municipal d'Investigacio
+low-quality
+high-quality
+qualitative
+reproductive
+Ferguson10
+Genomewide comparative
+genome-scale rearrangement
+mojavensis29
+species-specific
+Engineering
+`receptor
+Mihalev10
+Garfield52
+heterogeneous
+detectable
+mutation­selection­drift
+fulllength
+pre-miRNA sequences
+Gravely54
+Comeron42
+Setagaya-ku
+Publishing
+Bustamante
+56Institute
+histocompatibility
+non-neutral
+determinant
+BLASTER-tx
+Principles
+coordinator
+reliability
+64Institute
+Wong73,98
+covariation
+ribonucleoprotein
+chromosome
+selenoproteins
+McAllister42
+assessing
+danielapollard
+calibration
+Drosophila willistoni
+Guigo31,55
+Strausberg57
+occasional
+Barsanti26
+essentiality
+transport
+Drosophila melanogaster
+antimicrobial
+Smith65,92
+gustatory
+mir-310/311/
+re-sequencing
+Hubisz61
+Edinburgh
+orthology
+functional importance
+Melbourne
+ecological
+63Department
+Nielsen78
+90Department
+Identification
+Keightley56
+Insititute
+52Department
+grimshawi Drosophila
+Elizabeth
+Yoshida101
+many-fold
+algorithm
+Chinwalla40
+Scaffolds
+Universitet
+Prediction
+Universidade
+Structural alignments
+transposons
+Sophophora-specific
+incomplete
+Acknowledgements Agencourt
+Contributions
+Schwartz90
+Artificial Intelligence
+Techniques

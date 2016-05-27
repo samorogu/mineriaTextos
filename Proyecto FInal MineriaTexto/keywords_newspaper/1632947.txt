@@ -1,0 +1,13 @@
+container
+f
+1632947txt
+m
+actions
+hand
+regions
+p
+subjects
+master
+action
+samorogu
+species

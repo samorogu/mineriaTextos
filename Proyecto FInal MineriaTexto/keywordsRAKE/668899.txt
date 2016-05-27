@@ -1,0 +1,813 @@
+conditional
+503
+
+© 2006 nature publishing group
+
+letters
+
+nature
+rows show simulation data
+scale-free networks fit slightly
+graphs makes analytical investigations
+-81
+
+© 2006 nature publishing group
+
+nature
+502
+
+© 2006 nature publishing group
+
+nature
+social networks
+hisashi ohtsuki1
+exist complicated social networks
+classical evolutionary game theory
+earlier death­birth updating
+© 2006 nature publishing group
+
+505
+spatial evolutionary game theory
+natural selection favours cooperation
+john templeton foundation
+obtain pc 2 pd ¼
+similarity makes sense
+dotted horizontal line
+conceivable geometric configurations
+natural selection favours defectors
+competing financial interests
+interactive online tutorials
+cooperator­defector pair competing
+mechanism `death­birth
+author information reprints
+partially random partnership
+random position turns
+spatially heterogeneous populations
+natural selection increases
+traditional well-mixed population
+public goods games
+evolutionary trajectory including
+red queen mechanism
+edges denote links
+evolutionary game occupy
+evolutionary game theory
+biological organization ranging
+spatial continuous prisoner
+evolutionary dynamics hold
+stochastic game dynamics
+population size increases
+birth­death updating
+death­birth updating
+scale-free networks provide
+network structure affects
+self-organizing spatial dynamics
+evolutionary stable strategies
+studying evolutionary games
+game dynamical interaction
+game theoretic models
+graphs include cycles
+promote cooperative behaviour
+pair-approximation calculation shows
+fixation probability includes
+social network formation
+large population size
+indirect reciprocity evolve
+strong selection means
+weak selection means
+altruistic act exceeds
+surprisingly simple rule
+cooperators reached fixation
+high average degree
+random regular graphs
+cooperator cluster expands
+favour cooperation provided
+empty site proportional
+larger population size
+find excellent agreement
+fixation probability greater
+single cooperator starting
+selection favours cooperation
+study regular graphs
+fixation probability 1/
+higher average payoff
+`death­birth
+`birth­death
+randomly chosen neighbour
+natural selection
+social networks
+indirect reciprocity
+pair-approximation shows
+scale-free networks26
+data suggest
+including cycles
+complicated patterns
+social behaviour
+random networks
+1038/nature04605
+
+letters
+evolutionary dynamics
+game dynamics
+altruistic act
+death event
+pair approximation
+social network
+selection favours
+population size
+spatial structure
+neighbourhood size
+relevant networks
+beautiful similarity
+non-repeated prisoner
+evolutionary games
+evolutionary stability
+patch formation
+degrees ranging
+online version
+lineage starting
+weighted edges
+cooperator pays cost
+snowdrift game
+two-strategy game
+social viscosity
+social relatedness
+`social viscosity
+social networks18­24
+social games
+2006
+
+letters
+
+figure 2
+large compared
+large extent
+regular graphs
+community structure
+promote cooperation5­7
+biological systems
+fixation criteria
+fixation probabilities
+spatial chaos
+spatial lattices
+spatial lattice
+spatial relationships
+population dynamics
+weak selection
+supplementary information
+permissions information
+random graphs25
+collective dynamics
+adaptive dynamics
+exact calculation
+straightforward calculation
+network structures
+defector competing
+evolutionary biology
+viscous populations
+structured populations
+finite populations
+unstructured populations
+fixation probability
+contested site
+single cells
+single invader
+single cluster
+empty site
+random graphs
+reproduction proportional
+biological reproduction
+kin selection
+making selection
+population sizes
+lattice-structured population
+unstructured population
+population viscosity
+efforts recognize
+harvard univ
+successfully invade
+harvard-mit hst
+natl acad
+species coexistence
+human society
+gratefully acknowledged
+fewer friends
+le galliard
+de monte
+neighbors compete
+empirical research
+image scoring
+constant term
+martin_nowak@harvard
+authors declare
+good approximation
+inverse measure
+offspring replaces
+adding loops
+þ þ ð10b 2 16cþ
+inherent complexity
+row illustrates
+erez lieberman2
+van baalen
+theoretically motivated
+received 7 december 2005
+strategic complexity
+acknowledgements support
+accepted 26 january 2006
+replicator equation27
+jeffrey epstein
+christoph hauert2
+good agreement
+current interest
+kyushu university
+animal species
+observational studies
+harvard university
+finite populations29
+extended approach
+diffusion approximation
+fukuoka 812-8581
+fundamental aspect
+intuitive justification
+deterministic setting
+scalefree networks25
+place removed
+numerical simulations
+cooperative interactions
+powerful option
+arrows mark
+present analysis
+emerging cluster
+doves revisited
+fixation
+
+figure 1
+favours defectors
+equally strong
+large number
+direct calculation
+non-regular graphs
+promote cooperation
+imitation updating
+degree distribution
+larger variance
+higher chance
+reproduction event
+initial invasion
+regular graph
+contributes equally
+links connected
+simple rule
+time step
+single cooperator
+average degree
+higher connectivity
+single defector
+random individual
+focal cooperator
+cooperator helps
+substantial number
+opposes cooperation
+applied mathematics
+relative abundance
+total number
+favour cooperation
+reduce cooperation
+unifying framework
+final extinction
+genetic relatedness
+small compared
+factors contribute
+migration events
+special situation
+neutral mutant
+higher payoff
+fundamental intuition
+reputation effects
+neighbours proportional
+update mechanisms
+update rule
+average number
+reciprocal altruism
+human altruism
+defectors matters
+explore graphs
+unconditional cooperators
+drives cooperators
+adjacent cooperators
+rare cooperators
+neighbouring cooperators
+favour cooperators
+bi 2 ck
+fewer connections
+¼ bq cjd
+¼ bq cjc
+baseline fitness
+total fitness
+individual occupies
+individuals consisting
+adjacent individuals
+individuals differ
+update rules
+average connectivity
+cambridge univ
+dynamic model
+supplementary fig
+vacated vertex
+receives benefit
+neutral evolution
+complete graph
+genetical evolution
+neighbours compete
+cooperator neighbour
+defector pays
+theory
+invasion condition
+cost ratio
+2006
+
+letters
+
+11
+result holds
+death
+means
+birth
+favours
+networks
+game
+nature 393
+nature 359
+nature 433
+nature 425
+nature 428
+nature
+nature 370
+nature 437
+updating
+spatial
+strong
+random
+network
+selection
+population
+favour
+agreement
+cluster
+strategies
+provide
+greater
+red
+interaction
+randomly
+games
+exceeds
+simple
+empty
+evolve
+models
+average
+probability
+graphs
+update
+degree
+larger
+invasion
+reproduction
+direct
+study
+mechanisms
+2006
+
+figure 3
+biology
+step
+equally
+pays
+rule
+neighbour
+cooperator
+small
+explore
+situation
+ratio
+extinction
+abundance
+imitation
+`imitation
+chosen
+framework
+factors
+interactions
+intuition
+number
+migration
+cooperation
+genetic
+mutant
+effects
+rules
+mathematics
+chance
+defector
+connectivity
+altruism
+defectors
+cooperators
+holds
+cjc 2
+2 ck
+1/
+connections
+result
+cjc
+cjd
+fitness
+individual
+cost
+individuals
+find
+payoff
+condition
+model
+cambridge
+fig
+benefit
+vertex
+graph
+evolution
+evolution 57
+connected
+neighbours
+2 1 neighbours
+nowak2
+results
+disturbance
+biosci
+calculate
+skyrms
+program
+excluded
+trivers
+implicitly
+& milinski
+matsuda
+difference
+illustrated
+wedekind
+& strogatz
+level
+die
+discrete
+math
+sponsored
+favoured
+smaller
+`small-world
+blue
+selected
+1 department
+fehr
+experiment
+3b
+& taylor
+coefficient
+rand11
+groups
+represented
+change
+& pacheco
+obtained
+receive
+& vukov
+involves
+payoffs
+emerge
+vol 441
+win
+logical
+//univie
+addressed
+unit
+usa
+wiped
+finally
+animals1­4
+noting
+call
+opposed
+organismic
+survive
+type
+`effective
+/reprintsandpermissions
+& dieckman
+& hamilton
+þ wp
+www
+sci
+who-meets-
+compare
+pieces
+states
+divided
+parameter
+comins
+npg
+derived
+explored
+derives
+subsequently
+þ 3bw
+japan
+interesting
+forms
+absence
+2/
+easier
+correspondence
+hamilton
+nakamaru
+science 288
+science 286
+revert
+found
+soc
+106 runs
+killingback
+idea
+assumption
+& jonker
+shown
+rev
+cancels
+denotes
+increase
+massachusetts 02138
+usa 71
+ref
+-17 hauert
+& wilson
+watts
+benefits
+derivation
+barabasi
+consequence
+inhibits
+impossible
+interact
+hawks
+ferriere
+low
+& fudenberg
+grey
+determined
+occupied
+linked
+graphs8­17
+wilson
+describe
+note
+materials
+finding
+hauert
+play
+measures
+& nowak
+measured
+doi
+surprising
+implications
+vertices
+competitors
+axelrod
+& kuperman
+fact
+/nature
+nowak
+based
+3 & martin
+proportion
+move
+simplest
+define
+reveal
+runs
+investigate
+paper
+fixed
+imitate
+humans
+intensity
+& fischbacher
+mitteldorf
+´ szabo
+science 296
+santos
+envisage
+boundary
+hassell
+terms
+importance
+durrett
+taylor30
+usa 97
+sociobiology
+two-person
+abramson
+popul
+players
+requests
+asked
+strongly
+consideration
+leads
+strategy
+11 examines
+arises
+sufficient
+3department
+case
+suppose
+wild
+loop
+ifti
+discrepancy
+player
+& sigmund
+science 211
+propagation
+lett
+fragment
+http
+levels
+/virtuallabs
+expand
+cycle
+scaling
+costs
+simulated
+hofbauer
+rule1
+distribute
+& paine
+mathematically
+defection
+fate
+breaks
+& levin
+cultural
+press
+immediately
+emergence
+disadvantage
+excluding
+exceed
+people
+& rand
+duration
+/
+proc
+analysed
+bj
+comparison
+central
+volunteering
+lieberman
+massachusetts
+imitated
+dilemma
+ndseg
+bound
+& doebeli
+lond
+biol
+jsps
+fraction
+denoting
+& albert
+levin
+limit
+uk
+2program
+ac
+taylor
+& iwasa
+general
+sasaki
+role
+department
+theor
+phys
+stay
+allowing
+studied
+lead
+assume
+required
+& pemantle
+¼ 500
+504
+643­ -646
+145­ -156
+271
+&
+6
+95
+826­ -829
+1992
+1994
+1997
+1999
+1998
+231
+1
+1390­ -1396
+440­ -442
+¼ 4
+¼ 1
+¼ 0
+24
+25
+26
+27
+21
+22
+23
+28
+29
+850­ -852
+481­ -496
+¼ 4ð1 2
+312­ -316
+7
+¼
+þ 2
+20
+646­ -650
+1996
+­
+184
+9340­ -9346
+¼ 10
+193
+10
+13
+12
+15
+14
+16
+1978
+2345­ -2349
+1971
+65­
+1­
+509­ -512
+35­ -57
+8
+¼ 2
+2
+69
+098104
+17
+19
+18
+1135­ -1144
+631­ -648
+01
+3
+785­ -791
+63
+1 2
+>
+2 1
+2744­ -2747
+2005
+9
+1975
+1974
+¼ 100
+1964
+þ
+036107
+97­ -106
+4
+5
+263
+30
+=
+1129­ -1132
+204
+030901
+-16 2
+1981
+1291­ -1298
+363­ -394
+46
+40
+290­ -292
+2002
+2003
+2000
+2001
+2006
+2004

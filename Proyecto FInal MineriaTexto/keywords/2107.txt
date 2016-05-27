@@ -1,0 +1,344 @@
+similarity
+Multi-input
+Kuruvilla
+Zeitlinger,1
+Supporting
+developmental regulator
+environment
+straightforward
+functional categories
+Experimental
+biological
+accumulation
+Transcriptional Regulatory
+immunoprecipitation experiments
+nevertheless consistent
+Department
+Long-Range Transmission
+bacterial
+metabolic networks
+Jelinsky
+metabolic regulator
+assistance
+expressed
+consequent
+reconstruction
+Escherichia
+Young1,2
+pseudohyphal
+supporting
+Foundation
+compilation
+understanding
+deposition
+selective
+Distribution
+closed-loop structure
+different regulators
+Thompson,1
+extensive literature
+procedure
+Technology
+repressor
+Iwashima
+Genome-wide distribution
+organismal development
+addressed
+Pasadena
+Evaluation
+conventional
+regulator-promoter
+regulatory architecture
+remainder
+Orphanides
+transcriptional regulator
+introducing
+Baboukas
+emission
+high-confidence threshold
+transient
+microarray-based
+Programme
+Schreiber
+following
+appropriate insertion
+2Department
+Terragni
+coordinate expression
+present-day
+information
+discussion
+activator
+genome-wide
+description
+analysis experiment
+polymerase
+Kawasaki
+computational approach
+eukaryotic cellular
+algorithms
+expression programs
+Benjamin Gordon,1
+Hermann-Le
+ARTICLES transport
+computational analysis
+feedback
+thresholds
+stability
+Mihalopoulos
+experimental information
+immunoblot analysis
+Copyright
+temporal
+multistep ultrasensitivity
+immunoblot
+correspondence
+combination
+Single-input
+Natarajan
+profound
+cellular functions
+Processes DNA/RNA/Protein
+Saccharomyces cerevisiae
+physiologic
+weighted
+Washington
+autoregulation
+frequency
+DNA/RNA/Protein Biosynthesis
+Shen-Orr
+Institute
+suggesting
+University
+gene-specific chromatin
+likelihood
+Additional information
+Cambridge
+September
+high-resolution
+probability
+randomized
+metabolic processes
+transcription apparatus
+transcriptional programs
+Significance
+single-input regulatory
+Downloaded
+chromatin immunoprecipitation
+regulation
+construct
+Environmental
+Regulators
+Computational Molecular
+percentage
+expression experiments
+Association
+Koshland
+Database
+environmental
+Moye-Rowley
+Nishimura
+Rosenfeld
+structures
+intergenic
+regulator
+Lelieveld
+Rotstayn
+Regulatory Networks
+Information
+extensive genome-wide
+alongside
+Bar-Joseph,3
+YJL206C
+concentration
+specific regulatory
+ARTICLES YJL206C
+transcription
+responsible
+cerevisiae associate
+genome-wide expression
+chromatin-modifying
+respective regulators
+sequence
+significant
+Bar-Joseph
+Spellman
+Massachusetts Institute
+stringency
+observation
+Whitehead Institute
+biosynthetic apparatus
+principle
+nonspecific
+anthropogenic
+Feedforward
+phenomenon
+genomewide
+Volkert,1
+multicomponent
+autoregulated
+Reinberg
+threshold
+Francois
+availability
+knowledge
+Chromatin immunoprecipitation
+Jennings,1,2
+permission
+expectation
+coordinating
+secondary
+evolution
+Biosynthesis YJL206C
+approach
+Mediterranean
+architecture
+single-input
+analytical
+automatic
+MPI-Report
+Galitski
+coordinate transcriptional
+constructing
+California Institute
+individual
+protein-DNA
+Gerber,3
+capacity
+multi-input
+Costanzo
+International Conference
+progress
+conditions
+available
+functional category
+transcriptional regulation
+importance
+Thieffry
+biosynthesis
+Supported
+prokaryotic
+ribosome biosynthesis
+sensitive
+specific regulators
+expressed epitope-tagged
+ColladoVides
+expression
+experimental
+Monitoring
+Murray,1
+Burroughs Wellcome
+Metabolism YJL206C
+Bracknell
+trademark
+Wolberger
+involved ribosomal
+transcriptional regulatory
+transcriptional regulators
+Thuriaux
+Carvajal
+atmospheric
+related-content
+defining
+RESEARCH ARTICLES
+pheromone
+Additional
+transcriptional activity
+Developmental Processes
+Genome-wide
+Autoregulation
+information necessary
+Goldbeter
+attention involved
+Harbison,1,2
+Computer
+underestimate
+previous experimental
+difficult
+independent
+OCTOBER
+promoters
+possible
+Laboratory
+positives
+Biosynthesis Environmental
+analysis
+regulating
+Examples
+Kobayashi
+stringent
+Pokholok
+alternative
+Pollutants
+Wyrick,1§ Jean-Bosco
+Temperature
+feedforward
+cellular processes
+Jaakkola
+potential
+hybridization
+Hannett,1 Christopher
+previous knowledge
+Regulator
+bistable
+regulator-gene
+specific
+arbitrary
+starvation
+legitimate regulator-DNA
+Roeckner
+searching
+additional regulators
+recognition
+multiple transcriptional
+Bioessays
+Perez-Rueda
+SCIENCE
+Nicholson
+confidence
+ill-defined
+Fraenkel,1
+epitope-tagged regulator
+December
+simulation
+HighWire
+eukaryotes
+Gifford,3
+Transcriptional regulators
+Knowledge
+inclusion
+Advancement
+Experiment
+Identification
+false-positive
+additional
+Systematic genome-wide
+detectable
+exposure
+metabolism
+synthesis
+regulatorDNA
+Bengtsson
+eukaryote Saccharomyces
+epitope-tagged regulators
+Johnston
+Research Technical
+considerable
+Assembling
+circulation
+nucleating
+Coordination
+regulatory networks
+Introduction
+one-third
+Hampshire
+Mathematics
+Goldewijk
+probabilistic assessment
+Meteorology
+important
+pheromone-responsive
+multiple regulators
+building
+algorithm
+Biomedical Research

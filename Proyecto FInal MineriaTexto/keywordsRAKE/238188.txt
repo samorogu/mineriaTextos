@@ -1,0 +1,2700 @@
+blast protein family serine protease serine protease inhibitor ras globin hemagglutinin interferon  alcohol dehydrogenase histocompatibility antigen cytochrome p450 glutathione transferase
+7
+
+serine protease serine protease inhibitor ras globin hemagglutinin interferon  alcohol dehydrogenase histocompatibility antigen cytochrome p450 glutathione transferase
++-transporting atp synthase normalized running time query p00762 p01008 p01111 p02232 p03435 p05013 p07327 p10318 p10635 p14942 p20705 smith­waterman 275 108 255 28 128 53 138 262 211 83 198 36 original blast 273 105 249 26 114 53 128 241 197 79 191 1
+query p00762 p01008 p01111 p02232 p03435 p05013 p07327 p10318 p10635 p14942 p20705
+
+original blast low
+8a une452 dna ligase iv cdc9 dna ligase gnf1 muttc rad9 rap1 homolog zk675
+2 d90904a tdt ygr103w pescadilloa ppol species homo sapiens arabidopsis thaliana caenorhabditis elegans
+1 rad4/cut5 rev1 ect2 xrcc1 crb2 rap1 tcest030c dpb11 l8543
+sapiens candida albicans thermus scotoductus drosophila melanogaster
+sapiens sarcophaga peregrina genbank id number 1710175 2104545 1914176 1665785 1418521 1723501 1136400 488592 1667334 470351 1067065 730470 132409 423597 627867 1449177 173558 1536857 1352999 1078075 1644324 1078533 731729 1657667 1151000 1706482 1706483 1352293 544404 2129134 131817 422087 599712 1652299 2149634 1723693 2194203 1709741 psi-blast iteration e-
++-transporting atp synthase average
+general purpose database searches awaits detailed empirical study
+lightly loaded sgi power challenge xl computer
+histocompatibility antigen query
+original blast program treats gapped alignments implicitly
+original blast program seeks short word pairs
+original blast program seeks equal-length segments
+symbols reflect positive blosum-62 matrix scores
+highly biased amino acid composition
+kluyveromyces lactis rap1 homolog
+psi-blast imposes strict scaling rules
+© 1997 oxford university press
+
+nucleic acids research
+dna damage-responsive cell cycle checkpoints
+automatically combining statistically significant alignments produced
+close relatives receiving smaller weight
+10 identical sequences imply fewer independent observations
+observed receive high pseudocount frequencies
+distantly related protein family members
+background amino acid frequencies pi
+nonredundant protein sequence database maintained
+national human genome research institute
+table 1 shows typical relative times spent
+generate residue pseudocount frequencies gi
+blast program requires time proportional
+blosum-62 amino acid substitution matrix
+position-specific protein score matrices draw
+optimal local alignment score falls
+gapped local matrix-sequence alignments permits
+pombe saccharomyces cerevisiae mus musculus
+fission yeast protein strongly similar
+background amino acid frequencies
+gapped extensions
+
+3394 nucleic acids research
+protein database search programs
+stephen
+200 mhz r10000 cpu processor
+yeast brct protein l8543
+gap costs generate local alignments
+psi-blast iteration takes noticeably longer
+qi include small sample size
+swiss-prot
+
+protein family
+
+swiss-prot accession
+position-specific score matrices database searches
+amino acid substitution matrices
+2s 2
+
+3391 nucleic acids research
+report yeast rad9
+virus hemagglutinin precursor
+amino acid relationships embodied
+national biomedical research foundation
+original blast program locates
+publicly distributed code primarily
+e1b protein small t-antigen
+original blast program normalized
+amino acids occur randomly
+non-overlapping length-3 word pairs
+computational experiments strongly suggest
+methanococcus jannaschii mutt protein
+path graph drops steadily
+original blast program requires 45
+human fragile histidine triad
+traditional affine gap costs
+occasion caused important similarities
+n-terminal ring finger domain
+construct pseudocount frequencies gi
+p03435
+p02232
+biologically relevant sequence relationships
+gov
+
+3390 nucleic acids research
+iteration
+
+3395 nucleic acids research
+original blast gapped blast 8
+resulting positionspecific iterated blast
+prevent inaccurate pairwise alignments
+single length-3 word pair
+data-dependent pseudocount method introduced
+psi-blast protein database search results
+previously published blosum-62 simulations
+eschewing position-specific gap costs
+biologically relevant sequence similarities
+vis observed residue frequencies
+observed residue frequencies fi
+non-redundant protein sequence database
+path graph explored adapts
+generalized affine gap costs
+dna ligase
+elude simple database searches
+ideas presented extend immediately
+closely related sequences carries
+target frequencies qij implied
+aligned word pair satisfying
+resulting position-specific iterated blast
+scoring systems directly comparable
+producing optimal local alignments
+amino acid frequencies
+position-specific score matrices generated
+query protein bard t10m13
+typical current database search
+original ungapped blast algorithm
+optimal local alignment generated
+simultaneously produce gapped alignments
+single moderately scoring hsp
+optimal local alignment scores
+alignments involve hypothetical proteins
+constructing gapped local alignments
+short region directly preceding
+derived position-specific score matrices
+gapped blast algorithm requires
+uncover biologically interesting similarities
+16th iteration psi-blast uncovered
+straightforward sequence­sequence comparison
+position-specific score matrix automatically
+arbitrary position-specific score matrix
+gapped blast program runs
+derive position-specific gap scores
+gap costs gapped alignments
+newly identified brct proteins
+matrix scores produced internally
+blast algorithm vary substantially
+significant local alignments found
+yeast ortholog ygr103w
+position-specific score matrix generated
+program running time
+gapped alignments figure 1 shows
+computers running blast
+gapped alignment scoring systems
++ bk + cj
+normalized running times
+convert nominal hsp scores
+psi-blast generated score matrices
+psi-blast comparisons charge gaps
+produce roughly equivalent results
+initial blast search recognized
+sequence weighting issues discussed
+true family members
+pairwise sequence alignment perform
+bacterial ligase
+received chance high scores
+called `high-scoring segment pairs
+sensitive position-specific score matrices
+hemagglutinin query
+database sequences represent segments
+standard dynamic programming algorithms
+statistically significant sequences found
+involve gap characters inserted
+3397 nucleic acids research
+3396 nucleic acids research
+3392 nucleic acids research
+3399 nucleic acids research
+3401 nucleic acids research
+3400 nucleic acids research
+3402 nucleic acids research
+3393 nucleic acids research
+3398 nucleic acids research
+nucleic acids research
+worm zk675
+pseudocount residue frequencies
+close homolog
+simple pairwise sequence comparison
+position-specific score matrix constructed
+total running time
+extension step typically accounts
+original blast program
+ring finger domain
+pennsylvania state university
+observed frequencies fi
+dna­dna comparison
+swiss-prot sequences yielding alignments
+true multiple alignment procedure
+path graph region explored
+ungapped extension ungapped extensions 92
+reduced multiple alignment mc
+genetic disease research
+relative running times
+amino acids occur
+shuffled sequences yielding e-values 1
+locally optimal pairs
+additional close homologs
+arbitrary pseudocount parameter
+profile search methods frequently
+nucleic acids res
+random amino acids
+alignment equal weight
+non-overlapping word pairs
+resulting local alignments
+substantially larger xg parameter
+single isoleucine carries
+gapped alignment scale parameter
+total time spent
+shown brct proteins returned
+pairwise local alignments
+jannaschii mutt protein
+brct protein bard
+target frequencies implicit
+closely related type
+independent observations constituted
+seek local alignments
+generate gapped alignments
+008 2e-07 3e-07 7e-04 0
+dr gregory schuler
+de la bastide
+bb kiaa0259a f37d6
+rat galt drops
+broad bean leghemoglobin
+locally optimal alignments
+original blast algorithm
+residue relationships vis
+original blast programs
+biologically meaningful similarity
+statistically significant alignments
+true positive returned
+blosum-62 substitution scores
+affine gap costs
+gapped local alignments
+smith­waterman algorithm
+smith­ waterman algorithm
+requiring fewer extensions
+hsp aligns leghemoglobin residues 55­65
+target frequencies observed
+specific local alignments
+8
+
+gapped blast low
+position-specific score matrices
+117 position-specific score matrices
+operating system irix
+immediately cement confidence
+original query sequence
+observed residue frequencies
+hit involving words starting
+high-scoring local alignments
+blosum-62 substitution matrix
+single mutational event
+plant protein observed
+relative times spent
+arbitrary scoring system
+gapped blast program 15
+gapped blast program
+optimal local alignment
+original blast applied
+efficient execution requires
+position-specific substitution scores
+fission yeast spac6g9
+strongly significant alignment
+21st distinct character
+elegans schizosaccharomyces pombe
+preliminary studies suggest
+haemophilus influenzae galt
+arbitrary local alignment
+normalized score required
+ungapped local alignments
+rat galt protein
+weaker pairwise alignments
+single word pair
+5th iteration onward
+maximal aggregate score
+extra time required
+substantial time required
+17 programming path graph
+detecting distant relationships
+putative brct domain
+brct domain consists
+position-specific gap costs
+human adenovirus type 4
+ip js ij
+statistically significant alignment
+produce gapped alignments
+resulting psi-blast program
+ungapped alignments subsumed
+typical-length protein query
+retaining comparable sensitivity--
+requires 2p ­ p2  0
+initial database scan
+resulting gapped alignment
+initial blast search
+full path graph
+optimal gapped alignment
+single artificial sequence
+dynamic programming proceeds
+closely related proteins
+deriving gap costs
+gapped blast comparisons
+background probabilities pi
+generating gapped alignments
+retain comparable sensitivity
+sequence weighting methods
+20 target frequencies qi
+extending word pairs
+generating score matrices
+gapped blast iteration
+unique positive number
+single brct domain
+full-scale database search
+arabidopsis t10m13
+undergoing conceptual translation
+substantial user intervention
+elegans synechocystis sp
+actual synechocystis sp
+cthe trypanosome est
+influenzae galactose-1-phosphate uridylyltransferase
+07 kiaa0170 53bp1 t13f2
+position-specific score matrix
+characterized protein families
+protein family
+gapped extension takes
+rare gapped extension
+4000 ungapped extensions avoided
+bacterial brct protein
+highest-scoring length-11 segment
+initial blast run
+evolving multiple alignment
+high alignment scores
+gapped blast run
+path graph explored
+reverse extension accounting
+reverse extension terminates
+psi-blast iteration requires
+gapped blast programs
+large human protein
+simple protein model
+optimal alignment score
+human hit protein
+single gapped alignment
+sequence weighting method
+lowest-scoring alignments found
+elegans brct proteins
+relevant statistical parameters
+normalized hsp score
+running time
+biological database searches
+extra computation required
+computation required decreases
+c-terminal brct domain
+brct domain form
+database sequence segments
+full database search
+cerevisiae trypanosoma cruzi
+note source code
+gapped extension generated
+initial multiple alignment
+single database sequence
+execution time required
+original one-hit method
+highest alignment score
+pairwise sequence comparison
+comparing database sequences
+realign database sequences
+alignment scores produced
+compares protein queries
+multiple alignment generated
+multiple alignment involving
+alignments produced suggests
+search space size
+execution time unduly
+xg parameter serves
+xg dropoff parameter
+input scoring systems
+generate model hsps
+score matrix produced
+left unaligned receives
+standard sgi
+dr eugene koonin
+0 1 1 1 2 2 2 2 3 3 4 4 4 5 5 5 5 6 6 6 7 7 7 7 8 8 9 10 11 15 7 9 13 15 15 16 16 16 2e-06 4e-06 4e-04 0
+fourth international conference
+significant alignments found
+score matrix generated
+additional 22 non-overlapping hits
+gapped extension routine
+2766 path graph cells
+path graph cells
+dr warren gish
+low psi-blast e-values
+database sequence segment
+earlier gapped version
+identify significant similarity
+simple blast run
+two-hit blast heuristics
+central residue pair
+involving leghemoglobin residues 119­140
+marginally significant e-
+raw multiple alignment
+pairwise comparison methods
+constructing matrix scores
+including gap characters
+length precisely equal
+lipman
+national center
+score matrix architecture
+database search methods
+important theorem states
+single psi-blast iteration
+gapped alignment algorithm
+10 000 random protein sequences
+random protein sequences
+substantially augmented speed
+sensitive scoring system
+lowest-scoring alignment found
+shuffled database sequences
+hit pairs yields
+identical shuffled-database test
+1739 significant similarities found
+extension step consumes
+human dna-ligase iii
+amino acids
+single aligned pair
+moderate score sg
+ij + pipjelusij 3
+subsequent psi-blast iterations
+theory precisely valid
+experimentally determined parameters
+attain reasonable sensitivity
+running alignment
+triggering gapped extensions
+run significantly faster
+database search algorithms
+database search stage
+retinoblastoma family
+received lower scores
+matrix scores constructed
+hit family
+gapped extension steps
+gapped extension illustrated
+genome research
+ungapped extensions illustrated
+blast gains speed
+achieve comparable sensitivity
+usa
+received june 20
+substitution matrix sij
+specific similarity measure
+simple sequence comparison
+constructing sequence weights
+multiple alignment constructed
+brct proteins proteins
+distinct hsps involving
+dropoff parameter set
+swiss-prot reveals hits
+case examined finds
+earlier heuristic methods
+`original blast
+original blast
+input score matrix
+score matrix constructed
+qi + af
+specific pattern position
+false positives involved
+target frequency estimation
+pairwise alignment columns
+motif search programs
+independently occurring instances
+smith­waterman
+multiple alignment simply
+runs >100 times faster
+combined 11 queries misses
+detect weak relationships
+trigger ungapped extensions
+appropriately modified version
++ ls * ln
+involved running
+algorithmic stages overhead
+involve varying numbers
+dna res
+produce accurate estimates
+position-specific matrices
+calculate reliable statistics
+report accurate statistics
+performance evaluation section
+psi-blast psi-blast performs
+multiple alignment construction
+entail multiple hits
+normalized scores 19
+normalized scores
+precomputed statistical parameters
+true positive
+multiple alignment column
+score matrix construction
+dna query
+greatly increase sensitivity
+blast output data
+target frequencies
+independent observations
+original algorithm
+hit proteins holm
+local alignments
+128 local alignments
+statistically significant
+normalized score
+normalized score 32
+score normalized
+ungapped extension invoked
+detailed analysis
+missing weak similarities
+implicitly specifies
+histidine triad
+substitution matrices
+detailed examination
+typical two-
+psi-blast scores <50 bits
+protein n-terminal
+dna sequences
+pairwise alignments
+raw frequencies
+blosum-62 matrix
+seeking multiple hits
+blast searches
+recent hit found
+important kg parameter
+blast program
+strongly similar
+dna repair
+dna seq
+human protein
+relative number nc
+computer science
+17
+
+3389­3402
+
+gapped blast
+`gapped blast
+gapped blast
+0 gapped blast 275 108 252 28 128 53 137 261 211 81 197 0
+university park
+scoring system
+compared query sequences
+single protein
+gapped alignments
+brct protein
+position-specific matrix
+genbank accession
+significant alignments
+position-specific iteration
+general vary
+positive score
+two-hit method generates
+alignments produced
+path graph
+derived matrices
+alignments involving
+empirically estimated probability
+dna databases
+scoring systems
+leghemoglobin sequence
+default cutoff e-
+mus domestica
+automatically identify
+high-scoring alignments
+studies suggest
+local alignment
+protein sequence
+program overhead
+achieve improved sensitivity
+protein comparisons
+database searches
+gi +
+dna queries
+blast search
+algorithm requires
+optimal alignment
+iteration takes
+protein database
+weaker relationships
+yields greater speed
+brct domain
+estimate statistical significance
+detecting alignments
+iv
+ygr103w
+gap characters
+scoring matrix
+original versions
+scores produced
+gapped extensions
+ungapped alignments
+0
+
+psi-blast low
+significant similarities
+low e-values
+program runs
+single sequence
+execution time
+high-scoring pair
+dynamic programming
+substitution matrix
+figure 3c constitutes
+gap costs
+producing alignments
+sapiens
+resulting increase
+gap scores
+ungapped segments
+method requires
+psi-blast program
+initial query
+residue pair
+pairwise comparison
+protein sequences
+general architecture
+gapped alignment
+query directly
+observed frequency
+blast run
+search space
+times represent
+blast algorithm
+figure 1 shows
+sequence similarities
+blast programs
+database search
+false positives
+algorithmic ideas
+converted internally
+pattern embodied
+sufficiently high
+elegans f26d2
+simultaneously raising
+fully automatically
+synechocystis sp
+`target frequency
+galactose-1-phosphate uridylyltransferase
+trypanosome est
+processor speeds
+family
+motif searches
+national library
+national institutes
+matrix scores
+alignment involving
+blastp program
+ssearch program
+database sequence
+independent sequences
+segment pair
+subsequent iterations
+worm protein
+gapped extension
+high-scoring alignment
+ungapped extensions
+length-11 segment
+time warps
+time command
+processing time
+computational methods
+top scoring 500
+related sequences
+255 previously published
+directory `blast
+blast employs
+increase blast
+blast comparison
+applying blast
+modifying blast
+word hits
+multiple iterations
+varying score
+simple sequence
+multiple alignment
+greatly reduced
+search results
+query sequence
+alignments illustrated
+theoretical foundation
+weak alignments
+alignments achieving
+reverse extension
+initial step
+arbitrary scale
+parameters produced
+central pair
+score matrix
+nominal scores 37­92
++ bk
+related work
+identical runs
+alignments found
+brct proteins
+query segment
+interesting members
+gapped version
+small gain
+generated successfully
+psi-blast search
+coiled-coil domain
+search swiss-prot
+single valine
+single member
+single motif
+blast applied
+equivalent tests
+due primarily
+full analogy
+decreased substantially
+protein databases
+iteration runs
+simple query
+significant result
+alignment score
+fasta program
+intelligent systems
+result involving
+blast output
+relative speeds
+relative abilities
+simpler `reduced
+relative weights
+model proteins
+time needed
+ungapped extension
+runs faster
+swiss-prot database
+50 database sequences
+database sequences
+multiple copies
+scores downgraded
+log-odds scores
+issues discussed
+small number
+nominal score 75
+nominal score
+nominal score 40
+nominal score 45
+nominal score 23
+psi-blast iteration
+search stage
+earlier heuristic
+modified blast
+xg parameter
+shuffled version
+sequence comparison
+sequence weights
+study
+banded section
+enhance significantly
+marginal gains
+weak similarities
+international conference
+easily generalized
+001 4e-06 6e-05 0
+zebrafish ortholog
+left produces
+chance similarities
+times required
+hit pair
+brct domains
+simple sequences
+non-overlapping hits
+hit extensions
+output produced
+aligned pair
+11 query sequences
+query sequences
+database searched
+database sizes
+database scanning
+plenum press
+aaai press
+complete matrix
+automatic iteration
+13th iteration
+ceased iteration
+iterated application
+current strategy
+hsp generated
+times faster
+40 times faster
+small fraction
+maximum score
+current hit
+significant e-
+single hits
+relative numbers
+searching protein
+human kiaa0259
+human pescadillo
+degrading unduly
+similar agreement
+variant form
+considerably faster
+form log
+bacterial ligases
+similar organization
+simple count
+one-hit heuristics
+typically report
+current version
+scores increased
+swiss-prot accession
+band-width parameter
+threshold immediately
+psi-blast extension
+psi-blast programs
+human brca1
+future iterations
+random similarity
+yielded results
+compare protein
+scores sij
+random sequences
+10 000 random sequences
+aligned score
+complete alignment
+global alignment
+higher-scoring alignment
+imposing alignment
+alignment mc
+alignment variability
+immediately vitiated
+machine runs
+central lines
+important element
+methods enzymol
+computation saved
+biological relevance
+important issue
+two-hit methods
+greatly enhanced
+general idea
+output routine
+statistical parameters
+improved matrix
+takes approximately
+reasonable measure
+reasonable scheme
+gapped versions
+swissprot accession
+ddbj accession
+embl accession
+refined algorithm
+basic algorithm
+raised substantially
+rigorous algorithm
+algorithm checks
+statistical assessment
+statistical perspective
+statistical preliminaries
+psi-blast 3401
+
+retains
+brct superfamily
+extension step
+extension stage
+adenovirus residues 101­122
+popular programs
+identical residues
+near-significant e-values
+random noise
+identified similarity
+random trial
+searched swiss-prot
+swiss-prot annotation
+ungapped region
+worm sequences
+unrelated sequences
+alignments reported
+distinct hsps
+100 000 model hsps
+involve 4000 cells
+protein sci
+relative simplicity
+specific column
+previously recognized
+residue types
+general simplicity
+found psi-blast
+score sij
+key parameters
+calculable parameters
+parameters studied
+query consisting
+statistical significance
+user times
+hit proteins
+sequences found
+simple procedure
+starting positions
+hsp score
+query words
+algorithm sensitivity
+fact participate
+string edits
+arecent additions
+dependency easy
+von hippel
+shaded portions
+timing experiment
+003 1e-04 6e-04 0
+depends critically
+computational cost
+greatest scope
+assign weights
+virtually guaranteed
+fair degree
+sufficiently large
+two-hit strategy
+discrepancy arises
+completely analogous
+potential advantages
+no-gap case
+precise definition
+algorithmic stages
+menlo park
+worm r13a5
+12a ym8021
+zheng zhang
+horse -globin
+sacrifice rigor
+wander arbitrarily
+terminal deoxynucleotidyltransferases
+longer supplied
+thick bars
+searched swissprot
+remain static
+minor modifications
+febs lett
+worm t13f2
+molecular biology
+selecting seeds
+popular pam
+edge-effect correction
+prior knowledge
+jinghui zhang
+called profiles
+records `traceback
+delineate completely
+genes dev
+major algorithmic
+extremely accurate
+length-567 influenza
+12a f26d2
+incorrect classification
+net speedup
+dirichlet mixtures
+accepted july 16
+upper limit
+webb miller2
+great majority
+figs 3a
+p4-tetraphosphate phosphorylase
+minor calculation
+zheng zhang2
+fixed amount
+introduction variations
+remains valid
+distinct operations
+minor variant
+3a k04c2
+three-dimensional structures
+occurred frequently
+predefined strip
+scanned sequentially
+anonymous ftp
+pattern position
+grant lm05110
+gov/ acknowledgements
+molecular biologist
+schäffer1
+500-residue low-complexity
+helpful conversations
+future improvement
+poor measure
+web site
+recent additions
+statistical evaluation
+215 c-terminal residues
+c-terminal 215 residues
+score sufficient
+recent hit
+hit lies
+hit decreased
+psi-blast finds
+constructing hsps
+random simulation
+cutoff e-
+interactive version
+blastp version 1
+single-hit version
+15 extensions invoked
+central idea
+found empirically
+ratios found
+original
+completely aligned
+gap cost
+two-hit method
+50 000 000 total residues
+involve residues
+speed unduly
+combined result
+psi-blast output
+heuristic stages
+seed-selection heuristic
+two-hit heuristic
+threshold parameter
+psi-blast statistics
+effective number
+greatest number
+large number
+sensitivity realized
+larger number
+cells expanded
+>50 times greater
+simple generalization
+estimated accurately
+performance evaluation
+statistical tests
+parameter set
+parameter settings
+sequences recorded
+converge simply
+nature genet
+simply collect
+applied unchanged
+greater range
+greater detail
+short distance
+band explored
+expected score
+proteins recorded
+accurate estimates
+central difficulty
+biological examples
+differ greatly
+extremely good
+statistical theory
+current implementation
+database length
+one-hit method
+output stage
+xg set
+one-hit heuristic
+respective positions 60
+pattern positions
+average amount
+approximate positions
+heuristic nature
+fasta package
+similar function
+intelligent choice
+hits qualify
+successive hits
+remain limited
+proper extent
+sjölander
+incorrect choice
+2 goodness-of-fit test
+56 sjölander
+greater number
+psi-blast corresponds
+psi-blast examples
+-globin residues 57­67
+residues favored
+conserved residues
+alanine residues
+extensions performed
+residues appearing
+aligned words
+constituent hsps
+alignment column
+lowest e-
+seqs e-
+combined e-
+modified version
+score >38 bits
+analytic theory
+basic theory
+brca1 sequences
+construct mc
+statistical refinements
+gain speed
+aligned residues
+improved estimation
+estimated probability
+reasonable accuracy
+figure 3a
+diverse set
+multi-stage process
+hit-processing component
+large set
+nonoverlapping length-
+higher chance
+sophisticated approaches
+fitting extreme
+embryonic development
+increasing load
+experimental error
+automatic operation
+alternative routes
+log-odds formula
+leaves open
+precomputed values
+desired set
+reasonable estimate
+divergent sequences
+increased probability
+sij = [ln
+important motifs
+brca1 makes
+triggering hsp
+psi-blast includes
+one-hit default
+biotechnology information
+03 yhr154w c36a4
+major refinements
+structural information
+generate
+assess significance
+worm c36a4
+detect hsps
+times reported
+limited extent
+waterman
+24 smith
+12 smith
+7 waterman
+fewer
+smith
+15 waterman
+unknown function
+machine ncbi
+finally replacing
+sophisticated manner
+good theory
+complicate estimating
+increased speed
+finds differ
+long gaps
+window length
+approach considers
+estimate qi
+inappropriate inclusion
+cases suggests
+good setting
+calculating weights
+inverting equation 3
+pairs
+matrices
+equation 3 sum
+realignment procedure
+average ratio
+word
+7 bit hsp
+heuristic approach
+productively chosen
+recent addition
+seed derives
+optimal
+references
+1 altschul
+low
+columns consisting
+column consisting
+default set
+explores 2000 3393
+
+figure 4
+hsp failed
+elegans
+paper describes
+automatically
+17 smaller
+xu set
+real difference
+high
+musculus
+x1 ­ x2
+searches
+sg bits
+program
+protein
+locate hsps
+sufficient lengths
+time
+expected values
+defined threshold
+speed advantage
+blast
+hsps included
+figure 5a
+relationships
+yeast 5
+alignments
+missed due
+gapped
+received
+representative cases
+directly
+significant
+median p-
+related
+observed
+produced
+segments
+path
+generated
+distribution fits
+domain
+single
+substantially
+code
+produce
+jannaschii
+returned
+short
+relative
+costs
+reduced
+scores
+20 scores
+residue 108
+residue
+general
+gap
+search
+pair
+sequence
+gov
+lactis
+perform
+similarities
+yielding
+derive
+size
+1731 similarities
+inserted
+uncover
+roughly
+power
+uncovered
+aligns
+galt
+pi
+generating
+pombe
+extensions
+inaccurate
+profile
+>98% identical
+comparisons
+identical
+introduced
+database
+required
+altschul@ncbi
+ungapped
+press
+segment
+matrix
+iteration
+060
+
+iteration
+dynamic
+
+*
+members
+iterated
+score
+score 23
+score 32
+score ­
+ij
+
+4
+similar
+starting
+producing
+derived
+include
+constructing
+interesting
+simple
+parameter
+query
+execution
+results
+explored
+alignment
+total
+involve
+runs
+computation
+occur
+important
+methods
+xg
+recognized
+run
+algorithm
+34 psi-blast 286 111 375 623 130 53 160 338 224 142 207 0
+psi-blast
+extension
+similarity
+random
+programs
+e-values <1
+e-values >0
+swiss-prot
+59 576 sequences
+sequences
+proteins
+parameters
+14 times
+500 times
+times
+2 times
+`two-hit
+performs
+permits
+algorithms
+position
+entail
+retaining
+extend
+weak
+receives
+families
+steps
+precomputed
+algorithmic
+stages
+constructed
+010 4e-04 0
+longer
+mc
+states
+increase
+60 holm
+note
+performance
+case
+comparison
+combined
+two-hit
+translation
+determined
+empirically
+4% chance
+accurate
+user
+recent
+input
+yields
+step
+called
+independently
+weights
+illustrated
+cell
+3c
+larger
+t13f2
+8 suggests
+including
+p2  0
+identified
+measure
+qi
+pattern
+motif
+11 large
+frequently
+stage
+chance
+`hit
+hit
+version
+version 6
+version 2
+01 found
+found
+aligned
+significance
+method
+result
+heuristic
+previously
+80 cells
+sensitivity
+number
+cells
+estimated
+domains
+one-hit
+evaluation
+applied
+gaps
+nature
+improved
+finds
+simply
+scale
+simulation
+greater
+achieve
++
+10 +
+`+
++ 1
+estimates
+consisting
+triggering
+sg
+shown
+detect
+numbers
+good
+[ln
+involved
+estimation
+increased
+ln 2 1
+output
+average 3
+procedure
+statistics
+average
+probability
+positions
+databases
+words
+region
+sij
+hsp
+limited
+calculate
+15 hits
+needed
+spac6g9
+fasta
+extending
+extent
+trigger
+fraction
+lander
+test
+choice
+modified
+constitutes
+typically
+seeking
+recorded
+18 spac6g9
+probabilities
+idea
+instances
+lower
+generates
+37 hits
+hits
+tests
+cerevisiae
+due
+residues
+21 219 450 residues
+residues 124
+143 residues
+11 queries
+queries
+hsps
+e-
+qij
+sufficient
+theory
+discussed
+default
+construct
+`threshold
+threshold
+speed
+sensitive
+117 3391
+
+figure 1
+117 3397
+
+figure 6
+figure 7
+figure 2
+figure 3
+figure 4
+figure 5
+figure 6
+realignment
+increasing
+error
+types
+operations
+band
+65 koonin
+kiaa0259
+xu
+raised
+vitiated
+theoretical
+explores
+data
+formula
+routes
+open
+x2
+x1
+ratio
+settings
+real
+specifies
+difference
+component
+difficulty
+simplicity
+paper
+easily
+operation
+differ
+set
+missing
+corresponds
+describes
+representative
+p-
+higher
+length-
+generalization
+bit
+examples
+long
+values
+extreme
+remains
+koonin
+process
+fits
+pescadillo
+setting
+superfamily
+approaches
+assess
+development
+brca1
+invoked
+expected
+versions
+c36a4
+gish
+refinements
+information
+searching
+construction
+divergent
+ncbi
+10 divergent
+manner
+implementation
+5a
+nc
+finally
+advantage
+cost
+compare
+failed
+columns
+lengths
+defined
+estimating
+accuracy
+locate
+column
+= nc ­ 1
+function
+table 3
+table 2
+table 1
+table 4
+17
+table 3
+table
+length
+estimate
+kg = 0
+approach
+reported
+length 567
+kg
+iii
+lipman
+length 250
+cases
+median
+inclusion
+includes
+included
+science
+calculating
+33 bits
+bits
+22 bits
+6 bits
+38 bits
+4 bits
+1 bits
+equation
+equation 1
+equation 3
+equation 2
+approximately
+motifs
+distribution
+compared
+missed
+chosen
+addition
+sci
+usa
+seed
+performed
+distance 40
+distance
+altschul
+43 altschul
+22 altschul
+10 altschul
+58 altschul
+86 altschul
+altschul*
+6 altschul
+84 altschul
+11 altschul
+3 altschul
+52 henikoff
+phung
+desirable
+searls
+0u54
+rise
+encounter
+`outvote
+force
+miller
+implemented
+69 wu
+established
+81 sonnhammer
+refinement
+represented
+obtained
+bonfield
+qi/pi
+permit
+berks
+york
+stray
+unix
+counts
+experimentation
+negative
+substitutions
+33 dodd
+87 richardson
+hofmann
+gattung
+ed
+55 karplus
+wang
+give
+bennett
+belonging
+david
+47 henikoff
+absolute
+end
+provide
+place
+sato
+demanding
+gottesman
+attempt
+schneider
+operate
+order
+75 barrell
+executed
+83 fitch
+coulson
+fig
+widely
+combination
+17
+29 staden
+57 wootton
+lodhi
+precedes
+p49789
+lengauer
+adapt
+chothia
+medicine
+gaasterland
+shattuck-eidens
+becker
+incorporated
+p16550
+suhai
+render
+hwang
+gocayne
+compromise
+listed
+enhancing
+rejected
+approximation
+erickson
+fiers
+preparation
+matter
+ran
+ram
+= mn
+forced
+convenient
+-
+z72888
+44 sibbald
+optimized
+letter
+fleischmann
+observation
+calculated
+inoue
+seki
+accounted
+purged
+attempts
+hasegawa
+thirds
+copy
+accelerate
+dc
+blanquet
+pearson
+kastury
+reference
+brinkman
+addison-wesley
+bucher
+//www
+restricting
+yaegashi
+improve
+essentially
+krogh
+exceeds
+appeared
+blosum
+applicability
+nomura
+rajandream
+interest
+dilworth
+dots
+exception
+employ
+suppose
+applies
+gnoj
+mistake
+szabo
+croche
+expending
+ii
+make
+drawback
+potentially
+010 8e-04 0
+myers
+nih
+50 gotoh
+sasamoto
+35 patthy
+18 henikoff
+echoed
+kawakami
+simulated
+28 mclachlan
+proposed
+ease
+emphasis
+boguski
+trimming
+egan
+f37a4
+du
+palazzo
+advanced
+disadvantage
+desire
+performing
+1997
+
+abstract
+bork
+cooper
+/
+deleted
+kruskal
+olsen
+100 units
+vingron
+obtaining
+acad
+59 benson
+amsterdam
+53 brown
+precludes
+width
+anderson
+lowe
+barber
+p38398
+5 sellers
+considered
+delete
+proved
+54 bailey
+expertise
+generally
+70 tanaka
+72 johnson
+shrink
+permitting
+constructs
+assume
+bottom
+backward
+row
+depend
+tanaka
+mallee
+brown
+hirosawa
+ma
+17 schwartz
+level
+coalescing
+round
+dealing
+34 degrees
+assistance
+lead
+template
+nakamura
+appears
+change
+commonly
+durbin
+plotted
+lowers
+baer
+2department
+sake
+suppl
+opposed
+introducing
+mitchison
+apparent
+fly
+avoiding
+fulton
+claim
+d90904
+77 kaneko
+carroll
+allowed
+90 fulton
+discussion
+gribskov
+criterion
+product
+huylebroeck
+62 heidenreich
+explicit
+schwartz
+p31764
+faseb
+physiol
+argued
+coordinates
+correspondence
+evol
+half
+discuss
+developments
+execute
+tavtigian
+misassembled
+rendering
+drop
+weighted
+revised
+approximates
+approximated
+1laboratory
+factors
+contained
+maita
+possibility
+harshman
+d87228
+federhen
+omitted
+specifically
+researcher
+array
+chem
+white
+speaking
+14 mott
+require
+30 schneider
+76 johnston
+ann
+psiblast
+threlfall
+asamizu
+computationally
+= log2
+connell
+80 hernandez
+ideal
+price
+shavlik
+connor
+sutton
+pa 16802
+diagonals
+review
+show
+nlm
+stormo
+20 robinson
+conjunction
+yield
+summary
+16 dayhoff
+boundaries
+justified
+reading
+clayton
+spillman
+41 sellers
+specification
+poly
+88 matsuda
+carey
+prototype
+ohira
+21 karlin
+66 bork
+73 nagase
+macromolecules
+hughey
+engineering
+compile
+rawlings
+pruning
+pay
+dealt
+assigns
+003 agrees
+26 bairoch
+dimension
+charged
+fitzgerald
+guided
+ninth
+aspect
+captured
+druck
+scawen
+19 wilbur
+confines
+mol
+p02062
+reduces
+36 stormo
+kawarabayasi
+moeri
+mccue
+dimensions
+apweiler
+refer
+devos
+padmanabhan
+4 t19e10
+hopkins
+swensen
+copsey
+involvement
+burton
+rescore
+madden
+md 20894
+md 20892
+5 gbytes
+dayhoff
+71 bult
+describe
+al
+diverged
+moves
+briefly
+symbol
+appl
+subjected
+79 allende
+fax
+5-p1
+decide
+condition
+lyall
+higgins
+list
+applicable
+employing
+tel
+past
+rate
+pass
+subscripts
+karlin
+sum-statistics
+avenues
+contrast
+andrews
+directions
+48 thompson
+saman
+hartzell
+vii
+analyzing
+readily
+mori
+automate
+iteratively
+lowering
+hoffman
+flag
+ohara
+p10406
+abandon
+challenging
+share
+accept
+robinson
+dismissed
+signature
+63 maskell
+fj
+tsan
+= 11 triggers
+developed
+signs
+existence
+ainscough
+polymerases
+fruitful
+bypass
+return
+propose
+hunter
+emtage
+wunsch
+referred
+neuwald
+formulate
+generation
+reduce
+extended
+51 krogh
+health
+offsets
+reason
+beginning
+retained
+needing
+corrupting
+ding
+27 jou
+leading
+identity
+master
+c-terminus
+option
+part
+sugiura
+yang
+treated
+bowcock
+comput
+mian
+build
+finding
+78 tabata
+added
+coordinate
+ku
+thomas
+find
+adp-ribose
+henceforth
+factor
+override
+wodak
+invoke
+segal
+verhoeyen
+compiler
+virology
+huebner
+investigate
+common
+locating
+achieved
+qij/pipj
+fang
+lowered
+seeded
+creating
+distinguish
+context
+]/
+siprashvili
+deadman
+consume
+reasons
+ehrenfeucht
+dobbs
+34 gribskov
+pp
+microbiol
+tolerate
+kotani
+evaluated
+optimization
+replaced
+buhler
+costly
+vol
+overlooked
+encountered
+confining
+42 lawrence
+shorter
+bethesda
+definitional
+confined
+cut
+9 dembo
+liu
+13 collins
+location
+23 needleman
+evaluate
+68 miki
+insert
+scaled
+5c
+essential
+25 sankoff
+back
+5b
+describing
+fromant
+proc
+prob
+bg
+cochran
+hoppe-seyler
+orcutt
+optimize
+concretely
+wootton
+67 callebaut
+rows
+question
+forward
+analyze
+line
+38 yi
+n-terminus
+leftward
+forgo
+points
+favello
+82 gotoh
+futreal
+structure
+delineation
+overlooking
+tradeoff
+miyajima
+eggert
+biol
+gold
+atlas
+overlaps
+wipfli
+ishikawa
+inspection
+compensates
+expressed
+expect 20%
+hameed
+led
+release 34
+baynes
+clark
+addressed
+apply
+tools
+refers
+bthe
+64 plateau
+averaged
+49 eddy
+haussler
+dropped
+purposes
+sought
+31 taylor
+tatusov
+moxon
+holds
+regions
+located
+ku = 0
+collection
+85 myers
+efficiently
+amenable
+correspond
+saturates
+mclachlan
+blake
+exclusion
+hypothesize
+choose
+defining
+weber
+outlined
+practice
+determine
+inverted
+alejandro
+equations 1
+burks
+gaiano
+waterston
+supports
+math
+sander
+retrieved
+diagonal
+automating
+manuscript
+8 karlin
+intuitively
+reached
+46 gerstein
+scans
+sonnhammer
+argos
+bacteriol
+prune
+collecting
+instance
+4 chao
+kaplan
+altman
+cotticelli
+2 pearson
+eisenberg
+proceedings
+supported
+bring
+baffa
+superimposed
+based
+attained
+employed
+means
+processes
+tuned
+gibson
+1 c19g10
+granat
+written
+schmidheini
+boundary
+email
+ability
+hypothesis
+problem
+wilbur
+figures
+ca
+hit-stage
+schmitter
+eds
+aligning
+define
+ensuring
+bull
+prescription
+biosci
+subsets
+align
+triggers
+greco
+vi
+units
+http
+effect
+mornon
+adapted
+obstacles
+39 henikoff
+sources
+32 berg
+rapid
+natl
+checking
+increases
+ostell
+74 wilson
+recognition
+40 bucher
+manipulations
+37 tatusov
+braunitzer
+freedom
+45 sander
+letters
+washington
+karplus
+dimension 20 × 20
+utility
+zeitouni
+triggered
+goals
+automated
+z81317
+made
+record
+henikoff
+recognize
+contribute
+61 ohta
+89 tokunaga
+identities
+variety
+details
+conclusion
+stat
+zhou
+agarwal
+schrank
+>90%
+1067­1078
+251 ± 0
+106
+2047
+010 0
+012 1
+91
+90
+95
+1991
+1990
+1993
+1992
+1994
+1997
+8 0
+587­597
+4355­4358
+1183­1187
+43­51
+37%
+505­519
+24%
+243
+001
+>0
+171
+273
+9 4 9 7 5 16 4 5 7 3 3 14 7
+698­705
+418­433
+460­480
+266­268
+11 1
+17 0
+4 2
+4 1
+188­196
+12
+17
+66­71
+647­653
+01
+05
+368
+361
+683­696
+251
+255
+1 8
+162
+1975
+1970
+4 0
+165­171
+33­37
+5 1
+59
+58
+54
+57
+51
+52
+1­14
+36
+567­577
+12091­12095
+633­660
+543­551
+005 0
+367­381
+8­10
+119­129
+1 10 0
+28­37
+28­38
+0
+1996
+321­329
+345­352
+1107­1116
+67­71
+2022­2039
+813­818
+723­750
+078 3
+11 2
+236
+1
+147
+2104545
+1­6
+94 1
+004 0
+87 0
+1995
+2
+723­728
+327­345
+11
+10
+13
+15
+14
+16
+19
+18
+574­578
+4 × 10­5
+<50%
+207
+20%
+290­300
+233­258
+2264­2268
+481­487
+603­616
+8880­8884
+11­17
+208­214
+92%
+215­221
+9 3
+109­136
+46 0
+3
+359­373
+31­36
+86 3
+1987
+1978
+52­54
+61
+62
+63
+64
+65
+67
+68
+69
+2 × 10­4
+0 8 9 9 2 8 11 9 6 15 9 10 8
+15%
+135­143
+216
+9­45
+219
+76
+<2%
+4
+13 8
+1058­1073
+353­358
+60
+1 10 3
+002 0
+9
+5
+= 11
+= 13
+2 0
+3051­3063
+198
+194
+197
+193
+0031 0
+195­197
+80 0 1 0 0 3 2 1 1 0 0 2 0
+008 0
+149­163
+5 3
+5 0
+6
+001 0
+30 0
+84 1
+3­23
+24
+25
+26
+27
+20
+21
+22
+23
+29
+47­55
+7
++1 301 496 2475
+301­307
+501­514
+311­318
+188
+2444­2448
+91 0
+77
+75
+74
+73
+72
+70
+79
+78
+215
+8
+1176713
+555­565
+59­75
+79 0
+430­440
+5­7
+32
+30
+<0
+400
+415­431
+9­23
+002
+006 0
+65­67
+662142
+27 0
+1382­1386
+12­15
+52­56
+10915­10919
+6437­6445
+= 40
+71
+117 3395
+012
+82­85
+557­564
+56­68
+39
+33
+31
+37
+34
+= 3
+= 0
+443­453
+= 9
+23­25
+19­29
+15­30
+726­730
+21 3
+66
+155
+0 1 0 0 0 2 0 0 1 2 1 1 0
+134
+87 1 0 0 0 1 2 0 2 1 2 2 1
+1651660
+645­656
+025
+88
+89
+80
+81
+86
+87
+84
+85
+25­30
+1983
+3399
+26 0
+3 0
+32­38
+15­24
+80 0
++1 301 480 9241
+53
+68­76
+5873­5877
+031
+035
+3141­3155
+0 0
+× 20
+017 0
+262
+266
+1315­1328
+117
+403­410
+7 7 4 8 7 11 6 2 7 5 10 8 6
+1986
+1984
+1985
+1982
+1980
+1981
+1988
+1989
+705­708
+74 0
+8%
+3176
+48
+46
+47
+45
+42
+43
+40
+41
+169

@@ -1,0 +1,13 @@
+99033txt
+ld
+q2
+snp
+populations
+snps
+j
+variation
+genetic
+master
+common
+human
+samorogu

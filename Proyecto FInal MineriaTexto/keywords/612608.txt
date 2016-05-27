@@ -1,0 +1,369 @@
+throughput functional
+similarity
+Giegerich
+unweighted
+computation
+Department
+multibranched
+inferences
+nearoptimal
+Foundation
+dimensionality
+longstanding
+intensive
+stochastic
+Statistical prediction
+BOLTZMANN ENSEMBLE
+minimization algorithms
+statistical reproducibility
+advantage
+individual structural
+thermodynamics-based
+Heliobacterium
+published statistical
+secondary structural
+applicable
+Weighting
+laborious algorithm
+INFERENCE APPROACH
+revolution
+occurrence
+structure prediction
+perspective
+crystallography
+statistical estiReprint
+canonical
+advantageous
+SantaLucia
+homologous sequences
+specification
+statistical characterization
+GM068726
+PARTITION FUNCTION
+segmentation
+Secondary structure
+knowl328
+THERMODYNAMIC PARAMETERS
+secondary structures
+excellent agreement
+Published
+consideration
+Computational
+computational prediction
+structure predictions
+Boltzmann-weighted
+practical pseudoknot
+resonance
+inference
+base-pair probabilities
+providing computing
+Evaluation
+landscape
+confidence
+individual structures
+examination
+Hall/CRC
+Bioinformatics
+equilibrium distribution
+clotelab/RNALOSS
+conformational
+biopolymer sequences
+CONCLUSIONS
+particular
+free-energybased algorithm
+Rosenblad
+Birmingham
+following
+Incorporating
+ensemble-level
+diversified sequences
+calculation
+substantial uncertainty
+Nussinov­Jacobson
+nonstructural
+biological sequences
+information
+burgeoning
+redundancy
+recursive
+methodology
+significance
+algorithm development
+parameter
+clustering procedure
+Essentially
+Efficient representation
+thermodynamic
+ensemble-based
+mode=software
+efficient representation
+departure
+complexity
+algorithms
+fundamental
+correlation
+representation
+pre-mRNA
+interpretation
+Biochemistry
+Functionsa
+antisense
+conditional distribution
+stability
+statistical
+Modification
+conceptual simplicity
+Boltzmann equilibrium
+Copyright
+Schroeder
+RNAsubopt
+suboptimal
+particular quantities
+STATISTICAL SAMPLING
+Boltzmann distribution
+programming algorithm
+interaction parameters
+classical statistics
+Alternatively
+framework
+developments
+structure INTRODUCTION
+thermodynamics parameters
+appropriate
+structures consisting
+magnitude
+STATISTICAL INFERENCE
+computing suboptimal
+Subramanian
+Statistics
+double-stranded
+Statistica
+frequency
+paradigmshifting
+interference
+near-optimal structures
+computation necessary
+Detecting
+evaluation
+foundation
+Uncertainty
+approaches
+homologous
+regulatory
+detecting
+temperature
+nearest-neighbor
+traceback
+STATISTICAL ESTIMATION
+counterpart
+appropriateness
+effective antisense
+Wadsworth
+experimental parameters
+probability
+variables
+Accordingly
+Inferential
+publication
+Downloaded
+single-stranded
+regulation
+assumption
+percentage
+Cambridge University
+Functionsa Statistical
+suitability
+conditional probabilities
+Andronescu
+ABSTRACT Prediction
+densityof-states algorithm
+Watson­Crick
+Computational Molecular
+motivation
+Correlated
+increment
+ACKNOWLEDGMENTS
+RNAshapes
+transcription
+generalized
+objective
+performance
+Altschul
+structural databases
+probabilistic
+observation
+surprising
+calculated
+principle
+prediction improvement
+incomplete
+accession
+knowledge
+implementation
+efficient statistical
+proportion
+molecules
+well-studied experimental
+equilibrium
+viewpoint
+frequentist
+moderate-length sequences
+statistical algorithm
+Thirumalai
+BayesFold
+suboptimal structures
+discussing
+predictive
+requirement
+MINIMIZATION PARADIGM
+sensitivity
+one-sequence
+equilibrium structure
+Biopolymers
+Compilation
+Posterior inference
+asymptotic inferences
+Boltzmann
+thermodynamic parameter
+reproducible
+FUNCTION APPROACH
+likelihood estimates
+available
+ribonucleic
+statistical estimates
+hypothesis
+BAYESIAN STATISTICAL
+Extracting
+Probability
+implementing
+structural computational
+Statistical
+Laboratory
+structure databases
+estimation
+experimental
+multiple-sequence
+noninformative
+Structure predictions
+probability distribution
+underlying molecular
+considering
+estimating
+efficient algorithm
+diversity
+quantities
+sufficient
+near-optimal
+Ribonuclease
+representative
+paradigm-shifting
+exponential
+empirical
+optimization
+low-energy
+Furthermore
+comparative
+different
+inference framework
+transmembrane
+computational structural
+efficient algorithms
+development
+independent
+high-frequency
+comprehensive
+free-energy minimization
+automation
+Bundschuh
+secondary structure
+nevertheless
+machinery
+statistical representation
+continuous parameter
+macromolecular
+ribosomal
+alternative
+alignment
+heuristic
+Estimation
+Structure clustering
+Rehmsmeier
+Springer-Verlag
+improvement
+thermodynamic parameters
+conditional probability
+RNAstructure
+Position-based
+hybridization
+kcal/mol
+SAMPLING APPROACH
+post-genomic
+ensemble-base approaches
+indicative
+pseudoknots
+structural predictions
+minimization algorithm
+Waldispuhl
+distinguishing biological
+statistical inference
+essential
+Recognition
+satisfactory
+Analogously
+Thermodynamic parameters
+McCloskey
+high-order algorithm
+substantial probability
+CLUSTER REPRESENTATION
+structural information
+scientific
+minimization
+structure information
+Typically
+comparison
+Revolution
+extension
+Vassilenko
+dependence
+particular modification
+longestablished
+obtaining
+dictionary definition
+edge-based
+REFERENCES
+proportional
+clustering
+statistics
+nucleotide
+quadratic
+Excellent
+Samuelsson
+base-pairing probabilities
+metastable
+comprehensive comparison
+construction
+biological structure
+predicted structure
+ancestral
+exploration
+distribution
+smoothing algorithm
+computing
+formulation
+covariation
+McCaskill algorithm
+Calculating
+estimating thermodynamic
+application
+ambitious
+Improving
+conclusion
+energetic
+conditional independence
+thermodynamic predictions
+important
+Uhlenbeck
+auxiliary
+Principles
+mRNA-targeting
+clustering representation

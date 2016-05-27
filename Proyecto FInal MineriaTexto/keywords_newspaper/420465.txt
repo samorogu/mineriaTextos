@@ -1,0 +1,13 @@
+elements
+hces
+al
+420465txt
+regions
+conserved
+conservation
+master
+utrs
+genes
+et
+samorogu
+genome

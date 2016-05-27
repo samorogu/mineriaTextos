@@ -1,0 +1,13 @@
+571538txt
+sequence
+snps
+al
+mutations
+prediction
+strain
+master
+genome
+et
+samorogu
+mutants
+mutation

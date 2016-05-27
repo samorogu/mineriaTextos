@@ -1,0 +1,330 @@
+memory/CPU
+represent
+sequence alignment
+selection
+first-pass automatic
+abundant famimisleading
+desirable
+WU-BLAST
+erroneous splitting
+Research
+clustered
+visualization
+controversial
+Department
+Schleiermacher
+incremental analysis
+abundant
+Morgenstern
+Clustering Algorithms
+Consensusc
+relasuch
+probability
+parameters
+interesting
+different biological
+Molecular
+Non-Alus
+considering
+Samoilova
+reevaluated
+Ohlebusch
+regardlogical scenarios
+computational complexity
+biological scenarios
+sequence database
+Intelligent
+automatic classification
+defining
+distinction
+Received
+adjacent
+spurious
+Tc7-partial
+constructed beCertain
+Interfamily Similarity
+Analysis
+tionship determination
+similarity detection
+objective
+genome-scale analysis
+Giegerich
+cellular
+Missouri
+sequencing
+difference
+Microbiology
+contamination
+secondary
+significant aggregation
+evolution
+necessary
+schematic structure
+Selection
+Sequencing Consortium
+numerous
+identified
+juxtaposition
+construction procedure
+Reevaluation
+RepeatMasker
+reasonable
+arbitrary
+hiFigure
+servation
+randomaccess
+incorrect splitting
+predominant
+wordmask
+protein-coding
+erroneous
+platform
+statistical
+sequence
+generation
+Different biological
+phenomena
+threshold
+individual
+reevaluation
+particular combination
+Determination Procedure
+Existing
+phenotype paradigm
+analysis
+alignable sequences
+sequence identified
+evaluation
+Plasterk
+retrovirus-like
+Alu-containing
+transaldolase-associated repetitive
+Caenorhabditis
+subsequent
+high-frequency
+sequence libraries
+segment-to-segment approach
+fragmentary
+conservative
+boundaries
+representative sequence
+original definition
+identification
+eliminate
+International Conference
+fractional
+clustering algorithm
+boundary
+pairTable
+approach
+DIALIGN2
+McClintock
+available
+somewhat
+processing
+algorithmic
+Delineation
+Algorithm
+heuristic
+respectively
+equivalent
+reasonable clustering
+component
+Graphical
+canonical sequence
+REFERENCES
+efficiency
+eukaryotic
+Doolittle
+Automated clustering
+genome-scale
+Published
+composite bacterial
+described
+configuration
+beginning
+REsystematically
+comparison
+ill-defined
+Computational
+extension
+polymerase
+precursor
+significant sequence
+dependent replication
+iterative
+Proceedings
+ignoring
+practical
+addition
+misleading
+Analyzing
+segmental
+Computation
+aligning
+Transposon
+homologous
+suitable
+trimeric
+frequent
+large-scale comparative
+Relationship Determination
+erarchical evolutionary
+DIALIGN
+transposable
+advertisement
+classification
+large-scale
+WU-BLASTN
+inRECON
+substitution
+DISCUSSION contamination
+Construct
+misleading endpoints
+Detecting repetition
+Identification
+Therefore
+CROSSMATCH
+Flowchart
+classificaare
+envision
+clustering
+upRepeatMasker
+significant improvement
+Corresponding
+publication
+Difficulty
+distinct
+probabilistic
+indispensable
+retroalignment information
+Downloaded
+relationship determination
+L1-corresponding
+California
+therefore
+Automated
+respecpractical
+Otherwise
+sensitivity
+possible
+reevaluate
+Definition
+corresponding
+Although
+multielement
+composite
+simplistic classifiwhereas
+Bioinformatics
+training
+self-comparison
+necImages
+systematic
+particular
+processing short-period
+outermost alignment
+sequence similarity
+different inference
+Procedure
+acknowledge financial
+neologism
+all-versus-all comparison
+parameter optimization
+f46/MaLR
+Transposable
+organization
+Foundation
+accordance
+Consensus sequences
+Marshall
+definition
+RESULTS
+three-fold
+species-specific
+Zuckerkandl
+subsequence
+frequency
+evolutionary continuum
+repeat-rich
+MaLR-corresponding
+situation
+autonomous
+endpoints
+coincidental juxtaposition
+biological boundaries
+inferring
+Incorrect
+alignment endpoints
+Implementation
+FitzHugh
+syntopic
+Clusterb
+Furthermore
+asymptotic analysis
+elelength
+alignment information
+yielding incorrect
+degenerate
+full-length
+segmental duplication
+spanning
+Assessment
+All-versus-all comparison
+containing
+approach evaluating
+recovery
+multiple alignment
+Sonnhammer
+Repeatall
+arrangement
+majority
+Construction Procedure
+Repetitive sequences
+input/output
+aggressive threshold
+satisfactory
+significance
+METHODS Components
+filtered
+multiple sequence
+unalignable sequences
+corresponding biological
+composition
+postprocessing
+independent
+description
+consensus sequence
+opposite
+Institute
+comprehensive
+Sequence Families
+different
+aggregation
+Improvement
+important
+significant
+Laboratory
+meaningful
+annotation
+Automatically
+Sequenced
+Sapienza
+Inference
+performance
+algorithm
+Washington University
+RepeatMasker annotation
+Telos/Springer-Verlag
+parameter
+platypus
+together
+December
+sequence clustered
+represent full-length
+repetitive sequences
+procedure
+LTR+internal
+determination procedure
+DBI-0077709
+different RepeatMasker
+maskextra

@@ -1,0 +1,13 @@
+cancer
+disorders
+genes
+disease
+si
+1320727txt
+master
+fig
+human
+samorogu
+gene
+disorder
+essential

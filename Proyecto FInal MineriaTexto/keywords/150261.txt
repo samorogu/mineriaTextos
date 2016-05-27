@@ -1,0 +1,293 @@
+stochastic exploration
+cumulative
+Understanding Molecular
+Similarly
+stochastic algorithm
+67-nt-long
+Giegerich
+Jacobson
+Xayaphoummine
+Sherman­Morrison
+stimulating
+statistical
+differentiation
+tree-like secondary
+alternative
+Ministere
+studying
+clustering approach
+improbable structures
+Schuster
+visualization
+PAbLBPB
+Isambert
+probability
+parameters
+combinatorial
+shrinkage
+Veterling
+proportion
+improvement
+105-fold
+pseudoknot proportion
+speed-up distribution
+instantaneous efficiency
+Dyakonova
+stochastic
+extensive
+quasiindependent structural
+Bonhoeffer
+Gautheret
+equilibrium
+correspondence
+computational efficiency
+descriptive
+combination
+l'Universite
+free-energy
+Alternatively
+BIOPHYSICS Although
+394-nt-long Tetrahymena
+introduce
+100-fold simulation
+Pieczenik
+consecutive
+pseudoknots
+Although stochasticity
+Identifying
+intersection
+cerevisiae
+condition
+structural
+coarse-grained structural
+hereafter
+-operation
+Sullivan
+neighboring configurations
+performing
+structure prediction
+Abbreviation
+convenience
+right-to-left
+succession
+end-to-end
+difficult
+stationary
+configurations
+Clustering
+requirement
+occurrence
+Strasbourg
+67-nt-long artificial
+straightforward algorithm
+double-stranded
+simulation speed-up
+artificial sequences
+elementary
+individual
+intramolecular
+Scientifiques
+Expected
+Performance
+operation
+subsequent stochastic
+Structures
+connecting different
+numerical efficacy
+Gultyaev
+100-nt-long
+free-energy secondary
+Formally
+frameshift regulation
+dismissal
+powerful numerical
+150-ntlong
+Theoretical
+reminiscent
+Complexes
+unidirectional connection
+Pluchery
+pseudoknot formation
+Concertee Incitative
+clustering algorithm
+Ferre-D'Amare
+Escherichia
+Lebowitz
+available
+MATHEMATICS BIOPHYSICS
+structural rigidity
+Applying
+appropriate time-weighted
+Predicted structure
+University
+arbitrary
+Molecular Simulation
+out-of-equilibrium calculation
+stochastic RNAfolding
+Brenowitz
+formation
+long-time-scale RNA-folding
+Distribution
+configuration
+Communicated
+additional
+limitation
+interaction
+enzymatic
+heuristic clustering
+constraint
+December
+transition
+programming
+intrinsic inaccuracy
+so-called pseudoknots
+compatible
+extension
+stringent limitation
+hardcore interactions
+constitutive
+Dynamique
+simulation techniques
+Laboratory
+contribution
+time-limiting
+otherwise
+Bioinformatics
+Straightforward Stochastic
+recalculating everything
+relaxation
+Physique
+Nucleation
+appropriate
+Flannery
+transition probability
+sequences
+Visualizing
+multistable
+approximate coarse-grained
+Hofacker
+88-base-long
+Naturally
+time-lapse transform
+reference
+crystallization
+combinatorial structure
+RNA-folding stochastic
+2-bp-long
+single-stranded
+Introduction
+intermediate
+California
+Recherche Scientifique­Unite
+effective acceleration
+flexible
+appropriate partition
+150-nt-long
+structures
+effective approach
+pervasive
+introducing
+PC25-01
+stochastic trajectory
+corresponding
+inefficient
+straightforward stochastic
+continuous
+precision
+polynomial minimization
+Academic
+ribozyme
+394-nt-long
+particular
+nutshell
+free-energy structure
+50-nt-long
+applying
+particular stochastic
+McCaskill
+Averaging
+pseudoknot
+somewhatpathological
+contradiction
+Pseudoknot Prediction
+RNA-Folding
+transcription
+equilibrium calculation
+refractory
+frequency
+Tetrahymena
+secondary structures
+Meanwhile
+computational perspective
+procedure
+modulating
+Porschke
+existence
+Simulating
+prevalence
+equilibrium compatible
+combining
+Projected
+Herschlag
+state-to-state
+RNA-folding prediction
+Bures-sur-Yvette
+statistical analysis
+pseudoknot prevalence
+controlled
+physical
+nucleation dissociation
+cooperativity
+Williamson
+stochastic RNA-folding
+Recherche Scientifique­Universite
+unzipping
+efficient
+Laboratoire
+discussion
+recurrent
+n-configuration
+traditional base-pair
+potential
+Thalmann
+Cambridge
+modification
+impediment
+coarse-grained
+accuracy
+independent
+mRNA­ribosome interactions
+Batenburg
+neighbor
+calculating
+Institute
+thermodynamic
+mechanical
+classical polynomial
+connectivity
+stochastic clustering
+important
+summation
+transient nucleation
+correspond
+intrinsic
+Teukolsky
+translation initiation
+PBTBAPA
+dynamical
+secondary structure
+Prevalence
+several-fold speed-up
+Zarrinkar
+elongation
+Prediction
+Baschenagel
+trajectories
+principle
+inhomogeneity
+convenient
+free-energy structures
+Numerical
+Nussinov
+base-pair
+Hepatitis

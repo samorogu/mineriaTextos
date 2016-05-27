@@ -1,0 +1,1694 @@
+brooks
+
+ncd ubiquitous kinesin kinesin kar3 fast kinesin eg5 internal kinesin myosin ii
+
+drosophila melanogaster homo sapiens rattus norvegicus saccharomyces cerevisiae neurospora crassa homo sapiens plasmodium falciparum dictyostelium discoideum
+
+scallop myosin ii
+
+argopecten irradians
+
+smooth muscle myosin myosin ii s1 myosin
+gallus gallus gallus gallus gallus gallus dictyostelium discoideum
+
+myosin states
+¼ xhx ¼ xs hss xs 1 xs hse xe 1 xe hes xs 1 xe hee xe
+¼ xs hss xs ¼ xs ðhss ÿ hse hee hes þxs
+scallop myosin s1
+crystal structures
+
+qffiffiffiffiffiffiffiffiffiffi 2 fi ¼ ædri æ }
+
+sffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi 2 vm
+kif1a source mus musculus pdb code
+xe ¼ ÿhee hes xs
+fast kinesin
+homologous enzymes sharing similar active site
+hss hes hse hee
+muscle contraction
+myosin versus kinesin
+wenjun zheng
+¼ xs hss xs
+ncd
+biophysical journal
+
+volume 89
+
+july 2005
+
+167­178
+
+167
+
+probing
+efficient block normal mode approach
+simultaneously involves multiple bending/twisting motions
+compact subdomain including helix h6
+compact subdomain including h6 helix
+brooks
+
+figure 5 dynamical domains partition
+widely-hypothesized pathways connecting pocket deformations
+low-frequency global modes describing local movements
+myosin crystal
+biophysical journal 89
+parts including switch ii move
+highly simplified elastic network model
+p2 simultaneously involve large movements
+kinesin motor domain predicted
+kinesin motor domain reveals
+electron paramagnetic resonance shows
+1f9t 1goj 1ii6 1ry6 1mma
+mediate long-range signal transmissions
+describes multiple bending/twisting motions
+kinesin motors differ substantially
+single spring constant reproduces
+computational tool dyndom developed
+involves simultaneous hinge motions
+upper 50-kda subdomain relative
+myosin motor domain
+multiple hinge motions involving
+lowest frequency normal modes
+myosin motor function
+full-scale molecular dynamics studies
+nucleotide-pocket dynamics
+principal components analysis
+relevant global modes simply
+nucleotide-pocket
+
+figure 2 computed rmsf based
+identify plausible dynamical pathways
+newly solved crystal structures
+kinesin
+
+173
+
+figure 4 comparison
+brooks
+
+figure 3 comparison
+kinesin motor atpase
+highly homologous nucleotide-binding pocket
+significantly enhanced/ reduced rmsf
+simplified normal mode analysis
+hinge regions
+biophysical journal 89
+ultimately trigger global motions
+methods elastic network model
+kinesin
+
+171
+
+near-rigor state
+highly collective global mode
+gradient =xe
+mode #1 involves large-scale movement
+myosin structure
+myosin motor
+dominant structural displacements observed
+large amplitude elastic motions
+electron cryo-microscopy shows
+rmsf shows large fluctuation
+multiple hinge motions
+relevant global mode involved
+myosin pockets
+myosin motors
+myosin flexibility
+myosin binds
+myosin nucleotide-pockets
+protein conformational observed crystallographically
+nucleotide-pocket
+
+principal components analysis
+loop-switch ii distance
+myosin bound
+kif1a motor complexed
+brownian molecular machines
+simple elastic-network model
+low frequency modes
+involving multiple modes
+elastic network model
+gray trace represents
+dominantly high mobility/flexibility
+bottom panel plots
+trigger directed movements
+low-frequency global modes
+kinesin
+
+177
+
+encouraging
+figure 1 two-dimensional clustering
+upper 50-kda subdomain
+biophysical society 0006-3495/05/07/167/12 $2
+myosin 1vom
+kinesin motor
+involves significant movements
+``closed switch ii
+kinesin structures
+unwound sh1 helix
+large biomolecular system
+utilize collective motions
+represent collective motions
+dynamical domains partition
+kif1a structure 1i6i
+secondary structure segments
+enm assumes elastic couplings
+largest main-chain deviations
+lower 50-kda subdomain
+brooks
+
+protein
+single hinge motions
+xe
+projection coefficients obtained
+uniform force constant
+maryland
+
+abstract based
+switch ii dominates
+kinesin family
+kinesin binds
+kinesin pockets
+kinesin nucleotide-pockets
+kinesin motors
+kinesin suppose
+switch ii movement
+unconstrained converter/lever arm
+brooks
+laboratory
+single force constant
+strongbinding rigor state
+xs
+pre-power-stroke state compatible
+169 coordinate root-mean-square deviation
+p2 describe large structural
+normal mode calculations
+putative microtubule-binding site
+collective global motions
+individual normal modes
+shows a4 helix
+crystal structures studied
+functionally relevant feature
+principal components obtained
+normal modes analysis
+microtubulebinding a4 helix
+dominant structural displacements
+microtubuleactivated atpase activity
+increasingly larger conformational
+resolution levels ranging
+address reprint requests
+stronger restraining effect
+kinesin
+
+175
+
+1bg2
+kinesin 1bg2
+slow dynamics computed
+dominantly large fluctuation
+principal components analysis
+elastic network representation
+normal modes needed
+lowest normal mode
+conserved glutamic acid
+motor domain makes
+dynamical domains analysis
+significant structural rearrangements
+finding dynamical pathways
+trigger global structural
+standard normalmodes analysis
+involves large movement
+relevant global modes
+microtubulebinding-activated atpase cycle
+crystallographically measured conformational
+putative microtubule-binding regions
+single mode spans
+low-energy dynamics specific
+mgadp
+submitted march 22
+crystal structures
+
+similar
+strong-binding rigor state
+generally large size
+environment implicitly incorporated
+global modes triggered
+dominantly large movement
+myosin
+subsystem normal modes
+large-scale structural change
+accelerate adp release
+off-diagonal matrix elements
+promising alternative strategy
+a3ÿa3a region
+solved crystal structures
+single-domain globular protein
+normal mode analysis
+molecular motor proteins
+single mode describes
+tightly closed pocket
+dynamical pathway spanning
+collective global mode
+molecular dynamics study
+stable atp state
+bulge loop tightens
+pdb structure 1goj
+chosen reference structure
+transition state analog
+transition state mimics
+relevant global dynamics
+p2 overlaps significantly
+closed phosphate tube
+lower 50-kda subdomains
+lower 50 -kda subdomains
+top panel compares
+principal component analysis
+actin-induced nucleotide release
+adp state structure
+yield encouraging results
+pair 1gojbiophysical journal 89
+global motions induced
+environment significantly suppresses
+environment significantly affects
+analysis computationally inexpensive
+principal components p1
+global dynamics coupled
+best-studied motor proteins
+introduction motor proteins
+elastic coupling plays
+direct elastic interactions
+switches
+biophysical journal 89
+large-scale protein conformational
+comparative dynamical analysis
+large structural change
+nucleotide-pocket
+
+connecting switch
+effective harmonic potential
+pairwise interdomain motion
+subsystem dynamics introduced
+functionally critical regions
+/switch ii
+rmsd plot shows
+two-dimensional coordinate consists
+transition state structure
+ca atomic coordinates
+active site
+critical functional roles
+kinetic evidence showed
+strong-binding atp state
+reference pocket structure
+cryo-em results capture
+hse
+weak-binding transition state
+relevant pocket-mode involved
+elastic interactions
+
+finally
+complex protein structure
+nucleotide-binding pocket coupled
+highly homologous
+transition state structures
+actin releases nucleotide
+1bg2 / 1goj
+pocket structural change
+near-rigor state structures
+induced global structural
+remaining pocket degrees
+switches coordinate dynamically
+measured pocket structural
+relevant nucleotide-pocket dynamics
+switch ii
+neighboring l11 loop
+kinesin
+pdb structure 1i6i
+pdb structure 2kin
+induced global conformational
+measured structural displacement
+low-frequency modes
+microtubules enables hydrolysis
+comparing functional dynamics
+brooks 22
+brooks
+nucleotide-pocket elastically coupled
+quantitatively good description
+hes
+hee
+observed pocket structural
+mode number increases
+pdb structure 2ncd
+alternative pathways
+highly collective
+p2 overlap significantly
+elastic network
+nucleotide binding sites
+rigorlike structure 1q5g
+hinge motions
+normal modes
+pdb structure 1oe9
+force constant
+principal components
+structural comparison study
+nucleotide-pocket dynamics
+comparison
+h6 helix
+differ significantly
+upper 50-kda
+dynamical domains
+1bg2 / 1i6i
+present study suggests
+structural states
+biophysical journal 89
+find similar results
+crystal structure
+structural model
+domain motions
+conformational states
+global modes
+microtubule-binding site
+components obtained
+functional motions
+large-scale structural
+structural domains
+crystal structures
+helix a3
+relevant modes
+principal component
+a4 helix
+individual modes
+signal transmission
+effectively trigger
+computational biology
+nucleotide-dependent movements
+hinge region
+restraining effect
+long-range allostery
+local deformations
+large-scale movement
+ii
+& ii
+dynamical coordinates
+global dynamics
+large fluctuation
+rigid-body motions
+motorprotein motions
+subsystem nma proposed
+functional roles
+states include
+collective mode
+pocket deformations
+motor domain
+large structural
+reduced fluctuation
+collective vibrations
+uniform factor
+adp state
+global structural
+atomic analysis
+reference structure
+atpase cycle
+n-terminal subdomain
+single mode
+lowest mode
+elastic interactions
+elastic couplings
+hss
+force generation
+chosen subsystem--
+global mode #10
+global mode #7
+global mode
+strong-binding state
+zhengwj@helix
+elastically coupled
+large size
+large systems
+large fluctuations
+analysis based
+fluctuation dynamics
+direct transition
+significantly simplifies
+upper row
+significantly correlated
+dynamical correlations
+large movement
+weak-binding state
+similar pocket
+two-dimensional plot
+global conformational
+local dynamics
+microtubule-binding sites
+myosin/kinesin structure
+near-rigor structure
+native structure
+harmonic potential
+remaining parts
+bending motions
+root-mean-square fluctuation
+relevant mode
+relevant mode #1
+interdomain conformational
+remarkably similar
+adp release
+50-kda cleft
+directly involved
+actin-binding site
+pairwise interactions
+catalytic activity
+effective interactions
+remaining structures
+nucleotide hydrolysis
+strong-binding mode
+functional sites
+core domain
+separate domain
+domain fixed
+moving domain
+present analysis
+large proteins
+observed structure
+elastic energy
+structural elements
+structural state
+harmonic analysis
+dominant mode
+pocket dynamics
+closed pocket
+dynamical pathway
+local structural
+hydrolysis cycle
+nucleotide-pocket deformations
+atp state
+nucleotide-binding pocket
+pocket structures
+measured structural
+nucleotide pocket
+similar peaks
+transition state
+motor proteins--myosins
+lowest non-
+global conformation
+atp hydrolysis
+lever arm
+functional mechanisms
+complex dynamics
+low-energy barrier
+remote parts
+potential power
+complete coordinates
+irrelevant parts
+individual conformational
+crystallographic studies
+conformational change
+dominant conformational
+lower row
+1bg2 describes
+computed rmsf
+motor movement
+kinesin/myosin structures
+missing structures
+remote regions
+hinge/bending regions
+fluctuation nonuniformly
+weaker fluctuation
+square fluctuation
+differs quantitatively
+quantitatively improve
+sharply reduced
+near-rigor state
+rigorlike state
+near-rigor/detached state
+irrelevant degrees
+hessian matrix
+mechanical elements
+covariance matrix
+diagonal elements
+pocket structural
+largest rmsd
+enm-based analysis
+quasiharmonic analysis
+normal-modes analysis
+systematic analysis
+atpase mechanism
+harmonic hamiltonian
+working cycle
+measured conformational
+motor proteins
+lower peaks
+pocket-mode relevant
+relevant pocket-mode
+elastic coupling
+single-domain proteins
+structural similarity
+structural alignment
+functionally important
+p2 obtained
+comparative study
+significant overlap
+protein complex
+protein eng
+protein complexes
+remote sites
+remotes sites
+bound nucleotide
+ultimately results
+closed conformation
+standard nma
+dominant pocket-mode
+pocket-mode solved
+dominant non-
+observed structural
+narrowest pocket
+pocket deformation
+nucleotidebinding pocket
+pocket conformational
+twodimensional plot
+present study
+large switch
+motor mechanism
+modes start
+unitary transformation
+intriguing issues
+naming scheme
+swinging motion
+nonharmonic interactions
+key role
+indirect means
+dna-dependent polymerases
+refined parameterization
+force-generating event
+effectively integrating
+undergo conformational
+widely open
+strong correlation
+kinesin-family motors
+short loop-helixloop
+physical interactions
+actively investigated
+indirect interactions
+small deformation
+eludes crystallographers
+structurally align
+qualitative insight
+blood institute
+publication april 25
+hidden springs
+primarily consist
+make sense
+hydrogen bonding
+effectively excludes
+eigenvalue increases
+all-atom potentials
+normal-modes spectrum
+elastic-interactions-based description
+// www
+ca atoms
+salt bridge
+conformational transitions
+tremendous challenge
+things move
+central core
+national institutes
+downward/upward swinging
+national heart
+configuration space
+effectively sliding
+power stroke
+bind strongly
+release products
+rate-limiting step
+characteristic actin-
+small size
+mobile objects
+simulated annealing
+complex pattern
+essentially open
+t4 lysozyme
+all-atom simulations
+central b-sheet
+twisting motion
+atom details
+surrounding subdomains
+quadratic interactions
+ampápcp
+specialized atpases
+good description
+back side
+crystallographic data
+nucleotide-dependent interactions
+citrate synthase
+ia +
+strain caused
+key joints
+intuitively appealing
+seven-stranded b-sheet
+transport cargo
+ca fluctuations
+displacement vector
+fixed objects
+directly bind
+major difference
+enetwork ¼
+
+1 0 2 +
+structurally aligned
+a4-l12-a5 region
+solid circles
+phosphate release
+structural pathway
+167­178
+
+nucleotide-pocket dynamics
+nucleotide-pocket dynamics
+coordinated movement
+swinging movement
+subsystem coupled
+nucleotide-pocket structures
+measured rmsd
+measured amplitude
+observed conformational
+1vom describes
+structural mechanism
+environment degrees
+major peaks
+weakly bound
+strongly bound
+harmonic subsystem
+pocket conformation
+pdb names
+multidomain proteins
+dimeric proteins
+proteins arising
+structural comparison
+solved eff
+dominant peak
+dynamically frozen
+strongly conserved
+dynamically prone
+conserved arginine
+pocket conformations
+rmsf plot
+pathway extending
+rmsd plot
+preliminary results
+enlightening results
+results support
+sharply reducing
+quantitatively analyzed
+detached state
+rmsd match
+pocket-modes solved
+correctly describe
+detailed mechanism
+switch-based mechanism
+motor arrowhead
+structural implications
+structural homology
+largely accounts
+dominant pocketmode
+residueto-residue comparison
+axis stem
+force-generation mechanisms
+region b5a-l8-b5b
+power-stroke generation
+detailed comparison
+smaller subsystem
+subsystem yields
+isolated subsystem
+nucleotide-pocket conformational
+nucleotide-pocket deformation
+nucleotide-pocket lies
+initially proposed
+atp binding
+pocket openness
+highest overlap
+n-terminal subdomains
+rmsf results
+rmsd results
+clear classification
+generalized cosine
+important link
+strongly supports
+artifact due
+transmit signals
+cutoff distance
+occurs shortly
+small differences
+tip loops
+1qvi and1dfl
+cleft closure
+3kin 3kar
+successfully applied
+1mkj 2kin
+eigenvalues define
+recently identified
+g-phosphate sensors
+quasiharmonic method
+recently applied
+main clusters
+modeled properly
+remaining residues
+strong binding
+actin/microtubules binding
+open switch
+nucleotide-pocket conformation
+comparable rmsf
+interesting features
+c-terminal half
+nucleotide-pocket conformations
+l11 loop
+comparable amplitude
+recent work
+future work
+force-generation mechanism
+power-stroke mechanism
+loop movement
+figure
+simplified
+enm parameterization
+ca position
+cell sci
+pathway appears
+n4 movement
+subsystem nma
+selectively probe
+resulting eigenvectors
+mode-specific test
+main cluster
+qualitatively compared
+table 2 results
+largely consistent
+qualitatively consistent
+opening observed
+shows
+involves
+flexible environment
+fluctuating environment
+pocket-modes describe
+total energy
+distinguishes kinesins
+n-terminal end
+conserved pieces
+involve
+versus
+partition
+1goj
+1ii6
+movements
+1ry6
+colors blue
+1f9t
+drastic simplification
+ðdij ÿ dij þ
+ligand binding
+nucleotide-pocket residues
+rotation axis
+c-terminal end
+interesting differences
+n1­n4
+n4 appears
+components
+actin binding
+167­178
+
+170 table 1 information
+modes
+unlike myosins
+involving
+describing
+upper
+significantly
+kinesins accompanied
+kinesins show
+structure
+substantially
+assumes
+similar
+involved
+dyndom
+relevant
+based
+motor
+solved
+change
+studies
+ultimately
+1mma
+lower
+dynamics
+closed
+parts
+triggered
+coupled
+structures
+regions
+nucleotide
+state
+analysis
+structural
+reference
+atp
+protein
+transition
+mode #1
+mode #7
+mode #6
+mode #10
+mode
+pocket
+plot
+motors
+description
+displacement
+needed
+showed
+release
+complex
+2kin
+/
+phosphate
+motion
+address
+near-rigor
+representation
+size
+computationally
+1i6i
+region
+critical
+finally
+conformational
+good
+dominates
+strategy
+couplings
+levels
+l11
+rigorlike
+subdomains
+move
+interactions
+ca
+capture
+function
+movement
+observed
+peaks
+00
+
+bound
+pdb
+proteins
+conserved
+dynamically
+study
+pathway
+evidence
+induced
+results
+conformation
+pocket-mode
+conformations
+rmsf
+non-
+energy
+pocket-mode #1
+sharply
+p2
+rmsd
+amplitude
+describe
+mechanism
+force-generation
+2ncd
+switches
+comparison
+accounts
+actin-binding
+mgadp
+comparing
+axis
+finding
+power-stroke
+b5a-l8-b5b
+comparable
+bending
+subsystem
+nucleotide-pocket
+environment
+proposed
+identify
+methods
+nma
+unlike
+1bg2
+p1
+overlap ¼ 0
+overlap 0
+overlap
+n-terminal
+blue
+classification
+end
+ligand
+eigenvalue
+distance
+transmit
+cleft
+colors
+167­178
+
+number
+simplification
+flexible
+applied
+differences
+tip
+n1
+dij
+appears
+detached
+drastic
+° distance
+pair
+implications
+show
+homology
+analyzed
+1qvi
+cosine
+important
+peak
+method
+occurs
+number
+eff ÿ1
+g-phosphate
+openness
+due
+include
+suggests
+clusters
+identified
+accompanied
+supports
+3kar
+define
+modeled
+fluctuating
+1mkj
+coupling
+binding
+switch
+consists
+167­178
+
+174
+
+zheng
+table 2
+table 1
+interesting
+167­178
+
+172
+
+zheng
+c-terminal
+063305
+
+168
+
+zheng
+pocket-modes
+167­178
+
+176
+
+zheng
+zheng
+loop
+work
+total
+enm
+top
+1q5g
+pocketmode #1
+start
+arrowhead
+sci
+1oe9
+information
+position
+n4
+actin
+residues
+24 residues
+probe
+test
+eigenvectors
+rotation
+opening
+cluster 3
+cluster 2
+cluster 1
+cluster
+find
+167­178
+
+compared
+pieces
+compared
+consistent
+1vom
+microtubules
+kinesins
+myosins
+limited
+yellow
+controversial
+calculate
+mccammon
+activation
+connects
+summarized
+ref
+lavery
+berendsen
+chem
+establishes
+consisting
+reported
+pate
+represented
+interpret
+doniach
+controversy
+a3-l9-a3a
+modulates
+actomyosin
+g88 °
+relax
+endow
+give
+belonging
+validated
+turn
+301-451-2014
+lau
+summarize
+elusive
+green
+fig
+persist
+effects
+comprised
+reasonable
+gov
+muller
+row/column
+1vfz
+1vfx
+p2-1bg2
+clarity
+szent-gyorgyi
+similarly
+jernigan
+observations
+milligan
+1mma-1vom
+serve
+1goj-1bg2
+biopolymers
+yengo
+project
+1sr6
+pass
+relayed
+responsible
+mutants
+keskin
+wells
+docking/undocking
+doi
+observation
+accounted
+availability
+1s5g
+explain
+ca21-atpase
+integrate
+rice
+1b7t-1vom
+contrast
+respond
+result
+1mnd
+1mne
+terms
+handful
+weak
+extent
+modeling
+overestimated
+suggested
+triggers
+disengage
+timescale
+hinsen
+1lvk
+ij
+perform
+nih
+materials
+modulate
+disparity
+spread
+rescaled
+references
+1
+poses
+acad
+purple
+2mys
+okada
+limitation
+167­178
+
+studying
+opin
+angert
+presence
+rotations
+coureux
+1oe9-1vom
+underestimated
+form
+actinbinding
+volkmann
+exist
+1kqm
+oversimplification
+nm
+picture
+n2
+n3
+lett
+l10
+deforming
+zhang
+cyan
+1ii6-1bg2
+cooke
+p1-1bg2
+vectors
+marked
+adp-bound
+ca-
+encode
+entrance
+validity
+eschenburg
+1i5s
+cas
+car
+co-workers
+1q5g-1vom
+believed
+making
+detaching
+performed
+conversely
+divided
+levy
+sweeney
+revealed
+accelerated
+manstein
+submatrices
+argued
+trybus
+stabilize
+schroder
+eq
+suggesting
+advantages
+chen
+yun
+tama
+omitted
+flipping
+x-marks
+representing
+uk/
+buried
+1mmd
+1mmg
+1mmn
+note
+yajima
+jahn
+opposite
+probed
+probes
+2ncd-1bg2
+naber
+mg-adp
+houdusse
+hoenger
+black
+minehardt
+responding
+distortion
+reveal
+neck-linker
+summary
+krebs
+physically
+justifies
+justified
+suppressed
+characterization
+color
+adp-state
+capable
+marx
+direction
+grayscale
+orientation
+couples
+myoe
+develop
+wriggers
+html
+adp-mg-alfx
+researchers
+transmitting
+captures
+captured
+struct
+hint
+embo
+dark
+accepted
+2 d0
+reduces
+ouyang
+kull
+demirel
+exposed
+mg-amppcp
+energetic
+derosier
+discussed
+myosin-adp
+closing/opening
+assumed
+stars
+hanein
+irreversible
+eigenvector
+ac
+required
+al
+geeves
+examine
+phys
+odds
+single-parameter
+lack
+follow
+removal
+atp-
+health
+1f9u
+song
+translations
+induce
+subunits
+fall
+becker
+tel
+n1-n4
+residue
+sum
+vale
+ranges
+directions
+1b7t
+colored
+requiring
+science
+compare
+lacks
+goal
+srinivasan
+occur
+1dfl
+response
+resemble
+grammer
+existence
+absence
+pca
+motivated
+framework
+found
+energetically
+anisotropy
+characterized
+idea
+expect
+induces
+dominated
+hood
+base
+pairs
+temperature
+park
+navizet
+part
+favorable
+translation
+peaked
+contrary
+1529/biophysj
+comput
+sablin
+build
+knobs
+sjh/dyndom/dyndom
+play
+minimizing
+impact
+clarifying
+notation
+kinesin-atp
+rest
+inter-subdomains
+set
+undergoes
+mandelkow
+reasons
+manners
+1kwo
+treatment
+pseudo-b-hairpin
+stabilized
+mediating
+twofold
+bethesda
+higher
+1mkj-1bg2
+sys
+p2-1vom
+task
+lowey
+docked
+kollman
+mol
+g86
+1kk8
+relevance
+1kk7
+cui
+interestingly
+bahar
+1br1
+reubold
+serves
+annu
+proc
+minimal
+complimentary
+janezic
+biol
+downloadable
+analyze
+opens
+mechanistic
+line
+partitioning
+p1-1vom
+transmits
+59
+
+effects
+curr
+defined
+hirokawa
+n199
+application
+functionality
+nat
+n202
+hayward
+calculating
+helpful
+generated
+feasible
+rigid
+tirion
+kinesin-adp
+helps
+excluded
+durell
+yount
+real-scale
+atp-bound
+dimer
+uea
+enclosed
+kikkawa
+justification
+explore
+consideration
+engage
+holmes
+zero-modes
+1br4
+1br2
+usa
+historically
+rc ¼ 10
+1cz7
+hints
+account
+fulfill
+closing
+biophys
+calculation
+filament
+discussion
+symbols
+lm
+li
+restrain
+eur
+myosin-ii
+l6
+morris
+transmitted
+variety
+karplus
+atilgan
+rev
+red
+interaction
+1fmv
+1fmw
+times
+sack
+reached
+precisely
+quality
+relations
+biochem
+end-link
+menetrey
+cost-effective--
+light
+distinguished
+cohen
+viewed
+angle
+studying
+connected
+class
+schulten
+supported
+nucleotidepocket
+bernard
+schliwa
+delarue
+coordinating
+violet
+closer
+closes
+nature
+identification
+respect
+treat
+olson
+woehlke
+outliers
+sanejouand
+well-clustered
+adp-mg-vo4
+opening/closing
+surprisingly
+surface
+1dfk
+connection
+difficult
+http
+expand
+fletterick
+sensing
+accurate
+matuska
+microtubule
+natl
+diagonalization
+essential
+excluding
+home
+e-mail
+1lkx
+freedom
+1i5s-1bg2
+assess
+lung
+compute
+converter
+variations
+projecting
+¼ stands
+1l2o
+shown
+exposure
+346
+100
+105
+97
+1995
+1996
+1999
+1998
+646­661
+380
+11238­11243
+144­154
+58
+54
+1­11
+425
+384­393
+178 13
+0
+°
+745­759
+419­423
+1
+1147­1155
+87 0
+6­9
+1522­1542
+ó 2005
+743­763
+423­427
+2
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+#1
+#7
+#6
+1905­ 1908
+3
+24
+50 0
+66
+68
+4
+39 0
+58 0
+5
+167­178
+439­445
+1099­1112
+1151­1168
+6
+52 0
+¼ 0
+25
+26
+27
+20
+21
+22
+23
+28
+29
+7
+77
+75
+18­21
+8
+ã
+1011­1024
+15­17
+41 0
+45 0
+687­728
+9
+54 0
+300
+182­194
+115
+88­95
+2002
+2003
+2000
+2001
+2004
+2005
+417­429
+798­801
+39
+33
+30
+ÿ1
+80
+86
+¼
+411
+47 0
+66 0
+13253­13258
+505­515
+15­23
+80 0
+320
+#10
+2611­2618
+288
+262
+6213­6225
+1984
+826­830
+1­3
+550­555
+1­6
+48
+49
+41

@@ -1,0 +1,391 @@
+4Department
+distinguish implementation
+executing
+graphical interface
+bioperl-l
+Department
+documentaretrieve
+Graphical
+Boulez,3
+Standard
+environment
+glyph-based architecture
+Additionally
+Open-Source Initiative­Open-Source
+deprecation
+advantage
+anonymous
+Fuellen,7
+BSML­Bioinformatic
+considerable inefficiency
+Vlissides
+applicable
+Wilkinson,2
+biological
+Lehvaslaiho
+LargePrimarySeq
+Schattner,15
+occurrence
+Radiation
+download
+umbrella
+Schattner
+strucModules Description
+specification
+relational
+databank
+Supplemental
+supporting
+entry-level
+bibliographic
+Documentation
+RichSeqI
+separation
+Published
+consideration
+commercial bioinformatics
+technical
+Biopython
+Rendering
+language-independent
+opensource methodology
+implement
+extensive enterprise-level
+Richmond
+easy-to-use
+Corresponding
+CORBA/IIOP
+Lehvaslaiho,11
+Input/Output
+most-commonly
+Block,2,18
+Nucleotide
+successful
+CLUSTAL
+Extensible
+excellent
+Similarity
+Computational framework
+Birney11 University
+Initiative
+following
+Throughout
+iterative
+Stifterverband
+non-open-source
+Object-oriented programming
+Thompson
+PSI-BLAST
+programming interface
+information
+respective
+inheritance
+discussion
+extensive documentation
+input/output
+NCBI-specific operating
+SeqFeature hierarchy
+administrator
+open-source collaboration
+Flat-file
+Saskatoon
+well-formed embedmat
+horizontal
+nonprofit
+ClustalW
+Vaysseix
+acknowledged
+Informatics Technology
+specifying
+position-specific
+representation
+version-specific
+operations
+hierarchy
+Microsystems
+SeqFeatureI
+XML-based
+interpreter
+Bioso-called
+developer
+similarity information
+acknowledge
+Interoperability Sometimes
+productive mechanism
+drawback
+particular implementation
+comprehensive documentation
+forinclude
+framework
+L'Institut
+association
+Emmanuel
+backward compatibility
+references
+Biomolecular
+SearchIO
+T-coffee
+Anopheles
+international open-source
+separating
+programmer
+analysis components
+uk/novella
+7Integrated Functional
+musculus
+Stein,16
+Emeryville
+pharmaceutical
+Interoperation
+standard
+­Bibliographic
+Architecture
+2National
+Elofsson
+LargeSeq
+Cambridge
+bibliographic retrieval
+GenBank/EMBL entry-based
+Contributors
+operation next_seq
+interactive sequence-rendering
+Phylogenetic
+modularity
+SYNOPSIS
+interactive graphical
+different programming
+simplified
+illustrating
+publication
+annotation
+Downloaded
+Chervitz,5
+molecular
+structures
+Association
+Outstation­European Bioinformatics
+Improved
+Language
+immediate
+analysequence
+Lijnzaad
+institution
+VisiBroker
+accordance
+Wissenschaft
+Information
+motivation
+generation
+bioinformatics community
+Waterston
+read/write cross-platform
+efficient
+bioinformatics application
+responsible
+mechanism
+Dagdigian,6
+potential
+object-oriented programming
+BioCORBA
+Bioinformatics Foundation
+Altschul
+Stajich,1,18,19
+EnsEMBL
+Biological
+openBQS/
+so-called
+Computational analysis
+retrieval
+principle
+GAME­Genome Annotation
+Pocock,8
+accession
+consistent programming
+Wilkinson
+Biotechnology Information
+documentaBio
+T-Coffee
+invocation
+Matsalla,12
+pair-wise alignment
+Biotechnology Institute
+HitsToSave
+chronological
+progressive
+functional C-language-based
+architecture
+Senger,11
+cross-species alignment
+Distributed Annotation
+community approach
+sensitivity
+individual
+migration
+Brenner,4
+emulating
+Accessing
+different analysis
+object-oriented methodology
+Felsenstein
+discovery
+available
+stagnation
+component
+complement
+Programming
+Macintosh
+FeaturePair
+Laboratory
+expression
+otherwise
+operatture information
+initiative
+sequences
+Bioinformatics Institute
+Rodriguez-Tome
+application programmer
+tremendous
+UNIX-like operating
+Miscellaneous analysis
+transcription
+mentation
+California
+prototype
+graphical
+Tremblay
+High-scoring
+RESULTS
+Supplementary
+invoking
+enterprise-level application
+Somerville
+unsatisfactory
+Additional
+Furthermore
+OBDA-compliant
+comparative
+Lehväslaiho
+technology
+regression
+different
+radiation
+Variation
+simplified interface
+enterprise-level
+development
+SimpleAlign
+component development
+17Institute
+comprehensive
+commercial
+advertisement
+Open-source development
+polymorphism
+Washington University
+academic
+extensible
+components
+consistency
+variation elucidation
+Phylogeny Inference
+Tatusova
+particular laboratory
+network-based analysis
+well-established methodology
+valuable
+bandwidth
+Drosophila melanogastor
+day-to-day
+Molecular
+alphabetical
+aggregator
+governmental
+Although
+Mungall,13
+life-science
+Annotation
+Java-based biological
+Agri-Food
+Stupka,17
+Providing interoperability
+Missouri
+sequencing
+PrimarySeq
+advanced
+necessary
+specific
+-object-oriented
+alignments
+Management
+programming methodology
+PrimarySeqI
+cross-platform compatibility
+hierarchy implement
+Application
+Notredame
+Singapore
+integration
+contributing
+connecting
+Massachusetts
+scientific
+equivalent
+processing
+Wasserman
+Promotion
+Microsoft
+compatible
+SwissProt
+Descriptions
+open-source development
+haplotype
+commitment
+intellectual
+appropriate
+REFERENCES
+contributor
+tag/value
+SeqFeature Annotations
+Development Methodology
+11European Bioinformatics
+Gilbert,8
+well-established principles
+Dagdigian
+compliant
+SimilarityPair
+12Agriculture
+Schaffer
+bioinformatics laboratory
+applying
+widespread popularadd
+Engineering
+Redaschi
+extensive interaction
+contributors
+Retrieving
+contribute
+languageindependent relational
+DISCUSSION Open-source
+organizational
+physical
+Bibliographic
+personnel
+interested
+functionality
+Improving
+briggsae
+VSNS-BCD BioComputing
+Structure
+Matsalla
+Takifugu
+collaborative
+9Department
+comprehensive regression
+structure
+building
+BioWidgets
+Drosophila
+WUBLAST
+Prediction
+HG00739
+Seqdifferent

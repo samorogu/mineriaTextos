@@ -1,0 +1,1820 @@
+gene
+
+ydl089w
+
+ram1
+
+tvp23
+
+ysy6
+
+figure 4 mating response
+nature publishing group
+
+molecular systems biology 2008 11
+nature publishing group
+
+non-functional promoter elements
+proc natl acad sci usa 102
+proc natl acad sci usa 101
+weakly conserved ancestral mammalian regulatory sequences
+comparative
+molecular systems biology 2008 7
+
+promoter divergence
+unexplained differential
+6 molecular systems biology 2008
+
+upregulation
+gene
+molecular systems biology 2008 1
+
+promoter divergence
+organisms
+molecular systems biology 2008 3
+
+promoter divergence
+pasteur­weizmann joint research program
+promoter sequences flanking conserved ste12 sequence motifs
+5 0
+gene fad1 yhr159w fmp42 hym1
+gene expression remains largely unexplored
+4 molecular systems biology 2008
+
+promoter divergence
+molecular systems biology 2008 5
+
+promoter divergence
+nature publishing group
+
+promoter divergence
+global gene expression profiles uncovers
+gene expression evolution
+itay tirosh1
+nature publishing group
+
+sequence divergence
+molecular systems biology website
+molecular systems biology 15 january 2008
+european molecular biology organization
+creative commons attributionnoncommercial-share alike 3
+m-mlv reverse transcriptase rnase
+flavin adenine dinucleotide synthetase
+nature publishing group
+
+genes downregulated
+118­121 10 molecular systems biology 2008
+
+li
+nature publishing group
+
+expression
+cerevisiae cells undergoing natural mating
+yeast mating response appears suitable
+8 molecular systems biology 2008
+
+finally
+data sets comparing gene expression
+rights reserved 1744-4292/08 www
+sequences flanking ste12 sequence motifs
+promoters contained diverged sequence motifs
+2 molecular systems biology 2008
+
+promoters
+molecular systems biology 2008 9
+
+& 2008 embo
+yeast mating pheromone response pathway
+maintaining stabilized gene expression pattern
+al
+
+% upregulated genes
+
+conserved motifs
+
+lost motifs
+creative commons attribution licence
+sequences flanking conserved tf-binding sites
+multiple mapk pathways revealed
+expression data sets compare human
+eve stripe 2 enhancer evolution
+global gene expression profiles
+functional transcription factor binding sites
+inflated log ratios due
+molecular systems biology 4
+403­407
+
+molecular systems biology
+supplementary information
+supplementary information
+tf-binding sequences represent gene ed
+nature publishing group
+includes substantial species-specific differences
+candidate transcriptional regulatory motifs
+defined characteristic expression vectors
+classified diverged ste12 sequence motifs
+analyzed existing data comparing
+comparative expression data sets
+10 mm k-phosphate buffer ph 7
+position weight matrix scores
+reflecting additional regulatory aspects
+analysis identified 64 diverged sequence motifs
+sequences flanking ste12-binding sites
+yeast species haploids isolation
+subjecting haploid yeast cells
+driving gene expression divergence
+gene expression remained conserved
+gene expression data sets
+b400 genes significantly differed
+ignores additional regulatory mechanisms
+mammalian gene regulatory regions
+mammalian promoter motifs defined
+tf-binding sequences versus ed
+regions surrounding ste12-binding sites
+transcription factor binding sites
+al
+
+data set describing
+nucleosome occupancy
+nucleosome occupancy
+entire human proximal promoter
+observed interspecies differential expression
+diverged ste12 sequence motifs
+unexplained differential upregulation compared
+closely related yeast species
+conserved ste12 sequence motifs
+typical regulatory systems
+predict nucleosome positioning based
+diverged tf sequence motifs
+thresholds gave similar results
+figure 3 differential expression pattern
+mutated ste12 sequence motifs
+mammalian promoters multiple alignments
+flanking promoter sequences
+microarray analysis
+a-factor experiments
+normalized log2 expression ratio
+conserved ste12 sequence motif
+average protein sequence divergence
+additional regulatory systems
+comparative data sets
+aligned match exceeding t1
+diverged mbp1 sequence motif
+yeast tf-binding sequences
+promoters
+100 mm tris-so4 ph 9
+natural mating experiments
+5 0
+
+figure 5 differential upregulation classified
+expression divergence
+yeast ed
+gene expression program
+series accession gse7525
+underlying regulatory network
+permit commercial exploitation
+ascidians halocynthia roretzi
+nucleic acids res 34
+nucleic acids res 31
+venn diagram showing
+open-access journal published
+best-characterized regulatory scheme
+martin kimmel award
+comparative data set
+unexplained differential expression
+haploids mating type
+partner transcription factor
+transcription
+
+factor dependent
+stress-related comparative data
+mouse tf binding led
+multiple promoter elements
+gene expression profiles
+mating expression program
+influenced nucleosome positioning
+mol biol evol 23
+mol biol evol 24
+mol biol evol 19
+plos comput biol 3
+notochord-specific brachyury expression
+unexplained differential upregulation
+systems biology
+genome-wide expression profiles
+yeast data sets
+encode project consortium
+false discovery rate
+data set compares
+1038/msb4100198 subject categories
+encode pilot project
+yeast lytic enzyme
+stabilized expression pattern
+mammalian gene expression
+sexdependent gene expression
+gene expression omnibus
+sensu­stricto complex
+extensive promoter divergence
+promoter sequence variations
+loose tf-binding sites
+yeast gene duplication
+ste12 motifs coincides
+functional regulatory elements
+ucsc genome browser
+transcriptional regulatory code
+mammalian regulatory divergence
+cross-species hybridization platform
+remove hybridization bias
+genome-wide expression programs
+log-transformed expression levels
+mammalian tissue-specific expression
+mating involves extensive
+differential gene expression
+remaining unexplained differences
+ste12 sequence motifs
+indirect amino-allyl method
+stressful conditions involve
+drosophila melanogaster subgroup
+ret regulatory function
+sequence-specific binding sites
+expression ra tio
+conserved regulatory sites
+sequence motifs corresponds
+diverged sequence motifs
+tf sequence motifs
+early log phase
+observed differential expression
+log2 expression ratios
+conserved match exceeding
+nat rev genet 8
+nat rev genet 3
+nat rev genet 7
+respective sequence motifs
+general promoter structure
+genetic properties influencing
+cooperative gene regulation
+conserved sequence motifs
+mikatea a-type cells
+closely related species
+affect gene expression
+tissuespecific transcriptional regulation
+gene expression evolution
+promoter analyses predicted
+opposite mating types
+protein sequence evolution
+regulatory motif evolution
+normalized expression data
+blue-- expression differences
+generating interspecies differences
+ultimately phenotypic evolution
+rules governing conservation
+ste12 sequence motif
+transcription factors controlling
+conserved ste12-binding sites
+mrna sequence divergence
+predicted nucleosome occupancy
+binding site motifs
+observed differential upregulation
+predicted tf-binding sites
+experimentally mapped differences
+relevant controlling region
+effectively removing cases
+r52 doniger sw
+specific cis-regulatory elements
+gene expression response
+predicted cooperative binding
+regulatory evolution reflects
+observed similar levels
+high-density exon arrays
+binding sites turnover
+r1 wray ga
+modulating chromatin structure
+influence gene expression
+promoter regions examined
+binding site sequences
+affect nucleosome positions
+distantly related species
+specific binding sites
+multiple binding sequences
+data set generated
+conserved ste12-binding site
+reported sequence variations
+rapidly evolving genes
+observed expression differences
+single diploid cell
+a-factor peptide secreted
+4000 orthologous gene pairs
+diverged binding sequences
+study gene expression
+predicted binding sites
+maximal interspecies differences
+mouse liver cells
+tec1 sequence motifs
+nucleosome positions predicted
+remaining expression differences
+open-access article distributed
+consensus binding motif
+absolute hybridization intensities
+average expression divergence
+`binding site turnover
+mating-related gene fus2
+figure 1 expression divergence
+type
+
+figure 2 correlations
+human transcription factors
+binding site motif
+human tf-binding sequences
+control gene expression
+smallest class corresponds
+cerevisiae mating type
+binding site divergence
+observed gene & 2008 embo
+human protein-encoding transcriptomes
+ypd agar plates
+random spore analysis
+yeast stress response
+related yeast species
+defined binding sites
+reporter expression patterns
+differentially expressed genes
+pairwise species comparison
+pairwise species differences
+impact gene expression
+directly identify differences
+flanking sequences
+complex systems
+influence gene ed
+previously identified differences
+interspecies differences larger
+functional genomic analysis
+promoter motifs
+30 promoter motifs
+molecular genetics
+general chromatin structure
+isolated a-type cells
+entire promoter
+promoter sequences
+highest conservation significance
+al
+
+wang qf
+expression profiles
+data sets
+stabilized expression
+remaining promoter
+regulatory elements
+transcription factor
+mouse orthologous genes
+largest class corresponds
+mikatae a-type cells
+mammalian liver
+regulatory motifs
+promoter structure
+gene sets
+nucleosome positioning
+promoter divergence
+characterized significant differences
+performed biological repeats
+largely conserved
+expression data
+sequence motifs
+cell wall genes
+al
+
+specificity greater
+minimal promoter
+promoter designs
+comparative genomics
+scores greater
+data set
+a-factor induced significant
+dynamic nature
+multiple alignments
+gene expression
+ste12-binding sites
+differential expression
+protein sequence
+nucleosome occupancy
+regulatory evolution
+tf-binding motifs
+log2 ratio>0
+tf-binding sites
+related organisms
+ste12 motifs
+human­chimpanzee divergence
+ste12-binding sequences
+transcription factors
+functional elements
+entire set
+expression pattern
+tf-binding sequences
+sequence motif
+expression levels
+cis-regulatory elements
+diverged motifs
+haploid cells
+ste12-binding site
+differentially expressed
+additional factors
+region surrounding
+log ratio
+data accumulate
+regulatory differences
+binding motifs
+sequence divergence
+binding sites
+log ratios
+conserved motifs
+tf-binding site
+differential binding
+17 lost motifs
+ste12-binding motif
+nucleosome positions
+diverged expression
+differential upregulation
+genomic sequences
+predict expression
+pattern corresponds
+log phase
+genome biol 7
+genome biol 8
+mating pheromone
+cis-regulatory sequences
+dna sequence
+sequence similarity
+coding sequence
+sequence mismatches
+protein evolution
+binding sequences
+nat genet 39
+nat genet 38
+nat genet 33
+expression divergence
+opposite pattern
+unrecognized sites
+mammalian system
+genomic code
+regulatory mechanisms
+non-consensus sites
+gene ontology
+15 gene pairs
+gene atlas
+gene content
+gene coding
+differential appearance
+a-type cells
+transcription keywords
+binding consensus
+ste12 tf
+transcription response
+extensive differences
+transcriptional regulation
+transcriptional response
+hybridization intensities
+mammalian promoters
+binding site
+ste12 binding
+-binding sequences
+dna sequences
+expression measurements
+expression profiling
+expression differences
+endo16 expression
+10 mm dtt
+expression response
+mammalian species
+interspecies differences
+interspecies variations
+interspecies comparison
+specific motif
+sequence analysis
+enhancer conservation
+supplementary figure 5
+supplementary figure 4
+supplementary figure 6
+supplementary figure 1
+supplementary figure 3
+supplementary figure 2
+1038/msb4100198 citation
+yeast occurs
+additional controls
+reporter assays
+evolutionary significance
+systematic discovery
+yeast paralogs
+properties enable
+observed differences
+mapk signaling
+yeast model
+ysy6
+distant regions
+1% yeast extract
+mrna extraction
+ram1
+observed variability
+single tf
+`conserved motif
+tf binding
+ste12binding site
+ste12 controls
+mating behavior
+respective tf
+`lost motif
+predict divergence
+sporulation plates
+ypd plates
+unique pheromone
+mating response
+5 mg/5 â108 cells
+human sequences
+figure 6 divergence
+trends genet 6
+experimentally tested
+trends genet 20
+recently reported
+supplementary table 1
+farnesyltransferase complex
+young ra
+rapid evolution
+neutral evolution
+compensatory motif
+functional genomics
+highly similar
+functional tests
+similar conditions
+exon arrays
+ste12binding motif
+similar embryos
+similar licence
+similar conclusions
+conserved upregulation
+proximal promoters
+tissue-specific ed
+weizmann institute
+extensively diverged
+highly diverged
+specific differences
+stress conditions
+genome-wide correlation
+specific roles
+wray ga
+genetic signature
+genetic basis
+phenotypic adaptation
+chromatin structure
+yeast system
+biological repeats
+specific permission
+phenotypic diversity
+environmental stress
+genome-wide analysis
+stress response
+additional studies
+mating ed
+higher expression
+mutated positions
+chosen based
+based solely
+opposite regulation
+related species
+binding specificities
+actual binding
+binding domain
+binding p-values
+figure 6c­
+figure 1b
+figure 1a
+figure 1c
+figure 3e
+figure 3f
+figure 4a
+figure 4c
+figure 4b
+figure 6b
+figure 6a
+figure 3b
+figure 1d
+6 mm a-factor
+3 mm a-factor
+rapidly evolve
+mating system
+eukaryotic genome
+evolutionary divergence
+actual divergence
+increased divergence
+expression patterns
+highly conserved
+paradoxus-specific upregulation
+reproducible hybridization
+perfect match
+exact match
+multiple mechanisms
+results
+reported
+largest predicted
+predicted differences
+predicted configuration
+yeast genes
+identify genes
+a-factor peptide
+yeast species
+related tfs
+functional analysis
+similar analysis
+lander es
+studied extensively
+tests agreed
+sea urchins
+drosophila transcriptome
+tomlinson cr
+improved map
+shmoo formation
+chromatin immunoprecipitation
+kulbokas ej
+cooke mp
+large differences
+wong wh
+integrated view
+visible shmoo
+israeli ministry
+predominately activated
+friend sh
+dickinson wj
+computational model
+ching ka
+lowess regression
+white kp
+chabot ae
+identifying cooperativity
+eisen mb
+fink gr
+howell ml
+sample labeling
+combinatorial regulation
+position-dependent correction
+distinguish differences
+low signals
+danford tw
+liquid ypd
+speed tp
+adina weinberger1
+maximal threshold
+ideal candidates
+environmental stresses
+830­834 wall dp
+technical artifacts
+volkert tl
+tata boxes
+standard hemocytometer
+regression coefficient
+hirsh ae
+highly flexible
+permits distribution
+innovative investigation
+zanton sj
+gifford dk
+transacting components
+bessling sl
+30 orthologous tissues
+ascidian embryos
+jacobsen es
+evolutionary alterations
+rinaldi nj
+highly reproducible
+scott mp
+fraser hb
+dana bezalel1
+patel nh
+il/pubs/nucleosomes06/ index
+poor knowledge
+rapid assessment
+vinton rm
+rubin em
+coordinated function
+hogenesch jb
+hannett nm
+cheng jf
+conboy cm
+short lengths
+additional & 2008 embo
+minimizes trans-acting
+walker wl
+meiklejohn cd
+workman jl
+reynolds db
+5% triton x-100
+bind cooperatively
+gentle agitation
+hughes tr
+lercher mj
+relative importance
+tauber fund
+technical variations
+chose t1
+intensity-dependent correction
+kahn fund
+marton mj
+highest confidence
+gianoulis ta
+time provide
+feldman mw
+linear regression
+intrinsic preference
+biologically meaningful
+unique phenotype
+simpler situation
+grice ea
+pseudohyphal conditions
+pugh bf
+pokholok dk
+working version
+reproductive proteins
+rolfe pa
+stormo gd
+smyth gk
+moore ik
+derivative works
+dean ge
+poorly understood
+meyer mr
+seringhaus mr
+golub tr
+tagne jb
+liquid nitrogen
+cell-cycle arrest
+ciona intestinalis
+bennett ha
+complete-orf probes
+time points
+widely studied
+general trend
+resulting work
+primate comparisons
+primates reveals
+directly measure
+alignment gaps
+complementary challenge
+red--expression differences
+hartl dl
+il
+
+received 31
+previously suggested
+takusagawa kt
+lee ti
+mark kaganovich1
+largest differences
+schwanekamp ja
+castillo-davis ci
+coordinated activity
+program-specific distribution
+relative simplicity
+total rna
+genomewide scale
+22-mm filter
+combinatorial effects
+walker jr
+binding specificity
+lowest response
+reduced response
+remaining species
+orthologous promoters
+respective ed
+multiple species
+differentially upregulated
+genes identified
+identified 408 genes
+orthologous genes
+additional tfs
+diverged significantly
+human genome
+diverged promoters
+actual influence
+cell secrets
+produced significant
+cell adhesion
+cell cycle
+cell counting
+statistically significant
+diverged genes
+multiple enhancers
+significant response
+predictions based
+studies predicted
+experimentally determined
+absolute values
+motif conservation
+class corresponds
+multiple tfs
+extensively analyzed
+separately analyzed
+recently analyzed
+mating-related genes
+al
+
+expression
+results suggest
+functional mutations
+wang ly
+specificity lower
+results provide
+wang jp
+green ed
+highest ed
+high ed
+increased ed
+barkai@weizmann
+subclass corresponds
+diverged matches
+stress-related tfs
+compensatory mechanisms
+genomic responses
+poor correlation
+defined primarily
+differences larger
+high correlations
+controlled setting
+highest correlation
+respective species
+detailed analysis
+analysis resulted
+average conservation
+comprehensive analysis
+analysis emphasizes
+genes predicted
+tec1 motif
+previous studies
+recent studies
+07
+
+recent studies
+studies rely
+52 genes lost
+recent study
+previous study
+cis-regulatory mutations
+opposite case
+green correspond
+gordon db
+maximum magnitude
+approximately one-
+rifkin sa
+orange correspond
+1742­1745 rifkin sa
+computational predictions
+subsequent array
+evolve neutrally
+small proportion
+conserved matches
+significantly lower
+significantly shorter
+upstream promoters
+cerevisiae-bound promoters
+target promoters
+pseudohyphal-related genes
+individual genes
+genes vary
+ste12-regulated genes
+genes diverge
+classified genes
+matingannotated genes
+genes induced
+matingrelated genes
+ste12-dependent genes
+selected genes
+respective tfs
+macisaac kd
+949­958 macisaac kd
+synthetic a-factor
+a-factor treatment
+species responded
+species tend
+notable class
+large class
+evolutionary conservation
+mouse promoters
+naama barkai1
+inherent complexity
+two-sampled t-test
+apparent modulation
+predominantly orchestrated
+vacquier vd
+e99 fisher
+original author
+337­348 ranz jm
+5133­5142 sartor ma
+predefined threshold
+separate filters
+interacting models
+6062­6067 swanson wj
+clark ag
+introduced mutations
+bmc bioinformatics 7
+530­540 ludwig mz
+minimal threshold
+divergent genomes
+prior knowledge
+dna microarrays
+proteins involved
+non-conserved matches
+initial search
+236 ioshikhes ip
+subfigure shows
+873­880 romano la
+raw material
+exact matches
+model developed
+b600 bp
+weak matches
+promoter
+mouse genes
+specific subset
+absolute difference
+tfs retain
+stressrelated tfs
+liver-related tfs
+shown beneath
+nature
+nature 442
+nature 440
+nature 447
+nature 434
+approximately half
+nature 431
+ed higher
+higher ed
+species analyzed
+article number 159
+cerevisiae a-
+saccharomyces cerevisiae
+human promoters
+695 human promoters
+comparing
+harbison ct
+1114­1121 donaldson ij
+references
+banerjee
+zhang zd
+including differences
+242­245 harbison ct
+important limitation
+central role
+1663­1674 odom dt
+1850­1854 landry cr
+zhang mq
+highly regulated
+directly regulated
+significant number
+relative contribution
+772­778 su ai
+characterized thousands
+339­350 borneman ar
+significantly higher
+species compared
+significant cases
+focused analysis
+directly examined
+results shown
+study focused
+expected effects
+large percentage
+detectable effect
+138­144 roberts cj
+segal lab
+highly correlated
+poorly correlated
+detectable impact
+cerevisiae arrays
+frequent gain
+fay jc
+factor
+200 upregulated genes
+upregulated genes
+detailed account
+saccharomyces paradoxus
+apparent loss
+examine systematically
+genes shown
+cerevisiae array
+small number
+cerevisiae promoters
+mammalian
+appears
+maintaining
+represent
+compare
+regulatory
+sets
+cerevisiae genes
+cerevisiae a-factor
+chimpanzee genes
+parallel patterns
+sequence
+bound promoters
+studies found
+motifs
+gene
+mikatae genes
+paradoxus genes
+transcription
+experiments
+reference samples
+related
+sequences
+expression
+organisms
+log2
+ratios
+partially consistent
+pattern
+observed
+yeast
+encode
+www
+aspects
+includes
+set
+led
+regions
+li
+position
+matrix
+methods
+prediction
+site
+ste12
+mating
+pheromone
+multiple
+cells
+log 2
+affect
+fad1
+2% agar
+a-type
+controlling
+turnover
+identified
+evolution
+motif
+functional
+weizmann
+corresponds
+diverged
+predict
+tf
+based
+average
+positions
+binding
+figure 2
+figure 3
+figure 5
+divergence
+60 40 20 0
+
+divergence
+`conserved
+conserved
+upregulation
+hybridization
+match
+predicted
+`lost
+lost
+classified
+ypd
+random
+fus2
+mutated
+finally
+thresholds
+chromatin
+16 pairs
+directly
+differences
+buffer
+article
+region
+drosophila
+comparison
+general
+t1
+method
+induced
+regulation
+distributed
+conditions
+0 licence
+normalized
+licence
+reflects
+repeats
+mbp1
+wall
+transcriptomes
+largest
+analyses
+previously
+function
+highest
+variations
+response
+cell 128
+cell 113
+significant
+influence
+cell
+mouse
+analyzed
+wang
+arrays
+specificity
+results
+ed
+aligned
+correlation
+wray
+characterized
+defined
+mechanisms
+system
+correlations
+controlled
+larger
+human
+þ 2 ð1þ
+
+analysis
+analysis
+studies
+study
+35% compared
+evolve
+predictions
+gordon
+array
+small
+rifkin
+downregulated
+generated
+correspond
+magnitude
+one-
+tissues
+compared
+significantly
+promoters
+1000 genes
+20% genes
+12 genes
+408 genes
+82 genes
+genes
+100 genes
+29 genes
+3248 genes
+higher
+macisaac
+a-factor
+species
+12 patterns
+patterns
+class
+conservation
+sartor
+modulation
+complexity
+ranz
+raw
+isolated
+mutations
+upregulated
+ioshikhes
+romano
+subclass
+models
+enhancers
+barkai
+naama
+values
+matches
+threshold
+subfigure
+case
+author
+search
+prior
+bioinformatics 23
+developed
+filters
+ludwig
+t-test
+signaling
+determined
+vacquier
+600 bp
+5483­5488
+
+& 2008 embo
+159 & 2008 embo
+microarrays
+fisher
+focused
+involved
+clark
+control
+genomes
+orchestrated
+thousands
+responses
+& 2008 embo
+swanson
+partially
+tfs
+shown
+tec1
+performed
+half
+cerevisiae þ
+number
+cerevisiae
+parallel
+including 27
+reference
+role
+prediction
+cases
+landry
+samples
+important
+donaldson
+zhang
+regulated
+odom
+doniger
+including
+11 cases
+harbison
+395­404 zhang
+banerjee
+chimpanzee
+borneman
+contribution
+su
+examined
+subset
+al
+percentage
+expected
+185­200 segal
+segal
+roberts
+effect
+correlated
+impact
+bound
+fay
+gain
+methods
+difference
+mikatae
+account
+paradoxus þ
+paradoxus
+consistent
+loss
+examine
+found
+limited
+circuitry
+fig2
+assembled
+up-
+ruvinsky
+applied
+activation
+formula
+kreitman
+vector
+chen
+estimated
+hnf6
+blue
+explained
+franz
+circumvent
+p40
+gcn4
+annotations
+fraenkel
+exceptions
+validated
+end
+triggering
+executed
+evolvability
+dermitzakis
+ncbi
+highlights
+enard
+overcome
+affected
+combination
+ouyang
+1210­1215 khaitovich
+list
+tirosh
+restricted
+estimate
+science 309
+vitro
+restrict
+99­104 huxley
+sorbito
+rewritten
+similarly
+top
+3 â106/ml
+rates
+centered
+helen
+distance
+enabled
+hnf1a
+minus
+rat
+responsible
+halbleib
+circles
+acknowledgements
+doi
+calculated
+inferred
+accounted
+colors
+participate
+730­732 oshlack
+explain
+altogether
+fertility
+respond
+subarray
+//www
+terms
+restricting
+prabhakar
+demanded
+exceeds
+asked
+1% k-acetate
+appeared
+decoupling
+source
+251c
+spread
+jxi ð
+elicit
+grown
+make
+colonies
+nih
+fuse
+kim
+materials
+05% glucose
+fondufe-mittendorf
+xenopus
+weiss
+evidences
+fusion
+interestingly
+beneficial
+development 125
+icn
+purple
+elucidate
+predicting
+shifting
+permitted
+conceal
+presence
+rounds
+fraction
+medium
+true
+development 126
+test
+5 â106/ml
+level
+hindered
+realizations
+development 130
+downloaded
+development 132
+change
+þ 40 interval
+flexibility
+accepted 6
+black
+rehovot
+insights
+growing
+making
+conversely
+occur
+discussion
+b90
+flank
+optimal
+799­816 tirosh
+verify
+years
+tendency
+ovals
+interesting
+matched
+xie
+hsp1
+begun
+gerstein
+707­719 liao
+suggesting
+301c
+possibility
+complicated
+bardwell
+initiate
+xi
+comprised
+batalov
+transferred
+future
+generality
+turned
+form
+note
+begin
+importantly
+pair
+surprising
+considered
+drive
+arguably
+show
+ruvkun
+inconsistent
+nlm
+/msb
+specifically
+zeitlinger
+enriched
+log2-transformed
+zebrafish
+geo
+4187­4199 ruvinsky
+median
+uncover
+medvedovic
+promega
+chimpanzees
+color
+grants
+capable
+carey
+yeasts
+combined
+po0
+parentheses
+137­144 takahashi
+hodhkan
+par
+html
+subunit
+pal
+extended
+rds1
+16234­16239 dermitzakis
+yellow--
+aspect
+swi6
+dunham
+lemos
+7024­7031 bardwell
+provided
+xing
+jennings
+mixed
+mammals
+subclasses
+ac
+describe
+yoo
+assessing
+field
+þ þ xj ð
+karyala
+walk-
+sonication
+nelson
+boone
+lack
+liao
+b6000
+subjected
+b85%
+kumm
+cdna
+fax
+paabo
+t2
+tel
+past
+rozowsky
+labeled
+1 kb
+contrast
+lachmann
+matsuo
+snap-frozen
+dowell
+takes
+zorn
+israel
+*
+1 department
+science
+numbers
+arise
+goal
+1235­1242 pal
+reflect
+pcr
+206­216 xie
+yd
+prenylates
+cer
+yu
+association
+science 287
+mootha
+giaever
+difficulty
+lemaire
+generate
+noted
+incubated
+bayanus
+needed
+introduction
+tata-
+asci
+treated
+molecularsystemsbiology
+albert
+measured
+organism
+downregulation
+relation
+find
+815­819 das
+parameters
+columns
+þ ¼ jxi ð
+scanning
+classes
+leveraging
+soden
+premise
+connection
+bertrand
+hellmann
+collected
+understand
+2 department
+twofold
+database
+nucleosomes
+location
+/downregulation
+signal
+mitani
+creation
+boffelli
+b0
+examples
+lindblad-toh
+affects
+stem
+block
+governed
+276­279 gilad
+analyze
+hap2
+cis
+kellis
+accessibility
+satoh
+b1%
+hnf4a
+weinberger
+department
+problems
+6­7 days
+papp
+physics
+required
+enrichment
+gu
+kreiman
+30 utrs
+simon
+concerned
+338­345 xing
+kapur
+gov/geo/
+lowercase
+tyers
+compensated
+licensed
+experiment
+believed
+explore
+notably
+kudriavzevii
+suggests
+composed
+buffered
+90 min
+sgd
+oda-ishii
+huxley
+process
+sought
+wiltshire
+israel *
+divided
+mentioned
+tgaaaca
+lu
+dai
+disrupted
+das
+interplay
+red
+interactions
+1283­1285 zeitlinger
+sko1
+clustelw
+khaitovich
+cy3
+cy5
+lapp
+intermediate
+sensitivity
+chanan
+explanation
+carmi
+prm2
+detection
+compensation
+reproduction
+thastrom
+mik
+science 312
+science 317
+fact
+supported
+subtracting
+credited
+foxa2
+employed
+green--motif
+stoughton
+//genie
+takahashi
+þ à xj ð
+processes
+widom
+processed
+humans
+extend
+identification
+rehovot 76100
+leinweber
+edi
+respect
+addition
+hayakawa
+rb0
+aga1
+peptides 26
+12 classes
+otx
+sensed
+capture
+indistinguishable
+difficult
+http
+x-axis
+60 min
+science 300
+accurate
+resuspended
+arresting
+reasons
+saturation
+excluding
+gottgens
+alternatively
+nowick
+saiga
+searching
+oshlack
+e-mail
+mutation
+limitations
+113 oda-ishii
+carried
+recognized
+assess
+speciation
+synthesized
+snyder
+dal82
+mccallion
+problem
+display
+nonetheless
+orthologs
+po10à4
+po10à5
+searched
+gilad
+indirectly
+2 1
+27%
+108
+1990
+1999
+1998
+þ 40
+17%
+¼1 â 10à3
+03
+07
+05
+5 â106
+55
+4 â 10à6
+¼5 â10à26
+22%
+6
+þ 972 8 934 4429
+0
+ð
+à1
+2
+11
+10
+17
+1%
+3
+49%
+à40
+4
+þ 972 8 934 4108
+5
+3725­3734
+170
+24
+5
+
+1 0
+7
+5 1 0
+1 â 10à4
+2
+1
+30
+9
+001
+308
+¼0
+¼1
+2002
+2003
+2000
+2006
+2007
+2004
+2005
+5 â10à8
+8
+1
+32%
+þ
+6­0
+11%
+46
+40

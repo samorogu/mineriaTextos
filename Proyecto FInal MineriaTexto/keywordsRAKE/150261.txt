@@ -1,0 +1,1423 @@
+bb ~ la pa ~ lb pb ~ la pa ~ pbalapa ~ pablbpb ~ pbalapa [7] ~ pablbpb ~ lb pb ~ pabpba la ~ pba la pa ~ pab lb pb ~ lb pbapab
+
+~
+centre national de la recherche scientifique­unite mixte de recherche 168
+centre national de la recherche scientifique­universite louis pasteur
+· · · pa · · · pb
+
+la pa [6] lb pb
+
+pbalapa
+la
+
+~ la pabpba
+
+~ pbapab lb
+isambert*
+laboratoire de dynamique des fluides complexes
+intramolecular gc au gu base-pair stacking interactions
+single-stranded circuits define quasiindependent structural domains referred
+slow folding relaxation limits extensive folding statistics
+pabpba pbapab pabpba pbapab
+2 2
+lowest free-energy structure found shares 80% base-pair identity
+´ ministere de la recherche
+action concertee incitative grants pc25-01
+institut des hautes etudes scientifiques
+online rna-folding kinetics server including pseudoknots
+88-base-long hepatitis delta virus ribozyme
+codon bias usage [pseudoknot proportions
+base-pair zipping unzipping kinetics occurs
+correct combined path average matrices
+predicted structure shares 93% base-pair identity
+ab initio rna secondary structure predictions
+trapped dynamical systems generally presents
+hepatitis delta virus ribozyme [fig
+online rna-folding server including pseudoknots
+genomes exhibit similar broad distributions
+coarse-grained kinetic approach probing seconds
+ab initio rna-folding prediction restricted
+hepatitis delta virus ribozyme
+greatly accelerates rna-folding stochastic simulations
+lowest free-energy secondary structure found
+section de recherche
+traditional base-pair stacking interactions
+pablbpb
+induces extended structural modifications
+stochastic rnafolding simulations including pseudoknots
+performed extensive folding statistics
+significantly affect global statistics
+similar stochastic rnafolding simulations
+~ pc ~ qaa ~ qba ~ qbb ~ qab ~
+pc qaa qba qbb qab
+path average matrices pa
+classical polynomial minimization algorithms
+global coarse-grained structural model
+pa la
+1
+~ la pa
+nested helices concomitantly form
+lowest free-energy structures found
+secondary structure rearrangements amplifies
+obtain approximate coarse-grained dynamics
+defined 3d enzymatic shape
+provide specific structural rigidity
+long dismissed helices interior
+minutes folding time scales
+institut de physique
+possibly state-to-state varying number
+combining simple structural models
+j4i ¥cm 1 cm plk
+rna secondary structure predictions
+path average matrices pc ~
+path average ~ matrices pc
+lb [
+lb ~ ~
+lb
+vectors pab qab qbb
+path average time lapse
+shows 80% base-pair identity
+la ~ ~ ~ ~ defining
+10 helices including 1 pseudoknot conserves
+stereochemically improbable structures account
+ca ca ca ~ ~ mp ¥
+67-nt-long artificial rna molecule
+path average matrix pc
+matrix la [
+stochastic rna-folding pathway amounts
+ca
+
+ca
+
+pa ji
+statistically visited reference states
+actual 3d structural constraints
+statistical weight wcm lk
+double-stranded rna helices connected
+slow folding dynamics
+stacking interaction tables
+mrna­ribosome interactions
+bb [8]
+
+results
+performance
+random 100-nt-long rna sequences
+free-energy computations involve
+path cumulative quantity
+nonclustered rna-folding simulations
+long-time-scale rna-folding simulations
+stochastic rna-folding simulations
+recalculating ~ matrices pa
+classical ``dynamic programming
+stacking energy parameters
+trapped dynamical systems
+trapped dynamical system
+exact stochastic clustering approach
+return
+
+~ ji pa
+local stacking processes
+statistical weights wcm
+lowest ``exit frequency
+sherman­ morrison formula
+org cgi doi 10
+nucleic acids symp
+improvement runs parallel
+national academy
+elementary escape times
+continuous updating procedure
+naive combinatorial argument
+weighted cumulative lifetimes
+subsequent stochastic exploration
+sherman­morrison formula
+identifying row qba
+nucleic acids res
+similar numerical pitfalls
+la
+average pathway length ji
+pb
+pb [1]
+rna structure predictions
+explored folding paths
+rna secondary structure
+bt ba pa
+neglecting hardcore interactions
+regular double-stranded helices
+small trapped systems
+small intrinsic inaccuracy
+probability matrix pa
+path average quantities
+single-stranded regions connected
+stimulating 2-month visit
+reverse modification consisting
+modeling rna-folding dynamics
+specific sequence predictions
+defining pab patab
+combinatorial structure space
+powerful numerical schemes
+stacking energy contributions
+clustered stochastic simulations
+minimum size constraint
+transient nucleation core
+closely related configurations
+structures sharing essentially
+cumulative time lapse
+free-energy minimum structures
+structural modeling problem
+matrix product lam
+right-to-left matrix ordering
+folding kinetic approach
+nascent rna molecule
+rna molecule unfolding
+simulating rna-folding dynamics
+pseudoknot energy parameters
+structural model introduced
+independent folding trajectories
+small numerical drifts [
+intrinsic nonnested nature
+additional entropic cost
+kinetic traps consisting
+stochastic simulations relies
+physical quantity yi
+heuristic clustering approaches
+additional helix elongation
+saccharomyces cerevisiae genomes
+algorithm strongly hinges
+unpaired regions linking
+3 rue de ´
+usual differentiation rules
+understanding molecular simulation
+2n 1 1 matrices pi [1]
+discrete structure space
+ideal polymer springs
+neighbor rna structures
+design rna structures
+evaluate time averages
+computes time averages
+low free-energy structures
+rna-folding kinetics
+394-base-long tetrahymena group
+specific rna sequences
+helices stochastically form
+rapidly exchanging states
+150-nt-long mrna fragments
+~ obtain matrices pc
+shorter time scales
+time average energy
+rna structure prediction
+stochastically drawn lifetimes
+c-rich rna sequences
+large combinatorial space
+individual folding pathways
+individual rna helices
+defining [tba]ij 0
+thermodynamic tables measured
+computational efficiency issue
+average pseudoknot proportion
+pseudoknot contents observed
+random rna sequences
+c-rich random sequences
+pabpba] 1
+pbapab] 1
+exact stochastic algorithm
+394-nt-long tetrahymena group
+helix nucleation dissociation
+recently explored configurations
+probability matrices yields
+straightforward stochastic algorithm
+usual equilibrium calculation
+time average proportion
+ratio ``simulated time
+projected lines correspond
+probability matrices introduced
+modeling rna helices
+mutually compatible helices
+small differences due
+elementary polymer theory
+natural rna sequences
+base-pair rearrangements
+transfer matrix tba
+100-fold simulation speed-
+unpaired connecting regions
+formed base pairs
+individual clustered states
+7 finally yields pc
+rna structures corresponds
+predicted structures depending
+ecs algorithm aims
+bb
+
+ba
+
+~
+random sequences show
+visualize predicted pseudoknots
+pa recursively
+bringing
+pnas december 23
+continuously updated cluster
+main short cycles
+¥ap ap ji
+¥ap eap ji
+updated reference set
+unknown pa
+~ pa{yt}
+single-stranded regions
+genomic sequence set
+identity matrix
+probability matrix pc
+continuously updated set
+base-pair stackings
+1 pab pba
+matrices pab
+hardcore interactions
+[5]
+
+pa
+
+ji
+~ ji pa
+free-energy differences
+rna-folding dynamics
+secondary structure
+stochastic simulations
+structural constraints
+pseudoknot proportions
+rna folding
+local unzipping
+colored circuits
+pab patab
+folding dynamics
+coarse-grained degrees
+structural model
+folding paths
+free-energy contributions
+statistics purposes
+statistical weight
+intron ribozyme
+secondary structures
+distributions pi
+67-nt-long molecule
+single reference state
+artificial sequences
+simple 1 1 matrices
+clustered stochastic
+rna structure
+institut curie
+structural importance
+structural features
+structural consequences
+3d structure
+straightforward algorithms
+discrete space
+3d constraints
+polynomial time
+time lapse
+matrix form
+bb [9] ~
+bb [10]
+bb
+rna shorter
+rna molecule
+average time
+time average
+transition rates kji
+ba
+j4b a4i
+rna sequences
+structure prediction
+calculated recursively starting
+average proportion
+larger systems
+intersection qbb
+universite
+significantly increase
+pba pbtba
+unpaired regions
+entropic cost
+stereochemically prohibit
+kinetic traps
+visited repeatedly
+roughly scales
+stochastic openings
+column qab
+kinetic aspects
+rna sequence
+numerical pitfalls
+sequences visit
+genomic sequences
+average curves
+average speed-
+polymer springs
+rna structures
+ecs simulations
+tetrahymena group
+independent trajectories
+reverse sequence
+broad distribution
+pba tba
+3d structures
+random sequences
+2536430100
+
+pseudoknot prediction
+base pairs
+individual helix
+important issue
+trapped states
+computational perspective
+isambert@curie
+clustered configurations
+average number
+394-nt-long group
+main pseudoknot
+thermal averages
+chosen stochastically
+shrinkage rearrangements
+rna transcripts
+statistical analysis
+statistical properties
+performed recursively
+sequence length
+pseudoknot proportion
+pseudoknot helices
+free energy
+thermal energy
+updated probability ~
+including pseudoknots
+j4i
+
+ca
+} pa{
+pa{
+pa
+~ ~ pa
+[pa]{
+~ pa
+pervasive problem
+effectively yields
+stochastic trajectory
+stochastic closing
+readily yields
+short cycles
+reference configurations
+single pseudoknot
+unrelaxed sequences
+``numerical traps
+short sequences
+numerical recipes
+original pc
+simple scheme
+exact approach
+simple ``differentiation
+generic model
+exact averaging
+reference structures
+rna molecules
+pathway ca
+neighboring configurations
+minimum duration
+current configurations
+roughly independent
+finally obtain ~
+local connectivity
+readily obtain
+formed helices
+straightforward algorithm
+j4i j4i
+actual 101-
+equilibrium compatible
+back recursively
+stochastic transitions
+actual calculation
+reached equilibrium
+main text
+main limitation
+main obstacles
+unit time
+effective time
+cpu time
+time-weighted matrix
+formed helix
+matrix inversions
+bistable molecule
+straight lines
+gray lines
+simple loops
+predicted effectively
+helices defined
+initial helices
+nearby helices
+polymer theory
+eap ji
+santa barbara
+applications due
+unidirectional connection
+instantaneous efficiency
+imagined broken
+trapping condition
+coaxial stackings
+slowly increases
+algoa rithm
+unique insight
+inefficient due
+alternative avenue
+effective acceleration
+rnamovies software
+thermodynamic barrier
+descriptive levels
+reviewed briefly
+mechanical force
+marie curie
+r13985­r13988
+present algorithm
+assigned arrhenius-
+review march 28
+numerically integrating
+infinite summation
+frameshift regulation
+physical features
+time-limiting step
+severely impeded
+distributed unevenly
+somewhatpathological cases
+several-fold speed-
+effective approach
+san diego
+entropy costs
+net speed-
+applications mfold
+important tool
+appropriately coarsegrained
+optimum ``final
+operation count
+single helix
+tji peapji {
+2nd ed
+clustering algorithm
+out-of-equilibrium calculation
+easily amenable
+``partition function
+simulation techniques
+2-bp-long p1
+end-to-end distance
+priori dismissal
+time-lapse transform
+define
+terminal mismatches
+controlled scheme
+isolated stem-loops
+-operation count
+intermediate step
+crystallization techniques
+van batenburg
+partition function
+26
+
+15315
+
+mathematics
+
+biophysics
+collectively revisited
+bt bap
+~ ~ reasoning applies
+priori requirement
+present approach
+stringent limitation
+primarily leads
+``partition functions
+stiff rods
+helix turn
+theoretical physics
+mathematics
+
+biophysics
+generic algorithm
+translation initiation
+´ 11 rue pierre
+neglecting pseudoknots
+long pseudoknots
+pseudoknot formation
+minimum set
+pathways ca
+large proportion
+reference states
+40 reference states
+main pseudoknots
+ecs algorithm
+typically obtain
+black lines
+large refractory
+large potential
+probability pkj
+pseudoknot prevalence
+total number
+stationary number
+limited number
+reference set
+numerical efficacy
+consecutive states
+pnas
+
+december 23
+reach equilibrium
+isolated ~ states
+pnas december 23
+hairpin loops
+250­400 bases depending
+isolated states
+pathway loops
+150-nt-long sections
+multistable molecules
+methods
+modeling
+ji corresponds
+ba
+a4i
+general approach
+include pseudoknots
+sole pseudoknots
+so-called pseudoknots
+visualizing pseudoknots
+forming pseudoknots
+unique set
+n-configuration set
+} peapji pji {
+pj pji {
+pji kjiti
+path
+lifetime ti
+intron pictured
+statistics
+-operation update
+complete update
+nth update
+results suggest
+constitutive ``nets
+removal step
+numerically unstable
+work originated
+typically differ
+105-fold increase
+cambridge univ
+turner laboratory
+present address
+calculating pbam
+disjoint sets
+stronger impediment
+reference state
+probability pji
+predictions
+current state
+single state
+neighboring state
+5b inset
+a4i
+
+pl
+``good choice
+escherichia coli
+current configuration
+predict pseudoknots
+ji pji
+pab
+ba set
+mathematics
+
+eqs
+transition probability
+4a represents
+maximum tree-
+france ´ ´ communicated
+biophysics
+
+fig
+rare
+
+fig
+folding
+transition states
+expected speed-
+make ba
+exit probability
+content inhomogeneity
+update routines
+future pathways
+report results
+1 ~ matrices
+matrices
+pba
+qba
+accelerates
+genomes
+~ ~ ~ qba
+occurs
+qbb
+pba] 1 [
+cm
+general prevalence
+qaa
+qab
+proved difficult
+simulations
+average
+including
+similarly obtained
+intron [fig
+ba aa
+alternatively eqs
+specific
+isambert
+´ isambert
+structure
+fraction
+xayaphoummine
+rna 5
+small
+c-rich
+dynamics
+usa
+
+15310 ­15315
+
+www
+interest xi
+provide
+combining
+ap
+possibly
+amounts
+vectors
+sequences
+000 sequences
+pc
+~ pc
+exact
+modeling
+model
+random
+ca
+prediction
+performed
+obtain
+introduced
+nucleation
+long
+found
+length
+structures
+actual
+time
+matrix
+} matrix
+group
+formed
+100-nt-long
+j4i
+reference
+predicted
+proportion
+helices
+correspond
+finally
+compatible
+nature 395
+cluster
+account
+pathway
+natural
+contributions
+speed-
+recalculating
+a4i
+rates
+relies
+``clustering
+measured
+contents
+connected
+show
+simulating
+short
+helix
+drawn
+approach
+recently
+efficiency
+corresponds
+due
+quantities
+calculation
+traps
+differentiation
+cerevisiae
+connecting
+simulation
+simulated
+clustering
+low
+continuously
+defined
+single
+pi{
+physical
+algorithm
+ecs
+large
+tba
+ab
+probability
+number
+states
+loops
+150-nt-long
+molecules
+states 2
+ji {
+ji { } ¥
+ji 0
+ji
+ba
+predict
+theory
+ba ~
+black
+kji
+general
+5b
+bistable
+inset
+``pseudoknots
+pseudoknots
+set
+} pji
+pji
+intron
+ti 1 ¥
+ti ¥
+results
+pathways
+update
+removal
+105-fold
+& turner
+address
+typically
+``nets
+closing
+routines
+barrier
+formation
+similarly
+cambridge
+fraction
+future
+work
+report
+bap
+trajectory
+pbam
+1073 pnas
+make
+difficult
+sets
+alternatively
+unstable
+pnas
+reach
+calculated
+proved
+stronger
+transition
+lk
+} lk
+j4b
+``state
+state
+usa 97
+usa 77
+obtained
+colored
+coli
+exit
+choice
+} [xi]
+xi
+configuration
+pl
+efficacy
+prevalence
+methods
+distribution
+``starting
+eqs
+starting
+transitions
+france
+400 bases
+4a
+tree-
+<150 bases
+150 bases
+2536430100
+
+fig
+fig
+15312
+
+www
+15314 www
+interest
+www
+expected
+26 15311
+
+xayaphoummine
+xayaphoummine
+aa ~
+aa
+content
+scratch
+150-ntlong
+illustrated
+follow
+extremities
+october 6
+baschenagel
+11 bp
+excluded
+p2
+stud
+¥ mehth
+bures-sur-yvette
+updates
+evers
+visualized
+convenience
+noted
+smaller
+occurrence
+incremented
+shirts
+picked
+run
+estimated
+blue
+established
+sclavi
+jaeger
+find
+reminiscent
+brenowitz
+eventually
+method
+filled
+& chatenay
+67000 strasbourg
+& westhof
+calculate
+involved
+study
+stretching
+contradiction
+california
+& flannery
+involves
+leger
+u-strasbg
+tinoco
+transit
+apl
+rarely
+voter
+proceed
+prove
+remains
+reflects
+subsection
+introducing
+formally
+studied
+iii
+50-nt-long
+averaged
+remain
+values
+achieve
+sci
+root
+zuker
+& herschlag
+suggestions
+high
+tab
+& jacobson
+~ outline
+discussion
+yeast
+feature
+fourth
+l715
+frenkel
+fr
+proc
+sabina
+cooperativity
+date
+matter 97
+transposed
+higgs
+facilitate
+mccaskill
+green
+marchal
+sd
+operations
+developed
+displayed
+compensate
+& nixon
+experiments
+modified
+mentioned
+existence
+bortz
+westhof
+giegerich
+absence
+overcome
+eur
+correspondence
+motivated
+combination
+introduce
+reflected
+break
+p13
+thalmann
+1b
+biomol
+requires
+labeling
+bioinformatics 15
+l2
+turns
+crossing
+reset
+biol
+krauth
+ea
+4b
+eb
+investigated
+eq
+shown
+herve
+investigate
+studying
+& doudna
+adv
+ref
+biopolymers 29
+gromov
+& siggia
+succession
+matter 57
+stochasticity
+union
+& eddy
+2003
+
+vol
+& woodson
+tacker
+relations
+indices
+open
+introduction
+imagine ~
+theimer
+adopted
+1a
+1c
+siam
+gultyaev
+dyakonova
+press
+simulate
+& pande
+fontana
+representing
+mezard
+require
+pieczenik
+rivas
+mina
+porschke
+mind
+operations [
+close
+chem
+efficient
+convenient
+-
+overcoming
+note
+sciences
+internal
+accuracy
+circles
+nat
+nussinov
+operate
+ea ~
+kinefold
+michel
+``typical
+request
+principle
+kt
+fact
+monatsh
+attempts
+range
+rev
+bucher
+& schuster
+thousands
+4c
+2003 vol
+tbi
+dyn
+gen
+gautheret
+symbols
+increasing
+comb
+yield
+ascertain
+& stiegler
+ruins
+° exp
+ser
+achieved
+result
+treiber
+ea 1 ¥
+determined
+stadler
+hofacker
+triangles
+opening
+focus
+jr
+bonhoeffer
+received
+waterman
+freely
+noticing
+multiplications
+context
+contribution
+adapted
+teukolsky
+sullivan
+socci
+simply
+math
+rpi
+respect
+& williamson
+basis
+addition
+invert
+red
+flexible
+precision
+case
+p3
+siggia
+cmplk
+evaluated
+choices
+institute
+pleij
+¥cm1
+refs
+surprisingly
+iv
+ii
+ia
+exiting
+& smit
+capture
+``lost
+supported
+recurrent
+lett
+~ introduce
+finite
+pan
+univie
+mrnas
+practice
+http
+biophys
+sums
+science 279
+closings
+driven
+harlepp
+ideas
+1 tj
+modeled
+robert
+academic
+mathews
+``direct
+proposed
+abbreviation
+summed
+comput
+visualization
+& pluchery
+struct
+``branches
+instance
+add
+griggs
+natl
+5a
+5c
+explained
+finding
+mol
+amare
+giedroc
+doniach
+sizes
+bulge
+performing
+5-
+benefit
+arbitrary
+zarrinkar
+university
+pbtbapa
+maintained
+added
+acad
+suppl
+provided
+condens
+/
+e-mail
+75005 paris
+& giegerich
+compute
+assembly
+bioinfo
+& lebowitz
+russell
+extension
+freedom
+discussed
+ribozymes
+cmth
+presence
+& kister
+chooses
+assess
+included
+references
+transcription
+millet
+removing
+mironov
+start
+appl
+naturally
+penner
+notations
+sampled
+pk
+removed
+nutshell
+modulating
+rietveld
+applying
+versus 15 7
+& kleitman
+ac
+kalos
+al
+bplk
+& bosch
+chance
+& mezard
+compared
+variety
+percent
+¥ia
+& pleij
+valid
+details
+versus 16
+veterling
+zhou
+``exiting
+databases
+scale
+accounts
+´ discussions
+implies
+150 nt
+assume
+phys
+ferre-
+acknowledges
+lehnert
+n2
+n3
+© 2003
+1990
+1992
+1943­1946
+1996
+298
+294
+°
+100
+38
+33
+1105­1119
+19­21
+``
+167­212
+~ ~
+24­27
+1981
+4983­4987
+1995
+1994
+1997
+1999
+1998
+6
+5 7
+2053­2068
+3%
+1­10%
+32­37
+2 0]
+1985
+1
+26
+27
+20
+21
+22
+23
+28
+29
+567­574
+1940­1943
+84
+2536430100
+25
+609­617
+10­20%
+894
+7
+6%
+7826­7830
+[3]
+24
+40%
+6515­6520
+100­1
+2
+14 6
+26 15313
+
+~
+10
+13
+15
+17
+19
+18
+1978
+5 6
+1974
+]
+}
+75%
+3
+127
+8
+955­965
+12
+125
+14
+9
+199­253
+] 1 [
+° 108
+167­188
+953­962
+2­3
+2029
+[
+´ 26
+2000
+50%
+432­438
+381­386
+367­370
+¨ 29
+14 ­17
+285
+32
+31
+~
+30
+37
+`
+16
+911­940
+288
+4
+80­90%
+133­148
+1717­1731
+50
+5%
+993­1009
+[1]
+68­82
+10 ­18
+300
+1975
+14­17
+30%
+35
+86
+¥
+1980
+[4]
+*
+1­7
+7­8
+9­17
+167­185
+49­51
+[2]
+11
+5
+36
+9%
+6 ~
+2003
+2001

@@ -1,0 +1,978 @@
+Phillippe Couttet12
+Catalunya
+Pedersen26
+similarity
+Wheeler63
+nucleolar
+polycomb-mediated transcriptional
+Transcriptional
+35Laboratory
+Mattick44
+Polycomb-group
+Schwaiger
+Analogous
+consensus sequences
+Genome-analysis techniques
+Pawandeep
+Engineering Department
+Foundation
+amplification
+Manzano22
+Expression
+technique
+non-synonymous substitution
+following retinoic-acid
+investigator developed
+Nefedov67
+SE-75185
+Frequently
+analogous
+heterogeneity
+Massachusetts
+Baertsch25,26
+BinCons86
+downstream
+orthogonal
+structures78
+Hubbard12
+determining constraint
+Trumbower26
+replication
+Mullikin7
+well-known discrepancy
+transcripts identified
+Stadler24,30,45
+difference
+Enrichment
+Experimental
+partitions
+Annotation Assessment
+Molecular Biophysics
+trans-splicing
+impressive
+Stranger12
+TSSproximal
+E2F1-binding
+Wadelius74
+Bouffard7,48
+evolutionarily constrained
+Remarkably
+d'Investigacio Medica/Universitat
+sequences identified
+Hinrichs26
+unexpected
+Batzoglou
+Transcriptional Regulatory
+Biotechnology Information
+Sequence-specific
+consistent
+repetitive
+Fiegler12
+prediction
+Exploration
+RFBRs-SeqSp
+perspective
+Experimental techniques
+Dickson33
+attributable
+ARTICLES constrained
+Maskeri48
+inter-factor
+artificial chromosome
+non-redundant
+cross-hybridization
+Pseudogene
+mutational
+54Department
+incompatible
+Abbreviation Description
+Restricting
+protein-coding transcripts
+everdeclining
+experiment
+Matthews12
+Weinstock
+Hofacker24
+TFIIB/GTF2B
+Moqtaderi27
+supporting
+segmentation
+assessing functional
+respectively
+Intergenic
+Unannotated
+Biomolecular Engineering
+understanding
+behaviour
+identifying pseudogenes
+Armengol76
+Willingham
+Distribution
+distal-element-associated transcription
+Assessing
+Commonwealth
+Whole-genome
+technical
+Clawson26
+`dictionary
+Surprisingly
+non-genic sequences
+Sequencespecific transcription
+structural non-coding
+anti-correlated
+throughput
+constitutive
+suggestion
+Sodergren63
+symmetrical
+Technology
+Project103
+repressor
+patterns79
+transcript-survey
+classification
+proportion
+two-state
+Trinklein33
+¥msdottir79
+identified functional
+Wahringerstraﬂe
+Flamm24,30
+`warehouse
+Tyler-Freer
+Experimental annotation
+Transcriptional regulatory
+conventional
+Chemistry
+Pediatrics
+Evolutionary information
+revelation
+2Department
+Rosenzweig13
+Validation
+Evolutionary constraint
+Langford12
+functional constraint
+Tom_Gingeras
+annotations
+experimental annotation
+user-friendly
+Experimental technique
+Educacion
+Extramural
+individual cis-acting
+chimpanzee
+Blakesley
+Cambridge
+Encyclopedia
+Processed
+particular
+Stamatoyannopoulos
+Integrated pseudogene
+Ovcharenko
+abundance
+Seringhaus11
+73University
+human14,15
+Biostatistics
+integrating
+Zhengdong
+Christoph
+widespread regulation
+Different functional
+Sunyaev14
+mammalian
+transcription specificity
+24Institute
+RACE-positive
+Comparative
+composition45
+concordant results97
+Weissman41
+nucleosome occupancy
+Rozowsky11
+high-density
+interallelic
+22Department
+Wisconsin-Madison
+Weirauch25
+sequence-specific protein-binding
+Correction statistic
+Untranslated
+TBP-associated
+Integration
+41Department
+processed transcripts
+cell-cycle transcription
+coincident
+cis-acting regulatory
+indifferent
+substantial intragenic
+Genome-wide
+Pennsylvania
+information
+high-confidence
+predictors
+Andolfatto
+Chip-chip experiments
+RACE/tiling-array
+solidifying
+non-GENCODE-based regulatory
+methodology
+chimaeric-gene
+Karolchik26
+significance
+Sequencing
+TRANSFAC
+genome-wide
+Large-scale transcriptional
+Squazzo70
+Structural
+transcriptional activity59≠66
+description
+collection
+Green7,48
+connectivity
+59Department
+conservative correction
+cis-regulatory
+Epigenetic deregulation
+RFBR-SeqSp
+Sequenced
+pseudogene annotation
+whole-genome vertebrate
+Churchill
+Nagalakshmi10
+effective
+Dorschner
+stratified random-sampling
+correspond
+`activating
+complexity
+sequence-specific transcription
+Collins52 Multi-species
+correlation
+36Department
+Performance assessment
+base-pair
+Wallerman74
+evolutionary
+fundamental difficulty
+significant clustering
+Biochemistry
+developed
+amplifying
+Weinstock63
+establish redundancy
+RACE-detected
+experiments
+statistical
+Swarbreck12
+Snyder10,11
+replicating
+activating
+promoter-proximal regulatory
+consistent comparison
+Oberley73
+complicate
+non-polymorphic
+microarray
+molecular mechanisms
+intervening proteincoding
+61Department
+non-protein-coding transcripts
+non-coding functional
+Newburger42
+categories
+insulator
+Integrative
+56Department
+transition52
+non-random
+nonorthologous
+surprising considering
+GENCODE-defined transcripts
+Evolutionarily
+combination
+SequenceTiling
+predicting algorithm
+H3K27me3
+exon-containing
+comparison framework
+asymmetrical
+`repressed
+transparent
+association
+structural
+38Department
+euchromatic
+20Institute
+MacAlpine
+`functional
+identified
+Emanuelsson
+17Department
+SuperComputing
+Immunologie
+71Institute
+comparative sequencing
+Blanchette
+classifier
+Stamatoyannopoulos2
+breakdown
+Higher-order functional
+correction procedure
+Generalitat
+generation
+Transcription
+inter-relationship
+co-occurrence
+processed pseudogenes
+non-processed
+frequency
+interplay
+karyotype
+DNase-chip
+Discovery
+high-enrichment
+Heintzman68
+Davydov53
+Elizabeth
+Johnson13
+`non-CpG
+McDonald≠Kreitman
+Development
+investigation
+messenger
+`constrained sequences
+43Department
+accessible
+integrated
+transcription-factor
+foundation
+transcript consistent
+Manuscript Preparation
+confidence
+divergence
+encode_chairs
+possibility
+duplications104
+Verification
+Correlation
+intermediate
+non-specific
+likelihood
+speculation
+Euskirchen10
+comprehensive characterization
+definition
+work14,15
+Osoegawa67
+methylation
+determining
+protein-coding sequences
+high-throughput sequencing
+even-skipped
+tiling-array
+promoter-distal
+low-complexity
+consequence
+high-resolution
+Supplement Information
+Rozowsky
+Frankish12
+biological importance
+processivity
+manuscript
+Washington University
+Yoshinaga67
+synonymous
+unsupported
+randomized
+Statistics
+McDowell48
+Asterisks
+methodological
+Lopez-Bigas5
+mammalian sequences
+Theoretical
+cycle-specified fluctuation
+publication
+Childcare Foundation
+opportunity
+anti-sense
+occupancy
+differential epigenetic
+Different categories
+conservation
+58National
+chromosomal architecture
+Alexander
+Forschungsgemeinschaft
+relationship
+tiling-array experiments
+explanation
+continuous
+orthologous sequences
+pseudogene transcription
+Rosenbloom26
+formaldehyde
+chromosomes
+McDaniell
+population
+congenital
+Felsenfeld
+Wetterstrand51
+Greenbaum15
+intergenic
+Trade-offs
+well-established
+orthologous
+high-scoring
+Hawrylycz18
+experimental approaches16
+biochemical
+Intramural Sequencing
+Constrained
+Brd-U-labelled
+intercalate
+acquisition
+Massingham1
+Tullius15
+Zelltherapie
+long-range
+33Department
+distal-DHS-associated
+Vertebrate
+10Department
+PhastCons88
+Regulation
+Ultraconserved
+Asimenos53
+population variability
+79Department
+constrained
+Non-constrained
+Lander65,66
+Lindblad-Toh
+orthologous sequence-ready
+trimethylation
+transcription
+understand transcriptional
+Transcribed processed
+generalized
+experimental techniques
+performance
+Asthana14
+evolutionary information
+commonplace
+DNA/protein
+SwitchGear
+sequence-specificity
+GENCODE-annotated sequences
+cumulative frequency
+Stylianos
+significant
+organization
+Wisconsin
+Koriabine67
+sophisticated
+transcript
+overestimation
+Genome-scale profiling
+Hackermuller32
+evolutionarily
+observation
+surprising
+appreciation
+Vinsensius
+Consistent
+functional information
+Pachter36
+traditional
+translocations114
+high-throughput
+Comprehensive
+Barrera68
+duplication
+Chromosome
+phenomenon
+cross-validation
+DNA≠protein
+Ensembl-based
+Quantitative
+established proteincoding
+aggressive
+availability
+Supplementary Information
+transcription factor-binding
+H19/IGF2
+informationcontent
+element-level
+Blakesley7,48
+Heintzman
+distributed
+considerable
+Loytynoja1
+BioSapiens
+summarizing
+molecules
+Chikatoshi
+RACE-array experiments
+Transcript
+genome1≠3
+Emanuelsson11
+Nevertheless
+mammalian constraint4,86≠88
+traditional protein-coding
+28Department
+expectation
+Mammalian
+High-throughput localization
+heterozygosity
+FDR-based
+Repressed
+late-replicating
+genome-wide functional
+secondary
+Balakirev
+pseudogenes
+larger-scale
+Manchester
+differential
+non-functional
+Consensus annotation
+interesting mechanistic
+74Department
+embryonic
+predictive
+requirement
+Charlottesville
+ArrayExpress
+biological processes
+sensitivity
+Specifically
+Valencia37
+available complementary
+genome-wide experimental
+individual
+promoterproximal
+Correlating
+polymorphic
+Suehiro-cho
+alternative transcripts
+transcript identified
+McAuliffe
+distinctive
+RT≠PCR-positive extensions
+Unexplained constrained
+Relationship
+symmetric
+catalogue
+identification
+considerable proportion
+collective knowledge
+Bioengineering
+37Spanish
+evergrowing
+discovery
+variability
+Lefebvre12
+transcriptional regulation
+low-redundancy comparative
+Batzoglou53
+hypothesis
+Malhotra3
+genome-wide sequencing
+systematic examination
+Scientific
+observable
+Probability
+Zhang43,56
+positive-correlation
+nomenclature
+Unsupported
+Statistical
+Comparative Sequencing
+expression
+5-nucleotide
+experimental
+structure correction
+Wallenberg Foundation
+`biological
+Multi-LAGAN
+large-scale
+nucleotide polymorphism
+cataloguing
+Sidow33,62 Transcriptional
+packaging
+retrosequence
+Adzhubei14
+IC-SNURF≠SNRPN transcript
+62Department
+Thurman2,13
+systematic identification
+Biological Chemistry
+epigenetic modifications
+interesting observation
+Bioinformatics Institute
+sequencing90 individual
+considering
+ENCODEdetected
+Jacquelyn
+Biological Statistics
+functional annotation
+insulator-associated
+Predicting
+vertebrate
+Missal30,31
+tri-methylation
+Epidemiology
+initiation
+maintenance
+Queensland
+`regulatory
+ENCODE-region sequences
+Alexandre Reymond21,22
+39Department
+transcriptional regulatory
+graphical
+corresponding
+more-conservative
+ChIPchip
+Gilbert12
+replication-timing
+Hardison50,59
+repertoire
+determination
+representative
+integrated annotation
+Komorowski69
+`biochemical
+evolutionary conservation
+Acknowledgements
+clusters77
+acetylation
+corresponding biochemical
+Richmond72
+distribution comparable
+identifiable
+Dorschner2
+Rada-Iglesias
+cross-referencing
+transcripts
+Carninci40
+purifying
+mammalian CHIp-chip
+biochemical processes
+microarrays
+Furthermore
+sub-classified
+informative representation
+ChIP-chip-positive
+organizational
+Vishwanath
+57Department
+Mathematics
+Unconstrained
+53Department
+technology
+Farnham70
+Correspondence
+Jacqueline
+sequencespecific
+Hudson≠Kreitman≠Aguade
+significant overrepresentation
+lineagespecific functional
+simultaneous
+Importantly
+significant overestimation
+multisequence
+modification
+3Department
+44Institute
+composition
+difficult
+lineage-specific
+independent
+unexplained constrained
+non-orthologous
+Institute
+GENCODE-annotated transcripts
+42Department
+Emmanouil
+continuous-value
+including information
+noncoding sequences
+Drosophila115,116
+aggregate
+machine-learning technique
+constrained sequences
+extensions identified
+wavelet-smoothed
+arbitrary threshold
+concordance
+Characterization
+Rosenfeld75
+Dermitzakis
+commonplace assumption
+nevertheless
+Intriguingly
+Euskirchen
+Tiling-array
+70Department
+Experimentally identified
+snoRNA-derived
+consistency
+quantitative
+regulatory information
+Kapranov6
+isolating89
+Abecasis78
+reproducible transcripts
+Similarly
+higher-order functional
+proximity
+Srinivasan34
+Crawford20
+Abril5,28
+ribosomal
+Different transcription
+smaller-scale
+allele-frequency
+Molecular
+coordination
+alignment
+visualization
+Montoya-Burgos55
+non-exonic constrained
+Municipal
+Molecular Bioscience
+largescale data-generation
+Greenbaum
+stringency
+including non-protein-coding
+55Department
+Lindblad-Toh65
+Christopher
+CBSE/ITI
+sequence-specific regulatory
+modifications consistent
+Hartelstraﬂe
+Chimpanzee Sequencing
+46Department
+Woodroffe78
+hybridization
+Pseudogenes
+corresponding sequences
+Hartman10
+hypersensitive
+substantial biological
+Antonarakis
+Consortium
+EMBL/GenBank
+indicative
+Transcripts
+Regulatory sequences
+wellunderstood
+disadvantage
+Resequencing
+modifications
+remarkable concordance
+Hillman-Jackson26
+pan-vertebrate
+identifying
+27Department
+`community
+consensus
+repressive modification
+indication
+underestimation
+repressed
+Ministerio
+regulatory sequences
+RFBR-Seqsp Regulatory
+biological knowledge
+mathematical
+protein-coding
+Management
+Sandelin23
+cap-selected
+Expressed
+Functional
+Conservation
+ENCyclopedia
+data-analysis
+International
+transcriptome
+Connecticut
+excellent opportunity
+extinction
+describing
+cross-analysed
+Singapore
+Nikolaev22
+Bioessays
+box-binding
+integration
+Tsurumi-ku
+Antonarakis22
+Heterozygosity
+Conversely
+Deutscher
+Conclusion
+31Interdisciplinary
+Pseudogene identified
+Structure Correction
+complement experimental
+transcriptional landscape
+equivalent
+processing
+identified non-coding
+largerscale chromosomal
+Plantation
+15Department
+Genome-scale
+Huppert12
+protein-coding transcript
+Pathology
+consensus pseudogene
+laboratory-specific
+Margulies7
+incomplete understanding
+Large-scale
+ARTICLES Identification
+non-experimentally
+11Department
+evolutionary constraint
+extensions
+FormaldehydeAssisted
+Universitat
+functional landscape
+replacement
+statistical framework
+predictor
+Gerstein11,46,47
+Pronounced
+computational
+Developmental
+Cumulative
+functional
+appropriate
+transient-transfection
+Yoshihide
+Dermitzakis12
+genome-wide comparison
+Hybridization
+clustering
+1EMBL-European Bioinformatics
+ChIP-PET
+Henrichsen21
+additional
+Sandstrom2
+non-coding sequences
+metabolic
+Replication
+detectable
+Massachusetts Institute
+transcript-tiling
+California
+ChIP-chip
+synthesis
+transcriptome characterization
+Structured
+multi-sequence alignments86≠88
+Affymetrix
+Interestingly
+non-transcribed
+displacement
+Aggregate normalized
+mechanistic
+construction
+Andrews12
+Foundations
+Following
+Biochemical
+technologies
+Munn72,74
+ChIP-chip experiments
+polyA-selected
+illustrative
+Cummington
+Rodriguez
+characteristic
+Widespread occurrence
+Drosophila
+Thakkapallayil26
+Jefferson
+exploration
+verification
+PET/CAGE
+significant under-representation
+Kent25,26
+polymorphisms
+distribution
+advantage
+Coordination
+Holroyd12
+Publishing
+Comparison
+universal
+phylogenetic
+ARTICLES complexity
+accessibility
+Feingold51
+immunoprecipitation
+Narrowing
+well-defined
+Schubeler
+59-end-capture technologies
+Clelland12
+Laboratory
+chromosome
+methyltransferase
+Washietl24
+hypo-phosphorylated carboxy-terminal
+Intra-species
+duplications
+9Biomedical Engineering
+Martin50,59
+Drosophila melanogaster
+Integrated annotation
+Sekinger27
+Siepel25,26
+conclusion
+sensitivity threshold
+noncoding
+developmental
+Formaldehyde-assisted
+Finishing
+cross-integrating
+experimental annotations
+Non-protein-coding
+Thomas25,26
+Biomedical Informatics
+re-sequenced
+transcriptase polymerase
+75University
+structure
+Signal/control
+chromatinmodifying
+Lindemeyer30
+haplotype structure
+disrupting higher-order
+Computational Computational
+Kuehn2,13
+intentional
+gene-rich
+persistent
+H3k27me3
+TSS-distal
+insulator mechanisms
+TAFII250
+understand
+Molecular Pharmacology
+validation
+resolution
+enrichment
+CIBERESP

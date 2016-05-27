@@ -1,0 +1,350 @@
+precision-recall
+Electronique d'Intelligence
+remarkable
+COMPUTER SCIENCES
+Department
+relationships
+Henrichsen
+technique
+straightforward
+ADIOS-generated sentences
+extensive generativity
+difference
+Omohundro
+Experimental
+induction
+Hopcroft
+search-path
+Schlesinger
+Generalized
+perplexity
+Applying
+expressive
+average-case computational
+Statistical information
+experiment
+dendrogram
+consisting
+Categories
+segmentation
+Supporting
+respectively
+hierarchical clustering
+Computational
+Sandbank
+extra-linguistic knowledge
+rule-like algebraic
+published
+equivalence
+classification
+Continuing
+Languages
+Ghahramani
+one-to-one translation
+constitute significant
+significance criterion
+beginning
+construct generalized
+Tomasello
+Processes
+acceptable
+far-apart
+Encyclopedia
+particular
+induction integrate
+Procedure
+grammatical sentences
+challenge
+Recogition
+following
+Grammar-Like
+grammaticality judgment
+Rethinking Innateness
+McClelland
+Induction
+respective
+productive
+syntactic
+pseudograph
+Nevertheless
+parameter
+Structural
+description
+Technical
+ATIS-CFG
+bioinformatics
+Progressive abstraction
+ambiguous
+Natural-language
+effective
+statistical computation
+psycholinguistic
+algorithms
+fundamental
+Acceptability
+representation
+bias-free
+hierarchy
+closeness
+statistical
+Brunswick
+Psychology
+structure-sensitive
+Acquisition
+conceptual knowledge
+correspondence
+introduce
+Complexity
+Inside-Outside algorithm
+through-going
+capability
+principle difficult
+hierarchical structure
+probabilistic criterion
+reasonable
+constraints
+generation
+1,294-word
+probability functions
+constitute
+assumption
+CHILDES
+part-of-speech information
+automatic distillation
+ungrammatical sentences
+Astronomy
+evaluation
+artificial-grammar
+patternlike
+Acoustics
+University
+detecting
+likelihood
+definition
+Cambridge
+different precision
+derivation
+transition
+iterative
+Computation
+Lingustics
+grammatical
+natural-language
+additional equivalence
+well-known
+generative
+impossible
+800-sentence
+Precision
+construct
+fan-through
+intermediate
+Association
+Linguists
+information-based
+Rosenfeld
+Dietterich
+Macmillan
+knowledge discovery
+acquisition
+bootstrap
+generalization
+unavailability
+Workshop
+sentences
+Plunkett
+Development
+subjects
+generalized
+performance
+multilingual
+significant
+integrate statistical
+Foundation
+Euclidean
+Cameron-Faulkner
+Goldberg
+long-range agreement
+Perplexity
+incomplete
+Kermorvant
+sequential symbolic
+Grammatical Inference
+acceptability
+threshold
+homology
+generativity¶
+Doddington
+implementation
+proportion
+operational
+sentential
+long-range structural
+Kaufmann
+Cognitive
+dependent
+complementary distribution
+Generativity
+Saarbrucken
+characteristic
+Seidenberg
+left-going
+classification performance
+functional classification
+International Conference
+conceptual
+approach
+available
+comparable
+importance
+hypothesis
+interchangeable
+acquiring
+rightward
+Addison­Wesley
+influential
+sensitive
+sparseness
+MacWhinney
+contribution
+large-scale
+typological
+Discussion
+Finite-State
+Piscataway
+context-sensitive probabilistic
+considering
+acceptance
+extraction
+collocation
+linguistic
+Khudanpur
+corresponding
+coherence
+precision
+traversal
+representative
+performance comparable
+Connectionist Perspective
+Fillmore
+Classification
+ungrammatical
+appearance
+metaanalysis
+evaluated
+tree-structured
+McCandless
+situation
+procedure
+SVM-PROT
+Furthermore
+algorithmic approach
+Linguistic
+Heidelberg
+different
+syntactic information
+longer-range
+recursion
+Karmiloff-Smith
+distilled
+Processing
+postprocessing
+literature
+generalization­first
+undecidable
+d'Intelligence Artificielle
+assignment
+initialization
+Barcelona
+statistical information
+G0-grammatical
+generativity criterion
+candidate significant
+different order-permuted
+Information Processing
+generativity
+Abbreviations
+underlying
+alternative
+Fellbaum
+Ctraining
+candidate
+generalization­bootstrap
+variable-order
+artificial context-free
+Although
+Commission
+identical
+Unfortunately
+Algorithms
+computational complexity
+cognitive
+MacDonald
+indication
+human-judged precision
+replacement
+Extraction
+Pittsburgh
+EuroSpeech'93
+nonsimple
+connecting
+symbolic sequential
+structural information
+just-detected
+algorithmic
+Algorithm
+equivalent
+processing
+illustration
+restrictive
+Proceedings
+Computational Linguistics
+state-of-the-art constituent
+Microsoft
+Mathematical
+comparison
+dependence
+compatible
+tree-terminal
+alignable sentences
+computational
+Knowledge
+functional
+Ostendorf
+Komarova
+right-moving
+Generalizing
+histogram
+hierarchical
+incorporation
+artificialgrammar
+instructive
+Daelemans
+stochastic annotation
+Categorization
+Introduction
+International Colloquium
+influence
+Binational
+structure discovery
+statistical significance
+Mathematics
+chromosome
+physical
+Francisco
+application
+functionality
+deviation
+long-range syntactic
+Hillsdale
+SWISSPROT
+supporting information
+structure
+Swindlehurst
+150-learner
+algorithm
+local-context significance
+root-patterns
+context-sensitive statistical
+distributional
+Artificial Intelligence

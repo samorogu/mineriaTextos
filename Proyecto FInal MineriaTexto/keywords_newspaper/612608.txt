@@ -1,0 +1,13 @@
+parameters
+sequence
+rna
+612608txt
+al
+master
+et
+bayesian
+samorogu
+structures
+energy
+structure
+secondary

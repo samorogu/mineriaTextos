@@ -1,0 +1,280 @@
+represent
+stringent
+interpretation
+iterative
+Sprinzak
+occurrences Stringent
+biological
+Abbreviations
+randomization algorithm
+multicomponent
+Yeger-Lotem
+Srinivasan
+100-fold
+mechanism
+Department
+Robertson
+Molecular
+cerevisiae interaction
+Morgenstern
+retention
+feedforward
+Foundation
+Jaakkola
+interesting
+chromatin structure
+genome-wide experiments
+ThreeProtein
+Four-protein
+Although
+selection
+Mixed-feedback
+structural
+Vogelstein
+correspondence
+Mannhaupt
+combination
+accessibility
+different experimental
+activation
+accelerator
+degradation
+framework
+dense-overlapping
+Rosenfeld
+transcription regulation
+Four-Protein
+Hirschman
+Schreiber
+composite regulation
+Donaldson
+transcription­regulation interaction
+prominent
+Composed
+processes
+coactivate
+presented
+numerous
+performing
+Friedlander
+preference
+Escherichia
+Transcriptional Feedback
+homeostatic
+coregulate
+Zeitlinger
+experimental interaction
+detecting composite
+specific information-processing
+Saccharomyces cerevisiae
+four-pointswitchability
+iterative switching
+Salwinski
+requirement
+Interacting
+Coregulated interacting
+insignificant
+robustness
+postgenomic
+transcription-regulatory
+autoregulation
+detection
+higher-order
+Explicitly
+phosphorylation
+switchable
+molecular circuitry
+Nevertheless
+Interacting transcription
+Margalit*§ *Department
+description
+Hoffmann
+abundant
+interacting
+identical threeprotein
+Transcriptional regulation
+BIOCHEMISTRY
+feedback
+integration
+Shen-Orr
+Zlatanova
+coregulation
+Ouellette
+Hog1-dependent
+Combinations
+Heat-shock
+transcription regulator
+approach
+protein­protein interactions
+discovery
+transcription-factor
+Perez-Rueda
+Applying
+transcription­regulation
+interactions
+importance
+Thieffry
+equivalent
+component
+possibility
+understanding
+biosynthesis
+following
+eukaryotic
+formation
+Detecting k-Protein
+instability
+Mixed-Feedback
+detecting
+configuration
+repressing
+topology
+limitation
+switchability
+cis-regulatory
+exemplified
+Rosenberg
+transition
+protein­protein interaction
+Munsterkotter
+transcriptional feedback
+connection
+undesirable
+Saccharomyces
+distinction
+expression
+bidirected
+experimental
+Bioinformatics
+analysis interactions
+Discussion
+two-hybrid
+QLRI-CT2001-00015
+isomorphic
+preservation
+randomized
+Coregulation
+occurrences
+hard-wired decision-making
+consideration
+transcriptional regulator
+negative-feedback
+Eisenberg
+Itzkovitz
+coregulated interacting
+persistence
+chromatin immunoprecipitation
+Grigoriev
+Collado-Vides
+direction
+nonstringent
+Illustration
+Regulatory
+fourprotein
+intermediate
+complicated
+Baltimore
+threeprotein
+Analyzed
+Mansfield
+conceivable
+assessment
+different transcription
+integrated cellular
+galactose catabolism
+generating
+three-protein
+Frishman
+composite
+sufficient
+Chklovskii
+four-protein
+Nonstringent
+repressor
+Selection
+feed-forward
+Lockshon
+Ouzounis
+interacting transcription
+Fernandez
+transcriptional feed-forward
+abundance
+exception
+undirected
+Particularly
+structures
+characteristic
+challenge
+Biomolecular Interaction
+single-node
+mammalian
+feed-forward configuration
+cellular interaction
+two-node
+coregulating
+distribution
+three-node
+specific structure
+Information
+Three-Protein
+transcriptional
+computing
+University
+two-protein mixed-feedback
+randomization
+Thompson
+Feldblyum
+Virtually
+statistical significance
+Crawford
+Galitski
+information
+different
+advantage
+Bar-Joseph
+circuitry responsible
+cellular circuitry
+homodimerization
+coactivating
+application
+methodology
+Skrzypek
+Feed-forward
+Altogether
+activator
+Experimentally
+corepress
+Interestingly
+noisiness
+principle
+February
+Switchability
+four-point-switchability condition
+Institute
+statistical-significance
+high-order
+connectivity
+Three-protein
+Levchenko
+significant
+organization
+multiplication
+Biotechnology
+functionality
+meaningful
+structure
+nonstringent interaction
+building
+Stringent
+Barabasi
+two-protein Detecting
+Intriguingly
+Two-Protein
+correspond
+analysis
+complexity
+high-throughput
+Examples
+representation
+Jerusalem
+abundant three-protein

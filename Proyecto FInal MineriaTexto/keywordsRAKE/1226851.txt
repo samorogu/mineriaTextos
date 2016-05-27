@@ -1,0 +1,1546 @@
+transcription factor structural class improve de novo motif discovery
+human breast cancer utilizing gene expression profiles
+reversible jump markov chain monte carlo computation
+hmm-based ab initio dna sequence segmentation
+transcription factor binding site predictions
+phage -infected escherichia coli cells
+rans pattern anal mach intell 1984
+transcription factor binding site prediction [19
+proc nat acad sci usa 1997
+mass spectrometric peptide mapping information
+carefully crafted mcmc algorithms executed
+¨ inferring large-scale gene association networks
+reverse engineering gene regulatory networks
+practical markov chain monte carlo
+bayesian wavelet-based functional mixed models
+markov chain monte carlo method
+anopheles gene expression time series
+nat rev mol cell biol 2006
+decomposable graphical gaussian model determination
+include simultaneous multiple sequence alignment [17
+inferring undirected gaussian graphical models
+discretely observed stochastic kinetic model
+proc nat acad sci 2002
+markov chain monte carlo
+proc natl acad sci 2001
+reliab eng sys safe 2006
+nonlinear multivariate diffusion models observed
+van de wiel ma
+extract gene expression time series [87]
+largely arbitrary proposal distribution
+closely related disciplines suggests
+avoiding dangerous climate change
+109^116 advance access publication april 12
+stochastic kinetic biochemical network models
+estimating absolute mrna concentrations
+identifying gene­gene interactions
+protein functional site matching
+underlying conditional independence structure
+bayes linear calibrated prediction
+sequential monte carlo methods
+practical complications arise due
+monte carlo sampling methods
+bayesian fast fourier transform
+single-cell flow
+
+protein informatics
+1038/ msb4100020 mcadams hh
+protein secondary structure prediction [21]
+bayesian factor regression models
+data offers great potential
+inferring genetic regulatory interactions
+mining mass spectrometry data
+hidden variable dynamic modeling
+unnormalised cdna microarray data
+spotted cdna microarray data
+computational systems biology
+darren
+multiple local sequence alignment
+probabilistic conditional independence structure
+reversible jump mcmc
+data analysis highly desirable
+fast bayesian shape matching
+predicting protein­protein interactions
+developing stochastic kinetic models
+exploring gene expression data
+gene expression array data
+systems biology resource centre
+causal protein-signaling networks derived
+differential gene expression data
+quantitative high-resolution single-cell data
+simple hidden markov models
+efficient non-sequential mcmc algorithm
+liquid chromatography based identification
+bayesian integrated functional analysis
+gene expression microarray data
+sequential monte carlo [93]
+modelling gene expression data
+graphical gaussian model selection [66]
+discrete probabilistic graphical models
+traditional statistical techniques struggle
+provide marginal posterior probabilities
+computational systems biology
+analysis
+motif discovery
+fully bayesian integrated approach
+systems biology modelling problems
+dynamic network models provide
+main limiting factor
+nat rev genet 2004
+solve high-dimensional integration problems
+inferring sparse undirected
+wilkinson
+
+abstract
+bayesian methods
+gene expression profiles
+improve parameter estimation
+phylogeny induces alignment uncertainty
+predictive biology
+
+introduction
+bioinformatics
+give fully probabilistic information
+nonlinear multivariate diffusions
+microarray data
+
+bayesian methods
+rapid climate change
+conditional independence graph
+conditional independence graphs
+cdna array data [32
+differential gene expression
+þ
+
+bioinformatics biological sequence analysis
+variable dimension algorithms
+probabilistic functional network
+references
+beaumont ma
+carefully designed experiment
+inferring network structure
+linear gaussian models
+protein secondary structure
+integrated systems biology
+mol syst biol
+remains largely unexplored
+dna sequence segmentation
+predicting protein-protein interactions
+hidden markov models
+dynamic regulatory networks
+inferring cellular networks
+inferring directed networks
+single cell resolution
+dynamic predictive models
+complex statistical inference problems
+mass spectrometry data
+stochastic kinetic models
+graphical gaussian models
+gene expression data
+systems biology time
+generating causal networks
+considered completely intractable
+doyle fj iii
+`chemical langevin equation
+immune defense response
+developmental pathway bifurcation
+absolute transcript concentrations
+properly address issues
+chemical langevin equation
+l1 retrotransposition events
+computational systems biology
+51
+computational systems biology
+developing probabilistic models
+biological sequence alignments
+bayesian process-based modeling
+discrete bayes net
+multiparameter single-cell data
+so-called full-conditional distributions
+mass spectrometry clustering
+bull math biol 1989
+iee syst biol 2005
+iee syst biol 2006
+cell cycle distributions
+gene microarray data [27]
+gene microarray data
+marcel dekker/crc press
+systems biology models
+stochastic kinetic analysis
+differentially expressed genes
+sparse graphical models
+inferring quantitative models
+develop integrated models
+alignment depend implicitly
+informative structure priors
+accurate expression kinetics
+gene transcription
+systems biology modelling
+logistic regression modelling
+dna microarray data
+affymetrix genechip data
+data sets collected
+population averaged data
+exploring posterior distributions
+bayesian model determination
+computational bayesian algorithms
+computationally intensive algorithms
+pre-calculated multiple alignment
+stochastic biochemical reactions
+equilibrium distribution ðjyþ
+fast computing machines
+heterogeneous dna sequences
+probabilistic graphical models
+discrete stochastic models
+monte carlo
+utilising gaussian processes [99]
+probability carefully chosen
+high-dimensional graphical models
+combinatorial summation problems
+simpler stepwise approaches [35
+learning causal networks
+simple statistical analyses
+individual network edges
+term `bayes net
+sampler involves cycling
+parallel bayesian computation
+global optimization methods
+unobserved intermediary variables
+ordinary differential equations
+parallel computer clusters
+efficient computational algorithm
+multiple experimental challenges
+gene regulation network
+dynamic bayesian networks
+biological sequence analysis
+discrete graphical model
+secondary statistical analysis
+fully comprehensive review
+cambridge university press
+probabilistic statistical models
+discrete bayesian networks
+modelling within-motif dependence
+detecting homogeneous segments
+commodity computing hardware
+danuser [97] includes references
+discrete case translate
+statistical mechanical approaches
+fully bayesian solutions
+cell cycle synchrony
+basic inferential algorithm
+dynamic networks based
+population level data
+expensive experimental data
+quantitative network models
+fully bayesian approaches
+two-channel microarray experiments
+coherent mathematical solution
+empirical bayes approach
+pooling microarray studies
+expression data provide
+bayesian sequential inference
+fully bayesian methods
+complex non-linear models
+observed data vector
+statistical model relating
+including measurement error
+press mardia kv
+markov chain
+computer simulation model
+applying bayesian methods
+1093/bib/bbm007
+
+bayesian methods
+analyse expression data
+oxford university press
+chapman & hall/crc press
+microarray data analysis
+informative priors based
+computer code outputs
+bayesian model selection
+flexible class
+whilst analytically intractable
+high-throughput fluorescence microscopy
+static network inference
+ðyjþ giving rise
+proteomic peak identification
+fully bayesian approach
+biochemical networks based
+gibbs sampling strategies
+unobserved model variables
+bayesian network inference
+bayesian approach enables
+bayesian revolution similar
+site matching
+challenging inferential problems
+raw intensity estimation
+informative prior distributions
+jam stat assoc 2002
+nucleic acids res
+discretise continuous data
+random variation intrinsic
+bayesian data analysis
+maximum likelihood alignment
+expression profiles
+correctly propagate uncertainty
+making bayesian approaches
+point estimation methods
+bayesian networks approach
+computational bayesian statistics
+proper prior modelling
+bayesian robust inference
+metropolis­hastings method
+bayesian statistical paradigm
+conventional statistical techniques
+bayesian methods offer
+integrating multiple sources
+vector autoregressive process
+multivariate anal 2004
+detailed modelling combined
+offer significant advantages
+complex noisy data
+general bayesian methods
+oxford science publications
+mol biol 1986
+gene expression
+de freitas
+regulatory networks
+clustering proteomics data
+protein informatics
+sequence alignment
+stochastic computation
+gene networks
+systems biology
+statistical sci 1992
+individual cells
+cell cycle 2007
+fully probabilistic
+bayesian bioinformatics relevant
+nelson de
+simultaneous estimation
+dynamic models
+ranked prediction
+phys rev
+markov chains
+expression data
+sequence analysis
+graphical models
+graphical models [6]
+probabilistic segmentation
+hidden data
+data regression
+efficient method
+transcript concentrations
+dna sequences
+network models
+stochastic models
+probabilistic models
+structure level
+statist sci 2005
+stochastic modelling
+microarray data
+integration problems
+biochemical networks
+gene xpression
+improving mass
+mcmc method
+term bayes
+stochastic kinetics
+mcadams hh
+1633­48 mcadams hh
+cell compartments
+model structure
+practical implementation
+hidden variables
+computer models
+geometric algorithms
+biological networks
+static networks
+bayesian segmentation
+mcmc solution
+parallel computing
+complex systems
+protein identification
+protein identification [55
+bayesian networks
+high-throughput data
+gibbs distributions
+same-- biology
+bayesian models
+bayesian alignment
+fast `bayesian-inspired
+traditional approach
+selection procedure
+computing hardware
+nucleic acids
+network inference
+similar strategies
+related approach
+fast computers
+fluorescence microscopy
+mardia kv
+partially observed
+observed correlations
+diffusion approximation
+stochastic model
+probabilistic model
+computational demands
+modelling approaches
+bayesian modelling
+quantitative modelling
+quantitative data
+single-cell dynamics
+chapman & hall/crc
+experimental data
+multiple sources
+multiple samples
+multiple experiments
+multiple types
+conventional approaches [28
+bayesian method
+bayesian revolution
+develop quantitative
+stochastic mechanisms
+microarray experiments
+stochastic relaxation
+microarray studies
+bayes theorem
+statistical analysis
+coherent estimation
+intensity estimation
+comput biol 2005
+comput biol 2000
+jcomput biol 2006
+genome biol 2006
+theor biol 2006
+bayesian approaches
+detailed modelling
+practical details
+marginal density
+high-dimensional inputs
+high-dimensional settings
+press lee
+press jansen
+bayesian learning
+infer networks
+relevance networks
+complex data
+bayesian methods
+press
+
+1 16
+
+wilkinson
+97
+important advance
+biochemical pathways
+great deal
+inferential purposes
+yeast genes
+nonparametric models
+biopolymer models
+hierarchical models
+mechanistic models
+fitting models
+protein bioinformatics
+challenging problems
+extract information
+statistical model--parameters
+statistical perspective
+statistical physics [3]
+bayesian analysis
+gibbs sampler [7
+gibbs sampler
+computer implementation
+linking data
+cytometry data
+observational data
+normalised data
+genomic data
+data transformations
+bayesian inference
+bayesian inference [4
+intrinsic stochasticity
+processing `raw
+biological processes [82­85]
+main drawback
+base dependence
+discrete formulation
+robust inferences
+conventional approach
+starting point
+proper propagation
+maximum likelihood
+hastings wk
+satisfactory solutions
+biological processes
+rends genet 1999
+expression levels
+challenging due
+parameter estimation
+analytic approaches
+non-trivial problems
+interesting problems
+nonbayesian approaches
+bayesian approach [34]
+fundamentally bayesian
+bayesian approach [40]
+bayesian approach
+bayesian network--
+bayesian refinement
+bayesian scoring
+bayesian normalization
+bayesian calibration
+bayesian coclustering
+bayesian restoration
+bayesian coestimation
+newcastle university
+microarray images
+making inferences
+experimental technology
+computationally problematic
+probe level
+good introduction
+joint learning
+making sense
+genetic regulation
+numerical solution
+bayesian
+
+1 14
+
+wilkinson
+parameter vector
+quantitative information
+non-bayesian methods
+phylogeny estimation
+genome-wide estimation
+em algorithm
+genome res 2006
+genome res 2003
+stat assoc 1999
+stat assoc 1995
+proteome res 2005
+stat assoc 2006
+bayesian techniques
+typical analysis
+detailed review
+detailed balance
+model-based clustering
+curve clustering
+p-dimensional vector
+shortcomings due
+advantageous due
+model inputs
+effective model
+
+1 15
+
+70
+model identification
+deterministic models
+statistical bioinformatics
+simple application
+bayesian statistics 7
+bayesian statistics 8
+parameter fitting
+parameter estimates
+approach based
+statistical methodology
+experimental error
+statistical science
+simple context
+ann statist 1994
+597­620 mertens bja
+i248­56 ronen
+chen ss
+statist comput 2006
+stat soc 2000
+kontoghiorghes ej
+bioinf ormatics
+eddy sr
+geyer cj
+forster jj
+national acadamy
+kuske cr
+parsimony assumptions
+wells mt
+fundamental distinction
+increasing evidence
+dunker ak
+thompson ea
+berger jo
+chem phys 1953
+recent perspective
+distinct steps
+personalised medicine
+247 hein a-mk
+synchrony experiments
+key aim
+235­54 schmidler sc
+neural netw 2005
+normalising constant
+senior lecturer
+chen m-
+11462­67 ibrahim jg
+pacific symposium
+gray rj
+chait bt
+10­18 green pj
+chain
+prior times
+causton hc
+clinical status
+reliable conclusions
+sethna jp
+iterative approach
+mu ¨ller
+initial task
+key benefits
+balding dj
+worth emphasising
+kirkwood tbl
+glad ik
+carlin jb
+168­78 boys rj
+gillespie dt
+2467­74 gadkar kg
+world scientific
+automated tracking
+rosenbluth aw
+2nd edn
+721­32 heard na
+date sv
+intracellular processes [81]
+werhli av
+ann chem 2000
+hartemink aj
+henderson da
+soc interface 2006
+normalisation processes
+yeast populations
+rempala ga
+non-statistical communities
+ðjyþ / ðþ
+marcotte em
+pmsb06 supplement
+comparative evaluation
+recent decades
+75­96 conlon em
+raftery ae
+brown pj
+influential paper
+r25 liebermeister
+banga jr
+widespread availability
+song jj
+whole-genome annotation
+smart cd
+deutsch ew
+loose sense
+ginsburg gs
+realistically attainable [86]
+kennedy mc
+wang pp
+markovian structures
+ne1 7ru
+recent years
+produces `corrected
+challenor pg
+churchill ga
+george ei
+10555­60 moles cg
+recent review
+major concern
+478­488 bahcall og
+bernardo j-
+nanomolecular scale
+rubin db
+rosenbluth mn
+link directly
+smith va
+wang i-
+apparent confusion
+assumed phylogeny
+interacting partners
+shraiman bi
+directly relevant
+years ago
+schmidler sc
+holmes cc
+improving rapidly
+powerful technique
+jchem phys 2000
+peptide/protein composition
+green pj
+moody mm
+stochasticity plays
+pritchard cc
+boys rj
+stern hs
+bayarri mj
+consistent manner--
+parameterise bottom-
+nyirongo vb
+yi ec
+assigning numbers
+image-analysis step
+brooks sp
+realistic size
+ramos ks
+identification procedure
+155 brown ks
+stat soc
+nevins jr
+hankin rks
+p53 targets
+noisy business
+brutlag dl
+lauritzen sl
+computationally amenable
+schellnhuber hj
+increasing tendency
+boca raton
+manipulation experiments
+considerable utility
+977­87 wakefield jc
+pannucci ja
+initial attempts
+morris js
+state calculations
+inter alia
+bacco methods
+techniques based
+wilkinson@ncl
+prior information
+pool information
+recover information
+65­9 wilkinson dj
+wilkinson dj
+richer information
+noise modelling
+bayesian work
+parameter uncertainty [79]
+parameter uncertainty [77
+parameter uncertainty
+model parameters [23]
+great interest
+statistical genetics
+offer advantages
+density
+ðjyþ ¼ ðþ
+proteomic applications
+liu js
+mathematics & statistics
+detailed comparison
+physical parameters
+normalisation process
+nelson ps
+important role
+expert system
+recent developments
+lawrence ce
+hybridisation process
+series
+bayesian context
+logvinenko [26] provide
+bmc bioinformatics 2005
+bmc bioinformatics 2006
+bmc bioinformatics 2007
+bioinformatics arena
+bacco techniques
+sample directly
+neuwald af
+probability density ðþ
+ideas originate
+ongoing research
+emerging field
+growing literature
+phenomenal range
+difficult scenarios
+yeung ky
+author 2007 published
+uk darrenwilkinson
+speed tp
+earlier work
+characterizing loss
+permissions@oxfordjournals
+limited due
+convenient inclusion
+valiant attempt
+altman rm
+good examples
+stephens da
+non-bayesian literature
+bishop mj
+information provided
+gaussian
+nice application
+system dynamics
+increasingly interested
+treated consistently
+small compared
+highdimensional context
+computation
+obvious applications
+full problem
+observed
+time
+uncertain parameters
+estimate parameters
+accepted framework
+typically amenable
+computational
+application areas [100
+network
+mcmc
+segmentation
+press
+networks
+extract
+predicting
+sampling
+biochemical
+models
+alignment
+typically required
+modelling
+data
+give
+informative
+solve
+cambridge
+biological
+method
+derived [2]
+centre
+problems
+approaches
+bayesian
+quantitative
+genetic
+introduction
+propagate
+methods
+algorithm
+`posterior
+offer
+variables
+posterior
+chapman
+analysis [30
+analysis [13]
+analysis
+vector
+clustering
+due
+inference
+model
+model [80]
+model [25]
+provide
+complex
+based
+oxford
+segments
+synchrony
+approach
+paradigm
+analyse
+studies
+outputs
+experiments
+regulation
+review
+noisy
+combined
+case
+stat 1992
+metropolis
+general
+equations
+prior
+phylogeny
+processes [57]
+ðjyþ
+integrating
+`prior
+likelihood
+relevant [37­39]
+identification
+sources
+danuser
+1 12
+
+wilkinson
+information
+1 10
+
+wilkinson
+wilkinson
+techniques
+uncertainty
+error
+probability
+liu
+density
+statistics
+amenable
+bacco
+developments
+continuous
+dynamics [73]
+important
+nelson
+lawrence
+parameters
+process
+system
+variation
+bioinformatics 1999
+bioinformatics
+bioinformatics 2003
+bioinformatics 2001
+bioinformatics 2006
+bioinformatics 2004
+bioinformatics 2005
+1 13
+
+framework
+work
+methodology
+attempt
+stephens
+newcastle
+ideas
+images
+neuwald
+sample
+range
+permissions
+advantages
+accepted
+provided
+comparison
+convenient
+formulation
+bishop
+field
+logvinenko
+author
+research
+speed
+literature
+examples
+uk
+ðyjþ
+deterministic
+10­8 yeung
+whilst
+altman
+areas
+difficult
+details
+loss
+science
+science 2003
+science 2004
+science 2005
+proteomics
+¨ proteomics
+application
+limited
+estimate
+small
+treated
+uncertain
+levels
+required [9
+required
+interested
+noise
+typically
+context
+applications
+genetics
+genetics 1998
+genetics [1]
+problem
+interest
+poorly
+relationships
+school
+estimated
+reconstruction
+obtained
+study
+559­66 nachman
+rosenberg
+genomics
+panacea
+type
+springer
+2007
+
+doi
+undergoing
+complexity
+order
+london
+widely
+sciences 2005
+ji þ
+golek
+surprise
+97­107 orlando
+muller
+ohler
+timmer
+rjmcmc
+observations
+inconvenient
+iteration
+design
+extracting
+re-write
+simplify
+doi
+principle
+valuable [47­49]
+biocomputing 2005
+keywords
+nachman
+adequate
+fields
+sensitivity
+fail
+subject
+chap 14
+simplest
+preserve
+terms
+extend
+nature
+bumgarner
+huang
+schafer
+applicability
+sachs
+extraction
+recognised
+fry
+arkin
+quantities
+cannings
+applied
+brewer
+top-
+make
+potentially
+hans
+klipp
+simulated
+proposed
+regarded
+cramer
+advances
+possibly
+background
+coombes
+strimmer
+tutorial
+allocate
+slightly
+presence
+marshall
+approximate
+converse
+true
+drummond
+covers
+cisban
+perez
+constructed
+733­42 gottardo
+generally
+setting
+papers
+kitano
+felt
+jones
+fact
+push
+focus
+20[supp
+finally
+zhang
+common-place
+presented
+turns
+ellenberg
+biometrika 1970
+understanding
+studied
+durbin
+working
+regev
+mitchison
+maximise
+cases
+marginalisation
+heart
+discussion
+write
+miklo
+journals
+sg
+pointed
+ieee
+cassella
+hall
+proteins
+ed
+gordan
+er
+shown
+org
+inevitable
+turn
+gordon
+specificity
+carry
+impossible
+blanchette
+ian
+holden
+nutrition
+cope
+parallelled
+decompose
+spectra
+349­73 lewin
+wolpert
+note
+emphasis
+begin
+friedman
+doucet
+wernisch
+explicitly
+conjunction
+gunawan
+ignores
+gamerman
+nature 2002
+article
+459­70 west
+volume [29]
+exploit
+opgen-rhein
+odes
+observe
+arnold
+irrespective
+unsatisfactory
+microarrays
+components
+valuable
+brettin
+aspects
+early
+test
+linial
+lunter
+benefit
+refer
+dresden
+power
+broken
+central
+discussed
+stand
+besag
+area
+sophisticated
+sbrc
+ac
+describe
+al
+gelman
+suited
+building
+adai
+embracing
+nakicenovic
+downwardbiasing
+hmms
+cloccs
+denotes
+607­18 west
+norm
+straightforward
+ageing
+golightly
+tel
+component
+experience
+texts
+extent
+learn
+stated
+suggestions
+mendes
+arjas
+wiley
+fl
+riefings
++44-191-2227320
+developed
+rannala
+hunter
+biometrika 2006
+yu
+goldstein
+2b
+fullconditionals
+house
+carvalho
+missed
+reason
+number
+stage
+11 1
+
+classification [53
+relationship
+`large
+kind
+giudici
+contrary
+statistician 1998
+814­9 arkin
+tierney
+lie
+baggerly
+lin
+k-
+extremely
+clear
+kalbfleisch
+`learn
+murua
+rougier
+jaqaman
+conditions
+recently
+alon
+perspectives
+strategy
+pe
+88­99 gottardo
+ross
+e143 33
+development
+frigessi
+bioformatics 2007
+85­99 west
+extracted
+anova
+advancedtheory
+vol
+16939­44 gottardo
+proven
+bgx
+proportional
+lucarelli
+handbook
+hagan
+mcclure
+quantification
+chap
+grzegorczyk
+explaining
+elements
+generated
+2006 pepperkok
+eds
+`black-box
+pournara
+narlikar
+larger
+biometrics 2006
+biometrics 2004
+biometrics 2005
+wit
+690­6 shen
+unknowns
+021904 barenco
+collection
+dobra
+husmeier
+mentioned
+marsh
+practice
+profound
+variety
+time-
+york
+interaction
+florida
+kendall
+improvements
+non-parametric
+greenbaum
+biometrika 1995
+biometrika 1999
+function
+1555­58 bernard
+bhattacharjee
+proceedings
+ismb06 21
+knowledge
+bernard
+means
+geman
+chap 15
+tomescu
+processed
+fixed
+arguably
+email
+parameterising
+jersey
+krogh
+treat
+saksena
+dbns
+member
+effect
+tyne
+proposed [69]
+biostatistics 2003
+biostatistics 2005
+biostatistics 2006
+clyde
+vol 8
+arrows
+lead
+demonstrates
+e-mail
+e384­92
+carried
+787­794 reinker
+semi-
+fraley
+vanucci
+zhou
+bensmail
+richardson
+29]
+909­16 ^ 20
+[91
+[98]
+10]
+102
+101
+79­94 16
+449­53
+
+13
+98
+91
+90
+93
+94
+97
+68]
+1087­92 4
+799­805 60
+[85
+53­63 102
+1701­62 11
+2004 3
+473­511 12
+2003 28
+2003 27
+101­16 91
+[50]
+323­38 95
+54]
+721­41 8
+36]
+251­61 2
+1­15 19
+5]
+2210­24 54
+2943­53 32
+57
+51
+50
+420
+153
+152
+99
+15]
+101]
+52]
+ð
+[65]
+149
+38­52 17
+1290­300 99
+[22]
+1]
+2
+10
+13
+12
+15
+17
+16
+19
+18
+20]
+843­9 55
+[64]
+[74­76]
+1996 7
+813­19 98
+78]
+3
+22
+523­29 64
+60
+61
+63
+68
+2934­42 61
+711­32 25
+3594­603 69
+[11
+[14
+4
+ß
+62
+[102]
+1997 5
+2271­82 68
+2003
+2001
+5
+190
+838­51 96
+à
+242
+[41­46]
+6
+85]
+97­109 10
+269­85 24
+¼ 1
+[61]
+20
+21
+[29]
+[90]
+[58]
+781­88 93
+7
+391­406 31
+18]
+196­212 65
+77
+76
+75
+74
+72
+71
+78
+[59]
+8
+[13]
+206­210 58
+481­512
+
+90
+233­48 ´
+89]
+1156­70 18
+2006 30
+1132­43 101
+[63]
+1998 14
+308
+[92]
+302
+303
+306
+73
+[51
+79
+83 23
+573­88 26
+[70­72]
+2006
+2007
+2005
+2523­31 63
+2482­89 56
+167­74 9
+39
+38
+37
+36
+35
+34
+[62]
+33]
+297­306 92
+388­400 66
+1
+601­20 59
+88
+89
+82
+83
+80
+81
+86
+87
+84
+85
+2006 52
+2006 53
+8]
+2003 1
+2001 94
+425­64 100
+[94]
+[16]
+12]
+2004 29
+159­65 15
+69­100 6
+[60]
+[95]
+[24]
+31]
+[67
+[88]
+49
+þ
+754­64 62
+113
+2174­84 57
+785­801 67
+56]
+48
+46
+47
+44
+45
+42
+43
+40
+41
+[96]

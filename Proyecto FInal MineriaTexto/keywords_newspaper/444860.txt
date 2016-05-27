@@ -1,0 +1,13 @@
+sequence
+genes
+regions
+rat
+444860txt
+master
+genome
+human
+sequences
+samorogu
+gene
+mouse
+chromosome

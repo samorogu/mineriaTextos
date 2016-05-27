@@ -1,0 +1,3069 @@
+number
+
+structural variation mobile elements gene rearrangements/structural variants copy-number variants
+
+genetic element appears
+org/cgi/content/full/17/6/669#otherarticles
+
+open access email alerting service
+
+freely
+sur la loi de disjonction des hybrides
+org/subscriptions/
+
+© 2007 cold spring harbor laboratory press
+
+downloaded
+cold spring harbor laboratory press
+
+gerstein
+cold spring harbor laboratory press
+
+perspective
+homotypic trans-splicing
+
+rna editing post-translational events protein splicing
+transcriptional tiling array experiments ultithe biological literature
+viral polyproteins protein trans-splicing protein modification pseudogenes
+cold spring harbor laboratory press
+conserved rna secondary structures predicts thousands
+ünstliche kreuzung bei pisum sativum
+marie curie outgoing international fellowship
+mouse -globin-related pseudogene lacking intervening sequences
+immunoglobulin heavy chain variable region gene
+gene sweepstake web page originally defined
+high-density oligonucleotide tiling microarray ing
+multiple transcripts
+
+post-transcriptional events alternative splicing
+american geneticist thomas hunt morgan
+genome research open access option
+efficiently segmenting tiling array data
+darl correns read gregor mendel
+ink4a tumor suppressor gene encodes
+interpreting transcription mapping tiling array data
+nested drosophila genes encode unrelated proteins
+sec= health&res=9a02e0d81230f930a35755c0a9659c8b63 wain
+sequence ontology consortium reportedly called
+ink4a tumor suppressor gene encode
+expressed retrosequence lacking protein-coding ability
+supervised hidden markov model framework
+systematically incorporating validated biological knowledge
+receive free email alerts
+verhandlungen des naturforschenden vereines
+define genes
+
+definition 1990s­2000s
+elemente der exakten erblichkeitslehre
+neural nitric oxide synthase
+protein sequence dna sequences determining expression
+alternate reading frames rna trans-splicing
+resulting gene segmentation model outperforms
+show hairpin-shaped precursor structures
+analyze derived amino acid sequences
+received extensive media coverage
+unannotated alternatively spliced transcripts involving
+intergenic transcription select regions randomly
+landmark human genome sequencing surprised
+national human genome research institute
+2molecular biophysics & biochemistry department
+segmenting array cgh data
+5european molecular biology laboratory
+long noncoding stretches called introns
+alternative transcription start site upstream
+typical genomic reto date
+high-density tiling microarray strategies
+fine-scale structural variation
+early pilot functional genomics experiments
+nih grant t15 lm07056
+analyzing tiling array data
+heterogeneous hidden markov model
+org/cgi/content/full/17/6/669#references article cited
+interpreting tiling array data
+conserved rna secondary structures
+inducing cell cycle arrest
+phenomenon dubbed tandem chimerism
+académie des sciences
+disregards intermediate products originating
+analyzing chip­chip experiments
+achieve maximum signal entropy
+single functional element identified
+independently transcribed reading frames
+recent chip­chip ex-
+rapeseed mitochondrial gene encoding
+annotated distinct gene loci coalesce
+adenovirus 2 late messenger rnas
+distal 5 transcription start sites
+encode
+definition 1860s­1900s
+identify isolated transcribed recriteria
+accurately anagenomic sequences coding
+concise xist gene involved
+training statistical gene models based
+chromatin structure
+
+gene expression depends
+implies appropriately regulated synthesis
+human hepg2 cells include
+transcription involving alternative splicing
+unannotated transcription start sites
+human xist gene mentioned
+chromosome structure epigenetic modifications
+transcripts coming identified computationally
+annotated transcription start site
+large-scale copy number polymorphism
+newly discovered transcripts originating
+simple operon model turned
+regulatory genic versus intergenic
+399 well-characterized protein-coding loci contained
+unstructured computer program code
+transcripts structural constraints
+regulatory elements tional ncrnas
+potentially noisy experimental data
+common initial descriptions include
+compact genetic locus problematic
+potentially overlapping functional products
+experimental validafunctional product molecules
+rep-
+
+672
+
+genome research
+www
+detected transcription depends heavily
+supposedly dead elements
+
+finally
+molecular biology revolution changed
+protein sequence rna-to-dna flow
+overlapping reading frames enhancers
+functional products sharing eficial
+transcription factor binding sites
+proposed updated definition impractical
+open reading frames
+evolutionarily neutral events
+human genome nomenclature organization
+small constrained elements dispersed
+gene­pseudogene chimeric transcript
+entire nucleic acid sequence
+articles overlapping sequence sets
+tumor suppressor gene
+information
+
+protein product self-cleaves
+hidden markov model
+dispersed regulation unannotated transcription
+pre-mrna produce protein products
+dna se-
+
+final products
+variable biological features
+early geneticists involved mutations
+specific secondary structures
+experimentally annotated regulatory regions
+xist rna gene evolved
+rna alternatively spliced products
+tiling array hybridizations
+discrete single genetic locus
+geneticist william bateson
+tiling array data
+generate multiple functional products
+encode consortium recently completed
+long spliced transcripts observed
+open reading frame
+span multiple gene loci
+tiling array experiments
+longer protein-coding transcripts identified
+alternatively spliced gene products
+form overlapping transcript clusters
+oxford university press
+unrelated proscientific articles
+elegans research community
+transcription start site
+comptes rendus de
+maximum signal entropies
+transcribed pseudogenes
+
+biochemical activity
+adenovirus 2 messenger rna
+mobile genes
+supposedly meaningless data
+tiling array experiment
+alternative reading frames
+gene phenomenon gene location
+transcriptional array data
+live nonvirulent pneumococcus
+berichte deutsche botanischen
+snail lymnaea stagnalis
+dosage compensation shows
+goto statements zipping
+erich von tschermak-seysenegg
+sanger institute produced
+vivo chemical modification
+discovering transcription-factor targets
+brünn 4 abhandlungen
+ribonucleoprotein complexes tified
+orf sequence pattern concept
+genetic linkage corresponded
+encode grant #u01hg03156
+coming tical models
+michael snyder genome res
+6339607
+
+supplementary data references
+high-throughput array data
+determining biological function
+highdensity tiling microarrays
+transcription factors appears
+large-scale computational endeavor
+chip­chip experiments
+cells/tissues genetic elements
+computationally identifiable regions
+org
+
+genome research
+www
+adenovirus e1a protein
+alternatively expressed loci
+adenovirus 2 late mrna
+genetic code start
+structure intronic genes genes
+large-scale signal data
+homotypic trans-splicing
+extensive transcriptional activity
+substance inducing transformation
+chosen purely based
+statistically significant signature
+van den berghe
+hugo de vries
+bigger genomic refunction
+including genetic organization
+characterize functional elements
+modern rna world
+potential alternate definition
+beguilingly simple orthography
+interpreting high-throughput experiments
+rna sequence start
+encode experiments show
+chromatin immunoprecipitation microarrays
+dead pneumococcus strains
+provide concise summarization
+heterogeneous sp1 mrnas
+coevolution analyses transcripts
+computational biology community
+albanova university center
+immunoglobulin gene locus
+computational techniques designed
+unrelated proteins capable
+huge operating system
+normal computer os
+mately identify tars/transfrags
+describe computer programs--
+overlapping larger transcript
+transcriptional tiling arrays
+model overlapping regions
+human genome surprised
+completely contained inside
+tiling enumerate genes
+somatic cells results
+amino acid sequence
+functional elements identified
+ucts necessarily share
+adjust statistical models
+train statistical models
+statistical models summarizing
+unannotated noncoding regions
+called intergenic space
+concise gene model
+& developmental biology department
+large-scale transcriptional activity
+pervasive transcription uncovered
+holt rinehart & winston
+17-kb large periments
+x-inactivation center region
+article cites 99 articles
+versuche über pflanzenhybriden
+thymidine kinase locus
+added practical importance--
+base pairing explained
+enumerations overemphasize traditional
+studied neurospora metabolism
+diffusible substance underlies
+large-scale variation
+constrained elements identified
+transcription mapping experiment--
+genetic locus responsible
+noncoding intergenic regions
+encode project reveal
+computer science naturally
+current thinking based
+current findings show
+encode project consortium
+encode project consortium 2007
+bacterial protein ccl1
+dispersed regulation spread
+true transcription map--
+generally select regions
+previous protein-centric view
+integrated pseudogene annotation
+transcription factor binding
+alternatively spliced transcripts
+transcription-mediated gene fusion
+three-dimensional chromatin structure
+modular subroutine structure
+mere sequence identity
+amazing sequence arrangement
+complete nucleotide sequence
+additional regulatory sites
+comprehensive transcript index
+eukaryotic cell-free system
+functional noncoding rnas
+genomic operating system
+somethe validation experiments
+experimental validation data
+human gli-kruppel-related protein
+3computer science department
+stunning discoveries made
+1980s onward made
+discrete protein domains
+predicting protein structure
+antisense rna transcribed
+vertebrate genomes showed
+eventually complete genomes
+reproduced earlier results
+unrelated protein-coding genes
+p53 binding sequences
+long noncoding rnas
+genomic sequences encoding
+encode project observed
+updated definition
+mark
+nucleic acids res
+unusual case brings
+whole-genome random sequencing
+simple random expectations
+functional pseudogene transcripts
+genetic element
+functional rna molecules
+annotated genomic entity
+transcribed non-proteincoding rnas
+dna binding site
+genome tiling arrays
+rich tapestry tion
+google scholar search
+post-translational modification
+exact expected outcome
+6stockholm bioinformatics center
+orange dashed lines
+performed 5 rapid amplification
+current textbook definition
+calling transcribed regions
+delineate transcribed regions
+reflect nonspecific activity
+sequence segments defines
+annotated alternative isoforms
+alternative splicing products
+rna editing
+encode transcription mapping
+regulatory sequences identified
+flanking control regions
+related biological knowledge
+simple callable routine
+multiple products belong
+noncoding rna product
+dispersed genome activity
+select genomic regions
+create chromosomal map
+trans 5 leader sequences
+encode protein complement
+multiple gene loci
+evolutionarily constrained bases
+modern encode view
+necessarily directly upstream
+transcriptionally active regions
+genotype determines phenotype
+distant regulatory elements
+676
+
+genome research
+www
+670
+
+genome research
+www
+genome research
+www
+678
+
+genome research
+www
+680
+
+genome research
+www
+674
+
+genome research
+www
+splicing events
+encode computational metaphor
+well-curated gencode annotation
+protein-coding genomic segments
+current computational metaphor
+supposedly junk dna
+molecular biology developed
+genes fundamentally deal
+silencing autosomal genes
+huge popular interest
+functional sequence regions
+tiling array
+true gene targets
+multiple transcripts sharing
+regulatory genes bind
+bacteriophage ms2 rna
+latest encode findings
+human gene nomenclature
+cluster entire transcripts
+definition 1970s­1980s
+definition backwardly compatible
+original genomic sequence
+protein-coding gene loci
+genetic regulatory mechanisms
+protein materials science
+refined analysis results
+confounded gene annotation
+spliced genes overlapping
+current encode findings
+trans-spliced transcripts belong
+antigenic variation
+669-681 access
+present-day orfs enumerated
+overlapping trained based
+est assembly problem
+genomic region produces
+university science books
+gene loci upstream
+updated definition emphasizes
+hereditary information aligned
+homologous coding gene
+alternative splicing
+taking
+mapping transcribed regions
+noncoding rna genes
+predict gene product
+alternative isoforms code
+discrete element
+predicted functional regions
+functional regions generated
+human transcribed sequences
+computational biology & bioinformatics
+generate multiple mrnas
+meaning genomic sequences
+100% ­ 40% coding ­ 20% regulatory regions
+complex molecular activity
+gene sweepstakes ends
+computational tools led
+protein coding sequence
+molecular cell biology
+alternative gene products
+maxentropy selection scheme
+updated gene definition
+opposite dna strands
+opposite dna strand
+haemophilus influenza genome
+shared overlapping transcripts
+share sequence blocks
+functional gene products
+locus control region
+constrained elements overlap
+dna element
+protein products encoded
+sequences shown inside
+primary transcripts share
+non-coding rna genes
+provided large-scale evidence
+location gene structure
+primary dna sequence
+comparative sequence analysis
+dna sequence segments
+array data
+reading frames
+transcribed processed pseudogenes
+share dna sequence
+distant dna sequences
+dna sequences determine
+separate mrna molecules
+increase protein complexity
+understand gene transcription
+common sequence segments
+chip­chip
+silencers description issue
+human genome generated
+encode selected regions
+regulating gene expression
+dna sequence segment
+tiling experiments
+secondary structure
+conventional gene annotation
+crystallized originally
+pilot project
+open boxes
+tandem chimerism
+biological complexity revealed
+genome appears
+amino acid
+dna bases code
+biological nomenclature
+van de
+influence gene expression
+including gene regulation
+validated experimentally
+related word genetics
+play important roles
+genetic control
+tiling arrays
+nucleic acid
+provide connectivity information
+combined information encoded
+statistical model
+transcription detected
+unannotated transcription
+multiple loci
+genetic experiments
+20 amino acids
+national library
+carl correns
+reading frame
+alternatively spliced
+functional elements
+early geneticists
+regulatory sites
+alternate definition
+encode consortium
+transcription data
+gene regulation
+jacob
+uncovered data
+related elements
+constrained elements
+genetic map
+de wachter
+expression depends
+protein-coding loci
+genome research
+chromatin structure
+overlapping products
+sequence pattern
+unrelated proteins
+eukaryotic cells
+intronic transcript
+gregor mendel
+operating system
+regulatory elements
+noncoding rna
+single rna
+intergenic space
+molecular biology
+genes potentially
+alternative splicing
+press
+random expectations
+high-throughput data
+biological sequences
+pseudogene transcription
+intergenic regions
+gene sweepstake
+functional molecules
+noncoding rnas
+chip­ pet
+sequence elements
+distal tsss
+statistical models
+multiple products
+regions encoding
+high-throughput experimental
+transcribed elements
+transcriptional activity
+pseudogene rna
+encode experiments
+chromatin accessibility
+7genetics department
+bacterial operon
+segmentation schemes
+intermediate transcripts
+google scholar
+well-characterized sources
+articles cite
+drosophila melanogaster
+entities involved
+michael snyder2
+accessed free
+alternative products
+functional ncrnas
+genetic code
+genetic systems
+genetic locus
+genetic inactivation
+genetic region
+splicing
+splicing
+expressed pseudogenes
+encode perspective
+encode project
+updated definition
+non-coding rna
+funcgene model
+regulatory rich
+intermediate form
+biological knowledge
+copy number
+alternative isoforms
+functional products
+genetic information
+protein-coding sequences
+protein-coding transcripts
+annotated orf
+annotated transcripts
+dispersed regulation
+intergenic teins
+experimental validation
+repetitively called
+johnannsen called
+deoxyribonucleic acid
+haemophilus influenza
+long transcripts
+raw data
+digital elements
+nongenic elements
+long-range elements
+genes/regulatory elements
+protein-coding sequence
+genomic sequences
+protein-coding regions
+biological sample
+biological sources
+discrete subroutine
+transcription factors
+computational metaphor
+computational approaches
+three-dimensional structure
+sequence identity
+rna transcripts
+rna sequences
+regulatory sequences
+flanking regions
+entire body
+genomic products
+genomic sequence
+functional product
+mutable loci
+protein sequences
+encode regions
+including alternative
+alternative tss
+rna products
+rna sequence
+functional dna
+regulatory regions
+rna transcript
+spliced transcripts
+end sites
+trans-spliced transcripts
+high-throughput biochemical
+statistical properties
+e-mail mark
+bacteriophage ms2
+opposite strand
+directly encoding
+protein products
+protein sequence
+entire genome
+common elements
+operon share
+nos pseudogene
+genomic product
+sequence blocks
+single gene
+trans-spliced transcript
+transcriptional maps
+statistical analysis
+initial sequencing
+encode results
+highthroughput experiments
+experiments pects
+gerstein@yale
+rna product
+genomic dna
+primary transcripts
+associating transcription
+transcription distribution
+transcription maps
+reverse transcription
+gene loci
+spliced segments
+dashed lines
+rapid pace
+yy1 factor
+selective silencing
+full-text search
+increasingly popular
+comprehensive catalog
+expected outcome
+distinct locus
+dna-sequence based
+individual molecules
+references
+akiva
+linear arrangement
+linearly related
+earlier concepts
+latest estimate [
+increase significantly
+problematic asscore
+lac operon
+genetically complement
+prodtaneously constrained
+freely
+problematic issues
+segmentation algorithms
+current definition
+human pseudogenes
+abstract elements
+molecular view
+genomic os
+genomic region
+genomic distribution
+transcribed regions
+splicing graphs
+generate products
+sequences coding
+coding sequences
+sequence sets
+dna defined
+multiple ways
+product sequences
+encode region
+encode
+
+acknowledgments
+encode reveals
+encode project--
+sequence segments
+alternative tsss
+precise mapping
+molecular level
+human genomes
+share sequences
+>100 kb upstream
+rna codewords
+rna folding
+rna products--
+poliovirus rna
+rna viruses
+pseudo-messenger rna
+rna code
+regulatory apparatus
+transcribed pseudogenes
+null models
+current practice
+definition implies
+sequencing techniques
+recent version
+recent progress
+celera defined
+pseudogenes
+pseudogenes
+validation regions
+coding sequence
+eukaryotic genomes
+dna sequences
+mouse genome
+genome produces
+protein content
+protein differing
+protein synthesis
+fused protein
+products share
+distinct proteins
+protein-coding gene
+identical transcripts
+component transcripts
+identifying sequences
+high-throughput experiment
+additional complications
+unconstrained sequences
+transcripts started
+dead body
+high-resolution map
+untranslated sequences
+mammalian sequences
+original functions
+sequences idenncrnas
+biochemical pathway
+biochemical reactions
+future biochemical
+transcripts ligated
+haemophilus influenzae
+significant fraction
+dna sequence
+biological function
+eukaryotic dna
+upstream regulation
+stockholm university
+structured rnas
+yale university
+functional genes
+human population
+multiple species
+neuronal expression
+experimental evidence
+discontinuous transcription
+definition sets
+infer structure
+fine structure
+alter structure
+precise structure
+haplotype structure
+final products
+products back
+validation results
+information flow
+sequence modules
+predicted sequence
+sequence determination
+sequence annotators
+current view
+unitary regions
+nontranscribed regions
+untranslated regions
+recombining regions
+3 untranslated regions
+5 untranslated regions
+inheritable factors
+transcript clusters
+sex-linked factors
+mendel showed
+specific meaning
+genotype
+
+effect
+peptides form
+comparative analysis
+small number
+genome res
+protein-coding genes
+gencode annotation
+transcribed code
+consensus annotation
+reference annotation
+annotated genes
+gene models
+mrna transcripts
+definition results
+splice isoforms
+processed pseudogenes
+disjointed sets
+sequence information
+proteins sequences
+original proteins
+define function
+large segments
+human genome
+genes based
+dna product
+abstract entity
+constant location [
+life sciences
+genome sequence
+annotate genomes
+findings add
+provocative findings
+molecular basis
+quences coding
+gene dead
+functional polypeptide
+polymerase activity
+final product
+ever-expanding knowledge
+sequence view
+called tars
+rna polymerase
+rna processing
+transcriptional noise
+transcriptional repression
+succinct definition
+systematic definition
+strict definition
+definition sidesteps
+definition 1910s
+definition collapses
+fundamental definition
+definition 1940s
+existing definition
+definition 1950s
+gene expression
+human chromosome 22
+gene products
+transcribed mrnas
+dna consisting
+dna rearrangement
+dna methylation
+dna region
+protein genes
+chromosome structure
+consortium found
+early studies
+discontinuous structure
+current definitions
+protein-coding exons
+higher eukaryote
+developmental stage
+meant sharing
+concrete standard
+central dogma
+tentative update
+cartoon schematic
+linguistic approaches
+accessed 2007-03-16
+s181­s188
+dinucleotide composition
+similar logic
+flower color
+complementation test
+significantly enriched
+coherent favor
+major milestone
+length distribution
+constant sequences [
+carnegie inst
+hollow rectangles
+appears
+definite borderlines
+black rectangles
+retrogenes retrogenes
+greek genesis
+nils roll-hansen
+appreciable amounts
+gebeta-globin locus
+follow canonical
+gene-finding programs
+funding sources
+strongest evolutionary
+bacteriophage t2
+codon assignments
+3 ends clouding
+enumerating unambiguously
+century ago
+code residing
+large expanses
+mutational assays
+variance stabilization
+external stimuli
+classical version
+patches bined
+large scale
+postgenomic era
+obvious benefit
+complete set
+creb binds
+germinal substance
+hereditary units
+three-segment cluster
+problemselection exists
+obvious implication
+past century--
+subject areas
+extra layer
+recent studies
+transcriptionally alive
+basic principle
+evolved greatly
+daughter copies
+unchanged parameters
+backward compatible
+interchromosomal associations
+phenotype relates
+simple definitions
+tive calls
+project represents
+examining evolutionary
+directed edges
+longer applies
+strands explained
+evolutionary constraint
+mutational approaches
+enclosed poster
+active promoters
+striking picture
+upper limit
+brookhaven symposia
+5 untranslated region
+crucial experiment
+functionally required
+issn 1088-9051/07
+non-genic conservation
+translated sequences
+great complexexons
+metabolic pathways
+precise syntax
+i274­i282
+r17­r29
+havana team
+gordon & breach
+blurring boundary
+cdna ends
+breeding plants
+accompanying poster
+past century
+small/medium proportion
+occasional errors
+imprinting
+
+phenotype
+phenomena complicating
+/national institutes
+se-10691 stockholm
+mill valley
+medical informatics
+devising updates
+gray circles
+artificial transmutation
+locatable region
+predominant 5 -undecanucleotide
+reverse strands
+kulbokas 3rd
+expand significantly
+gion portraying
+ambiguous boundary
+hackermüller
+scientific organizations
+genomic components
+molecular terms
+proposed definition
+discrete entities
+encode highlighted
+unbiased mapping
+inherited information
+enhancer sequences
+problematic aspects
+early years
+regulatory interactions
+translated regions
+current usage
+gene product
+multispecies analysis
+subsequent sequencing
+large number
+analysis procedure
+keyword analysis
+increasing number
+recent years
+simple cases
+protein function
+genome prompts
+sv40 genome
+protein
+beadle
+widespread regulation
+mrna degradation
+encoded directly
+paralogous proteins
+junk dna
+biochemical function
+classical view
+practical view
+shares sequences
+connected transcripts
+intertwined transcripts
+dead rise
+similar fraction
+large fraction
+specific case
+long time
+appreciable fraction
+fundamentally change
+functional nature
+dna segment
+general theory
+changed dramatically
+common subsequence
+additional exons
+gene 2 consists
+parent gene
+gene exists
+proteincoding gene
+gene effectively
+neighboring gene
+gene radically
+vp2-vp3 gene
+beta-globin gene
+vp1 gene
+gene turns
+regulate gene 1
+gene activation
+replicase gene
+gene 1 consists
+gene locus
+nominal gene
+human transcriptome
+org
+
+679
+
+downloaded
+org
+
+669
+
+downloaded
+org
+
+677
+
+downloaded
+org
+
+671
+
+downloaded
+org
+
+675
+
+downloaded
+org
+
+673
+
+downloaded
+org
+
+downloaded
+race products
+sequence databanks
+sequence set
+cell lines
+specific cases
+negative selection
+simple idea
+dna replication
+dna molecule
+complex patterns
+complex lattice
+sequences shared
+transcript complexity
+complete translation
+encode differ
+chemical nature
+simple unit
+genome level
+consecutive genes
+rearranged genes
+host genes
+proteincoding genes
+repeti-
+
+genes
+rnacoding genes
+parental genes
+genes & dev
+locating genes
+genes code
+defining genes
+genes consisting
+gene regulation
+environmental science
+pneumococcal types
+term invented
+increasing considerably
+independent ways [
+close due
+special conditions
+partly due
+large amount
+parallel development
+affect practically
+vast amount
+solid boxes
+veterinary science
+term regulome
+simultaneously affect
+implicitly considered
+highbe considered
+separated scription
+major development
+term derives
+widely separated
+10 human chromosomes
+human chromosomes 21
+sequenced genomes
+functionally important
+large part
+crucial part
+developmental-stage-independent enhancer
+distant enhancer
+information processing
+operational definitions
+cytogenetic studies
+protein figure 4
+sequence characteristics
+common gene
+cell line
+regions happen
+simplest case
+sample case
+definition lyze
+definition gions
+trans-splicing
+provided evidence
+discrete unit
+exon sequence
+word gene
+defining function
+assuming function
+phenotype/ function
+identifying function
+clearcut function [
+remain uncertain
+betaglobin lcr
+executed code
+including humans
+fully sequenced
+low signals
+plos comput
+obvious point
+enzymatically modified
+separate locations
+direct comparison
+5 olof emanuelsson
+loosely coded
+medium-sized set
+surprising cases
+sense swept
+domestic dog
+olof emanuelsson
+tal interpretation
+interpreting
+wong virus
+question worth
+dart classification
+infer functionality
+greater confidence
+5-nucleotide resolution
+close similarity
+comtentative attempt
+limited utility
+coherent set
+year book 47
+enzyme dnase
+reliable set
+quote falk
+wilhelm johannsen
+formal language
+simply ignore
+escherichia coli
+genetical study
+careful interpretation
+arranged linearly
+co-transcribed exons
+transspliced exons
+frameshifted exons
+senting exons
+parasitic gene
+atic aspects
+confusing aspects
+discontinuous genes
+coding exon
+definition 1960s
+sherman weissman
+specifically summarized
+concisely summarized
+2 sherman weissman
+central concept
+concept developed
+classical concept
+general case
+mrna stability
+separate chromosomes
+physical molecule
+term parasitic
+mendelian inheritance
+higher eukaryotes
+12 tissues tested
+lac operator
+simpler organisms
+jiang du
+survives recombination
+genome-wide survey
+high signals
+conditions mapped
+proving lack
+display characteristic
+individual subroutines
+2 jiang du
+5th ed
+washietl proximity
+principle overlap
+chase established
+maternal origin
+parallel threads
+terms relating
+gene function
+readily shown
+target gene
+gene relies
+selfish gene
+considered part
+ncrna genes
+important part
+triploid maize
+richard dawkins
+determined strictly
+york times
+hypothetical mechanism
+increased significantly
+special case
+1895/ wormbook
+trends genet
+plos genet
+figure 2b
+complex cases
+francis crick
+promoter region
+global identification
+evolution preserved
+increasingly applied
+gene concept
+counting genes
+race primer
+barbara mcclintock
+physical locations
+site
+genome biol
+2 deyou zheng
+deyou zheng
+mendelian heredity
+alternatively
+important role
+general terms
+ensembl view
+unknown function
+genes present
+describing genes
+idea considerably
+training
+encodes
+conserved
+genomics 79
+coalesce
+reading
+virulent bacteria
+drosophila
+health
+phenomenon
+wain
+resulting
+include
+unannotated
+depends
+overlapping
+general nature
+important aspect
+important implications
+model
+taking union
+called
+demonstrated function
+situation created
+hard question
+cellular process
+data
+multiple
+multiple 5
+signal
+expressed
+loci
+cell mol
+removing utrs
+validated
+observed
+discovery complicated
+identified
+define
+functional
+select
+pseudogene
+transcriptional
+students published
+experiments
+gerstein
+gerstein 2007
+annotated
+biology
+transcription
+cited
+mouse
+nih
+finally
+genic
+perspective
+8
+program
+distinct
+location
+span
+long
+system
+completed
+constrained
+based
+molecules
+achieve
+heavily
+noisy
+splicing
+activity
+encode
+mapping
+upstream
+early
+rna
+regulatory
+models
+simple
+defined
+protein
+transcripts
+flow
+ncrnas
+dead
+true
+orf
+spliced
+small
+derived
+framework
+belong
+microarrays
+implies
+sequences
+4 transcripts
+rnas
+human
+downloaded
+expression
+discrete [
+binding
+structure
+products
+sequence
+regions
+identify
+form
+genotype
+transcript
+transcribed
+annotation
+vries
+isoforms
+pseudogenes
+generate
+vries 1900
+primary
+sets
+segments
+arrays
+findings
+genomes
+validation
+coding
+results
+product
+knowledge
+share
+definition
+dna
+5 ends
+substance
+explained
+holt
+provide
+description
+neurospora
+1970s
+roles
+tion
+maxentropy
+phenotype
+synthesis
+encoded
+longer
+emphasizes
+sharing
+trans
+performed
+predicted
+ability
+enumerated
+article
+region
+provided
+assembly
+orfs
+generated
+practical
+os
+determine
+describe
+separate
+über
+strand
+large
+conventional
+evolved
+strategies
+cluster
+reflect
+developed
+oxford
+traditional
+experiment
+recently
+create
+regulating
+play
+locus
+meaning
+code
+hereditary
+led
+tools
+metaphor
+gencode
+compatible
+produced
+including
+final
+strands
+processed
+bacteriophage
+routine
+distant
+clusters
+expected
+problem
+understand
+www
+information
+number
+analysis
+sequencing
+genome
+mrna
+proposed
+regulation
+proteins 37
+proteins
+directly
+view
+fraction
+mrnas
+changed
+level
+8 bases
+common
+bases
+19 bases
+general
+junk
+gene
+gene 1
+gene 3
+gene 4
+chromosome
+discontinuous
+word
+segment
+mendel
+pre-mrna
+tsss
+selection
+taking
+mendel 1866
+complex
+genes
+replication
+jacob
+affect
+mechanisms
+separated
+polymerase
+types
+interest
+boxes
+science 189
+physical
+primer
+revealed
+term
+molecule
+considered
+parasitic
+science 46
+ways
+combined
+abstract
+amount
+connectivity
+science 291
+science 296
+5 end
+due
+development
+translated
+processing
+considerably
+constant
+influence
+special
+completely
+science 269
+science 312
+entities
+science 308
+science 306
+science 305
+morgan
+made
+important
+part
+ncrna
+studies
+snyder
+definitions
+enhancer
+cell 67
+cell 83
+cell 53
+cell 44
+cell 19
+cell
+cell 11
+cell 12
+cell 116
+case
+evidence
+function
+limited
+similarity
+rise
+study
+language
+algorithms
+executed
+interpretation
+represents
+created
+target
+lyze
+mutations
+basis
+life
+classification
+lcr
+intertwined
+akiva
+unbiased
+role
+enhancers
+shares
+cases
+polypeptide
+modified
+sense
+counting
+species
+years
+stability
+coli
+org
+johannsen 1909
+question
+org]
+locations
+discovered
+bioinformatics 17
+bioinformatics 18
+relies
+components
+comparison
+removing
+yy1
+arranged
+selfish
+students
+dog
+resolution
+falk
+transcriptome
+trained
+remain
+loosely
+unknown
+databanks
+bioinformatics 21
+bioinformatics 22
+comput
+bacteria
+attempt
+enzyme
+gions
+set
+repression
+point
+simply
+functionality
+org
+
+681
+cellular
+race
+confidence
+stage
+virulent
+interactions
+beadle
+low
+connected
+humans
+sequenced
+emanuelsson
+highlighted
+promoters
+book
+usage
+johannsen
+alive
+wong
+noise
+exons
+complexity
+introns
+aspects
+summarized
+selected
+genetics 14
+genetics
+weissman
+concept
+chromosomes
+shared
+chromosomes 21
+washietl
+recombination
+chase 1955
+organisms
+du
+1960s
+discovery
+terms
+chase
+acad
+describing
+time
+change
+subroutines
+ed
+mapped
+complicated
+origin
+implications
+tissues
+situation
+characteristics
+operator
+lack
+threads
+present [
+hard
+idea
+aspect
+characteristic
+process
+high
+inheritance
+eukaryotes
+present
+survey
+overlap
+demonstrated
+happen
+shown
+unit
+exon
+5 exon
+biol
+york
+dawkins
+wormbook
+differ
+determined
+tars
+mechanism
+dawkins 1976
+increased
+maize
+genet
+issue
+figure 3
+figure 1
+figure 2
+figure 4
+figure 5
+applied
+utrs
+ensembl
+crick 1953
+translation
+utrs
+5
+crick
+evolution
+identification
+promoter
+nature 171
+nature 260
+nature
+nature 286
+nature 441
+nature 435
+nature 438
+nature 420
+nature 409
+nature 238
+nature 436
+mcclintock 1929
+mcclintock
+mcclintock 1948
+zheng
+mol
+heredity
+union
+found
+published
+smithies
+extrapolated
+searls
+paris
+intron
+calame
+blanket
+connects
+bringing
+solution
+miller
+consistent
+guidelines
+chen
+chem
+avner
+post-encode
+complexities
+cheng
+contributes
+med
+avery
+reported
+yanagisawa
+marioni
+tatum
+interpret
+morrison
+proft
+xii
+kitchin 1975
+stern
+prokaryotes
+beads
+tolerated
+tress
+naive
+pangene
+abundance
+work
+grammars
+exceptions
+akin
+biosci
+collapsing
+alioto
+novik
+organized
+yang
+org/genesweep
+pedersen
+methodology
+significance
+answer
+carriero
+grown
+lan
+diagram
+wrong
+15 spec
+summarize
+elusive
+acknowledged
+matsudaira
+samanta
+suggest
+ponting
+london
+scoring
+evans
+fit
+highlights
+bernfield
+destroyed
+fig
+wesselink
+combination
+weng
+routines
+transcripoverall
+series
+joined
+tammana
+medicine
+millions
+rottman
+minjou
+strausber
+muller
+manzano
+hertel
+sayward
+jou
+co-product
+average 5
+4center
+wash
+clarity
+hood
+illustrate
+snornas
+top
+needed
+gilbert
+white
+distance
+normalizing
+matter
+heimans
+borst
+villa-komaroff
+fashion
+rosenbloom
+montelione
+pangenesis
+traditionally
+cytological
+bruce
+germany
+singer
+doi
+yano
+notion
+gelinas
+probe
+attempts
+keywords
+randomize
+newburger
+quoted
+explain
+folded
+curr
+watson
+altogether
+runs
+pearson
+covering
+venter
+torrents
+lots
+forrest
+paternal
+grienenberger
+guttman
+//www
+extend
+lodishi
+enters
+alexandersson
+extent
+suggested
+essentially
+nishimura
+cawley
+distinction
+height
+ribosomes
+placeholder
+rivera
+simulprotein
+replicate
+-
+hershey
+org/web/20050627080719/www
+altered
+exception
+hartman
+maner
+originate
+neat
+understandfigure 3
+tions
+tissue
+chi
+demonstration
+make
+grapple
+myers
+mattick
+yandell
+pick
+hand
+kim
+indefinitely
+iafrate
+paradigm
+samain
+unique
+mirnas
+wright
+massa
+suppl 3
+birth
+clustered
+reiche
+zool
+html
+lagarde
+steps
+people
+bork
+bottom
+establish
+/
+erythroid-specific
+contributing
+muller 1927
+_1_timeline_poster
+molemans
+gareau
+shaken
+opin
+lacked
+soc
+piccolboni
+bonnard
+scherer
+jena
+existed
+transform
+ouellette
+rogic
+sutton
+suyama
+gingeras
+berk
+understood
+trans-splice
+mikkelsen
+examples
+codons
+4 joel
+moore
+sementchenko
+org/cgi/content/full/17/6/669/dc1
+exist
+biochimie 53
+archive
+ng
+reconsider
+brimacombe
+bruford
+devon
+jones
+heritability
+assume
+povey
+activated
+makunin
+foundations
+operons
+string
+advantage
+zhang
+sloppy
+merregaert
+table 1
+solved
+balakirev
+htm
+sign
+gene-
+sturtevant
+explosion
+understanding
+dewar
+agarwala
+box
+gruber
+nagalakshmi
+griffiths
+higgledy-piggledy
+licate
+darnell
+wealth
+frameshift
+scenarios
+meyer
+today
+wahlestedt
+aminoacyl-srna
+euskirchen
+lodish
+diber
+viewed
+rheinberger 1995
+mackworth
+saito
+sharp
+stolc
+conversely
+rays
+discussion
+many-to-
+optimal
+3 jan
+membership
+sturtevant 1913
+branches
+explicit
+thorne
+pevzner
+progressively
+representation
+tschermak 1900
+pointed
+find
+ovals
+group
+jic
+acknowledge
+gen
+listing
+decades
+correspondence
+trna
+half
+karlsson
+discuss
+establishing
+challenged
+manifests
+bradley
+proportional
+living
+pcbi
+kent
+suggesting
+divergence
+possibility
+ponjavic
+remainder
+care
+castelo
+thing
+doolittle
+rt-pcr
+clumped
+rinn
+impossible
+size
+stimulation
+royce
+fiers
+williams
+hum
+continuous
+sorek
+eggen
+holder
+require
+continuous [
+ohtsuka
+stotz 2006
+chrast
+guhathakurta
+emphasis
+online
+bailey
+performance
+arguing
+correlation
+1371/journal
+order
+duplication
+lated
+segregation
+lexicon
+merit
+brubaker
+corner
+homology
+hist
+uk/corporate/
+misidentified
+viewpoint
+revolutionized
+trnas
+lohrmann
+nytimes
+trypanosomes
+median
+summary
+ity
+relative
+delineation
+review
+org/genesweep/
+kanazu
+label
+boundaries
+urban
+uk
+clayton
+jh
+ji
+suppressed
+makunin 2006
+experimenwith
+characterization
+ucla
+borders
+direction
+formed
+observe
+irrelevant
+hughey
+shemesh
+trandefinitions
+1101/gr
+prevalence
+swarbreck
+discrepancy
+69117 heidelberg
+urfs
+korbel
+stotz
+org/cgi/doi/10
+tucker
+preconceptions
+doolittle 1986
+martelli
+fodor
+validate
+//web
+relief
+kawai
+rest
+harrison
+baldwin
+quelle
+harrow
+optimon
+samples
+bioeth
+nat
+rules
+vandenberghe
+execution
+flavell
+ribotrinucleotides
+vertically
+rrna
+adams
+lunter
+searls 1997
+output
+iterations
+yeats
+wold 1981
+kaiser
+considers
+bridges
+olason
+guigo
+refer
+contingent
+fechtel
+broker
+symp
+choo
+wold
+chow
+wade
+khorana
+nirenberg
+slopes
+regard
+caveat
+listewnik
+antonarakis
+ontologies
+vanin
+detailed
+ac
+wynshaw-boris
+pearson 2006
+al
+tang
+biohmm
+incorrect
+assessing
+green
+field
+valid
+nhgri
+poor
+birney
+zipursky
+jansen
+included
+bult
+lundin
+transposons
+nelson
+sci
+caused
+lian
+haegeman
+albrecht
+chureau
+1930s
+nodes
+fax
+schadt
+r96
+parra
+accumugene
+list
+exonic
+guigó
+//query
+fitzhugh
+approximately
+denoeud
+rozowsky
+ohno
+8molecular
+method
+contrast
+svetnik
+heber
+generalizing
+krieger
+experience
+r73
+chipper
+tschermak
+vii
+1101/gr5660607
+takes
+mysterious
+lander
+constructs
+neurosci
+producing
+tuan
+1­s9
+history
+promoter-
+stated
+pushed
+takahara
+arise
+cloning
+goal
+paul 1972
+cline
+schultz
+fu
+leonardson
+kirkness
+organism-independent
+choice
+barbe
+e23
+author
+helt
+fristrom
+paper
+scott
+thomson
+existence
+ainscough
+reymond
+absence
+proteomics
+huang
+propose
+blumenthal
+org/mwolby
+connecticut 06511
+association
+genos
+ink4a/arf
+notes
+characterized
+clamp
+generation
+extended
+yoshida
+loops
+prissette
+hart
+22 points
+robert
+inactivated
+giorgetti
+localization
+timeline
+one-to-
+reason
+cross-
+members
+put
+leading
+keene
+reflected
+defects
+wager
+nome
+passed
+compromise
+statement
+relationship
+park
+selecton
+jordan
+declare
+deciding
+picked
+huttenhofer
+abril
+majority
+build
+term--
+finding
+harbingers
+kai
+pseudogenization
+rogiers
+clear
+exp
+eisen
+consisted
+organism
+bertone
+tuzun
+detection
+focusing
+relation
+richmond
+doi/10
+deserts
+lukasser
+cistron
+darwin
+karro
+combinations
+lattices
+alexander
+birren
+sea
+evaluation
+solomon
+1
+
+introduction
+troge
+biotechnol
+spilianakis
+pertz
+dabbouseh
+context
+pdf
+baltimore
+reside
+akanuma
+pp
+kerlavage
+frith
+linton
+blumenthal 2005
+assigning
+tavare
+macleod
+nucleotides
+vol
+monod 1961
+neurons
+nonoverlapping
+tongprasit
+baseline
+/gst/fullpage
+copying
+olby
+purpose
+chang
+7 suppl
+drenkow
+alekseyev
+838-7861
+consistency
+chemistry
+ohno 1972
+excepproposed
+tanzer
+patel
+globin
+liu
+bejerano
+generalized
+hofacker
+wilming
+philos
+dobrovic
+projects
+tomita
+interestingly
+separately
+individuals
+terminology
+traits
+forefront
+stocsits
+lindblad-toh
+annu
+integration
+proc
+5 terminus
+off-
+
+17
+rug
+merrick
+haugen
+ayala 2003
+gibbons
+handled
+ashmun
+wade 2003
+integral
+spliced-
+contreras
+shea
+lond
+forward
+conceivable
+blueprint
+ligation
+criteria
+applicable
+mechanistic
+frankish
+observation
+excision
+zhu
+rogers
+hybridized
+ieee 90
+phages
+gingeras 2007
+diverse
+polynucleotides
+codes
+puzzling
+edwards
+application
+kamal
+beginnings
+luscombe
+walker
+kawaji
+feuk
+cdkn2a
+young
+blended
+barrera
+labels
+phenotypes
+joel
+fewer
+neal
+gc-content
+underscored
+anaup
+kapranov
+iserentant
+mural
+recruitment
+imply
+insertion
+click
+reprelighted
+packing
+extreme
+epigenetics
+retrotransposition
+6 zhengdong
+suggests
+makes
+trupin
+scales
+expect
+apply
+donahoe
+transfrags
+usa
+benzer 1955
+borst 1986
+weissenbach
+trait
+dougherty
+account
+org/web/20050428090317/www
+challenge
+pre-encode
+haussler
+raeymakers
+tar
+hegyi
+tan
+located
+ben2
+ayala
+collection
+demonstrating
+fits
+light
+correspond
+lined
+divided
+roberts 1977
+zindy
+s4
+progeny
+berget
+li
+lu
+derivative
+freeman
+handa
+mention
+hayden
+transparent
+toporik
+/bateson
+transmitted
+mode
+constitute
+frequency
+hyg
+albertson
+category
+respects
+edelheit
+martone
+rev
+nusbaum
+etymology
+ren
+stud
+waterston
+determiners
+zody
+factored
+kaul
+zhengdong
+davis
+retain
+yoshiki
+degree
+dermitzakis
+lovering
+ying
+quality
+leder
+biochem
+acquire
+fleischmann
+reflecting
+coinage
+haven
+updating
+roberts
+sweden
+providing
+result
+curves
+tide
+goldberg
+qu
+studying
+instance
+hayatsu
+mille
+rediscovered
+class
+lee
+pre-mrnas
+mendelweb
+fact
+sze
+connect
+siepel
+mccarty
+trivial
+gametes]
+winner
+jan
+thresholds
+move
+pharmacology
+means
+sebat
+heimans 1962
+monod
+benzer
+qi
+shi
+fixed
+generations
+requirement
+isis 86
+closer
+pinkel
+virology 1
+stadler
+öll
+importance
+barrett
+hits
+wu
+attributed
+korneev
+eutherians
+conclude
+ca
+subscribe
+eisen 1988
+addition
+bourdet
+copied
+nnos
+arises
+insulator
+covered
+reeves
+statisfirst
+harder
+vh
+tilemap
+lush
+swinging
+rheinberger
+coherent--
+russell
+began
+parts
+difficult
+http
+zdobnov
+lakshmi
+seto
+thought
+homologue
+lalioti
+storey
+paul
+griffith
+kampa
+gesellschaft 18
+eddy 2001
+smith
+combine
+natl
+resolved
+hirotsune
+optimizations
+doyle
+duret
+prominent
+lost
+schematized
+sager
+roth
+bacteriology
+wonders
+shen
+advent
+bajic
+bekiranov
+carninci
+lead
+avoid
+mutation
+phantoms
+somat
+dike
+cattolico
+actual
+carried
+retrogene
+struhl
+recognized
+tomb
+eddy
+finalizing
+karplus
+xlix
+baertsch
+lindemeyer
+intention
+appl
+peretz
+repeated
+grate
+bovine
+jaffe
+variations
+projecting
+henikoff
+mentioning
+piece
+contribute
+duerinck
+sekinger
+forests
+kitchin
+theor
+conclusion
+sherr
+town
+additionally
+spring--
+paccanaro
+diekhans
+portion
+agarwal
+indirectly
+275
+579­ 580
+444­446
+96
+1997
+1996
+1999
+349
+1161­1168
+499­509
+499­506
+40%
+43­59
+27­45
+366­370
+876­880
+727­732
+­
+37­44
+5650707
+331­332
+3171­3175
+1965
+1961
+1962
+525­528
+318­356
+137­158
+894­908
+556­565
+93­104
+252
+104
+360
+108­127
+964­967
+1977
+1976
+1975
+1972
+1971
+1144­1146
+625007
+0020033
+55
+54
+5%
+50
+53
+499­521
+783­814
+[1965]
+1948
+5573107
+1941
+1944
+1991
+1995
+[
+533­544
+``
+669­681 ©2007
+1383­1390
+222­226
+1
+860­921
+817­832
+845­847
+1955
+1953
+529­540
+2
+11
+10
+13
+12
+14
+17
+19
+1%
+1927
+1929
+4157­4161
+637­645
+20%
+]
+426­433
+155­169
+1928
+3
+495­506
+4
+496­512
+2374­2383
+2541­2558
+3016­3024
+2554­2558
+529­538
+5
+5495­5500
+16
+1909
+1905
+1900
+6
+464­470
+1848­1858
+24
+27
+21
+22
+23
+2%
+33­42
+7
+2242­2246
+3804­3814
+1913
+1915
+38067­38072
+72
+79
+612­616
+7711­7720
+1304­1351
+211­217
+180­222
+219­224
+3­47
+5586307
+293­302
+1860
+1866
+303­329
+37
+9
+701­732
+000
+993­1000
+398­401
+74
+1149­1154
+2002
+2003
+2000
+2001
+2006
+2007
+2004
+2005
+2008
+44­54
+232­239
+344­354
+5014606
+113­159
+33
+36
+121­125
+916­919
+500­507
+5696007
+2007 17
+949­951
+82
+86
+1981
+55­68
+6339607
+3629­3636
+333­344
+919­929
+124
+30­36
+130
+2559­2567
+1378­1385
+1653­1655
+414­422
+84­87
+123­151
+803­819
+1958
+138­163
+981­992
+1986
+1980
+1988
+1989
+1­8
+133­173
+42
+41
+377­388
+520­562

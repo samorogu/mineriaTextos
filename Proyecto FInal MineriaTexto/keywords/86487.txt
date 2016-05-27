@@ -1,0 +1,321 @@
+evolutionary
+interpretation
+phenomenon
+UAAGCGACGCGGUGAAUGCCA/ GCAUUCACCGCGUCGCUUAAU
+ClustalW30
+differentiation-associated
+microfabrication technique
+statistical
+melanocyte-specific
+Department
+Kato-Yamada3
+Mizoguchi
+MicroRNAs
+Supplementary Information
+reminiscent
+miRNA-directed repression
+knowledge
+parameters
+sense/antisense
+susceptible
+interesting
+postcentral
+independent normalization
+Asymmetry
+UAAGGCACGCAGAAGUAUGUAA/
+phosphomonoester-producing
+sensitivity
+established luciferase
+compelling
+tissue-specific
+cyclin-dependent
+Vartiainen
+Acknowledgements
+Two-tailed
+molecular structure
+basic-helix­loop­helix-zipper
+left-most
+Posttranscriptional regulation
+Significantly downregulated
+Genetically
+Significant
+Nevertheless
+downregulated
+activation
+convincing enrichment
+expectation
+degradation
+glass-bound
+inhibition
+UAAGGCACCGGGUGAAUGCCA/ GCAUUCACCCGGUGCCUUAAU
+background
+SV40-driven
+genome-wide
+multiple-turnover
+non-neural paralogue
+significant enrichment
+conclusion
+progression
+Inpharmatics
+microphthalmia-associated transcription
+UAAGGCACGCGGUGAAUGCCA/ GCAUUCACCGCGUGCCUUAAU
+Washington
+flexibility
+reconstitution
+background distribution
+microscope
+posttranscriptional
+Transfections
+transcript population
+LIMMS/CNRS-IIS
+analytical
+tissue-specific signatures
+type-specific
+colorectal adenocarcinoma
+interfering
+significant propensity
+Ashburner
+variability
+Transcription
+unpublished
+ubiquitous
+catalytic
+non-cognate
+SV40-renilla luciferase
+off-target transcripts
+differentiation
+transparent container16
+individual
+cotransfections
+microRNAs downregulate
+complementarity
+melanocytes
+normalizing
+myelogenous
+synthesis
+heterochronic
+mammalian
+interacting
+Cellugyrin
+Caenorhabditis
+assistance
+UV-induced tyrosinase
+expressed
+2Institute
+repression
+fellowship
+experiment
+phosphatase
+RepeatMasker
+morphogenesis
+Nakashima2
+E2F-induced
+discovery
+supporting
+expression specifi769
+Interaction
+hippocampus
+Schelter1
+complementary
+importance
+respectively
+University
+Oligofectamine
+possibility
+delivering
+Wild-type
+1-subunit
+hypothesis
+near-perfect
+Micromanagers
+biological
+regulatory
+fluorescent
+lymphoblastic
+miRNA-like
+LocusLink database12
+transcripts
+Otherwise
+comparison
+Cambridge
+Senescence
+efficiency
+ATP-driven anticlockwise
+mammalian microRNAs
+embryonic
+unintentional
+anticlockwise
+right-most
+miRNA-downregulated
+Specificity
+Invitrogen
+Technology
+submicrometre-sized
+experimental
+well-studied
+Konyukhov
+biological importance
+computational
+subcomplex
+manuscript
+Sequences
+orientation
+communication
+brain-like
+Published
+nutritional
+functional
+over-represented
+progressive
+unification
+Microarray
+stress-responsive
+Identification
+Therefore
+Asterisks
+specificity
+wild-type
+proportional
+premyelocytic
+clockwise
+establish
+monoclonal anti-c-kit
+Additional
+microfabrication
+femtolitre-sized
+additional
+subcellular
+Expression Laboratory
+luciferase transfection
+Industrial
+vertebrate
+muscle-like expression
+gene-centered
+plentiful
+tissue-specificity
+regulation
+conservation
+Takeuchi4
+Carrington
+percentage
+Vogelstein
+consistent
+Association
+p21-null
+Lappalainen
+Supplementary Discussion
+corresponding
+Nishikawa
+noncognate
+sufficient
+Pellegrini
+Functional discovery
+Jones-Rhoades
+transverse
+knockdown
+interaction
+mechanical
+Cotransfection
+subsidiary
+Matilainen
+transcriptional apparatus
+tissue-specific microRNAs
+cerebellum
+F1-ATPase
+co-transfected
+six-nucleotide
+RNA-inducing
+recruitment
+gene-expression
+Guillaume
+Hutvagner
+expectation maximization
+tissuespecific
+Supplementary
+frequency
+alternative
+neural-specific
+distribution
+inhibitor
+procedure
+Biomedical
+Intensities
+Luciferase
+transcriptional
+Publishing
+generating tissue-specific
+Nonetheless
+translational repression
+microarrays
+endonuclease
+Baskerville
+influence
+biogenesis
+compendium
+g-subunit
+Mittnacht
+Wellbrock
+International
+transcript degradation
+Genome-wide
+TK-renilla luciferase
+demonstration
+synaptogyrin
+Brachyury-related transcription
+information
+FEBRUARY
+miRNA-mediated
+transcription
+cyclindependent
+responsible
+consortium
+single-molecule manipulation
+non-muscle paralogue
+microarray
+Tissue-specific
+previously9
+Background
+physiological
+base-pairing
+downregulation
+switching
+melanocyte development
+principle
+Correspondence
+transfection
+intraventricular
+MicroRNA-directed repression
+UGGAAUGUAAGGUGAAUGCCA/ GCAUUCACCUUACAUUCAAUA
+position-specific
+miR-124-downregulated
+muscle-specific
+Orthologous
+independent
+Single-molecule experiments6­9
+productive translation
+UGGAAUGUAAAGAAGUAUGUAA/ ACAUACUUCUUUACAUUCAAUA
+transcript
+Massachusetts Institute
+mechanochemical
+offtarget
+additional repression
+Bertolotto
+observation
+fluorescence
+Whitehead Institute
+exon­exon
+microphthalmia
+Hodgkinson
+Prediction
+Over-represented
+enrichment
+Dharmacon
+widespread influence
+expression
+conservation-based bioinformatic
+CCAAT-enhancer
+retardation
+representation
+Mann­Whitney
+vertebrates3
+Kolmogorov­Smirnov

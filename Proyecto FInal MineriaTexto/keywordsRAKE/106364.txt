@@ -1,0 +1,1737 @@
+16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+
+tgtacata aagccata actgtgaa agacaatc tgctgcta ttttgtac acattcca tgaatgta acggtaca cagtatta ttgcatgt tcgcatga ctcaggga caagtgcc actactga tggaccaa gtaaatag tgtagata acactaca gtacagtt caccagca ggtacgaa tgtatagt aagggcta agctttaa atttatcg ggcagcta gctgtaaa gcactaat aaaggtgc atgtagca acactgga gtatatag tttgataa aagcatgc
+
+0
+kccar ctawwwata ctttaar ygcgyrcgc gggygtgny tgastmagc ytattttnr cytagcaay gcanctgny rtaaaca gttrycatrr tgaccttg tcccrnnrtgc ttcynrgaa tgacagny tgacaty gttgnynnrgnaac yatgnwaat ccannagrkggc wttgkctg tgccaar gcgnnanttcc cattgtyy rgaggaary mcs 107
+sp1 ap-1 ­ atf3 yy1 gabp e12 lef1 atf3 ap-4 c-ets-2 irf1 srebp-1 ­ e4f1 ­ ­ chx10 maz esrra e4bp4 ­ rsrfc4 ­ ­ ­ nf-e2 mef-2 ­ myod freac-2 ­ err-
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 discovered motif rcgcangcgy cacgtg scggaagy actayrnnncccr gattggy gggcggr tgantca tmtcgcganr tgayrtca gccatnttg mggaagtg caggtg ctttgt tgacgtca cagctg ryttcctg aacttt tcanntgay gkcgcn
+tgayg gtgacgy ggaancggaany tgcgcank taatta gggaggrr tgaccty ttayrtaa tggn
+48
+
+7 8 9 10 11 12 13 14 15
+
+tggtgcta ctatgcaa tacttgaa cgcaaaaa gtgccaaa gtactgta atacgggt aagcacaa tttgcact
+
+0
+/nature
+
+figure 3 discovered promoter motifs show positional bias
+/nature
+
+© 2005 nature publishing group
+
+articles
+regulatory motif
+1 2 3 motif gtgcaata gtgcctta ctacctca conservation rate 0
+small rna fractions exclude large rna
+/nature
+
+344
+
+© 2005 nature publishing group
+
+articles
+motifs
+22-bp mature mirna products predicted based
+evolutionarily conserved structure equal conserved function
+mann­whitney rank sum statistic
+estrogen-related receptor alpha 1 functionally binds
+vienna rna secondary structure server
+341
+
+© 2005 nature publishing group
+
+articles
+conserved motifs
+brown norway rat yields insights
+gabpa promoter region reveals functional err-
+factor* nrf-1 myc elk-1 ­ nf-
+mitochondrial respiratory chain regulator nrf-1
+pgc-1a-dependent oxidative phosphorylation gene expression
+339
+
+© 2005 nature publishing group
+
+articles
+discovery
+motifs show distinctive positional preferences
+343
+
+© 2005 nature publishing group
+
+articles
+utrs
+single reference messenger rna selected
+list includes numerous notable examples
+human chromosome 21 conserved nongenic sequences
+rat genome sequencing project consortium
+international human genome sequencing consortium
+remaining 105 discovered motifs represent potentially
+342
+
+© 2005 nature publishing group
+
+articles
+12
+discovered 106 highly
+
+figure 2 tissue specificity
+international mouse genome sequencing consortium
+non-coding functional elements remain unknown
+excluding previously annotated functional elements
+/nature
+
+© 2005 nature publishing group
+
+345
+8-mer tgaccttg
+systematically discover common regulatory motifs
+promoter analysis yields 174 candidate motifs
+national human genome research institute
+­ ­ nf-1 c-rel sox-9 pu
+highly conserved 8-mer motifs discovered
+59 discovered motifs showed strong matches
+3 0 -utr regions reveals short sequences
+motifs show significant positional preference
+21
+
+methods
+motif conservation score
+regulatory motifs
+/nature
+
+articles
+putative motifs
+control gene set s3 consists
+340
+
+© 2005 nature publishing group
+
+nature
+obtained 72 highly conserved 8-mer motifs
+dashed curve shows fit
+8-mer motifs represent target sites
+recently discovered regulatory mechanism16
+conserved rna-folding pattern characteristic
+control gene set s2 consists
+calculated folding free energy
+mediate negative posttranscriptional regulation
+folding free energy values
+equivalent position weight matrices
+nature advance online publication
+micrornas downregulate large numbers
+pooled small rnas prepared
+greatly expands previous estimates
+recently discovered regulatory mechanism
+additional methods
+supplementary information includes
+annotated transcriptional start site
+branch lengths denote number
+recognize short regulatory sequences
+vastly larger human genome
+ctttaar
+sequences inside cpg islands
+ensure equivalent sequence composition
+3 0 -utr analysis yields 106 motifs
+extended half-site sequences including
+newly discovered motif m4
+bona fide mirna genes
+mrna splice donor signals
+3 0 -utr motifs shows abundance
+markedly lower conservation rate
+target gene set s1
+frequently occurring sequence patterns
+aligning multiple genomic sequences
+`highly conserved 8-mer motifs
+72 highly conserved 8-mer motifs
+highly conserved 8-mer motifs
+motif gene-set enrichment score
+reported transcription-factor binding sites23
+watson­crick base pairing
+motifs overlapping conserved 8-mers
+conserved gene sets s1
+additional mirna target sites
+control random motifs show
+motif gene-set enrichment analysis
+discovered motifs preferentially occur
+average observed conservation rate
+predicted mirna genes show
+equal-sized control set s2
+motifs show tissue specificity
+random 8-mer motif shows
+actayrnnncccr
+tmtcgcganr
+motif requires evolutionary comparison
+asterisks denote conserved bases
+match highly conserved 8-mers
+found 174 highly conserved motifs
+folding free energy
+sampling human genomic sequence
+discovered 174 candidate motifs
+total branch length similar
+oncogene regulator elk-1
+cell-cycle regulator myc
+comparative genome sequence analysis
+strong positional bias
+articles
+
+systematic discovery
+conserved motif occurrences upstream
+polymerase chain reaction
+watson­crick pairing
+motif positional bias
+discovered 8-mer motif
+table 2 top 50 conserved 8-mers
+10 showed weaker matches
+phylogenetic footprinting reveals
+72 discovered 8-mer motifs
+factor names
+nature
+sequence recently inserted
+human 3 0
+
+figure 4 properties
+figure 1 conservation properties
+mirna mature product
+discovered 3 0 -utr motifs
+include regulatory signals
+dozen additional mammals37
+examined positional bias
+human mirnas matching complements
+129 sequences encoding predicted
+control sets show
+/nature
+
+err-a-binding site
+highly conserved 8-mers
+­ stat5a meis1 ­ ­ oct-
+competing interests statement
+threaded blockset aligner
+yellow box marks
+strong directional bias
+4 5 6
+
+accaaaga tgtttaca gcacttta
+
+0
+competing financial interests
+apolipoprotein influencing triglycerides
+understanding cellular circuitry
+show tissue-specific expression
+include 113 sequences encoding
+locate regulatory sites
+108 highly conserved motifs
+`highly conserved motifs
+3 0 -utr motifs show
+transcriptional start site
+conserved target sites
+represent binding sites
+mature mirnas start
+3 0 -utr 8-mer discovery
+control set comprising
+ancestral sequence deleted
+tgta core sequence
+show specific peaks
+rapid motif enumeration
+merge motif pairs
+nucleic acids res
+microarray analysis shows
+human protein-encoding transcriptomes
+transcription-factor binding sites
+authors contributed equally
+published online 27 february 2005
+sufficient statistical significance
+rigorous page purification
+artificial intelligence laboratory
+common functional elements
+control gene sets
+common regulatory motifs
+`common regulatory motifs
+low-redundancy comparative sequencing
+mirnaassociated 8-mer motifs
+draft genome sequences
+controlling mrna stability
+gene expression data
+lacking prior information
+3 0 -utr set comprises
+motif discovery overview
+important conserved elements
+3 0 -utr motifs acting
+low cpg content
+motif conservation score
+discovered 8-mers match
+noncoding sequences revealed
+mature mirna genes
+specificity values higher
+observed conservation rate
+lower conservation rate
+stable stem-loop sequences
+human regulatory motifs
+evolutionary tree relating
+highest mcs score
+comparable control set
+well-studied err-a-binding site
+fewer regulatory elements
+remaining motifs based
+entire human genome
+human genome peaks
+conserved seed pairing
+similar conservation rates
+homo sapiens let-7a
+inferred base pair
+extreme cases correspond
+pairwise sequence similarity
+non-coding sequence contained
+epsilon globin genes
+comparative genomic analysis
+finding functional features
+control intronic regions
+conserved occurrences shows
+m8 show enrichment
+nearpalindromic motif m8
+maximum enrichment score
+show enriched expression
+`shuffled conserved instances
+additional mammalian genomes
+4-kb region surrounding
+27-fold increase compared
+supplementary information accompanies
+mammals
+xiaohui xie1
+usa whitehead institute
+biologically functional occurrences
+mirna stem-loop structures
+22 bp predicted product
+non-conserved flanking sequence
+functional elements encoded
+motif discovery procedure
+approach automatically rediscovered
+conserved sequences complementary
+polyadenylation signal shows
+homologous mammalian proteins
+3 0 -utr motifs revealed
+general conservation properties
+twofold degenerate characters
+human-mouse genome comparisons
+high conservation scores
+vertebrate microrna genes
+conserved mirna-based regulation
+yeast intergenic regions
+high conservation rate
+expected conservation rate
+low conservation scores
+precise expected sequence
+high mcs scores
+results strongly suggest
+strongest motifs correspond
+experimentally validated
+nature
+human motif occurrences
+human promoter regions
+specific nucleotide composition
+comparable random motifs
+multiple conserved occurrences
+supplementary table s8
+recent independent studies32­34
+dna binding sites
+dog genomes shows
+positional bias
+pooled adult tissues
+207 distinct human mirnas
+8-mer motifs end
+excess conservation relative
+3 0 utr 8-mer motifs
+develop systematic methods
+find functional regions
+human microrna genes
+human mirna genes
+largely symmetric distribution
+gabpa gene
+human mirna number
+6-mer seeds possibly
+intronic sequence consisting
+mcs scores suggests
+motif occurs 434 times
+observing 162 conserved instances
+motifs reverse complementary
+rna folding
+promoter motifs tend
+predicted mirnas genes
+ten human tissues
+3 0 utr sequence motifs
+initial systematic catalogue
+mirnas
+conserved occurrences
+fewer species based
+highly conserved
+length distribution similar
+unusual length distribution
+distance distribution upstream
+174 discovered motifs
+discovered 106 motifs
+discovered motifs
+asterisks denote
+stem structure
+mammalian microrna targets
+common regulator
+constructed genome-wide alignments
+functional sequences
+/nature
+
+account
+set s1
+cpg islands
+splice signals
+usa 3 computer science
+short sequences
+reference mrna
+motifs show
+small rnas
+equal number
+conserved 8-mer
+human promoters versus 0
+preferentially conserved
+large excess
+regulatory elements
+functional based
+control set
+functional elements
+regulatory 0 motifs
+regulatory motifs
+discovered mirnas
+random 8-mer
+related yeast species
+lower conservation
+equal-sized set
+mitochondrial biogenesis21
+err-
+large collection
+highly enriched
+rna genes
+comparative sequencing
+8-mer motifs
+remaining motifs
+gene set
+gene expression
+mirnas expressed primarily
+mirna gene
+conserved 8-mers
+gene sets
+observed features
+previous estimates
+motif discovery
+conserved elements
+common motifs
+6-mer sequences
+enrichment score
+60 3 0 -utr motifs
+3 0 -utr motifs
+initial sequencing
+target mrnas17
+target mrnas
+err-a-binding motif
+target genes
+small genome11
+transcriptional regulation
+binding sites
+conservation scores
+stem-loop structures
+human sequence
+conserved motifs
+significant enrichment
+`conservation rate
+1 conservation rate 0
+conservation rate ¼ 46%
+conservation rate
+high specificity
+tissue specificity
+translational control
+precise sequence
+sequence flanking
+conserved site
+3 0 -utr regions
+systematic discovery
+genome sequence
+evolutionary conservation
+evolutionary tree
+genomic regions
+gene regulation
+comparative analysis
+similar 8-mers
+random 8-mers
+promoter set
+genome res
+species show
+small number
+human genome
+conserved occurrences
+strong tendency
+3*
+1 2
+
+broad institute
+dna sequencing
+possibly degenerate
+biomedical research
+0 position bias§ 262 262 224 289 263 263 ­ 262 266 ­ 223 ­ ­ 222 ­ 224 ­ 264 262 256 233 217 ­ ­ ­ ­ ­ ­ ­ 231 263 266 ­ 2142 ­ ­ 256 ­ 260 ­ ­ ­ 257 ­ 2101 263 ­ 212 ­ ­
+frequently starting
+strong peak
+non-coding strands
+largely symmetric
+validated experimentally
+length bias
+partial complements
+sequence similarity
+highest mcs
+orthologous sequences
+primate sequences
+silencer sequences
+consensus sequences
+promoter motifs
+expected rate
+000 random motifs
+similar motifs
+random motifs
+finding motifs
+gene atlas
+3 0 -utr regions25
+binding site
+temporal specificity
+genomic dna
+promoter regions
+high conservation
+promoter region
+motif occurs
+motif m8
+human occurrences
+`conserved occurrence
+conserved occurrence
+`conserved instances
+conserved instances
+excess conservation
+surrounding regions
+intronic regions
+additional mirnas
+additional 27 mirnas
+phylogenetic footprinting
+supplementary information
+high mcs
+motifs relative
+6-mer motifs
+258 predicted mirnas
+mirna-based regulation
+mirna regulation
+average nucleotide
+polyadenylation signal
+micro rnas
+scores greater
+maximum enrichment
+top 50 motifs
+computational analysis
+analysis covered
+region
+nature
+systematic procedure
+strand specificity
+evolutionary selection
+specific sets
+mammalian genomes
+non-degenerate 8-mers
+best-matching motif
+motif m27
+motif m29
+motif m4
+motif consensus
+motif exceeds
+genomic comparison
+human genome1­8
+75 human tissues24
+human gamma
+specific information
+estrogen-response elements
+ultraconserved elements
+au-rich elements
+structural elements
+active conservation
+conservation properties
+`non-conserved instances
+microrna registry
+authors declare
+involving purification
+unusual properties
+accepted 9 february 2005
+intronic controls
+published rnafold29
+stable stem-loops
+full set
+7-base `seed
+000 human genes
+human genes
+yeast genomes
+mirna genes17
+53 mirna* mir-92
+mirna genes
+222 mirna genes
+22 tissue enrichment 15
+weak matches
+matches begin
+strand preference
+results suggest
+comparable collection
+mirna-related motifs
+motifs m4
+common feature
+systematic catalogue
+conserved mirnas
+interesting features
+genome-wide co-occurrence
+genome-wide fashion
+biologically meaningful
+significant proportion
+higher conservation
+human-mouse alignments
+enriched expression
+mammalian genomes19
+complementary matches
+dog genomes
+multiple criteria
+saccharomyces genomes
+multiple copies
+shaded regions
+3 0 untranslated regions
+stem region
+massachusetts institute
+phylogenetic shadowing
+mice revealed
+experimental procedure
+unbiased procedure
+rna-binding proteins
+initial strategy
+low levels
+post-transcriptional regulation
+m8 peak
+occurs 520 times
+recent studies
+occurs 368 times
+mouse genome
+evaluated based
+statistical power
+reverse strands
+75 human tissues
+marked enrichment
+motifs tend
+specific functions
+primer specific
+selected motifs
+table 1 top 50
+conserved instance
+relative importance
+total occurrences
+ten mirnas
+motif clustering
+123 motif clusters
+mrna degradation
+species comparisons
+transfac motifs
+nature genet
+distance constraints
+saccharomyces species11
+vamsi mootha1
+computational algorithm
+diabetic muscle
+degeneracy allowed
+puf family
+pearson correlation
+sliding window
+limited subsets
+artificial adaptors
+readily identified9
+vast majority
+immediately recognized
+accepted criteria16
+262 bp upstream
+experimental verification
+stringent thresholds
+essentially represents
+mir-181a ­ mir-200c
+comprehensive catalogue
+give insight
+central gap
+bmc bioinformatics 5
+ranked list
+received 23 november 2004
+-rich elements35
+paired unselectively
+genic environment
+standard deviations
+natl acad
+-rich element
+mir-135a mir-27b
+parietal lobe
+trends biochem
+repress translation
+worth noting
+2* & manolis kellis1
+probabilistic algorithm
+dagger symbol
+current registry28
+complete dictionary
+distances centred
+jun lu1
+representative set
+cingular cortex
+complete description
+haematopoietic cells
+transcription initiation
+uniform standard
+kerstin lindblad-toh1
+25 kcal mol21
+iubmb life 55
+closer relatives
+stronger peak
+d109­d111
+uniform system
+transcription factors
+8-base length
+combinatory landscapes
+purifying selection
+unbiased assessment
+eliminating biases
+individual occurrence
+reliably recognizing
+w249­w252
+/nature
+microrna annotation
+selective constraint
+disruptive mutation
+window centred
+randomly sampled
+comprehensive inventory
+dog genomes13­15
+mirna ligation
+evaluated motifs
+700 well-annotated genes
+genes induced
+proteincoding genes
+genes controlled
+identify genes
+discovered
+comparative genomics
+gaussian distribution
+length distribution
+identified 242 conserved
+microrna targets
+mirna targets
+nature rev
+systematic view
+systematic identification
+mammalian species
+defined based
+comparing conservation
+modest number
+database analogous
+estimating number
+database issue
+full alignments
+fivefold higher
+mammalian evolution
+human promoters
+aligned genomes
+yeast species
+genes expressed
+bind regions
+dna strand
+extraordinary importance
+cross-species comparison
+recent conclusion
+experimental validation
+potential power
+guide degradation
+binomial probability
+nucleotide compositions
+consists
+total number
+includes
+brain-related tissues
+3 0 utr databases
+motifs defined
+mirnas regulate
+evaluated separately
+powerful approach
+mammalian promoters
+mirnas genes
+recent work
+computational identification
+rna
+suggesting complementarity
+stem loop
+22 bp stem
+refseq database18
+rna 9
+resulting clones
+web-based prediction
+represent
+plos biol
+nuclear protein
+wholegenome alignment
+comprehensive identification
+program rnafold
+cent identity
+results provide
+scoring scheme
+carefully designed
+lander@broad
+transfac database
+function
+extensively studied
+supplementary fig
+show
+detects one-half
+manoli@mit
+related species
+species compared
+specifically expressed
+terminal introns
+exact match
+aligned bases
+12 predicted
+observation shown
+control
+score
+approach provided
+aligned species
+8-mer
+obtained
+binds
+statistic
+discover
+s3
+bias
+short
+numerous
+variants grouped
+sequencing
+40 remain
+sequences
+shows
+gene
+conserved
+aligned promoters
+discovery
+pairing
+roughly one-half
+sites
+preference
+analysis
+rate
+sequence
+based
+rat
+8-mers
+motif
+promoter
+human
+conservation
+random
+ensure
+44% upstream
+expression
+sampling
+set
+binding
+similar
+mechanism
+patterns
+genome
+mcs
+mcs ¼ 135
+sets
+matches
+mrna
+s2
+comparable
+11 motifs
+123 motifs
+174 motifs
+446 motifs
+motifs
+nature
+nature 420
+nature 423
+nature 428
+nature 409
+site
+fewer
+66% expected
+tissue
+multiple
+high
+26% expected
+regions
+revealed
+region
+low
+top 50
+occurrences
+m8
+yeast
+regulation
+enrichment
+specific
+reported
+dna
+m4
+adult
+times
+let-7a
+distance
+dog
+catalogue
+position 1­8
+independent
+properties
+constructed
+cases
+occur
+versus 2%
+contained
+encoded
+5 0 base
+matching
+micrornas
+list
+observing
+base
+instances
+position
+strongest
+primarily
+results
+length 8
+length
+11 characters
+examined
+seeds
+genes
+distribution
+table 2
+table 1
+complementary
+total
+number
+database
+higher
+enriched
+alignments
+expressed
+123 previously
+previously
+importance
+strand
+found
+related
+tend
+compared
+selected
+mouse
+comparison
+methods
+consisting
+end
+match 46%
+degradation
+usa 101
+transfac
+nucleotide `
+nucleotide 1
+6­18 bases
+mammals
+6­10 bases
+probability
+find
+genet
+100 bases
+power
+suggests
+usa
+usa
+*
+nucleotide
+bases
+strands
+match
+validation
+tissues
+3 0 utr
+including
+mirnas
+evaluated
+approach
+species
+genomics
+provide
+feature
+scoring
+adaptors
+110 bp
+exact
+representative
+studied
+338
+
+alignment
+designed
+annotation
+clustering
+30 program
+specifically
+protein
+37
+
+conclusion
+provided
+aligned
+prediction
+100 bp
+loop
+3 bp
+ligation
+complementarity
+grouped
+biol
+resulting
+bind
+clusters
+rev
+refseq
+200 bp
+evolution
+view
+identification
+cent
+& lander
+variants
+targets
+one-half
+work
+science 301
+roughly 40%
+proportion
+comparing
+science 299
+roughly 43
+instance
+mit
+science 294
+science 304
+promoters
+massachusetts 02139
+massachusetts 02141
+defined
+introns
+shown
+4 shown
+3 0 utrs
+3 utrs
+identified
+fig
+assembled
+segments
+red
+let-7i
+let-7c
+let-7b
+consistent
+let-7f
+let-7e
+let-7d
+chen
+evolving
+represented
+substitutions
+type
+relax
+mb
+mir-101
+& jurecic
+verify
+lai
+mir-381
+mir-122a
+order
+& shyu
+& pruitt
+ncbi
+mir-17-5p
+maglott
+58% downstream
+gumucio
+foundation
+35 mb
+coding
+listed
+percentage
+­ mir-135b
+serve
+phyme
+well-
+& lawrence
+materials
+acknowledgements
+doi
+dubchak
+lewis
+cell 120
+pseudo-colour
+flanked
+explanations
+erroneous
+cloning
+mir-19a
+nonprotein-coding
+vol 434
+mir-9*
+mir-96
+harvard
+extent
+mir-93
+mir-98
+mir-30e-5p
+refinement
+requests
+mutations
+basis
+union
+pancreas
+68 megabases
+over-
+make
+4-kilobase
+left
+kulbokas1
+mir-124a
+cell 116
+cell 115
+clustered
+mir-126
+steps
+www
+altered
+mir-34c
+mir-34b
+­ ­ mir-221
+mir-23b
+mir-23a
+presence
+erra
+68 substitutions
+refined
+consite
+resulted
+form
+removed
+shih
+evidence
+accounting
+radically
+generally
+test
+nt
+­ mir-133b
+hashing
+abundant
+discern
+amplification
+finally
+supported
+broadly
+level
+lander1
+trend
+locuslink
+mir-138
+stands
+mir-137
+reminiscent
+mir-125b
+mir-125a
+mir-224
+compare
+three-
+virtue
+believed
+redundancy
+divided
+explored
+su
+neighbourhoods
+schwartz
+brain
+­ mir-361
+kuersten
+correspondence
+z-score
+challenges
+berezikov
+15 mb
+mir-106a
+mir-106b
+remainder
+mir-100
+mir-103
+mir-107
+mir-200b
+mir-302b
+mir-302c
+mir-302a
+mir-302d
+blanchette
+size
+mir-217
+mir-219
+mir-218
+1a
+1c
+1b
+1e
+mir-128a
+mir-128b
+copy
+fickett
+mir-367
+turned
+aataaa
+123 mb
+typically
+species10
+ratio
+stand
+thompson
+primates
+non-randomness
+cliften
+enumerated
+hofacker
+screen
+rapidly
+parentheses
+blastz
+pum2
+pum1
+characterization
+grants
+colon
+margulies
+mir-206
+mir-208
+profiles
+prevalence
+cluster
+technology
+verified
+alphabet
+mir-372
+mir-373
+model
+role
+disrupt
+mol
+sicotte
+refer
+notably
+johnston
+& burge
+cambridge
+inclusion
+tggn6kccar
+sinha
+neill
+al
+diverged
+mir-30c
+mir-30b
+phys
+transposons
+mir-301
+sci
+yekta
+endocrinol
+sensitivity10
+mges
+golub1
+matys
+contrast
+bulges
+tested
+keeping
+adenosines
+pons
+goal
+burge
+3 0 arm
+advice
+fundamental
+­ mir-22
+ambros
+developed
+paper
+pcr
+absence
+mir-32
+found27
+ninety-
+mootha
+contiguous
+todd
+& lenhard
+health
+definition
+129 candidates
+miss
+leading
+eddy
+construct
+relationship
+part
+6-mers
+mir-133a
+mir-148a
+lim
+extracted
+base-pairing
+patterson
+mir-145
+mir-144
+measured
+mir-199b
+mir-139
+kb
+wasserman
+pennacchio
+bartel
+e10
+breast
+investigate
+mir-20
+mir-25
+glasner
+birren
+led
+fontana
+distinguish
+1038/nature03441
+gabpa/
+17 march 2005
+let-7
+corresponds
+regulated
+create
+liver
+evaluating
+nucleotides
+mir-148b
+development
+mir-222
+palumbo
+griffiths-jones
+press
+mir-152
+mir-153
+bejerano
+mir-15b
+showing
+mir-15a
+boffelli
+mir-330
+mir-338
+proc
+mir-18
+mir-16
+mir-181c
+mir-181b
+step
+& tompa
+mir-424
+cutoff
+hsa-let-7a
+forward
+jones-rhoades
+kellis
+ordered
+kidney
+kamal
+1038/nature03315
+subramanian
+generated
+­ mir-142-3p
+correlated
+reasoned
+uterus
+katz
+illustrated
+inferences
+monomer
+& bartel
+cell
+3c
+3a
+focused
+involved
+mir-183
+mir-182
+trachea
+addressed
+apply
+remains
+mismatch
+challenge
+proportions
+sought
+tgtanata
+demonstrating
+prostate
+italics
+tss
+junction
+11 mb
+mode
+mir-196a
+subset
+frequency
+measure
+mir-130a
+mir-130b
+approximately 28%
+approaches
+feasible
+dermitzakis
+mir-30a-5p
+mir-99b
+mir-99a
+mir-195
+stomach
+best-conserved
+reflecting
+mir-19b
+& goodwin
+result
+discussions
+constrained
+disease
+thousands
+biogenesis
+quantified
+computed
+humans
+missing
+focus
+human36
+sequenced
+conclude
+mirna16
+endrizzi
+spassov
+respect
+addition
+outliers
+define
+cngs
+mir-29a
+mir-29c
+mir-29b
+000 loci
+present
+sandelin
+directionality
+eric
+largest
+difficult
+mir-26a
+compendium
+mir-27a
+thought
+mir-199a
+mir-30d
+gtaagt
+gtgagt
+mir-9
+mir-1
+searching
+overlap
+30 january
+lung
+mir-196b
+repeated
+demonstrate
+mir-26b
+nonetheless
+low17
+chance
+additionally
+4e
+ranks
+searched
+4d
+4b
+4c
+4a
+1391­1394
+34%
+10%
+22 0
+105
+8 11
+72 0
+1993
+1992
+1995
+1997
+51%
+16 0
+8 4
+4 32
+4 37
+68%
+37%
+62%
+9 7
+170
+225­228
+­
+2
+8 22
+8 23
+25 0
+69%
+169­173
+103­107
+25%
+1 9
+1 6
+1 4
+1 5
+38 0
+162
+24 0
+80%
+8 30
+4 7
+4 6
+4 5
+4 8
+9 ­ 5
+59
+53
+52
+5%
+7 51
+7 54
+7 55
+64 0
+222
+3 30
+3 32
+3 33
+39 0
+3429­3431
+0
+8 43
+55 0
+27 0
+52%
+1012
+434
+1 12
+9 13
+236
+1
+3 25
+3 24
+860­921
+1321­1325
+8 55
+71­76
+26 0
+7 37
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+9 5
+46 0
+6 5
+6 4
+6 7
+6 6
+6 8
+5 64
+20%
+281­297
+9 9
+3
+8 85
+6%
+69
+50%
+7 23
+7 25
+126­128
+63%
+50 0
+1 38
+4
+6570­6575
+32 0
+8 ­ 6
+465­470
+33 0
+359­366
+6 63
+60%
+5
+2 5
+2 7
+2 8
+43 0
+9 22
+852­859
+`
+1 25
+1 23
+44 0
+5 9
+5 7
+6
+30 0
+708­715
+787­798
+617
+61%
+363­364
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+2%
+4 40
+342­352
+42 0
+5 33
+5 30
+7
+18%
+36 0
+86%
+6 47
+72
+61 0
+31 0
+2 24
+2 26
+8
+317
+4919­4929
+41 0
+9 43
+5 23
+5 22
+1 40
+19 0
+32
+37 0
+9
+89%
+6 46
+269
+76%
+67%
+54 0
+29 0
+7 6
+4 69
+40 0
+493­521
+95%
+49 0
+2002
+2003
+2000
+2001
+2004
+2005
+34 0
+6 25
+21­24
+53 0
+28 0
+64%
+1540
+33
+31
+30
+37
+36
+35
+34
+21 0
+241­254
+9 62
+47 0
+13%
+0 7
+0 6
+0 5
+0 8
+48 0
+6 32
+8%
+35 0
+83
+6062­6067
+2 13
+0 22
+0 27
+*
+45%
+15­20
+3 80
+2­9
+§
+626­637
+73%
+46%
+4 11
+68 0
+35%
+þ
+374­378
+28%
+289
+281
+266
+23 0
+98%
+277­279
+2083­2099
+0 42
+0 44
+72%
+1304­1306
+4 26
+4 23
+47
+51 0
+520­562

@@ -1,0 +1,1014 @@
+thick grey horizontal bars connect genes
+undergone reciprocal gene loss unusually frequently
+single mechanism--passive gene loss--enabled whole-genome duplication
+red marks denote gene absence
+343
+
+© 2006 nature publishing group
+
+letters
+
+nature
+© 2006 nature publishing group
+
+341
+
+letters
+
+nature
+syntenic context reveals gene fate
+1038/nature04562
+
+letters
+multiple rounds
+ovals represent yeast cells
+undergo mother­daughter mating
+undergone reciprocal gene loss
+ancient polyploidization predating divergence
+multiple gal pathway genes
+comprehensive yeast genome database
+coloured boxes represent genes
+© 2006 nature publishing group
+
+nature
+highly conserved biological processes
+underwent reciprocal gene loss
+successive nested speciation events
+yeast gene order browser
+16 march 2006
+
+letters
+
+functionally distinct
+bateson­dobzhansky­muller mechanism
+multiple ancestrally duplicated genes
+syntenic context allowed orthologues
+reciprocal gene-loss events occurred
+reciprocal gene loss occurred
+bateson­dobzhansky­muller
+© 2006 nature publishing group
+
+345
+diploid cell lineage continues
+ancient saccharomyces cerevisiae genome
+single gene-loss event
+switch mating type
+simon wong1 & kenneth
+van de peer
+nonphotosynthetic parasitic plant
+competing financial interests
+negative epistatic interactions
+high-definition macromolecular composition
+reciprocal gene loss12
+supplementary notes s2
+supplementary table s1
+gene ontology terms
+yeast species saccharomyces cerevisiae
+supplementary note s4
+supplementary note s2
+reciprocal gene loss
+conserved syntenic context
+filled grey circles
+insufficient syntenic support
+inadequate synteny conservation
+ribosomal rna processing
+horizontal scale
+
+represents
+synteny conservation enabled
+`ribosomal rna processing
+neutral gene loss
+transcriptional regulatory network
+haploid cells fusing
+interspecific genomic incompatibility15
+single genomic regions
+yielded reliable information
+supplementary note s5
+functional bias increases
+whole-genome duplication occurred
+undergo reciprocal
+
+figure 3
+reciprocal losses observed
+gene order relationships
+minimal plastid genome
+nucleic acids res
+passive gene loss
+modified bdm mechanism1
+entire yeast genome
+yeast genome directory
+reproductive barriers imposed
+supplementary note s3
+multiple speciation events
+precipitous gene loss
+duplicated gene loss
+author information reprints
+combining curated homology
+schematic trees showing
+interspecies genomic incompatibility
+wilcoxon rank-sum test
+ancient genome duplication
+finding functional features
+ygob engine revealed
+gene unambiguously absent
+ashbya gossypii genome
+yeast rna-processing complexes
+reciprocal gene-loss loci
+198 reciprocal gene-loss loci
+polyploid pteridophytes resulting
+interspecific yeast hybrid
+gene pairs created
+duplicate declined appreciably
+related yeast species
+transcription factor genes
+parallel gene losses
+castellii effectively carries
+duplicated genes surviving
+duplicated genes exist
+group ancestral loci
+gene loss class
+redundant gene copies
+ygob compares pairs
+gene unambiguously present
+gene pairs formed
+results provide evidence
+duplicated gene pair
+tree denote tracks
+gene loss pattern
+divergent classes involve
+term `ancestral locus
+gene-loss curves estimated
+yeast saccharomyces cerevisiae
+duplicated genes leads
+authors contributed equally
+common ancestor experienced
+slowly evolving genes
+reproductively isolated lineages
+bdm model proposes
+original wgd event
+compare class 2d
+species diverged shortly
+polyploid yeasts
+devin
+castellii involve essential
+form viable spores
+science foundation ireland
+short time period
+16 march 2006
+
+letters
+
+15
+syntenic context
+divergent resolution half
+cerevisiae ssn6 mutants
+single-copy genes compared
+whole-genome duplication
+null allele orthologous
+reciprocal loss
+gene order
+horizontal track
+syntenic conservation
+scored ancestral loci
+ancient duplication
+gene loss
+note s5
+passive loss
+supplementary information
+reciprocal losses
+gene absent
+post-wgd species retained
+reduced hybrid fitness
+precipitous loss
+gene duplication
+reciprocal silencing1
+multiple loci
+gene losses
+blue boxes
+reproductively isolated
+evolutionary events
+14 gene-loss classes
+modeling gene
+gene pair
+gene present
+slowly evolving
+budding yeast
+daughter species
+continuing loss
+loss differs
+genome duplication
+speciation events
+bdm incompatibility
+gene-loss class
+functional divergence
+genome res
+fate awaiting
+`rna binding
+yeast species
+duplicated genes
+genomic sites
+transcription factors
+relationships based
+parallel inactivation
+genomic regions
+power-law curves
+completely conserved
+regulatory elements
+determine unambiguously
+permissions information
+resulting diploid
+ashbya gossypii9
+castellii gene 705
+gene copies
+functionally indistinguishable
+remain duplicated
+wholegenome duplication
+duplicated pair
+functionally identical
+gene copy
+post-wgd genome
+speciation event
+open circles
+genome duplications
+fundamental processes
+human genome
+strong evidence
+black circles
+molecular evidence
+arbitrary order
+data support
+post-wgd lineage
+initial divergence
+sequence divergence
+null allele
+saccharomyces castellii
+convergent losses
+saccharomyces genomes
+independent losses
+separate losses
+subsequent losses
+polyploid plants1
+16 march 2006
+
+sfp1
+study leads
+divergent resolution2
+divergent resolution
+reproductive isolation
+loci duplicated
+reproductive isolation1
+identify genes
+paralogous genes
+essential genes
+homologous genes
+gene function
+duplicates created
+ancestral locus
+shared branch
+disproportionately overrepresented
+chromosomal rearrangements
+lineage leading
+mismatch repair13
+significant minority
+344
+
+received 5 august
+polyploid species
+pilot studies
+phylogenetic footprinting
+bind rnas18
+molecular clock
+accepted 22 december 2005
+authors declare
+convergent classes
+occurring rapidly
+common ancestors
+trends genet
+candidates generated
+shared ancestor
+ribosome biogenesis
+cis-regulatory regions
+system contributes
+familiar phenomenon
+kluyveromyces lactis7
+manual inspection
+natl acad
+constrained topology
+kluyveromyces waltii8
+erected contemporaneously
+main text
+author contributions
+teleost radiation
+disproportionately over-represented
+respiratory growth
+molecular evolution20
+close relative
+protein localization
+model-based method
+chromosomal rearrangement
+force2 applied
+909 protein sequences
+interchromosomal rearrangement11
+d364­ -d368
+standard errors
+mismatch repair
+
+2
+1 smurfit institute
+classes 2a
+common ancestor
+subfunction partitioning
+experimental populations
+meiotic sterility
+`ribosome biogenesis
+average 30% slower
+trinity college
+regain fertility22
+branch-length estimation
+divide mitotically
+affect classification
+chromosomal regions
+completely co-linear
+small nucleolar
+manual editing
+black dot
+roman numbering
+duplicate-gene expression
+model-based approach
+ecological diversification
+vast majority
+right-hand side
+blastp hits
+maximum likelihood
+features relevant
+recent reinforcements
+includes ste12
+determined unambiguously
+comparative genomics
+individual steps
+including ste12
+16 march 2006
+
+figure 4
+functional copy
+post-wgd lineages
+ancestral loci
+957 ancestral loci
+723 ancestral loci
+556 ancestral loci
+mat locus
+separate lineages
+hypothetical hybrid
+hybrid sterility
+bdm model
+ygob engine3
+ygob output
+castellii divergence
+post-wgd species
+genome evolution
+evolve slowly
+class 1b
+parental species
+postwgd species
+pre-wgd species
+species names
+branch leading
+duplicates remaining
+tree reconstructed
+scored relative
+separate loci
+allopatric speciation
+lineages diverged
+solid curve
+dashed curve
+unified model
+included data
+cerevisiae genes
+lineages leading
+locus orthologous
+post-wgd genomes
+scaffold numbers
+common pattern
+numbers refer
+current numbers
+hybrid speciation
+group
+alternative copies
+genes retained
+retained genes
+pre-wgd genomes
+copy remained
+class 4 loci
+class 3 loci
+genes lost
+online version
+engineering evolution
+global analysis
+khwolfe@tcd
+opposite members
+variable fates
+scoring protocol
+situation arises
+spore viability
+scoring scheme
+arranged horizontally
+evolutionary analysis
+single-copy paralogues
+study speciation
+castellii diverged
+genes involved
+grey `
+lys2 column
+sequence differences
+classes 2e
+rapid emergence
+minimum number
+potential contribution
+small number
+resolved independently
+special case
+// wolfe
+low fitness
+723 loci summarized
+loci suggests
+model-based methods
+bayanus differs
+cerevisiae ssn6
+candida glabrata
+red
+retained paralogues
+gene
+gene 705
+yeast
+time interval
+loss
+nature 425
+nature 428
+nature 430
+nature 423
+nature 422
+nature 387
+fate
+saccharomyces
+nature
+pairs
+conserved
+duplicated
+duplication
+occurred
+s3
+absence
+processes
+genome
+lineage
+bdm
+16 march 2006
+polyploid
+divergent
+18 genes
+genes
+55 genes
+results
+cell
+compare
+regions
+ancestor
+haploid
+half
+single-copy
+classes
+mechanism
+complexes
+pair
+homology
+equally
+common
+period
+ireland
+formed
+present
+compared
+cell 13
+authors
+showing
+essential
+diploid
+spores
+test
+scale
+resolution
+lineages
+locus
+hybrid
+ygob
+class 4
+class 3
+class 0
+species
+diverged
+fitness
+figure 1
+leading
+tree
+figure 2
+orthologous
+allele
+scored
+duplicates
+loci
+631 loci
+723 loci
+176 loci
+speciation
+estimated
+study
+duplicate
+data
+model
+reduced
+curve
+numbers
+pattern
+ssn6
+castellii
+copies
+genomes
+copy
+cerevisiae
+contributions
+version
+tracks
+suggests
+members
+summarized
+scoring
+evolution
+viability
+orthologues
+paralogues
+science 304
+tcd
+science 298
+determined
+relevant
+situation
+science 301
+evolve
+analysis
+fates
+low
+form
+arranged
+interval
+retained
+yeasts
+lost
+differences
+number
+potential
+2e
+case
+resolved
+emergence
+arbitrary
+column
+time 0
+time
+involved
+wolfe
+& wolfe
+function
+methods
+wgd
+bayanus
+glabrata
+alleles
+lack
+yellow
+2 owing
+grateful
+& borts
+sci
+localized
+supported
+neighbours
+castellii6
+nodes
+essential19
+bowers
+frequencies
+choice
+lynch
+´ fischer
+deleting
+proof
+prevent
+gene1
+consistent
+prediction
+woolfit
+developed
+expressed
+mutations
+greig
+3b
+3a
+contrast
+werth
+excess
+represented
+hittinger
+dublin
+step
+neuveglise
+betterfunctioning
+vol 440
+addressed
+gcr2
+npg
+& meyer
+finally
+comparing
+paterson
+criteria
+& chapman
+jonathan
+/reprintsandpermissions
+definition
+site
+tested
+cases
+& travisano
+account
+wolfe1
+work
+theories
+values
+meet
+feature
+process
+mclysaght
+byrne1*
+durrens
+2 relationship
+discussion
+& windham
+occur
+establishment
+proc
+sno
+reconciled
+derived
+preferred
+annotation
+cygd
+defective
+tye7
+green
+counted
+goffeau
+337t
+soc
+symbols
+difference
+`choice
+li
+estimating
+fig
+mcm1
+radical
+orange
+-76 dujon
+epistasis
+propose
+hunter
+sorted
+occasions
+university
+classified
+glabrata7
+wrote
+realistic
+2f
+bayanus16
+rokas
+reduce
+bradley
+expect
+x2-test
+shown
+increase
+ref
+singlecopy
+dietrich
+mechanisms
+differ
+mapping
+estimate
+ref 3
+self-fertile
+consequence
+retain
+frequent
+occur1
+origin
+manuscript
+striking
+omitted
+lond
+carry
+clarity
+homologues
+1t
+similarly
+top
+approximately
+observations
+explanation
+huh
+begins
+hypothesized
+distinguishes
+percentages
+distinguished
+ages
+coyne
+chambers
+linked
+kevin
+responsible
+-
+gordon1
+instance
+cliften
+performance
+node
+trace
+centre
+morden
+importantly
+doi
+windham1
+consequences
+lose
+haploinsufficient
+inferred
+double-copy
+silencing
+fact
+/nature
+selection
+show
+parsimony
+find
+implementation
+proportion
+unable
+corresponds
+surveyed
+inherited
+columns
+demonstrated
+fraser
+designated
+hypothesizing
+timing
+homogeneity
+gen
+sporulation
+investigate
+khaldi
+generations
+conant
+hek2
+set
+cyc8
+2c
+birren
+collectively
+result
+led
+parent
+guldener
+tool
+implicated
+onequarter
+drawn
+cerevisiae4
+haploids
+hypothesis
+parentheses
+0t
+region
+fish10
+previously
+gaillardin
+/ygob
+taylor
+borts
+& palmer
+create
+due
+expected
+describe
+& carroll
+survivor
+& lander
+postlethwait
+property
+correspondence
+cereals
+cresko
+data25
+cusack
+ample
+suggest
+scannell1*
+gal11
+& yan
+conery
+status
+http
+yat1
+effect
+louis
+changing
+bootstrapping
+patterns
+materials
+sets
+tec1
+& orr
+usa 101
+ease
+conclude
+sinauer
+simple
+location
+rgl
+-72 greig
+homozygous
+embo
+& shields
+delneri
+mol
+sequencing
+usa 102
+endrizzi
+www
+amores
+342
+
+notwithstanding
+requests
+proteins
+sunderland
+suppl
+chromosomes
+contig
+patterson
+total
+genetics
+lead
+bottom
+conservative
+behave
+assuming
+biased
+deleted
+analyses
+simpler
+dublin 2
+nucleolus17
+basis
+discussed
+eukaryotes
+vilgalys
+functions
+usa 89
+individually
+maere
+presence
+circled
+assess
+tup1
+paper
+accumulated
+18 times
+acknowledgements
+start
+fraction
+yap3
+byrne
+singer
+contradictory
+two-thirds
+lloyd
+krogan
+& force
+rnas
+kellis
+delete
+contribute
+al
+chromosome
+mutual
+codes
+nat
+conclusion
+allopolyploidy
+massachusetts
+accounts
+fisher
+& dujon
+comparison
+purple
+fitted
+0
+68­
+71­
+225­ -239
+617­ -624
+708­ -713
+100
+33
+3%
+9903­ -9908
+8
+1991
+1992
+1997
+1996
+1456­ -1461
+481­ -490
+¼ 0
+137
+241­ -254
+1
+40%
+21
+22
+23
+1726­ -1733
+705
+8%
+7
+515­ -526
+176
+2
+10
+13
+12
+14
+16
+19
+18
+304­ -307
+32%
+7%
+75
+1773­ -1775
+3
+11
+15
+17
+269
+4­7%
+10648­ -10652
+05
+6 £ 1029
+24
+25
+299­ -301
+1167­ -1171
+66
+2%
+4
+14144­ -14149
+9
+001
+5454­ -5459
+210
+10214
+10210
+5­ -105
+55
+35­ -44
+2009­ -2019
+590­ -605
+20%
+*
+20
+686­ -691
+6
+72%
+156
+2003
+5
+4%
+2005
+47%
+2002
+2000
+2001
+2004

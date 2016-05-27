@@ -1,0 +1,13 @@
+genes
+loci
+904109txt
+al
+variation
+j
+traits
+genetic
+master
+et
+samorogu
+gene
+expression

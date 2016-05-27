@@ -1,0 +1,1528 @@
+discussion
+
+ef lf ev lv pr po time late visual prepostmovement movement
+500 ms prepostmovement movement
+
+early late fixation fixation
+
+early visual
+
+late visual
+
+ch980304
+
+time
+
+figure 3 modulation
+= 20
+
+ev
+
+lv
+
+ec lc time
+
+pr
+
+po
+
+figure 2 modulation
+experimental design
+
+100 50 0
+
+­500 target onset 500 early visual late visual early cue
+
+1
+0
+
+early visual
+
+late visual
+
+early cue
+
+late cue
+
+prepostmovement movement
+regression slope 24 18 12 6 0 ev lv ec lc time
+
+time
+lip spike rates
+
+pr po
+
+figure 1 modulation
+75 expected gain ratio late fixation 1
+eccentric yellow response leds identi®ed
+raster panels plot spike times
+40 20
+
+early fixation
+
+early visual
+
+0 ­0
+raster panels show spike times
+area lip spike rates observed
+complementary high gain/low gain conditions
+decision variable expected gain outcome probability estimated
+complementary high probability/low probability conditions
+simultaneously presented eccentric visual stimuli
+centrally located ®xation stimulus instructed subjects
+rhesus monkeys performing saccadic choice trials
+animal signi®cantly modulated neuronal activity
+response ®eld signi®cantly modulated activity
+parietal neurons carried statistically signi®
+visually identical cued saccade trials
+successively illuminated leds randomly selected
+single correct choice identi®ed
+centrally located colour cue
+yellow led located directly
+memory related motor planning activity
+animal signi®cantly modulated activity
+500 ms prepostmovement movement
+neurons carried statistically signi®
+cortical sensory±motor transformations
+articles
+figure 2a shows
+sensory-attentional models typically attribute modulations
+intraparietal cortex lies close
+®xation stimulus identi®es
+cortical efferent system examined
+animals performed cued saccade trials
+central stimulus identi®ed
+neurons signi®cantly modulated
+area lip carry information correlated
+formal economic±mathematical approach
+¯uences motor preparation signals
+posterior parietal neurons behaved
+central led identi®ed
+methods
+
+single intraparietal neurons
+panels show individual trials
+0
+
+ch990215
+
+outcome probability
+
+time
+expected gain ratio early
+hundred leds located
+20
+ch980304
+
+0 ­500 target onset 500
+recorded neurons showing signi®
+time
+
+figure 4 correlation
+central ®xation stimulus offset
+sensory±decision±motor process
+directly correlate neuronal activity
+0
+
+ch990322
+
+expected gain ratio
+computed average ®ring rates
+central led changed colour
+cue identi®ed
+signi®cantly modulated
+figure 4a presents
+trials instructing gaze shifts
+figure 4c shows
+figure 2c shows
+figure 1b shows
+figure 3b shows
+figure 4b shows
+figure 1a shows
+figure 2b shows
+data support theoretical approaches
+signi®cantly greater
+expected gain strongly modulated
+visually identical trials
+rhesus monkeys trained
+235
+
+regression slope
+
+firing rate
+figure 1c shows
+late visual/®xation* 32
+20 neurons carried signi®
+early visual epochs
+instruction cue onset
+early cue intervals
+late visual intervals
+early visual/®xation* 27
+sample carried signi®
+figure 3a shows
+transform visual signals
+neuronal response ®eld plotted
+central starting position
+underlie complex behaviour3±5
+public health service
+cold spring harb
+central light-emitting diode
+mathematical combinatorial rules
+posterior parietal cortex
+visually responsive neurons
+parietal area lip
+typically run ®rst
+motor output stages
+lateral intra-parietal area
+parietal cortex
+michael
+anatomically distinct sensory
+york university animal care
+developed formal models
+lower eccentric led
+sensory±motor integration
+sensory±motor process14±18
+animals typically performed
+thick black line
+sensory±motor process
+sensory± motor process
+focal depth stimulation
+central stimulus signalled
+stimulus changed colour
+saccadic gaze shifts
+expected gain early
+intraparietal neurons early
+posterior parietal neurons
+thick grey line
+lateral intraparietal area
+= 333
+
+ch980304
+
+estimated
+contemporary neurophysiological models
+single intraparietal neurons
+brain area believed
+eventual saccadic target
+multiple regression analyses
+frontal eye ®eld
+area lip neurons
+correct eccentric led
+motor neurophysiological models
+govern movement dynamics
+movement plans weighted
+guided behavioural studies
+processes remain rooted
+powerful alternative approach
+experimental evidence
+foraging great tits
+human prefrontal cortex
+rational decision making19
+multiple regression analysis
+remaining movementrelated variables
+0 expected gain ratio
+expected gain ratio
+expected gain ratio  0
+saccade aligning gaze
+®ring rates computed
+experiment showing signi®
+reinforcement rates obtained
+sensory±motor processing
+eric von holst
+expected gain modulated
+brain areas believed
+post-attentional sensory data
+000 late cue
+
+1
+late cue
+®rst 20 low gain
+required systematically increase
+cued saccade trials
+¯uences decision processes
+early cue
+economic decision variables
+visually evoked activity
+multiply expected gain
+monkeys shifted gaze
+human motor actions
+late visual
+data con®rm
+ev
+lv
+neuronal responses distinguished
+lip neural activity
+monkey parietal cortex
+current sensory data
+early visual
+single intraparietal neuron
+articles
+
+neural correlates
+intraparietal neuronal activity
+animals make decisions
+signi®cantly
+average ®ring rate
+viewed response selection
+pr
+po
+40 intraparietal neurons recorded
+eye-movement response modulates
+saccade target selection
+motorrelated variables constant
+neuronal response ®eld
+employed decision-theoretic formulations
+firing rate increased
+current environmental contingencies
+saccadic choice trials
+response ®eld increased
+experiment typically began
+®ring rate increased
+varying outcome probability
+®nal random interval
+related directly
+ef®ciency
+motor intention activity
+identi®ed
+intraparietal neuronal population
+behaviourally derived estimate
+perform eye movements
+animal shifted gaze
+decision processes animals
+eccentric stimuli
+powerful alternative framework
+target leds
+actual choices made
+response®eld target
+fruit juice reward
+represent decision variables
+expected gain independently
+monkey initially ®xated
+lf
+subject shifted gaze
+late ®xation
+monkeys performing
+choices subjects make
+choices animals make
+classical decision theory
+decision theory proposes
+attentional modulation
+®ring-rate modulation
+early ®xation
+high correlation
+eccentric stimulus
+mathematical approaches
+ec
+lc
+activation dif®cult
+late cue/visual* 27
+area lip
+central stimulus
+motor planning
+early cue/visual* 40%
+early portions
+150
+ch990322
+
+*
+
+* * ** *
+
+* * * *
+
+*
+
+offset
+visual activity
+eccentric led
+articles
+table 1 percentages
+sensory±motor
+gaze shifts
+identi®cation
+visual display
+visual salience
+visual targets
+visual attention
+visual cues
+visual search
+visual stimuli26
+visual distractors
+decision process
+changed colour
+working memory
+selected papers
+strongly modulated
+visual response
+systematically modulated
+uncertainty early
+stimulus signalled
+motor signals
+cued movement
+central led
+carry information
+regression slope
+00 regression slope 0
+sensory signals
+intraparietal cortex
+sensory-attentional processing
+500 ms
+ch990215
+
+** * * *
+
+*
+
+*
+visual distractor
+lip activity
+neurons showing
+shifted gaze
+saccadic target
+decision-theoretic approach
+late
+nature
+traditional sensory-attentional
+ef
+parietal cortex32
+theoretical treatments
+parietal lobe
+arrows plot
+economic behavior
+individual behavior
+showed signi®
+saccade onset
+sensory processing
+human brain
+neuronal activity
+visual environment
+stimulus served
+trials instructing
+target onset
+100 75 50 25 0 ­500 target onset 500 1
+motor events
+motor commands
+motor systems2
+neuronal data
+von holst
+motor variables
+primate cortex
+cerebral cortex
+brain areas
+brain stimulation
+vertical line
+saccadic initiation
+saccadic targets
+traditional sensory
+sensory attention
+sensory data
+black arrows
+randomly interleaved
+black arrow
+time
+neural signals
+motor plan
+dif®cult
+¯uences attributed
+parietal population
+table 1 shows
+saccadic probability
+decision processes
+decision outputs
+decision rule
+linear regression
+current state
+decision variables
+expected gain
+gain expected
+york university
+40 intraparietal neurons
+20 intraparietal neurons
+intraparietal neurons
+36 intraparietal neurons
+grey arrows
+behaviourally relevant
+light grey
+required modulate
+dark grey
+grey arrow
+con®ned
+environmental contingencies
+prefrontal cortex37
+average velocity
+shift gaze
+gaze shift
+regression slopes
+pen®eld
+movement selection
+identify sensory
+choice targets
+choice frequencies
+choice behaviour
+operant choice
+outcome contingencies
+powerful paradigm
+nervous system
+decision theory
+decision making
+®rst 10 trials
+200 firing rate
+firing rate
+40
+
+*
+
+* ***
+
+*
+
+firing rate
+target inside
+current model
+experiment 2 shows
+response ®eld
+eye-movement commands
+®ndings support
+rational choice19
+von neumann
+modulation
+highest expected
+decision-theoretic models
+animals make
+decision-making process
+®ring rate
+neural activity
+response selection
+correct trials
+brain res
+saccade amplitude
+gain functions
+held constant
+®xation intervals
+®rst 20 high-gain
+100 ms bins
+subjects chose
+subjects reliably
+environmental variables
+models directly10±13
+animals decide
+richer models
+motor-physiological models
+neurobiological models
+models invoke
+animals received
+accurate models
+alternative responses
+neural science
+neural processes
+neural events
+subsequent analyses
+model system
+neuronal activation
+trials began
+neuron increased
+physiological activity
+trial-by-trial activity
+intraparietal population
+chosen movement
+movement chosen
+movement metrics
+equivalent movement
+outcome probability  0
+outcome probability
+random interval
+experiment 1 show
+target uncertainty
+© 1999 macmillan magazines
+functional organization
+theories require
+selective review
+behavioural responding
+natl acad
+independently controlled
+received 30 april
+mcknight foundation
+essentially equivalent
+irrelevant distractors
+histological techniques
+recording session
+ecological biologists17
+single-sample t-tests
+behavioural relevance
+standard electrophysiological
+peripheral positions
+feeding strategies
+200-ms epochs
+rarely address
+preceding 10 trials24
+electrophysiological isolation
+optimal sampling
+technical assistance
+labelled attentional26
+melioration theory23
+recent ®ndings
+energy intake
+¯exive mechanisms6±9
+absolute strength
+encode data
+concurrent performances
+233
+
+© 1999 macmillan magazines
+behavioural readout
+mplatt@cns
+preliminary evidence
+behavioural performance
+port-royal logic
+linear regressions
+focus increasingly
+selective attention
+234
+
+© 1999 macmillan magazines
+optimal foraging
+mapping procedure
+motion perception
+raw data
+coral gables
+modulations induced
+macaca speciosa
+36 data sets
+238
+
+© 1999 macmillan magazines
+237
+
+© 1999 macmillan magazines
+sensory-guided behaviour
+100-ms bins
+temporal shift
+completely irrelevant
+basic patterns
+visuomotor space
+highly relevant
+covert competition
+animals plan
+late
+choice based
+decision-theoretic framework
+®rst experiment
+eye-movement responses
+movement probability
+response targets
+response strength
+preceding 10 trials
+animal subjects
+50±200 eye movements
+movement amplitude
+stored information
+yale univ
+harvard univ
+information encoded
+decision-theoretic model
+prior probability
+slopes generated
+movement plan
+rational decision-maker
+total darkness
+measured epochs
+neurobiological framework
+macaque brain
+intraparietal neuron
+reinforced movement
+task correctly
+freechoice task
+free-choice task
+foraging theory
+oculomotor task
+choices made
+rates
+reinforced equally
+allowed subjects
+animal knew
+models propose
+animal chose
+neural basis
+movement made
+experiment began
+asterisks identify
+subsequent theorists
+instructed movement
+interval plotted
+juice reward
+instructed equally
+choices humans
+visual
+measured interval
+total percentages
+eyemovement responses
+monkey chose
+measured intervals
+intervals measured
+movement velocity
+gain blocks
+instructed response
+originally proposed
+tacitly accepted
+previous experiments
+signi®
+sequential order
+guide behaviour
+physical link
+matching law14
+bernstein reassessed
+explicit representation
+salient elements
+involve processes
+long argued
+stored representation
+single-sample t-test
+critical components
+conceptually separable
+animals choose
+varied systematically
+systematically varied
+total juice
+rewarded movement
+gain
+nature
+connect sensation
+conditions
+reward magnitude
+behavioural estimate
+movement latency
+princeton univ
+cambridge univ
+oxford univ
+models
+nature
+cued
+®lled triangles
+behavioral physiology
+maximally active
+minimally active
+similar manner
+®lled circles
+reinforced responses
+trials rewarded
+interval provided
+physiological study
+choose freely
+ed
+5±7 sequential blocks
+sequential blocks
+successive blocks
+3±7 sequential blocks
+modulated
+platt & paul
+linear relationship
+pre-movement epochs
+reinforcement magnitude
+action exerts
+integrative action
+action affects
+juice delivered
+loss function
+glimcher
+center
+uniquely attributed
+miami press
+lip
+high-gain block
+successively
+presented
+attribute
+performed
+pre-movement intervals
+times
+instructing
+post-movement intervals
+subject made
+decision-making propose
+stimulus
+relative amount
+area
+groups based
+low-gain block
+line
+critical study
+offset
+relative valuation
+slope  1
+recorded
+show
+onset
+correlate
+= 36
+
+®xation
+care
+examined
+colour
+gaze
+saccade
+monkeys
+choice
+91% correct
+85% correct
+powerful
+led
+target
+obtained
+support
+analysis
+expected
+gain
+strongly
+subjects
+200±800 ms
+0±200 ms
+processing
+500±800 ms
+200± 800 ms
+500 ms
+200±0 ms
+200±500 ms
+models
+animals
+outcome
+articles
+20 neurons
+neurons
+36 neurons
+40 neurons
+make
+activity
+choices
+rate
+movement
+illuminated
+correlation
+foraging
+epochs
+proposes
+sample
+data
+1c
+reward
+actions
+behavioural
+represent
+initially
+independently
+modulations
+employed
+processes
+computed
+classical
+intention
+variables
+response
+100 trials
+trials
+univ
+plotted
+information
+probability
+slopes
+total
+amplitude
+reinforcement
+framework
+measured
+plan
+interval
+intervals
+table 1
+making
+theory
+high-gain
+model
+task
+percentages
+reinforced
+animal
+uncertainty
+identify
+population
+subsequent
+evoked
+3a
+attributed
+made
+juice
+instructed
+delivered
+distractor
+responses
+york 10003
+york
+monkey
+estimated
+involve
+order
+separable
+showed
+princeton
+low-gain
+basis
+macaque
+proposed
+allowed
+representation
+experiments
+decision-maker
+matching
+provided
+critical
+cambridge
+amount
+uniquely
+propose
+oxford
+t-test
+velocity
+guide
+link
+elements
+bernstein
+accepted 25
+based
+humans
+argued
+decision-making
+experiment 1
+experiment 2
+experiment
+rewarded
+relative
+sensation
+magnitude
+estimate
+neuron
+active
+latency
+circles
+triangles
+environment
+groups
+similar
+correlated
+physiology
+valuation
+activation
+subject
+block
+study
+choose
+varied
+5±7 blocks
+3±7 blocks
+blocks
+pre-movement 30%
+platt
+pre-movement
+relationship
+action
+movements
+post-movement 15%
+post-movement
+& glimcher
+function
+glimcher
+nature 275
+nature
+nature 389
+nature 386
+nature 391
+nature 366
+nature 355
+press
+limited
+corathers
+consistent
+estimates
+nei
+®nements
+reported
+& hagguist
+chooser
+type
+nichole20
+aligned
+work
+study34
+end
+elicited
+provide
+law
+green
+¯ected
+interpretation
+vol 400
+®nding
+¯exes
+fig
+combination
+effects
+independent
+series
+quantify
+free
+& tversky
+economists
+coding
+top
+percentage
+tool
+neurobiologists
+reinforcement24
+reinforcement23
+project
+classes
+modulatory
+motor-preparatory29±31
+boston
+mind
+-
+acknowledgements
+speiser
+stephens
+participate
+consciousness
+psychologists14±16
+damasio
+brannon
+dorris
+¯ection
+psych
+observer
+result
+kusunoki
+improve
+suggested
+psychologists
+games
+requests
+goodrich
+represented
+26 ml
+aid
+davenport
+losses
+conditioned
+ii
+quant
+maximizing
+academic
+pulliam
+monitored
+weiss
+insensitive
+neurophysiol
+tranel
+www
+battista
+descartes1
+comments
+permitted
+cognition 50
+movshon
+soc
+low-
+pyke
+analyse
+true
+¯ect
+assessment
+asanuma
+handel
+holding
+test
+bottom
+assume
+activated
+computation
+entries
+ml
+upper
+rf 1
+& goldberg
+realizing
+understanding
+appears
+change
+knowledge
+studied
+funded
+trial
+behav
+tasks
+illumination
+09 ml
+mazzoni
+pavlov
+neurophysiology
+cases
+sherrington2
+& wurtz
+trans
+bracewell
+divided
+nyu
+schoener
+inputs
+slovic
+correspondence
+sorted
+hall
+drop
+& krebs
+challenged
+begun
+shown
+investigation
+15 ml
+advice
+possibility
+& newsome
+advance
+arnaud
+basso
+initiate
+omitted
+brains
+¯uenced
+ann
+physiologists
+note
+altered
+investigations
+formulae
+considered
+intercept  2 0
+gazzaniga
+assumed
+proportion
+krebs
+reveal
+monographs 17
+arnauld
+uncorrelated
+materials
+gottlieb
+comp
+jr
+parentheses
+& sparks
+gallistel
+maintained
+computing
+combined
+catania
+situation
+kacelnik
+epoch
+allocation
+05 ml
+researchers
+mones
+aspect
+thinking
+bobbsmerrill
+mystery
+correcting
+identifying
+staddon
+symp
+comparison
+determine
+& hanes
+& herrnstein
+cats
+stars
+anrep
+describe
+examine
+assessing
+figs 3
+figs 1
+important
+massachusetts
+invest
+& anderson
+descartes
+sci
+& taylor
+fall
+difference
+anal
+shadlen
+sum
+kahneman
+compliance
+& motheral
+options
+vis
+establish
+15 july 1999
+& duhamel
+tested
+neurosci
+herrnstein
+synchronized
+model19
+ophthalmol
+goal
+extinguished
+self-differentiation
+committee
+barash
+formulating
+intervene
+& james
+thirty-
+idea
+expect
+pairs
+number
+option
+part
+newsome
+determined
+treated
+deciding
+elsevier
+thought
+extracted
+approved
+described34
+exp
+colby
+gains
+set
+art
+decision-related28
+recently
+usa 93
+sensitive
+connection
+point
+reasons
+ecologists
+systematic
+receive
+vol
+baseline
+prerequisite
+indianapolis
+entry
+alignment
+dissociation
+location
+transformation
+judgement
+sherrington
+decisionmaking
+strongest
+describing
+proc
+neurobiology
+biol
+best-®
+dickoff
+reconcile
+transl
+whiting
+results
+classic
+include
+manipulated
+categories
+concluded
+index
+degree
+involved
+addressed
+names
+usa
+ecol
+account
+& andersen
+averaged
+& vaughn
+assumptions
+high-
+ambiguous
+realized
+advocated
+lines
+gnadt
+including
+bernoulli
+front
+realize
+devilliers
+rev
+red
+florida
+manuscript
+precisely
+& charnov
+man
+haven
+treatise
+& morgenstern
+goldberg
+& nichole
+studying
+class
+volume
+fact
+syst
+abstr
+procedures
+®xating
+correlations
+pattern
+& sakata
+ability
+hypothesis
+1982 transl
+limits
+maximize
+cr
+saccade34
+¯uence
+bull
+sequentially
+birkhauser
+command
+coordination
+match
+tests
+increases
+schall
+works
+choosing
+manipulations
+e-mail
+analysed
+assess
+snyder
+& munoz
+subjective
+cells
+variations
+frequency
+hz
+periods
+detail
+conclusion
+variation
+portion
+bechara
+349
+291
+10%
+216±220
+056
+7015±7026
+96
+1990
+1993
+1992
+1994
+1997
+1996
+1999
+1998
+75 0
+481±484
+40%
+407
+436± 444
+372
+242
+17%
+061
+25 0
+1966
+1967
+1961
+1963
+628±633
+267±272
+69%
+02
+03
+00
+01
+07
+04
+05
+27±31
+25%
+¯
+®
+1979
+1978
+1976
+1975
+1973
+1972
+1971
+1±96
+55
+52
+5%
+055
+100 75 50 25 0 0
+64 8
+66±69
+428±437
+152
+158
+15%
+542±545
+1574±1589
+1944
+0
+432
+236
+1
+144
+098
+24 18 12 6 0 0
+77±119
+100%
+2
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+1927
+12 0
+204
+167±170
+3
+21
+50 0
+6%
+187±188
+217
+4
+62
+1738
+75%
+5
+2 0
+016
+19%
+90%
+1941
+5 1
+24 18 12 6 0
+1906
+6
+00 0
+= 333
+
+1
+40 20 0 0
+24
+25
+26
+27
+20
+22
+23
+28
+29
+7
+183
+180
+181
+187
+000 1
+77
+76
+75
+72
+70
+78
+467±469
+8
+= 329 0 0
+200 150 100 50
+= 363
+0
+39
+32
+9
+001
+89%
+004
+008
+767
+67%
+151±170
+30%
+137±154
+116
+95%
+012
+718
+1662
+369±404
+33
+31
+30
+37
+36
+35
+34
+729±739
+000
+
+1
+131
+0 0
+025
+027
+89
+83
+80
+86
+87
+85
+65%
+322
+326
+031
+143±176
+1457±1464
+1131±1153
+35±54
+35%
+45
+28%
+299±300
+62 8
+263
+1986
+1984
+1982
+1980
+1988
+56%
+0001
+48
+1562
+47%

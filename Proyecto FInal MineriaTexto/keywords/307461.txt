@@ -1,0 +1,243 @@
+Feedforward
+represent
+computational analysis
+Bioessays
+feedback
+`feedforward
+hierarchy
+deactivated
+degradable
+algorithm13
+Microbiology
+Shen-Orr1
+Hopfield
+computation
+participate
+standard average-linkage
+cellular regulation
+alternative
+Molecular
+clustering approach
+feedforward
+Foundation
+metabolic19
+knowledge
+represent transcriptional
+microarray
+Jaakkola
+similarity
+Computational identification
+`coherent
+L-arabinose utilization
+clusters
+Emergence
+Neidhart
+Received
+fluctuating
+insensitive
+overlapping regulation
+combination
+Savageau
+different clustering
+possible
+Analysis
+Simulation
+Algorithms
+Cellular
+Salmonella
+activation threshold
+effector
+incoherent
+uncharacterized
+Washington
+stringent comparison
+specific
+sequence analysis
+auto-regulatory
+splitting distance18
+single-input
+biological
+stationary
+regulation networks
+Statistics
+financial
+occurrence
+metabolic
+generating bipartite
+`network
+autoregulation
+frequency
+choosing
+invaluable database
+dynamics
+Structures
+recognition
+`specific transcription
+`AND-gate'-like
+intracellular regulatory
+multi-input
+repression
+arbitrary
+iMrandij
+Hartwell
+Markov-chain algorithm21
+overlapping interactions
+specific transcription
+approach
+Escherichia
+available
+homology
+transcriptional regulation
+Transcriptional interaction
+Thieffry
+anaerobic metabolism
+possibility
+understanding
+biosynthesis
+large-scale organization
+additional transcription
+autoregulatory interactions
+Published
+regulatory
+autorepression
+detecting
+Typically
+interests statement
+comparison
+connectivity
+Generation
+determining
+prokaryotic
+specific promoter
+`effector
+extensive literature
+randomized connectivity
+Dynamics
+expression
+experimental
+otherwise
+established interactions
+post-transcriptional
+cell-cycle
+corresponding randomized
+long-lived
+probability
+Additional
+effective
+cis-regulatory elements
+randomized networks
+functional
+Incoherent feedforward
+randomized
+meaningful combinatorial
+Tavazoie
+guideline
+flagella
+flagella biosynthesis
+Davidson
+combinatorial interactions
+Exploring
+computational elements
+comparing
+epigenesis
+Collado-Vides
+Mathematical analysis
+transcriptional networks
+`multi-input
+biological networks7
+1Department
+different transcription
+generating temporal
+molecular
+contiguous
+Supplementary information
+generating
+different combination
+corresponding
+RegulonDB
+subgraph
+amino-acid biosynthesis
+cascades3
+Hengge-Aronis
+Transcriptional feedback
+overlapping
+visualizing
+Barabasi
+Kauffman
+transcription interactions
+abundance
+rejection
+Consider
+exponential
+Characterization
+circuits
+autoregulatory
+information processing
+arabinose feedforward
+considered
+temporal expression
+transcriptional interactions
+Likewise
+distribution
+Hartemink
+Different
+jMrandij
+Publishing
+2Department
+homogenous
+Metabolic stability
+`ANDgate'­like
+disjoint
+Regulation
+Weizmann Institute
+statistical significance
+Perez-Rueda
+activity
+Acknowledgments
+complete
+Correspondence
+information
+different
+Classification
+transcription
+Survival
+combinatorial regulation
+mechanism
+negative/positive
+specific functions
+Shmoolik
+additional transcriptional
+activator
+interpretable
+Structure
+simulation
+transduction
+multiple
+assignment
+transient activation
+Markov-chain
+collection
+mathematical analysis
+polymerase
+important
+allowing
+significant
+organization
+nonmetric
+best-characterized regulation
+sigmoidal
+structure
+building
+timescale
+enumerating
+algorithm
+database
+whenever
+partition
+graphical
+complexity
+identical regulation
+Competing interests
+shut-down
+representation
+Strogatz

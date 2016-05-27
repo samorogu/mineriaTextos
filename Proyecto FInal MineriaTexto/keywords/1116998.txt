@@ -1,0 +1,396 @@
+represent
+Stolovitzky
+similarity
+logðpðxk
+specific pre-processing
+simulated networks
+visualization
+computation
+Department
+perturbations
+environment
+undirected
+endogenous
+advantage
+ca/osprey/servlet/Index
+activation
+influence networks
+specific condition
+expression measurements
+Steegenga
+gene-to-gene interaction
+Reference
+Sensitivity
+algorithms Clustering
+standard deviation
+biological
+different reverse-engineering
+deterministic algorithm
+consistent
+approximation
+steadystate
+Available
+Hierarchical clustering
+availability
+experiment
+reconstruction
+Evaluator
+consisting
+Categories
+non-linear
+respectively
+hierarchical clustering
+behaviour
+principal limitation
+Biotechnol
+experimental treatment
+consideration
+Computational
+coexpressed
+networks formalism
+two-hybrid
+significance threshold
+Vincenzo Belcastro3,5
+modifying
+Therefore
+inferring interactions
+Evaluation
+CLUSTERING
+Transcriptional regulatory
+confidence
+Nonetheless
+perturbation experiments
+Bioinformatics
+Neuroscience
+in-degree
+reverse-engineering algorithm
+Brazhnik
+reverse-engineered
+Dalla-Favera
+acceptable
+adjacency
+high-scoring networks
+Expression
+Similarity
+independent variables
+regulation Introduction
+probable regulatory
+`reverse-engineer
+Thompson
+D'haeseleer
+=1A+2B+3C
+absolute
+outputfile
+genome-wide
+parameter
+information relevance
+description
+replacing
+deterministic approach
+systems-biology
+Vannucci
+chromatin immunoprecipitation
+different mathematical
+dynamical
+overexpression
+software/banjo
+complexity
+perturbing different
+NIR/MNIa Download
+restriction
+feedback
+PðAjjBÞ
+clustering approach
+Reverse-engineering algorithm
+interesting
+inference Hierarchical
+Facciotti
+Bussemaker
+Experimental
+derivative
+mammalian cellular
+information-theoretic approaches
+Cytoscape
+reverse-engineering algorithms
+`influence interaction
+Cell/organism HumanBcells
+Alternatively
+Bansal1,2,5
+compound
+Wojtovich
+Inferring
+capability
+realistic
+right-hand
+inequality
+physical approach
+influence interactions
+Tavazoie
+physical interaction
+Discovery
+Biocomput
+transforming
+independence
+interactions
+University
+gene-to-sequence interaction
+regulators
+Influence interactions
+definition
+`improper
+identifying interactions
+different perturbation
+time-series experiment
+information-theoretic networks
+probability
+variables
+non-informative
+Shoemaker
+clustering algorithms
+Thorsson
+java-jar
+biomolecular interaction
+occupancy
+transcriptional perturbations
+Dechering
+assumption
+compromise
+genome-wide transcription
+molecular
+practical application
+identifcation
+representing
+Information-theoretic
+regulatory interactions
+appropriate algorithm
+Eastwood
+Information
+Zeitlinger
+Generally
+realistic behaviour
+mde-hoon/software/cluster
+time-series `dynamic
+multi-step approach
+different reverseengineering
+correlation coefficient
+transcription
+genome-wide expression
+performance
+accuracy
+Functional discovery
+networks algorithms
+Reverse-engineering transcription
+steady-state
+experimental analysis
+rationale
+Bar-Joseph
+Spellman
+transcript
+observation
+high-throughput
+principle
+`physical interaction
+incomplete
+Nine-gene
+selection
+Ambesi-Impiombato1,4
+Time-series
+identifying functional
+visualisation
+compound treatment
+networks
+causality
+knowledge
+parameters
+expression measurement
+PðBjjAÞ
+equilibrium
+Gachotte
+Proposer/
+reverseengineering algorithms
+differential
+activity
+Networks
+additional information
+predictive
+requirement
+Hartemink
+sensitivity
+Performance
+targets+11
+Reverse-engineering algorithms
+interacting
+dibernardo
+complementary
+symmetric
+identification
+information-theoretic approach
+climbing approach
+clustering algorithm
+approach
+discovery
+available
+comparable
+transcriptional regulation
+importance
+vanishing
+hypothesis
+cerevisiae HumanBcells
+topology
+inferelator
+improved
+optimisation
+protein­protein interaction
+particular interaction
+time-series expression
+`reverse-engineering
+estimation
+expression
+experimental
+generalisation
+Discussion
+Artificial
+probability distribution
+normalisation
+self-feedback
+objective comparison
+inference algorithms
+expensive
+represent statistical
+Stoughton
+Predicting
+replicate
+direction
+Schwikowski
+sufficient
+Stepaniants
+understand
+`influence interactions
+Software
+approaches represent
+engineering
+transcript concentration
+Supplementary
+identifying compound
+situation
+different algorithms
+microarrays
+comparative
+pertrurbation
+regression
+observational biological
+ODE-based approaches
+Statistical mechanical
+microarray
+conservative threshold
+schematic
+modification
+downregulation
+development
+independent
+literature
+Institute
+mathematical formalism
+`Federico
+Information-theoretic approaches
+compendium
+Inference
+graphical
+inference algorithm
+analysis
+simulated
+quantitative
+probabilistic algorithm
+sffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+greedy-hill climbing
+Abbreviations
+linearregression
+expression microarrays
+semiquantitative
+imperfect knowledge
+Molecular
+homeostasis
+heuristic
+ODE-based algorithms
+relevance
+conditional probability
+algorithm performance
+`integrative
+identical
+physical interactions
+inhibition
+intersection
+advanced
+necessary
+identifying
+relevance networks
+exploiting
+performing
+informative
+forty-four
+time-series
+Ciaramella
+microarray experiment
+approaches Information-theoretic
+metabolic
+`network
+conditional
+Application
+heuristic approaches
+steady-state experiments
+Dirichlet equivalence
+Deniskina
+repression
+measuring
+Coexpression networks
+Breitkreutz
+assessing algorithm
+comparison
+extension
+simulation
+practical
+steady-state-simulated microarray
+parsimonious regulatory
+computational
+Castellino
+geneexpression
+absolute regression
+perturbing
+Identification
+false-positive
+Flowchart
+Increasing
+single-target
+probabilistic
+Condition
+synthesis
+considerably
+information Supplementary
+Interestingly
+Bioinform
+applying
+Proposer
+osteoblast differentiation
+Supplementary information
+perturbation experiment
+time-series reverseengineering
+regulatory networks
+Publishing
+Depending
+generating
+Montecarlo
+Tagliaferri
+Processing Inequality
+influence approach
+reverse-engineer
+interested
+Chakraburtty
+February
+Chemogenomic profiling
+important
+pathways
+extracting information
+structure
+algorithm
+PðD=GÞÃPðGÞ
+time-series-simulated microarray

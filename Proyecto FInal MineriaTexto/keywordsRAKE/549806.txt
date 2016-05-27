@@ -1,0 +1,1725 @@
+decision variables vector p1 p2 p3 p4 p5 p6 p7 p8 p9 p10 p11 p12 p13 p14 p15 p16 p17 p18 p19 p20 p21 p22 p23 p24 p25 p26 p27 p28 p29 p30 p31 p32 p33 p34 p35 p36 0
+1 1 1 1 1 1 1 1 1 1
+
+parameter v1 ki1 ni1 ka1 na1 k1 v2 ki2 ni2 ka2 na2 k2 v3 ki3 ni3 ka3 na3 k3 v4 k4 k4 v5 k5 k5 v6 k6 k6 kcat1 km1 km2 kcat2 km3 km4 kcat3 km5 km6
+vector p1­p4 p5­p8 p9­p12 p13­p16 p17­p20 p21­p24 p25­p28 p29­p32 p33­p36 0
+k5 e2 = dt k5 + g2 de3 v6 g2
+k4 e1 = dt k4 + g1 de2 v5 g2
+ka2 m1 + ka3 m2 +
+
+na1
+m1 m2 1+ + km3 km4 kcat1 e1 1 m1
+biochemical pathways
+
+dg1 = dt dg2 = dt dg3 = dt
+
+v1 1+
+k6 e3 = dt k6 + g3 dm1 = dt 1
+m2 km3 m1 m2 1+ + km3 km4 1 m2
+org/cgi/content/full/13/11/2467#otherarticles
+
+email alerting service
+
+receive free email alerts
+1+ + km5 km6 kcat2 e2
+ki3
+ni1
+
++
+
+ka1
+v3 1+
+ni3 na3
+v2 1+
+ni2 na2
+m1 1+ + km1 km2 1 m1
+cold spring harbor laboratory press issn 1088-9051/03 $5
+cold spring harbor laboratory press
+
+methods
+
+parameter estimation
+cold spring harbor laboratory press
+
+parameter estimation
+org/subscriptions/
+
+© 2003 cold spring harbor laboratory press
+
+downloaded
+kcat3 e3 km5
+m2 kcat2 e2 km3
+xup = xu maxfunevals = 3000n2
+
+2468
+
+genome research
+www
+cold spring harbor laboratory press
+
+moles
+= 10 3 kl = 1 k2 = 1/2 maxfsd = 4 ues
+genetic algorithms + data structures = evolution programs
+generalized individual step-size control approach independent
+de1 v4 g1
+k3 g3
+dashed arrows represent kinetic regulation
+k1 g1
+solid arrows represent mass flow
+m1 km1
+k2 g2
+rationally design improved metabolic pathways
+ki2
+ki1
+computer simulation versus analytical solutions
+steady-state chemical engineering optimisation problems
+considerable mag-
+
+2472
+
+genome research
+www
+wastewater treatment plant case study
+55 gblsolve eps_x = eps_f = 10 iterations = 1500
+4
+
+cma-es
+inverse problem
+parameter estimation problems
+nonlinear biochemical dynamic model formed
+decision variables vector
+simulated data represent exact results
+objective function versus computation time
+wastewater treatment plant model
+arrow ends represent activation
+global optimization methods
+global optimization methods
+mixed integer non-linear programming problems
+org/cgi/content/full/13/11/2467#references article cited
+hard parameter estimation problems
+ferent initial decision vectors
+suitable simulation modules opens
+multistart local
+
+2470
+
+genome research
+www
+derandomized covariance matrix adaptation
+instituto de investigaciones marinas
+discrete decision variables
+global optimization ultimately rely
+nonlinear dynamic biochemical pathways
+natural phenomena taking place
+sound theoretical convergence properties
+multilevel coordinate search algorithm
+parameter estimation problem
+real valued search spaces
+-es evolutionary optimization algorithm
+rigorous global optimization algorithm
+algebraic equality constraints describing
+web site references
+http
+adaptive random search methods
+local optimization methods fail
+global optimization methods
+carmen
+nonlinear biochemical dynamic model
+adaptive random search method
+originally published online oct 14
+default line search algorithm
+procedure ensures good efficiency
+similar physically inspired methods
+decision vector
+arbitrary starting vector
+methods combining deterministic approaches
+gepasi biochemical simulation package
+decision variables
+final cost function values
+direct global optimization algorithm
+output state variables
+recent global optimization studies
+traditional local optimization methods
+stochastic global optimization methods
+parameter estimation
+450 varphi = 1 icrs search parameters
+stochastic global ¨ optimization algorithms
+safeguarded mixed quadratic
+competitive stochastic optimization method
+differential state variables
+biochemical pathways
+
+nitudes
+modeling large biological systems
+evolutionary
+
+figure 2 convergence curves
+multilevel coordinate search
+adaptive random search
+org
+
+genome research
+www
+metal takes place
+global optimization methods sres
+evolutionary computing methods generate
+weak theoretical guarantees
+figure 4 m2 predicted
+biochemical modeling community
+biochemical simulation package
+controlled random search
+solution vector shown
+pure adaptive search
+promote functional understanding
+log­log scales
+constraint handling technique
+platform running windows 2000
+express additional requirements
+kluwer academic publishers
+exhibit nice properties
+icheme symposium series
+mcyt project agl2001-2610c02-02
+low-cost pc platforms
+cubic polynomial interpolation
+blunt ends inhibition
+equivalent compiled fortran
+kluwer academics publishers
+smax = 370 nf = 600 n2
+addison wesley longman
+5th european congress
++ 2000 iinit = 3
+algorithms sres search parameters
+dm2 = dt
+integrated process design
+reasonable wallclock time
+multistart local search
+larger overhead introduced
+ant colony optimization
+3
+process engineering group
+functional genomic data
+42nd sims conference
+nonlinear dynamic model
+process dynamic model
+badly scaled functions
+weighted distance measure
+compiled fortran-77 module
+telemark university college
+ordinary differential equations
+revised form july 22
+computational effort required
+computational effort increases
+huge computational effort
+nonlinear process model
+needed computation time
+running es-based methods
+particle swarm methods
+exclude sa-based methods
+system dynamic simulation
+nonlinear dynamic systems
+handle black-box models
+figure 5 e1 predicted
+similarly recent mcs method
+reported cpu time
+tight convergence criteria
+larger computation time
+adaptive stochastic methods
+biochemical evolution studies
+objective function evaluation
+initial global phase
+local methods started
+standard local methods
+stochastic dynamic optimization
+2474
+
+genome research
+www
+genome research
+www
+standard levenberg-marquardt method
+predicted theoretical evolution
+erk signalling pathway
+final refined solution
+trial vector
+multistart local methods
+allowing careful comparisons
+penalty functions automatically
+suitable parallel versions
+messenger rna species
+national science foundation
+2virginia bioinformatics institute
+18 usc section 1734 solely
+dynamic optimization problems
+internal search parameters
+search parameters utilized
+objective function values
+local method repeatedly
+obtain near-exact results
+inverse problems plays
+>300 random initial points
+global optimization methods
+so-called multistart strategy
+neval cpu time
+stochastic global optimization
+evolutionary computation methods
+so-called global optimization
+guarantee global optimality
+optimization problem consists
+earlier study reflected
+nonlinear programming problem
+fixed initial values
+handle inequality constraints
+virginia polytechnic institute
+e-mail julio@iim
+pc/pentium iii 866 mhz
+european control conference
+socalled inverse problem
+biologically inspired methods
+numerical optimization methods
+optimization environment tomlab
+tomlab optimization environment
+reported poor performance
+large computational effort
+dynamic link library
+model metabolic pathway
+unconstrained evolution strategy
+differential equality constraints
+evolutionary algorithms approach
+accessed free
+pergamon press
+ieee press
+mit press
+constrained evolutionary optimization
+g3 represent
+combinatorial optimization problems
+local = 15 de vtr = 0
+global optimization problem
+8 state variables
+larger inverse problem
+optimization toolbox user
+purely heuristic methods
+time icrs stopped
+matlab optimization toolbox
+article cites 22 articles
+adaptive stochastic presented
+nonlinear differential-algebraic constraints
+third-party software package
+wij = {1/max[yexp
+alternative evolutionary algorithm
+modest computation times
+evolution strategy method
+total computation time
+population-based stochastic methods
+decision
+
+justification
+differential evolution method
+local solutions obtained
+= 8000 lambda = 350 µ = 30 varphi = 1 mcs
+parallel problem solving
+article published online
+competitive es methods
+biochemical pathways
+dt
+= 0 dt
+equally good result
+extremely popular class
+optimal control problems
+good reported results
+concentrations m2
+gblsolve methods present
+local solutions found
+deterministic methods gblsolve
+imperfect solution obtained
+optimization theory appl
+good performance dealing
+decision based
+lower bounds acting
+figure 6 relative error
+robust numerical strategies
+popular ec methods
+random search
+matlab programs
+vector
+¨ local search
+integer constraints
+evolutionary search
+dynamic optimization
+genome research
+local procedure
+non-linear optimization
+random optimization
+nonlinear programming
+69
+
+objective function
+metabolic engineering
+default algorithm
+experimental data set
+biochemical systems
+m1
+signaling pathways
+variables
+programming effort
+chemical processes
+engineering design
+computation time
+global optimization
+evolutionary programming
+random methods
+dynamic models
+evolutionary computation
+algebraic constraints
+pc/pentium iii
+36 kinetic parameters
+nominal values considered
+multistart methods
+convergence properties
+biochemical reactions
+combinatorial optimization
+genetic algorithms
+function evaluation
+g2
+local solutions
+taboo search
+direct algorithm
+global optimality
+global solutions
+decision
+9856
+
+computation methods
+computational methods
+guarantee optimality
+evolution strategy
+m2
+coordinate axes
+predicted data
+main objective
+numerical form
+penalty functions
+suitable gateways
+tomlab library
+non-linear bio-processes
+physical phenomena
+handles nonlinear
+databased modeling
+unconstrained functions
+design problems
+competitive algorithms
+stochastic algorithm
+convergence curves
+population-based approach
+optimization problems
+evolutionary algorithms
+tomlab environment
+simulated evolution
+cost function
+inverse problems
+initial points
+evolutionary strategies
+finite time
+local optimum
+local nature
+local optima
+local enhancements
+stochastic methods
+¨ stochastic methods
+computer science
+computer meth
+hessian matrix
+competitive representatives
+optimization runs
+practical optimization
+optimization problem
+lipschitz optimization
+mathematical optimization
+coupling optimization
+lipschitzian optimization
+recent methods
+banga genome res
+earlier study
+evolutionary experimentation
+inequality constraints
+function evaluations
+global step
+global minimizer
+global optimum
+global opt
+continuous spaces
+pseudoexperimental data
+microarray data
+probabilistic approaches
+control engineering
+computational engine
+originally devised
+mediterranean conference
+inverse problem
+gblsolve methods
+biological evolution
+multistart code
+direct method
+random-search algorithm
+performing algorithm
+sqp algorithm
+bubble-sort algorithm
+stochastic algorithms
+evolution strategies
+predicted values
+experimental design
+deterministic approaches
+differential evolution--
+initial concepts
+random elements
+optimal control
+natural computing 1
+articles cite
+resulting module
+numerical schemes
+irreversible inhibition
+generated vectors
+model prediction
+recent method
+stochastic strategies
+artificial evolution
+evolution strategies--
+simulated annealing
+local minimum
+gradient methods
+methods
+statement
+clustering methods
+dynamic behavior
+abovementioned solutions
+satisfactory solutions
+convenient environment
+experimental data
+state university
+// www
+differential-algebraic constraints
+stochastic ranking
+software package
+relative efficiency
+population-based extensions
+starting points
+artificial systems
+differential-algebraic systems
+recent years
+economic models
+nonstiff systems
+inequality path
+sufficiently hard
+lower bounds
+continuous line
+large problems
+good correlation
+case studies
+global solution
+global optim
+de algorithm
+quick convergence
+convergence rates
+computation times
+deterministic methods
+scientific computing
+cluster computing
+soft computing
+gblsolve runs
+grid computing
+selected methods
+methods selected
+experimental measure
+detailed study
+icrs algorithm
+ec methods
+e2
+error values
+biological processes
+selected stochastic
+test problems
+challenging problems
+practical problems
+good results
+initial concentrations
+originally developed
+comparative performance
+superior performance
+system performance
+quasi-newtonian method
+figure 3 method
+method introduces
+extrapolation method
+ms-fmincon method
+reliable method
+es methods
+threestep pathway
+three-step pathway
+pathway substrate
+systems level
+recent techniques
+references
+ali
+sres methods
+ues methods
+matlab environment
+bound constraints
+point constraints
+case study
+preliminary runs
+promising alternatives
+measurement noise
+section outlines
+constrained nature
+pseudoexperimental measurements
+main reasons
+figure 3 shows
+acofop iv
+van laarhoven
+increasing efficiency
+spanish government
+comprehensive introduction
+executed starting
+iteratively creating
+optimum seeking
+machine intelligence
+perform satisfactorily
+popular belief
+machine learning
+financial support
+page charges
+hill coefficients
+e1
+recent version
+systems biology
+mathematical problem
+nature--1st workshop
+np = 450 itermax = 5000
+key role
+fax 34-986292762
+present technologies
+require transformation
+nucleocytoplasmic cycling
+grants bes0120306
+seeking maxima
+hiv proteinase
+xlow = xl
+mrna species
+slightly modified
+stable configuration
+atoms adopt
+problem size
+main advantages
+bfgs formula
+extra confidence
+verlag maing
+simplest attempt
+yexp represents
+frequently ill-conditioned
+ieee css
+sun microsystems
+automatic switching
+successfully applied
+t0 = x0
+original domain
+automatic control
+rate constants
+remote control 26
+topic deserves
+repeated determination
+systematized collection
+personal experience
+ieee trans
+implementation issues
+named ms-fmincon
+applied mathematics
+received february 12
+lower bound
+introductory analysis
+important advances
+cellular signaling
+main characteristics
+convex underestimators
+lipschitz constant
+1101/ gr
+greatly facilitate
+problem successfully
+remote sensor
+undesired by-products
+information arising
+original problem
+challenging nature
+increasing amount
+artificial intelligence
+greater complexity
+larger set
+nominal values
+authors obtained
+detailed results
+excellent results
+present state
+org
+
+2467
+
+downloaded
+org
+
+2473
+
+downloaded
+org
+
+2469
+
+downloaded
+org
+
+2471
+
+downloaded
+org
+
+downloaded
+stochastic approximation
+continuous problems
+state-of-the-art deterministic
+solutions found
+wij corresponds
+relative differences
+= 1
+
+wij ypred
+good scaling
+36 remaining parameters
+sres method
+results obtained
+ues method
+intelligent techniques
+original code
+pure gas
+complexity level
+popular class
+theory appl
+greater level
+methods based
+methods provide
+algorithms tested
+estimation
+interesting products
+lecture notes
+true story
+easily prototyped
+constant concentrations
+practical point
+ode solvers
+metabolite concentrations
+easily extensible
+latest version
+published performance
+natural selection
+matlab making
+large dimensionality
+experimental results
+correct solution
+traditional gas
+past presented
+methods implemented
+minimum obtained
+published recommendations
+steady states
+system simulations
+main reason
+slow cooling
+publication costs
+black box
+roughly classified
+worth noting
+made recently
+mathematical modelling
+springer verlag
+species involved
+semicontinuous bioprocesses
+selected sres
+remarkable result
+implementation details
+system dynamics
+solution obtained
+benchmark problems
+consistently shown
+large number
+balanced selection
+solution techniques
+simulation
+gradientbased solver
+mathematical formulation
+experiment generation 0
+realistic applications
+tf 0
+
+1
+
+ymsd
+math works
+biotechnology prog
+solve general
+early stop
+successfully solve
+important applications
+made based
+qualified representative
+discussion section
+¨ problem classes
+matlab solvers
+predefined number
+chosen parameters
+efficient heuristic
+problem subject
+biochemical
+e3
+major drawback
+fmincon code
+g3
+aided chem
+moles
+including es
+ues presented
+costly part
+1 pedro mendes
+pedro mendes
+g1
+estimated parameters
+table 3 shows
+table 1 shows
+interesting result
+sres optimizer
+fair comparison
+true dynamics
+search
+solution found
+simply comparing
+objective
+clear sign
+iterations
+mass
+nonlinear
+contribution considers
+adaptation
+considered matlab
+intermediate metabolites
+time
+1262503
+
+references
+matrix
+optimization
+function
+global
+computation
+data
+equality
+efficient implementations
+algorithm
+approach
+package
+reported
+initial
+studies
+similar
+differential
+model
+evolution
+downloaded
+methods
+solutions
+www
+constraints
+stochastic
+predicted
+systems
+hard
+traditional
+recent
+so-called
+866 mhz
+good
+convergence
+06 gblsolve 1179
+gblsolve
+inspired
+natural
+study
+algorithms
+values
+biological
+problems
+cost
+performance
+large
+method
+pathway
+similarly
+popular
+error >16%
+versions
+bounds
+dealing
+theory
+bioinformatics 14
+heuristic
+real
+section
+species
+solving
+acting
+generate
+alternative
+link
+allowing
+neval
+differential-algebraic
+control
+yexp
+system
+constrained
+control 2
+efficiency
+problem
+present
+science 220
+figure 1
+figure 2
+figure 6
+starting
+obtained
+article
+genome
+results
+state
+deterministic
+selected
+mcs
+31 mcs 364
+cma-es
+ec
+case
+41 cma-es 37
+20 parameters
+parameters 1
+36 parameters
+parameters
+techniques
+0 10 nominal
+nominal
+level
+code
+software
+appl
+class
+experimental
+es
+julio
+total
+user
+27 de 151
+continuous
+de
+bound
+virginia 24061
+true
+interesting
+= 36 lambda = 15 µ = 7
+sres
+virginia
+concentrations
+version
+minimum
+easily
+solvers
+point
+robust
+= 8000 lambda = 350 µ = 30
+notes
+res
+biology
+matlab
+42 ues 0
+ues
+¨ matlab
+solution
+03 icrs 183
+gepasi
+optim
+icrs
+times
+presented
+published
+fmincon
+approximation
+noting
+springer
+classified
+optimizer
+result
+contribution
+differences
+simulations
+dimensionality
+sign
+box
+scaling
+cooling
+bioprocesses
+metabolites
+considers
+comparing
+tested
+states
+developed
+reason
+clear
+recently
+corresponds
+simply
+elements
+generated
+ypred
+dynamics
+involved
+including
+chosen
+publication
+details
+modelling
+found
+shown
+org
+estimated
+selection
+solver
+implementations
+provide
+classes
+stop
+ymsd
+prog
+applications
+considered
+= 0 stop
+ali
+solve
+representative
+behavior
+experiment
+discussion
+math
+intermediate
+based
+formulation
+number
+efficient
+drawback
+chem
+gas
+= subject
+benchmark
+subject
+http
+set
+mendes 1993
+mendes 2001
+mendes
+part
+table 3
+table 2
+table 1
+table 4
+banga
+¨ banga
+implemented
+comparison
+systematic
+yao 2000
+odepack
+oldest
+viitanen
+cma
+estimates
+october 2003
+------
+errors
+told
+represented
+schwefel 1995
+guus
+äck 1996
+äck 1991
+assessment
+gothenburg
+berlin
+ma
+work
+hansen
+give
+walsh
+worse
+eng
+minimized
+types
+recombination
+order
+vary
+satisfied
+murray
+london
+owens
+fit
+exhibits
+production
+fig
+eventually
+time-invariant
+combination
+netherlands
+barton
+gutierrez
+estimate
+muller
+created
+balsa-canto
+researcher
+illustrate
+variational
+grossmann 1996
+äck
+alonso
+10+12
+16 sets
+globus
+corne
+mind
+meta-heuristics
+singer
+doi
+dif-
+
+13
+principle
+heuristics
+rubinstein 1969
+ending
+dx
+covering
+acknowledgments
+zabinsky
+1960s
+//www
+terms
+costa
+extent
+improve
+essentially
+adapted
+runarsson
+basin
+goulcher
+balance
+launched
+perttunen
+make
+permutation
+action
+kim
+fittest
+identify
+kell
+similarities
+regarded
+survival
+¨ guus
+converged
+skjoldebremd
+36208 vigo
+2467-2474
+acad
+ostermeier
+/
+minimization
+limitation
+misleading
+ensure
+presence
+amsterdam
+resulted
+medium
+attempted
+0 pu
+lncs
+absent
+type
+dordrecht
+0109 28e5 41
+check
+reality
+intend
+kitano
+jones
+floudas
+basically
+foundations
+finally
+hindmarsh 1983
+änner
+anonymous
+solved
+upper
+slower
+sequential
+attrans
+groups
+address
+bok
+fogel
+domains
+plotted
+marked
+marker
+surmount
+neumaier
+handled
+sake
+gellatt
+outputs
+avoiding
+arrive
+rechenberg
+weighting
+allowed
+jones 2001
+normalize
+divided
+product
+explored
+designed
+improving
+stress
+beyer
+representation
+sa
+find
+experiments
+porsgrunn
+torn
+vicinity
+attraction
+norway
+evol
+term
+holland 1992
+proteins
+possibilities
+ep
+goteborg
+pinter
+assurance
+mechanisms
+brooks
+mcferran
+turn
+origin
+ppsn 1
+adjiman
+structured
+swameye
+brevity
+inefficient
+pardalos
+kirkpatrick
+16 experiments
+accordance
+sentievio
+grossmann
+nlp-daes
+ideas
+note
+darwin 1859
+romeijn
+price
+surprising
+rinnooy-kan
+nlp
+merit
+hindmarsh
+corner
+self-adaptation
+expects
+brooks 1958
+reveal
+paper
+review
+timmer ¨ 1987
+tuy
+csic
+nonconvex
+46416 element
+shin
+capable
+combined
+figures 4
+rubinstein
+vecchi
+1101/gr
+unsatisfactory
+orientation
+st = 6
+technology
+author
+org/cgi/doi/10
+-cma-es
+ness
+driven
+devoid
+advertisement
+implements
+minimize
+schwefel 2002
+rest
+oxford
+underline
+porto
+holmstrom
+accepted
+superiority
+reidel
+mcgraw-hill
+seconds
+aco
+4­7 september
+op
+cambridge
+idea
+robustness
+natick
+holmstrom 1999
+describe
+al
+examine
+spite
+stepleman
+hybrid
+saravanan
+included
+nelson
+sci
+ts
+spain
+5e5 46
+springer-verlag
+pinter 1996
+contrast
+tuy 1990
+hours
+lsoda
+klingmuller
+compare
+pf = 0
+stated
+kolch
+possibly
+wiley
+derived
+reflect
+enzymes
+pay
+held
+avenue
+rapidly
+timmer
+food
+smith 1992
+oliveira 2001
+print
+fogel 2000
+earliest
+boender
+exponentially
+consequence
+top
+daes
+horst
+storn
+determined
+treated
+comput
+euca
+nonseparable
+majority
+finding
+measures
+experiences
+sandra
+holmstrom 2001
+converge
+minimizing
+excessive
+simulating
+indust
+failed
+distributes
+closely
+crs
+north-holland
+glover
+wrote
+art
+lisbon
+close
+visualize
+auchen
+rechenberg 2000
+conditions
+multimodal
+dorigo
+context
+simple
+pp
+due
+pl
+1950s
+folklore
+batch
+evaluated
+guide
+portugal
+vol
+5 show
+casares
+adjiman 2002
+rastrigin
+shorter
+development
+michalewicz 1996
+literature
+arrived
+purpose
+beowulf
+schwefel
+-
+aarts 1987
+conclusions
+guaranteed
+modifications
+flux
+examples
+sight
+good3
+rkip
+proc
+agreement
+defrayed
+range
+germany
+aarts
+retaining
+handbook
+characteristic
+uk
+highlight
+cr = 0
+influence
+metals
+single
+codes
+application
+electrical
+lend
+med2002
+cd-rom
+weights
+existing
+eds
+hoffmeister
+contributions
+michalewicz
+indicating
+confirmation
+presently
+stiff
+noted
+replicated
+click
+business
+underdetermination
+access
+adjusts
+implement
+usa
+cho
+postprocess
+banga1
+darwin
+blacksburg
+reproduce
+performed
+discussed
+0013 28e5 39
+matyas
+varied
+located
+philosophy
+nonconvexity
+element
+encyclopedia
+alliott
+practice
+dominance
+magnitude
+priami
+subset
+dbi-0217653
+related
+calibrate
+investigate
+ecc
+york
+seider
+reached
+quality
+matyas 1965
+ostermeier 1997
+updating
+holland
+martins
+computations
+sweden
+reproduction
+esposito
+goldberg
+mechanism
+oliveira
+singh
+callable
+payment
+dbi-0109732
+proceedings
+fact
+supported
+seider 1996
+winner
+candidates
+achieve
+means
+words
+price 1997
+pseudomeasurements
+generations
+view
+difficulties
+identification
+papamichail
+subscribe
+maximize
+respect
+biosystems 36
+yao
+8 odes
+sufficient
+biosci
+highlighted
+effect
+automation
+mech
+center
+eufit
+storey
+adv
+smith
+mathematically
+natl
+torn 1973
+trystrom
+µ/µ
+highlighting
+lead
+parallelization
+stuckman
+goldberg 1989
+mutation
+huyer
+locate
+certainty
+commonwealth
+automat
+assess
+ed
+gradient-based
+histogram
+anonymous 2000
+distribution
+floudas 2000
+goodness
+mathworks
+97 pp
+branch
+repeat
+kinds
+variation
+wolkenhauer
+9996 0
+1026 1
+1026 0
+100
+341­359
+0995 0
+95
+1991
+1990
+1992
+1997
+1996
+1999
+1998
+869­883
+1­33
+1 1 0
+55­64
+9997 0
+3­20
+0019 0
+139 327698 39
+1 1 2 1 2 1 1 1 2 1 2 1 1 1 2 1 2 1 0
+1969
+1965
+1966
+16
+00
+27­56
+9321 2
+05 0
+125­140
+9678 1
+0001 1
+1 0
+767­772
+323­338
+8360 1
+1978
+1973
+53
+2467­2474 ©2003
+90%
+9995 1
+0000 0
+284­294
+0041 1
+244­251
+0
+331­355
+1993
+1995
+1
+157­181
+1958
+1262503
+257­266
+33­36
+2
+671­680
+9514 0
+1008 1
+1008 0
+11
+10
+13
+12
+15
+14
+563­583
+183­192
+]
+779 22
+3
+455­469
+}2
+563­571
+2­23
+431­440
+0000 1
+191­206
+4
+0036 0
+1859
+9980 0
+2602
+881 756135 17
+µ
+9989 1
+13572 0
+5
+464 649431 114
+1291­1310
+8359 0
+6
+496
+24
+25
+89­108
+10 12
+7
+0109
+0390 0
+186
+829­869
+0025 0
+163­186
+7%
+72
+79
+157­166
+326­335
+23­29
+8
+= 36
+47­69
+9
+9992 1
+0007 0
+579 16515 0
+3­52
+0124 1
+0013
+%
+2002
+2003
+2000
+2001
+2008
+0387 2
+127­141
+36840 2
+39
+= 0
+= 1
+3%
+437­447
+0012 2
+0076 1
+= 763
+545­563
+9329 0
+1028­1033
+246­253
+9990 1
+9990 0
+=
+0993 1
+¨
+2003 13
+0028 0
+1544 1
+650­654
+0021 1
+1987
+1983
+1989
+42
+41

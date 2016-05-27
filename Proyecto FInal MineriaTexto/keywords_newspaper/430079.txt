@@ -1,0 +1,13 @@
+linear
+simple
+cells
+al
+response
+field
+et
+430079txt
+master
+samorogu
+model
+receptive
+responses

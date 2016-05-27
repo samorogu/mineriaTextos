@@ -1,0 +1,1411 @@
+adipocytokine signalling
+
+signal transduction wnt signalling cell communication adherens junction focal adhesion
+
+signal transduction jak-stat adipocytokine cell communication adherens junction focal adhesion signal transduction insulin signalling mapk
+
+cell communication focal adhesion tight junction signal transduction insulin signalling cell motility regulation
+receptor signalling signal transduction adipocytokine signalling mapk cell growth & death apoptosis
+
+cell growth & death apoptosis signal transduction adipocytokine signalling tgf-beta immune system antigen processing
+
+cell communication adherens junction signal transduction tgf-beta hedgehog mapk cytokine-cytokine interaction
+
+immune system
+sorting & degredation cell growth & death cell cycle
+
+signal transduction adipocytokine signalling tgf-beta neuroactive ligandreceptor interaction
+
+amino acid metabolism signal transduction jak-stat
+
+signal transduction adipocytokine signalling mapk cytokine-cytokine interaction cell growth & death apoptosis signal transduction notch
+
+fig
+frequently observed protein domains
+
+pfam id $ $ $ $ $ $ $ $ $ $ $ pf00047 pf00096 pf00069 pf00628 pf00097 pf00855 pf00046 pf00643 pf00036 pf00008 pf00533 pf00010 pf00292 pf00856 pf00076 pf00020 pf00018 pf00439 pf00531 pf00178
+
+domain annotation immunoglobulin domain zinc-finger
+receptor signalling signal transduction insulin signalling adipocytokine signalling mapk cell growth & death apoptosis folding
+adipocytokine cell communication adherens junction
+
+signal transduction jak-st
+cancer protein networks
+
+cell motility cytoskeleton immune system leukocyte migration signal transduction jak-st
+tnfr/ngfr cysteine-rich region sh3-domain bromodomain death-domain ets-domain
+
+fobs 102 51 51 35 28 21 17 16 16 13 12 11 10 10 10 9 8 8 7 7
+
+fexp 37 35 14 4 8 1 7 3 8 20 1 3 1 2 9 1 7 2 1 15
+
+n-fold difference 2
+domain helix-loop-helix dna-binding domain paired-box domain set-domain rna recognition motif
+actin
+
+carbohydrate metabolism
+
+immune system
+signal transduction
+cell receptor signalling toll-
+cell receptor signalling
+c3hc4 type pwwp domain homeobox domain zinc-finger
+cell growth
+c2h2 type protein kinase domain phd-finger zinc-finger
+yeast cell cycle
+death regulation
+immune system
+evolutionary selection pressure affects germline mutated proteins
+squamous cell carcinoma
+somatically mutated versus germline mutated proteins
+signalling circuits
+cancer research uk london research institute
+frequently observed cancer domains
+bioinformatics
+systems biology
+
+original paper
+
+vol
+creative commons attribution non-commercial license
+frequently observed domains
+mips mammalian protein-protein interaction database
+mips mammalian protein-protein interaction databases
+carefully validated protein-protein interaction network
+extensive human protein-protein interaction network constructed
+predicted protein-protein interaction map receives
+online predicted human interaction database
+validated human protein-protein interaction network
+$ show statistically higher-than-expected interaction promiscuity
+receiver operating characteristic analysis builds
+somatically mutated cancer proteins compared
+40
+
+fobs 215 99 48 12 65
+
+fexp 318 69 21 8 23
+
+difference
+dna regulation
+inferring protein domain interactions
+bates
+
+103 cancer non-cancer
+
+102 community size
+
+101
+
+1 3 4 5 k-
+pfam protein families database
+jonathan wren abstract motivation
+b-box ef hand egf-
+08
+
+observed interaction frequency distribution
+human interaction network builds
+2 protein domain frequencies comparing
+locates maximal complete subgraphs
+pfam domain-domain interaction data
+accurate proteinprotein interaction networks
+open access article distributed
+wilcoxon rank sum tests
+pfam domain population
+present elevated evolutionary conservation
+global protein-protein interaction network
+multiple community membership distribution
+
+k-
+caenorhabditis elegans early embryogenesis
+curated non-redundant sequence database
+1093/bioinformatics/btl390
+
+global topological features
+germline mutated cancer protiens
+method identifies putative interactions based
+346 genes encoding 509 protein isoforms
+domain interaction frequency
+first-draft human protein-interaction map
+batesã
+biomolecular modelling laboratory
+germline mutated proteins fell
+sequence similarity bit scores
+yeast protein interaction network
+domains highly promiscuous compared
+human protein reference database
+experiments linking protein ai
+accurately predicting protein-protein interactions
+reported increased interaction connectivity
+documented pfam interactions receive
+increasingly providing valuable information
+highly promiscuous structural domains
+2006 advance access publication july 14
+highly
+
+populated communities compared
+increased interaction frequency compared
+domain co-occurrence networks
+plasma membrane proteins interacting
+predisposing human cancer genes
+tightly connected protein communities
+findings reveal topological distinction
+communities
+
+non-cancer proteins 8870 4245 1918 764 325 193
+
+cancer proteins
+9 1 1- specificity
+
+1
+
+fig
+protein-protein interaction network
+modulate cellular processes involved
+protein interaction mapping
+zinc-finger
+protein interaction network
+receiver operating characteristic
+protein interaction networks
+protein interaction map
+cancer research uk
+proteins showing somatic mutations interact
+ã
+
+charting interaction maps
+higher interaction promiscuity
+protein interaction data
+underlying evolutionary pressure
+cancer proteins consistently showed
+molecular interaction networks
+important protein communities involved
+probability density function based
+highly connected proteins based
+highly promiscuous domains
+biomolecular modelling laboratory
+younger average evolutionary age
+cancer protein networks
+
+table 2
+receiver operating characteristics
+potential interaction networks
+highly connected domains
+permits unrestricted non-commercial
+human interactome clustering methods
+reference sequence database
+c3hc4 type
+predicted proteinprotein interactions
+paired-box domains
+ncbi reference sequence
+approaching systems biology
+globally central proteins form
+predicting protein-protein interactions
+protein network needed
+multiple community membership
+sufficient sample size
+protein protein interactions
+pfam domains
+ppv
+
+fig
+org/servers/pip/ bioinformatics/
+
+1
+
+introduction
+protein communities increases
+observed difference
+cancer protein networks
+highly statistically significant
+domain brca1
+k-core decomposition method
+domain usage
+domain propensities
+domain composition
+discussion network validation
+protein data bank
+underlying evolutionary distinction
+protein community represents
+tightly connected communities
+incompatible cellular compartments
+frequent domains found
+complicated cellular machinery
+cancer protein population
+protein network evolution
+genes differentially expressed
+tumour suppressor genes
+identifying protein interactions
+direct protein interactions
+highly connecting proteins
+primary structural database
+pfam database
+probability density function
+interactome-transcriptome analysis reveals
+global network analysis
+dynamic complex formation
+nucleic acids res
+including gene names
+non-overlapping clustering algorithms
+clique percolation clustering
+human proteins translated
+human cancer genes
+highly connected proteins
+prolific interactors tend
+protein interaction
+statistically significant difference
+global network properties
+conserved protein-protein interactions
+human interactome
+pall
+clustering method aimed
+molecular machines involved
+protein clustering data
+complex cellular mechanisms
+main functional classes
+cancer protein studies
+bates
+
+1
+
+103 cancer non-cancer
+
+0
+overlapping protein communities
+centrally connected hubs
+gene ontology database
+extensive genomewide study
+differentially expressed proteins
+revealing proteins forming
+cellular processes contribute
+lung cancer tissues
+distinct protein communities
+kegg pathway database
+cluster sizes decrease
+topological structure analysis
+mediating protein interactions
+human cancer proteins
+standard component analysis
+entire human interactome
+entire human genome
+k-clique clustering algorithm
+protein communities identified
+non-cancer population reveals
+biological networks compared
+protein community identification
+complete interactome data
+comprehensive two-hybrid analysis
+human proteins involved
+yeast protein interactome
+k-clique clustering method
+global central cores
+distinct cellular process
+high-throughput experimental data
+microarray expression data
+complex cellular processes
+cancer proteins display
+cancer proteins compared
+cancer proteins reside
+global topology significantly
+uk supplementary information
+local central cores
+identifying central hubs
+pfam data
+gene ontology consortium
+average size distribution
+protein evolution rate
+true positive fraction
+true negative fraction
+interaction frequencies
+confidence scoring function
+initial network studies
+roc curve analysis
+
+sensitivity
+cellular process categories
+toxicity-modulating proteins exhibit
+showing increasing evidence
+true interaction
+experimentally determined interactions
+cancer genes exhibit
+derived scoring function
+scoring function assessed
+cancer genes identified
+apparent increased connectivity
+general network reveals
+interaction data
+tp + fp
+6 7 8
+
+fig
+fig
+k-clique cluster analysis
+interaction frequency
+adjacent cellular processes
+explore proteinprotein connectivity
+comprehensive experimental data
+true positive interactions
+cellular process groups
+true positive identification
+ppv ¼ tp /
+overlapping community structure
+confidence scores based
+20 interaction partners
+interaction received
+4 interaction partners
+interaction partners
+uncovering intrinsic properties
+lnðsai sbi þ
+cancer proteins
+
+interactions 1­10 11­20 21­30 31­40
+defined cellular process
+false positive identification
+domain
+cancer proteins studied
+cancer proteins belonging
+cancer proteins play
+increased central role
+distinguish proteins prone
+proteins found experimentally
+non-cancer proteins integrated
+cancer proteins show
+homology based method
+interaction attributes
+protein network
+cancer proteins participate
+protein networks
+extensive communities
+bates@cancer
+protein-protein interactions
+cancer proteins shown
+protein communities
+identifies `communities
+consortium database
+3 4 5 6 7 8
+
+observed
+observed
+biological systems
+protein community
+germline mutations
+unique domains
+expected frequency derived
+putative interactions
+drosophila case study
+cellular process
+human proteins
+global hubs
+4 community size
+community size
+uk
+received
+multiple processes
+protein functions
+original work
+protein complexes
+statistically significant
+increased compared
+human interactome
+human genome
+pfam
+complex networks
+globally central
+network properties
+increasingly comprehensive
+proteins ai
+topological role
+domains preceded
+cellular processes
+evolutionary cores
+cancer population
+cancer genes
+kegg database
+sequence identity
+cellular function
+20 sum somatic 0
+lung tend
+connected proteins
+genome biology
+k-clique analysis
+gene ontology
+clustering k-
+k-clique clustering
+open circles
+non-cancer population
+guide experiments
+interaction
+biological networks
+protein bi
+recent publication
+66
+
+fold difference 1
+similar distinction
+interactome network
+cancer communities
+comprehensive analysis
+bates
+
+table 4
+orthology-based method
+genome-wide network
+network topographies
+expression data
+experimental data
+evolutionary aspect
+k-clique community
+domain-domain interactions
+cancer proteins
+cancer exhibit
+3 cluster analysis
+cluster analysis
+overlapping communities
+networks generated
+central cores
+central hubs
+false positive
+false negative
+genome res
+increased frequency
+evolutionary rate
+multiple species
+higher fraction
+uniform distribution
+potential interactions
+mediating interactions
+proteins involved
+systematic analysis
+in-depth analysis
+network-based analysis
+statistical analysis
+joint analysis
+complex organisms
+interacting proteins
+non-cancer proteins
+cancer metastasis
+biological data
+structural information
+somatic mutations
+network topology
+evolutionary aspects
+increasing k-
+intrinsic disorder
+initial platform
+positive predictive
+low k-
+conserved patterns
+standard error
+drosophila melanogaster
+879
+
+interactions 196 108 66 53 51 50 213 113 944 947 034 378 interacting
+interactome data
+resulting communities
+overlapping modules
+proteins identified
+mutations lead
+mutations leading
+cancerous mutations
+locally central
+central role
+increased connectivity
+data types
+community interfaces
+functional diversity
+scientific community
+community assignment
+non-cancer counterparts
+functional organization
+budding yeast
+higher frequency
+highlighting proteins
+assign proteins
+interconnected proteins
+
+ð1þ
+nuclear proteins
+individual proteins
+noncancer proteins
+false positives
+studies focusing
+mutated
+positive prediction
+entire genomes
+orthologous interactions
+108 113 binary interactions
+systematic identification
+supplementary material
+automatic identification
+4
+
+datasets
+
+information
+interactome consisted
+evolutionary backbone
+peripheral cores
+peripheral hubs
+heavily interconnected
+greater extent
+helpful discussions
+natl acad
+improved understanding
+2006 associate editor
+fully resolve
+wider collection
+limited due
+preferential attachment
+detailed breakdown
+right-hand side
+stimulus response
+d354­d357
+s233­s240
+discovering regulatory
+applied repeatedly
+nuclear origin
+þ ¼ ð2þ leàlx
+d449­d451
+blast searches
+computational methods
+sequence-based searches
+org/licenses/ by-nc/2
+reduced noise
+properly cited
+saccharomyces cerevisiae
+cliques sharing
+phd-finger
+de lichtenberg
+predictive models
+additional material
+good indicator
+d501­d504
+inn fields
+key role
+greater detail
+simple dependence
+pages 2291­2297 doi
+detrimental change
+web server
+interesting differences
+bmc evol
+d138­d141
+furthest point
+locating cliques
+flexible nets
+k-cluster values
+network-wide survey
+mass spectrometry
+systemic inflammation
+primarily displayed
+striking property
+largest collection
+phenotypic effects
+wc2a 3px
+distinctly coloured
+reasonable balance
+evolve slowly
+descending order
+toxicity modulation
+non-cancer groups
+comprehensive study
+raised connectivity
+connectivity ratio
+larger communities
+confidence score
+central importance
+high ratio
+central roles
+rate constant
+comprehensive census
+diverse range
+inter-quartile range
+bmc bioinformatics
+domains
+supplementary table 1
+score limits
+december 2005 release
+protein-network topology
+prediction reliability--
+greater centrality
+previous approach
+single species
+minimum score
+orthologous approach
+june 2006 release
+supplementary figure 2
+supplementary figure 1
+yeast proteome
+table 4 lists
+high centrality
+high degree
+overlapping nature
+chemical genomics
+box spans
+1
+
+methods construction
+close homologues
+london
+reverse trend
+whiskers extend
+protein
+sheds light
+subsequently implemented
+statistics relating
+individual pathways
+references
+adamcsek
+genome biol
+specificity derived
+lower specificity
+expected values
+proteins classified
+interact
+
+2294
+
+topology
+germline 0
+germline
+high propensity
+study shows
+obvious bias
+adjacent k-cliques
+cancers result
+listed alongside
+pronounced increase
+mutation results
+results presented
+table 2 shows
+total number
+large number
+greater number
+higher number
+low number
+clique-clique overlap
+figure shows
+detailed version
+database
+observation supports
+score cut-
+difference
+allowed construction
+biology
+databases
+compared
+connected
+k-values
+
+table 6
+method
+network
+map
+networks
+obtained sensitivity
+genes
+probability
+distribution
+constructed
+scores
+cancer
+clustering
+elegans
+processes
+k-
+comparing
+showing
+true
+important
+increased
+function
+structural
+involved
+communities
+central
+data
+¼1
+
+data
+tp
+experimentally
+distinct
+evolution
+non-cancer
+community
+structure
+yeast
+frequency
+proteins
+studies
+exhibit
+confidence
+cluster
+somatic
+based
+interactions
+
+ó 2006
+interactions 1­20
+interactions
+4 interactions
+information
+identified
+identification
+interactome
+roc
+belonging
+july 10
+increasing
+adjacent
+fp
+derived
+findings
+found
+integrated
+sbi
+uncovering
+showed
+july 7
+assessed
+categories
+explore
+studied
+sai
+higher
+methods
+play
+kegg
+form
+role
+connectivity
+7
+
+102 connectivity 101
+0
+100% rate
+high
+rate
+average
+range
+bioinformatics
+shows
+916
+
+ppv 0
+show
+ppv
+age
+interact
+prediction
+degree
+release 37
+species
+2292
+
+topology
+peripheral
+score
+approach
+topology
+aspects
+2296
+
+topology
+centrality
+groups
+study
+documented
+table 3
+table 1
+table 6
+table 5
+table 4
+table
+à32 43 134 42 185
+
+table 3
+statistics
+trend
+homology
+bi
+box
+genomics
+work
+figure
+allowed
+light
+homologues
+figure 3
+larger
+implemented
+participate
+roles
+case
+importance
+distinguish
+attributes
+propensity
+figure 1
+genomes
+census
+preceded
+construction
+adamcsek
+general
+whiskers
+pathways
+curve
+cut-
+specificity
+sensitivity
+6 sensitivity
+
+0
+607
+
+specificity 0
+10 11 12 13 14 15
+
+sensitivity 0
+69
+
+expected
+expected
+defined
+increase
+listed
+k-cliques
+k-values 3
+result
+bias
+obtained
+k-values
+biol
+results
+1
+
+results
+number
+version 13
+version 19
+version 9
+proteome
+overlap
+backbone
+observation
+classified
+shown
+nature
+symbol ``$
+sci
+illustrates
+rev
+leads
+graph
+description
+compensate
+nodes
+indicating
+brown
+lack
+indication
+``interologs
+level
+list
+informative
+dip
+accumulation
+e-
+rrm
+self-contained
+ashburner
+availability
+berman
+wachi
+genet
+proc
+metazoan
+analysed
+represented
+47
+
+ppromiscuity 7
+observing
+appears
+funded
+suggests
+amount
+kanehisa
+suitable
+subjected
+examining
+members
+roccurve
+addressed
+org
+twothirds
+remains
+peri
+predictions
+carrying
+insights
+abundance
+science
+equation
+brct
+capable
+publications
+formstecher
+sharan
+org/servers/pip
+performed
+provide
+offspring
+dependent
+0/uk/
+classify
+regions
+2004 update
+5 times
+modest
+//creativecommons
+short
+gunsalus
+correlation
+eisenberg
+ito
+palla
+developed
+insight
+report
+differs
+locality
+susceptible
+li
+previously
+detected
+lethality
+`interface
+correspondence
+investigated
+reflected
+half
+feature
+developments
+series
+revised
+society
+fewer
+category
+r89
+factors
+completeness
+pruitt
+disputed
+likelihood
+union
+benefits
+authors
+times
+place
+consequence
+matthews
+instances
+utilized
+reached
+quality
+jurisica
+checked
+annotated
+subnetworks
+rates
+observations
+passed
+cancerresearchuk
+febs
+tool
+reflecting
+jordan
+undoubtedly
+percentage
+distance
+summary
+reproduction
+outcome
+44 lincoln
+mind
+argument
+linked
+ideker
+subgraph
+note
+contact
+concern
+pagel
+centre
+refseq
+pair
+à 1 nodes
+deane
+considered
+calvano
+points
+principle
+organism
+bateman
+fact
+oncogenes
+4
+
+conclusion
+interconnection
+sourced
+ppromiscuity < 0
+cfinder
+explain
+proportion
+uetz
+surroundings
+surveyed
+inherited
+fraser
+made
+phenotypically
+salwinski
+saeed
+median
+mapped
+generations
+conform
+declared
+constructing
+r63
+humans
+argued
+focuses
+jeong
+subject
+ppromiscuity-
+trade-
+closed
+quartiles
+discovery
+terms
+acknowledgements
+group
+parentheses
+equal
+attributed
+participating
+context
+pdb
+mirroring
+nat
+addition
+lehner
+interest
+outliers
+riley
+ranging
+//bmm
+observe
+reliable
+aim
+transcripts
+rbd
+p-
+examined
+owing
+author
+suggest
+lett
+emphasize
+survival
+conflict
+development
+extended
+http
+functionality
+built
+older
+almaas
+giot
+left
+means
+gavin
+part
+differentiation
+paul
+wuchty
+levanon
+extends
+nonoverlapping
+unification
+accepted
+essential
+yields
+interestingly
+grouping
+belonged
+examples
+provided
+gradually
+critical
+participation
+biased
+run
+bold
+bu
+usa
+repair
+dataset
+accumulated
+area
+sohler
+noticed
+conceivable
+jonsson
+medium
+attempted
+ho
+raising
+terminus
+interactomes
+robustness
+calculated
+required
+al
+furteal
+exist
+pip
+distributions
+triangles
+variety
+generally
+compares
+test
+futreal
+phys
+dunker
+chance
+variable
+scrutiny
+rnp
+enrichment
+832­834
+2 0
+2 2
+027 9 3
+0
+14
+128
+765 0
+883 0
+2295
+1021­1023
+2 1
+177­83
+¼
+8
+
+0
+141­147
+76 1
+296
+915 0
+80 · 10à4 1 1
+93 · 10à11 0
+623­627
+00 5
+882 0
+00 1
+307
+2120­2126
+30
+67 7
+437
+96 13
+180­183
+5 0
+5 1
+70 · 10à13 1 4
+235­242
+334 234 117 53 28 14
+11 9
+85%
+376­384
+861­865
+43 5
+9%
+8
+91
+1974­1979
+< 0
+641 0
+908 0
+816 0
+00 7
+00 0
+00 2
+00 3
+1 · 10à5
+8 0
+1
+75 3
+1032­1037
+¼ 4042
+66 944
+¼ 0
+24
+27
+20
+22
+28
+403
+82%
+25
+25­29
+89
+83
+750­752
+7
+870 0
+18006­18011
+07 17
+67· 10à3 0
+4
+
+0
+26 2
+3 0
+175
+3 3
+1727­1736
+2
+4205­4208
+11
+13
+12
+15
+18
+88 à32
+¼ 6
+5129­5148
+46 3
+2
+
+0
+6 0
+65 12
+436
+<1%
+80 · 10à4
+
+$
+41­42
+¼ 5 · 10à34
+10
+167 4
+167 7
+167 0
+05
+415
+411
+724­727
+0279 4
+14 4
+00
+3
+67 21
+2363­2371
+9
+
+3 4 5 6 7 8
+
+222 189 98 37 19 9
+23
+2%
+6
+50 21
+102
+258
+68
+33 · 10à11 0
+33 · 10à11 1
+101
+21
+1 0
+38 9
+39 12
+1
+
+0 0 0
+686 0
+33
+32
+31
+34
+38 12
+2076­2082
+¼ 212
+708 0
+9
+002
+005
+435
+5
+
+0
+67 10
+4569­4574
+849 0
+4 2
+810 0
+4 0
+814­818
+33 2
+2293
+4
+5
+37 17
+2443­2450
+2297
+138701
+57
+56
+53
+09 · 10à7 0
+303
+80 · 10à4 6
+887 0
+7 0
+7 1
+540­543
+302
+639 0
+921 0
+64 8
+18 2006
+1517­1521
+9
+
+0
+67 · 10à3 4
+67 · 10à3 7
+ð
+67 · 10à3 1 7
+%
+00078
+47
+1310­1314
+39 7
+272
+70%
+196 213
+2002
+2003
+2000
+2001
+2006
+2004
+2005
+98

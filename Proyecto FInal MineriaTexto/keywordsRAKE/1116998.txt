@@ -1,0 +1,2018 @@
+59s --
+
+nir se -- -- -- -- 0
+gene regulation
+
+introduction
+gene expression microarrays yield quantitative
+tutorial
+
+software banjo aracne nir/mnia
+
+download www
+outputfile [options] matlab
+
+notes good performance
+proc natl acad sci usa 95
+proc natl acad sci usa 100
+00s ppv -- -- -- -- 0
+pac symp biocomput 418­429 de jong
+steady state
+
+time series
+
+tsni
+
+aracne banjo
+ode-based approaches yield signed directed graphs
+10u
+
+-- --
+
+-- --
+
+0
+markov chain monte carlo method
+pac symp biocomput 41­52 di bernardo
+systems-biology data sets de novo
+mapping dna damage response pathways
+86s -- --
+
+clustering ppv 0
+96s -- --
+
+nir se 0
+nir clustering
+
+mni nir
+
+figure 1 flowchart
+¼1
+
+ð6þ
+
+ordinary differential equations
+reverse-engineering algorithms based
+dynamic time-series-simulated microarray data resulting
+53s -- ppv
+
+clustering se 1
+data processing inequality helps pruning
+experiment data sets
+
+data sets ppv
+information-theoretic approaches represent statistical dependences
+rights reserved 1744-4292/07 www
+genome-wide transcription factor occupancy data
+simulated data set
+
+aracne ppv global
+advanced gene network inference algorithms
+suitable gene expression data set
+signed directed graph indicating regulation
+influence interactions include physical interactions
+murine osteoblast differentiation network
+table iii experimental data sets
+comput sci stat 33 pe
+gene expression changing dynamically
+molecular systems biology website
+molecular systems biology 13 february 2007
+bayesian networks model probabilistic dependencies
+banjo ppv -- -- 0
+expression profiles
+mukesh bansal1
+/~amink/ software/banjo amdec-bioinfo
+steady-state-simulated microarray data resulting
+00s se -- -- 0
+steady-state gene expression data set
+network inference
+
+hierarchical clustering
+
+http
+pairwise correlation coefficients rij
+causal markov condition holds
+theory underlying bayesian networks
+nature publishing group
+
+develop
+6 molecular systems biology 2007
+
+data
+learning parsimonious regulatory networks
+reconstruct gene­ gene interactions
+3594­3603
+
+10 molecular systems biology 2007
+
+& 2007 embo
+2 molecular systems biology 2007
+
+& 2007 embo
+8 molecular systems biology 2007
+
+& 2007 embo
+xi ðtk þ ¼ aij xj ðtk þ þ bi
+suitable network inference algorithms
+simulate gene expression data
+bayesian network software libb 2
+15u
+
+--
+
+--
+
+0
+43u
+
+--
+
+--
+
+0
+excessively long computation time
+dynamic bayesian networks overcome
+command line java-jar banjo
+gene expression time series
+simulated gene expression data
+protein­protein interaction data
+al
+
+gene network inference algorithms
+short time series nir
+network inference algorithms reviewed
+simulated gene expression level
+infer networks involving cycles
+genetic perturbation involving overexpression
+steady-state rna expression measurements
+10u
+
+--
+
+--
+
+0
+information-theoretic approaches
+information-theoretic approaches
+gene network inference software
+require large data sets
+ordinary differential equations
+steady-state gene expression data
+identifying real physical interactions
+mutual information relevance networks
+gene expression data generated
+time-series gene expression data
+reverse engineering gene networks
+measure gene expression profiles
+correctly infer regulatory interactions
+analyse gene expression data
+conditional probability density distribution
+gene network inference algorithms
+time series network identification
+time-series gene expression profiles
+bayesian network inference algorithms
+performs perturbation experiments complying
+ðxi ¼ xi jjxj ¼ xj
+reverse-engineering transcription control networks
+05s --
+
+banjo se 0
+absolute regression network analysis
+dna regulatory motifs
+markov assumption holds
+molecular systems biology 2007 7
+molecular systems biology 2007 9
+molecular systems biology 2007 3
+molecular systems biology 2007 1
+molecular systems biology 2007 5
+4 molecular systems biology 2007
+molecular systems biology 3
+de la fuente
+supplementary information
+supplementary information
+systems biology lab
+genome-wide expression patterns
+genetic regulatory systems
+data processing inequality
+protein modification data
+directed signed graphs
+yield acceptable results
+00s -- ppv 0
+al
+
+table iv results
+resulting gene network
+simulated data sets
+steady state
+mammalian cellular context
+transcripts repeatedly occurs
+include self-feedback loops
+jar settingfile¼mysettings
+phys life rev 2
+100-gene network dataset recovers
+simulated data arises
+simulate gene networks
+gene expression measurement
+medium data sets
+table iv summarises
+steady-state data resulting
+analyze expression data
+nature publishing group
+observational biological data
+bayesian dirichlet equivalence
+network inference strategies
+al
+
+table ii results
+vanishing pearson correlation
+pairwise correlation coefficient
+gene expression data
+gene expression profile
+experimental data sets
+authors contributed equally
+feed forward loops
+probability density distributions
+branch lengths reflect
+joint probability density
+1038/msb4100120
+subject categories
+11 myc targets+11 non-targets
+obtain confidence estimates
+probable regulatory interactions
+gaussian kernel & 2007 embo
+yield richer dynamics
+gene network inference
+tf­gene interactions
+identifying gene interactions
+time series analysis
+artificial gene networks
+reverse-engineered gene networks
+short time-series data
+clustering
+
+time series
+gene expression levels
+diego di bernardo1
+pearson correlation coefficient
+bayesian network inference
+fairly good job
+bayes net toolbox
+probabilistic algorithm requiring
+joint probability distribution
+gene expression clustering
+unlike bayesian networks
+real biological pathway
+signed directed graph
+supplementary figure 1 shows
+large data sets
+describes gene regulation
+gene regulatory networks
+microarray network identifcation
+gene expression profiles
+inference algorithm reduces
+data analysis keywords
+represent causal interactions
+real data sets
+figure 2 bayesian networks
+generating causal networks
+mrna expression levels
+bayesian information criteria
+directed acyclic graph
+evaluation stud tadesse
+assessing algorithm performances
+conservative threshold giving
+greedy-hill climbing approach
+algorithm considered separately
+statistical mechanical modeling
+constant non-informative prior
+identifying functional modules
+zip tgardner@bu
+ii122­ii129 breitkreutz
+classic linearregression problem
+yeast two-hybrid assay
+dynamic bayesian networks
+bayesian networks formalism
+microarray data analysis
+network visualisation tools
+relevance network algorithm
+functional genomic clustering
+compare expression profiles
+similar expression profiles
+infer gene networks
+measuring gene expression
+incomplete data set
+real biological networks
+proposer/ searcher module
+inferring genetic networks
+finding regulatory interactions
+network sparsity assumption
+transcriptional regulatory networks
+general mathematical theory
+silico data enable
+1000 gene data set
+network inference algorithms
+e141­e149 friedman
+gene network models
+single gene overexpression
+small data sets
+network inference problem
+network inference algorithm
+time-series network identification--tsni
+10-gene network recovered
+time-series expression profiles
+naples `federico ii
+bayesian network models
+direct molecular mediators
+predicting gene expression
+parameters describing interactions
+reverse-engineering methods considered
+reverse-engineering algorithm finds
+uniformly distributed variables
+independence assertions embedded
+classic clustering algorithms
+bayesian network model
+network structure explored
+infer direct interactions
+standard deviation equal
+bayesian networks algorithms
+biomolecular interaction networks
+100-gene network `local
+joint entropy hij¼
+samples 254 300 254 300 9 6
+
+genes 7907 6312 23 90 9 9
+
+reference
+integrating genetic perturbations
+de jong
+true network twenty-
+bmc bioinformatics s1
+fully connected network
+steady-state data set
+direct causal interaction
+identifying compound mode
+performing multiple perturbations
+unknown parameters aij
+10-gene network `local
+pairwise entropy measurements
+clustering algorithms
+clustering
+network visualization system
+heuristic search method
+called mutual information
+direct causal regulators
+mathematical formalism proposed
+nir performs significantly
+perturbation data set
+generated 20 random networks
+unknown parameters yi
+bayesian variable selection
+00s -- 0
+03s -- 0
+68s -- 0
+60s -- 0
+molecular biology
+time-series reverseengineering algorithms
+genes directly targeted
+common clustering approach
+reverse-engineering algorithm performance
+38u
+
+random ppv 0
+random algorithm performs
+sequence motifs found
+statistically independent variables
+mi threshold manually
+single perturbation experiment
+quantitative science
+gene regulation
+mutually independent genes
+pairwise similarity function
+gene transcript concentration
+nir algorithm performance
+aracne computes mij
+maximum bayesian score
+ode-based algorithms
+edge aij¼aji
+requires steady-state experiments
+statistically independent experiments
+genes directly `hit
+simulated data
+requires large number
+higher noise levels
+silico analysis performed
+gene expression
+¼1
+
+aij xj ¼ àbi
+finding coexpressed genes
+linear odes relating
+05s -- 0
+data sets
+table iii
+expression data
+simulated networks
+transcriptional regulation
+statistical dependencies
+expression profile
+target genes & 2007 embo
+random variables xi
+information-theoretic approaches
+identifying interactions
+aracne parameter dpi
+pearson correlation
+correlation coefficient
+drug discovery process
+100-gene networks
+signed graph
+heuristic approaches
+determine pathways
+microarray data
+regulatory interactions
+regulatory networks
+hierarchical clustering
+experimental data
+dynamic data
+expression profiles
+gene networks
+reverse engineering
+genome-wide scale
+gene overexpression
+table ii
+systems approach
+bayesian networks
+gene network
+10-gene networks
+information-theoretic networks
+computational biology
+expression measurements
+inference algorithms
+simulated annealing
+inference easier
+inference methods
+inference algorithm
+chain rule
+mathematical formalism
+experimental analysis
+bayesian network
+single gene
+correctly infer
+aracne performs
+infer interactions
+indirect regulation
+clustering performs
+infer networks
+expression profiling
+inference process
+steady-state data
+large networks
+directed graph
+branch level
+statistical dependency
+comput biol 7
+¼1 rij ¼ sffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+physical approach
+causal link
+indicating activation
+self-feedback loops
+ode approaches
+learning problem
+searcher modules
+pairwise correlations
+direct interactions
+compare clustering
+real interactions
+influence interactions
+`influence interactions
+microarray experiment
+mathematical models
+aracne
+aracne
+time-series data
+data set
+influence networks
+real networks
+time-series `dynamic
+dynamic time-series
+software environment
+regulatory elements
+linear dependencies
+standard deviation
+transcription factor
+good probability
+regulates gene
+gene knockout
+prior information
+mutual information
+binomial distribution
+transcription network
+evaluating dependencies
+reverseengineering tools
+supplementary table 1
+supplementary table 3
+supplementary table 2
+`physical interaction
+physical interaction
+real network
+probabilistic relationships
+timeseries data
+semiquantitative data
+sequence data
+data points
+high-throughput data
+data type
+perturbed gene
+require knowledge
+network graph
+40u ppv 0
+ppv stands
+good method
+directly hit
+information-theoretic approach
+di bernardo
+aracne se 0
+inferring interactions
+time-series & 2007 embo
+recovers & 2007 embo
+aracne recovers
+linear regression
+clustering recovers
+ð1þ
+
+coexpression networks
+high-scoring networks
+networks derived
+larger networks
+reverse-engineering algorithms
+molecular medicine
+aij¼aji
+reverse-engineering algorithm
+algorithms infer
+randomly distributed
+endogenous level
+gains confidence
+authors acknowledge
+multiple regression
+quickly generating
+1038/msb4100120 citation
+functional discovery
+connections recovered
+global perturbations
+analysis algorithms
+supplementary material
+silico analysis
+computational analysis
+aracne excludes
+`network space
+network surrounding
+network drugs
+nine-gene network
+network topology
+network structure
+network identification
+large size
+clustering algorithm
+small networks
+gene represents
+time tk
+high-scoring models
+integrated models
+steadystate data
+inferred interactions
+random ppv 0
+geneexpression profiles
+current method
+transcriptional perturbations
+standard techniques
+good compromise
+evaluator module
+single algorithm
+good option
+specific condition
+transcription factors
+bayes theorem
+good approximation
+decider module
+mrna concentration
+inferred networks
+networks inferred
+statistically independent
+additional information
+extracting information
+information contained
+time-series experiment
+computer model
+graphical model
+model averaging
+model structure
+reverseengineering algorithms
+real connections
+influence approach
+random networks
+richer dynamics
+undirected graph
+richer response
+highly coexpressed
+gene pair
+sampling time
+running time
+time points
+al
+
+density
+nir algorithm
+nir works
+data point
+metabolic data
+good performance
+33u
+
+dynamic
+yield
+inferred network
+network inferred
+se decreased
+40u se 0
+computing ppv
+þ hj à hij
+noise levels
+replicate measurements
+directly interacting
+gene pairs
+silico results
+linear modeling
+identical results
+microarray dataset
+networks predict
+networks exists
+banjo recovers
+perturbed directly
+directly perturbed
+informative data
+direct interaction
+myc targets
+computational algorithms
+algorithms agree
+microarray subset
+`influence interaction
+ppv improved
+curr bioinform 1
+nat biotechnol 23
+distance metric
+saccharomyces cerevisae
+algorithm requirements
+variables
+
+start
+chromatin immunoprecipitation
+diagonal elements
+previous section
+dibernardo@tigem
+comp biol 9
+5944­5949 van someren
+gordon db
+reliable guidelines
+tsni assumes
+armour cd
+wyrick jj
+harbison ct
+computational aspects
+friend sh
+functionally related
+complementary abilities
+www
+yeung mk
+jp/ mde-hoon/software/cluster
+volkert tl
+observation leads
+specific pre-processing
+increasingly relying
+compound mode
+genome res 13
+vincenzo belcastro3
+lum py
+external agent
+broad classes
+della gatta
+gifford dk
+vice versa
+smith va
+popular scores
+org/html/ cawork-bench/upload/arcane
+realistic dynamics
+scores incorporate
+smaller amount
+del mondo
+stepaniants sb
+rinaldi nj
+comparative purposes
+optimisation technique
+meyer mr
+hannett nm
+*
+1 2
+
+telethon institute
+memory limitations
+natural sciences
+detailed study
+murray hl
+chemogenomic profiling
+right-hand side
+van someren
+nat genet 37
+indirectly interacting
+recent studies
+european school
+external pertrurbation
+della favera
+variables xi
+telethon institute
+jones ar
+cns development
+roberts cj
+marton mj
+disappear causing
+kidd mj
+genome biol 4
+external perturbations
+adjacency matrix
+practical utility
+shoemaker dd
+null hypothesis
+genome biol 7
+examples
+
+id
+feedback loops
+jarvis ed
+np-hard problem
+matrix format
+interacting partners
+comparative genomics
+strong shock
+bennett ha
+interested readers
+significance threshold
+cell/organism humanbcells
+previous points
+gerber gk
+young ra
+bayes rule
+good accuracy
+ground truth
+rapidly evolving
+multi-step approach
+non-linear processes
+alberto ambesi-impiombato1
+open questions
+txt arance-
+improves dramatically
+briefly describe
+dynamical modeling
+random model
+experimental treatment
+compared ppv
+parameters aij
+interactions found
+conditional probabilities
+linear process
+large datasets
+large drop
+perturbation experiment
+similar pair
+large number
+conditionally independent
+default parameters
+banjo outputs
+excluding banjo
+chosen equal
+perturbed simultaneously
+perturbed genes/mni
+discreet performance
+low performance
+good sensitivity
+non-linear process
+process stops
+local perturbations
+direct targets
+good idea
+positive predictive
+positive predicted
+responded significantly
+constant representing
+false positive
+100 experiments set
+linear odes
+computed ppv
+¼1
+
+ð3þ
+
+ð4þ
+
+banjo
+banjo
+nir perform
+pruning step
+external perturbation
+variable xi
+true dependency
+specific perturbation
+mi level
+work & 2007 embo
+cluster analysis
+banjo performance
+output network
+mni algorithm
+deterministic algorithm
+drug discovery
+densely connected
+functional form
+deterministic approach
+general consideration
+time point
+gene-to-gene interaction
+nir needed
+odes means
+series
+imperfect knowledge
+run aracne
+requires knowledge
+þ priori knowledge
+label `random
+random algorithm
+objective comparison
+bussemaker hj
+white noise
+facilitate comparison
+high accuracy
+low accuracy
+aij represents
+estimated directly
+mni performance
+algorithms proposed
+true positive
+algorithms perform
+single genes
+mij¼mji
+average in-degree
+final step
+results considerably
+random performance
+poor performance
+expected performance
+inferring targets
+high sensitivity
+low sensitivity
+algorithms based
+single node
+transcription rate
+al
+
+table
+37u se 0
+coexpressed genes
+edge aij
+parameters yi
+matlab
+references
+amato
+crashing owing
+methods based
+principal limitation
+bde metric
+ðxk þ logð
+montecarlo simulations
+382­390 beer ma
+make sense
+cerevisiae humanbcells
+false negative
+hartemink aj
+schematic overview
+smaller subsets
+ranked list
+overexpressing tens
+odom dt
+algorithm infers
+wang pp
+}
+
+da/dt =1a+2b+3c
+scoring function
+tagne j-
+remains unique
+specifically designed
+stated simply
+main focus
+element remains
+easily shown
+gui
+
+abbreviations
+chemical compound
+interesting properties
+thompson cm
+coli
+
+type
+r36 brazhnik
+perturbation experiments
+limited number
+maximum number
+article number 78
+largest number
+high number
+weakest edge
+perform significantly
+bi represents
+intersection rescues
+improve performance
+reported performance
+edges aij
+results obtained
+lower accuracy
+microarrays
+graphs
+collins jj
+109­126 lee ti
+102­105 hughes tr
+ingoing edges
+connections compared
+slightly compared
+min{mi
+measured directly
+grouping genes
+genes randomly
+genes separated
+genes simultaneously
+genes responding
+time-series case
+margolin aa
+realistic behaviour
+practical application
+assumed independent
+signed
+gene-to-sequence interaction
+al
+
+`integrative
+poor sensitivity
+average overlap
+inference
+tp þ fn
+tp þ fp
+expected owing
+solving equation
+experiments performed
+cell status
+il/labs/compbio/libb/ gardner
+indirect relationships
+expression
+predict targets
+higher mi
+approaches
+inequality
+intersection overlap
+11u
+
+1000 â1000 local
+group
+edges overlap
+chosen automatically
+software
+01u
+
+abbreviations
+necessarily imply
+þ ¼ fi ðx1
+values biu
+gene
+figure 1
+figure 2
+compound treatment
+nature
+directed
+clusters regulate
+data
+bayesian
+dynamic
+literature review
+ppv
+user depending
+information-theoretic
+solve equation
+interactions
+networks
+reverse-engineering
+`reverse-engineering
+absolute
+10u 0
+level
+represent
+probability
+factor
+pe
+levels
+control
+overexpression
+measure
+`global
+cycles
+infer
+analysis
+78 & 2007 embo
+& 2007 embo
+aracne
+network
+clustering
+profiles
+à2 profiles
+à1 profiles
+transcription
+condition
+method
+assumption
+finding
+engineering
+steady-state
+information
+direct
+model
+table
+real
+influence
+graph
+generated
+time
+nir
+ð7þ
+
+nir
+pruning
+conditional
+se
+time-series
+recovers
+ðtk þ
+tk
+measurements
+set
+experiment
+results
+aij
+algorithms
+xjþ
+perturbations
+target
+38u
+
+100 â100
+
+0
+¼ xjþ
+approach
+discovery
+modeling
+analyse
+maximum
+xi ð
+yeast
+tadesse
+00s 0
+xj
+xi
+variables
+multiple
+threshold
+þ xj ð
+measuring
+search
+response
+common
+mediators
+describes
+06
+
+inferring
+methods
+bu
+relating
+line
+called
+ðxi ð
+structure
+algorithm
+requires
+dynamics
+integrating
+breitkreutz
+selection
+computes
+identification
+tsni
+þxj ð
+http
+sequence
+problem
+silico
+independent
+parameters
+banjo
+perturbed
+performance
+`local
+process
+positive
+small
+concentration
+significantly
+entropy
+true
+variable
+perturbation
+bi
+mni
+general
+probabilities
+higher
+long
+inferred
+deterministic
+connected
+drug
+interaction
+odes
+knowledge
+random
+10 experiments
+experiments
+1000 experiments
+100 experiments
+similarity
+100% accuracy
+þ hj
+indirect
+predicting
+parameter
+friedman
+comparison
+poor
+tp
+steadystate
+lower
+accuracy
+noise
+expected
+rule
+represents
+proposed
+average
+yi þ ð5þ
+yi
+step
+0 represents
+mij
+01% overlap
+overlap
+naples 18131
+perform
+naples
+targets
+sensitivity
+activation
+da/dt =
+estimated
+reported
+abbreviations
+negative
+wang
+feedback
+independence
+dpi¼0
+needed
+regulate
+exists 95%
+improve
+beer
+make
+unique
+tagne
+limitation
+automatically
+computing
+simulations
+focus
+`infers
+thompson
+values
+predict
+coli
+interesting
+shown
+gene-to-sequence
+specifically
+necessarily
+review
+overview
+hartemink
+solve
+þ dt
+datasets
+ðxk þþ
+list
+fp
+fi
+fn
+compound
+idea
+point
+metabolic
+considerably
+bde
+33u
+
+100 â10
+
+0
+regulators
+amato
+function
+element
+transcript
+based
+dpi
+tens
+subsets
+brazhnik
+cerevisiae
+simply
+drop
+owing
+number
+edge
+performed
+pair
+relationships
+chosen
+system
+intersection
+work
+medicine
+score
+37u
+
+0
+informative
+1 depending
+01u 0
+x1
+representing
+hughes
+cluster
+output
+assumed
+found
+pairs
+depending
+lee
+improved
+user
+biu
+imply
+collins
+37u
+ðx1
+work *
+05s 0
+dataset
+/
+edges
+compared
+mi
+=0 mi
+> 0 0 < mi
+treatment
+1000 genes
+genes
+10 genes
+100 genes
+þ 1 genes
+obtained
+799­804 margolin
+form
+behaviour
+science 301
+science 298
+run
+application
+margolin
+clusters
+subset
+science 312
+al
+bioinformatics 22
+bioinformatics 19
+bioinformatics 18
+bioinformatics 20
+node
+rate
+literature
+equation
+equation 2
+11u
+
+100 â1000 1000 â1000
+
+0
+11u
+
+0
+11u
+
+100 â1000
+
+0
+measured
+11u
+
+100 â100
+
+0
+computed
+11u 0
+cell 117
+cell 102
+cell
+case
+gardner
+cytoscape
+00d 0
+ren
+miele
+70u 0
+solution
+32s 0
+ramage
+consistent
+organisms
+selected
+reconstruction
+815­822 basso
+increasing
+consisting
+hundreds
+represented
+06s 0
+eliciting
+interpret
+96u 0
+vaes
+eastwood
+ozier
+fraenkel
+word
+give
+caution
+36u
+
+100 â10
+
+0
+description
+miij
+replacing
+forty-
+italy
+hasty
+summing
+complexity
+order
+restriction
+satisfied
+affect
+ims
+differently
+affected
+93s 0
+dechering
+coffey
+lorenz
+donalek
+reader
+deniskina
+estimate
+mangano
+created
+`improper
+ncrna
+purpose
+14863­14868
+
+faith
+features
+rewritten
+top
+morozov
+tree
+non-descendants
+longo
+02u
+
+10 â100
+
+0
+hood
+strength
+61u
+
+0
+inputfile-
+þ ¼ dxi ð
+assessed
+doi
+vertices
+principle
+57s 0
+availability
+tavazoie
+explain
+nachman
+klein
+4 butte
+depends
+result
+fail
+63d 0
+1054­1059 yu
+symmetric
+//www
+triplet
+visualise
+50u 0
+kohane
+union
+interest
+penalty
+applied
+65­88 foat
+00u 0
+aim
+conditioned
+agarwal
+confirmed
+suggest
+complex
+elliott
+differing
+gachotte
+fuhrman
+proposer
+identify
+human
+belongs
+weise
+slade
+suppl 2
+advances
+steps
+interestingly
+deal
+repression
+3­13 bansal
+bold
+normalisation
+25d 0
+efforts
+duke
+mbn
+prakash
+377­383 eisen
+daub
+reducing
+04d 0
+approximate
+triplets
+encoded
+injury
+65u 0
+check
+96d 0
+generally
+test
+neuroscience
+assume
+32s
+
+0
+05d 0
+italy 5
+chobot
+17u 0
+brown
+advantage
+choice
+chakraburtty
+ca/osprey/servlet/index
+sign
+cost
+21u 0
+reinders
+org/features
+address
+change
+softwares
+`proper
+king
+modifying
+nemenman
+predictions
+osprey
+bansal
+valued
+labeled
+allowed
+18d 0
+r22
+discussion
+schaus
+16d 0
+product
+mak
+12u
+
+100 â100
+
+0
+71u 0
+39u
+
+0
+years
+kpmin
+derive
+mshri
+perturbing 10%
+half
+45u 0
+proteins
+begley
+false-positive
+tegner
+71s 0
+cu-genome
+approximated
+er
+57d 0
+botstein
+transforming
+91u 0
+basso
+xn
+xd
+simplified
+checked
+17d 0
+filter
+mn/ 0410037
+amin
+`fake
+synthesis
+recover
+15s 0
+online
+importantly
+rationale
+2 ð x2 ð
+67d 0
+discarding
+typically
+show
+/msb
+overexpressed
+zeitlinger
+workman
+29u
+
+0
+66u
+
+0
+fails
+metabolites
+64u 0
+49u 0
+submitting
+parent
+10s 0
+generalisation
+`leap
+dalla-favera
+35u
+
+0
+direction
+02d 0
+observe
+miij¼0
+3 department
+situation
+46d 0
+author
+29u 0
+21d 0
+`trust
+foat
+implements
+02s 0
+gain
+88u 0
+staiano
+xixj
+04s 0
+decomposed
+inhibition
+ruled
+linial
+60u 0
+respect
+63u 0
+selbig
+refer
+biased
+vannucci
+jennings
+broken
+refers
+castellino 111
+meaning
+concentrations
+75u
+stark
+matrixreduce
+huji
+34u 0
+ciaramella
+17u
+
+0
+`simple
+ac
+reverse-engineer
+important
+suited
+included
+markiel
+lack
+56u
+
+0
+nodes
+28u
+
+0
+steuer
+fax
+mpn
+decide
+1 multiplied
+16s 0
+tel
+477­484 workman
+90u
+califano
+self-feedbacks
+ðbjjaþ ã
+09s 0
+action
+45d 0
+family
+41u 0
+detecting
+select
+2498­2504 steuer
+2556­2561 tegner
+tested
+varying
+09u 0
+scan
+8u 0
+ensemble
+mendes
+developed
+knocked-
+alter
+tompa
+return
+yd
+yu
+capability
+wojtovich
+spellman
+reduce
+robert
+53u
+
+0
+generate
+definition
+79d 0
+80u 0
+02u 0
+perturb
+relate
+1249­1256 shannon
+hundred
+02u
+
+0
+u-tokyo
+bar-joseph
+albeit
+kind
+19u 0
+42d 0
+baliga
+22d 0
+reiss
+somogyi
+lio
+97u 0
+added
+molecularsystemsbiology
+raiconi
+xn þ ¼
+eisen
+physics
+44u 0
+causality
+accurate
+combinations
+78u 0
+arxiv
+p-valuep0
+investigate
+activity
+achieved
+vertebrates
+bard
+59u
+received 30
+intersected
+homeostasis
+conditions
+subdividing
+27u 0
+reasons
+regulated
+18u
+
+1000 â1000
+
+0
+expensive
+due
+collected
+applying
+18u 0
+understand
+underdetermined
+evaluates
+p-
+mccuine
+jpd
+encountered
+castellino
+tagliaferri
+task
+tp/
+4 department
+conclusions
+parents
+input
+50s 0
+185­198 bonneau
+bic
+ambesi
+48u 0
+exploiting
+05u 0
+kurths
+601­620 prakash
+bn
+faith
+simulation
+plethora
+perturbing
+intermediaries
+murphy
+properly
+consist
+selects
+39d 0
+maximises
+73u 0
+steegenga
+defined
+defines
+bonneau
+25s 0
+wiggins
+regulations
+47d 0
+genetics
+independently
+practically
+09d 0
+93d 0
+simon
+36u 0
+tyers
+ready-to-
+expressed
+find
+haeseleer
+chose
+degree
+stolovitzky
+87u 0
+addressed
+35u 0
+augment
+`reverse-engineer
+20d 0
+overfitting
+varies
+24d 0
+84s 0
+21s 0
+mjk
+asserts
+superior
+non-randomly
+choose
+dai
+ðajjbþ ã
+facciotti
+cutting
+schwikowski
+03d 0
+university
+identifies
+shannon
+26u
+
+0
+single-target
+22s 0
+suggest 60
+reaches
+improvements
+aijaaji
+reached
+08u 0
+thorsson
+­bio
+perfectly
+44u
+
+0
+mii
+class
+86d 0
+knockdown
+elidan
+fact
+dbn
+text
+07u 0
+74d 0
+10d 0
+controls
+equilibrium
+stoughton
+//bonsai
+quantifies
+requirement
+36u
+
+0
+comparable
+importance
+99u 0
+589­596 ambesi
+butte
+inferelator
+taking
+estimation
+conclude
+cs
+addition
+optionally
+sufficient
+derivative
+harder
+promoter
+choices
+04u 0
+generic
+68d 0
+samson
+downregulation
+reporting
+effect
+php
+compendium
+bootstrapping
+nonetheless
+ideker
+//biodata
+predicts
+accepted 18
+gardnerlab
+wen
+increased
+61d 0
+sizes
+alternatively
+searching
+choosing
+sijbers
+20u 0
+e-mail
+gained
+extension
+2­r22
+guard
+69u 0
+steay-state
+repeated
+ho
+highest
+compute
+cells
+display
+19u
+
+0
+variety
+detail
+details
+kinds
+100
+1999
+1998
+67­103
+06
+10%
+þ 39 081 6132 351
+0
+ð
+1
+¼1
+þ ¼
+10 â10
+
+0
+2
+10
+12
+15
+3
+02 0
+231­240
+10 â10 0
+600
+þ
+
+ð2þ
+2001
+5
+`
+6
+00 0
+7
+¼ à
+4
+þþ
+þã
+¼0
+2002
+2003
+2000
+2006
+2004
+2005
+10 â10 0
+
+10 â100
+
+0
+35 0
+¼
+=
+þ 39 081 6132 319
+14 0
+35%
+þ
+*

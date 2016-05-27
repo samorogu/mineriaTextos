@@ -1,0 +1,1059 @@
+inter-species differentially expressed genes
+chimpanzee orangutan rhesus macaque
+
+human chimpanzee orangutan
+
+110 ­ ­
+
+128 150 ­
+
+176 141 129
+
+1 department
+ytijp ¼ mt þ ktp 2 khp þ ati þ 1tijp
+african great ape cultured fibroblasts
+proteincoding regions mirrors gene expression level
+squares 16j2 þ j2 =j2 starting
+show significant inter-species expression differences
+show accelerated amino acid evolution
+method
+
+© 2006 nature publishing group
+
+nature
+compare steady-state messenger rna levels
+sequence mismatches affect hybridization intensity
+elevated gene expression levels distinguish human
+243
+
+© 2006 nature publishing group
+
+letters
+
+nature
+sixth human liver sample serving
+human transcription factors
+yoav gilad1
+likelihood ratio test statistic comparing
+copper-transporting p-type adenosine triphosphatase
+successful polymerase chain reaction
+genes show stable expression levels
+null likelihood ratio test statistic
+national human genome research institute
+242
+
+© 2006 nature publishing group
+
+nature
+normalized log2 ratio measured
+transcripts encoding specific classes
+1038/nature04559
+
+letters
+expression profiling
+estimated gene expression level relative
+represents approximately 70 million years
+mutation accumulation assay reveals
+series accession number gse2569
+log expression levels caused
+short evolutionary time frame
+estimating gene expression profiles
+oligonucleotide-based gene expression profiles
+primate data suggests tissue
+distantly related primate species
+compare gene expression profiles
+decreased expression levels relative
+multi-species complementary dna array
+measure gene expression levels
+estimated ancestral expression level
+© 2006 nature publishing group
+closely related drosophila species
+author information expression data
+significantly higher expression levels
+primate gene expression patterns
+significantly differentially expressed genes
+closely related species2­9
+eliza hall institute
+genes encoding transcription factors
+absolute log ratio
+likelihood ratio statistic
+yerkes primate center
+limma software package29
+competing financial interests
+false discovery rate
+lme software packages30
+tumour suppressor p33ing1b
+non-synonymous nucleotide polymorphism
+median fold change
+square fold change
+log2 expression levels
+expression log ratios
+log expression values
+residual maximum likelihood15
+residual maximum likelihood
+likelihood ratio tests
+significantly differentially expressed
+unusually low expression
+estimated expression level
+multi-species microarrays reveal
+mabel beckman foundation
+drosophila melanogaster subgroup
+salmonid est database
+computational biology solutions
+log2-fold change relative
+gene ontology id 0051244
+low within-species variance
+high within-species variance
+estimated significant differences
+gene expression profiles
+constant expression level
+characterize general trends
+conserved expression levels
+gene expression level
+probe sequence mismatches
+selection pressures acting
+expected log ratio
+coding sequence level28
+identifying promising candidates
+represent promising candidates
+gene expression varies
+sex-dependent gene expression
+nonhuman primate brains
+brain increases linearly
+opposite finding emerged
+phylogenetic tree based
+background fluorescence intensities
+genepix axon scanner
+cellular physiological process
+rhesus macaque
+large within-species variance
+constant expression levels
+modified expression levels
+total gene sample
+negative selection based
+differentially expressed genes
+primate expression data
+neutral expression change
+multi-species cdna array
+lineage-specific selection pressures
+gene expression differences
+linear mixed model
+included random effects
+interspecific hybridization characteristics
+influence disease susceptibility
+9 march 2006
+
+letters
+
+figure 1
+non-human primate samples
+supplementary table s5
+human­chimpanzee comparisons
+natural selection acting
+human hepatocellular carcinoma
+find functional regions
+residual error term
+common reference design
+reduced affinity owing
+array £ probe interaction
+expression differences observed
+transcription factor evolution
+wwox gene expression
+similar expression levels
+fitted lowess curve
+distinct expression pattern
+humans differed significantly
+investigated genes selected
+neutral evolutionary model
+orangutan
+upregulated transcription factors
+supplementary table s4
+supplementary table s1
+supplementary table s2
+supplementary table s3
+species divergence time6
+identify specific genes
+show significantly
+coding regions
+differentially expressed
+human lineage compared
+compare patterns
+sequence mismatches
+expression profiles
+methods
+study design
+show increased
+expression level
+70 million years
+maximum likelihood
+higher expression
+national institutes
+9 march 2006
+
+letters
+rhesus macaques
+sample preparation
+expression levels
+analysis revealed 14 genes
+evolutionary change
+variance j2
+chimpanzee brains
+organismal level
+hepatocellular carcinoma
+cutoff statistic
+promising candidates
+gene expression
+dna microarrays
+transcription factors
+significant enrichment
+rna quality
+null hypothesis
+primate sequences
+ancestral state
+exact test
+nature genet
+genes encoding
+evolutionary biology
+log-likelihood ratio
+elevated expression
+found similar numbers
+likelihood compared
+human disease
+significantly elevated
+supplementary information
+divergence levels
+functional characteristics
+chimpanzee lineage
+chimpanzee
+
+lineage
+human genome
+department
+dna sequences25
+thirty years
+medical research
+multiple tests
+human microarrays
+protein sequence
+sequence attributes
+sequence divergence
+sequence divergence14
+remained constant
+expression variation
+increased expression
+assigning expression
+lower expression
+pairwise differences
+primates reveals
+extracted rna
+liver carcinoma
+substantially modified
+drosophila transcriptome
+cdna microarray
+interspecific variation
+cy3 intensities
+background correction
+linear increase
+keck foundation
+expect transcription
+make comparisons
+primate tissues
+affinity adjustments
+geo database
+gene regulation1
+gene rankings 489­493
+p53 gene
+gene labels
+natural selection
+primate species
+evolutionary time
+variance j1
+evolutionary constraint
+mutational variance
+individual ratio à á ^
+cdna array
+specific lineages
+parallel patterns
+gene-expression patterns
+inter-block information
+regional patterns
+permissions information
+genome res
+phylogenetic shadowing
+providing samples
+general agreement
+liver samples
+significant excess
+reduced expression
+error term
+human sequences
+human mrnas
+human adaptations
+human lineage1
+human lineage
+human reference
+expression difference
+70 myr suggests
+fixed effects
+confounding effects
+common ancestor
+functional categories
+functional importance
+based primarily
+directional selection
+stablizing selection
+stabilizing selection
+human compared
+relative rates
+neutral model
+data collected
+data mining
+random effect
+nonhuman primates
+mixed-effects models
+technical explanation
+cis-regulatory module
+molecular devices
+stringent criterion
+eds gentleman
+liver carcinoma21­24
+warrant inclusion
+posterior probability
+top 100 candidates
+online version
+computing environment
+considerable uncertainty
+authors declare
+macaca mulatta
+lowess curves
+inter-primate comparisons2
+red channel
+9 march 2006
+
+figure 2
+natl acad
+mixed-model reanalysis
+block sizes
+noncoding elements
+stringent cutoff
+adult males
+pongo pygmaeus
+green channel
+anticancer res
+stabilizing selection13
+broad capacity
+received 5 november
+provide insight
+yale hospitals
+statistical meta-analysis11
+transcriptional consequences
+frequent downregulation
+outgroup data10
+differential degradation
+embo fellowship
+technical replicates
+distinct colours
+pan troglodytes
+substantially smaller
+potentially affecting
+cy3 foreground
+present address
+species16 recapitulates
+recent papers
+previous studies2
+caenorhabditis elegans
+give cy5
+accepted 29 december 2005
+relaxed cutoff
+backgroundcorrected cy5
+common pattern
+finding serves
+divergence times
+slightly enriched
+estimate lineage-specific
+developmental stages26
+alicia oshlack2
+genetic architecture
+top candidates
+individual variance
+positive selection
+full model
+explicit model
+functional evolution
+large number
+humans relative
+hypothesis testing
+crossed term
+multiple testing
+supplementary fig
+general approach
+human-specific increase
+inhibitory effect
+subsequent analyses
+statistical analyses
+clear increase
+electrophoretic analyses
+supplementary methods
+remained similar
+non-human primates
+gene regulation
+species probe
+gene probes
+56-fold difference
+comparative analysis
+244
+
+findings raise
+image analysis
+ranked 5th
+findings suggest
+rapid evolution
+transcriptome evolution
+evolution int
+highest-ranked genes
+protein-coding genes
+genes deemed
+methylated genes
+identified genes
+rank genes
+exclude genes
+removed genes
+056 orthologous genes
+remaining genes
+select genes
+human cancer
+reduced model
+gene set
+human genetics
+plos biol
+liver tissues
+recent studies
+parameter estimates
+cutoff chosen
+downstream targets
+observations suggest
+considered models
+give 1% fdr
+one-tailed fisher
+evolve slower
+decay rates
+evolve rapidly
+intensity-dependent normalization
+disease-association studies
+gilad@uchicago
+weak evidence
+previous studies
+bias estimates
+including liver
+nhmrc grants
+species biases
+species involved
+approach requires
+powerful approach
+shared phylogeny
+major lineages
+entire phylogeny
+yale university
+x2 distribution
+altered specifically
+ranked genes
+identify genes
+white@yale
+single-species arrays
+equal numbers
+top 100 genes
+category `regulation
+phenotypic evolution
+statistic
+found 110 genes
+target species
+humans compared
+likelihood
+nature
+nature 437
+nature 438
+ratio
+estimated
+j2
+levels
+chimpanzee
+species due
+research
+relative
+expression
+differences
+hybridization
+tp parameters
+drosophila
+mutation
+gene
+significantly
+elevated
+human
+probe
+neutral
+selection
+table 1
+data
+1 table 1
+selected
+divergence
+total
+process
+s3
+s2
+s1
+brain
+lineage
+s4
+revealed
+finding
+wwox
+reference
+observed
+expected
+liver
+figure 3
+genepix 6
+9 march 2006
+influence
+time
+array
+model
+9% compared
+42% compared
+testing
+term
+numbers
+increase
+pattern
+effect
+analyses
+positive
+reduced
+similar
+difference
+findings
+ranked
+analysis
+evolution
+evolution 59
+genes
+907 genes
+84 genes
+30 genes
+100 genes
+446 genes
+19 genes
+identify
+target
+top
+primates
+phenotypic
+estimates
+targets
+study
+studies
+including
+evolve
+estimate
+rates
+observations
+curves
+considered
+fitted
+find
+individual
+colours
+chosen
+grants
+tissues
+extracted
+equal
+upregulated
+normalization
+primarily
+fisher
+biol
+fdr
+evidence
+gilad
+species
+found
+approach
+fig
+phylogeny
+lineages
+methods
+cancer 91
+tp
+cancer 41
+excess
+distribution
+university
+number
+tp ¼
+altered
+2 distribution
+& white
+5 myr
+80 arrays
+genetics 170
+due
+65 myr
+genetics 165
+arrays
+myr
+genetics
+regulation
+probes
+humans
+parameters
+12 parameters
+set
+2walter
+pointing
+bustamante
+focus
+bioconductor
+comments
+& mcintyre
+sci
+reasoning
+tt
+finally
+program
+ti
+supported
+paabo
+results
+5/12
+nuzhdin
+enard
+--
+12th
+list
+over-representation
+trend
+synergy
+blue
+aim
+& wilson
+chicago
+contributions
+smyth
+carey
+dudoit
+contrast
+illinois 60605
+focused
+represented
+obtained
+sugeno
+changed
+wolfinger
+e93
+products
+hepatoma
+action
+10% representation
+vol 440
+problematic
+explained
+mice
+addressed
+org
+plot
+usa
+igfbp2
+chu
+/reprintsandpermissions
+controlling
+przeworski
+springer
+evolved
+performed
+assumptions
+allowed
+goal
+holds
+genomes
+58th
+s-
+reject
+elegans20
+proc
+intra-
+npg
+designed
+date
+boffelli
+annotation
+types
+harmon
+biometrika 58
+correlation
+order
+proteins16
+words
+produced
+paper
+argued
+atp7b
+fit
+pcr
+denver
+absence
+orange
+eur
+evol
+& huber
+speculate
+connecticut 06510
+correspondence
+magnitude
+2a
+2b
+constraints
+springerverlag
+generation
+chose
+measurement
+http
+approximated
+shown
+restricted
+ludwig
+rise
+health
+maximized
+suggesting
+ranz
+ref
+speed2
+neutrally
+possibility
+70 myr19
+small
+california
+science 309
+explanations
+reexamined
+inferred
+gordon
+tempting
+khaitovich
+suffice
+features
+bioinformatics
+synonymous
+houle
+1 tijp
+& hartl
+1a
+1b
+consistent
+victoria 3052
+serve
+environmental
+focusing
+haven
+3 & kevin
+summary
+yang
+result
+livers
+meiklejohn
+manuscript
+hsieh
+linked
+implemented
+note
+majority
+hp
+criteria
+patterson
+park
+sets
+representation
+acknowledgements
+irizarry
+deviations
+doi
+unequal
+observation
+average
+implications
+repeated
+statmod
+species14
+/nature
+bertone
+& bates
+king
+indicator
+proportion
+wayne
+drosophila16
+chimpanzees
+adequate
+loss
+means
+e132
+smyth2
+holt
+implying
+evolving
+orangutans
+uncorrelated
+subject
+karaman
+science 299
+science 296
+identification
+//www
+variability
+terms
+missing
+york
+between-to-
+extent
+pinheiro
+suppressed
+outgroups
+concentrated
+requests
+estimation
+ing1
+adjusted
+& nei
+point
+berkeley
+downregulated
+corresponds
+gastroenterol
+castillo-davis
+pt
+basis
+addition
+reduction
+replicate
+combined
+interest
+3 degrees
+benjamini
+3department
+applied
+variances
+arnold
+aid
+discrepancy
+transcriptomes
+heart2
+glazko
+development
+suggestion
+x-axis
+assignment
+mbd4
+kim
+symmetrical
+caceres
+80 hybridizations
+relies
+modes
+scenario
+investigation
+materials
+relied
+indicative
+science 300
+left
+biostatistics
+hypothesized
+accurate
+mol
+flies
+chiba
+usa 100
+overrepresented
+clark
+conclusions
+tijp
+geneontology
+australia
+& hochberg
+world
+imposed
+helpful
+reprints
+rifkin
+deleterious
+individuals
+gerstein
+www
+ecology
+science 188
+`normexp
+examples
+66th
+assuming
+& gibson
+meta-analysis
+uncorrected
+equivalent
+analysed
+notably
+step
+br
+offset
+comparison
+limitation
+kevin
+freedom
+practical
+soc
+previously
+terence
+assess
+neutrality
+statistics
+r-project
+assumed
+support
+approximate
+deposited
+function
+conflicting2
+parkville
+white1
+failure
+staged10
+true
+zhu
+proteins27
+sub-model
+& thompson
+array28
+california 94720
+agree
+ordered
+28th
+al
+examine
+scanned
+simulations
+1% fdr17
+constructed
+application
+interested
+details
+lemos
+stat
+recovery
+generated
+structure
+assume
+& weiss
+validation
+424­ -434
+0
+4
+1903­ -1909
+1 £ 1023
+33
+30%
+6
+138­ -144
+9%
+8
+397­ -420
+1995
+1
+753­ -759
+1462­ -1473
+¼ 6
+¼ 0
+24
+25
+26
+27
+20
+21
+23
+28
+10%
+9
+1308­ -1317
+1619­ -1630
+84
+220­ -223
+7
+¼
+674­ -680
+­
+747­ -757
+1045­ -1048
+11
+10
+13
+12
+15
+14
+17
+16
+18
+1391­ -1394
+1742­ -1745
+^ 1 ^1
+57
+52%
+29
+545­ -554
+12%
+11­13
+2
+19
+03
+01
+05
+3
+1863­ -1872
+22
+6%
+25%
+^
+003
+001
+289­ -300
+30
+4%
+55
+50
+37
+5%
+1850­ -1854
+1975
+478­ -490
+13030­ -13035
+544­ -548
+1185­ -1194
+1971
+3 £ 1025
+107­ -116
+1028
+929­ -939
+1153­ -1157
+126­ -137
+245
+
+5
+60%
+2003
+45
+43
+340­ -343
+2005
+2002
+2000
+2004

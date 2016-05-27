@@ -1,0 +1,232 @@
+anonymous
+Biochemistry
+Slaybaugh
+valuable
+Research
+Quantitative phenotypic
+pseudoknots
+plausible secondary
+RNAinverse
+computation
+pseudoknotted structures
+Department
+dumbbell
+phenotypic analysis
+Schuster
+Foundation
+thermodynamic stability
+manageable
+Columbia
+generator
+combinatorial
+implementation
+structural properties
+Springer-Verlag
+thermodynamic parameters
+thermodynamics
+molecules
+Methanocaldococcus
+PairFold
+Bonhoeffer
+Secondary
+kcal/mol
+programming algorithm
+Molecular computation
+DESIGNER
+straightforward
+permission
+impossible
+functional
+oligonucleotide
+Algorithms
+cellular
+molecular bar-coding
+GGAGAGAGAAGUCAACCAGAGAAACACACCAACCCAUUGCACUCCGGGUUGGUGGUAUAUUACCUGGUACGGGGGAAACUUCGUGGUGGCCG
+specific
+nanotechnology
+difference
+ribozyme-inhibitor
+HYTHERTM
+Lashkari
+occurring
+structure description
+oligonucleotide affinity
+Sciences
+Engineering Research
+substructure
+consensus
+nanostructure
+physical separation
+measuring
+pseudoknotted secondary
+sequence
+Implementation
+intermolecular initiation
+structure prediction
+pseudo-random
+Thermodynamic parameters
+Combinatorial
+Governmental
+computer
+specified
+particular structural
+matching
+Ribosomal Database
+Gultyaev
+provided
+Government
+sequence constraints
+possible secondary
+critical
+identification
+Accepted
+available
+processing
+algorithmic
+respectively
+University
+predicting
+component
+agreement
+CombFold
+parallel signature
+Barciszewski
+interface
+Advanced Research
+non-standard
+comparison
+Selection
+standalone
+technical
+practical
+IMPLEMENTATION
+Computer
+OligoWalk
+Faulhammer
+expression
+Predicting thermodynamic
+software
+additional parameters
+characterization
+overview
+molecular structure
+Predictions
+building artificial
+instances
+Accordingly
+Dot-parenthesis representation
+REFERENCES
+sequences
+proportional
+Shoemaker
+Hofacker
+Chelyapov
+Ferre-D'Amare
+International Workshop
+GCCGCACGCGAGACCGCGCA
+temperature
+addition
+specified temperature
+GCCGCACGCGAGACCGCGCACUCCGCGGGAUG CCCAUAGGAGAAGCGGCAUUACCUGUAGCCAAGCCAGUA
+McCollum
+Connectivity
+concatenating
+dot-parenthesis representation
+sequence AUGCAAUGCGCAUGCAC
+Bioinformatics
+PAIRFOLD
+molecular
+crystallization construct
+Furthermore
+wall-clock
+corresponding
+functional properties
+Batenburg
+dot-parenthesis
+Academic
+construction
+favorable
+stochastic
+Following
+Bradyrhizobium
+Andronescu
+nanostructures
+secondary structure
+multistable secondary
+Increasingly
+HYTHERTM software
+pseudoknot
+official
+Kirchner
+enthalpy
+SantaLucia
+individual
+Rothemund
+behavior
+secondary structures
+Danielle
+Throughout
+Received February
+copyright annotation
+correspondence
+calculation
+ABSTRACT
+Designing
+concatenation
+INTRODUCTION Software
+respective
+CGCGGUCUCGCGUGCUUGGC
+application
+Vancouver
+corresponding structures
+GGCCACCUGACAGUCCUCUCC
+biological sequences
+Williams
+information
+different
+Stiegler
+20-variable
+sequence specification
+Predicting oligonucleotide
+efficient
+alphabet
+Research Projects
+thermodynamic properties
+Extending
+functionality
+Graphical depiction
+Zuker­Stiegler algorithm
+development
+Research Laboratory
+extended
+multiple
+description
+parallel molecular
+modulation
+molecule
+standard thermodynamic
+computer simulation
+ProbeSelect
+applications
+nearest-neighbor
+important
+Landweber
+Biotechnology
+Spirochaeta
+probabilistic
+response
+COMBFOLD CombFold
+ribozyme
+auxiliary
+algorithm
+mutagenesis
+biomolecular computations
+Monatshefte
+specific secondary
+unwanted secondary
+hierarchical
+Examples
+Aguirre-Hernandez
+representation
+Possible applications
+Contributions

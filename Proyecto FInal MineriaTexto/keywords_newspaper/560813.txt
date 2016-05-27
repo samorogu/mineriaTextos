@@ -1,0 +1,13 @@
+yeast
+interactions
+proteins
+560813txt
+complexes
+complex
+master
+fig
+proteinprotein
+samorogu
+protein
+data
+mass

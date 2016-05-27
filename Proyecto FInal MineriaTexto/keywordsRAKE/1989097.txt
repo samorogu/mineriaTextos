@@ -1,0 +1,1531 @@
+indels/kb donor acceptor rfc percent local nucleotide peptide ka/ks gene neighborhood fs non-fs score present stops identity identity sites cons sites cons codon position
+studying cross-spesynteny exon exon exon exon exonexon 1 2 3 1 2 3 cies conservation
+human amino acid intron 1 intron 2 splice sites sequence
+6
+
+valid functional retroposons/pseudogenes 6
+
+miscellaneous artifacts orphans total invalid
+
+cross-species orthologs
+nonconserved human orfs represent bona fide human protein-coding genes
+frame alignment exon 1 exon 2 exon 3 codon mouse matching
+49
+
+large-scale cdna sequencing projects yield ever-larger numbers
+coding strand reveals unambiguous cross-species orthologs
+acceptor sites highlighted
+computational pipeline found 598 additional valid protein-coding genes based
+proc natl acad sci usa 103
+intron 1 intron 2 summary data shows
+resulting uncertainty hampers biomedical projects
+health national human genome research institute
+generated detailed graphical ``report cards
+147 3
+14
+
+human-specific paralogs pfam domains
+
+human-specific paralogs
+transcript-derived form human genomic dna
+local gene family expansion
+indels position 2 dog codon mouse
+orphans represent valid human protein-coding genes
+calculated separate rfc scores relative
+substantial peptide identity
+genes largely represent nonlocal duplications
+exon boundaries codon mouse
+nucleotide identity scores
+functionally meaningless orfs present
+largest open question concerns
+895 putative genes
+
+invalid retroposons/pseudogenes 1
+conserved splice sites
+gene neighborhood shows
+peptide identity
+local effects due
+two-base donor
+ka/ks ratio
+evaluating future proposed additions
+examining local anomalies
+orf 400 bases long [supporting information
+2 0 30 40 50 60 70 80 rfc score 90 100
+
+macaque
+
+cumulative frequency
+represent true cross-species differences
+refseq entry contained references
+detect instances misclassifications due
+nucleotide substitution rate relative
+reflects meaningful evolutionary differences
+small triangles dog position 3
+nucleotide identity
+rfc score shows virtually
+nonmatchdog position 1 ing
+dog provide graphical views
+versus matched random controls
+random
+cumulative frequency
+
+orphan
+cdna sequencing projects
+2 0 30 40 50 60 70 80 rfc score 90 100
+
+cumulative frequency
+rehuman mouse peat content
+gene report gene type
+``splice sites
+splice sites
+hundred additional protein-coding genes
+liver-expressed antimicrobial peptide
+matched random control sequence
+differential mutation patterns expected
+gene neighborhood
+recognize valid protein-coding transcripts
+found articles reporting experimental evidence
+2 0 30 40 50 60 70 80 rfc score 90 100
+
+chimp
+
+fig
+human protein-coding genes remains
+complete dna sequence alignment
+alignment detail summary information
+top shows chromosomal location
+cross-species conservation suggests altering
+human genome reference sequence
+752
+
+cross-species orthologs cross-species paralogs
+
+18
+protein-coding genes vary widely
+valid human protein-coding genes
+mouse genome sequencing consortium
+orf lengths closely resembles
+matched random controls differ
+simply randomly occurring orfs
+underwent independent loss events
+hepcidin precursor gc content
+study requires carefully filtering
+codon substitution frequency
+human genome
+michele clamp*
+simple ortholog enst00000 222 304 refseq
+stops tions
+reported human gene annotations
+mouse [ 75 million years ago
+simply varying numbers
+close inspection identified 40 cases
+close inspection eliminated 21 cases
+close inspection eliminated 17 cases
+2% yielded csf scores consistent
+identify conserved protein-coding genes
+human gene catalogs [ensembl
+supporting information online
+genes lack clear orthologs
+rfc score reflects
+codon evolution pattern
+2 0 30 40 50 60 70 80 rfc score 90 100
+
+joint
+joint rfc score
+nucleotide mismatches found
+represent protein-coding genes
+nonconserved orfs represent
+high-gc content reflects
+transposon underwent exaptation
+annotated stop codon
+represent alternative alleles
+central pipeline illustrates
+internal exon
+including rfc score
+combined rfc score
+studying gene evolution
+completed 4 years ago
+annotated start codon
+analysis requires studying
+protein-coding conservation relative
+matched random controls
+functional protein-coding genes
+conservation statistics relative
+scientifically valid methodology
+possibly gene losses
+multiexon parent gene
+gene death erasing
+gene family expansions
+single-exon parent gene
+108 valid protein-coding genes
+valid protein-coding genes
+random
+cumulative frequency
+de bruijn mh
+dramatically increasing specificity
+stops
+proven surprisingly difficult
+clear cross-species orthologs
+involve special considerations
+close inspecpnas december 4
+plos comput biol 2
+artificial intelligence laboratory
+report cards provide
+represent primate-specific families
+strong cross-species conservation
+refining gene annotation
+gene boundary annotation
+valid human genes
+putative protein-coding gene
+additional protein-coding genes
+random controls exceed
+peptide hormones
+rapidly evolving subset
+showed strong differentiation
+human gene annotation
+human annotation allowed
+pfam domains homologous
+potentially functional retroposons
+performed manual inspection
+highest independent score
+human gene catalogs
+reading frame conservation
+human genome project
+high-quality genomic sequence
+encode project consortium
+org cgi doi 10
+important biological implication
+smaller paralogous groups
+potentially important rnas
+current gene catalogs
+conserve reading frame
+provide strong evidence
+nucleic acids res 34
+nucleic acids res 35
+nucleic acids res 33
+simply random occurrences
+valid proteincoding genes
+randoms orfs arising
+current catalogs list
+newly arising genes
+nonconserved human orfs
+current human catalogs
+direct mass-spectrometric evidence
+shows sequence conservation
+excluding orfs simply
+improving gene annotations
+pairwise blastz alignment
+create accurate catalogs
+long tandem repeats
+nucleotide substitution
+published articles mentioning
+simply random orfs
+conserved reading frame
+additional 673 proteincoding genes
+additional proteincoding genes
+rapidly evolving genes
+500 putative protein-coding genes
+putative protein-coding genes
+common mammalian ancestor
+mammalian protein-coding genes
+paralogous families shows
+human gene catalog
+experimental evidence exists
+direct experimental evidence
+putative genes resulting
+excluding putative genes
+major gene catalogs
+nonframeshifting indel density/kb
+harvard medical school
+49 19429
+
+genetics
+
+tion revealed
+current gene catalog
+putative human genes
+reflect gene innovation
+small paralogous families
+simply spurious occurrences
+orthologous dna sequence
+reported experimental evidence
+small change correction
+sufficiently small fraction
+closest primate relatives
+cross-species conservation properties
+undertook visual inspection
+nonconserved orfs identified
+nonconserved orfs studied
+568 processed pseudogenes derived
+483 processed pseudogenes derived
+protein-coding genes encoded
+show evolutionary conservation
+000 show evolutionary conservation
+studied genes exceed
+simply spurious orfs
+clear human ortholog
+human genome encodes
+clear experimental evidence
+putative genes consist
+report cards show
+mammalian proteincoding genes
+deserve focused attention
+stop codon
+current genome assembly
+random gc-rich sequence
+additional mammalian species
+position
+prevented accurate analysis
+reliable sequence alignment
+large-scale alignment
+identified putative genes
+excludes putative entries
+210 involving simple orthology
+nucleotide identities
+ancestral mammalian genes
+pipeline identified 68 cases
+pipeline identified 97 cases
+177
+
+1532
+
+retroposons / pseudogenes
+comparative genomic analysis
+ensembl genome browser
+dna protein length
+conservation properties studied
+lack cross-species counterparts
+lander*§¶
+*broad institute
+rfc score
+2 0 30 40 50 60 70 80 rfc score 90 100
+aligned orthologous sequence
+functional gene
+show strong similarity
+285 putative genes remained
+mouse assembly ncbi36
+100 amino acids
+valid gene
+manually reviewed entries
+computational pipeline
+identified 23 clear errors
+cdna sequence
+calculated relative
+biomedical research
+cross-species orthologs
+closely matched
+rfc scores
+present
+protein-coding gene
+cumulative frequency
+
+0
+cumulative frequency
+
+1
+ancestral genes lost
+systematic sequencing
+encode short proteins
+human gene
+invalid genes
+valid genes
+random dna
+51
+
+total valid
+
+19
+gene annotation
+``summary data
+random controls
+dna alignment
+cross-species alignment
+``alignment detail
+75 million years
+gene loss
+177
+
+pfam domains
+pfam domains
+score based
+``frame alignment
+evolutionary conservation
+hepcidin precursor
+report cards
+gc content
+number indicating length
+random occurrences
+human genome
+human catalogs
+genomic sequence
+small gene
+cross-species paralogs
+787
+
+cross-species paralogs
+declaring orthologs
+true innovation
+performed research
+218 protein-coding genes
+500 protein-coding genes
+78 protein-coding genes
+protein-coding genes
+13 protein-coding genes
+reading frame
+csf score
+human sequence
+nonconserved orfs
+current catalogs
+genome res
+splice site
+rfc curves
+human orfs
+orthologous gene
+national academy
+additional retroposons
+national institutes
+sequence alignment
+human genes
+light dog gray
+studied gene
+largely consist
+published articles
+domains common
+computational protocol
+long orfs
+gene catalog
+strong evidence
+cross-species ortholog
+genome browser
+reading-frame conservation
+distinguishing protein-coding
+gene structure
+gene birth
+evolutionary innovation
+evolutionary pattern
+primate-specific domains
+similar rfc
+experimental evidence
+putative genes
+212 putative genes
+197 putative genes
+895 putative genes
+218 putative genes
+designed research
+§whitehead institute
+pfam collection
+carefully analyzing
+segmental duplications
+genomic data--typically
+events occurring
+cross-species counterparts
+careful filtering
+nonconserved orfs--specifically
+massachusetts institute
+additional cases
+smaller orfs
+protein family
+computational analysis
+human lineage
+spotting human
+summary tables
+open-reading frame
+small orfs
+proteincoding genes
+results
+identifying orphans
+clear evidence
+current databases
+evolve rapidly
+rfc distribution
+usa
+
+19428 ­19433
+
+www
+small change
+accurate catalog
+largely stable
+past 3 years
+share largely
+``simple orthology
+orf lengths
+primate relatives
+simple orthology
+cross-species analysis
+protein alignment
+enprotein domains
+primate-specific genes
+identify genes
+ensembl annotation
+clear artifacts
+spurious orfs
+conservation properties
+hepcidin repeat
+prodigious rate
+key events
+ferocious rate
+orthologous genes
+cumulative distributions
+processed pseudogenes
+rigorous catalogs
+catalogs add
+providing data
+resequencing data
+analyzed data
+human biology
+putative protein
+ancestral genes
+studied genes
+reading frames
+human orphans
+low-coverage sequence
+pseudogene sequence
+repetitive sequence
+transposonderived sequence
+high-coverage sequence
+neutral sequence
+repeat sequence
+processed pseudogene
+important challenge
+tandem repeat
+visual framework
+highest confidence
+made clear
+important consequences
+identified based
+expected evolution
+shorter orfs
+cdrt15 families
+gene identification
+downstream genes
+fewer genes
+12 reported cases
+reported cases
+final total
+large fraction
+total reaches 19
+comparative genomics
+evidence whatsoever
+168 ``human-specific
+orphans shows
+clear errors
+mouse genome
+genome alignments
+eliminated pseudogenes
+classified based
+63 2 53% 2 2 2 tions expected
+longest orf
+primate lineage
+noncoding genes
+identified retroposons
+combined analysis
+mismatching bases
+distinctive evolution
+stop codons
+nonetheless substantial
+substantial portion
+obvious artifacts
+sequence alignments
+represent
+similar lengths
+principled methodology
+blastz alignments
+alternative identifiers
+dog genome
+mammalian lineages
+including cases
+encoded proteins
+catalog includes
+major revision
+mammalian species
+encoded protein
+sharply separated
+twofold challenge
+unaligned segments
+briefly summarize
+[recent studies
+minx pj
+authors declare
+10-fold lower
+kulbokas ej
+schroeder aj
+transposable elements
+considerable doubt
+segmental duplication
+vertical lines
+wade cm
+slightly lower
+xiaohui xie*
+surrounding region
+barrell bg
+limit propagation
+542 involving coorthology
+vast majority
+d247­d251
+rna transcripts
+jaffe db
+sharpest distinctions
+case-by-case basis
+sliding windows
+searle sm
+complicates efforts
+d61­d65
+zody mc
+careful review
+complicates studies
+essentially indistinguishable
+review august 1
+chang jl
+precisely interrupts
+ben fry*
+modified primarily
+broadly accepted
+helped shape
+``complex orthology
+roe ba
+gramates ls
+255 bp coding
+d459­d465
+scientific literature
+``unplaced contigs
+wan kh
+recent studies
+org/cgi/content/full/ 0709013104/dc1
+genomics-- determining
+pierre se
+falls short
+pruitt kd
+mikkelsen ts
+cordum hs
+brown lg
+coulson ar
+wholly implausible
+crossspecies counterpart
+scientific justification
+ashurst jl
+/mammals/ alpheus
+excess muta0
+karlsson ek
+identifying transcripts
+broadly suspected
+constitute proof
+indel density
+crossspecies counterparts
+``unmapped contigs
+james cuff*
+elusive target
+eichler ee
+syntenic region
+developmental stages
+d610­ d617
+eperon ic
+frith mc
+lineage leading
+maglott dr
+propel understanding
+carlson jw
+non-protein-coding transcripts
+aken bl
+trends genet 17
+1101/ gr
+studying
+author contributions
+essentially identical
+hubbard tj
+underlying premise
+start codons
+initial attempt
+finished assembly
+nierlich dp
+santa cruz
+gilbert jg
+large collection
+discernable effect
+method calculates
+ponting cp
+short peptides
+matthews bb
+ensembl catalog
+remaining 36 genes
+alternative hypothesis
+substantial proportion
+si figs
+si appendix
+si table 2
+si table 1
+si table 4
+protein domain
+dog genes
+genes defined
+genes born
+mouse bases
+lack orthology
+noncoding transcripts
+identified 155 cases
+mclamp@broad
+lander@broad
+apparent errors
+colored gray
+light gray
+dark gray
+refseq entries
+revision eliminates
+analysis yields
+analysis begins
+analysis implies
+subsequent analysis
+preliminary analysis
+careful analysis
+recent analysis
+substantial overlap
+96 mouse chr 7 100
+mouse chr 7 19
+mouse lineage
+highly similar
+systems biology
+principled manner
+steady process
+49 19431
+
+genetics
+
+fig
+functional
+sequence divergence
+orphans include
+177 orphans include
+term ``orphans
+si fig
+si tables 1
+previous entries
+invalid
+huge number
+valid
+pnas
+
+december 4
+pnas december 4
+orphans show
+dog genomes
+79 dog chr 1 100
+dog chr 1 119
+helpful discussions
+crossspecies comparison
+larger precursors
+chen ck
+median 393 bp
+observed gc-content
+readily restored
+recently developed
+tendency whatsoever
+stringent filter
+mathematical expectation
+csf approach
+crucial issue
+kerstin lindblad-toh*
+complementary test
+gene-rich regions
+frequent presence
+search tools
+final classification
+lin mf
+maximum percentage
+three-quarters lie
+orthologs
+score
+drosophila species
+produce protein
+tighter distribution
+similar proportion
+crosby ma
+interrupted synteny
+synteny nets
+ma 02115 contributed
+9 cambridge center
+7 cambridge center
+rfc
+rfc 90
+noncoding regions
+dog broad
+matching
+pipeline
+computer science
+mitochondrial chromosome
+mitochrondrial chromosome [
+manolis kellis*
+directly shown
+determined
+19430 www
+mike kamal*
+rigorously reject
+0% sembl v35
+information
+typically included
+recent article
+full set
+alignments
+clamp
+similar number
+analysis considered
+remaining 51 cases
+process revised
+inspection
+species mouse
+487 cases consisting
+protein-coding
+gene
+wide range
+future
+relative
+low abundance
+resulting
+frequency
+exceeding 300 bp
+human
+frame
+simply
+remaining set
+scores
+retained introns
+alignment
+report
+conserved
+long
+articles
+shows
+hamp 3 exons
+independent
+genome
+catalogs
+chimpanzee lineages
+sequence
+widely
+coding
+triangles
+org
+paralogs
+detect
+boundaries
+3 coding
+differ
+clear
+proteincoding
+patterns
+small
+found
+orfs
+families
+895 genes
+752 genes
+572 genes
+488 genes
+genes
+210 genes
+000 genes
+168 genes
+total
+identify
+occurring
+evidence
+reflect
+reporting 19
+50% gc
+reporting
+annotations
+expected
+orf
+spurious
+based
+identified 1
+identified
+ancestral
+studied
+100 bases
+bases
+evolution
+artifacts
+refseq
+eliminated
+pseudogenes
+0709013104
+
+ortholog
+ortholog
+catalog
+similarity
+gc-rich
+transcripts
+aligned
+annotated
+light 0
+harvard
+counterparts
+``indels
+encodes
+encode
+undertook
+mismatches
+proteins
+identifying
+assembly
+start
+135 retroposons
+49
+
+19433
+
+genetics
+lander
+indicating
+csf
+short
+reliable
+reviewed
+indels
+indel
+suggests
+1 orthology
+length
+retroposons
+si
+protein
+show
+ensembl
+noncoding
+lack
+broad
+errors
+hypothesis
+61 2 2 2 2 gray
+gray
+consistent
+study
+proportion
+revision
+analysis
+mouse
+fig
+principled
+alignments
+remained
+tables
+similar
+process
+biology
+12 cases
+18 cases
+cases
+417 cases
+332 cases
+40 cases
+178 cases
+177 cases
+68 cases
+200 cases
+40 36 68
+
+orphans
+177 orphans
+orphans
+479 orphans
+entries
+551 entries
+remaining 15%
+remaining 1
+clamp
+number
+properties
+0709013104
+
+properties
+dog
+chen
+consisting
+classification
+abundance
+filter
+top
+percentage
+approach
+lineages
+born
+presence
+hamp
+distributions
+test
+restored
+1970 bp
+produce
+tendency
+revised
+2 427 bp
+considered
+expectation
+comparison
+low
+top 1%
+search
+developed
+issue
+retained
+lie
+lin
+wide
+lindblad-toh
+range
+defined
+2622 bp
+gc-content
+focused
+larger
+regions
+97% exceeding
+``coorthology
+helpful
+lost
+overlap
+species
+macaque
+distribution
+ma 02139
+cambridge
+synteny
+``synteny
+ma 02142
+introns
+chromosome 19
+shown
+kellis
+identification
+science 308
+science 309
+chromosome
+1073 pnas
+pnas
+www
+19432 www
+article
+v35
+included
+reject
+set
+kamal
+results
+250 exons
+exons
+``exons
+divergence
+chimpanzee
+divergence
+1
+upstream
+kaessmann
+blue
+selected
+palevol 3
+cheng
+reports
+controversy
+procedure
+stern
+circumstances
+work
+exceptions
+turn
+invalidity
+frame-preserving
+15 belonging
+algorithms
+solution
+combining
+recognizable
+tatusova
+schuster-bockler
+medicine
+created
+starts
+restrict
+chromosomes 1­22
+rates
+matter
+classes
+boston
+rat
+-
+wells
+reevaluation
+katayama
+principle
+dot
+ravasi
+frameshifting
+fascinating
+sensitivity
+keenan
+result
+fail
+confusion
+handful
+extent
+improve
+adapted
+deleindels
+interest
+entered
+applied
+version 35
+suppose
+aid
+characterizing
+birthdates
+ii
+2007
+
+vol
+nature 290
+tammana
+tenrec
+misassemblies
+failing
+materials
+left
+assigned
+pilbeam
+ballester
+bottom
+purple
+ucsc
+deleted
+class 5
+class 4
+class 3
+class 2
+class 1
+class 0
+kasukawa
+ensure
+marshall
+obtaining
+accommodate
+anderson
+underestimated
+panels
+exist
+check
+picture
+time
+nurseries
+alternatives
+focus
+nature 447
+october 3
+finally
+yeast
+discover
+assistance
+meidl
+hillier
+drenkow
+marked
+nm_021175
+rarely
+prove
+scenarios
+jekosch
+march 2007
+validity
+originally
+vega
+growing
+occur
+pink
+discussion
+criterion
+elephant
+9 members
+beal
+st
+shaky
+group
+correspondence
+nature 438
+possibilities
+happen
+suggesting
+california
+card
+duf1220
+omitted
+pyntikova
+specifically
+white
+trevanion
+cutts
+require
+nature 423
+note
+sciences
+potential
+green
+paralogy
+importantly
+average
+bieri
+brubaker
+threshold
+homology
+black
+inventions
+primates
+reveal
+declared
+6 mya
+nature 420
+eliminating
+deletions
+skaletsky
+overview
+period
+drouin
+npip
+situation
+middle
+technology
+extended
+maeda
+arose
+changing
+by-product
+model
+valuable
+world
+gaffney
+discussed
+hg17
+886 hugo
+determine
+mammals
+regard
+applying
+v34
+v38
+fryc
+al
+vertex
+suited
+insertions
+splicing
+preserved
+equivocal
+fall
+difference
+translating
+invention
+attributable
+contrast
+khanna
+reason
+tested
+remain
+caveat
+arise
+exclude
+clarke
+dog--
+resemble
+fundamental
+helt
+paper
+absence
+propose
+cunningham
+yu
+2a
+2b
+aligns
+harboring
+characterized
+referred
+generation
+mm4
+undertake
+event
+base
+members
+noted
+predate
+slipped
+encoding
+construct
+park
+cdnas
+ranging
+postdate
+vinckenbosch
+added
+measures
+kb
+stalker
+find
+lists 22
+preparing
+remove
+investigate
+wrote
+0% description
+oyama
+lenhard
+nonmatching
+1 mb
+repertoire
+expanded
+nucleotides
+2 kb
+belong
+deletion
+conflict
+higher
+moving
+purpose
+durbin
+consistency
+revising
+griffiths-jones
+patel
+conclusions
+flowchart
+translated
+comprise 0
+essential
+methods
+creation
+hollich
+eliminate
+//genome
+gough
+raising
+2007 vol
+ncbi35
+divergence--
+department
+/mammals/alpheus
+calculating
+problems
+dupanloup
+required
+ali
+young
+at-rich
+michael
+mistry
+kapranov
+canfam1
+finn
+e133
+insertion
+60% ensg00000105 697
+expressed
+involved
+addresses
+distributed
+addressed
+apply
+armadillo
+rabbit
+iii
+6 kb
+account
+averaged
+high
+moxon
+``clean
+¶department
+correspond
+strikingly
+dike
+cutting
+university
+utility
+red
+completely
+explored
+manuscript
+opossum
+repping
+bankier
+lists
+colleagues
+reanalysis
+mit
+transcript
+disease
+fact
+text
+supported
+one-
+50% chance
+version 1
+importance
+interfere
+human-
+problem
+taking
+figures
+unclear
+conclude
+sequences
+respect
+sanger
+addition
+aligning
+tissues
+arisen
+cow
+examined
+30 mya
+http
+lassmann
+caccamo
+obtain
+storey
+vivo
+details
+checking
+goodstadt
+e-mail
+assuming
+limitations
+kuroda-kawaguchi
+coates
+revise
+contractions
+assess
+overlapping
+count
+demonstrate
+paralog
+mya
+eric
+transposons
+conclusion
+carninci
+chance
+661­669
+10%
+104
+99
+98
+97
+55%
+8 0
+3220­3225
+39%
+240
+06%
+108
+
+16 5 40 1
+4 0
+15
+0%
+16%
+6679507
+80%
+1134­1150
+53%
+538
+50
+155
+0
+0
+0
+[
+457­ 465
+239
+1
+937
+100%
+2
+11
+10
+13
+12
+14
+16
+19
+18
+1%
+6 0
+]
+3
+68
+50%
+500
+4
+0 80% 1 80% 69% 0
+752
+60%
+5
+488
+© 2007
+199
+902
+6
+00 7
+00 3
+490
+492
+24
+26
+20
+21
+22
+2%
+7
+8
+9
+899
+825­ 837
+000
+0709013104
+
+21
+305­321
+1149­1154
+799­816
+2002
+2003
+2001
+2006
+2007
+2004
+2005
+967 ­ 119
+33
+35
+3%
+985 ``
+0 0
+8%
+868 147 51 36
+
+8
+
+2
+0 65% 1 65% 0
+7­9
+465
+467
+250 ­ 40
+803­819
+285
+618 ­ 19
+1559­1563
+551 59 1
+1981
+1­3
+40
+4]
+520­562
+470

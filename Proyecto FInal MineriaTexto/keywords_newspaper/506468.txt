@@ -1,0 +1,13 @@
+506468txt
+neural
+positive
+image
+negative
+value
+visual
+neurons
+master
+activity
+images
+samorogu
+amygdala

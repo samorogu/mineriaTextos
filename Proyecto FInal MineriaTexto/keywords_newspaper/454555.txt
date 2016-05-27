@@ -1,0 +1,13 @@
+elements
+families
+family
+sequence
+recon
+element
+repeat
+master
+genome
+454555txt
+images
+samorogu
+alignments

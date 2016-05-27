@@ -1,0 +1,2354 @@
+zm nhar crp fis
+
+alka
+
+katg
+
+dps
+
+osmc
+
+ftsqaz
+
+nhaa
+
+prop
+
+figure 6
+z1 rpos ada oxyr
+
+z2 ihf lrp
+
+z3 hns
+
+z4 rcsa
+activity
+
+z1 z2
+1 2
+
+argr
+
+z3
+3 4 5 6 7 8 9 10
+
+argcbh argd arge
+
+argf
+
+argi
+
+time
+
+figure 5
+arabinose system
+sx = camp crp sy = arabinose arac
+
+lac system
+0
+sx arabad laczya
+
+sx = camp crp sy = allolactose
+slow positive feedback loops drive reliable cell decisions
+genetics
+© 2007 nature publishing group
+
+reviews
+x1 x2 x3
+excitable gene regulatory circuit induces transient cellular differentiation
+purely transcriptional diamond multi-layer perceptrons negative-feedback loops
+genetic regulatory networks programming hematopoietic stem cells
+z3 threshold z2 threshold z1 threshold
+
+z1
+
+z2
+negative feedback regulators defines growth factor signaling
+negative autoregulation simple regulation positive autoregulation
+
+figure 1
+caenorhabditis elegans95 shows motifs including ffls7
+unusual zn-finger/fh2 domain protein controls
+genetics
+© 2007 nature publishing group
+
+volume 8
+sum input function prolongs flagella production
+cold spring harbor laboratory press
+volume 8
+© 2007 nature publishing group
+
+www
+genetics
+© 2007 nature publishing group
+
+reviews
+1
+regulatory network dynamics reveals large topological
+camp crp galactose gals
+bacterial cell-cycle regulatory network operating
+uri alon laboratory web site
+c-myc-regulated micrornas modulate e2f1 expression
+experimental approaches
+uri alon
+
+abstract
+activators activate
+
+dense overlapping regulons
+signal-transduction networks show feedforward loops
+biological networks
+composite negative-feedback loops
+support
+
+competing interests statement
+cortical circuitry harbours triplets
+zn z1 z2 z3
+sos dna repair system46
+core transcriptional regulatory circuitry
+human embryonic stem cells
+feed-forward loop involving gbf
+integrated saccharomyces cerevisiae interaction network
+potentially perform additional computational functions
+composite negative-feedback loop coupled
+increase cell­cell variability
+gene product decays exponentially
+form multi-layer perceptron motifs
+incoherent feed-forward loop accelerates
+incoherent type-1 feeforward loop
+regulate multiple output genes z1
+escherichia coli transcriptional regulatory network
+asymmetric neuronal fate decision
+starvation signal sx activates x1
+incoherent type-1 feedforward loops
+coherent type-1 feedforward loops
+sos dna repair network
+prokaryotic transcriptional regulatory networks
+coherent feedforward loop serves
+information
+uri alon laboratory
+transcription negative feedback loops
+single large output pulse87
+coherent type-1 feedforward loop
+generate finer temporal programmes
+living escherichia coli cells show
+developmental genetic regulatory networks
+schematic cell­cell distribution
+neuronal cell fate decision
+display significant network motifs98
+single differentiating cell type
+seek composite network motifs
+cold spring harbor
+human frontiers science foundation
+positive-feedback-based bistable `memory module
+network motifs open-source software
+sensory transcription networks consist
+fully mapped synaptic network
+dense overlapping regulons
+prolong flagella gene expression
+output gene operon galetk
+sx sx flhdc sy
+synthetic mammalian gene network
+mammalian cells involves myc
+i1-ffl shows faster response time
+developmental transcription networks tend
+dynamics resembled simple regulation
+incoherent ffl incoherent type 1
+coherent ffl coherent type 1
+software accepts network data
+transcription regulation networks describe
+composite negative-feedback loops
+4
+
+flia present flia deleted
+feed-forward loop network motif
+dense overlapping regulon
+mammalian cellular network
+p53­mdm2 feedback loop
+guide differentiation events
+competing financial interests
+arabinose system
+reduce cell­cell variation
+transcription regulation networks control
+repressor argr regulates
+feed-forward loop circuit
+feedback loops comprising
+coherent feed-forward loop
+integrated cellular networks
+sos dna-repair system
+bacterial cell cycle
+feed forward loops
+cell fate decision
+genetic network controlling
+elementary circuit patterns100
+circuit governs differentiation
+discussed sensory transcription networks
+two-neuron feedback loops97
+fluorescent transcriptional reporters
+z3 represent groups
+transcriptional regulatory networks
+z1
+
+x2 y2
+input function shows delay
+negative autoregulation speeds
+similar functions stem
+erythroid lineage specification
+synthetic three-repressor loop78
+efficient sampling algorithm
+linear biosynthesis pathways47
+extended regulatory network
+transcriptional regulatory cascades
+identifying regulatory networks
+input signal camp
+cell cycle oscillator
+understand convergent network-motif evolution
+synthetic gene circuit
+feed-forward-loop gene circuit
+notably signal-transduction networks
+incoherent type-1 ffl
+make irreversible decisions
+make reversible decisions
+coherent type-1 ffl
+delayed z3 step
+mammalian cortical networks
+db=gene e2f1
+sea urchin gene
+called gene homology
+mapped developmental network
+highly nonrandom features
+basic building blocks
+unrelated transcription factors1
+cell cycle regulation
+growing bacterial cells
+gene regulatory networks
+yeast saccharomyces cerevisiae
+mammalian neuronal networks
+precise temporal modulation
+synthetic oscillatory network
+transcription networks tend
+well-characterized bacterial regulators
+1038/nrg2102
+
+simple regulation
+show graceful degradation
+transient developmental signal
+basic transcription interaction
+genomic regulatory network
+bottom panel shows
+estimating subgraph concentrations
+cell irreversibly assumes
+cell-cycle gene systems
+interlocked ffl circuit
+transcriptional regulation network
+simple building blocks
+cell­cell distribution
+6
+
+z2
+
+z3
+activity rises gradually
+subtle dynamical property
+fluorescently tagged repressor
+display network motifs88­90
+synthetic transcriptional cascade
+kahn family foundation
+long regulatory cascades
+5
+
+gale-mut
+
+galetk
+0 0 1 2 3
+
+time
+bacillus subtilis spore8
+genetic toggle switch
+sensory transcription networks16
+ancestral ffl duplicated
+nucleic acids res
+local cortical circuits
+synthetic gene networks
+double-negative feedback loop
+activate z3 genes
+involve protein modifications
+binary response conversion
+arginine-biosynthesis system shows
+galactose utilization system
+subtilis cells differentiate
+cell­cell variation
+hnf transcription factors
+transcription factor families
+transcription factor enhances
+molecular cell biology
+three-wave temporal pattern
+protein­protein interaction
+circadian clocks limited
+main building blocks
+current high-quality data
+protein­interaction networks
+feedforward loop motif
+accurate expression kinetics
+gene regulation network
+broad biological function
+desired steady state
+high-resolution fluorescence measurements
+steady state xst
+steady state zst
+org/sprot argr
+local design principles
+complete flagella motor
+flagella gene network
+specific brain region
+/xst
+
+cell generations
+common composite motifs
+similar reasoning applies
+predicting gene expression
+gene expression relationships
+liver gene expression
+bacterium bacillus subtilis
+called network motifs
+network motifs contribute
+detecting network motifs
+detect network motifs
+exhibit network motifs
+called network motifs 1
+detects network motifs
+cis-regulatory input function
+jointly regulate downstream
+cell cycle-regulated genes
+just-in-time transcription program
+developmental transcription networks
+meristem identity regulator
+prevent protein production
+generate temporal orders
+input signal appeared
+modular design applies
+signal suddenly stops
+complex biological networks
+faster protein-interaction arm
+specific gene regulation
+flagella motor genes
+yeast transcriptional network
+output genes benefits
+similar environmental stimuli
+recurring regulation patterns
+recurring network motifs
+eukaryotic gene networks
+slow transcription arm
+reviews
+
+network motifs
+multiple input signals
+simply regulated gene
+steady state faster
+biological network organization
+2 0 0 1 2 3 4 5 6 7 8 9 10
+
+time
+
+figure 7
+takes
+nature reviews
+leafy target lmi1
+future directions experiments
+high temporal resolution46
+rapid initial rise
+studied transcriptional networks
+similar computational functions
+repressor tetr fused
+specific information-processing functions
+individual living cells
+simple regulation occurs
+genomic cis-regulatory logic
+determine network kinetics
+negative-feedback loops
+densely connected networks
+form multi-output ffls6
+network motifs evolve
+additive input function
+/reviews/genetics
+
+reviews
+make
+called sign-sensitive delay
+cascades pass information
+complex transcription circuits
+steadystate expression level
+transcription factor proteins
+selective gene activation
+increased production rate
+451
+
+reviews
+par slows
+diamond pattern
+transcription factor represses
+cell differentiation
+regulatory loops
+composite loops
+input signal stops
+/reviews/genetics
+
+reviews
+equal
+signal sx appears
+excitable systems
+combinatorial transcription logic
+positive feedback
+similar output genes
+negative autoregulation
+activator called spo0a
+saccharomyces cerevisiae
+diverse ffl motifs
+strong initial production
+lac system
+transcription factors respond
+closely related organisms
+israel science foundation
+nature cell biol
+maintain gene expression
+neuronal motifs carry
+test network motifs
+feedforward loops
+protein­protein interactions
+perform important functions
+temporal expression programme
+negative-feedback loop
+generates temporal pulses
+simply regulated genes
+feedback loops
+review network motifs
+positive autoregulation
+common `input functions
+network motifs combine
+extreme cases bimodal
+sx sy
+sign-sensitive delay function
+genetic network
+z1 expression
+par network motifs
+5 4
+
+t1/2 i1-ffl
+
+t1/2
+transcriptional activators
+control z1
+sign-sensitive delay element
+software accepts
+laboratory members
+lac promoter32
+network motif occurs
+transcriptional interaction
+z2 expression
+z3 genes
+memory
+5 6
+
+time
+
+time
+dor network motifs
+genes z1
+feedforward loop
+nar system reaches 50%
+transient signal
+human cells
+transcriptional regulation
+cell growth
+feedback loop
+persistent signals lead
+signal sy
+incoherent type 4
+incoherent type 2
+incoherent type 3
+z2 genes
+large networks
+cell fate
+coherent type 3
+coherent type 2
+coherent type 4
+gene product
+regulatory genome
+topological motifs
+signaling module
+5
+
+1
+
+simple regulation
+0
+simple regulation
+`simple regulation
+galactose system
+regulatory patterns
+neuronal cells
+topological generalizations
+caenorhabditis elegans39
+signal-transduction cascade
+transcription factor
+cell generations
+neuronal networks
+motif include cases
+positivefeedback loops
+positive-feedback loops
+flagella system
+ffl types occur
+signaling pathways
+activators flhdc
+gene regulation
+simple-regulation circuit
+nature reviews
+455
+
+nature reviews
+large circuits
+output gene
+signaling control
+figure 2
+figure 3
+figure 4
+repressor gals
+avoiding feedback
+feedback implements
+regulatory interactions
+potentially carry
+transient loss
+lowest threshold
+bacillus subtilis
+/reviews/genetics
+
+reviews
+/reviews/genetics
+
+reviews
+82
+simple pattern
+gene transcription
+transcriptional regulators
+input sx
+1 0
+concentration approaches
+glucose starvation
+dna microarrays56­58
+cortical circuits
+growing bacterium
+dna damage
+anaerobic growth
+regulatory dynamics
+arrangement shows
+developmental networks
+sensory networks
+gene networks
+mdm2 loop
+transcription network
+bimodal distribution
+x1 acts
+x1 1 y1
+0
+brain networks
+complex networks
+living cells
+transcription networks
+activation threshold
+biological networks
+arginine-biosynthesis system
+mammalian genes
+additional motifs
+large set
+regulated feedback
+double-negative loop
+represent groups
+represent modifications
+caenorhabditis elegans
+activate x2
+flia gene
+genomic networks
+transcription factors
+single layer
+computational representation
+single `cortex
+computational elements
+multiple functions
+cell generation
+coli shows
+including signalling
+galactose leads
+including generalization
+recurring circuits
+target gene
+repression threshold
+sx signal
+signal sx
+simple models1
+expression kinetics
+regulation circuit56
+flagella ffl
+individual cells
+steady state
+acceleration factor
+high-resolution measurements
+design principles
+flagella pathway
+flagella system24
+output genes6
+doublepositive loop
+double-negative-feedback loop
+double-positive loop
+double-positivefeedback loop
+arabinoseutilization system
+simple-regulation system
+nervous system
+wild-type system
+gal system
+stress-response system
+nar show
+narrower distribution
+computational analysis
+distribution narrower
+biological signals
+gene expression
+fully understand
+threefold faster
+fivefold faster
+network motifs
+developmental programmes4
+developmental processes
+input function
+single arrow
+gene product17
+entrez gene
+gene circuits
+common-ancestor gene
+nar feedback
+significant degree
+software outputs
+= arabad
+camp
+marked `gale-mut
+synaptic connectivity
+selective advantage
+moderately enhances
+pulse-generating features
+synaptic connection
+nature methods 3
+carbon utilization
+binding site
+additive functions
+incoherent ffls
+current findings
+= laczya
+
+0
+persistent stimuli
+briefly describe
+environmental selection
+future work
+regulation thresholds
+transcription cascade
+transcription processes
+cells
+
+log
+allowing cells
+input signals
+multiple inputs
+biological circuits
+biological timers
+repressor cascades
+main function
+protein molecules
+temporal programme
+temporal waves
+synthetic i1-ffl
+network motifs59
+signalling networks
+evolved networks
+geometric networks
+pulse-generating networks
+random networks
+generegulation networks
+www
+input signal
+coherent ffls
+rapid response
+slow timescale
+group
+network-motif behaviour
+initial rates
+gene activation
+nature genet
+synaptic patterns
+dynamical function
+transcription rate
+additional interactions
+protein level
+flagella systems
+input functions
+afferent input
+flagella genes
+regulated loop
+temporal control
+output genes
+steady states
+high-resolution mapping
+spatial organization
+bimodal distributions
+electrical measurements
+similar functions
+production stops
+global organization
+top panel
+eukaryotic repressors10
+volume 8
+growth conditions
+motif families
+multiple outputs
+combinatorial analysis
+temporal order
+cell populations
+flia uniprotkb
+c1-ffl shows
+escherichia coli
+network motif
+regulates gene
+gene systems
+long period
+generate pulses
+micrornas acting
+involves hundreds
+spurious pulses
+toggle switch
+z3
+main text
+main idea
+gave rise
+arginine-biosynthesis pathway
+long cascades55
+multi-output ffl
+457
+
+reviews
+box 1
+systems biology
+convergent evolution
+459
+
+convergent evolution
+shared function
+determine function
+detailed function
+similar patterns
+8
+
+z1
+degradation rates
+genomic analysis
+z1
+degradation includes
+genes cells 10
+experimental studies
+experimental testing
+experimental tests
+biological systems
+x2 acts
+simple-regulation design
+dynamical functions
+single-input module
+protein levels
+flagella genes31
+par slows
+regulating loop
+external signals
+diverse organisms
+repressor y38
+transduce signals
+specific ways
+specific stages
+specific requirements
+multi-input motifs
+transcription interactions
+sign-sensitive filter
+cell biol
+time period
+cell-generation time
+evolutionary time
+degradation rate
+signal propagation
+`sign-sensitive delay
+high concentrations
+sx step
+common-ancestor ffl
+coordinated expression
+regulate expression
+steady-state expression
+individual motif
+dor output
+production rates
+bmc genomics 5
+merge
+
+back
+orange circles
+comprehensive treatment
+natl acad
+continued production
+direct path
+superior colliculus
+comprise mirnas62
+interlinked fast
+blue squares
+shallow architecture
+partial signals91
+assigning numbers
+dynamic properties
+signalling proteins89
+author declares
+inhibitory neuron
+inherent source
+independent input65
+sudden locking
+hand side
+caulobacter crecentus49
+protein-production rates
+s-shaped curve
+great interest
+structural simplicity
+theoretical analyses40­43
+fluorescent-reporter strains31
+dynamic functions
+actively degraded
+neuron tetrads99
+indirect path
+recent work
+treated theoretically
+fluorescent-reporter assays
+connectivity properties
+detailed map
+spatial stripes
+quantitative blueprint
+comprehensive library
+possibly accompanied
+s20­s24
+good agreement
+red circles
+relay neuron
+rapid induction
+mixed phenotype
+multi-layered perceptrons89
+-repressor c1
+microarray hybridization
+national institutes
+cell-fate decisions2
+mathematical models
+engineering stability
+well-studied microorganisms
+gfp reporter
+timing properties
+elaborate functions
+mathematical modelling
+orange circle
+positive-feedback loop83­86
+il doi
+comprehensive identification
+il/mcb/urialon access
+thematic maps
+converged independently
+metabolic pathways
+promotes instability
+remain locked
+greater extent
+positively regulate
+process8 includes
+easy interpretation
+early stages
+production picks
+lock irreversibly
+fluorescent-reporter strains
+persistence detector
+marked `gale-wt
+purple squares
+sends connection
+evolutionary timescales56
+open field
+equivalent functions
+durable spores
+molecular parameters
+signalling processes
+dashed line
+inducer molecule
+perseus books
+boca raton
+occasionally generate
+quantitative models
+transcription begins
+transcription dynamics
+response time
+experimental analysis
+faster timescale
+eukaryotic organisms
+protein phosphorylation
+protein modification
+expression level
+longer cascades
+z2
+addressed experimentally
+active flhdc
+experimentally test
+moderate level
+steady-state level
+degradable regulators
+target genes
+stress response
+response delays
+response accelerator
+downstream promoters
+nonautogenous control
+combinatorially control
+spatiotemporal control
+trends genet
+strong par
+purest form
+production rate
+common form
+active degradation
+rewire rapidly
+steady-state rapidly
+activation matches
+functional order
+living bacteria
+stimulation stops
+review focuses
+ffls evolve
+review discusses
+genes & signals
+motif appears
+motif functions
+motif consists
+motif usage
+global analysis
+experimental study
+coli transits
+provide memory
+nar speeds
+broken arrow
+systematically defined
+principle applies
+decisions
+nature rev
+solid arrow
+final family
+response acceleration
+typically regulates
+high resolution
+stress-response systems
+final levels
+high indefinitely
+or-gate logic
+galactose-utilization genes
+ordering genes
+post-aggregation genes
+long delay
+ffl types
+demonstrated experimentally
+termed sporulation
+demonstrated experimentally 17
+multi-gene process
+inputs regulate
+active conformation
+activator cascades68
+experimentally demonstrated
+weizmann institute
+urialon@weizmann
+directly binds
+low concentrations
+activator luxr
+natural environment
+linked c1-ffls
+small set
+dynamic experiments
+respond rapidly
+activation thresholds
+extreme case
+common types
+structural types
+neuron types
+ffl lead
+sy
+post-transcriptional interactions
+signalling proteins
+proteins fluctuate
+individual bacteria
+x1
+longer branches
+target promoters
+defined order
+observed experimentally
+dynamical behaviour
+conservative evolution
+/zst flia
+0
+ffl act
+individual ffls
+multi-output ffls
+rapidly binds
+larger circuits
+cross talking
+speeding responses
+steady-state concentration
+links box
+inducible operons
+production decreases
+damped oscillations
+superficial layers
+important functions
+biochemical parameters
+monitoring stresses
+encode enzymes
+single-input modules
+gfp represses
+bmc bioinformatics 5
+reach halfway
+production starts
+denote sims
+concentration drops
+ib­nf-
+theoretical predictions
+neural computation
+evolutionary tuning
+stimulating discussions
+evolutionary dynamics
+regulatory
+growthfactor stimulation
+global dynamics
+generate oscillations
+coli systems
+signal removal
+strong promoter
+master regulator
+upstream regulator
+delay depends
+complicated cases
+nar works
+tested experimentally
+limited set
+sim design
+essential behaviour
+dynamic behaviour
+cascade step
+noise propagation
+noise characteristics
+experiments discussed
+sporulation process
+present ffls
+connectivity arrows
+natural context
+madan babu
+hierarchical structure
+global structure
+opposite signs
+interlocking ffls
+motif dynamics
+response times
+concentration reaches
+plos biol
+and-gate c1-ffl
+c1-ffl ensures
+time needed
+memory effects
+longer active
+diamonds combine
+shown theoretically24
+sim architecture
+sequence similarity
+pulse generator
+/zst
+
+2
+
+gale-wt
+1
+pulse drops
+nar motif
+circuit
+autogenous systems
+promoter requires
+promoter elements
+weaker promoter
+promoter activations47
+homologous genes
+show
+i1-ffl generates
+rapidly produced
+rarely found
+commonly found
+regulator regulates
+delay occurs
+completely represses
+linked online
+stochastic environment
+concentration relative
+activity
+
+0
+activity
+activity
+
+1 0
+higher organisms
+delay relative
+threshold
+stimulus removal
+completely repress
+step stimulus
+levels accumulate
+dilution effect
+e2f1
+perform
+shows
+slow
+delay occurred
+examples studied
+repressors repress
+noise results
+interaction
+x2
+concentration crosses
+resemble ffls
+opposite effect
+autoregulation
+fate
+cell 122
+cell 9
+cell 117
+cell
+dors occur
+including
+453
+
+reviews
+promoter regions
+regulation
+information
+display
+sx
+1 0
+5 0
+
+sx
+sx
+sx
+1
+output
+loop
+system
+interesting question
+faster
+developmental
+gene
+type
+nature
+nature 440
+nature 436
+nature 435
+nature 426
+nature 252
+building
+nature 405
+nature 403
+nature 376
+zn
+operon
+myc
+nature 431
+nature 438
+transcription
+cells
+protein
+network
+networks
+initial
+subtilis
+input
+cascades
+t1/2
+mdm2
+/xst
+similar
+state
+flia
+rise
+applies
+flhdc
+data
+micrornas
+variation
+function
+integrated
+experimental
+design
+module
+specific
+repressor
+signals
+motifs
+2
+
+0
+
+0 10 20 30 40
+
+time
+time
+1 0
+
+time
+5
+
+time
+10 time
+
+12
+
+14
+
+16
+
+18
+
+20
+signal
+ffl
+expression
+maintain
+production
+p53
+regulate
+leafy
+tetr
+make
+res
+test
+activates
+appears
+cascade
+governs
+determine
+complete
+program
+programme
+pass
+takes
+israel
+y2
+reduce
+rises
+generate
+common
+circuits
+spo0a
+include
+element
+activate
+related
+present
+functions
+persistent
+experimentally
+level
+regulators
+response
+control
+genet
+form
+rate
+patterns
+rapidly
+activation
+order
+review
+acceleration
+motif
+respond
+yeast
+thresholds
+arm
+analysis
+reaches
+coli 9
+coli 5
+coli 6
+5 0
+
+memory
+5 0
+
+memory
+
+1 0
+memory
+coli
+coli 36
+coli 35
+coli 24
+limited
+arrow
+switch
+family
+combine
+binding
+defined
+generates
+demonstrated
+logic
+systems
+occurs
+regulates
+regulated
+levels
+high
+genes
+active
+completely
+binds
+repression
+environment
+inputs
+experiments
+relative
+discussed
+stimulus
+activator
+set
+weizmann
+process
+sporulation
+observed
+linked
+connected
+equal
+types
+par
+organisms
+interactions
+study
+longer
+studied
+occur
+proteins
+carry
+lead
+understand
+evolution
+& alon
+alon
+induction
+elegans
+stresses
+box 1
+modification
+populations
+starts
+filter
+begins
+principle
+autogenous
+discussions
+bioinformatics 20
+genes31
+online
+diamonds
+modules
+computation
+operons
+predictions
+decreases
+stimulation
+tuning
+effects
+dilution
+act
+briefly
+important
+stochastic
+phosphorylation
+layers
+homologous
+tested
+resemble
+enzymes
+concentration
+reach
+parameters
+responses
+regulating
+sims
+oscillations
+outputs
+5
+
+higher
+results
+dynamics
+degree
+lock
+occurred
+regions
+nf-
+cross
+effect
+represses
+repressors
+larger
+regulator
+cases
+5 0 0 2 4 6 8
+
+delay
+delay
+i1-ffl
+1
+i1-ffl
+nar
+timescale
+bacteria
+removal
+behaviour
+repress
+times
+promoters
+step
+dor
+noise
+examples
+structure
+interesting
+opposite
+low
+y1
+accumulate
+conditions
+context
+babu
+crosses
+ffls
+produced
+acts
+loss
+arrows
+biol
+c1-ffl
+science
+science 298
+science 295
+science 290
+science 292
+science 310
+science 279
+science 309
+science 306
+science 303
+science 301
+pulse
+hundreds
+/zst
+10 20 30 40 0
+shown
+/zst
+40 60 80 100 120 140 160
+
+0
+/zst
+question
+sim
+rev
+sequence
+promoter
+needed
+found
+dors
+case
+savageau
+fcgi
+accuracy 21
+surette
+microbiol
+westerhoff
+enhance
+ups
+`late
+gate-array
+chen
+med
+pancreas
+changed
+article
+rosenberg
+hayot
+arms
+ihmels
+hoffmann
+join
+theories
+exceptions
+initiate
+answer
+gate
+earlier
+-phage3
+amit
+london
+activating
+ncbi
+fig
+persist
+overshoot
+affected
+deletion
+& gann
+laub
+zaslaver
+fall79­82
+schemes
+series
+speed-
+restricted
+& shibata
+formation
+stereotypical
+stochasticity
+feldblyum
+thiberge
+besckei
+enough6
+1a
+underlie
+enhancing
+serve
+classed
+& loose
+timescales
+gov/entrez/query
+boston
+responsible
+mutants
+davidson
+mcadams
+acknowledgements
+selected
+& bolouri
+e369
+explain
+i1-ffls
+reference
+beg
+detection
+result
+expasy
+zhang
+bolouri
+//www
+ayan
+terms
+weak
+suggested
+bray
+games
+lysogeny
+donnell
+mangan
+response-time
+mutations
+represented
+inactivate
+wider
+& shomron
+& hlavacek
+basis
+beer
+expected
+cdc2
+transcription-regulation
+inhibit
+& baltimore
+suggest
+nih
+hysteresis
+tyson
+academic
+& elowitz
+graded
+usa 100
+mirnas
+& hobert
+cantor
+5a
+5b
+mayo
+usa 103
+usa 102
+usa 101
+depicts
+steps
+left/
+opin
+soc
+presence
+camas
+raises
+lagc
+medium
+& poyatos
+differences
+removed
+strengthening
+ferrell
+or-
+ronen
+coli48
+elowitz
+generally
+& leibler
+role
+dekel
+vanished
+assume
+arafgh
+longabaugh
+activated
+themes
+neurosci
+milo
+barkai
+june 2007
+finally
+burlington
+construction
+ma
+presented
+thieffry
+sign
+slowed
+rappaport
+kashtan
+eichenberger
+& sano
+bacteria8
+understanding
+development 133
+coarse-graining
+address
+change
+& yamamori
+e68
+liberman
+accomplished
+engineer
+dictyostelium
+& meyer
+live
+half-life
+hope
+trans
+locks
+allowed
+coactivated
+dobrin
+proc
+produce
+designed
+shraiman
+deactivated
+thomson
+sudarsanam
+& wagner
+& arkin
+usa
+half
+& tavazoie
+discuss
+stabilize
+owing
+space
+suggesting
+mims
+theory
+turn
+sano25
+xn
+size
+barabasi
+1c
+1b
+1e
+1d
+1f
+available75
+8
+
+laci
+
+0
+southgate
+turned
+& stavans
+regulate1­5
+converges
+note
+emphasis
+& serrano
+performance
+begin
+friedman
+importantly
+gerland
+discovered
+nlm
+ratio
+& barkai
+itzkovitz
+yeger-lotem
+aravind
+scott
+spore
+1 hour
+& mendell
+refine
+comp
+rare55
+jr
+leibler
+shen-orr
+absence
+combined
+6a
+direction
+formed
+optimality
+self-dissimilarity
+sjostrom
+blinkers
+yeast7
+organisms11­16
+`shut
+downs
+investigated
+& fussenegger
+maeda
+edges
+wired
+& collado-vides
+components
+shut-
+gates
+rest
+speed
+guides
+captured
+struct
+yu
+prill
+embo
+environments
+mol
+nutrients
+z94
+duration
+brandman
+foglierini
+2c
+& weiss
+comparison
+wolf
+johnston
+image
+& davidson
+kalir
+levchenko
+ortiz
+stark
+arranged
+embedded
+ac
+al
+components91
+inactivation
+phys
+nelson
+sci
+follow
+etchberger
+white
+becskei
+& kotter
+bioessays 24
+nodes
+bioessays 20
+song
+induce
+list
+canalization
+section
+contrast
+iglesias
+levine
+& aravind
+non-
+mirna
+varying
+dev
+rosenfeld
+sense
+populations25­27
+species
+utilize
+state2
+organisms50
+huerta
+hierarchy
+fraser
+detected
+swiers
+reflected
+animals11­16
+& oltvai
+stopped
+2a
+2b
+spellman
+characterized
+referred
+lysis
+research
+health
+basu
+reason
+beginning
+bistability
+teichmann
+utilizes
+network70
+number
+gene17­19
+fuller
+introduction
+passed
+blazquez
+focusing
+kind
+determined
+superfamilies
+7c
+7b
+7a
+sontag
+paths
+built
+onset
+generalized
+dunlop
+zeller
+measured
+model
+cover
+organism
+yeast10
+`rediscovered
+ingram
+dependent
+promoter20
+buzzers
+remove
+crc
+robust74
+deactivation
+close
+mehreja
+usa 99
+recently
+initially
+dang
+opposition
+subgraphs
+vardi
+due
+lahav
+generating
+toggles
+precision
+xiong
+plants
+rat
+pace
+philos
+involved
+sniffers
+fujimoto
+neurons
+reprogram
+shorter
+development
+lie
+helped
+robust
+ultrasensitivity
+starved
+pomerening
+reviewed
+inactive
+minerva
+aggregation
+& teichmann
+tinkerer
+translated
+kummerer
+e238
+understood
+accelerate
+patient
+odom
+e343
+simulation
+hooshangi
+unknown2
+lexa
+reprogramme
+partitioning
+curr
+amounts
+department
+setty
+provided
+luscombe
+assayed
+generated
+saddic
+required
+qian
+broader
+amplified
+compact
+& church
+phenotypes
+configurations
+& jayaprakash
+promoter29
+3c
+3b
+3a
+lee
+csikasz-nagy
+separation
+resulting
+chang
+composed
+remains
+carrying
+& shapiro
+ishihara
+boulder
+gardner
+e328
+sporns
+winter
+computations
+symbols
+mentioned
+blake
+& collins
+sakata
+pulse-
+disrupted
+& loomis
+constraints
+illuminate
+ref
+fates65
+michalodimitrakis
+serrano19
+timed
+conant
+hertz
+reached
+flilmnopqr
+
+0
+dublanche
+isolation
+abolishes
+abolished
+intriguingly
+yuh
+min
+face
+databases
+reigl
+biogenesis
+means
+syst
+suel
+tuned
+view
+humans
+enhanced
+diverge
+phosphorylations63
+tens
+comparable
+& ferrell
+cauliflower
+buchler
+hypothesis
+minutes
+hornstein
+komatsu
+rehovot 76100
+interactions76
+boyer
+mutating
+adjusted
+wall
+& brenner
+iranfar
+ptacek
+& gerstein
+li
+krogh
+& palmer
+ffls93
+addition
+responds
+define
+optionally
+sufficient
+arginine
+appearance
+& bose
+20 min
+neurol
+portray
+garcia-ojalvo
+rewiring
+http
+birkhauser
+frequently
+thought
+& levchenko
+position
+perez-rueda
+hybrid
+kramer
+obtain
+differentiation-
+match
+karmakar
+& novak
+variants
+kaern
+signals2
+//ca
+lose
+repressed
+classical
+kinds
+& hwa
+e-mail
+analysed
+carried
+parameterizing
+lund
+wentzel
+gleaned
+doubtless
+elston
+made
+variations
+stumpf
+detail
+pilpel
+details
+percents
+theor
+& chklovskii
+seraphin
+ghosh
+gerstein
+ptashne
+4b
+4c
+4a
+349
+294
+290
+108
+100
+545­550
+1025­1038
+99
+98
+91
+90
+93
+92
+95
+94
+96
+1991
+8 0
+221­231
+1874­1877
+2 0 0 0
+3
+
+0
+6355­6360
+2
+1974
+1969
+1746­1758
+10555­10560
+11980­11985
+1 0
+824­827
+2080­2083
+5 0 0 1 2 3 4 5 6
+
+0
+4 0
+147­150
+016127
+12718­12723
+133­143
+30
+59
+58
+55
+57
+56
+51
+50
+53
+52
+1896­1902
+1­16
+66­67
+590­593
+1095­1109
+496­498
+785­793
+3581­3586
+5136­5141
+3317­3328
+938­940
+0
+97
+32
+1669­1678
+9371­9376
+88
+460­465
+1107­1124
+234
+1073­1081
+1
+87
+346­351
+264­266
+1995
+5 4 4
+9517­9522
+1998
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+3 0 20 40 60 80 100 120 140 160
+5 2 2
+6 0
+588­592
+9 0
+3
+6
+60
+61
+62
+64
+65
+66
+67
+68
+69
+5 3 3
+4
+12449­12454
+64­68
+63
+026117
+839­843
+2003
+153­159
+2001
+5
+4936­4942
+460
+2 0
+307­312
+`
+5 0 0
+335­338
+5 5
+5 3
+5 0
+1078­1083
+5934­5939
+1
+
+0
+339­342
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+2144­2148
+460­469
+5 0
+
+1
+
+0
+503­512
+7
+546­549
+4
+
+0
+5 1 1
+501­514
+5 0 1 0
+356
+2
+
+0
+1866­1867
+77
+75
+74
+72
+71
+70
+79
+78
+704­708
+197­204
+358
+8
+81­88
+125­134
+309­315
+031909
+5 0
+
+1 0
+799­804
+31
+9
+7 0
+623­628
+525­540
+76
+713­720
+73
+308­312
+679­684
+2002
+2000
+2006
+2007
+2004
+2005
+614­633
+85
+39
+38
+33
+37
+36
+35
+34
+334
+21 0
+2528­2535
+36­45
+5
+
+0 0 0
+135
+947­956
+645­654
+89
+83
+80
+81
+86
+84
+1986
+458
+450
+452
+454
+3 0
+185­198
+267­268
+179­208
+314
+2 0 0
+54
+323
+329
+1673­1682
+1378­1381
+5 0 ­1 ­0
+461
+1241­1245
+1538­1542
+359
+45
+43
+283
+451­464
+6643­6649
+5 0 0 1 2 3 4
+283­291
+433­440
+7702­7707
+3273­3297
+1989
+486­491
+422­427
+0006
+48
+49
+46
+47
+44
+42
+40
+41
+456
+2 0 1 0

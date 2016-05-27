@@ -1,0 +1,13 @@
+co2
+atmospheric
+alkalinity
+global
+1631613txt
+surface
+ocean
+deposition
+master
+nitrogen
+samorogu
+dic
+anthropogenic

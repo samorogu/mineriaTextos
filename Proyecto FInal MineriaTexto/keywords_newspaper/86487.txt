@@ -1,0 +1,13 @@
+genes
+mirnas
+86487txt
+downregulated
+targets
+p
+master
+mirna
+mir124
+samorogu
+gene
+expression
+mir1

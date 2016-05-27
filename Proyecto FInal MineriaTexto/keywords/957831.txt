@@ -1,0 +1,488 @@
+Marshall5,6
+pedigrees54
+similarity
+false-negative percentage
+Department
+haplotype homozygosity
+Population differentiation
+duplicated
+Foundation
+McLaughlin
+disorders
+fellowship
+Gonzalez8
+Overlapping
+autosomal
+impoverishment
+population structure
+non-allelic homologous
+misinterpretation
+Okamura5,6
+phenotypes
+liability
+functional categories
+Extrapolating Comparative
+Kudaravalli
+independence46
+analysis71
+Informacio
+triplicate
+non-redundant biallelic
+repetitive
+prediction
+STRUCTURE61
+perspective
+Centre­East
+Chromosomes
+paired-end
+chemokine-encoding multi-copy
+hereditary neuropathy
+experiment
+locus-specific experimental
+ArrayExpress
+chromosome-by-chromosome
+contiguous
+respectively
+genotyping
+commercial
+refinement
+structural polymorphism
+7Department
+irrespective
+consideration
+identifiable
+early-onset
+Rovelet-Lecrux
+published
+Technology
+classification
+JPT+CHB
+identified functional
+landscape
+confidence
+Duplication
+Pediatrics
+METHODS
+prevalence
+Additional locus-specific
+exhaustive
+assessment
+homologous recombination
+submicroscopic chromosomal
+Postdoctoral Fellowship
+populations
+particular
+Expression
+individual-specific
+comparisons70
+abundance
+discordance
+Rosenberg
+Characterization
+population-specific
+constraint
+submicroscopic
+Montgomery1
+transparency
+Combining
+following
+high-density
+well-characterized genomes4,5,7
+offspring
+dye-swaps
+downstream
+inheritance
+falsepositive proportion
+experimental validation
+large-insert
+phenotypic information
+Significant
+fiveprobe
+genome-wide
+experimental replication
+Structural
+Technical
+Chr8tp-17E9
+Shaw-Smith
+collection
+Somerville9
+annotation
+recombination
+crystallin
+encompassing
+complexity
+variants60
+Haploview
+evolutionary
+non-coding
+facilitated
+Pritchard
+Grant-in-Aid
+Ishikawa2,3
+statistical
+Smith­Magenis
+Scientific
+microdeletion
+Cockerham
+Multi-allelic
+analysis69,74
+communication
+suppressor
+Christiansen
+Nishimura2
+framework
+Dimitrios Kalaitzopoulos1
+Polymorphically duplicated
+association
+structural
+significant enrichment
+euchromatic
+performing technical
+Chr6tp-11A11
+Pullenayegum
+identified
+Canada/Ontario
+CRYBB2-CRYBB3 b-crystallin
+characterized
+ARTICLES
+apolipoprotein
+individual overlapping
+non-coding sequences43
+frequency
+Biomedical
+assumption
+copy-number
+Armengol8
+hybridisation
+Non-allelic homologous
+perception
+University
+divergence
+multi-allelic
+nonhomologous
+homologous
+oligonucleotide
+resolution breakpoint
+chromosomal
+NA07000
+likelihood
+Cambridge
+abnormalities52
+under-represented
+inevitable overestimation
+probability
+neighbouring polymorphic
+Microarray
+McCarroll
+DECIPHER
+impossible
+CNV-specific genotyping
+Seguridad
+structural variation36
+ultra-conserved
+Gratacos8
+available technology
+convention
+molecular
+population differentiation
+Biallelic
+Institute Postdoctoral
+`Departament d'Universitats
+Heritability
+higher-resolution
+Chr6tp5C12
+Genome-wide association
+Rousseeuw
+longer-term
+disequilibrium
+congenital
+Carson5,6
+a-Synuclein
+Catalunya
+Frequency
+SNP-based whole-genome
+Hirschhorn
+Valentonyte
+differential demographic
+10Department
+Estimating
+Regulation
+substantial
+MacDonald5
+population variability
+Dallaire7
+Percentage
+interchromosomal duplications
+Independent
+proliferation
+correlation coefficient
+culture-induced
+responsible
+Sarcoidosis
+Scherer5,6
+phosphorylation-related
+fine-scale
+chromosomes
+discerning
+Statistical significance
+Generalitat
+neurodegenerative disorders
+preliminary
+Williams­Beuren syndromes39
+nucleotide
+Frequency Chr8tp-10C3
+non-called
+false-negative
+surprising
+nephronophthisis
+disease-associated
+CNV-1367
+high-throughput
+threshold proportion
+duplication
+Chromosome
+non-coding elements75
+Duplications
+Fellowship
+Innovation
+threshold
+microsatellites59
+Supplementary Information
+principal
+Heterogeneous duplications
+Genotyping
+proportion
+Zawalnyski
+pathogenic duplications
+identification
+Population clustering
+PelizaeusMerzbacher
+dosage-sensitive
+Nevertheless
+frontotemporal
+exhibiting
+Reproducibility
+transposition
+highresolution
+Grants-in-Aid
+architecture
+duplication/deletion
+locus-specific quantitative
+predictive
+Inheritance
+nonAfrican populations
+Ultra-conserved
+schizophrenia
+individual
+truncating
+dysmorphic
+Performance
+polymorphic
+flanking/encompassed
+disease-related
+test/reference
+Ophthalmic
+array-CGH
+microduplication
+available
+Schachowsky
+complementary
+importance
+complement
+heterogeneous
+6Department
+Charcot-Marie-Tooth
+nomenclature
+genotypes5,7,25
+Individual
+whole-genome association
+contribution
+expression
+experimental
+Ultimately
+characterization
+Discussion
+parent­offspring
+Sixty-seven non-redundant
+intrachromosomal duplications
+adaptation
+gene-containing
+disability/mental retardation
+considering
+Fine-scale structural
+encompass overlapping
+discrimination
+California
+Comparison
+generating
+determination
+single-nucleotide polymorphism
+crossover
+Consequently
+population clustering61
+subtelomeric
+reciprocal
+Supplementary
+untaggable
+cumulative distribution
+phenotypic
+purifying
+earlyonset Alzheimer
+selection-associated
+Furthermore
+Histograms
+psoriasis-susceptibility
+Genome-wide
+Correspondence
+containing
+righthand
+one-quarter
+microarray
+difficult
+development
+independent
+Instituto
+Hardy­Weinberg disequilibrium
+categories3
+Investigator
+Institute
+comprehensive
+penetrance
+appreciable
+normalization
+arbitrary threshold
+Dermitzakis
+multilocus
+Woodwark1
+Investigaciones Sanitarias
+inability
+relationships4
+differentiation suggestive
+significant difference
+Similarly
+proximity
+Estimating F-statistics
+sarcoidosis
+Molecular
+visualization
+large-scale
+demographic
+Diagnostic
+triplolethality
+chi-squared
+Acknowledgements
+hybridization
+first-generation
+homozygous
+definitive
+largeinsert
+Stankiewicz
+preference
+decipher/
+left-hand
+technology platforms
+Departament d'Universitats
+Glucuronidation
+triplication
+identifying
+Non-coding
+deleterious
+individuals
+arbitrary
+Pathology
+Functional
+platforms
+continuous distribution
+International
+corneodesmosin
+disrupting
+highlighting
+clone-based comparative
+integration
+SNP-related
+Alzheimer
+Massachusetts
+Brakenhoff
+Population
+Stefansson
+collection25
+Autosomal-dominant
+xenobiotic conjugation63,64
+cell-signalling
+Extrapolation
+comparison
+Large-scale
+Altshuler
+compatible
+Chouinard
+international collaboration
+duplicaWGTP
+age-related
+Burwinkel
+technical assistance
+transposable
+significant
+Disorders
+haplotype
+functional
+Approximately
+Broeckhoven
+involvement
+false-positive
+clustering
+additional
+Evolutional
+variation/
+copynumber
+influencing
+metabolism
+Ultraconserved
+population distribution
+Affymetrix
+Bioinformatics
+histogram
+Wirtenberger
+Following
+UDP-glucuronosyl transferase
+biallelic
+Joseph-George
+understood
+characteristic
+genotyping platforms
+Engineering
+Epstein­Barrvirus-transformed lymphoblastoid
+neurophysiological
+Publishing
+platformdependent
+Introduction
+influence
+replicable
+multi-site
+co-segregation
+chromosome
+Kawaguchi
+FitzPatrick
+duplications
+application
+Drosophila melanogaster
+heterozygous
+predominant
+Prader­Willi
+noncoding
+genotype­phenotype
+convincing
+aneuploidy
+influence susceptibility
+duplicative transposition57
+syndrome21
+structure
+heritability
+algorithm
+Wholegenome
+3Dependable
+neighbouring
+chromosome susceptible
+signalling
+chromosomal duplication
+Contributions
+enrichment

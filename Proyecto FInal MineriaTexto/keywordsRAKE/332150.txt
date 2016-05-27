@@ -1,0 +1,1574 @@
+total total 5¶/3¶-end pair sequence 5¶/3¶-end pair cluster 1
+gis ditags gsc ditags riken 5¶ests riken 3¶ests 5¶/3¶est pairs
+2008
+
+corrections & clarifications
+
+erratum
+
+post date 24 march 2006
+
+www
+org
+
+science
+
+erratum post date
+
+24 march 2006
+
+1
+
+downloaded
+previous homogenization efforts typically produced small
+s10 references ddbj accession codes 9 march 2005
+previously unidentified full-length complementary dnas derived
+org/cgi/content/full/1115640/dc1 methods som text data files references
+carefully extracted diurnal temperature variations
+previously unidentified 5¶/3¶ end selection
+global change program award na03oar4310153
+riken yokohama research promotion division
+figure 1a shows length distributions
+late­20th century radiosonde trends
+riken genome exploration research group
+riken genome exploration research project
+genome network project core group
+tss/terminations lie inside larger transcripts
+including 5154 encoding previously unidentified proteins
+total riken full-length cdnas public
+gis/gsc ditags shows similar distribution
+experimental evidence eisoform protein set
+membrane organization splicing
+
+variants class
+radiosonde temperature time series
+era-40 project report series 23
+genome exploration research group
+medium range weather forecasting
+riken clone id 9330159j16
+riken super combined cluster
+accepted 27 july 2005 published online 11 august 2005
+org
+
+science
+
+vol 309
+
+2 september 2005
+
+1561
+
+downloaded
+1997 experienced dt trends significant
+motifs represent candidate modulators
+edinburgh mouse atlas project
+short interspersed nuclear elements
+study describes comprehensive polling
+transcripts riken full-length public
+long interspersed nuclear elements
+transcription initiscience vol 309 ation
+single protein splice form
+transcriptional complexity implies caveats
+databases integrate common gene
+analyzed display positional conservation
+riken expressed sequence tags
+share common expressed regions
+evoc mouse developmental ontologies
+previously unidentified large
+
+transcript
+21 receptor tyrosine phosphatase loci
+era-40 analysis feedback information
+mrnas gfs framework clusters tus
+org/cgi/content/full/309/5740/1559 supporting online material
+methods som text figs
+transcriptome reveals transcriptional forests
+suggesting regulatory mechanisms based
+science web sites related
+alternative noncoding splice variant
+genome network project
+supporting online material www
+unconventional alternative polyadenylation signals
+1560
+
+2 september 2005 vol 309
+
+science
+
+www
+combined fulllength cdna isolation
+predicted genomic regions spanned
+cage tags mapping close
+lack sufficient nighttime data
+supported ncrna set includes
+innovational research program
+gene pair
+representative protein set
+
+fig
+including high-resolution figures
+yokohama city university
+protein tyrosine phosphatase
+core authorship members
+paired est sequences
+genome science group
+supporting online material
+yield variant isoforms
+isolate full-length cdnas
+presidential research grant
+3¶-end sequencing
+1112014
+
+total total number
+nonpolyadenylated nuclear rnas
+2886
+
+1562
+
+2 september 2005 vol 309
+
+www
+org
+
+2 september 2005
+
+1563
+
+downloaded
+org
+
+2 september 2005
+
+1559
+
+downloaded
+excluding t-cell receptor
+valuable troubleshooting diagnostic
+nighttime monthly means
+published online 11 august 2005
+highest tag density
+extreme tag density
+widespread motif family
+model simulations driven
+print issn 0036-8075
+john wiley & sons
+natural antisense influencing
+stratospheric water vapor
+online issn 1095-9203
+multiple splice forms
+single multiexon transcript
+variant protein set
+so-called intergenic regions
+trends moving closer
+error trends cancel
+reported surface warming
+domain composition counts
+exhibit alternative initiation
+intergenic regulatory interaction
+candidate mega transcripts
+multiple splice variants
+understand transcriptional control
+ditags shows
+alternative promoter usage
+selected additional articles
+full-length cdna set
+identified 27 motif families
+genome tiling arrays
+short intergenic distance
+77 receptor kinase loci
+reveal additional complexity
+strong 3¶ transcriptional activity
+term transcriptional units
+genome signature cloning
+genome span covered
+10 equally large subsections
+random genome sequence
+control alternative polyadenylation
+gene signature cloning
+gene models identified
+311/5768/1713a updated information
+atmospheric administration climate
+hepg2 cage libraries
+org/cgi/content/full/309/5740/1559/ dc1 materials
+mammalian transcriptional regulation
+closest downstream gene
+fantom3 data set
+transcripts start/end accuracy
+libraries 237 145 24 4 4 266 265 264 safely mapped 100
+mouse cdnas showing
+transcription control signals
+identified paired initiation
+observed surface warming
+capanalysis gene expression
+data set resources
+science vol 309
+
+www
+8961 cdnas previously annotated
+asymptotic unit collapse
+york avenue nw
+mammalian gene collection
+long terminal repeats
+2008
+
+corrected 24 march 2006
+scop domain prediction
+transcriptional diversity occurs
+coding mrna evaluated
+identified 41 variant transcripts
+identified 23 variant transcripts
+gene identification signature
+5¶-3¶ est pairs
+encoded protein sequences
+estimated total number
+fantom3 cdna set
+highly expressed tus
+providing human samples
+data sets generated
+data files
+gsc ditags
+molecular biology http
+reliable tag clusters
+cdna clones overlapping
+mammalian transcriptional landscape
+­protein coding rna
+mrnas cage tags
+differently annotated transcripts
+article cites 18 articles
+transcriptional starting site
+proteins splicing patterns 158
+human genome identified
+accepted 4 august 2005 10
+cage tags mapping
+truncated science
+
+cds
+riken cdna 102
+ditags mapping
+noncoding rnas compared
+s4 tables s1
+mouse protein-coding transcripts
+framework program
+supporting material
+tu cluster 7
+gfs produced
+national project
+research grant
+ests
+unconventional signals
+noncoding rna promoters
+gis
+public databases
+previous study
+tk cluster 7
+sequence motifs
+total adjustments
+full-length cdna
+2008
+
+reports
+large majority
+047
+
+overlap chicken sequences
+radiosonde errors
+transcriptional framework
+nighttime trends
+org
+
+downloaded
+membrane proteins
+splice variants
+previously reported
+transcript pairs
+data set
+total number
+resources related
+dynamically expressed
+281 fantom3 cdnas
+science online
+transcriptional units
+120 base pairs
+2475 base pairs
+base pairs
+mammalian genome
+gsc tags
+protein coding
+fantom3 collection
+som text 2
+som text 3
+som text 1
+som text 6
+som text 4
+som text 5
+mouse genome
+mouse data
+559 protein sequences
+274 protein sequences
+protein-coding sequence
+receptor type
+comprehensive platform
+clone encodes
+ncrna variants
+evoc terms
+previous estimate
+sufficient frequency
+previous adjustments
+cage libraries
+tissue ontologies
+downstream gene
+promoter regions
+long transcripts
+representative transcripts
+regulatory proteins
+online version
+protein structural
+protein database
+previously coined
+true previously
+noncoding
+
+rnas
+transcript forests
+alternative termination
+yosihide@gsc
+dna sequence
+sequence ttgttt
+sequence maps
+transcriptional landscape
+genomic regions
+genome manipulation
+fugu genome
+data provide
+ditag data
+data submission
+splice variation
+published weekly
+control groups
+gene names
+neighboring gene
+initiation sites
+large set
+coding mrnas
+polyadenylation site
+splicing variants
+human-mouse conservation
+73 articles hosted
+cdna clones
+transcriptional frameworks
+proteincoding cdnas
+3¶ untranslated regions
+regions devoid
+overlapping transcription
+000 cage tags
+cage tags
+reference set
+full set
+mammalian transcriptome
+predicted mrna
+riken
+polyadenylation sites
+transcript diversity
+solar-adjusted trends
+tropospheric trends
+trends adjusted
+unhomogenized trends
+sh trends
+mouse transcriptome
+tags mapped
+300 mapped tags
+genomic span
+magnitude larger
+sequencespecific interaction
+groups mrnas
+specific sets
+climate records
+low complexity
+polyadenylated mrnas
+terminal exons
+org/cgi/content/full/309/5740/1559#otherarticles
+random primers
+tiling array
+gfs identified
+alternative promoters
+strong evidence
+atmospheric tides
+domain content
+rna samples
+domain architectures
+org/cgi/content/full/309/5740/1559#related-content
+protein-coding mrna
+spliced rnas
+mature rnas
+distribution profile
+normalized distribution
+bimodal distribution
+genomic mapping
+ditags
+protein-coding loci
+mrna sequences
+computational resources
+promoter analysis
+transcripts encoded
+cdna sequences
+genome res
+3¶ end initiation
+cross mapped
+est
+life science
+dtl
+
+science
+title science
+primary transcript
+binding sites
+transcript grouping
+mapping strategies
+mapping thresholds
+genomic region
+genomic dna
+genomic structure
+variable loci
+promoters conservation
+additional support
+cdna annotation
+annotated exons
+annotated genes
+comprehensively annotated
+cloned cdnas
+table s4
+transcription originating
+annotated transcripts
+nonredundant set
+termination sites
+downstream tu
+distinct classes
+statistically overrepresented
+solar heating
+8365 showed variation
+modest levels
+fortuitous cancellation
+annotation rules
+rights reserved
+superfamily analysis
+independent errors
+library subtraction
+subcellular localization
+uniformly distributed
+detailed description
+microarray experiments
+noncoding promoters
+oceanic technol
+collapsing rate
+tropical trend
+functionally modulated
+gain insight
+org/cgi/content/full/309/5740/ 1559/dc1
+lines 40-46
+della gatta
+madan babu
+general organizer
+ontology terms
+size interval
+extensive variation
+fantom consortium*
+van nimwegen
+internal exons
+values fell
+immunoglobulin genes
+ditag technologies
+di bernardo
+worst sampling
+noncatalytic classes
+analysis standardization
+larger fraction
+seek evidence
+solar artifacts
+technical assistance
+count displays
+european commission
+detected easily
+oligo-dt primers
+obtaining reprints
+subject collections
+// mgc
+dna database
+heating bias
+tropical tropopause
+functional analysis
+interpro entries
+distinct overrepresentation
+wilcoxon test
+intersystem collaboration
+latitude belts
+obtaining permission
+fantom2 suggested
+org/cgi/collection/molec_biol information
+american association
+evolving rapidly
+national oceanic
+extracellular domains
+nsf atm-0134893
+genome-transcriptome relation
+registered trademark
+tropical meteorology
+splicing controls
+comparative analysis
+full evaluation
+independent estimates
+european center
+called transfrags
+fantom consortium
+join unrelated
+removal negated
+main peaks
+inaccurate adjustments
+unrealistically high
+mapping events
+spliced transcripts
+primary transcripts
+independent transcripts
+grouping transcripts
+genuine transcripts
+047 independent transcripts
+single-exon transcripts
+transcripts arising
+individual transcripts
+transcripts arise
+transcripts originating
+genomic location
+large majority
+encoded peptides
+tu fusions
+splicing events
+cellular location
+sequencing strategies
+average occurs
+full-insert sequencing
+references
+upper end
+observed contents
+intracellular location
+highly conserved
+revealed 1287 tus
+total
+32 5¶ start sites
+proteins supported
+exons show
+show variation
+tail-to-tail configuration
+lower stratosphere
+exon diversity
+analyzed exon
+table s5
+table s1
+table s3
+table s2
+transcription deserts
+transcription start
+transcription factors
+termination events
+catalytic classes
+extensive overlap
+129 protein-coding tks
+transcripts overlap
+alignment tool
+substantial increase
+evolutionary scale
+current overview
+structural classification
+independent indication
+accession
+mcgraw hill
+significantly smaller
+increasing depth
+commonly interrupt
+prevalently located
+derived
+``homogenization
+distant species
+encode secreted
+tfs encompass 62
+fully consistent
+msu test
+tropical stations
+de bono
+2008
+
+reports
+table 2
+2392 produce proteins
+vol
+2008
+
+reports
+fig
+notes 2 june 2005
+2392 interpro-variable tks
+932 variable tks
+globin locus
+simulating addition
+page
+reports
+article appears
+downloaded
+proteins tk
+highwire press
+opposite strand
+tail-to-tail orientation
+putative ncrnas
+pairs
+tethered catalytic
+remaining tus
+july 2005
+lks stations
+complete ips
+organization
+length
+9976 elements
+online
+previously
+gsc
+sequence
+genome
+impact dsol
+dsol adjustment
+data
+published
+middle troposphere
+ddbj
+025 cdnas
+set
+som
+text 1
+trends
+complexity
+methods
+mrnas
+suggesting
+combined
+methods 2
+methods 1
+4311 clusters
+share
+1992 clusters
+larger
+isolation
+noncoding
+distribution
+similar
+ncrna
+cloning
+polyadenylation
+predicted
+analyzed
+cage
+databases
+identified
+mouse
+tags
+transcriptome
+science
+science 287
+science 285
+science 277
+science 308
+science 309
+science 306
+transcript
+coding
+mapping
+gfs
+33 loci
+14 loci
+cdna
+annotated
+org
+large
+702
+
+www
+www
+transcription
+sequences
+030 lack
+analysis
+materials
+rna
+evidence
+s1
+estimated 22
+expression
+starting
+splicing
+lack
+information
+scop
+members
+grant
+generated
+repeats
+chicken
+based
+tables 1
+351 transcripts
+transcripts
+700 transcripts
+047 transcripts
+722 transcripts
+135 proteins
+proteins
+termination
+2008
+
+reports
+2008
+
+reports
+human
+tu
+supported
+end
+observed
+5¶ end
+events
+majority
+sequencing
+3¶ end
+location
+539 tus
+tus
+802 tus
+collapse
+distance
+tail-to-tail
+stratosphere
+show
+821 reliable 1
+reliable
+york
+identification
+compared
+956 number
+number
+table 3
+table 2
+table 1
+393
+
+table 3
+catalytic
+overlap
+consistent
+classification
+fig
+page 1561
+support
+fraction
+bono
+current
+commonly
+ips
+msu
+factors
+increase
+peptides
+514 nonredundant
+orientation
+middle
+start
+complete
+secreted
+cloned
+depth
+tethered
+species
+hill
+cds
+deserts
+tfs
+alignment
+indication
+scale
+adjustment
+lks
+smaller
+impact
+stations
+located
+promoters
+produce 1
+res
+conserved
+remaining 16
+tks
+article
+tk
+932 tks
+remaining 144
+7445 tks
+locus
+313 tks
+notes
+1
+addition
+exon
+dsol
+3¶ exon
+average
+75 average
+press
+strand
+http
+troposphere
+ncrnas
+limited
+gojobori
+lks_s
+sines
+madera
+mottagui-tabar
+meteorol
+tang
+ueda
+hori
+bc086654
+hide
+cheng
+kawagashira
+5¶-
+genomics
+separated
+vps
+sasamori
+ma
+mb
+work
+wang
+83 3¶ ends
+yamanishi
+sato
+meaningful
+schneider
+non-riken
+shimokawa
+green
+order
+interpretation
+london
+jorde
+christoffels
+japan
+*affiliations
+production
+petrovsky
+3332 ensembl-
+tsujimura
+laboratory
+newly
+gov
+free
+konno
+luers
+proteomics
+nakauchi
+encouraging
+brusic
+illustrate
+plessy
+similarly
+period 1979
+preparation
+matter
+rao
+-
+isolated
+wells
+singer
+doi
+calculated
+katayama
+hirokawa
+tech
+pavan
+kruger
+iida
+hasegawa
+ravasi
+quackenbush
+klein
+pearson
+matsuzawa
+discussions
+kanapin
+forrest
+approach
+//www
+extend
+wu
+gariboldi
+cox
+miyake
+uncertainty
+cawley
+nomura
+kodzius
+kelso
+expected
+publicly
+abrupt
+sekiguchi
+confirmed
+mattick
+nih
+phosphatases
+piazza
+spencer
+left
+brenner
+tail-to-head
+assigned
+identify
+kanagawa
+advancement
+ruan
+spread
+aauaaa
+cell 116
+clustered
+advanced
+orlando
+acad
+crowe
+daytime
+okada
+kasukawa
+gustincich
+slightly
+soc
+haimberger
+marshall
+accommodate
+3¶utr
+extratropics
+5 mb
+60
+
+shown
+muramatsu
+constructed
+ng
+role
+kitano
+strausberg
+exported
+shibata
+enhancers
+stupka
+verardo
+alternatives
+focus
+makunin
+2 sept
+finally
+hume
+norwell
+discovered
+level
+fletcher
+targets
+iwashita
+norris
+genet
+okazaki
+climatol
+aaas
+criteria
+cited
+wahlestedt
+bansal
+believed
+december
+chiu
+map
+mignone
+bgenes
+thorne
+d09102
+peterson
+correspondence
+sperling
+atsui
+weighted
+tegner
+3¶utrs
+gaps
+shown
+possibility
+krishnan
+lareau
+ring
+millions
+org/
+1b
+batalov
+hum
+require
+future
+accessed
+column 3
+riehl
+correction
+allen
+000 bgenes[
+transcribed
+bailey
+taki
+begin
+mcwilliam
+gingeras
+pesole
+ambesi-impiombato
+pattern
+1126/science
+trenberth
+nature 420
+boundaries
+blast-
+dc 20005
+jp
+ascribed
+onodera
+1115640 include
+salzberg
+marchionni
+sciencemag
+spans
+waki
+case
+nishikawa
+kitamura
+blat
+underestimate
+week
+nh
+maeda
+aturaliya
+vose
+auuaaa
+knappenberger
+kawai
+generally
+aspect
+differentiation
+sugiura
+kanamorikatayama
+harbers
+lett
+rost
+ross
+zavolan
+read
+jakt
+mol
+futaki
+tagami
+output
+reidel
+mulder
+org/cgi/content/full/sci
+provided
+genetics
+nishiguchi
+apweiler
+found 1
+refer
+lanzante
+comparison
+act
+takeda
+inclusion
+determine
+wada
+detectable
+ringwald
+kinases
+aoki
+mice
+katoh
+agree
+taylor
+org/cgi/content/full/309/5740/1559/dc1
+describe
+al
+fagiolini
+hayashizaki
+bersano
+chichester
+important
+peak
+coverage
+included
+bult
+schonbach
+sci
+daytime-
+nori
+fukuda
+difference
+list
+kondo
+canonical
+ohno
+contrast
+himei
+christy
+geophys
+risbey
+silva
+santer
+generate
+easterling
+created
+ohara
+shigemoto
+liuni
+minimum
+singletons
+3¶ boundaries
+sakazume
+gaffen
+consequence
+takenaka
+bioinformatics
+ensembl
+paper
+pang
+existence
+shimada
+arakawa
+2a
+2b
+found
+undetectable
+watahiki
+yoshida
+missed
+unspliced
+eskridge
+e-mail
+dunn
+teichmann
+sinclair
+differ
+assumption
+nci
+part
+authors
+secretarial
+kind
+contrary
+elsevier
+karl
+miao
+sherwood
+lazarevic
+kai
+copyright 2005
+services
+krishnaiah
+nonspecific
+bertone
+lindzen
+murata
+aidinis
+douglass
+/permissions
+alteration
+neuroinformatics 1
+liou
+nakano
+oyama
+dalla
+recently
+interrogate
+ogawa
+lenhard
+due
+faulkner
+frith
+determination
+shift
+nucleotides
+l13207
+development
+baldock
+task
+consistency
+liu
+//fantom3
+relevance
+jp/db/
+wilming
+mext
+engstrom
+alignments
+pavesi
+proc
+sheng
+jumps
+angell
+kurochkin
+imamura
+statistics
+gough
+handbook
+reed
+line
+directed
+zhu
+consist
+durre
+uk
+strands
+yagi
+braganza
+2 megabases
+sasaki
+grouped
+nat
+correlated
+required
+implied
+kawaji
+results
+eds
+kato
+d07101
+seno
+citing
+matsuda
+ishikawa
+nishida
+configurations
+sultana
+reproduce
+3a
+grimmond
+great
+addressed
+tools
+confidence
+remains
+dalrymple
+iwama
+10 times
+zimmer
+pieces
+tan
+braswell
+zabarovsky
+chapman
+encyclopedia
+discussion
+iacono
+semple
+tss
+murakami
+dai
+morris
+michaels
+baxter
+lipovich
+randel
+rep
+waterston
+approaches
+ltr
+ninomiya
+itoh
+davis
+emap
+seidel
+14-
+nilsson
+colleagues
+cytoplasm
+clim
+kawazu
+nucleotide
+parker
+one-
+debate
+decade
+furuno
+atmos
+georgii-hemming
+choudhary
+reid
+processed
+rscc
+computed
+03-
+humans
+sessa
+hensch
+ends
+importance
+tammoja
+part 2
+kummerfeld
+beisel
+sequenced
+rps
+extent
+conclude
+fukushima
+int
+nishio
+define
+arises
+okamura-oho
+hayashida
+miki
+hayashi
+bull
+sandelin
+chalk
+kawashima
+encouragement
+95% level
+ikeo
+judgment
+identity
+huminiecki
+shiraki
+accurate
+nature 431
+kampa
+wei
+natl
+tomaru
+bajic
+kawasawa
+subramaniam
+belt
+clutterbuck
+kollias
+carried
+washington
+teasdale
+appl
+suzuki
+function
+kojima
+piece
+compares
+carninci
+phosphoregulators
+102
+100
+106
+105
+9%
+99
+1997
+1999
+16 1
+5453
+1759
+40%
+142 21
+973 5
+393
+929 23
+247
+65%
+241
+2
+3525
+1975
+1966
+807 102
+1149
+543
+41%
+364
+25%
+166
+90%
+1979
+1970
+1551
+1559
+56
+5%
+51
+511 3
+181
+5¶
+5862
+04 1
+151
+0
+811
+1499
+520
+[
+438
+439
+11 2
+11 1
+233
+2225
+2222
+1
+03 0
+1954
+1958
+79%
+1995
+3012
+627
+1222
+218 45
+2886
+11
+10
+13
+12
+15
+17
+16
+19
+18
+1%
+12 3
+96 1
+3652
+2525
+499
+385 78
+3
+25
+9002
+780
+462 907
+6%
+65
+68
+507
+630
+^
+119 7
+079
+757
+2003
+1443
+1117
+14
+197
+642 1
+009 11
+2166
+147 20
+6
+30 1
+00 1
+652 722
+613
+1273
+59 1
+24
+26
+27
+20
+21
+22
+23
+28
+29
+2451
+7
+2288
+16899
+992 44
+76
+15776
+78
+027 31
+1689
+1267
+53 2
+8
+397 181
+4
+38
+5­7
+395 385
+30
+9
+891
+000
+è16
+313 52
+757 23
+309
+610 448
+1114867
+122 313
+2002
+2004
+2005
+2008
+3¶
+472 118
+1335
+32
+31
+36
+34
+1241
+1242
+336
+331
+801 56
+47 2
+594 968
+007 277
+201 607
+8%
+70%
+001107
+8110
+940
+20 1
+2242
+992
+¨
+578
+2000
+461
+1200
+1112014
+1959
+5
+006 25
+5154
+110
+15 1
+*
+1988
+563
+567
+83
+42
+43
+40
+41
+1564
+07 3
+07 2
+07 1
+797 2
+473

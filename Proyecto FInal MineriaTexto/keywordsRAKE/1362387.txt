@@ -1,0 +1,1640 @@
+quantitative real-time fluorescence polymerase chain reaction
+500 multi­ zinc finger transcription factors encoded
+chipseq discovers nrsf/rest protein-dna binding events
+nih/national research service award 5t32gm07616
+d9-thc reduced allergic inflammation points
+making comscience vol 316
+
+putational discovery
+cell­ specification gene regulatory network [adapted
+zinc finger repressor negatively regulates
+web-based sequence logo generating application
+hundred instances showed significant binding
+11-bp­spaced classic binding motif
+perform sequence census counting assays
+repressor element­1 silencing transcription factor
+noncanonical 16to 19-bp­spaced left
+detecting previously validated true positives
+canonical 11-bp­spaced full site
+require correspondingly deeper sequence sampling
+nrsf/rest sequence-tag distribution centers directly
+comprehensive human wholegenome tiling arrays
+computationally predicted target gene cohort
+chipseq peak locator algorithm developed
+c2h2 zinc finger proteins
+candidate gene network input connections
+regulates pancreatic islet cell development
+selective cb receptor agonists
+org science vol 316
+
+8 june 2007
+
+1499
+
+downloaded
+org science vol 316
+
+8 june 2007
+
+1501
+
+downloaded
+short individual sequence reads produced
+hepatocyte nuclear factors hnf4a
+strong canonical nrsf motif instances
+binding position [±50 base pairs
+making direct digital measurements
+illumina refseq8 sentrix arrays
+permissivity factor gating entry
+locator algorithm [open source
+experimentally determined sites exceeded
+nrsf target genes [genes scoring
+experimentally determined nrsf/rest interactome
+nih grant u01 hg003162
+nucleotide-by-nucleotide sliding window design
+authors theorized long-distance repression
+evolutionarily conserved site instances
+vivo protein-dna interactions connect
+vivo protein-dna interactions
+david
+vivo protein-dna interactions david
+statistically significant manner relative
+high-quality protein-dna interactome measurements
+lowest qpcr-positive validation values
+genes encoding 110 transcription factors
+include terminal differentiation genes
+higher chipseq tag scores
+chipseq experiments produced similar results
+classic nrsf target gene
+data display sharp resolution
+771 computationally high-scoring nrse motifs
+significant nrsf binding occurs
+base composition constraints related
+contemporary largescale chip studies
+experimental interactome peak domains
+1500
+
+8 june 2007
+
+vol 316
+
+science
+
+www
+1498
+
+8 june 2007
+
+vol 316
+
+science
+
+www
+1502
+
+8 june 2007
+
+vol 316
+
+science
+
+www
+resulting sequence read distribution
+nervous system development rank
+ensure nrsf repression activity
+greatly facilitate motif-finding algorithms
+regulatory site annotation relative
+previously developed motif model
+canonical motif instances defined
+previously developed computational model
+enrich target dna sites
+accepted 26 april 2007 published online 31
+drives islet cell development
+meme search correspond directly
+full 21-bp nrse motif
+measuring repressor binding globally
+human neuron-restrictive silencer factor
+direct ultrahigh-throughput dna sequencing
+response element­ binding protein
+superficially similar half-site content
+input chip dna size
+771 high-scoring canonical nrse motifs [84%
+remaining unique sequence read
+include key transcription factors
+primary gene network structure
+large-scale chromatin immunoprecipitation assay
+wholegenome tiling arrays
+smaller cell number input
+nrsf chipseq binding domains
+solexa/ illumina sequence sampling
+detect rare molecular species
+computational nrse sequence motif
+discriminate motif instances occupied
+org/cgi/content/full/316/5830/1497 supporting online material
+key transcription factors bound
+chipseq nrse target genes
+mapping 1946 shared enriched locations
+5 million 25-nt sequence reads
+large canonical nrsf-binding motif
+supporting online material
+www
+nrsf-binding sites previously identified
+zinc finger family
+19-bp­spaced family
+computationally predicted cohort
+canonical nrsf-binding motif weblogo
+identify noncanonical nrsf-binding motifs
+chipseq nrsf interactome measurements
+vivo binding sites defined
+higher affinity canonical sites
+nrsf/rest­enriched chip sample
+science web sites related
+entire primary data set
+noncanonical half-site configurations plausible
+solexa/illumina platform sequencing costs
+assessed genome-wide transcript levels
+short sequence read
+protein-dna interactions comprehensively
+chipseq site location relative
+input dna relative
+neuron-restrictive silencer factor
+sequence census method
+sequence census assays
+transcription factors neurod1/beta2
+authors contributed equally
+avoids constraints imposed
+binds nrsf/rest reproducibly
+nrsf/rest interactome measurements
+motif-finding algorithm meme
+conserved noncoding features
+accommodate polymorphisms relative
+direct physical interactions
+21-bp nrse motif
+previously identified target
+developing pharmacological treatments
+york avenue nw
+ascherman chair endowment
+receiver operator characteristic
+secondary structure interference
+encode project consortium
+gene anatomy landmarks
+academic press/ elsevier
+biochemical binding sense
+plasmid library construction
+deutsche forschungsgemeinschaft [sfb645
+nrsf-positive binding event
+hybridizing labeled rna
+poor binders turning
+bren chair endowment
+print issn 0036-8075
+ion channel-activity functions
+org
+
+8 june 2007
+
+1497
+
+downloaded
+ultrahigh-throughput dna sequencing
+online issn 1095-9203
+gene regulatory networks
+dna binding structure
+experimental chipseq peak
+2214 nrsfbinding motifs predicted
+transcription factor binding
+local site computationally
+gene network scaffold
+identifiable nrse motif
+nervous system development
+canonical 21-bp site
+open reading frame
+roughly 1 billion features
+plausible multistep path
+establish measurable occupancy
+chipseq peak finder
+chipseq false-negatives corresponded
+transcription start site
+immune reagent specific
+specific signaling stimuli
+dna binding factor
+nonneuronal cell types
+nonpancreatic cell types
+candidate motifs stood
+ultrahigh-throughput sequencing platforms
+canonical nrse motif
+high-quality monoclonal antibody
+negative autoregulatory feedback
+assay chip products
+sequence read number
+near-optimal canonical motifs
+defined strong sites
+randomly selected molecules
+random sequence windows
+transcription start sites
+nrsf target genes
+pancreatic neuroendocrine development
+zif268 bind dna
+dna binding domain
+primary chipseq data
+canonical nrsf-binding site
+nucleic acids res
+enhance positional resolution
+noncanonical motif family
+105 true-positive sites distributed
+biochemically optimal sites
+sites previously studied
+recognizes nrsf efficiently
+nrsf co-repressors differ
+discover binding-site motifs
+unlike microarray assays
+provide optimal substrate
+gain sampling power
+called experimental peak
+differentiated islet cells
+wound healing experiments
+combine high accuracy
+global experimental data
+modest chipseq signals
+entire mammalian genomes
+cell line studied
+nrsf chipseq measurements
+solexa sequencing technology
+chipseq interactome corresponds
+sufficient chromatin access
+differential chromatin access
+psfm motif model
+array hybridization chemistry
+enrichment thresholds commonly
+entire factor-dna interactomes
+show considerable strain
+immune reagent quality
+nucleic acid sample
+makes simultaneous binding
+large-scale chip methods
+detectable chipseq signal
+vivo binding locations
+dna motif bound
+specific chromosomal locations
+pancreatic network sites
+chipseq data identified
+canonical nrses fall
+technology beckman institute
+make chip measurements
+chip sample relative
+position-specific frequency matrix
+detectable binding suggests
+chipseq data mapped
+graphically portraying sensitivity
+govern network activation
+current microarray designs
+affymetrix-style microarray design
+paired end tags
+including high-resolution figures
+increase positional precision
+p53 interactome measured
+multiple mammalian genomes
+enriched dna sites
+chromatin remodeling complexes
+canonical motif match
+independent sequence reads
+occupy positions high
+nrses occur prominently
+remaining chipseq-positive regions
+called chipseq peak
+regulatory class highlighted
+vivo binding targets
+clustered partial sites
+multiple hypothesis testing
+binding motifs feasible
+neuroendocrine development program
+read number capacity
+outstanding experimental work
+high positional resolution
+high-confidence promoter predictions
+minimum fivefold enrichment
+left-side half sites
+right-side half sites
+nonpalindromic half sites
+linked half sites
+concentrated half sites
+high-resolution interactome map
+positive chipseq signals
+high binding-site resolution
+solexa/illumina sequencing platform
+observed roc areas
+expected canonical peak
+2008
+
+reports
+chipseq peak
+chipseq regions mapped
+wide dynamic range
+optional preamplification step
+stanford university school
+prior studies provide
+map factor-binding sites
+noncanonical sites compared
+subsequent analysis corresponds
+depth issues dictate
+high-read numbers contribute
+companion control sample
+observed chipseq-positive signals
+molecular biology http
+s7 references 14 february 2007
+article cites 21 articles
+multiple clustered occurrences
+chipseq counts sequences
+caltech beckman institute
+site occupancy detected
+applied size selection
+independent evidence suggests
+intermediate signal intensity
+fraction true positive
+chipseq assay shown
+selected additional articles
+s2 references 8 march 2007
+scg10/stmn2 expression depends
+transcription factors
+recent chippet study
+candidate connections
+s6 tables s1
+nrsf-binding target
+full previously
+supporting material
+target genes
+sequence read
+statistical certainty needed
+pancreatic islet
+motif sequence
+sequence-tag number
+candidate interactions
+dna affinity
+canonical motif
+chipseq sampling
+transcription factor
+noncanonical motif
+gene network
+microarray costs
+significant enrichment
+solexa/ illumina
+interactome structure
+nrse motif
+chromatin immunoprecipitation
+regulatory network
+chipseq peak
+vivo binding
+strong sites
+pancreatic network
+dna sequencing
+binding motifs
+sequence content
+nrsf-binding site
+require knowing
+individual cells
+topical application
+true positives
+transcript signals
+chipseq assay
+specific genes
+noncanonical nrse
+canonical site
+positional resolution
+~40 million reads
+scoring positive
+transcriptional repressor
+binding locations
+nrse motifs
+nrsf-binding sites
+binding sites
+noncanonical site
+nrsf gene
+nrsf binding
+data produced
+binding-site motifs
+predicted solely
+primary reason
+direct targets
+zinc fingers
+greatly enriched
+p53 interactome
+interactome measured
+sequencing platforms
+55 sequence reads
+202 sequence reads
+13 sequence reads
+sequence reads
+sampling depth
+algorithm finds
+islet cells
+peak-call algorithm
+20 times deeper
+half-site content
+chipseq signals
+science online
+cell development
+chipseq data
+half-site motifs
+cell line
+true motifs
+sequencing platform
+solexa/illumina sequencing
+motif quality
+chipseq-positive genes
+25-nt segments
+key activator
+genome-wide mapping
+gene ontology
+1142265
+
+genome-wide mapping
+transfection assays
+occupancy levels
+computational models
+monoclonal antibody
+confirmed previously
+published weekly
+isi web
+similar completeness
+recovered material
+resources related
+large interactome
+full set
+chipseq reads
+chipseq signal
+sequence hits
+regulatory targets
+online version
+half mapped
+immuno-enriched dna
+double-stranded dna
+cross-regulatory interactions
+dna samples
+multiple sites
+chip experiments
+chipseq experiments
+size selection
+neuronal genes
+controls pancreatic
+prior studies
+computational methods
+scoring 70% match
+positive autoregulatory
+org
+
+downloaded
+positive signals
+signal intensity
+true sites
+sites bind
+target loci
+high resolution
+smaller class
+noncanonical distances
+molecular characteristics
+half site
+interactome dynamics
+interactome structures
+sheared chromatin
+factor detectably
+pha4/foxa factor
+fixed chromatin
+nrsf repression
+independent experiments
+molecular
+
+www
+called nrse
+sole nrse
+solexa/illumina platform
+array features
+statistically robust
+15 articles hosted
+greatly reduce
+corresponds closely
+chipseq illustrates
+chipseq neighborhoods
+chipseq peaks
+13 sequence tags
+transcription cofactors
+multiple matches
+positioned higher
+cell type
+living cell
+cell environment
+neurod1 gene
+positive signal
+highly enriched
+entire genome
+statistical certainty
+sites provide
+degenerate site
+site emerges
+high levels
+results suggest
+rna-coding domain
+informatically mapping
+fivefold enrichment
+binding-motif family
+california institute
+key parameters
+org/cgi/content/full/316/5830/1497#related-content
+half-site distances
+explicit predictions
+local concentration
+3california institute
+org/cgi/content/full/316/5830/1497#otherarticles
+genome-wide scale
+random classification
+meme returned
+central positions
+size-selection step
+half sites
+structural data
+regulatory genome
+higher match
+transcriptional repression
+nrsf-mediated repression
+tables s1
+sequence specificity
+regulatory logic
+total number
+large genomes
+low number
+genomes large
+limited number
+subsequent analysis
+systems-level studies
+reasonable certainty
+detailed studies
+pha4 levels
+solexa/illumina protocol
+low levels
+desired levels
+suggested previously
+loci defined
+positive drivers
+absolute signal
+chipseq-binding locations
+sensitivity results
+pet2 sites
+sites varied
+single-copy sites
+weak sites
+selecting nrsf
+nrsf targets
+implicated nrsf
+nrsf acts
+dtl
+
+science
+title science
+motifs occur
+half-site distance
+detectably occupied
+separate left
+terms related
+wide range
+similarly occupied
+background sequences
+large numbers
+eliminates sequences
+global map
+noncanonical group
+significantly enriched
+statistical confidence
+statistical analyses
+statistical robustness
+high representation
+true negatives
+chipseq-positive regions
+1946 chipseq-positive regions
+chipseq begins
+gigabase-size genomes
+tables s2
+specific orientation
+stanford university
+regulatory function
+finding motifs
+human genome
+selected threshold
+canonical 11 bp
+psfm score
+discernible pattern
+bonfor stipend
+observations argue
+progenitor cells
+10-bp turn
+de maeyer
+table s6
+table s1
+initial picture
+weaker matches
+san diego
+generalized scheme
+registered trademark
+minority chip-positives
+conservative choice
+tiny minority
+distinctive pattern
+genetic mutations
+2biology division
+nonrepeat portion
+positioned critically
+promising potential
+focused attention
+rough comparison
+broad classes
+called re1
+cells express
+standard preparation
+hnf6/ onecut1
+197 regions lacking
+sampled deeply
+454 life sciences
+physiological condition
+invaluable counsel
+investigators estimated
+naturally subdivided
+technical assistance
+faah inhibitors
+synaptic transmission
+rights reserved
+peaks fall
+developmental pathway
+successful detection
+color scale
+highwire press
+obtaining reprints
+chipseq-enriched regions
+cutaneous chs
+di marzo
+subject collections
+complex repeats
+push forward
+signal-to-noise ratio
+improve signal-tonoise
+caenorhabditis elegans
+rich pool
+obtaining permission
+dna-rna hybrids
+generic task
+american association
+de paulis
+target-site repertoire
+associate indirectly
+epitope exposure
+evolving rapidly
+gradually made
+simpler explanation
+permissive state
+observations suggest
+sensitivity/specificity considerations
+previous study
+bmc bioinformat
+bottom quartile
+attractive piece
+cross-link reversal
+100-bp segments
+whole-genome completeness
+substantially greater
+epitope availability
+1 barbara wold2
+successful rejection
+evidence address
+large set
+high sensitivity
+genome res
+transfection analysis
+roc analysis
+instances
+methods figs
+unlike saco
+selected based
+highest signal
+perfect sensitivity
+chipseq experiment
+single sites
+nrsf specifically
+black arrowhead
+center-to-center distance
+map parts
+including ngn3
+separation distance
+table s2
+location ranged
+location cluster
+instrument run
+2008
+
+reports
+sponse
+2008
+
+reports
+contents
+neurod locus
+significantly lower
+4-kb region
+significance threshold
+jurkat cells
+suboptimal sequences
+wide differences
+subset selected
+genome completeness
+reference genome
+specificity [roc
+highly uncertain
+table s5
+table s4
+vast majority
+general range
+updated information
+reasonable cost
+nrsfbound loci
+group includes
+versus specificity
+effectively blocked
+largest group
+developed
+simple repeats
+rich group
+similarly oriented
+1* ali mortazavi
+minimal inclusion
+org/cgi/collection/molec_biol information
+binding-motif properties
+called chipchip
+developmental progression
+temporal order
+org/cgi/content/full/316/5830/1494/dc1 materials
+starting molecule
+test case
+70% match threshold
+expectations based
+nrsf/rest
+specificity analysis
+run times
+directly
+white boxes
+myers@shgc
+biologically active
+biologically important
+performed routinely
+splicing regulators
+roc curve
+article appears
+repressor
+red arrowhead
+roc area
+neurod1 locus
+500 bp downstream
+region required
+allergy immunol
+occur widely
+relative
+measurements
+transcription
+measure sensitivity
+motif
+believed
+
+fig
+model
+peak
+binding
+comprehensive
+org/cgi/content/full/1141319/dc1 materials
+similar
+spacer nucleotides
+previously
+distance 11 bp
+sequence
+sequenced genome
+online
+interactions
+downloaded
+genes
+1020 genes
+canonical
+genome biol
+defined
+produced
+network
+noncanonical
+identified
+illumina
+distribution
+interactome
+factor
+nrse
+chip
+open
+plausible
+system
+chipseq
+vivo
+higher
+cell 121
+cell 116
+cell 119
+cell 124
+motifs
+enriched
+resolution
+development
+site
+assessed
+human
+identify
+unique
+accepted 4
+meme
+detect
+1141319 include
+family
+species
+algorithms
+response
+composition
+results
+include
+configurations
+correspond
+discriminate
+data
+repression
+number
+observed
+clustered
+studies
+platform
+technology
+solexa/illumina
+access
+500 reads
+000 reads
+1946 locations
+locations
+sites
+754 sites
+nrsf
+science
+science 298
+science 295
+science 266
+science 316
+science 306
+science 307
+provide
+left
+occupied
+half
+experiments
+high
+chipseq-positive
+genomes
+govern
+study
+counts
+program
+feasible
+grant
+complexes
+depends
+capacity
+applied
+make
+bound
+fraction
+targets
+current
+198 regions
+sample
+s1
+s7
+s6
+array
+show
+protein
+measuring
+power
+roc
+fall
+design
+numbers
+precision
+range
+interactomes
+called
+depth
+enrichment
+issues
+makes
+control
+regions
+references
+occurrences
+quality
+intermediate
+psfm
+hypothesis
+promoter
+] compared
+weblogo
+cells
+contribute
+www
+org
+analysis
+90% match
+methods
+84% match
+suggests
+frequency
+sensitivity
+distance
+map
+arrowhead
+tags
+including
+class
+6718 tags
+s2
+set
+location
+2008
+
+reports
+occur
+significantly
+additional 5
+region
+detected
+run
+negatives
+locus
+times
+preamplification
+scg10/stmn2
+additional
+threshold
+jurkat
+stanford
+neurod1
+genome
+progression
+order
+cofactors
+needed
+begins
+oriented
+200 nucleotides
+logic
+expected
+materials
+mortazavi
+properties
+specificity 98%
+org/cgi/content/full/1141319/dc1
+cost
+address
+values
+s5
+s4
+group
+chipchip
+specifically
+specificity
+molecule
+spacer
+case
+orientation
+inclusion
+general
+chippet
+information
+majority
+finding
+parameters
+simple
+uncertain
+widely
+single
+required
+loci
+effectively
+red
+highest
+caltech
+based
+work
+suggested
+active
+differences
+myers
+performed
+shown
+white
+important
+curve
+measure
+regulators
+saco
+curve >0
+sequenced
+suboptimal
+37 article
+article
+fingers
+terms
+area  0
+area
+biol
+http
+function
+± 50 bp
+1 bp
+10 bp
+21 bp
+­10 bp
+bp
+11 bp
+50 bp
+1000 bp
+9 bp
+19 bp
+20 bp
+immunol
+subset
+experiment 1
+experiment 2
+experiment
+fig
+pet3-and-
+speh
+affect
+= 8 × 10-6
+ueda
+r85
+katari
+chem
+hnf6
+blue
+cross-hybridization
+organisms
+25 nt
+pharmacol
+10-
+sachidanandam
+buckley
+explained
+cravatt
+chiparray
+separated
+cited
+organized
+c2 = 3070
+answer
+earlier
+nrsf-
+arch
+vary
+undetected
+creb
+eventually
+ther
+quantify
+erxlebe
+medicine
+down-regulation
+free
+xie
+top
+ranging
+regulator
+tu90/5-1
+well-
+chen
+strength
+kaya
+established
+copyright 2007
+doi
+calculated
+camp
+inferred
+introns
+principle
+participate
+explain
+klein
+nathan
+nrsf/restbinding
+//www
+extend
+wu
+cawley
+grunseich
+asked
+scharfmann
+basis
+interest
+pancreas
+16-
+comprehensiveness
+launched
+peisach
+mouse
+evolve
+nature 296
+kim
+weakly
+yeo
+bailey
+top 10%
+gift
+schwarz
+acad
+genome-comprehensive
+opin
+ballas
+bisogno
+raises
+refined
+neumann
+inserted
+anderson
+conservation
+form
+removed
+maximum
+czernichow
+grabbe
+pasadena
+nt
+jones
+enhancers
+time
+supplement
+grateful
+finally
+protective
+zhang
+ibrahim
+cyan
+level
+gaudet
+occurrence
+miyagawa
+ashburner
+genet
+behav
+aaas
+criteria
+adenosine 3´
+nguyen
+cases
+effort
+impey
+december
+allowed
+stremmer
+s3
+today 19
+quantified
+applications
+produce
+johnson
+restricted
+typical
+< 10-4
+displayed
+argues
+differs
+interesting
+presence
+decreases
+correspondence
+mismatches
+falsepositives
+lthough
+rukwied
+metze
+possibility
+schmelz
+advance
+essig
+origin
+striking
+herkenham
+org/
+1a
+1b
+cost-effective
+elkan
+hum
+released
+accessed
+589 transcripts
+inferring
+10-17
+turned
+ca 91125
+performance
+considered
+hanifin
+discovered
+elevate
+boundaries
+1126/science
+thompson
+undersampling
+pevzner
+dc 20005
+paquette
+sciencemag
+grants
+good
+knop
+week
+10-24
+59 × 10-6
+lehrer
+macher
+relief
+rest
+grk804
+aspects
+early
+mol
+werner
+output
+cristino
+mccue
+genetics
+recorded
+critical
+atouf
+genom
+wold
+instruments
+accounts
+regard
+mice
+al
+suited
+calls
+invest
+sci
+lack
+neurobiol
+tm
+list
+small
+attributable
+chip-qpcr
+1 kb
+learned
+contrast
+berkeley
+id=203
+matsui
+action
+luger
+stander
+citing
+tested
+taub
+qpcr
+learn
+lacks
+axis
+cline
+paper
+systems
+oka
+framework
+false-positives
+2d
+2a
+2b
+2c
+found
+nonbinding
+exons
+expect
+missed
+misses
+overrepresentation
+members
+beginning
+5´-monophosphate
+22 micrornas
+circuit
+bioinformatics 22
+relate
+marsland
+temperature
+interact
+passed
+part
+robustly
+depending
+1
+
+chromosome
+build
+analogy
+measures
+services
+extremely
+huntley
+part-time
+exp
+denatured
+find
+failed
+epitech
+/permissions
+dermatol
+3c
+garcia
+achieved
+vertebrates
+c2 = 11
+create
+/pages
+strategy
+neurons
+= 1 × 10-11
+shorter
+virtually
+purpose
+increases
+immuno-enrichment
+data-quality
+tsavaler
+showing
+davidson
+schoenherr
+e236
+annu
+bruce
+proc
+dictates
+stem
+hohmann
+c2 = 1309
+question
+long
+pabo
+mach
+adjusting
+deployed
+curr
+accessibility
+nat
+department
+neurogenin3
+2* richard
+medina
+prepared
+sides
+correlated
+implies
+inspection
+anton
+expressed
+3b
+3a
+led
+lee
+degree
+spacing
+ilmn
+notes
+1
+involves
+composed
+addressed
+usa
+zimmer
+heim
+account
+chipsage
+challenge
+reproduce
+advancement
+purposes
+located
+immunoenrichment
+lines
+facilitated
+lu
+eur
+identifies
+traces
+nature 223
+rev
+lunn
+ren
+immunohistochemistry
+determining
+//woldlab
+bonner
+ligresti
+biochem
+230 transcripts
+comfortably
+clin
+mango
+looked
+text
+nonidentical
+supported
+thousands
+kopf
+drawn
+evolution
+processed
+view
+enhancer
+humans
+precedents
+progress
+goldstandard
+woldb@
+bachmann
+passing
+close-
+conclude
+ca
+respect
+addition
+define
+iwamura
+difficult
+promoters
+effect
+identity
+maccarrone
+center
+accurate
+schroth
+wei
+neurochem
+natl
+increased
+hes1
+prominent
+stabilize
+accessible
+e-mail
+krampert
+= 4 × 10-5
+introduced
+washington
+functional
+mandel
+lunyak
+histogram
+int
+detail
+kinds
+chance
+4b
+4a
+272
+278
+102
+101
+107
+104
+105
+98
+93
+95
+97
+96
+1995
+1994
+1997
+1996
+1999
+1998
+1370
+400
+396
+>0
+173
+2
+~400
+1969
+± 500
+94305­5120
++10
+164
+1 ­
+51
+9­11
+159
+2434
+819
+1497
+520
+6000
+1
+146
+141
+821
+33896
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+207
+]
+2238
+10821
+224
+9371
+1929
+3
+780
+50%
+500
+636
+4
+757
+75%
+1208
+2000
+2001
+5
+0
+6
+8796
+1141319
+499
+24
+25
+26
+27
+20
+21
+22
+23
+177
+7
+189
+~0
+75
+78
+1041
+669
+8
+316
+96]
+38
+9
+87%
+674
+300
+5780
+2002
+2003
+2006
+2007
+2004
+2005
+2008
+10458
+596
+37
+34
+3093
+645
+330
+94%
+2007 10
+130
+136
+83
+80
+81
+454
+124
+1747
+1200
+46%
+35%
+9881
+98%
+1982
+*

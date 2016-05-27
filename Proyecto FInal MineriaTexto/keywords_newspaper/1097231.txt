@@ -1,0 +1,13 @@
+associations
+cnv
+genes
+snps
+j
+variation
+1097231txt
+master
+clones
+samorogu
+gene
+expression
+cnvs

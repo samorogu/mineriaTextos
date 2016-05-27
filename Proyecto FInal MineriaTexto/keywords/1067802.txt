@@ -1,0 +1,239 @@
+represent
+protocol
+experimental time-course
+distances
+transmitting
+Behavioral
+Chemical
+frequency
+Controlling
+threshold
+Progress
+alternative
+macroscopic
+encounters concentration
+Supplementary Information
+Synthesis
+heuristic
+Marseille
+Scientific
+parameters
+interesting
+similarity
+Mechanisms
+Residual
+systematic formulation
+Correspondence
+combining turbulent
+contrary
+Acknowledgements
+Nakayama
+Bab-Hadiashar
+Received
+2Universite
+downstream
+extended crosswind
+possible
+Reinforcement
+Simulation
+invariant
+turbulence
+difference
+encounter
+dimensional
+numerical simulation
+exponential
+Shimoyama
+approach
+simplistic hypothesis
+Olfaction
+specific
+realistic
+right-hand
+Biomimetic
+informa1
+distribution posterior
+Simulations
+Institut Universitaire
+downward
+d-function
+Mafra-Neto
+mathematical
+Balkovsky
+root-meansquare
+classical
+sequence
+turbulent
+searching
+Specifically
+hke2h/k
+detection
+Dusenbery
+intensity
+time-step
+infotactic
+detectible
+creatures
+Detection
+chemo-orientation
+probable
+Singapore
+information acquisition
+METHODS Estimation
+Infotactic trajectories
+detections
+symmetric
+Clarendon
+experiment
+information-theoretic approach
+greyscale
+exploitative
+subscript
+Shraiman3 Chemotactic
+conditions
+Vergassola
+available
+attractant
+Gawedzki
+Robustness
+University
+standard
+behaviour
+efficiency
+separation
+fluctuations
+concreteness
+invertebrate
+likelihood
+F-13384 Marseille
+posterior probability
+entropy26,27
+comparison
+Cambridge
+prescription
+silkworm
+Emmanuel Villermaux2
+sffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+time-independent
+exploitation
+propagation
+pheromone
+expression
+experimental
+gas/odor plume-tracking
+Vergassola1
+computational
+probability
+large-scale
+encounters
+spreading
+successive
+autonomous
+isotropic effective
+probability distribution
+fluid-advected
+exponential dependence
+experiencing
+Institut
+Theoretical
+orientation
+corresponding probability
+spread-out
+additional
+trajectory
+Odor-source localization
+Modelling
+reduction
+detectable
+California
+crosswind excursion
+advection
+November
+theoretical
+remarking
+direction
+Princeton
+maximization
+Interestingly
+modelling
+Expectations
+transient
+Archimedean
+Fine-scale structure
+particular
+injection
+high-concentration conditions
+preferential
+plausible
+conservative `exploration
+Falkovich
+intuitive
+characteristic
+challenge
+detectability
+Snapshots
+performing olfactory
+Olfactory
+infinitesimal
+exploration
+LETTERS performing
+demonstrate
+`zigzagging
+Zigzagging
+acquisition
+Massachusetts
+LETTERS `Infotaxis
+Publishing
+Introduction
+averaging
+Furthermore
+measurement
+locations
+Elkinton
+Particles
+financial
+Villermaux
+accounting
+concentration
+consistent progression
+Nakamoto
+Moriizumi
+information
+different
+productive
+Telecommunication
+exploratory
+olfactory
+Quantitative characterization
+Parameters
+signal-to-noise
+chemotaxis
+performance
+practical situation
+effective diffusivity
+difficult
+conflicting
+extended
+Nagasawa
+Shepherd
+Institute
+crosswind
+molecular diffusion
+variation
+aggregation
+Actuators
+`exploitation
+independent
+`exploration
+propagate
+quantitative
+chemoattractant
+dynamical
+algorithm
+autonomous underwater
+durpffiffiffiffiffiffi
+Technopole
+neighbouring
+principle
+`infotaxis
+Reynolds

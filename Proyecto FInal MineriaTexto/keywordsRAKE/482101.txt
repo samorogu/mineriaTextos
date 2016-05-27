@@ -1,0 +1,1763 @@
+2 1 0 2 1 0 2 1 0 1 2 3
+
+exd + pa2
+2 1
+
+exd + pa3
+
+exd + pa
+consensus
+
+nganwgwc
++
+
+bits
+
+0 2 1 0 1 2 3 4 5 6 7 8 9
+
+consensus + 1
+
+ngannwgwc
++
+
+inverse
+4 5 6 7 8 9
+
+nganggwc
++
+
+rel
+0
+
+exd + pa3
+consensus consensus + 1 consensus inverse
+2-3 3-4 4-5 >5
+
+1
+solution-phase medium-throughput assay utilizes dna sequence variants presented
+protein data bank id code 1b8i
+energy minimization methods prevent precise prediction
+protein data bank id code 1m18
+dna-binding small molecules rarely exceed 8 bp
+0 >5 4-5 3-4 2-3 1
+protein data bank files 1b8i
+saline sodium phosphate edta buffer
+transcription factors utilizes suboptimal binding sites
+cy3 maleimide mono-reactive dye pack
+exd + pa2
+1
+approach derives comprehensive binding profiles
+strongly influences dna sequence specificity
+exd
++
+chemical genomics ligand­dna recognition
+cold spring harbor lab
+rkrrnfsk 11qaseilneyf 21yshlsnpyps 31 eeakeelark 41
+preconditioned solid-phase extraction column
+impy*pypy- -impypypy- -dp
+observed csi array binding data
+map transcription factor binding sites
+imimpy*py- -impypypy- -dp
+metazoan dna-binding proteins target 6­10 bp
+providing biased sequence-recognition profiles
+medicine training grant t15lm007359
+detected cognate sites bound cooperatively
+economic development research program
+prerun 10% acrylamide 3% glycerol gel
+core consensus sequence 5 wgwwcw-3
+isolate putative binding sites
+standard boc-based solid-phase synthesis
++
+
+3
+im py ring pair targets
+molar dye protein ratio
+overrepresent strong binding sites
+solution studies strongly corroborated
+entire sequence space represented
+hox mimics strongly support
+identifying regulatory dna elements
+comprehensive sequence recognition landscape
+complete sequence recognition profile
+small molecule ligands indistinguishably
+cooperative binding dramatically increases
+features showed low background fluorescence
+cooperatively binding transcription factors
+hox­exd complexes target
+csi array accurately ranks
+cognate site preferences identified
+inverse binding
+detecting target proteins bound
+computationally identifying binding sites
+hox­exd cognate sites
+10 variable base pair positions
+dye protein [cy3] [exd-r2c]
+reported solution binding studies
+small molecule binding detected
+csi array correctly identifies
+csi array analysis examines
+full molecular recognition profile
+applied biological sciences
+
+averaged
+py py pair targets
+engineered dna-binding small molecules
+target specific dna sites
+inverse orientations
+67 rel
+bits
+
+0
+composite consensus site
+small molecule dna ligands
+dna-binding small molecules composed
+dna recognition code
+single csi array experiment
+forty-mer dna sequences labeled
+exd binds dna
+warren
+comprehensive mutational analysis plot
+4
+
+867­ 872
+
+applied biological sciences
+
+fig
+imimpy*py-impypypy- -dp
+averaged background-subtracted intensity ratio
+core consensus sequence
+map binding sites
+prevent complex formation
+polyamide -aminobutyric acid turn
+cooperatively assembling complexes
+regulate biological processes
+health grant gm51747
+methods duplex dna arrays
+sequence recognition landscape
+signal median standard deviation
+4 869
+
+applied biological sciences
+metazoan dna-binding proteins
+slightly yellow solid
+2nd international conference
+naturally occurring 6-
+equilibrium association constants
+entire scientific community
+org cgi doi 10
+simple geometric measurements
+yielded unique insights
+orthogonally protected n-
+selfcomplementary palindromes interrupted
+room temperature overnight
+previous work shows
+gitvsqvsn 51 wfgnkriryk 61kni
+c18 bonded phase
+cooperatively binding factors
+identifying regulatory sites
+engineered small molecule
+dna-binding transcription factors
+gapped composite site
+comprehensive ligand-binding profile
+adjacent cognate site
+cognate site identifier
+nucleic acids res
+altered sequence-recognition landscapes
+entire sequence space
+detect protein binding
+eukaryotic transcription factor
+nacl 20 mm edta
+synthetic hox mimics
+biased binding profile
+indicating tight binding
+binding interaction remains
+subtly decreases binding
+exd stabilizes binding
+single base overlap
+energy minpnas january 24
+dna-intercalating fluorescent dye
+exd binding sites
+sonicating genomic dna
+comprehensive mutational analysis
+potential target sites
+predicted binding site
+characterized dna-binding molecule
+pa3­exd data
+molecular recognition event
+amine-reactive cy3 fluorophore
+single base pair
+binding sites identified
+constant base pairs
+cognate dna site
+sequence preferences identified
+full sequence-recognition profile
+pyrrole building block
+transcription factor binding
+cooperatively recruit exd
+biased microarray bearing
+small molecules remains
+visual molecular dynamics
+dna sequence space
+nonstringent wash buffer
+150 mm potassium glutamate
+raw array data
+cooperatively binding pairs
+maskless array synthesizer
+national foundation­march
+cy3-labeled exd displayed
+reference grid features
+000 spatially resolved features
+dna duplexes composed
+csi profile data
+cognate site preference
+fluorescently tagged ligand
+molecular recognition displayed
+phthalimide protecting group
+resulting aminopropyl precursor
+small molecule ligands
+unstable ternary complex
+equally strong preference
+programmable dnabinding specificity
+pa2­exd data
+unknown dna-binding properties
+cy3 fluorescent dye
+homeobox transcription factors
+targeted cognate site
+discernible binding sites
+dna-binding small molecules
+disfavor complex formation
+hairpin stem interacts
+3-bp flanking sequence
+specific probe sequence
+required sequence determinant
+recruitment peptide bound
+dna-binding molecules
+christopher
+generated synthetic molecules
+molecular recognition properties
+duplex dna sequence
+individual hox proteins
+cy3-labeled dna probe
+induce hairpin formation
+hairpin formation percentage
+inducing hairpin formation
+specific dna sequence
+inverted binding sites
+previous solution-based footprinting
+right-handed tail effect
+initial studies suggest
+genepix pro version 3
+individual complementary strands
+surface plasmon resonance
+change mutagenesis procedures
+represent larger sets
+6 mm boric acid 2
+average correlation coefficient
+amersham pharmacia biosciences
+generate exd r2c
+dna sequence-recognition properties
+consensus 1 site
+biologically relevant sites
+cy3 dye attached
+csi array data
+ring pairing rules
+pnas web site
+b-form dna resulting
+a552 dilution factor
+array form duplexes
+fluorescently labeled antibodies
+duplex dna molecules
+specific hox proteins
+ranking sequences preferred
+previous solution studies
+fluorescent binding features
+exd final concentrations
+expected dna-binding sequence
+consensus sequence
+predict binding sites
+maldi-tof ms verified
+much-needed high-throughput approach
+hox docking peptide
+base pair positions
+bind dna cooperatively
+polyamidepeptide conjugates pa2
+molecular modeling data
+monohydroxysilane glass slides
+sequence-specific dnabinding molecules
+double-stranded dna array
+synthetic hox mimic
+querying dna sequences
+8-bp dna sequences
+docked hox hexapeptide
+polyamide-cy3 conjugate pa1
+dye displacement assays
+comprehensive high-throughput platform
+exd binding motif
+intermediate free base
+single-stranded dna molecules
+cooperative ternary assembly
+utilizes selection
+csi array analysis
+conserved noncoding sequences
+higher order complex
+pa3 differ solely
+duplex dna sequences
+pa3 reach exd
+bind sites targeted
+specific dna sequences
+high-density oligonucleotide microarray
+yielding highquality information
+csi probe sequences
+creating consensus
+dna binding affinity
+expected binding orientation
+polyamide­exd complex
+modeling studies suggest
+crude cleavage mixture
+structural alignment software
+hairpin sequence
+warren
+permuted hairpin stem
+give finalized intensities
+microarray hybridization chamber
+unique cysteine residue
+high intensity features
+hairpin polyamide crystallized
+results
+array design
+significantly lower intensities
+4 871
+
+binding assay
+sequence motif divided
+main motifs found
+comprehensive ``mutational
+transcription factors
+50 nm final concentration
+clear motifs emerged
+exd binds
+cognate sites
+comprehensive profile
+cognate site
+sequence variants
+medium-throughput approaches
+single experiment
+protein binding
+transcription factor
+binding data
+base pair
+score
+
+bins
+
+fig
+5 mm edta
+dna-binding preferences
+binding preferences
+exd binding
+sites bound
+binding sites
+fluorescent dye
+cy3-labeled exd
+sequence preferences
+dna-binding molecule
+exd sequence
+-aminobutyric acid
+molecular recognition
+sequence-recognition profile
+image files
+exd crystallized
+recruit exd
+cy3 dye
+small molecules
+medium-throughput microarrays
+molecular medicine
+sequence specificity
+array data
+free base
+sequence-specific binding
+signal-to-noise ratio
+sequence-recognition properties
+dnabinding molecule
+dna-binding ligand
+dna sequence
+dna ligand
+ternary complex
+csi profile
+dna-binding properties
+hairpin probe
+array identified
+binding properties
+10 positional variants
+cooperative binding
+hairpin stem
+sequence required
+flanking sequence
+dna-binding molecules
+synthetic molecules
+cooperative pairs
+modified protein
+standard deviation
+standard deviation]
+small subset
+small fragments
+hox proteins
+data processing
+expression data
+consensus 1
+consensus
+bound equally
+support binding
+6% hairpin formation
+dna-binding proteins
+peptide sequence
+final concentration
+amersham pharmacia
+biologically relevant
+entire
+conflict
+surface increases
+accurately identify
+[exd-r2c] [a280
+chemical engineering
+regulatory element
+computationally mine
+exd r2c
+exd mutant
+reaching exd
+exd titration
+csi analysis
+polyamide-binding sites
+truncated sites
+overlapping sites
+single-stranded sequence
+molecular docking
+dna ligands
+bind cooperatively
+low background
+csi array
+motifs identified
+background signal
+fluorescently labeled
+solution binding
+dnabinding molecules
+poor specificity
+single methylene
+core sequence
+chemical biology
+resulting mixture
+specific class
+array analysis
+standard methods
+dnabinding proteins
+genome-wide binding
+binding tests
+abolishes binding
+csi microarray
+cooperative assembly
+full range
+maldi-tof ms
+hybridization chamber
+genetic studies
+transcriptome studies
+high-throughput approach
+single-stranded features
+dna repair
+dna grooves
+dna analyzed
+dna hairpins
+chromatin-immunoprecipitated dna
+footprinted sequence
+sequence 5 -wgwccw-3
+sequence 5 -wwgwwcww-3
+sequence 5 wwgatcww-3
+tcct sequence
+forward sequence
+1% trifluoroacetic acid
+score
+
+bins
+intensity profile
+standard quick1
+csi approach
+bind dna
+feature binding
+covalently attached
+internal pyrrole
+double-stranded versus
+form non-b-form
+ring-pairing rules
+significantly attenuates
+minimal effect
+crude products
+readily discernible
+glass surface
+final volume
+binding sequences
+nh
+
+exd
+polyamide engineered
+polyamide synthesis
+synthetic biology
+hairpin versus
+molecular modeling
+averaged features
+csi intensities
+heterocycle ring
+dna sequences
+hox family
+coherent analysis
+dye conjugation
+binding motif
+50 mm hepes
+hyb buffer
+90 mm tris 64
+exd-binding peptide
+sufficiently low
+unexpected preference
+reaction buffer
+2 mm dtt
+100 mm mes 1
+designing molecules
+chip-chip studies
+inverted orientation
+national academy
+0509843102
+
+pnas
+
+january 24
+array
+
+pbs
+serve equally
+national institutes
+microfabricated array
+array validation
+pnas january 24
+polyamide-peptide conjugates
+high correlation
+array surface
+array platforms
+drosophila development
+sequence motif
+fluorescence intensity
+duplicate features
+oligonucleotide features
+distinct features
+unlike proteins
+csi arrays
+specific organism
+concentrations ranging
+n-methyl group
+specific permutation
+increasing concentrations
+high intensity
+highly conserved
+genome res
+chip-chip assays
+binding position
+polyamide bound
+molecular biology
+polyamide binding
+computational methods
+directly labeled
+supporting methods
+methods enzymol
+[32p]dna
+chip-chip analysis
+microarray slides
+microarray surface
+sequence permutations
+molecular models
+low affinity
+obtains information
+supporting information
+n-methylpyrrole ring
+score bin
+replicate features
+hairpin design
+filled circle
+helpful discussions
+key functions
+major challenge
+relative abundance
+systematic evolution
+problem relies
+distinct wells
+interrogated simultaneously
+unexpected insight
+general application
+good evidence
+integrative perspective
+motif-finding algorithms
+menlo park
+essential role
+exact complement
+chemdraw ultra
+experimental approach
+reaction volume
+nucleotide residue
+stretch retains
+5 -ga-3 dinucleotide
+half circle
+important challenge
+averaged intensities
+meaningfully alter
+open circle
+double substitution
+analytical hplc
+evenly distributed
+array-to-array variability
+relative occupancy
+intergenic regions
+dramatic consequences
+pet3a vector
+unsupervised examination
+california institute
+central goal
+nuclease protection
+powerful tool
+seemingly trivial
+thermal end-fraying
+34-residue oligonucleotide
+recent approach
+carboxyl carbon
+phylogenetic comparisons
+technical challenges
+water bath
+conflicts declared
+comprehensively define
+major hurdle
+gsi lumonics
+axon instruments
+preparative hplc
+interacting partners
+gratefully acknowledge
+anhydrous dimethylformamide
+motif-searching algorithms
+433 babcock drive
+greatly aid
+systematic approach
+unsupervised manner
+25-å difference
+intelligent systems
+heterocycle rings
+reliably identify
+nimblegen systems
+n2­n7
+unstructured portion
+positive charge
+yeast chromosome
+complementary strand
+greatest success
+azeotropic distillation
+chromatin immunoprecipitated
+greater complexity
+foster city
+core sequences
+analogous ring
+efficiently bind
+residues displayed
+array performs
+dp tail
+emsa results
+unbiased analysis
+feature abundance
+bioinformatic approaches
+biophysical approaches
+feature abundance 1
+computational approaches
+t-rich sequences
+highly informative
+highly instructive
+feature intensity
+arrays provide
+chip-chip approach
+inherent affinity
+increasing affinity
+unambiguous pattern
+crystal structure
+distinct pattern
+readily create
+broad range
+assay
+pa1 concentrations
+permuted positions
+coregulated genes
+permutations equal 32
+2-2
+
+imization
+defined size
+identical conditions
+including humans
+exponential enrichment
+suboptimal
+interest statement
+annotated genomes
+good agreement
+current technology
+shane foister§
+significant confidence
+physiological importance
+easily scaled
+trends genet
+n-methyl position
+red numbers
+ball-and-stick schematic
+unexpected differences
+readily apparent
+aaai press
+1m18
+polyamide 5 -wwgwwcwn-3
+symmetric polyamide
+polyamide relative
+oligonucleotide microarrays
+bind individually
+n1­n8
+energy
+5 -wgwccww-3 based
+important result
+ca 91125 contributed
+linker length
+fully extended
+stringent test
+linker connecting
+synthesized directly
+calculation demonstrated
+correlations demonstrate
+bind pa1
+total sequences
+observation suggests
+wisconsin industrial
+polyamides discriminate
+8 bp
+table listing
+kd calculated
+genes dev
+protein
+small
+data
+vitro affinity
+sciences
+cooperatively
+identifying
+exd
+sites
+highest affinity
+microarrays prepared
+transcription
+create polyamides
+dye
+molecule
+identified 5
+genome center
+pair
+ansari¶
+department
+ansari@biochem
+vol vol
+duplex
+hox
+limited set
+detected
+performed emsas
+pa1 based
+bound
+binding
+target
+studies
+composed
+dna
+sequence
+ligand
+applied
+formation
+complex
+pa3
+csi
+[cy3]
+cy3
+background
+turn
+background-subtracted
+identifies
+hairpin
+usa
+
+www
+ring
+analysis
+buffer
+preference
+low
+fluorescence
+896 molecules
+molecules
+showed
+expected
+suggest
+support
+array
+targeted
+development
+signal
+features
+584 features
+0509843102
+
+proteins
+proteins
+ligands
+resulting
+pa2
+methods 63
+core
+labeled
+methods
+microarray
+averaged
+solution
+give
+correlation
+approach
+modeling
+5% glycerol
+change
+predict
+divided
+r2c
+yielding
+emerged
+oligonucleotide
+1073 pnas
+orientation
+structural
+pnas
+displacement
+mimic
+residue
+clear
+complementary
+lower
+footprinting
+08 a552
+homeobox
+10% glycerol
+motifs
+intermediate
+slides
+cleavage
+version 9
+surface
+sets
+software
+200 intensity
+intensity
+py
+py*
+bind
+intensities
+positions 3
+positions 6
+positions
+0509843102
+
+warren
+warren
+feature
+im
+approaches
+sequences
+highly
+plot
+replicate
+median
+permuted
+biology
+arrays
+chip-chip
+affinity
+motif
+cysteine
+order
+pattern
+models
+n8
+n1
+family
+n-methylpyrrole
+differ
+reach
+hexapeptide
+create
+range
+structure
+genes
+design
+performs
+total
+interest
+differences
+nh
+analogous
+genet
+apparent
+permutations
+platform
+individually
+size
+technology
+90% confidence
+permutation
+dev
+numbers
+conjugation
+organism
+set
+2-2 0
+press
+agreement
+department
+prepared
+enrichment
+scaled
+performed
+genomes
+including
+biochem
+position 8
+foister
+32p
+importance
+schematic
+center
+position
+identical
+polyamide 2
+polyamide 3
+polyamide 1
+polyamide
+microarrays
+pa1
+2006 vol
+unbiased
+2006
+
+vol
+genome
+vitro
+dp
+result
+test
+emsa
+ansari
+& ansari
+synthesized
+linker
+based
+ca
+demonstrated
+extended
+demonstrate
+found
+limited
+observation
+table 2
+table 1
+polyamides
+wisconsin
+emsas
+868 www
+872
+
+www
+870 www
+highest
+usa 102
+residues
+usa 98
+residues 1­88
+usa 99
+50 nm
+calculated
+nm
+20 nm
+81 calculated
+200 nm
+5 nm
+100 nm
+5­500 nm
+fig
+0509843102
+
+fig
+consists
+& sproat
+selex
+galas
+consistent
+feasibility
+chem
+organisms
+med
+obtained
+study
+9a
+9b
+9d
+abbreviations
+discrepancies
+hahn
+aligned
+colantuoni
+ma
+henry
+wang
+ph 8
+nontrivial
+30 min
+c41s
+ultrabithorax
+minimized
+humphrey
+recombination
+schneider
+green
+deform
+fidelity
+pa2-exd
+45 ml
+oligonucleotides
+amenable
+& gann
+represents
+side
+principles
+logo
+washed
+& boger
+neidle
+estimate
+created
+biochemistry 35
+top
+dimethylaminopripylamide
+& elkan
+nh2
+distance
+classes
+biochemical
+bridge
+boston
+chen
+materials
+circled
+bsa
+& cerrina
+billerica
+left
+dot
+labels
+subtle
+tavazoie
+monoisotopic
+biophys
+matys
+& wieschaus
+schreiber
+homopolymer
+alterations
+n-methylimidazole
+555 max
+nature
+wi
+huang
+suggested
+dervan
+sullivan
+loaded
+deviations
+basis
+sikder
+dervan§
+kendziorski
+wi 53706
+tang
+derivatized
+swalley
+& revzin
+aspland
+confirmed
+filtered
+published
+kim
+normalization
+incapable
+& bulyk
+frutos
+westbrook
+yeu
+adding
+kanin
+nature 409
+uv-vis
+5c
+5b
+ryoo
+boxes
+signals
+replace
+g-stretches
+acad
+2
+
+0-0
+electrophoresis 18
+2 0-0
+bottom
+probed
+t10
+gene 13
+illustration
+tagne
+limitation
+opin
+ensure
+lieb
+soc
+presence
+kuznetsov
+parsing
+reducing
+& rees
+mutated
+removed
+& crothers
+vivo
+& brown
+5 ml
+check
+ny
+jona
+pasadena
+zeger
+scores
+tuerk
+neighbors
+global
+computation
+remarkably
+displaying
+kratochvil
+technique
+finally
+fricke
+baird
+rucker
+arndt
+accumulation
+upper
+hindered
+krull
+5 -cgcttagttca-cgc-tcct-gcg-tgaactaa-gcg-3
+100 mg
+& gilbert
+understanding
+address
+decipher
+box
+& ebright
+commonly
+darnell
+predictions
+diisopropylethylamine
+cases
+logos
+local
+values
+natasha
+chip
+purity
+optimal
+product
+designed
+cy3-py
+brookman
+representation
+bioorg
+& snyder
+experiments
+wingender
+methanol
+forms
+& lu
+correspondence
+nature 431
+shown
+gerstein
+botstein
+ph 7
+replacing
+contained
+eluted
+& schulten
+horak
+& aggarwal
+& bourne
+gordon
+& shen
+george
+1a
+white
+structures
+laronde-leblanc
+transferred
+future
+deciphering
+r3c
+turner
+phillips
+bailey
+surfaces
+importantly
+dimethylaminopropylamine
+probes
+nonlinearity
+sussman
+& stephens
+madison
+show
+& burgess
+zeitlinger
+bolstad
+essence
+bioinformatics 19
+bioinformatics 18
+woodbury
+conjunction
+nmethylpyrrole
+nature 423
+fypwm
+tackling
+& sigler
+pa23031
+5 -wgwc-3
+jr
+clayton
+rapidly
+mann
+scafe
+capable
+mary
+enable
+irrelevant
+case
+& clarke
+2005
+
+determining
+cluster
+astrand
+agitated
+figures
+pam
+dalke
+running
+validate
+05 ml
+inability
+ishii
+stretches
+struct
+treatment
+brezinski
+mol
+serves
+veracity
+tube
+2b
+jennings
+nature 382
+choo
+berger
+cambridge
+garner
+determine
+thanos
+melander
+dnase
+& dervan
+& kodadek
+5 min
+& schmitz
+agree
+metzler
+al
+aq
+scanned
+& mapp
+yoo
+biochemistry
+abolish
+& gold
+berman
+nelson
+abundances
+sci
+subjected
+rank-order
+trauger
+hughes
+hybridize
+treating
+washing
+employing
+displays
+method
+& chan
+wyrick
+kielkopf
+nature 397
+hannett
+& speed
+strauss
+diamond
+tested
+passner
+middle
+species
+reflect
+mahajan
+prefers
+developed
+absence
+number
+& wolberger
+aseem
+science 282
+2d
+2e
+2a
+2c
+reactions
+brunette
+singh-gasson
+investigated
+shindyalov
+missed
+robert
+acetonitrile
+szewczyk
+peifer
+01% tween 20
+bhat
+incubated
+weissig
+scores [
+relationship
+mech
+replicates
+nature 365
+anticipate
+determined
+biotechnol
+treated
+karp
+karl
+vanderploeg
+extracted
+finding
+added
+patterson
+measured
+ka
+h2o
+sector
+fink
+blattner
+homopolymers
+cell 74
+scanning
+1 tbe
+heyduk
+sen
+mukherjee
+diluted
+underline
+consecutive
+circumvents
+& peitsch
+muzzey
+w1w2g3t4w5c6w7w8-3
+pp
+1 ml
+bulyk
+liebich
+gap
+ptashne
+replaced
+loop
+elucidation
+phenylacetamidomethyl
+estep
+exd-
+noll
+chemistry
+distances
+& corn
+majority
+& liu
+lathrop
+toluene
+feng
+alignments
+creation
+graphics 14
+prod
+proc
+cgc
+rauskolb
+informatics
+accessible
+science 249
+span
+harnessed
+biol
+1 cm 1
+kellis
+fried
+similar
+macisaac
+curr
+r2 0
+pa3-exd
+dissolved
+nat
+luscombe
+brockman
+& pevsner
+c91h112n24o17s2
+ambiguities
+danford
+eds
+simon
+5 -cgc-ttagttca-cgc-3
+young
+& church
+stable
+november 11
+michael
+dimes
+demonstrations
+substituting
+plays
+coordinates
+lee
+examining
+stabilization
+addressed
+account
+weissman
+reynolds
+arrangement
+immersed
+gilliland
+subsequently
+discussion
+vmd
+bridges
+tse
+li
+defining
+n-fypwmk-
+university
+boger
+programmed
+geiger
+rep
+rev
+ren
+scanarray 5000
+rinaldi
+-alanine
+geometry
+determining
+& maniatis
+facilitate
+snyder
+hehl
+bears
+67-1
+manipulation
+brutlag
+serine
+accuracy
+altman
+connected
+irizarry
+subtracted
+harbison
+fact
+science 290
+visualized
+bring
+guex
+& searls
+knowledge
+proceedings
+quantified
+bear
+words
+drawn
+queried
+liu
+g-quadruplex
+queries
+birren
+solvents
+methionine
+5 -ngan-3
+ability
+deliver
+& hedrick
+5 mol
+phthalimidopropyl
+endrizzi
+addition
+aligning
+copies
+outliers
+& heyduk
+sufficient
+arginine
+c3
+cancer 2
+present
+linkers
+quantile-normalized
+geffers
+examined
+partner
+member
+frequently
+contribution
+identity
+labor-intensive
+ohnhauser
+obtain
+immobilized
+purified
+moretti
+recapitulated
+rapid
+density
+lake
+conjugated
+natl
+& lander
+extradenticle
+resin
+page
+aparicio
+shen
+peter
+iyer
+lead
+e-mail
+mutation
+analyses
+cambridgesoft
+raffaelle
+§division
+histogram
+hn
+heterocycles
+wisc
+hauschild
+record
+converted
+1 mg
+display
+100 ng
+10% dmso
+ubx
+& edelson
+4b
+4c
+4a
+191­199
+274
+1205­1214
+103
+1195­1202
+98
+91
+95
+96
+1993
+1992
+1997
+1996
+1999
+1998
+835­839
+8 0
+559­561
+291­309
+217­226
+296
+185­193
+740­749
+25 å
+13
+533­538
+1978
+4 0
+54
+51
+50
+53
+52
+7771­7776
+17­19
+150
+284­299
+5­10
+3157­3170
+0
+1990
+38­45
+[
+2924­2929
+6141­6146
+421­427
+492­503
+1
+121
+99­104
+090
+33­38
+281­283
+] 1
+1331­1339
+162­173
+2
+100­110
+11
+10
+12
+15
+14
+17
+16
+19
+18
+6 0
+1113­1120
+] 12
+3
+24
+111­115
+31­33
+786
+60
+500
+714­719
+2306­2309
+69
+67
+
+1
+8044­8051
+5
+2 0
+© 2006
+90°
+765­772
+28­36
+5 0
+235­242
+6
+¶
+2060­2072
+25
+26
+27
+20
+21
+22
+23
+28
+29
+7
+1540­1541
+211
+8
+5878­5891
+1101­1112
+313
+3047­3060
+4
+877
+9
+000
+6097­6100
+75
+2714­2723
+95%
+2002
+2003
+2000
+2001
+2004
+2005
+39
+38
+13322­13323
+33
+32
+31
+30
+37
+36
+35
+34
+6505­6525
+241­254
+171­176
+131
+0 0
+88
+7158­7163
+258­262
+505­510
+=
+997
+123
+125
+12532­12537
+1994
+033
+4479­4486
+75­87
+974­978
+5008­5013
+512­520
+118
+1981
+4°
+1­4
+48
+49
+46
+47
+44
+45
+42
+43
+40
+41

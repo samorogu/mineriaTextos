@@ -1,0 +1,1640 @@
+1990 stage tissue/position embryo embryonic central nervous system embryo peripheral nervous system
+diagrammatic knowledge representation method called keynets
+pns = peripheral nervous system
+cns = central nervous system
+including biological literature improves homology search
+event+] [provided event+] event [is-inhibited-
+event+] [provided event+] event [is-independent-
+evaluating national language processing systems--
+`eukaryotic translation initiation factor eif-4a
+bidirectional incremental parsing technique based
+information extraction system called highlight
+biologically motivated common challenge problems
+tasks needing limited linguistic context
+obtaining detailed parse trees
+relative operating characteristic curve
+prb inhibit tyrosine kinase activity-
+protein entry reveals sequence similarity
+permit greatly enhanced retrieval
+good literature data mining technologies
+semantically closest standard form
+`c-abl tyrosine kinase activity
+mammalian cell cycle control
+7th message understanding conf
+biologically significant challenge problems
+natural language processing perspective
+`translation initiation factor eif-4a
+human amyloid protein precursor
+unified medical language system
+natural language processing technologies
+constructing biological knowledge bases
+matched specific linguistic structures
+darpa broadcast news workshop
+natural language processing system
+current language processing approaches
+biologically important challenge problems
+support vector machine trained
+tech-
+
+literature data mining
+data mining challenge cup 2002
+standard term weighting techniques
+newly discovered protein based
+natural language processing techniques
+systematic common evaluations conducted
+simple pattern matching suffices
+9th text retrieval conf
+extract biologically
+1554
+
+important information
+5 georgetown university medical center
+event+] [provided event+]
+
+§
+constitute blind test data
+supports system development techniques
+literature data mining techniques
+comprehensive protein sequence data
+bidirectional incremental parsing
+choose molecular interactions based
+review literature data mining
+routine automatic pathway discovery
+successfully extract binary relations
+protein interaction extraction system
+biomolecular interaction network database
+comprehensive protein family relationships
+on-line scientific text abstracts
+extract protein interaction information
+swiss-prot protein sequence database
+recognize basic interaction events
+natural language processing
+biological science journal articles
+natural language understanding--
+message understanding conferences
+support vector machines
+spoken language processing
+highly standardized form
+130-kda secreted form
+substantial human effort
+support vector machine
+annotated protein classification database
+natural language techniques
+clustering medline abstracts based
+blind test data--data
+make fine distinctions
+give improved functionality
+closed world assumption
+gradual monotonic change
+hidden markov model
+adjustable decision thresholds
+iterative hill climbing
+ncbi genecentered resources
+genbank feature tables
+robust relational parsing
+hidden markov models
+post translational modification
+transcribing audio input
+tackle important problems
+blind
+
+test data
+improving homology search
+supplementing sequence similarity
+1560
+
+literature data mining
+1556
+
+literature data mining
+literature data mining
+characteristic sequence features
+propose creating challenge evaluations
+mining interaction information
+oxford university press 2002
+biological rule libraries
+rich knowledge capture
+fairly complex form
+biomolecular sequence databases
+searching large collections
+designated evaluator group
+past pacific symposiums
+forerunners include kegg
+produce partial parses
+challenging conventional assumptions
+simple matching coefficient
+bayesian classifiers trained
+anaphora resolution module
+ontological relations discovered
+computational protein folding
+homology search result
+develop rules specific
+`p1 activate p2
+amino acid composition
+drosophila genome projects
+large biology-specific corpus
+manual query expansion
+slot error rate
+text data mining
+studying cellular networks
+supported concept discovery
+intuitive statistical reason
+keynets parsed texts
+protein data bank
+surveyed works illustrate
+reflect functional characterization
+based bibliography search
+variably named based
+events include transcription
+`atp-dependent rna helicase
+versus `rna helicase
+long compound names
+comprehensive family relationships
+private funded program
+desired localization information
+integrated public resource
+unsupervised machine learning
+manage biological information
+entire test database
+basic interaction events
+text retrieval conferences
+capture specific relations
+molecular connections pvt
+well-characterized protein families
+drosophila protein similar
+dna repair systems
+protein family classification
+biological pathway extraction
+biomedical literature search
+required target output
+substitution errors divided
+produced great progress
+word error rate
+free text reliably
+automating database curation
+batch retrieval evaluations
+motif sequence similarity
+assemble biological pathways
+combinatory categorial grammar
+large-scale general-purpose grammar
+protein information resource
+ontology induction algorithms
+ontology induction procedure
+sample challenge problems
+journal articles details
+embryo
+extensive homology relationship
+extensive validation results
+automated information retrieval
+c-abl kinase domain
+automatic pathway identification
+analyze co-referring sentences
+evaluating system performance
+information extraction problems
+requires knowledge acquisition
+yeast protein database
+rewards good results
+complete semantic representations
+common english words
+handcrafted rule-based classifier
+molecular interaction map
+protein names assigned
+aligning protein names
+underlying text sources
+information retrieval community
+including embedded relations
+highly standardized sentence
+automated database curation
+pir superfamily sf001321
+automatically inducing ontologies
+recognize interaction events
+protein knowledge base
+evaluation sets enables
+convert pertinent parts
+analyze medline abstracts
+associate axonal tract
+database entry back
+online abstract retrieval
+underlying literature reference
+developing extraction systems
+automated evaluation method
+information extraction techniques
+span multiple sentences
+`rna helicase p68
+gene ontology resource
+underlying syntactic relations
+underlying protein databases
+define legal entries
+`camptothecin inhibit top1
+human ontology built
+information retrieval systems
+pinpoint protein names
+earliest works focused
+learn ontological relations
+information extraction tasks
+information extraction rules
+benchmark database manually
+protein structure prediction
+rough analysis shows
+minimal semantic analysis
+identifying protein names
+free text occurrence
+medline abstracts based
+hand-annotated 8 000 word article
+recognizing protein names
+predict complex issues
+offered related terms
+natural language
+pir protein databases
+provide training data
+largely hand curated
+identifying cellular location
+database interoperability issue
+test database db
+provide running systems
+800-document training set
+subcellular localization field
+gene ontology consortium
+bioinformatics review
+
+vol
+ideal information extractor
+full text articles
+information extraction systems
+successful challenge evaluation
+extracting inhibit relations
+review recent results
+information extraction applications
+`nb506 activate caspase8
+measuring transcription accuracy
+biology
+
+annotated corpora
+compare technical approaches
+linguistic techniques
+test set consists
+extensive homology
+comprehensive understanding
+mining literature
+classify terms derived
+literature search
+build keynets
+biological pathway
+test data
+rule-based system
+knowledge representation
+common evaluations
+mining medline
+literature similarity
+information processing
+biology
+lynette hirschman 1
+annotated data
+pattern matching
+kinase domain
+query expansion
+error rate
+recent system
+data sets
+text processing
+biology research papers
+medical knowledge
+knowledge discovery
+participants build systems
+improving retrieval
+sequence features
+multiplicative factor
+concept discovery
+challenge evaluations
+`gold standard
+200 interaction events
+interaction events
+named based
+connections based
+information retrieval
+resulting system
+participating system
+medsyndikate system
+ie2 system
+`rna helicase
+community literature
+training data
+challenge tasks
+interaction relationships
+common yardstick
+machine learning
+coling-2000 workshop
+multiple parts
+term co-occurrence
+sequence databases
+pns neurons
+word inhibit
+scientific literature
+biological information
+annotated corpus
+cellular localization
+protein families
+knowledge base
+sequence analysis
+biomedical literature
+automatic extraction
+target output
+target representations
+answers provided
+basic events
+complete genome
+semantic information
+free text
+text sources
+attributed data
+gathering data
+data dictionary
+est data
+raining data
+database curation
+event extraction
+usual method
+reproducible method
+specific applications
+biological pathways
+automated extraction
+test databases
+extract information
+improve retrieval
+medical reports
+simple sequences
+protein structures
+machine ontology
+ontology induction
+underlying articles
+aids literature
+automated classification
+medical abstracts
+journal articles
+expression pattern
+systematic detection
+database interoperability
+kegg database
+syntax based
+medical domain
+biological databases
+underlying logic
+annotated corpora
+system runs
+information extraction
+standard set
+molecular pathways
+measuring knowledge
+acquiring knowledge
+domain-specific knowledge
+boosting knowledge
+knowledge accumulated
+classify names
+user-centered evaluations
+usercentered evaluations
+automated construction
+previous evaluations
+biological relations
+batch experiments
+boldface pinpoint
+prediction software
+pacific symposium
+axonal tracts
+word co-occurrence
+neutral group
+including entries
+information extractor
+syntactic parser
+boolean searching
+grammatical english
+common domains
+minimal redundancy
+automatically process
+subcellular location
+roughly divided
+event relationships
+challenge problem
+`challenge problem
+protein names
+knowledge domain
+challenge evaluation
+`challenge evaluation
+protein ontology
+scientific text
+systematic evaluation
+functional features
+full text
+protein object
+`protein p68
+molecular weight
+main approaches
+recognizing names
+medical documents
+molecular interactions
+protein interactions
+document clustering
+research community
+information relevant
+technical note
+technical component-level
+tasks relying
+organize information
+amino acids
+genome res
+extracting information
+information extractors
+wuc@georgetown
+semantic annotation
+biology based
+automated evaluation
+biomedical text
+protein domain
+recognizing interactions
+biological papers
+template matching
+cellular locations
+statistical tests
+cellular location
+related measure
+lynette@mitre
+convert `camptothecin
+simple recognition
+recent accomplishments
+full parser
+statistical differences
+related metric
+medline asbtracts
+domain corpus
+flybase consortium
+early works
+recognize names
+medline abstracts
+annotation errors
+functional hierarchy
+prb bind-
+metabolic pathways
+database entry
+database entries
+database table
+subsequent classification
+review shows
+extracted information
+biological function
+biological significance
+biological importance
+biological processes
+complex morphology
+complex mappings
+1558
+molecular biology
+information derived
+alternate names
+gene names
+resolve names
+biochemical names
+recognize relationships
+gene ontology
+complex relations
+modified psi-blast
+time measurements
+false positives
+s74­s82
+special endings
+speech tagger
+actual entry
+accuracies exceeding 90%
+`true negatives
+time ago
+find 130kda
+straw poll
+main trend
+dead motif
+small-scale experiments
+activities performed
+theoretical bound
+increasing complexity
+systematically examined
+established metric
+initial dictionary
+biotechnology industry
+12 2002 pages 1553­1561
+
+accomplishments
+easily obtainable
+supporting software
+produce themes
+encourage participation
+functional annotation
+polypeptide products
+neural expression
+dedicated track
+databases represent
+controlled vocabulary
+remained true
+user acceptance
+high probability
+amia symp 1999
+grammatical constructs
+choices satisfy
+/pirwww/doc/bioinf02 figure
+local similarities
+consistency checking
+valuation methodology
+`practice tests
+experimental results
+hampering communication
+india suggested
+research tool
+`cell location
+higher performance
+mixed occurrence
+specialized databases
+formal specification
+cell location
+cost-effective means
+entry points
+false negatives
+directly relevant
+saccharomyces cerevisiae
+occurrence statistics
+low cost
+usual notion
+potentially incompletely
+positive identifications
+statement a8
+`topoisomerase inhibitors
+gene products
+arisen due
+uppercase letters
+undisciplined labeling
+larger sample
+pioneered identification
+true positives
+gene expression
+performance measures
+true negatives
+computer speech
+increasing sophistication
+db
+
+extraction
+biomedical applications
+protein-protein interactions
+extracting interactions
+scientic abstracts
+challenge task
+underlying article
+reveal relationships
+relationships retrievable
+build relationships
+synonym relations
+event [is-caused-
+molecular function
+molecular functions
+compare approaches
+protein terms
+newswire domain
+build systems
+diagnostic systems
+fine-grained analysis
+thematic analysis
+works reported
+flybase database
+scientific texts
+medline documents
+ontology development
+source articles
+human-readable annotation
+accelerated progress
+nref bibliography
+require resolution
+similar work
+including synonyms
+evaluations show
+medline texts
+identifying entities
+extended ontologies
+pasta extracted
+empathie extracted
+existing ontologies
+long-standing problem
+hallenge problem
+biomedical papers
+intrinsic evaluation
+casp evaluation
+evaluation benchmarks
+successful evaluation
+functional relationship
+traditional evaluation
+evaluation metrics
+challenging task
+source attribution
+benchmark databases
+mitre corporation
+statistical treatment
+handle pronouns
+source databases
+imperfect tools
+interactive tools
+mitre prototype
+related terms
+protein nomenclature
+protein size
+extracted relationships
+actual facts
+flybase curators
+flybase entries
+provide clues
+expected facts
+extracted relations
+complex sentences
+biology research
+biology
+
+nique
+curated databases
+] posevent [mediated-
+experimental evidence
+posevent [mediated-
+resolved references
+handle relations
+database fields
+database level
+relevant documents
+cluster documents
+clusters built
+protein molecules
+single sentences
+distinguish articles
+database field
+iproclass database
+real users
+individual records
+comment fields
+special properties
+explicit linkage
+collected instances
+3 shows terms
+create `cheap
+raise sensitivity
+930 000 sequences organized
+direct comparison
+presented genescene
+decode abbreviations
+accelerate progress
+usa
+
+received
+nucleotide-binding motifs
+intelligent content
+separate instance
+supplement trembl
+benchmarking framework
+application scenario
+terminology recognition
+discrepant annotations
+junichi tsujii 3
+active sites
+interpret insertions
+experiment suggests
+expressed exclusively
+limsoon@lit
+rapid growth
+briefly describe
+db
+
+fn
++] [independent-
+broader range
+expanding field
+sentence forms
+short sentence
+language
+expected fact
+entities mentioned
+broad range
+iproclass report
+classification task
+sentences extracted
+umls ontology
+core set
+broad set
+handle sentences
+technologies
+translation
+small team
+precision values
+nominalized verbs
+precisely smc
+stochastic part
+2a asserts
+identified alternatively
+showed earlier
+answer engines
+shallow description
+reached 96% precision
+easily applied
+edgar drew
+extracted co-occurrences
+reference pmid
+prescribed templates
+phrases appearing
+noun phrases
+defined problem
+grammar defining
+enzyme interactions
+evaluation methods
+dissociate [to-produce
+conf
+motif levels
+attract researchers
+building tools
+resultant conditions
+focused class
+gave rise
+list shows
+entry shown
+park@nlp
+genes mentioned
+corpus-based approach
+molecules mentioned
+interacting proteins
+mis-annotated proteins
++ fn
+references
+andrade
+processing
+cancer-related drugs
+limsoon wong 4
+recall values
+system
+pubmed abstract
+estimated sensitivity
+indexing terms
+parsing
+representation
+record level
+important
+pubmed links
+increase sensitivity
+search
+problems
+alternative functions
+reference `luo
+papers focus
+reported 90% specificity
+biology
+
+stapley
+2 provided
+provided
+work illustrated
+data
+similarity
+method
+comprehensive
++ precision
+task definition
+retrieval
+`eif-4a
+literature
+phrase `acts
++ fp
+prb
+3 university
+based
+applied templates
+event
+/[tp
+techniques
+swiss-prot
+cns
+successfully
+science
+inhibit [
+good
+evaluating
+`inhibit
+including
+constitute
+routine
+rna
+extract
+appl proteins
+identifying
+protein
+approaches
+tasks
+structures
+activate [
+rules
+information
+clustering
+activity-
+georgetown
+pir
+c-abl
+extraction
+medline
+training
+works
+text
+database
+classification
+review
+recognize
+complex
+events
+articles
+1000 names
+names
+ontology
+consists
+corpora
+successful
+classifier
+network
+extracting
+entry
+superfamily
+result
+top1
+hand
+entries
+occurrence
+funded
+creating
+¶
+sample
+map
+shows
+ideal
+performance
+`p68
+measuring
+`caspase8
+issue
+learn
+research
+nb506
+classifiers
+build
+creating
+location
+structure
+requires
+results
+cell
+gene
+integrated
+databases
+words
+identification
+darpa
+define
+motif
+interactions
+abstracts
+relationships
+relations
+domain
+systems
+analysis
+annotation
+progress
+reference
+applications
+extracted
+context
+development
+ontologies
+grammar
+problem
+evaluation
+derived
+fn
+benchmark
+source
+focused
+convert
+tools
+handle
+mitre
+provide
+`facts
+db
+facts
+flybase
+biology
+associate
+curated
+1557
+reported
+pubmed
+accelerate
+evidence
+predict
+references
+curated
+posevent
+papers
+documents
+relationship
+built
+sentences
+texts
+estimated
+abbreviations
+annotations
+significance
+content
+fields
+4 lit
+sensitivity
+runs
+terms
+linkage
+] bind-
+properties
+co-occurrences
+themes
+level
+template
+organized
+records
+increase
+sites
+treatment
+comparison
+describe
+separate
+building
+insertions
+compare
+acts
+propose
+framework
+definition
+instances
+distinguish
+create
+presented
+57% sensitivity
+alternative
+methods
+defined
+application
+recognition
+users
+illustrated
+expressed
+experiment
+usa
+andrade
+indexing
+motifs
+trembl
+class
+processes
+importance
+pmid
+defining
+tsujii@
+domains
+growth
+function
+record
+functions
++]
++
+sentence
+/
+field
+bioinformatics
+participants
+range
+iproclass
+fact
+entities
+/[
+2002
+
+abstract
+abstract
+set {
+set
+work
+answer
+description
+synonyms
+smc
+showed
+edgar
+applied
+focus
+75% accuracy
+accuracy
+size
+require
+nomenclature
+nref
+part
+small
+2a
+enzyme
+precision
+umls
+1 is-caused-
+links
+identified
+verbs
+× precision
+is-caused-
+] precision
+article
+templates
+phrases
+hirschman
+] [to-produce
+gave
+show
+[to-produce
+researchers
+fp
+conditions
+levels
+task
+= fp
+appl
+park 2
+list
+approach
+genes
+shown
+specificity
+phrase
+park
+phrase 3
+phrase 2
+phrase 1
+molecules
+proteins
+stapley
+tp
+= tp
+luo
+drugs
+wong
+recall
+63% recall
+2 × recall
+worked
+worth
+solution
+genies
+chen
+nomenclatures
+kanehisa
+lessions
+med
+abstractly
+granularity
+represented
+changed
+org
+unit
+substitutions
+hahn
+springer
+join
+concepts
+cited
+involve
+end
+predicates
+types
+suggest
+order
+japan
+satisfies
+fig
+strength
+structural
+maglott
+filling
+misspellings
+occurrences
+combining
+crucial
+psb 2002
+psb 2001
+psb 2000
+isa
+grade
+top
+needed
+percentage
+iteration
+binds
+realm
+bind­
+responsible
+-
+oriented
+xenarios
+ypd
+aone
+extending
+calculated
+participate
+keywords
+implementation
+superordinates
+observed
+ni }
+//www
+nature
+ubiquinate
+wu
+extracts
+pf00270
+pf00271
+box-5
+conference
+basis
+entered
+formalized
+kohn
+experts
+perform
+interact-
+evaluation--
+contact
+proposed
+identify
+visualization
+candidate
+progressed
+hypernyms
+occurring
+steps
+easy
+bork
+indirect
+activate-transcription
+meanings
+repository
+predicting
+giw
+rely
+appl+p130kd
+thesaurus
+check
+constructed
+ng
+neuroscience
+unding
+fi = {
+global
+`go-list
+layers
+depend
+finally
+choice
+yakushiji
+dip
+populating
+stands
+shared
+filled
+groups
+address
+opposed
+criteria
+today
+apparent
+appendix
+degrade
+tokyo
+labeled
+phosphorylate
+kaist
+harabagiu
+sg
+westbrook
+blocked
+interesting
+protein-
+constitutes
+correspondence
+evolution
+pcm00039
+provision
+discuss
+drop
+2 kaist
+revised
+ec
+challenges
+year
+extrapolate
+correct
+inhibit-transcription
+place
+impossible
+generality
+biostat
+potential
+begin
+friedman
+fmeasure
+exploited
+ohta
+lexicon
+profligate
+mapped
+sparck-jones
+reading
+deletions
+infrastructure
+jp
+mani
+exploit
+bader
+baclawski
+benoit
+familiar
+technology
+archive
+html
+numerals
+singapore
+makhoul
+customized
+solve
+wu 5
+1
+rest
+jong
+castano
+mol
+developers
+reduces
+benefit
+marcotte
+organizing
+recorded
+critical
+apweiler
+found
+sra
+discussed
+organizers
+determine
+pharmaceutical
+area
+assumed
+start
+secretion
+valencia
+idea
+applying
+putejovsky
+locuslink
+bioinform
+complexing
+ac
+al
+assessing
+ideally
+expressions
+tm
+valuator
+ti
+fukuda
+hodges
+task-oriented
+worst
+blaschke
+--
+t1
+ismb
+design
+sum
+`gold-standard
+scientists
+learned
+contrast
+muc-7
+experience
+published
+cathy
+200 statements
+humphreys
+comparing
+tested
+f1
+stated
+numbers
+goal
+stemming
+mapping
+fm
+leroy
+unifying
+hersh
+developed
+return
+yn
+association
+2b
+characterized
+referred
+hard
+bairoch
+funding
+members
+put
+ding
+number
+introduction
+hundred
+u-tokyo
+authors
+kind
+comput
+diversed
+experiences
+kat
+measured
+kd
+broadened
+unreasonable
+kr
+thomas
+`correct
+relation
+1990 axon
+impact
+causality
+genpept
+combinations
+roles
+recently
+pdf
+pdb
+point
+reasons
+pp
+understand
+realms
+expanded
+evaluated
+transcripts
+encountered
+government
+psb 1998
+stimulated
+widely
+craven
+person
+organization
+k-grams
+rindflesch
+questions
+accepted
+dissociation
+pies
+evaluate
+falcon
+emergence
+imposed
+creation
+examples
+scale
+linkages
+proc
+domain-independent
+primarily
+fbpp0002057
+biol
+pir-nref
+exploration
+`atpase
+defines
+nar
+draw
+elements
+generated
+implies
+algorithm
+illustrates
+eisenhaber
+positions
+prototypes
+january 28
+prepositions
+unavailable
+coreference
+led
+inhibitor
+shades
+survey
+chang
+makes
+addressed
+confidence
+remains
+galliers
+vesicle
+train
+topic
+obvious
+meet
+metathesaurus
+collection
+textquest
+bind
+correspond
+element
+counted
+acetylate
+linguistics
+mention
+assess
+traced
+subset
+lnai 1083
+pruitt
+refseq
+facilitate
+`theme
+management
+extrinsic
+lists
+providing
+collecting
+illiopoulos
+swets
+definitions
+genomenet
+proceedings
+gain
+`dead/
+candidates
+homologous-
+areas
+view
+humans
+korea
+usefulness
+closer
+written
+aroc
+comparable
+opening
+interchangeable
+hits
+wilbur
+figures
+unclear
+harmonic
+`perfect
+addition
+diversity
+has-function
+harder
+member
+http
+biocomputing
+obstacles
+thought
+patterns
+comparisons
+dephosphorylate
+obtain
+kumlien
+match
+biologists
+success
+didn
+choosing
+bajic
+transport
+accompanied
+introduced
+previously
+dataset
+axon
+promise
+utility
+intention
+biobibliometrics
+goals
+wisc
+made
+converted
+int
+collier
+ingredients
+conclusion
+kinds
+variation
+/craven/kddcup/tasks
+//pir
+4b
+4a
+350­361
+42­46
+77­86
+201­207
+1425­ 1433
+1990
+1997
+1996
+1999
+1998
+600­607
+240
+517­528
+104­ 112
+707­718
+362­373
+389
+528­535
+1553
+1555
+1559
+214­228
+137­140
+106­108
+384­395
+28­34
+60­80%
+[
+1990 130
+1
+374­383
+374­385
+338­349
+] [
+2
+11
+10
+12
+15
+14
+17
+18
+]
+1¶
+3849­3861
+3
+52­54
+383­402
+176­180
+35­37
+359­363
+2703­2734
+5
+7
+150­200
+`
+2 ×
+396­407
+408­419
+529­540
+26
+20
+23
+28
+29
+·
+538­549
+37
+245­248
+281­305
+60­67
+242­245
+45­48
+386­397
+326­337
+2002
+2000
+2001
+30
+520­531
+2451786
+§
+70%
+=
+}
+493­504
+68­72
+303­305
+502­513
+249­ 254
+1285­1293
+1988
+9592148
+1561

@@ -1,0 +1,1537 @@
+injury large scale collaborative research program paul
+inflammation large scale collaborative research program award
+injury large scale collaborative research program
+
+oligonucleotide
+injury large scale collaborative research program nature 437
+injury large scale collaborative research program
+patients manifesting
+1036
+
+systemic inflammation show similar perturbations
+cyclophilin d-dependent mitochondrial permeability transition regulates
+reduced major histocompatibility complex class ii expression
+human blood leukocyte response includes widespread suppression
+complex clinical phenotype requires systematic analysis
+© 2005 nature publishing group
+
+1037
+
+errata & corrigenda
+
+nature
+age provided written informed consent
+gene expression patterns limit effective learning
+figure 1a reveals probe sets clustered
+authors declare competing financial interests
+diffuse large b-cell lymphoma identified
+x-linked chronic granulomatous disease locus
+umdnj-robert wood johnson medical school
+mitochondrial permeability transition pore complex
+mitochondrial respiratory chain
+
+complex iii
+colorado denver health medical center
+mechanisms underlying systemic inflammatory responses9
+massachusetts general hospital harvard medical school
+endotoxin activates innate immune responses
+nih clinical center reference endotoxin
+texas houston health science center
+mitochondrial permeability transition pore
+innate immune response included suppressor
+1033
+
+© 2005 nature publishing group
+
+letters
+
+nature
+1035
+
+© 2005 nature publishing group
+
+letters
+
+nature
+2stanford genome technology center
+web-based entry tool developed
+ice-cold phosphate buffered saline
+accp/sccm consensus conference committee
+voltage dependent anion channel
+pathway
+
+© 2005 nature publishing group
+
+nature
+identify significant functional modules perturbed
+subclassify histologically similar tumours
+blood leukocyte gene expression patterns
+superoxide-producing phagocyte nadph-oxidase system
+paper
+
+1032
+
+© 2005 nature publishing group
+
+nature
+endotoxin-induced mitochondrial damage correlates
+3pacific northwest national laboratory
+12pacific northwest national laboratory
+cohen & lorenz schwark nature 437
+bicarbonate-buffered ammonium chloride solution
+rna polymerase ii complex
+sustain subsequent immune challenges
+human chromosome 18
+chad nusbaum
+mitochondrial respiratory chain complex
+elongation initiation factor complex
+ccaat/ enhancer binding protein
+nuclear factor kappa/rela family
+half showed reduced abundance
+peripheral tissue metabolic response
+tcp1 ring complex required
+mitochondrial respiratory chain complexes
+texas southwestern medical center
+identify functional networks responsible
+probe sets significantly perturbed
+remaining probe sets showed
+000 probe sets changed significantly
+specific cell populations showing
+calcium-overload-induced necrotic cell death14
+perturbed biological networks underlying
+estimated false discovery rate
+washington harborview medical center
+innate immune system tolerance
+normal adaptive process aimed
+important functional networks suggests
+evaluating relevant biological processes
+© 2005 nature publishing group
+
+nature
+distinct endotoxin-induced temporal pattern
+objectively examines experimental data
+principal component analyses describe
+2 ng kg21 body weight
+multiple functional modules interrelated
+acute systemic inflammation includes
+214 genes showing perturbed expression
+loyola university stritch school
+4 mg total cellular rna
+atp/ubiquitindependent protein degradation pathway
+mitochondrial permeability transition
+structured network knowledge-base approach
+northwestern university medical school
+analyse genome-wide transcriptional responses
+identify significant functional modules
+genes showing significant transcriptional
+combine genome-wide expression analysis
+human blood leukocyte response
+samples sheared ten times
+innate immune system
+early jurassic period
+david
+2 represent direct physical interactions
+genome-wide expression patterns
+critically injured patients
+critically ill patients
+696
+
+© 2005 nature publishing group
+functional modules perturbed
+individual significant pathways identified
+harvard medical school
+general medical sciences
+methods
+human endotoxin model
+principal networks involved
+false discovery rate
+pyruvate dehydrogenase complex
+houston medical school
+clinical research
+administered 2 ng kg21
+reduced coenzymes required
+innate immune response
+ingenuity pathways knowledge base
+mitochondrial membrane depolarization
+authors contributed equally
+atp synthase complex
+human breast tumours
+affecting cell­cell
+cell­matrix adhesion
+specific leukocyte subpopulations
+18-gauge needle attached
+subsequent counterregulatory phase
+natural language processing
+transcriptional regulatory programme
+catherine hosage norman
+signalling networks invoked
+principal component analyses
+concurrent treatment regimes
+adenine nucleotide translocator
+major histocompatibility
+yoshiyuki sakaki & eric
+amended footnote listing
+pyruvate dehydrogenase kinase-3
+antagonistic benzodiazepine receptor
+microarray suite v5
+cutaneous malignant melanoma
+reactive oxygen species
+impaired respiratory activity
+1038/nature04361
+
+astronomical pacing
+texas medical branch
+mapped entrez geneids
+principal component plot
+individualize treatment regimens1­5
+interconnecting functional modules
+human cell lines
+monitor disease progress
+functional networks identified
+prototypical inflammatory cell
+apoptotic cell death
+acute proinflammatory phase
+biological processes underlying
+multicomponent enzyme important
+global leukocyte defects--
+global leukocyte activities
+camp-response element-binding protein
+messenger rna abundance
+michigan medical school
+acute systemic inflammation
+significant probe sets
+expression index computation
+microarray expression profiling
+active secretory cells
+hu133b oligonucleotide arrays
+000 full-text scientific articles
+reveal concerted dysregulation
+curated relationships parsed
+total cellular rna
+necrotic cell death
+leukocyte rna isolation
+8 ml rlt buffer
+ionizing radiation response
+integrated cell-wide response
+reduced antigen presentation
+initial proinflammatory phase
+massachusetts general hospital
+mitochondrial energy production
+principal component analysis
+093 probe sets identified
+probe sets identified
+13 october 2005
+
+letters
+
+figure 3
+gene expression profiles
+gene expression monitoring
+gene expression profiling
+functional modules identified
+molecular relationships involving
+published author list
+342 genes highly interconnected
+highly interconnected genes
+experimental data sets
+identify direct interactions
+peer-reviewed scientific publications
+statistical likelihood calculation
+require subsequent confirmation
+ii complex
+direct biochemical interaction
+data comprehensively document
+shriners burns hospital
+mitochondrial oxidative phosphorylation
+fully predictable recovery
+1038/nature04362
+
+corrigendum
+doi
+author information reprints
+1 december 2005
+
+corrigendum
+doi
+supporting literature findings
+inflammatory disease-related genes
+physiological regulatory systems
+representative genes involved
+292 representative genes involved
+atp synthase genes
+welldefined inflammatory challenge
+innate immunity network
+original literature detailing
+human subjects receiving
+microarray data analysis
+probe sets reached
+published online 31 august 2005
+human disease phenotypes
+genome-wide interaction network
+complementary dna microarrays
+subnetwork regions enables
+large number
+vivo endotoxin administration
+temporal response reveals
+expression statistically increased
+apparent gene expression
+knowledge-based network analysis
+transcription factors limiting
+protein synthesis machinery
+secreted proinflammatory cytokines
+human blood leukocytes
+composite network representing
+largest curated database
+resulting gene interaction
+normal phenotype
+increased mrna abundance
+bacterial endotoxin administration
+high-throughput genomic studies
+enzymatic interactions observed
+shaw warren23 & michael
+clinical perturbations
+previously published findings
+healthy human subjects
+findings provide insight
+washington university school
+class discovery
+medical science
+multiple mechanisms
+bacterial endotoxin infusion
+burn injury
+includes 150 genes
+mitochondrial complexes
+similar extents
+chain expression
+physiological responses
+15burn center
+23burn center
+body weight
+oligonucleotide arrays
+895 probe sets
+924 probe sets
+093 probe sets
+probe sets
+functional modules
+reduced integrin-
+cell death
+anaphase-promoting complex
+protein degradation
+rna abundance
+human disease
+systemic inflammation
+innate immunity
+underlying biology
+direct physical
+leukocyte bioenergetics
+clinical assistance
+leukocyte pellets
+mitochondrial dysfunction
+systemic activation
+mitochondrial bioenergetics
+marked suppression
+national institute
+authors participating
+self-limiting nature
+lander nature 437
+proinflammatory cytokines
+functional interactions
+biological insight
+biological processes
+analysis reveals
+network analyses
+genome-wide response
+class prediction
+13 october 2005
+
+letters
+gene expression
+critical care medicine
+gene interaction
+847 published articles
+disease process
+human model
+functional interrelationships
+experimental data
+genome-wide interactions
+inflammatory response
+9% sodium chloride
+distinct types
+13 october 2005
+
+figure 2
+statistical likelihood
+rna extraction
+acute splanchnic
+impaired antigen 1
+subsequent return
+pathway analysis
+peer-reviewed publications
+network pathway
+direct interaction
+093 probe sets--representing 3
+significant pathways
+ingenuity systems
+atp synthesis
+cardiovascular disease
+modules participating
+modules include
+endotoxin-responsive modules
+energy production
+protein synthesis
+apparent expression
+endotoxin tolerance
+human macrophages
+human monocytes
+human diseases6­8
+human diseases
+human endotoxemia
+individual genes
+292 representative genes
+pittsburgh school
+inflammatory stimuli
+genomic network
+bacterial endotoxin
+significant genes
+transcriptional level
+public literature
+individual studies
+1038/nature03985
+
+letters
+early event
+early activation
+5-min period
+human subjects
+118 findings curated
+findings document
+gene families
+direct interactions
+619 direct interactions
+c-reactive protein
+protein functions
+protein synthesis16
+significant decreases
+recovery process
+blood sampling
+rochester school
+alabama school
+suppressed expression
+dna sequence
+atp-consuming processes
+shaw warren22
+cytokine signalling 3
+translational machinery
+5 interaction partners
+selected regions
+supplementary methods 1
+supplementary methods 2
+kinase activity
+manually curated
+address list
+fully replicated
+mammalian cells
+hu133b arrays
+intravenously administered
+oxidative stress
+blood leukocytes
+endotoxin administration
+control data
+injury
+direct disruption
+temporal response
+published information
+increased expression
+focus gene
+blood samples
+knowledge base
+network analysis
+high-throughput screening
+energy expenditure
+pathways proceeded
+high-throughput platforms
+full recovery
+lysis buffer
+transcription factors
+protective response
+delayed response
+multiclass response
+host response
+genes identified
+molecular network
+intravenous administration
+significant level
+protein level
+global representation
+3ingenuity systems
+inflammatory stimulus
+significance analysis
+model-based analysis
+polymorphism analysis
+network-based analysis
+crna synthesis
+expression level
+resulting network
+network consists
+network representation
+endotoxin injection
+endotoxin challenge
+endotoxin stimulation 12
+1038/nature03983
+
+inflammation
+genetic interactions
+comprehensive interactions
+time period 4­6
+findings presented
+rela gene
+molecular biology
+molecular classification
+molecular genetics
+molecular portraits
+decreased expression
+expression decreased
+ikbk genes
+mammalian genes
+714 unique genes
+atp5 genes
+genes controlling
+cops genes
+psm genes
+stat genes
+microtubule genes
+ten bins
+medline abstracts
+determined immediately
+healthy male
+ann arbor
+bruno piqani
+key role
+þ score ¼ 2log10 1 2
+organ dysfunction
+natl acad
+scott anderson
+annie lui
+celeste campbell-finnerty10
+capillary electrophoresis
+perren cobb6
+yasushi totoki
+cytopathic hypoxia
+mammalian orthologues--
+kevin tschoeke5
+identical conditions
+fine structure
+asit de1
+reperfusion injury14
+boris bugalter
+score greater
+transient dysregulation
+online version
+analytical approach
+self-limiting episode
+dbowe@stanford
+nabil hafez
+critical role
+tanya logvinenko6
+algorithmically infer
+high-energy substrates
+american college
+innovative therapies
+initial study
+takehiko itoh
+computationally decipher
+evan mauceli
+andreas gnirke
+tanya logvinenko7
+cellular-stress-derived mediators
+pendexter macdonald
+organ failure
+robert nicol
+ken dewar
+antecedent illnesses
+tricarboxylic acid
+binomial coefficient
+cdna microarrays
+wenzhong xiao2*
+jeffrey johnson13
+jeffrey johnson14
+hypothesis space
+automated alternatives
+mountain view
+masahira hattori
+drotrecogin alfa
+chip hybridization
+closer inspection
+mrna transcripts
+concomitant increase
+von baehr
+simultaneous survey
+jonathan butler
+reinhard engels
+technical assistance
+appears correctly
+healthy volunteers
+cop9 signallosome
+mehmet toner22
+mehmet toner21
+critical care
+nf-kb p65
+accidentally omitted
+yoko kuroki
+huge quantities
+accidentally reversed
+kerri topham
+substantial amount
+carol miller-graziano7
+manuel garber
+wenzhong xiao
+animal models
+signal intensity
+atsushi toyoda
+april cook
+hideki noguchi
+immediately frozen
+xiaoping yang
+palo alto
+incorrectly listed
+fewer false-positives
+constance elson7
+constance elson6
+greatly reduce
+small molecules
+celeste campbell-finnerty9
+outlier detection
+perfect match
+714 unique genes--
+modelling experts
+manual extraction
+commercial kit
+summarized elsewhere10
+cindy nguyen
+kevin tschoeke
+room temperature
+10-ml syringe
+primary role
+amr abouelleil
+qiandong zeng
+protocol outlined
+altered capacity
+high degree
+k-means clustering
+readily extracted
+erythrocyte lysis
+mammalian biology
+carol miller-graziano
+accepted 4 july 2005
+george casella4
+perren cobb
+asao fujiyama
+toby bloom
+unencumbered counterregulation
+bradley freeman7
+bradley freeman8
+signal transducer
+host defence11
+endotoxin infusion
+endotoxin-challenged subjects
+healthy subjects
+control subjects
+leukocytes devote
+circulating leukocytes
+leukocytes exposed
+comprehensive knowledge
+increased susceptibility
+existing knowledge
+focus genes
+erratum
+doi
+permissions information
+supplementary information
+membraneassociated proteins
+cytoskeletal proteins
+ribosomal proteins
+mptp activation
+cluster analysis
+charles cooper6
+13 october 2005
+
+observed
+glycoprotein encoded
+systematically encoded
+charles cooper26
+complex
+temporal modulation
+direct connections
+rps genes
+rpl genes
+uqcr genes
+000 rat genes
+nduf genes
+eif3 genes
+west20
+affiliations
+smaller number
+overwhelming diversity
+west19
+
+10 affiliations
+re-establishing homeostasis
+details accompany
+st louis
+unusual severity
+mammalian orthologues
+cyclophilin
+mechanism contributing
+jessica lehoczky
+k-means cluster
+skeletal muscle
+microarrays applied
+identifying nodes
+care med
+methane release
+recent reports
+bioinformatics method
+including il1rap
+septic shock
+neutrophil cytochrome
+cell-cycle regulation
+chest physicians/society
+agilent 2100 bioanalyser
+washington university
+david decaprio
+observed interactome
+observed `interactome
+highest specificity
+identify
+humans
+steve
+perturbations
+suppression
+spontaneous resolution
+coloured red
+michael kamal
+enabling identification
+nature
+nature 420
+nature 406
+nature 403
+nature 327
+nature 434
+additional subjects
+florida college
+female subjects
+supplementary fig
+mptp components
+plastic surgery
+martin schwacha5
+denver
+nih
+colorado 80204
+reveals
+science 286
+initiation
+transcriptional
+houston
+figure 1
+hospital
+discovery
+pathway
+component
+human
+800 human
+specific
+necrotic
+important
+required
+limit
+gene
+abundance
+tolerance
+significant
+blood
+blood 96
+expression
+texas 77030
+analyse
+represent
+family
+times
+texas 75390
+texas 77550
+data
+model
+included
+paper
+pathways
+response
+global
+process
+identified
+analysis
+network
+endotoxin
+interactions
+inflammation
+findings
+temporal
+genes
+214 genes
+35 genes
+556 genes
+massachusetts 02115
+massachusetts 02114
+massachusetts 02139
+massachusetts 02129
+resulting 5
+total
+provide
+enables
+require
+burns
+critical
+healthy
+studies
+care
+transcription
+online
+washington 99352
+microarrays
+washington 98104
+arrays
+secreted
+presentation
+phosphorylation
+michigan 48109
+composite
+1034
+phenotypes
+challenge
+previously
+13 october 2005
+detailing
+isolation
+approach
+washington 98195
+washington
+group 9
+group 6
+group 7
+group 4
+group 5
+group 2
+group 3
+group 1
+group 8
+group
+subjects
+leukocytes
+knowledge
+increased
+doi
+samples
+information
+infusion
+focus
+proteins
+mptp
+interactome
+st
+louis
+observed
+encoded
+level
+pittsburgh
+database
+reached
+charles
+decreased
+cytochrome
+med
+study
+reports
+modulation
+rat
+release
+applied
+severity
+chest 101
+rela
+time
+prediction
+1038/nature03985
+eif3
+shock 21
+homeostasis
+identifying
+agilent
+stimulus
+method
+cluster
+number
+000 orthologues
+regulation
+rochester
+affiliations
+uqcr
+transcripts
+martin
+transient
+including
+jessica
+nduf
+alabama 35294
+mechanism
+rps
+rpl
+diversity
+muscle
+schwacha5
+details
+university
+david
+bins 0­4
+specificity
+bins 5
+bins 7­9
+humans
+342 additional
+components
+resolution
+michael
+red
+identification
+additional
+female
+florida 32610
+florida 32611
+connections
+florida
+fig
+medicine
+surgery
+limited
+dynamic
+& pfeiffer
+presents
+consistent
+guidelines
+chem
+blue
+30center
+& parkos
+chen3
+mindrinos2
+cxcl1
+cxcl2
+cxcl8
+/reprintsandpermissions
+work
+tnf
+henry
+ernest
+´ sinead
+hennekens
+end
+4department
+verify
+confirmed
+1department
+descent
+order
+responsive
+ncbi
+tubulin-
+15department
+creb
+effects
+represents
+h5n1
+--
+bone
+crit
+washed
+content
+daniel
+storey20
+storey21
+ramon
+bankey1
+org/
+renumbered
+proteomics
+timothy
+il10
+activators
+23 department
+percentage
+john
+mannick16
+mannick15
+mutalecimes
+il1a
+il1b
+extracting
+boston
+chen
+-
+isolated
+bruce
+letter
+acknowledgements
+manifested
+calculated
+lyle
+calvano
+1 department
+birmingham
+tompkins8
+avery
+vol 437
+propagated
+vol 438
+//www
+rneasy
+suggested
+coe
+kodira
+requests
+viruses
+basis
+basic
+6department
+tnfrsf1a
+seattle
+mouse
+bittner
+keefe11
+nakagawa
+viewed
+camp3
+illinois 60153
+normalization
+cycle
+materials
+richards3
+jean
+biostatistics
+progresses
+brigham
+8department
+mason6
+usa 102
+steps
+brunswick
+www
+jennifer
+golub
+sarah
+elucidate
+irshad
+lancet 360
+20department
+chaudry5
+joseph
+12department
+form
+maywood
+absent
+19department
+maximum
+mikkelsen
+brealey
+lowry &
+cxcl10
+constructed
+bzrp
+fitzgerald
+826% nh4cl
+il-8
+/nature
+activated
+heller
+finally
+remick18
+remick19
+brown
+supported
+kumar
+felciano
+jersey 08903
+ridker
+overlaid
+treeview24
+affiliation
+wain
+understanding
+groups
+naylor
+studied
+kemp
+klein15
+klein14
+2department
+angela
+insights
+22department
+gro-
+spectrophotometry
+performed
+14department
+13division
+richland
+lowry1 &
+infection--observed
+groa
+hubbard5
+socs3
+brownstein6
+definitions
+davis2
+structuring
+mckinley17
+mckinley16
+supplemented
+correspondence
+chemokines
+hall
+ccl2
+pdk3
+neighbourhood
+shown
+trauma
+maximum 2­4
+complicated
+keith
+curation
+initiate
+comprises
+tibshirani
+white
+reprioritization
+semicelatum
+relb
+modelled
+accessed
+outcome
+270 8c
+sam
+allen
+buttgereit
+centrifugation
+considered
+average
+il1r2
+julian
+ratio
+18department
+oxidative-stress-
+abouhamze
+concert
+verification
+propagation
+4departments
+hu133a
+nicole
+mark
+defined
+combined
+peaking
+4 8c
+andrew
+dinauer
+zenith
+herndon9
+gainesville
+cancer
+900 mouse
+department
+docke
+christina
+erosion
+mashkoor
+hunt12
+hunt13
+confirm
+propagating
+malfunctioning
+equivalent
+notably
+29department
+260/
+wolk
+cambridge
+maier10
+maier11
+5­ 7 min
+kalil
+keefe10
+modifications
+labelling
+complete
+schoenfeld7
+taylor
+examine
+22center
+borowsky
+invest
+enrichment
+& chu
+influenza
+sci
+received 17
+jerome
+subjected
+returning
+apoptosis
+subunits
+induced
+applicable
+abbreviated
+horton11
+richard
+horton12
+microbiology
+contrast
+concluding
+duration10
+whittaker
+initiated
+tested
+shapiro20
+leary
+missouri 63110
+equation
+division
+slc25a5
+jesaitis
+derived
+connectivity
+qiagen
+merged
+hierarchy
+-36 tusher
+stephen
+alter
+males
+framework
+association
+moore14
+moore16
+moore17
+moore13
+moldawer5
+spellman
+nathens11
+macmillan
+todd
+raymond
+douglas
+participants
+evaluation
+members
+kunz
+relate
+incubated
+leading
+recovered
+000 permutations
+21department
+31department
+gamelli9
+gamelli8
+k-
+recognizing
+talamas
+added
+hayden6
+hayden7
+kb
+28department
+silver8
+silver9
+h2o
+eisen
+& botstein
+fong
+fink
+13department
+5department
+cebp
+padfield
+proteasome
+tompkins
+birren
+visualize
+baines
+usa 98
+usa 94
+usa 95
+17department
+folding
+acetyl-coa
+pdh
+perou
+sepsis
+24department
+geoffrey
+reduction
+collected
+gestalt
+anthony
+liver
+coyle
+evaluated
+chinnappa
+engl
+baseline
+grant
+hester
+virtually
+development
+jureta
+coussens
+nfkb1
+nfkb2
+bin
+median 3
+choudhry5
+280 ratio
+vdac
+hallmark
+40 years
+smith3
+wilhelmy
+examples
+moldawer
+proc
+26department
+lederer15
+lederer16
+harbrecht2
+gov/entrez/
+statistics
+21division
+biol
+rahme17
+rahme18
+brownstein
+hybridized
+engineering
+blaho
+york 14642
+crompton
+generates
+william
+& wong
+schoenfeld6
+neill
+resolving
+results
+cheung
+shapiro19
+young
+cho3
+sepsis20
+orkin
+chicago
+laurence
+3b
+3a
+& rifai
+gibran10
+gibran11
+explore
+chang
+volk
+addressed
+decrease
+1% khc03
+ontology
+usa
+cho
+7department
+vehicle
+zimmer
+infection
+women
+1038/nature04363
+cuomo
+inhibitor
+purity
+sought
+delay
+baker4
+npg
+ronald
+spelling
+subsequently
+galveston
+billiar2
+li
+endotoxemia17­19
+dchip22
+subset
+calvano1*
+gluegrant
+induction
+zody
+philip
+mindrinos
+davis
+biochem
+pennsylvania 15213
+lists
+crouser
+pittsurgh
+clin
+linked
+cherylyn
+dallas
+16department
+affymetrix
+frederick
+alizadeh
+text
+bernard
+buring
+richards
+processed
+computed
+& brand
+california 94304
+difficulties
+display
+10 department
+read `
+3a­
+felciano3
+27department
+addition
+9department
+tissues
+al
+present
+minei12
+minei11
+matthew
+& sabat
+cc-re-lot 2
+http
+context
+mason26
+mcp-1
+dose
+resuspended
+tca
+smith
+loss
+& werb
+median 4
+mhc
+california 94043
+james
+0037% na4edta
+illinois 60611
+brian
+growth
+highlighting
+markers
+analysed
+25department
+tarjei
+11department
+jaffe
+demonstrate
+herndon10
+contribute
+tnfsf2
+nathens10
+baker
+342
+278
+1990
+1992
+1995
+1997
+1999
+1998
+652­ -658
+400
+14863­ -14868
+­
+747­ -752
+18030­ -18036
+717­ -720
+0
+1896­ -1904
+ð
+536­ -540
+219­ -223
+1
+093
+2
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+1%
+219­ -237
+200
+2150­ -2155
+4­6
+4­9
+3
+78%
+4
+396­399
+5
+`
+6
+503­ -511
+¼ 4
+1644­ -1655
+24
+20
+21
+22
+23
+7
+88%
+658­ -662
+31­
+8
+222­ -229
+312
+163­ -167
+0001
+9
+860­ -867
+0­9
+1032­1037
+¼0
+2002
+2003
+2000
+2001
+2004
+2005
+30
+836­ -843
+5116­ -5121
+85
+218­ -223
+1831­ -1837
+551­555
+531­ -537
+5368­ -5373
+44
+þ
+276­ -284
+1987
+*

@@ -1,0 +1,13 @@
+118649txt
+0001
+et
+values
+al
+value
+master
+mirna
+sequences
+samorogu
+secondary
+structure
+mfe

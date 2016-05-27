@@ -1,0 +1,304 @@
+cellular functions
+Ataxia-telangiectasia Amyotrophic
+evolutionary
+Flammini
+Similarly
+Mendelian Inheritance
+Abbreviations
+Mathivanan
+valuable
+gene­single
+ecades-long
+coexpression coefficient
+Stroedicke
+statistical
+participate
+Department
+existence
+functional periphery
+pigmentosa Epidermolysis
+emergence
+transcription factor-promoter
+Foundation
+conjunction
+knowledge
+disorders
+DMR-0926737
+physiological
+Lalowski
+Retinitis pigmentosa
+DISEASOME
+accompanying
+Amberger
+selection-based
+biomedical
+Although
+extensive
+heterogeneity
+NIH/National
+Deisboeck
+Lipodystrophy Charcot-Marie-Tooth
+associations
+Pancreatic
+physical interactions
+Neurological Nutritional
+disorder­gene association
+survival
+phenotypes
+paraplegia
+indication
+Vespignani
+cellular
+monogenic disorders
+homogeneity
+difference
+cerevisiae
+Ayivi-Guedehoussou
+impressive
+susceptibility
+Ataxiatelangiectasia
+tissue-homogeneity coefficient
+up-todate repository
+organismal
+significant elevation
+Hirozane-Kishikawa
+identified
+expectation
+genome-wide association
+hereafter
+disorder/disease
+Hematological Immunological
+Functional Clustering
+cellular development
+Surprisingly
+biological
+Pasternak
+Yamamoto
+dedication
+essential
+Muscular dystrophy
+nonessential
+development
+Scale-Free
+inability
+reference
+robustness
+peripheral
+Brembeck
+prediction
+Jamshidi
+network-based explanation
+network-based relationship
+significance analysis
+Dermatological Developmental
+Myopathy
+lymphoblastic
+laboratory
+nondisease
+Jimenez-Sanchez
+recognizable developmental
+Molecular
+Gastrointestinal Hematological
+Complement_component deficiency
+polygenic disorders
+consequence
+comple8686
+thickness
+Construction
+Informatics
+myopathy
+University
+discovery
+impairment
+Discussion Throughout
+Venkatesan
+Chandrika
+Midorikawa
+protein­protein interactions
+diseasome
+component
+graphtheoretic framework
+possibility
+understanding
+Sandhoff
+high-quality systematic
+ataxia/paraplegia
+expansion
+Dana­Farber
+similarity
+Myocardial infarction
+Distribution
+different disorders
+likelihood
+gene-centered
+Characterizing
+topology
+tissue-homogeneity
+Cardiovascular Connective
+factor-promoter interactions
+housekeeping
+predisposition
+heteromeric
+phenotypic relatedness
+A1070499-01
+dependence
+telangiectasia
+embryonic
+Trichothiodystrophy
+extension
+connection
+selective
+peripherality
+important pathophysiological
+disorder­
+hypothesis
+Papillary
+expression
+repressor
+Caldarelli
+CA113004
+represent disorders
+projection
+§Department
+predictive
+Strategic Initiative
+different approach
+NIH/National Institute
+Pseudohypoaldosteronism Myocardial
+regulatory
+recognized
+Non-essential
+proportional
+extrauterine
+histogram Observed
+McKusick
+Hirschprung
+perturbation
+Pediatrics
+network-based
+nonhousekeeping
+transcript
+phenotypic association
+functional relatedness
+conceptual framework
+Disease-Associated
+Normalized histogram
+structure
+Bioinformatics
+PHYSICAL SCIENCES
+Ontology
+infarction Alzheimer
+metabolism
+homologous recombination
+insensitivity
+corresponding
+relationship
+Nagaraju
+successful
+Interestingly
+Kwang-Il
+Unclassified
+appreciation
+interaction
+Muscular Neurological
+Cardiomyopathy
+ataxia/paraplegia Ataxia-telangiectasia
+not-correlated
+Essential
+Metabolic Muscular
+compatible
+Zellweger
+¶Department
+Amyotrophic
+Probability
+reproductive
+physical protein­protein
+Vogelstein
+Epilepsy
+prominence
+Periaswamy
+Ophthamological Psychiatric
+incompleteness
+important functional
+postnatal lethality
+distribution
+Hirschhorn
+Nutritional Ophthamological
+perspective
+correspondence
+associated
+Introduction
+molecular
+contribute
+muscular
+Centrality
+Confirming
+Respiratory
+Spherocytosis Spinocereballar
+Aburatani
+stringent criterion
+metabolic disorders
+Schoenherr
+distinguishable
+Hypertension Atheroscierosis
+genetics/CGP/Census
+information
+different
+Tsutsumi
+particular functional
+log-binned
+Endocrine Gastrointestinal
+responsible
+coexpression
+diseasome bipartite
+APPLIED PHYSICAL
+positional
+microarray
+potential
+phenotype
+Cellular
+peroxisome
+OMIM-based disorder­
+Lymphoma
+pathophysiological clustering
+fNon-essential
+conclusion
+breakdown
+individual disorders
+literature
+Therefore
+Bocchini
+Institute
+Immunological Metabolic
+variation
+Albert-Laszlo
+first-trimester spontaneous
+Parkinson
+cellular network-based
+Mutations
+carcinoma
+disease-specific functional
+Rodriguez-Caso
+Hemolytic
+horizontal
+high-degree
+randomized
+Baltimore
+compendium
+Ontology Consortium
+topological centrality
+housekeep-
+sclerosis
+systematic interactome
+analysis
+enrichment
+spherocytosis
+Goldberg
+disease-related
+functional clustering
+correlation
+retardation
+organization
+opportunity
+bipartite
+neurological disorders

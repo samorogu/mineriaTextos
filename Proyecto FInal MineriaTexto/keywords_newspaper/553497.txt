@@ -1,0 +1,13 @@
+loss
+genes
+reciprocal
+cerevisiae
+loci
+s
+postwgd
+master
+fig
+samorogu
+gene
+553497txt
+species

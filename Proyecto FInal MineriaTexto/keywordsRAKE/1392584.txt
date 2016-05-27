@@ -1,0 +1,2281 @@
+d21 d22 ða2þ
+
+2 2 1=2 a9 = ½ða91 cos/1 + a92 cos/2 þ + ða91 sin/1 + a92 sin/2 þ
+a91 cos/1 + a92 cos/2 1 1   a21 sin/1 + a92 sin/2 9 2 /2 = arctan
+1 1 1 1 1 2 2 1=2 a9 = ½ða91 cos/1 + a92 cos/2 þ + ða91 sin/1 + a92 sin/2 þ
+a91 cos/1 + a92 cos/2 2 2 /1 = arctan  ða5þ ða6þ
+a11 sin/1 + a92 sin/2 9 1
+synchronously gamma oscillatory cortical columns code figure-ground segregation
+ðxt + /1 þ + a92 exp ½
+selective visual-spatial ¨ attention alters induced gamma band responses
+disrupt existing gamma synchronous neural assemblies
+gamma synchronous activation yields increased gamma-band power
+obtain ~ 11 = e1 + ie1 = a1 exp
+long-distance alpha-band meg synchronization maintains selective attention
+perceptual groups activates additional low gamma-band
+rapid eye movement
+cerebral cortex february 2008
+1093/cercor/bhm073 advance access publication june 7
+occipital cortex indexes visuospatial attention bias
+cat ¨ visual cortex exhibit inter-columnar synchronization
+long-range neural synchrony reflects temporal limitations
+british columbia behavioral research ethics board
+proc natl acad sci usa
+~ 12 = e2 + ie2 = a2 exp
+endogenous cueing tasks involving stimulus discrimination
+dipoles generate signals x1 = a1 exp ½
+write e1 = a91 exp ½
+gamma-band network selects task-relevant neural populations
+lateralized longrange phase synchrony results arose
+volume conduction creating spurious synchronies remains
+nonconscious central nervous system states
+showed increased long-distance high--alpha-band phase synchronization
+neural groups underlies transient functional integration
+brain res cog brain res
+predicted long-range gamma synchronous attentional network
+deblurred ecog sharpened synchronous regions
+attended stimuli avoid illusory conjunctions
+local gamma-band activity reflects active processing
+large-scale gamma synchronous network accounts
+large-scale gamma synchronous network oriented
+increased gamma-band synchrony precedes switching
+capable requires transient functional coupling
+40 hz produces increasingly focal responses
+gamma synchronous brain regions correspond
+monkeys show greater gamma-band synchronization
+long-range beta oscillatory network bearing
+colors represent interpolated instantaneous amplitude
+scds gave highly similar results
+retinotopically specific a-band electroencephalography increases
+cortical areas representing attended loci
+1 1 e2 = a91 exp ½
+beta-band attention network previous magnetoencephalographic results
+gamma-band synchrony underlies sensory awareness
+exp psychol hum percept perform
+area shows increased gamma activity
+alpha oscillatory mechanism involving local desynchronization
+hypothesized gamma synchronous attentional network
+observed approximately 520--580 ms postcue onset
+show increased gamma-band phase synchronization
+lateralized longrange gamma synchrony reported
+local alpha-band activity reflects suppression
+obtain e1 = a9 exp ½
+sensory-evoked brain potentials provide evidence
+longrange gamma-band synchronous assembly
+lateralized large-scale gamma-band phase synchronization
+lateralized long-distance gammaband phase synchronization
+figure 4 presents
+390 gamma-band phase synchronization
+measured long-range neural phase synchrony
+reveal increased long-range gamma-band synchrony
+california san diego erplab
+ipsilateral visual cortical areas beginning
+cortical areas representing attended information
+strong local gamma-band activation located
+cortical regions representing attended locations
+results show frequency specificity similar
+global conscious workspace allowing cognitive
+ieee trans biomed eng
+3concentric sphere head model
+cortical areas approximately 240--380 ms
+induced gamma band ¨ responses
+data revealed
+392 gamma-band phase synchronization
+amplifier input impedance >2 gx
+brain produces higher cognitive processes
+observed increased gamma-band phase synchronization
+ða1þ x2 = a2 exp ½
+longrange gamma-band synchronization mediates
+posterior visual cortical areas contralateral
+coherently oscillating network define
+increased high--alpha-band phase coupling
+3-layer spherical head model
+visual field receive enhanced processing
+beta oscillatory network emerged
+similar endogenous attention-orienting paradigms
+individual subject data revealed similar
+vancouver bc v6t 1z4
+widespread cortical regions beginning ~500 ms
+similar endogenous orienting paradigms
+reflects global stimulus properties
+methods
+thirteen healthy adults
+alpha oscillatory power reflect
+require transient functional coupling
+lateralized long-range gamma synchrony
+hemispheric event-related gamma-band synchronization
+1 e2 = a9 exp ½
+longrange gamma synchronization serves
+short term memory processing
+ðxt + /1 þ
+increased long-range gamma-band synchronization
+primary visual areas occurs
+lateralized gamma-band phase synchronization
+auditory 40-hz transient response
+giving written informed consent
+relevant modality-specific cortical areas
+extrastriate visual cortical areas
+2007
+
+large-scale gamma-band phase synchronization
+large-scale gamma-band phase synchronization
+ðxt + /2 þ
+neural synchrony introduction performance
+reflect primarily neural sources
+visual cortical areas ipsilateral
+direct brain recordings show
+finding echoes earlier findings
+riken brain science institute
+greater gamma-band eeg connectivity
+attention induce gamma-band oscillations
+cognitive processes including attention
+phase synchrony analysis program
+mechanism mediating neural communication
+eeg gamma-band phase synchronization
+ipsilateral visual areas reported
+long-range 39-hz synchronization 300 ms
+induced gamma-band responses
+lateralized gamma-band synchronization patterns
+gamma-band phase synchronization related
+predicts viosual target detection
+left frontal areas shortly
+2 x1 + 2 x2
+visual short-term memory task
+multiple frequency bands interact
+remove spurious synchronization arising
+erp analysis differed slightly
+scalp current density mapping
+reduced spurious synchronies relative
+beta synchronous network
+increased eeg gamma-band coherence
+enable selective visuospatial attention
+matlab signal processing toolbox
+greater gamma amplitude increase
+local field potential recordings
+oscillatory neural responses
+supplementary material
+supplementary materials
+reliable effects closely resembled
+2 radial dipoles oscillating
+synchronously oscillating neurons
+exp psychol gen
+1  + ei½/
+synchronous neural oscillations
+human eeg alpha activity
+alpha-band amplitude reduction previously
+high gamma power
+induced c-band activity
+cortical regions representing
+realistic head model
+a2 =a9
+beta-band oscillatory network
+visual hemifield yields
+comparable scd amplitude data
+cerebral cortex february 2008
+¨ oscillatory neuronal responses
+oscillatory neuronal responses
+spherical coordinate system
+vancouver v6t 1z4
+long-range gamma-band synchrony
+high gamma band
+a-band electroencephalographic activity
+segregation occur locally
+lateralized gamma-band synchrony
+cortical gamma-band activity
+power spectral densities
+columns representing information
+transient network promoting
+transient functional network
+lateralized gamma-band synchronization
+increased long-distance synchronization
+found preceding transient bursts
+main erp analysis generalize
+hum brain mapp
+greater gamma-band synchronization
+reduces spurious synchronies
+large-scale gamma-band synchrony
+reflect phase scattering
+long-distance gamma-phase synchrony
+long-range synchronization lateralized
+central occipital locations
+extrastriate motion areas
+large-scale gamma-band synchronization
+local amplitude discussed earlier
+1
+394 gamma-band phase synchronization
+388 gamma-band phase synchronization
+396 gamma-band phase synchronization
+gamma-band phase synchronization
+ongoing local power
+measured long-range synchrony
+increased gamma-band synchronization
+cortical area occurs
+visual attention tasks
+large-scale functional network
+large-scale gamma-synchronous network
+neural phase synchrony
+neural synchrony measured
+later-occurring alpha-band evolution
+transient functional connectivity
+stimulus-specific gamma synchronization
+task-relevant neural populations
+alpha-band eeg activation
+implicating gamma-band synchronization
+local oscillatory activity
+trends cogn sci
+diverse cortical regions
+cortical regions underlying
+local oscillatory synchronization
+successfully produced lateralized
+provide convincing evidence
+local gamma synchrony
+increased phase synchrony
+strong connectivity linking
+occipital cortices reflected
+beta-band phase synchronization
+increased gamma-band oscillations
+greater alpha-band amplitude
+current density mapping
+respective phase angles
+ipsilateral visual cortex
+visual cortex ipsilateral
+gamma amplitude increased
+task-relevant brain areas
+ó
+human gamma-band activity
+gamma bands begin
+cat visual cortex
+widespread cortical areas
+local neural synchrony
+gamma frequency band
+columns representing features
+local eeg power
+increased gammaband synchronization
+attentional network established
+oscillatory neuronal synchronization
+occipital cortex contralateral
+ða6þ ða7þ
+
+ða7þ
+3brain research centre
+15th international conference
+engineering research council
+corrected-to-normal vision participated
+supplied spherical coordinates
+dr kentaro yamanaka
+temporal spectral evolution
+poorer signal-to-noise ratio
+curr opin neurobiol
+ongoing synchrony unrelated
+2 393
+
+volume-conduction--induced spurious synchrony
+spurious synchrony caused
+conscious executive processes
+distinct brain processes
+alpha-band amplitude coincided
+gamma band depending
+gamma eeg activity
+cortical regions close
+global gamma-band desynchronization
+gamma-band eeg activity
+gammaband synchronization enables
+significantly larger n1 component
+visual working memory
+frontal cortical regions
+global visual percept
+local gamma amplitude
+attention-related brain regions
+primary current distribution
+short lived relative
+higher alpha-band amplitude
+human memory formation
+a1 =a9
+visuospatial attention indexed
+measuring phase synchrony
+neural groups included
+short-term memory task
+significant interactions involving
+stimulusspecific fast oscillations
+contralateral
+
+visual cortex
+contralateral visual cortex
+visual cortex contralateral
+eeg phase synchronization
+successfully report perceiving
+half-amplitude gaussian filter
+successful memory formation
+posterior temporal cortices
+anatomically distributed state
+representing unattended locations
+membrane potential fluctuation
+global stimulus properties
+theta-gamma eeg rhythms
+human brain activity
+lateralized gamma burst
+direct physiological evidence
+phase synchrony measures
+visuospatial attention entails
+background eeg activity
+phys rev lett
+matlab script supplied
+deblurring technique introduced
+cortical areas occurring
+open source toolbox
+local brain recordings
+assuming noiseless signals
+results phase synchronization
+volume conduction refers
+evoked neural sources
+making /1 ­/2
+automatic rejection algorithm
+scd = ­1 3 scalp conductivity 3 laplacian
+report local activity
+magnetic fields measured
+biases attended information
+procedure produces distributions
+create surrogate distributions
+human eeg rhythms
+high frequency domain
+selective attention enables
+5° visual angle laterally
+neuronal groups relevant
+cortical regions responsible
+single oscillating source
+random phase difference
+visual areas v1
+phase synchronization analysis
+sustained visuospatial attention
+n1 component revealed
+visual electrodes ipsilateral
+human magnetoencephalogram signals
+selective visual attention
+functionally coupled ensemble
+spurious coherence dropping
+le van quyen
+spherical laplacian operator
+cognitive neuroscience laboratory
+alpha frequency band
+increased columnar selection
+stimulus-specific neuronal oscillations
+eeg coherency ii
+visual event-related potentials
+human eeg recordings
+previous findings support
+constant phase offset
+active retinotopic mechanism
+reflect attentional modulation
+traditional behavioral measure
+scalp current density
+left visual cortex
+oxford university press
+simple case simulated
+electroencephalogr clin neurophysiol
+case contralateral occipital
+left visual field
+common neural mechanism
+fourier amplitude squared
+nat rev neurosci
+receive feature binding
+effective feature binding
+coherent conscious percept
+extensive research relevant
+local alpha amplitude
+exp psychol
+implements attentional preparation
+frequency bands plays
+eeg signals contained
+visual field presentation
+synchrony analysis showed
+synchronous regions
+digitally low-pass filtered
+local eeg amplitude
+selective attention enhances
+eeg spectral dynamics
+single-trial eeg dynamics
+eyes approximately 35 cm
+raw plv depends
+oscillatory responses
+intracranial eeg recordings
+shifting visual attention
+visual discrimination task
+enhanced feature binding
+source current density
+spatial selective attention
+produce random jitter
+transient assemblies
+comparatively restricted set
+hilbert transform--based technique
+visual n1 component
+visual spatial attention
+maximum phase locking
+covert attention-orienting task
+information integration theory
+2 radial dipole sources
+conscious perceptual objects
+reduce blur distortion
+relevant surrogate distribution
+synchrony analysis due
+well-characterized inverse problem
+attended stimulus relative
+attention orienting entails
+19 electrodes distributed uniformly
+striking temporal correspondence
+preceding target onset
+posterior parietal lobe
+volume conduction scenario
+intracranial electrodes spaced
+e1 = e2 =
+relevant electrodes interchangeably
+discussion cue-directed deployment
+eeg clin neurophysiol
+low-frequency oscillations present
+constant phase difference
+event-related potential analysis
+long-range synchronies
+subsequently appearing targets
+dynamic executive consciousness
+standard deviation [sd]
+band-pass filtered digitally
+validly cued targets
+10 hz stimulation propagates
+selective attention
+
+sam
+cued target-discrimination paradigm
+volume conduction effects
+bilateral stimulus arrays
+attention blink paradigm
+9 subjects combined ranging
+gamma-band activation
+n1 erp component
+validly cued location
+n1 amplitudes separately
+find p1 modulations
+2 2 2 2 2
+
+ða4þ ða5þ
+calculating phase-locking values
+implements functional integration
+visual-spatial priming
+larger amplitude contralateral
+attended targets relative
+gamma band
+reported results pertain
+data point combination
+parietal lesion subjects
+observed patterns resulted
+parietal electrodes contralateral
+long-range network
+made electroencephalogram recordings
+increased gamma-band
+filtered eeg signals
+perceptual learning task
+increased specificity
+studies employing scalp
+instantaneous amplitude obtained
+long-distance synchronization
+cortical areas
+predicted time frame
+gamma synchrony
+shuffled data set
+resulting scalp potential
+beta-band network
+gamma activity
+cambridge university press
+gamma-band activity
+selective activation
+long-range coupling
+gamma-band synchronization
+calculated phase-locking statistics
+cortical regions
+validly cued trials
+closest electrode pairs
+occipital cortex
+cued hemifield observed
+neural coupling
+selective attention
+doesburg
+significant main effect
+larger p1 amplitude
+arrow cue appeared
+long-range synchronization
+neural synchrony
+functional network
+local alpha-band
+brain states
+þ +
+``+
+40 +
+interactions involving
+cued location relative
+phase coupling
+magnetoencephalographic results
+neural populations
+left frontal electrodes
+longrange desynchronization
+phase synchrony
+low frequency
+mastoid reference electrode
+gamma oscillations
+targets presented contralateral
+significant attention modulation
+endogenous orienting
+gamma-band oscillations
+phase synchronization
+cortical area
+present experimental paradigm
+meg recordings
+increased synchronization
+observed erp effects
+functional connectivity
+british columbia
+alpha activation
+gamma-band amplitude
+global percept
+gammaband synchrony
+spurious synchrony
+attended areas
+brain areas
+/1 ­ /2
+cognitive processes
+neural oscillations
+visual cortex
+erp analysis epochs
+visual field
+electrodes positioned 1 cm
+increased communication
+alpha band
+significant cue effect
+relevant electrode pairs
+instantaneous phase
+brain regions
+long-distance scales
+current density
+cortical stimulation
+information selection required
+oscillatory mechanisms
+selective properties
+biol sci
+visuospatial attention
+local synchronization
+brain activity
+520--580 ms
+neuronal groups
+similar patterns
+perceptual input
+similar topography
+entails synchrony
+39 hz plvz anchored
+approximately 4 cm
+frontal areas
+a9
+lower gamma-band
+plvz values based
+workspace framework
+alpha-band peaking
+specific network
+frontal cortex
+phase locking
+long-range ¨ complexes
+analysis represent
+gammaband amplitude
+active processing
+enhanced processing
+higher processing
+sensory awareness
+alpha activity
+cortical imaging
+cortical tissue
+cortical neurons
+orientation columns
+alpha synchronization
+similar bilateral
+cognitive processing
+neural correlates
+analysis revealed
+attentional processing
+philos trans
+percept-specific network
+preparatory network
+data beginning
+postcue period
+volume conduction
+average baseline plv
+approximately 300 ms
+subject groups
+perceptual processing
+matlab algorithm
+large-scale integration
+local amplitude
+visual stimulus
+phase locked
+depolarized phase
+attended information
+increased integration
+visual stimuli
+240--380 ms
+surrogate distributions
+surface areas
+human eeg
+intracranial recordings
+synchrony results
+electrodes ipsilateral
+equations a1
+selective attention
+attended hemifield
+attended locations
+neuronal communication
+attended stimuli
+31° visual angle
+97° visual angle
+visual angle
+64° visual angle
+visual attention
+brain signals
+event-related potentials
+individual data
+behavioral measures
+rhinal cortex
+cereb cortex
+gamma burst
+cognitive neuroscience
+instantaneous amplitude
+eye movements
+laplacian operator
+slightly lower
+measured plvz
+temporal binging
+functional neuroanatomy
+strong indicator
+magnetic fields
+measure arising
+recent research
+readily generalize
+direct measurements
+rhinalhippocampal coupling
+functional integration
+temporal coding
+stimulus processing
+view erps <13 hz
+coherent percept
+volume-conducted synchrony
+cognitive dynamics
+alpha amplitude
+eeg coherency
+report amplitude
+increases contralateral
+ecog reduced
+results reported
+attention-orienting paradigm
+synchrony analysis
+decreased synchronization
+interhemispheric ¨ synchronization
+visual grouping
+visual space
+phase-locking measures
+multiple measures
+intracranial eeg
+standard 1010 locations
+behavioral operations
+select populations
+behavioral enhancement
+synchronization analysis
+visual targets
+clin neurophysiol
+parietal lobe
+conscious recollection
+conscious experience
+attended objects
+amplitude values
+button-press response
+feature binding
+sensory modalities
+integrative properties
+current knowledge
+cognitive representations
+large-scale complex
+human neocortex
+previous experiments
+frequency bands
+eeg signals
+delay phase
+beta-band networks
+attention orienting
+attention enhances
+observed synchronization
+reliable increases
+functional decoupling
+a2
+information appearing
+closely approximate
+multiple scales
+closely tied
+digitally rereferenced
+wide area
+area v4
+n1 amplitude
+synchrony analyses
+current paradigm
+filter frequency
+hemisphere contralateral
+largest contralateral
+myriad perceptual
+unified percept
+perceptual grouping
+n1 component
+parietal locations
+stimulus appeared
+discrimination process
+erp results
+attended location
+instantaneous phases
+cued hemifield
+active reliably
+stimuli appearing
+individual subjects
+supplementary material
+unattended information
+2 387
+
+combined data
+scalp potential
+covert attention
+analyses showed
+temporal relationship
+close approximation
+detailed discussion
+scalp eeg
+random set
+spherical splines
+rectangular distribution
+band-pass filtered
+generally restricted
+distributed neurons
+experimental comparisons
+potential data
+contralateral electrodes
+unattended stimulus
+common frequency
+local features
+local features ¨
+cogn neurosci
+unattended locations
+attentional deployment
+behavioral studies
+mentioned earlier
+eeg records
+nonstandardized amplitude
+analytic amplitude
+earlier reduction
+eeg signal
+amplitude correlation
+unattended stimuli
+auditory perception
+neuronal coherence
+neuronal models
+dipole sources
+widespread electrodes
+reliable patterns
+spatial derivative
+relevant sets
+positive component
+p1 component
+negative component
+coordinated synchronization
+true synchronization
+basic evidence
+electrode recordings
+attentional modulation
+instantaneous amplitudes
+posterior electrodes
+larger amplitude
+erp analysis
+positive values
+separate script
+extensive modeling
+hemifield yield
+tight correspondence
+extensive rationale
+negative values
+script computes
+a6
+left frontal
+subjects attended
+scalp potentials
+previous studies
+higher cognition
+measuring plvz
+prominent increases
+nonlateralized increases
+noisy signals
+electrode contralateral
+intracranial electrodes
+fourier analysis
+significantly larger
+distracter suppression
+reliably shifting
+action potentials
+positions relative
+relative phases
+attentional focusing
+previous study
+previous work
+theta oscillations
+electrophysiological measures
+results apply
+neocortical dynamics
+presented contralateral
+attention reaches
+focus attention
+supplemental material
+shuffled 200 times
+hilbert transforms
+hilbert transform
+specific relevance
+reference electrode
+parietal electrodes
+plvz values
+cue appeared
+volume conducted
+pattern reported
+attentional maintenance
+fourier amplitudes
+erp analyses
+target stimuli
+recorded eeg
+standardized amplitude
+neurosci lett
+task demands
+task relevance
+arrow cue
+scalp voltages
+scalp divergence
+plausible mechanism
+scalp surface
+general mechanism
+mechanism operates
+reliable indicator
+covert deployment
+main effect
+experiment reported
+noisy data
+data cited
+data set
+data strengthens
+group data
+erp modulation
+sustained increase
+eeg studies
+cued location
+relative amplitudes
+amplitudes relative
+normal distribution
+saitama 351-0198
+carpenter mr
+1 cm intervals
+false positives
+discovery grant
+nagarajan ss
+monkey v1
+2nd edition
+filtered waveform
+de/~allefeld/index
+measurement intervals
+rights reserved
+knight rt
+representational contents
+2136 west mall
+graduate school
+regan jk
+statistical reliability
+morlet wavelet
+confidently reject
+386--396 doi
+general relevance
+theoretical bridge
+geissler hg
+ww norton
+wijesinghe rs
+intercolumnar inhibition
+reference-free measure
+simpson gv
+spline interpolation
+barbaro nm
+ivry rb
+alternative approach
+precue baseline
+rorie ae
+analytic signal
+computer monitor
+brandt sa
+heinze hj
+show
+wide range
+dynamically assigned
+location results
+coherent perception
+lalor ec
+50/50 probability
+nonsynchronous neurons
+binocular rivalry
+doran sm
+natural sciences
+reynolds jh
+stephanie thai
+tucker dm
+successful shift
+covertly attend
+surrogate method
+vertical axes
+nonstandard sites
+vivian pan
+white lines
+cadusch pj
+snyder crr
+davidson bj
+faster responding
+emphasize inspection
+finger shock
+reflecting variations
+nonlinear sciences
+soc lond
+¨ scene segmentation
+significant increase
+universal concept
+elger ce
+sam@psych
+wetrdorp af
+rapid-serial-visual-presentation stream
+motor output
+consistently received
+subject group
+averaged mastoids
+independent shufflings
+large repertoire
+separate hemispheres
+muller mm
+dalal ss
+mental rotation
+forward calculating
+receiving neurons
+keiichi kitajo1
+highly integrated
+foxe jj
+subsequent reversal
+legendre polynomials
+experimentwise type
+spatially segregated
+process thought
+hemisphere v1s
+5th percentile
+d11 d12
+associative learning
+intentional agent
+outer canthi
+black lines
+anticipatory biasing
+awake monkey
+silberstein rb
+lauren emberson
+waberski td
+distortions involved
+reilly rb
+emergent intelligence
+smoothed signal
+random time
+side contralateral
+attentional interpretation
+signals recorded
+arrow cues
+frequency interval
+po8 showed
+2 successive targets
+earlier study
+unattended location
+scalp electrodes
+recorded potentials
+potentials recorded
+attention deployment
+cue onset
+deep sources
+shallow sources
+stimulus presented
+paradigm identical
+report lateralization
+standardized relative
+cue remained
+directional cue
+cue condition
+cue conditions
+data point
+results support
+stimulus display
+occipitotemporal electrodes
+59 electrodes positioned
+implanted electrodes
+electrodes typically
+frontomedial electrodes
+recording electrodes
+address correspondence
+common object
+somatosensory stimulation
+target onset
+sample point
+chosen due
+44--66 hz
+70--120 hz
+observed persist
+36--43 hz
+8--12 hz
+theta frequency
+4--7 hz
+1 hz intervals
+time frame
+uncued location
+electrical source
+target neuron
+baseline interval
+subsequent target
+displayed epoch
+spatial direction
+precue interval
+reduced epochs
+left cue
+p1 amplitudes
+neuronal basis ´
+bmc neurosci
+sensors distributed
+source analysis
+n1 components
+reliable decreases
+erp waveforms
+multiway analyses
+3 stimulus side
+found evidence
+neurons activated
+approximate scd
+roughly equivalent
+carsten allefeld
+100--200 ms
+essentially equivalent
+recorded bipolarly
+recent times
+traditionally focused
+250--300 ms
+75--150 ms
+nonocular artifacts
+kreiter ak
+wavelet methods
+subsequent decoupling
+100 sample points
+1000--1200 ms
+berger ms
+compute scd
+inferred scd
+volumes recorded
+left cues
+electrode impedances
+recording electrode
+specific time
+target presentation
+significant 3-
+significant decrease
+unattended distractors
+effect endured
+scd analysis
+mangun gr
+gamma
+attention maintenance
+electrodes po7
+subjects learn
+9 subjects included
+instruct subjects
+gamma-band
+plv analysis
+plotted data
+artifact-free epochs
+retained epochs
+sharply delineated
+directly compared
+early reduction
+sophisticated algorithms
+deployed endogenously
+analyzing erps
+hillyard sa
+nature neuroscience 4
+large number
+sparse array
+nearby frequencies
+sending neuron
+strongly anchored
+rosenblum mg
+canolty rt
+normal tissue
+examining erps
+lamme vaf
+transient
+kelly sp
+posner mi
+vogel ek
+produces
+picton tw
+freeman wj
+averaged erps
+creating
+experimentally linked
+special relationship
+resulting index
+long distances
+targets presented
+electrodes p7
+time courses
+detailed time
+standardized plvz
+engel ak
+analysis techniques
+varela fj
+analyzed epoch
+neurosci methods
+ward lm
+reliably activated
+scalp affected
+fragmented pattern
+luck sj
+columns
+gray cm
+electrode pairs
+binding problem
+lateralized
+analyses focused
+lachaux j-
+lachaux jp
+calculated plv
+occipitoparietal electrodes
+meg
+greater
+nunez pl
+canada
+1
+
+explaining
+miltner wh
+burgess ap
+performed 2 sets
+specifically addressed
+considered extensively
+references
+bhattacharya
+vidal jr
+60 hz [passband =
+network
+pffiffiffiffiffi epoch
+found modulations
+electrode p7
+baseline period
+cue direction
+vector addition
+sliding window
+cat
+beta
+beginning
+task-relevant
+lateralization effects
+large-scale
+doesburg sm
+phase
+unequal increase
+9 analyzed subjects
+increased
+scd derived
+gruber wr
+priori prediction
+gazzaniga ms
+areas
+epochs analyzed
+analyzed epochs
+a1
+ða1
+include p7
+time points
+fixation point
+þ=/1
+/1
+maximal ~280 ms
+maximal ~300 ms
+epochs contaminated
+cortex
+standardized plvs
+perform
+memory
+reveal
+eye
+2 regions
+effectively deployed
+study replicated
+spurious
+hypothesized
+permissions@oxfordjournals
+research
+allowing
+receive
+regions
+electrode 3 side
+synchrony
+electrode poz
+priori hypothesis
+ward forthcoming
+activity
+p8 occurring
+synchronization
+visual
+þ=/2
+/2 þ
+/2
+important role
+active
+showed
+x1
+local
+maintain fixation
+electrode p8
+attended
+brain
+auditory
+predicted
+response
+worden ms
+recordings
+reported
+highly
+awareness
+ecog
+contralateral
+perceptual
+percept
+processing
+discrimination
+obtain
+widespread
+oscillations
+performance
+informed
+serves
+posterior
+enable
+finding
+alpha
+remove
+laplacian
+written
+previously
+earlier
+main
+eeg
+frontal
+amplitude
+information
+erp
+x2
+relevant
+evidence
+stimulus
+making
+significantly
+locations
+difference
+technique
+ða7þ
+located
+significant
+neurophysiol
+signals
+parietal
+increases
+potentials
+reduced
+suppression
+algorithm
+n1
+relative
+cued
+results
+dynamics
+attention
+specific
+frequency
+task
+scalp
+mechanism
+data
+onset
+positioned 6
+conductivity
+2 cm
+procedure
+filtered
+scenario
+maximum
+4 cm
+mastoid
+produce
+striking
+desynchronization
+eyes
+sam
+measure
+implements 1
+anchored
+pertain
+learning
+implements
+discussed
+coherence
+included
+coupled
+depending
+set
+reduction
+p1
+binding
+neurons
+baseline
+signal
+electroencephalogram
+integration
+statistics
+calculating
+objects
+resulting
+modulations
+le
+related
+interactions
+subject
+v1
+patterns
+made
+analysis
+targets
+larger
+2 sources
+sources
+paradigm
+left
+cue
+electrodes
+2 electrodes
+3 electrodes
+effects
+presentation
+point
+100 hz
+39 hz
+500 hz
+40 hz
+11 hz
+= 42 hz]
+18 hz
+observed
+target
+interval
+plvz
+case
+epoch
+source
+location
+university
+selection
+amplitudes
+calculated
+detection
+occurring
+bilateral
+cues
+neurosci
+pairs
+reliably
+deployment
+po7
+increase
+analyses
+standardized
+380 ms
+perception
+features
+responsible
+280 ms
+obtained
+600 ms
+methods
+support
+activated
+100 ms
+0 ms
+sd
+average
+220 ms
+recorded
+equivalent
+800 points
+scd
+present
+cambridge
+2 methods
+indicator
+175 ms
+1200 ms
+kreiter
+1000 ms
+400 ms
+constant
+priori
+240 ms
+focused
+times
+500 ms
+view
+theta
+200 ms
+650 ms
+allefeld
+decoupling
+artifacts
+p7
+electrode
+modulation
+analyzed
+effect
+plv
+science
+studies
+mangun
+2 studies
+figure
+figure 1
+figure 2
+figure 4
+2 389
+
+figure 3
+presented
+subjects
+13 subjects
+epochs
+598 epochs
+3584 epochs
+3530 epochs
+study
+work
+maintain
+algorithms
+method
+object
+posner
+techniques
+vogel
+freeman 2004
+complex
+lamme 2003
+frequencies
+prediction
+address
+sending
+plotted
+distractors
+2 ða4þ
+coordinated
+permissions
+splines
+cognition
+bursts
+array
+delay
+erps
+normal
+gazzaniga
+components
+early
+strongly
+``true
+important
+rosenblum
+shift
+hillyard 1991
+derived
+canolty
+conducted
+number
+relationship
+unequal
+focusing
+networks
+picton 2005
+kelly
+distances
+deployed
+oxfordjournals
+required
+include
+replicated
+index
+sharply
+effectively
+contaminated
+occipitoparietal
+linked
+forthcoming
+passband
+somatosensory
+pffiffiffiffiffi ­1
+display
+compared
+time
+engel
+burst
+varela
+ward 1998
+ward 2003
+maximal
+/
+occur
+direction
+luck
+reduce
+lateralization
+based
+gray
+pattern
+/ð
+maintenance
+þ /
+problem
+lachaux
+affected
+vidal
+side
+burgess
+waveforms
+basis
+nunez
+considered
+role
+performed
+decreases
+canada
+specifically
+plvs
+experiment
+3-
+decrease
+chosen
+integrated
+miltner
+nunez 1995
+bhattacharya
+found
+fixation
+poz
+period
+interpretation
+nature
+window
+sensors
+hypothesis
+addition
+doesburg
+consciousness
+trials
+gruber
+po8
+p8
+worden
+3844--3851
+499--515
+ali
+469--486
+consistent
+estimated
+singer 1991
+met
+interpret
+visible
+modulated
+separated
+05f
+naccache
+wang
+end
+elbert
+replacing
+1--37
+constants
+summing
+to-be-
+order
+tandem
+vary
+japan
+replicating
+fig
+frein
+represents
+reasonable
+lasting
+content
+edwards
+activities
+top
+confirming
+anovas
+postulate
+rejected
+rectified
+distance
+seated
+solely
+entail
+tsuchiya
+constancy
+singer
+sauseng
+notion
+striate
+substituting
+martinerie
+proposed
+kessler
+singer 2001
+brainweb
+reconstruct
+sharpens
+result
+birbaumer
+optimum
+buchel
+drawn
+//www
+ocular
+topology
+protect
+refinement
+variance
+contribution
+adapted
+3 psychophysics
+confident
+interest
+expected
+dots
+2 2 ða3þ
+quantities
+applied
+reciprocal
+characterize
+184--187
+confirmed
+suggest
+make
+makeig 2004
+1560--1563
+cycle
+4 years
+greatest
+shapiro
+bandwidth
+171--178
+regarded
+wright
+possibly
+boxes
+shadow
+standardization
+contradict
+deal
+martinirie
+vath
+bottom
+establish
+witte
+517--528
+ensure
+considerations
+rendering
+rely
+long-duration
+editor
+call
+form
+mysterious
+illuminating
+absent
+happen
+gevins
+frein ¨ ¨
+simulations
+proceedings
+test
+ribary
+fell
+9--21
+uncovered
+283--288
+leads
+finally
+uni-potsdam
+tononi 2004
+sign
+efficacious
+6048--6052
+understanding
+cercor
+appears
+supplying
+box
+trial
+plv1
+schack
+1506--1507
+grunwald
+makeig
+pernier
+phasecoupling
+give
+konig
+apparent
+envelope
+validity
+schabus
+appendix
+task-
+tokyo
+reviews
+474--479
+conversely
+9136--9140
+criterion
+influenced
+journals
+2 years
+2273--2277
+pikovski
+pikovsky
+djk
+possibilities
+doesburg1
+approximated
+eq
+shown
+accomplish
+suggesting
+possibility
+advantages
+org
+2077--2088
+place
+origin
+initial
+fries 2005
+george
+org/
+1f
+braun
+bauer
+posited
+instructed
+note
+midline
+differences
+rescher
+528--542
+8 males
+conjunction
+skull
+declared
+eliminating
+diver
+review
+1850--1862
+volkmann
+screen
+suppressed
+lutzenberger
+enabling
+rafal
+maintained
+electrocorticogram
+absence
+mazeheri
+borders
+1698--1702
+observe
+stronik
+irrelevant
+developing
+16--25
+prominence
+16--22
+arnold
+334--337
+zenith
+engaged
+eqs 3
+shifts
+html
+arguments
+1177--1179
+1 2     ­ ­ plvj
+investigated
+20 rc63
+lutz
+allocation
+edges
+gobbele
+synchronization/desynchronization
+desimone
+treisman 1996
+ward1
+speed
+rose
+ross
+real
+dissociable
+rules
+tissues
+netherlands
+weule
+duration
+sommer
+gross
+kaiser
+confirm
+refer
+9494--9502
+434--436
+communicate
+klaver
+comparison
+94--208
+referenced
+inclusion
+determine
+psychophysiol
+shrinking
+15 kx
+cats
+6 males
+kehr
+sinkkonen
+convolving
+roggeveen1
+blinks
+cheyne
+83--98
+valid
+moller
+figs 2
+includes
+peak
+author 2007
+207--211
+buchner
+expressions
+disk
+3291--3294
+erpss
+prolonged
+contributions
+revealing
+kitajo
+1--6
+lavikainen
+termination
+prior
+subtended
+published
+editors
+decrement
+comparing
+tallon-baudry
+discrepancy
+2 boxes
+taub
+recall
+[amsterdam
+f1
+f2
+rodriguez
+arise
+goal
+srinivasan
+1259--1264
+1522--1528
+perrin
+plane
+3 years
+reappeared
+keil
+57--60
+schaller
+nietzel
+rois
+detected
+freund
+propose
+association
+2a
+2b
+2c
+lutzenberger 2005
+energy
+operation
+clarity
+psychology
+issue
+lawrence
+reason
+accumulation
+exhibited
+concluded
+encoding
+instances
+430--433
+leading
+assumption
+calculations
+agnld
+shifted
+tallonbaudry
+part
+replicates
+center
+kind
+pascual-leone
+elsevier
+extracted
+play
+kurths
+electric
+approved
+553--559
+subgroup
+dividing
+failed
+tsuchiya 2006
+strum
+13050--13055
+2917--2926
+6 years
+familiarity
+hippocampus
+selectively
+feldmann
+context
+kirsch
+reasons
+phase-locked
+naccache 2001
+bertrand
+initiation
+change
+understand
+error
+fernandez
+magnetoencephalography
+gevins 1993
+averaging
+inion
+neuroreport
+conflict
+development
+weinberg
+29--32
+sums
+transitory
+koch
+entry
+tass
+echalier
+inactive
+klimesch
+eckhorn
+showing
+emergence
+delorme
+pronounced
+scale
+eliminate
+digitized
+12--18
+simulation
+2laboratory
+locus
+160--174
+contreras
+question
+eeglab
+laplacians
+properly
+directed
+electro-oculogram
+fries
+229--239
+defined
+coincides
+2 391
+
+sleep
+petsche
+invalid
+application
+department
+occurred
+structure
+age
+amplified
+excluded
+indicating
+4244--4254
+notes
+deleting
+biased
+demonstrations
+waking
+keywords
+ali 2002
+naatanen
+consideration
+161--177
+suggests
+treisman
+190--203
+summation
+classically
+woelbern
+integrating
+averages
+control
+91--100
+establishment
+readiness
+light
+superior
+hommel
+reinikainen
+indexing
+tiitinen
+doppelmayr
+identified
+accompanied
+activate
+1626--1628
+egly
+peronet
+integrates
+soltani
+attending
+york
+interaction
+explored
+cingulum
+assumed
+reached
+alho
+explanation
+a1--a6
+collecting
+apparently
+schnitzler
+chaumon
+732--744
+fact
+text
+supported
+subtracting
+means
+interpreted
+shi
+requirement
+computed
+humans
+extend
+stadler
+email
+key
+part 1
+143--163
+instant
+renault
+estimation
+ca
+cf
+llinas
+­ ­ plvj
+foucher
+proposal
+sufficient
+al
+arisen
+1057--1074
+order 4
+appearance
+promoted
+eur
+thut
+surprisingly
+propensity
+1139--1142
+http
+v2
+reflection
+2 things
+singer 1989
+stored
+coordination
+add
+extends
+maintaining
+tests
+pedroarena
+2074--2085
+schmitz
+success
+biomagnetism
+3 validity
+overlap
+e-mail
+transmitted
+demonstrated
+introduces
+132--186
+81--94
+transfer
+dehaene
+function
+alexa
+gain
+evident
+2 395
+
+tononi
+lehnertz
+record
+int
+exceeded
+education
+variety
+conclusion
+1841--1849
+ubc
+eog
+þ =
+291
+± 0
+109
+103
+101
+95
+97
+1991
+1990
+1993
+1994
+1997
+1999
+1998
+1377
+397
+05 3 40
+10
+17
+01
+05
+51
+~ ð
+0
+1995
+311
+1
+1996
+2
+11
+14
+16
+19
+18
+200
+]
+``3
+3
+24
+26
+22
+þ 1ð
+65
+< 0
+4
+´
+20 000
+5
+6
+9 = 19
+28
+= ­1
+2°
+7
+93
+9 = 24
+353
+75
+9 = 5
+9 = 7
+9 = 6
+31°
+8
+= 38
+313
+ð
+9
+432
+97°
+72
+79
+40 ­
+2002
+2003
+2000
+2001
+2006
+2004
+2005
+64°
+37
+35
+34
+338
+130
+134
+708
+88
+81
+86
+327
+=
+123
+´ 2001
+49
+þ
+115
+252
+111
+110
+1987
+1980
+1989
+89
+46
+47
+44
+42
+40

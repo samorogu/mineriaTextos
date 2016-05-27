@@ -1,0 +1,2628 @@
+genome location
+
+saccharomyces paradoxus saccharomyces mikatae saccharomyces bayanus saccharomyces servazzii zygosaccharomyces rouxii kluyveromyces lactis pichia angusta
+
+dnfllrlsqs ipnlkhldlr acdnvsdsgv vcialncpkl ktfnigrhrr dnfllrlsqs ipnlkhlvlr acdnvsdsgv vcialncpkl ktfnigrhrr
+bud9 dse3 cst13 isr1 ykl132c dse2 dse1 scw11 pry3 sun4 egt2 dse4
+
+16
+
+chr 2 locus
+seg 1 seg 2 seg 3 seg 4 seg 5
+
+linkage
+seg 1 seg 2 seg 5 seg 3 seg 4
+human-specific transcription factor binding site regulating il4 expression
+malarial parasite plasmodium falciparum shows remarkably little22
+promising research directions include greatly increasing sample sizes
+determine genome segregation
+
+profile gene expression
+
+correlate genotype
+option=content&task=view&id=217 access
+ret enhancer underlies hirschsprung disease risk
+underlie expression traits display considerable allelic heterogeneity
+global molecular phenotyping includes measuring gene expression
+jane coffin childs memorial fund
+trans-acting regulatory variation affecting spatial regulation107
+recent positive selection transformed opioid cis-regulation
+complex inheritance reveals marked sex specificity
+/reviews/genetics
+
+© 2006 nature publishing group
+
+reviews
+box 1
+transcript abundances exhibit substantial genetic complexity
+assay techniques -- allele-specific quantitative pcr49
+subsequent studies documented abundant heritable variation
+greatly assist candidate gene identification1
+previously genotyped ceph reference families
+brain expressed genes influences transcriptional activity
+epigenetic variation affecting human gene expression
+quantitative trait loci underlying gene product variation
+inferring gene transcriptional modulatory relations
+ceph individuals previously densely genotyped
+local versus distant qtls transcript levels differ
+/reviews/genetics
+
+© 2006 nature publishing group
+
+reviews
+0
+/reviews/genetics
+
+© 2006 nature publishing group
+
+reviews
+/reviews/genetics
+
+© 2006 nature publishing group
+
+reviews
+20
+pleiotropically affects multiple gene expression traits
+exploiting naturally occurring dna variation
+spurious transcription factor binding sites
+gene expression
+dramatic recent progress
+resolve multiple locally linking loci
+867
+
+© 2006 nature publishing group
+
+reviews
+box 3
+863
+
+© 2006 nature publishing group
+
+reviews
+box 2
+chromosome 21 promoter polymorphisms influence transcriptional activity
+average individuals exhibit cis-acting heterozygosity
+saccharomyces cerevisiae revealed
+array-based methods approach genome-wide scope
+haplotype tag single nucleotide polymorphisms
+physically clustered genes show linkage
+major directions involve expanding
+local regulatory variation
+neighbouring gene cis-regulatory
+documented abundant cis-acting genetic variation
+/reviews/genetics
+
+© 2006 nature publishing group
+variable traits exhibit cis-acting variation
+saccharomyces cerevisiae
+saccharomyces
+
+cerevisiae
+empirical study mapping global gene expression
+affect hematopoietic stem cell function
+parent
+
+rm parent
+
+seg inherit
+heritable transcripts show transgressive segregation29
+outstanding unresolved question concerns
+mcdonnell foundation centennial fellowship
+species show ubiquitous heritable variation
+population biology -- population sizes
+869
+
+© 2006 nature publishing group
+
+reviews
+865
+
+© 2006 nature publishing group
+
+reviews
+871
+
+© 2006 nature publishing group
+
+reviews
+99
+altering classic cis-acting regulatory elements
+duffy blood group locus
+expression traits involves multiple qtls
+transcription factor gene runx1 acts
+shaped heart disease risk
+exciting times lie ahead
+governing cuticular hydrocarbon variation
+modulate nervous system function
+implying considerable genetic complexity
+inherit rm
+
+chr 2 locus
+human white blood cells
+linkage 12 10 8 6 4 2 0
+
+daughter-cell specificity
+rm
+include characterizing cellular properties
+drosophilists documented distant linking
+scanning human gene deserts
+quantitative twodimensional protein gels61
+distant regulatory variation typically acts
+cis-acting expression quantitative trait loci
+genes exhibited cis-acting heterozygosity
+quantitative traits resists generalization
+genetically diverse population harbours
+gene expression uncovers polygenic
+involved simple line crosses
+potentially improve mapping power
+genome-wide expression studies provide data
+expression quantitative trait loci mapping
+basic questions remain unanswered
+modern large-scale studies owe
+archetypal trans-acting transcriptional regulators
+experimental reporter assays66­69 --
+entire lignin biosynthesis network
+transcripts statistically significantly exceeds
+phenotypic state space explored
+nap8 proposed genetic mapping
+global gene expression begins
+global gene expression
+matthew
+qtn
+quantitative trait nucleotide
+global expression analysis merges
+sort heritable phenotypic variation
+plasmodium falciparum strains
+line represent hot spots
+allele-specific gene expression uncovered
+strain-specific gene expression mapping
+300 250
+
+linkages
+
+200 150 100 50 0 0 100 200 300 400 500 600
+
+genome location
+
+figure 4
+local versus distant loci
+empirical significance levels obtained
+connecting dna sequence variation
+strictly positional terms local
+naturally recombinant yeast strains
+interacting qtls found non-additive interactions
+gene expression appeared immediately
+segregant average expression differing
+gene expression variation entered
+yeast cross appeared early
+shown extensive sex dependence
+local qtl influencing expression
+recombinant inbred lines
+panels
+traits -- thousands --
+strong recent positive selection
+regulatory variant affects expression
+distant regulatory variation
+
+figure 3
+554 human gene expression traits
+seg rm
+
+figure 1
+traits show directional genetics29
+local regulatory variation acts
+current genome-wide linkage methods
+measurement scale -- values
+global gene expression measured
+abundant raw material
+quantitative trait locus analysis
+294 expression traits show linkage
+influences diet choice
+microarrays yield linear measures
+expression qtl hot spots
+observed effect sizes represent
+qtl
+quantitative trait locus
+major pleiotropic trans-acting loci
+seg rm
+
+average
+measuring trait-by-trait averages
+multiple locus linkage analysis
+underlie gene expression variation
+gene expression typically explain
+understanding quantitative genetic variation
+distant regulatory variation identified
+seg rm
+
+high
+haematopoietic
+
+stem cells12
+genome-wide scan reveals
+measuring allele-specific expression
+genome-wide gene expression genetics
+quantitative trait loci mapped
+documented heritable variation
+alternatively expressed loci
+underlying regulatory networks1
+dashed line shows
+actual sequence polymorphism responsible
+genome-wide global quantities
+factor vii locus
+reference human pedigrees
+@marker
+
+seg inherit
+references 11­13 describe extensive studies
+adult mouse brain
+mouse brain proteome
+represent solid ground
+accumulation
+
+nature reviews
+larger sample sizes
+cis-acting allelic variation
+global expression assays18
+core meiotic transcriptome
+international hapmap project
+competing interests statement
+membrane-spanning ion channels
+primary transformative potential
+competing financial interests
+cold spring harb
+transcription network inference
+taxa rapidly accumulated111­113
+upstream regulatory element
+basic evolutionary biology
+recombinant inbred lines
+classic paper proposed
+human promoter polymorphisms
+nonrandom close location
+altering cellular ph
+altering message stability
+genetically diffuse version
+groups differ significantly
+integrated transcriptional profiling
+extensive sex-specific nonadditivity
+heterogeneous organismal phenotypes10
+allele-specific krt1 expression
+allele-specific expression arrays63­65
+global gene expression
+multiple testing correction
+genes underlying disease
+exponential model developed
+larger sample sizes40
+experimental allergic asthma
+human gene expression
+separate quantitative trait
+allele-specific protein quantification
+proximal promoter function
+apparent hot spots
+detected qtls typically explain
+gene ontology categories
+genome-wide expression mapping
+underlying molecular nature
+trans-acting regulatory variation
+regulatory variation acted
+highdensity oligonucleotide array
+implicit mechanistic connotations
+requisite empirical data
+61 scoring spot intensities
+recombinational fine mapping9
+multiple underlying loci
+uncovering regulatory pathways
+fat mass trait
+parent rm parent
+
+­2
+parent rm parent
+
+­0
+parent rm parent
+regulatory sequence variation
+principal component analysis
+analysis refocused attention
+quantitative trait mapping
+local regulatory variation49
+loci previously identified
+cis-acting local variation
+allelic differential expression
+drug response traits
+genome-wide genetic analyses
+red star denotes
+triggering
+
+feedback loops
+cumbersome positional approaches
+f1 heterozygotes differs
+biological meanings abound
+global transcript levels
+human cell lines
+genome-wide gene expression
+tissuespecific gene expression
+gene expression builds
+genome transcriptome analysis
+classic cis/trans tests
+homozygous strains generated
+cdna microarray data
+global molecular phenotypes
+quantitative trait locus
+comprehensive mutation detection80
+small array section
+ultimate hot spot
+earliest genetic mapping
+report genetic mapping
+genome-wide genetic mapping
+lignin biosynthesis genes
+underlying genetic architectures
+large-effect mutations represent
+nucleic acids res
+space constraints prevented
+pleiotropic qtl --
+expression traits share
+explicit statistical model
+male drosophila simulans
+model systems promises
+plot show examples
+quantitative genetic variation
+human growth hormone 1
+db=gene amn1
+distant regulatory variation
+messenger rna processing
+central proving ground
+long-range cisacting regulator
+dna sequence variation
+
+862
+local regulatory variation
+detecting multiple qtls
+transcript levels historically
+local conditions differ
+gene expression surveyed
+transcriptome genetic variation
+evolutionary developmental biology
+called `master regulators
+cross-species sequence comparisons
+rm seg
+identify functional relationships
+allele-specific measurement techniques
+organismal phenotypes speeds
+gene expression variation
+global phenotyping
+expression qtls exist
+functionally related genes
+sexually dimorphic genes
+complex haplotype-dependent influence
+combine linkage analysis
+estimated 100­200 loci accounted
+underlying common polymorphisms 73
+studying gene expression
+multiple statistical tests
+homozygous parental strains
+crossing parental strains
+false-positive results increases
+quantitative traits
+phenotypes
+multiple trait analysis
+gene expression trait
+multiple phenotype modeling
+dna microarray analysis
+infer causal associations
+allele frequency distributions116
+effect-size
+
+estimates averaging 27­29%
+single dna microarray
+allelic heterogeneity
+700 gene expression traits
+gene expression traits
+quantitative trait loci
+possibly interacting genetic
+affect gene expression
+total phenotypic variance
+phenotypic variance contradicts
+estimated effects benefit
+gene expression differs
+affect multiple traits
+linkage hot spot
+citing additional work
+molecular profiling data
+quantitative trait nucleotides
+parent means
+
+segregant
+information
+gene ontology
+gene regulating
+revealing complex traits
+electrophoretically distinguishable alleles
+gene expression represents
+distant regulatory loci
+organismal phenotype makes
+greater statistical care
+median phenotypic effect
+total genome-wide number
+multiple testing problem
+common sex-dependent mutation
+17 extended linkage studies
+find genetic loci
+combine multiple alleles
+expected initial steps
+single genetic locus
+empirical threshold values
+including epistatic interactions
+integrative genomics approach
+organismal phenotypes point
+genome location
+affect transcripts encoded
+coordinated genetic regulation
+population genetic analysis
+larger population samples
+genotypic space surveyed
+seemingly simple questions
+org/ leonid kruglyak
+leonid kruglyak
+
+abstract
+qtls represent mutations
+multiple association analysis
+alter gene expression
+genetic regulatory mechanisms
+human genes measured
+genetical genomics approach
+eucalyptus genome sequence
+mapping mrna abundance
+locus control region
+estimated genome-wide number
+common statistical artefact
+maize f1 hybrid
+maize line cross
+count multiple times
+mapping studies reveal
+protein product
+essential structural protein
+empirical linkage study
+molecular genetics tools
+yeast segregant population
+transcript levels measured
+traits examined increases
+low statistical power
+affect expression remains
+transcripts showing linkage
+single local qtl
+multiple mouse tissues
+gene copy number
+genetical genomics analysis
+complex trait analysis
+resulting data set
+distinct transcripts linked
+laboratory populations maintained
+promising candidates
+variable transcription due
+statistical genetics techniques23
+underlie distant loci
+detailed molecular characterization
+yeast transcription factors
+understanding genetic variation
+human studies carried
+dna sequence level
+segregants showing expression
+including non-cell-autonomous effects
+combining multiple transcripts
+regulate distant genes
+fitness differences attributable
+complex genetic architectures
+detect local linkages
+transcription factor
+protein abundance measured
+genetic variance
+
+low
+significant genetic differences
+segregating mouse population
+causative polymorphisms responsible
+population association studies
+affect transcript abundance
+neighbouring gene
+amylase structural genes
+physical location
+empirical research
+genomic location
+measure influence contributions
+results declared significant
+affect large numbers
+common feature observed
+chr
+studies describe results
+altering sites
+coding region represents
+additive genetic effects
+human genome
+inherited marker alleles
+low detection rates
+local loci discovered
+affects expression
+nature reviews
+reveal important connections
+finding functional polymorphisms
+postmodern view
+proximal promoter
+include considerations
+binding motifs
+one-primer assay
+research groups
+candidate sites
+include polymorphisms
+regulatory elements
+trans gene regulation
+phenotypes --
+entire genome
+heritable variation
+mapped qtls explained
+allelic variation
+genome-wide expression
+complement factor 5
+transcripts linking
+allele-specific expression
+experimental crosses
+quantitative trait
+trans-acting variation
+genome-wide variation
+genome expression
+hot spots
+regulatory locus
+candidate gene
+multiple levels
+global phenotypes
+quantitative traits
+regulatory variation
+regulatory function
+dna elements
+differential transcription
+inbred lines
+effect sizes
+transgressive segregation
+3
+evolutionary biology
+simple approach
+transgressive segregation
+expression levels
+dna sequence
+mapping population
+heritable phenotypes
+gene mapping
+showing expression
+inherit rm
+transcriptional variance
+classic paper
+quantitative phenotypes
+global comparison
+cis-acting polymorphisms
+genome-wide associations
+recent studies
+genome-wide scale
+substantial fraction
+reviews
+
+genetics
+gene expression
+transcriptional plasticity
+transcriptional regulation
+positive selection
+empirical results
+multiple traits
+molecular gene
+expression data
+dissect disease
+heritable variation33
+message levels
+hot spot
+molecular pathways
+parent values
+major qtl
+genetic mapping
+complex genetics29
+trans-acting variant
+structural locus
+trans-acting factors
+transcription factors
+phenotypic variation
+expression profiling
+distant variation
+8 seg
+5 seg
+seg
+expression traits
+expression
+
+traits
+columns show
+affect expression
+actual linkage
+regulatory variant
+parent strains
+local variation
+amn1 gene
+single locus
+regulatory region
+trait variation
+links box
+current members
+genome-wide association
+false positive
+genome res
+column shows
+statistical artefact
+modern studies
+cell lines
+major source
+medical research
+linkage
+
+inherit
+molecular nature
+multiple qtls
+transcript levels
+genetic complexity
+inbred strains
+trans-acting effect
+mapping qtls
+underlie variation
+genetic sample
+regulatory hierarchies
+regulatory variation110
+regulatory mutations
+regulatory regions
+genetic variation
+multiple loci
+expression phenotypes
+population genetic
+feedback variation
+genetically complex
+interacting qtls
+allele-specific repression
+expression qtl
+statistical tests
+causative gene
+local linkage
+possibly interactions
+trans-acting effects
+statistical methods
+leonid@genomics
+organismal phenotypes
+interacting loci
+0
+multiple studies
+multiple classes
+multiple polymorphisms
+62 describe classic
+single trait
+association mapping
+mapping determinants
+mapping experiment
+causal inference
+mapping studies
+typically preselected
+statistical significance
+represent haplotypes
+linkage analysis
+functional analysis
+high levels
+parent means
+cis-regulatory variation
+trait values
+coding sequence
+strong qtls
+population genomics
+regulatory genes
+genetic analysis
+lignin revealed
+microarray technology
+significantly concentrated
+final variable
+estimated ratios
+parental strains
+simple inheritance10
+genetically mosaic
+extends significantly
+tissue-specific expression
+relative expression
+genomewide expression
+genetic interactions
+inbred parents
+distant qtl
+integrative genomics
+molecular components
+molecular mechanisms
+molecular function9
+molecular natures
+false-positive qtl
+phenotypic space
+interacting effects
+detailed analysis
+yeast genome
+recent years
+sampling properties
+strong signature
+reporter assays69
+directional selection
+reporter assays
+cell-typedependent influence
+runx1 regulation12
+heterozygous individuals
+unrelated individuals
+emerging approach
+distant qtls
+genetic inheritance
+susceptibility locus
+phosphoglucomutase locus
+unlinked locus
+typical locus
+phenotypic variance
+quantitative genetics
+genome-wide detection
+human evolution
+single mutation
+detect qtls
+sample size
+genetical genomics
+model inspired
+conceptual model
+nucleotide resolution
+`genetical genomics
+experimental follow-
+complex trait
+genetic architectures
+local qtls
+distant loci
+loci distant
+evolutionary analysis
+autoregulatory variation
+natural variation
+polymorphic variation
+high-throughput techniques
+population studies
+developing techniques
+mathematical techniques
+population association
+traditional techniques
+function altered
+entrez gene
+nearby gene
+autoregulatory gene
+gene expression6
+gene regulation
+gene expr
+gene activity102
+lactase gene
+gene encoding
+susceptibility gene
+encoding gene
+common feature
+complex traits
+local loci
+phenotypic divergence
+phenotypic information
+significant linkage
+regulatory role
+high power
+distant regulation
+distant distinction
+distant transcripts
+molecular dissection
+trait variance
+underlie differences
+long-range enhancers
+identify 5-lipoxygenase
+multivariate data
+careful control
+systematic scan
+changing transcription
+integrating genotypic
+mechanistic distinctions
+dna titrates
+coordinate regulator
+sufficient data
+nonrandom association
+determine
+breeding systems
+directly testing
+regulate 51­53 means
+location
+developmental stages
+chosen point
+diploid hybrid
+oligonucleotide arrays
+genetic differences
+qtls underlie
+local qtl14
+biological differences
+rm allele
+genetic region
+complex inheritance
+genetic variance
+average explain
+genomic analysis
+association analysis
+single traits9
+linkage peak
+conventional linkage
+linkage disequilibrium
+linkage localization49
+linkage studies
+genetic loci
+segregating population
+gene-expression measurement
+functional polymorphisms
+genetical theory
+power advantages
+functional rna
+measurement replication
+tissue expression
+expression explained
+traits require
+traits offer
+traits distributed
+traits accessible
+correlated traits
+transcript-level traits
+discrete traits
+bone traits
+observed variation
+geneby-environment interactions
+association methods
+classical methods
+interchromosomal interactions
+true values
+multipoint methods
+called qtls
+multiple environments
+distant genes
+gene structure
+classic definition
+experimental design
+pleiotropic loci
+genetic regulation
+genetic uniformity
+genetic map1
+genetic formulation
+genetic studies
+genetic variance29
+genetic correlations
+genetic signatures
+common qtls
+structural genes
+special feature
+autoregulatory feedback
+causative polymorphisms
+causal mutations
+interchromosomal associations
+circle denotes
+arrow denotes
+5 cis-regulatory region
+affecting
+study population
+population samples
+significant qtl
+drosophila amylase
+fine structure
+nature immunol
+nature rev
+single-locus inheritance
+common loci
+balancing selection
+natural selection
+716 distant linkages
+distant linkages
+amylase loci
+single genes
+progenitor strains
+detailed description
+continuous variation
+cell factor-1
+called epistasis
+single phenotype
+significant qtls
+trait depends
+non-functional `cis-regulatory
+cis-regulatory polymorphisms
+expression level
+local linkages
+transcript abundance
+mouse brain13
+mutation alters
+small molecules
+mouse cross10
+small molecules95
+mouse cross
+bmc genomics 7
+qtl explain
+genetic dissection
+statistical arguments
+environments surveyed
+complex correlations
+immediately connected
+immediately classified
+complex signatures
+evolutionary problems
+genome biol
+individual traits
+pleiotropic effects
+molecular genetics
+genetic interaction
+genetic basis
+actual number
+factors fixed
+high proportion
+high percentages
+deemed significant
+significant amount
+environmental factors
+studying thousands
+high end
+hot-spot qtls
+strongest qtls
+additive qtls
+typical qtls
+mapped qtls
+qtls explain
+affected gene
+confidence region
+traits examined
+genetic samples
+called `genes
+growth rates
+small effects
+loci identified
+gene action
+esterase gene
+population genetics
+mouse genes
+amylase genes
+special attributes
+manifold anomalies
+national academy
+selective forces83
+genetica 52/53
+hindering comparisons
+non-expression phenotypes31
+randomly distributed
+pressing issues
+false positives
+binding
+hot-spot status
+casual conflation
+terms cis-
+natl acad
+specific nutrients
+natural assumption
+rat kidney
+dimensional reduction
+direct evidence
+fuller understanding
+plant metabolism
+targeted experiments
+fewer variables
+phylogenetic evidence
+examining heritabilities
+outbred populations
+f2 cross
+polymerase loading60
+technical definitions
+dark green
+van hummelen
+large classes
+mmp3 regulation
+budding yeasts
+simply mutations
+tightly linked
+falsediscovery rate
+earlier extrapolation
+volume 7
+
+www
+confident inferences
+rainbow trout
+nearby polymorphisms
+hold promise74­77
+assayed simultaneously
+genomic regions
+van eeuwijk
+taking advantage
+two-dimensional gels
+stringent thresholds
+sophisticated definitions
+physical contact
+infinitesimal theory
+enzyme inducibility109
+ideally suited
+prescient treatment
+tree growth15
+distinction captures
+natural populations
+lewis-sigler institute
+maintaining variation84­93
+association studies
+remains tortuous
+mental health
+regulatortarget pairs
+environmental variables
+mammal focused
+bar represents
+small-scale studies
+precocious introduction
+including proteins62
+main mediator
+natural variations
+methodological advances 39
+dozen species
+permutation tests40
+readily confused
+demographic histories
+reaction norms
+& de vienne
+parallel results
+external perturbations
+smaller studies10
+emerging technologies
+vineyard isolate
+extend studies
+dimension reduction
+shed light
+general principles
+random error
+universal subphenotype
+interspecific backcross
+rich history
+enzyme activities
+argument runs
+heterozygous diploid
+american association
+preaxial polydactyly
+general mutations
+routine observation
+clear understanding
+methodological aspects
+technically infinite115
+s-adenosylmethionine synthase
+plausible alternative
+blue rectangle
+main characteristics
+gene-mapping studies
+anecdotal examples
+multicellular organisms
+simultaneous genotyping
+simulated annealing
+national institute
+r1­r7
+& di rienzo
+false-discovery rate
+genomewide studies
+maximizes support
+clear bias
+exogenous molecules
+analyzing regulation
+random populations
+mrna decay
+theoretical proposal
+whole-genome genotyping
+nature genet
+coding region
+drosophila melanogaster 6
+drosophila melanogaster
+individual qtl
+detection rates
+combined effect
+modest effect
+largest effect
+`neighbourhood effect
+effect size
+effect sizes29
+genetic architecture
+locus identification
+defined qtls
+loci segregating
+individual qtls
+cis-regulatory haplotypes
+sampled traits
+pleiotropic networks
+appreciable effects
+directional genetics
+2
+directional genetics
+gene evolution
+gene identification
+qtl allele
+individual loci
+target genes
+dispensable genes
+pinpoint genes
+biological interest
+genomic approaches
+phenotype deviates
+sophisticated approaches
+phenotype simpler
+bioinformatic approaches
+physiological phenotype
+extraordinary phenotype
+phenotype runs
+methodological problem
+yeast strains1
+yeast cross
+budding yeast
+consistently observed
+close connection
+gene-by-environment interaction
+documented
+detected qtl
+variance explained
+animal design
+parallel genotyping
+radical increase
+parallel proliferation
+lead directly
+bar heights
+relative contributions
+silico study
+bar height
+inferred linkages
+detected qtls
+qtls discovered
+factor
+examined simultaneously
+beavis effect
+plos genet
+trends genet
+genetic diversity
+detected loci
+extreme underestimate
+measurable heritability
+key finding
+unexpected finding
+allele frequencies
+genotyped
+--
+sex
+qtl number
+individual effects
+differences segregate
+linked marker
+kruglyak laboratory
+detected loci28
+individual genes
+small probability
+key role
+single-nucleotide resolution
+biochemical networks
+foundational work
+high number
+transcripts affected
+affected genes17
+questions turn
+coding polymorphism
+exchanging alleles
+cis-regulatory evolution
+maize depends
+chromosomal order
+linked online
+complications arise
+shoot development
+mutant enzymes
+establishes pleiotropy
+authors declare
+cell type
+geographic patterns
+direct consequence
+neutral theories
+behave similarly
+study samples
+differ
+coincidental colocalization
+oxford univ
+physical distance
+activity
+study design
+plant physiol
+arabidopsis thaliana9­21
+intermediate position
+monod103 introduced
+additivity depend
+unbiased set
+cis-regulation
+million snps
+insights provided
+chromosome
+fold change
+large number
+maximum number
+sheer number
+agricultural genetics
+genetics
+
+volume 7
+biometrical genetics
+physiological genetics
+heritability depends
+polymorphic markers
+million markers
+enzyme showed
+affects
+schwartz104 showed
+downstream effects
+increase resolution
+important role
+genes included
+cis-acting
+recent
+large fraction
+f2 progeny
+smaller fraction
+genomic locations
+transcripts link
+future studies
+haldane recognized
+inherent property
+tight clustering
+roughly half
+surprisingly difficult
+plos biol
+adaptive evolution
+high-throughput identification
+range defined
+commonly defined
+correlation structure
+maps close
+observed number
+allele carried
+increase linearly
+surpassed damerval
+princeton university
+heritable
+chance occurrence
+disease
+extreme forms
+blackwell science
+regional structure
+cis posttranscriptionally
+cases thousands
+scale-free networks
+special case
+show
+detection probability
+provide
+continuous scales
+shows
+transcription
+box 2
+box 3
+box 1
+non-additive
+nucleotide
+figure 2
+cells
+detected fraction
+regulatory
+act directly
+allele-specific
+multiple
+genome 17
+genome
+typically
+tissue types
+acts
+segregants fall
+arabidopsis thaliana
+time jansen
+rm
+genotype
+variable
+segregant
+expression
+based primarily
+levels
+runx1
+approach
+protein
+individuals
+segregation
+influence
+regulators
+times
+12 individuals
+markers tested
+locus
+complexity
+sample
+variation
+techniques
+inherit
+population
+function
+gene 366
+gene
+`distant
+distant
+dna
+panels
+data
+yield
+measures
+shaped
+dependence
+`local
+local
+average 25%
+average
+trait
+analysis
+single
+linkage
+power
+measurement
+tests
+traits
+methods
+interactions
+underlie
+affect
+genetic
+significance
+differs
+reveal
+scale
+nature
+nature 436
+nature 437
+nature 434
+nature 435
+nature 430
+nature 422
+nature 416
+transcript
+inheritance
+pleiotropic
+selection
+represents
+responsible
+results
+cell
+strains
+architectures
+cis-regulatory
+`cis-regulatory
+common
+mouse
+low
+mutation
+phenotypes
+genomics 16
+qtl
+complex
+evolutionary
+space
+differences
+variant
+significant
+measured
+qtls
+region
+variance
+loci
+
+0
+loci
+transcripts
+populations
+combining
+laboratory
+explain
+terms
+mutations
+information
+linked
+rna
+understanding
+studies
+additive
+ph 7
+nonadditivity
+mechanisms
+care
+threshold
+mapped
+declared
+connections
+characterization
+central
+polymorphisms
+large
+numbers
+species
+alter
+association
+regulation
+conditions
+nucleotides
+essential
+examples
+remains
+means
+including
+identified
+measure
+pedigrees
+describe
+cross
+comparisons
+tissues
+effect
+abundance
+effects
+melanogaster
+coding
+genes
+000 genes
+389 genes
+approaches
+phenotype
+dissection
+segregating
+problem
+yeast
+depends
+basis
+defined
+close
+structure
+interaction
+observed
+individual
+study
+parallel
+bar
+shown
+increase
+directly
+revealed
+samples
+important
+beavis
+design
+contributions
+growth
+linkages
+examined
+maize
+genet
+estimates
+explained
+allele
+tissue
+9 found
+heritability
+continuous
+arguments
+attributable
+found
+finding
+haplotypes
+explained >50%
+extreme
+polymorphism
+count
+detection
+marker
+thousands
+@marker
+& kruglyak
+detected
+work
+architecture
+references 16
+references 18
+role
+discovered
+resolution
+networks
+references 61
+references 49
+carried
+affected
+questions
+alleles
+downstream
+order
+classified
+similarly
+medical
+interest
+additivity
+online
+linearly
+level
+change
+commonly
+cases
+physiol
+forms
+pleiotropy
+112 segregants
+correlation
+colocalization
+scale-free
+000 snps
+microarrays
+changing
+provided
+distance
+included
+action
+arise
+maps
+enzymes
+oxford
+definition
+consequence
+eucalyptus
+authors
+position
+set
+17 sampled
+arabidopsis
+development
+segregate
+range
+primarily
+jansen
+decay
+5 esterase
+connected
+environments
+segregants
+patterns
+introduced
+neutral
+number
+genetics 47
+genetics 138
+genetics 137
+genetics 108
+genetics 103
+genetics 102
+genetics
+genetics 140
+genetics 92
+genetics 170
+genetics 171
+genetics 172
+genetics 168
+genetics 167
+genetics 166
+genetics 164
+markers
+showed
+expected
+probability
+regional
+25
+
+fraction
+property
+fraction
+time
+trans
+years
+half
+716 link
+future
+locations
+thaliana
+fall
+0
+
+fraction
+clustering
+link
+scales
+progeny
+diversity
+difficult
+haldane
+evolution 54
+evolution 46
+evolution 52
+biol
+evolution
+identification
+type
+princeton
+damerval
+due
+tested
+based
+chance
+types
+act
+science 188
+science 288
+science 296
+science 297
+science 311
+science 302
+cis
+case
+aided
+limited
+fcgi
+grenier
+calculate
+laurie-ahlberg
+jacob
+cavalieri
+usa 41
+consistent
+chen
+chem
+established
+contributes
+velculescu
+reported
+studies29
+path
+homozygotes
+discontinuous
+altshuler
+stern
+counts
+unit
+separated
+hahn
+kendziorski
+relat
+suggestive
+era
+& doerge
+wang
+validated
+schadt
+usa 100
+mice2
+answer
+lan
+minority
+whittle
+attempt
+grant
+allison
+maintain
+decreasing
+wine
+interpretation
+& yamazaki
+london
+japan
+ncbi
+e93
+fig
+19 reported
+combination
+amenable
+barton
+taught
+dating
+quantify
+usa 75
+usa 77
+log2
+estimate
+stajich
+monogenic
+studies34­37
+features
+explicable
+top
+needed
+percentage
+& crawford
+serve
+multi-copy
+absence
+& phelps
+bridge
+usages
+gov/entrez/query
+forces
+& rubin
+klose
+transcripts38
+evolution105
+acknowledgements
+doi
+hubner
+yang
+rare34­37
+responded
+lewis
+rediscovery
+lee
+availability
+summarizing
+biophys
+learned
+implication
+result
+discussions
+capacity
+unable
+drawn
+//www
+fat44
+confusion
+extent
+hundreds
+cox
+conclusions
+contribution
+asked
+josse
+bersaglieri
+applied
+bin
+iv
+ii
+cotsapas
+comparative
+prevalences
+make
+quant
+bewley
+nih
+published
+hand
+mice10
+claims
+left
+aldine
+unique
+advancement
+expression81
+collections
+usa 103
+usa 102
+wittkopp
+left-
+e78
+additively
+confer
+carlborg
+ovcharenko
+ranges
+& keightley
+opin
+ensure
+raised
+subj
+overestimation
+resulted
+underexplored114
+synthesis
+hoogendoorn
+proved
+models
+disruption
+activated
+primer
+environment
+finally
+swanson-wagner
+overdominance
+nuzhdin
+& kwiatkowski
+speculation
+regret
+targets
+nlm
+shared
+perez-enciso
+allendorf
+address
+co-inheritance
+plotted
+churchill
+prefer
+pontecorvo
+keightley 33
+prove
+scenarios
+encode
+modified
+non-additivity
+carroll
+allowed
+occur
+gh1
+divided
+annotation
+man
+primig
+schwartz
+pointed
+wallace
+presence
+lethality
+decades
+correspondence
+chromatin
+qualifies
+year1
+discuss
+wray
+& zabeau
+james
+proteins
+wong
+quarter
+individually
+arbitrariness
+ed
+challenges
+owing
+begun
+& barnett
+emerged
+correct
+heterosis
+horan
+origin
+striking
+vuylsteke
+carry
+open
+millions
+realization
+hum
+metabolites94
+addressing
+washburn
+deutschbauer
+sciences
+killifish7
+enzymol
+r32
+acta 1690
+ohta
+fat11
+abraham
+quantity
+dissecting
+enriched
+kirst
+thompson
+nucleoplasm
+ability
+farrall31
+ways
+review
+chimpanzees
+useful97
+article
+contol
+crosses4
+crawford
+direction
+e387
+& nap
+chesler
+pseudoobscura
+variances
+-acting
+matsuzaki
+prevalence
+strain
+rockman
+maroni
+& hartl
+soranzo
+liver10
+pan
+ccr5
+investigated
+drives
+driven
+modes
+severe
+steinmetz
+& howell
+segal
+thinking
+orr
+test
+mol
+acute
+kulp
+stranger
+subnets
+molbio2
+respect
+dimensions
+cytol
+biased
+gomulkiewicz
+discussed
+practical
+road
+gresham
+lucchesi
+& kinzler
+removing
+illuminated
+mice
+families18
+landscape
+& kirkpatrick
+field
+deviation
+e267
+assuming 20
+delineate
+adai
+fisher30
+splicing
+expression71
+sci
+biosci
+caveats
+homepage
+straightforward
+perlstein
+difference
+morley
+inducibility
+possibilities49
+rats
+past
+perspective
+sum
+answers
+search
+matsuo
+underdominance
+inbreeding
+jin
+requiring
+wiuf
+achieving
+corrected
+far16­19
+town
+challenging
+axis
+goal
+terms46­48
+& wu
+jersey 08544
+explains
+& flavell
+derived
+mendel
+& tibshirani
+e25
+jiang
+mid-parent
+pant
+existence
+& monod
+goldstein
+drake
+characterized
+reduce
+monks
+benzer
+inflated
+acting
+14 ­log10
+beginning
+leverage
+bioinformatics 21
+bioinformatics 22
+& jagalur
+genotyping78
+temperature
+mamm
+& hoeschele
+november 2006
+tata-
+part
+kind
+anticipate
+determined
+biotechnol
+karp
+nobrega
+paths
+wilson
+built
+depending
+majority
+build
+hartl
+added
+patterson
+reach
+cover
+phenomenon
+e15
+wayne
+king
+dependent
+lymphotoxin-
+evolution24­27
+tsaur
+20 kb
+crc
+investigate
+maurice
+interleukins 4
+adv
+usa 98
+usa 99
+responses
+condition-dependent
+usa 97
+spilianakis
+local9
+distinguish
+collaborators
+improved
+cowles
+regulates
+adaptation
+create
+collected
+precision
+century
+emison
+sample/reference
+whitehead
+lalioti
+pharmacogenomics 7
+higher
+yuan
+lower
+biochim
+extracted
+hybridization
+rodents
+oleksiak
+& davis
+& zeng
+translated
+& weatherbee
+terminology
+ecology
+decook
+lettice
+buckland
+proc
+trans49
+chromosome54
+clinton
+assessed
+-linking
+long
+keating
+611 bins
+fdr
+massa
+curr
+genome18
+coincides
+conditions6
+& wang
+nat
+department
+& lusis
+fisher
+age
+illustrates
+cheung
+transcripts1
+& mcintyre
+2 0
+
+log2
+young
+excluded
+suite
+afzal
+knight
+obesity
+replicates
+unavailable
+chicago
+twins
+3b
+3a
+& doane
+symp
+survey
+haerum
+kuiper
+transcript49
+trans55
+usa
+carrying
+iii
+hamblin
+account
+111 mice
+challenge
+obvious
+/index
+sandberg
+weaker
+calculation
+tao
+& mcdonald
+permission
+located
+ayala
+underway
+ronald
+72 proteins
+bing
+orr32
+counted
+bins
+intermediates
+hirschhorn
+complicate
+degrees
+choose
+& wray
+bamshad
+magnitude
+subset
+r13
+mid-
+ref
+classification
+& wilson
+york
+1038/nrg1964
+assumed
+respond
+pseudoallelism
+ancient
+biochem
+townsend
+& clark
+& weir
+transcribed
+distinguished
+nettleton
+loots
+tissue45
+coyne
+zuckerkandl
+pursued
+mechanism
+centre
+& andjelkovic
+& frazer
+eukaryotes
+class
+brem
+overrepresented
+databases
+fact
+intercross
+supported
+few1
+akey
+words
+timing
+shaping
+takahashi
+trans-linking
+lall
+monod
+variation117
+shh
+discovery
+gibson
+humans
+bacteriophage
+& derisi
+indirectness
+gunderson
+pattern
+landry
+reproduced
+importance
+keurentjes
+hypothesis
+disproportionately
+distribution
+lo
+bystrykh
+relevant
+llinas
+table
+li
+addition
+mehrabian
+yan
+treat
+al
+sensed
+yvert
+present
+contexts
+examine
+choices
+revisited
+& cavalieri
+evol
+mutat
+carbohydrates
+units
+finite
+powell
+http
+promoters
+php
+identity
+flies
+storey
+doss
+rapid
+geneontology
+& lander
+resolved
+subject24
+press
+variants
+helpful
+mid-1990s
+protein-coding
+arrows
+qtns
+e-mail
+analysed
+expansion
+vogelstein
+panel
+compatible
+bozdech
+small1
+estimators
+farrall
+made
+pastinen
+knudsen
+bearing
+stumpf
+transacting
+conclusion
+kinds
+required23
+indirectly
+3 ­0
+29%
+4 -0
+641­648
+415­423
+10539­10544
+27%
+225­232
+10%
+108
+109
+102
+100
+101
+106
+104
+105
+1224­1233
+99
+98
+91
+90
+93
+92
+2249­2254
+94
+97
+96
+1995
+1994
+1998
+11038­11043
+8 1
+8 0
+872
+107­116
+3920­3925
+6 ­0
+369­383
+1073­1077
+184­193
+1155­1164
+331­339
+1979
+1961
+1962
+1963
+388­391
+107
+6 -0
+1143
+10
+13
+14
+18
+1 0 ­0
+547­554
+385­393
+25%
+103
+116
+243­253
+113
+1 ©
+867­877
+1978
+1975
+4 0
+1 ­0
+59
+58
+55
+54
+57
+56
+51
+50
+53
+1­15
+52
+743­747
+1413­1420
+5­24
+10 0
+239­253
+371­377
+284­291
+752­755
+879­896
+1166­1173
+95
+0
+297­302
+1609­1615
+5
+
+­0
+2 -0
+533­542
+23%
+1
+125
+1951
+12369­12374
+4 -1
+>5%
+100%
+24
+113­116
+2
+1999
+11
+12
+15
+05 0 0 0
+17
+16
+19
+1119­1125
+6 0
+637­645
+20%
+1992
+675­89
+2 0 -0
+4 ­0
+7548­7553
+3
+2368­2378
+61
+62
+63
+64
+65
+66
+67
+68
+69
+2118­2123
+41­43
+2 0 ­0
+578
+4
+5 0 ­0
+136­140
+1932
+1930
+259­268
+901­906
+2003
+2000
+5
+78
+935­949
+2 0
+710­717
+1531­1539
+5 0
+
+1
+509­517
+5 1
+6
+1267­1275
+30 0
+1333­1340
+2 -1
+145­162
+25
+26
+27
+20
+21
+22
+23
+28
+29
+11­21
+7
+85­88
+413
+60
+2 ­0
+868
+864
+866
+9440­9445
+343­351
+77
+76
+75
+74
+73
+72
+79
+389­395
+344­354
+414­425
+1991­2004
+1932­1936
+194­207
+870
+233­242
+9
+1111­1120
+29 ©
+1377­1419
+394­349
+71
+70
+1079­1091
+114
+5 0
+
+­0
+326­330
+0 -1
+2002
+2001
+2006
+857­863
+2004
+2005
+408­423
+4221­4224
+319­327
+701­703
+5 ­1
+5 ­2
+39
+38
+33
+32
+31
+30
+37
+36
+35
+34
+3%
+&
+0 ­2
+0 ­1
+8
+94%
+613­622
+1607­1614
+135
+0 2
+0 1
+573­580
+1791­1799
+88
+89
+82
+83
+80
+81
+86
+85
+1984
+8 ­1
+261­266
+3 0
+647­654
+4446­4450
+2383­2393
+57­64
+20 0
+1855­1862
+390­411
+159­174
+8 -1
+1094­1105
+616­623
+1190­1201
+0 0
+289­301
+87
+6805­6810
+842­849
+995­1004
+57­59
+44
+121­149
+1952
+490­495
+1111­1127
+963­971
+238­249
+115
+117
+111
+110
+233­239
+112
+1572­1577
+1955
+318­356
+681­691
+15 0
+1982
+1983
+1980
+48
+49
+46
+47
+45
+42
+43
+40
+41
+84
+1365­1369
+221­226
+432­437

@@ -1,0 +1,3753 @@
+ca
+ca ca ca
+
+cp cp
+
+cp cp
+cp cp
+
+cy cy cy cy cy2 cy2 cy2 cy2 cy2 cy2 cy2 cy2
+ca
+ca ca ca
+
+cp cp
+cp cp
+
+4 = 30
+ca ca
+
+cp cp
+
+ile cy2
+n-ca-cp-cy1 n-ca-cp-cy2 c-ca-cp-cy1 c-ca-cp-cy2 ca-cp-cyl-cg n-ca-cp-cyl-cs c-ca-cp-cy 1-c6
+cold spring harbor laboratory press
+
+bavesian statistics
+cold spring harbor laboratory press
+
+bayesian statistical analysis
+org/subscriptions/
+
+© 1997 cold spring harbor laboratory press
+
+downloaded
+cold spring harbor laboratory press
+
+bayesian statistics
+knowledge-based predictionsof local structo obtain largest cliques
+cold spring harbor laboratory press
+
+protein science
+cold spring harbor laboratory press
+
+i670
+org/cgi/content/abstract/6/8/1661#otherarticles receive free email alerts
+cold spring harbor laboratory press
+
+1664
+table 2
+cold spring harbor laboratory press
+
+1666
+table 3
+cold spring harbor laboratory press
+
+1680
+table 7
+cold spring harbor laboratory press
+
+1678
+table 6
+cold spring harbor laboratory press
+
+1668
+cold spring harbor laboratory press
+
+1662
+cold spring harbor laboratory press
+
+1672
+cold spring harbor laboratory press
+
+1674
+cold spring harbor laboratory press
+
+1676
+backbone-dependent mtamers
+2nd 1st 3rd prediction
+notable thatmany current side-chain placement methods
+met phe ser thr trp
+
+5r
+val
+backbone-dependent interactions
+atoms
+1
+
+connecting dihedrals 4 5 1-2-3-4 2-3-4-5
+
+interaction
+kyolab
+
+2o
+
+i100
+
+loo
+
+kyolab
+thr cy2 4-120
+ca ca
+hypothetical infinitely large protein data bank
+val cy2 4-120
+cj andbackbonesyn-pentaneeffectswithbackbone conformation-dependent electrostatic effects
+methionine backbone-independent posterior distribution parameters
+r3 rl 1 r2 1 1
+positionand heat contentsfor pitzer ks
+twenty naturally occurring amino acids
+backbone-conformation dependent steric interand actions
+299 self-backbone side-chain prediction tests raises
+bayesian statistical analysis backbone-independent rotamer library
+backbone-independent prior distribution parametersa
+ro
+earlier efforts found weak correlations
+describe bayesian statistical analysis briefly
+protein society
+
+bayesian statistical analysis
+rotamer preferences show detectable patterns
+prior data posterior
+
+rotamer libraries derived
+bayesian statistical analysis rotamer statistics
+decrease local backbone-side-chain steric interactions
+email alerting service
+
+notes
++
+
+eb ae charmm ae
+low-frequency raman specponder jw
+argd met gln glu ly
+protein side chains
+
+1667
+derive posterior distributions
+fox chase cancer center
+valyl resprotein sci 4561-602
+recent high-level ab initiocalculations
+determine rotamer preferences asa function
+protein side-chain rotamer preferences
+
+roland
+backbone dihedrals
+
+posterior distribution distribution prior
+pepf prof res 5297-308
+figure 9a forthe abu side-chain
+similar stereochemistries behave similarly
+backbone-independent prior distribution parameters derived
+biomol str dynam karplus
+backbone-conformation independent backbone-side-chain interactions
+traditional backbone-independent rotamer library parameters
+adv protein chem 28347-526
+derived backbone-independent rotamer libraries
+high energy price paid
+methylamides base potential derived
+popular molecular modeling packages
+4-10 kcal/ mol due
+cp
+-conditional backbone-independent rotamer populations
+hackhone-conformation dependent hackhone-sidc-chain interactions
+data analysis products division
++
+
++
+
++
+
++
+
++
+
++
+
++
+proteins struct funct genet 23
+low frequency vibrational spectra
+backboney dependent rotamer distributions
+pentane ab initio calculations
+protein side-chain rotamer preferences
+backbone-conformation-dependent interactions
+rotamer populations
+posterior distribution bayesian inference
+single residue fragment consisting
+global minimum trans conformation
+individual side chains place
+bayesian statistics requires
+labeled bayesian statistics
+backbonedependent rotamer library prediction
+conditional backbone-independent rotamer library
+nature struct biol sasisekharan
+angle $-dependent prior distributions
+syn-pentane interaction costs 2g +
+1661-1681
+
+references
+
+article cited
+cohen fore simple expressions
+binding site side-chain conformations
+y4 rotamer prior distributions
+bayesian statistics analysis
+amino acid side tuffery
+amino acid side-chain conformations
+raw data probabilities versus
+aromatic long chain hydrocarbons
+infinitely large data set
+gaussian weighted periodic function
+bayesian statistics framework
+simple steric conformational analysis
+backbonedependent rotamer library website
+cambridge university press
+local minimum energy structure
+contour lines represent values
+rotamer cy
+single cy
+figure shows density plots
+conjugate prior distribution results
+bayesian statistical analysis
+protein side chains
+
+1665
+
+table 2
+protein side chains
+
+1675
+
+table 4
+side-chain cy
+sound statistical footing
+lowest probability rl rotamer
+backbone-independent rotamer libraries
+asn asp cys gln glu
+prior density distribution centered
+pept prof res 2
+infinite data set parameters
+highest probability rl rotamer
+rotamers
+
+xz
+
+xz
+
+downloaded
+rules forthe conformations
+conjugate gradient minimizer
+backbone-dependent rotamer preferences
+average backbone-dependent posterior parameters
+raw data population probabilities
+determine protein side-chain conformation
+rl rotamer bins type
+backbone-independent liof ojli
+local backbone dihedral angles #
+greater statistical certainty
+nonperiodic weighting function wnon-
+backbone-dependent rotamerlibrary webpage
+alkane rokemp jd
+partially symmetrized reconstruction
+sp3-sp3 carbon-carbon bonds
+drug design depends
+automatic segment matching
+nih post-doctoral fellow
+rotamer libraries dependent
+prior distribution modes calculated
+trp r2 1
+
+conformation
+protein data bank
+gaussian shaped peak
+rigorous statistical method
+bayesian posterior distributions
+backbonedependent rotamer library
+backbone-independent rotamer library
+simple organizing principle
+backbone-backbone steric exclusions
+dependent rotamer preferences
+jam chem soc 59
+chem rev 2739-57
+dotted lines mark
+chem soc 1108029dynamics
+unnormalized posterior densie
+experimental distributions derived
+prior distribution values calculated
++ 1
++ yo +
+side-chain conformain aminoacids
+calculate prior distributions based
+hydrogen bond acceptor
+raw backbone-independent library
+backbone-dependent rotamer library
+statistical mechanical model
+2-amino butanoic acid
+backbone-dependent rotamer populations
+connecting dihedrals occur
+sidechain rotamer libraries
+trellis graphics module
+ignoring electrostatic interactions
+bond molecular orbitals
+removing steric clashes
+removes steric clashes
+bayesian statistics
+infinitely large database
+raw data values calculated
+conjugate prior distribution [
+side chains yo
+4 independent rotamer library
+amino acid type
+backbone-independent prior distributions
+comparative protein modeling
+thr oyl xi 4 = 30
+self-backbone prediction test
+affect rotamer preferences
+potential energy maxima
+peptide protein res 13
+analyze protein structure
+charmm potential describes
+sp2 hybridization state
+mol biol 125357-386
+mol biol 230543-571
+mol biol 234779-815
+mol biol 2 6 7 1268-1282
+mol biol 226507-533
+phys chem 843587-3591
+priorand posterior distributions
+lowest energy rotamer
+calculating test statistics
+one-dimensional prior distributions
+noninformative prior distributions
+informativc prior distributions
+informative prior distributions
+noninfonnative prior distributions
++ yo
+
+xo+yo+
+full backbone-independent library
+2-amino pentanoic acid
+entire posterior distribution
+posterior distribution represents
+molecular orbital calculations
+rotamer populations due
+protein-folding models suggests
+theweighting function serve
+posis fairly close
+scale factorthat affects
+two-dimensional prior distribution
+informative prior distribution
+prior distribution exerts
+crystallographic protein structures
+hydrocarbon side chains
+side chains adopt
+side chains retain
+= 3 rotamer prior density
+discrete side-chain conformations
+horizontal darker regions
+infinitely large pdb
+conformational analysis reviewed
+wder
+
+conformational analysis
+asymmetric potential function
+primary peak correspond
+sional potential function
+weighting function wperfor
+rotamer distributions significantly
+protein side chains
+
+1677
+protein side chains
+
+1669
+
+00
+
+02
+
+0
+protein side chains
+protein side chains
+
+1673
+
+0 63 0
+counting backbone-dependent rotamers
+protein side-chain conformations
+missing side-chain atoms
+thc likelihood takes
+backbone-backbone steric interactions
+unfavorable steric interactions
+molecular mechanics calculations
+resulting posterior density
+statistically unreli-
+
++
+figure 9a confirms
+protein folding simulations
+isa weak dependence
+results
+bayesian analysis
+full rotamer library
+aromatic side chains
+simple exact models
+lowest r2 rotamer
+phys chem analysis
+rl rotamer affects
+raw data areof
+derive prior distributions
+conditional backbone-independent probabilities
+resulting posterior distribution
+prohahilities werc calculated
+cohen protein sci
+syn-pentane global minimum
+asinthe backbone-independent case
+potential energy surfaces
+analytical posterior distribution
+sp3 hybridized atoms
+comparing getic analysis
+electron density carefully
+prior density distribution
+2-3-4-5 = g-
+
+2
+
+3
+
++ 0
+rotamer populations determination
+includes rotamer populations
+nmr zimmerman ss
+sample draws yielded
+joint prior distribution
+actual data sample
+sparse data corrections
+infinite data parameters
+amino acid residues
+charmm22 potential show
+crudenoninformative distribution result
+dependent side-chain conformations
+protein science
+positions arc independent
+crystal space groups
+approximately gaussian weight
+methyl amides seattle
+=
+
+aprediction rates determined
+chem bhat tn
+nonperiodic weighting function
+calculated posterior distributions
+missing backbone atoms
+backbone atoms ni
+canonical sp3-sp3 rotamers
+correy sponding rotamers
+underlying parameter ohradr
+finite experimental data
+x2 dihedral rotations
+rotamer probabilities correspond
+heavily occupied portions
+prior distribution compared
+weighting function wper
+potential energy maps
+2 2 potential energy function
+neighboring rotameric states
+cy
+correct rotameric states
+protein sequence set
+significant steric strain
+raw conditional probabilities
+local backbone conformation
+protein chem proteins
+posterior distributions represent
+consecutive gauche interactions
+&branched side-chain distributions
+side-chain conformation distributions
+prior density function
+lowest energy rotamers
+program formacromolecular energy
+side chainsin proteins
+dipeptide backbone added
++
+
+bayesian simulation
+valin figure 3g
+periodic weighting function
+local structural environment
+lowest energy minima
+posterior distribution ensures
+posterior probability distribution
+oxygen atom bonded
+considered minimum values
+prior distribution dependencies
+predicting side-chain conformations
+single gauche interaction
+thc parameters 0 based
+extended backbone conformations
+yi + y2 +
+conformational analysis based
+backbone-dependent rl probabilities
+knowledge-based modeling
+experimental structure refinement
+minimized dihedral angle
+asn side chains
+interthe rl = 1 panels
+x-ray structure refinement
+dipeptide low-energy rotamers
+c-ca-cp-cy
+
+xi
+backbone atoms dependent
+conformadunbrack rl jr
+counts side chains
+sparsely populated regions
+dihedral connecting
+ala + val
+data density calculated
+tertiary packing interactions
+final side-chain conformations
+compared x-ray structures
+prior distribution estimate
+bayesian inference
+calculated probabilities correspond
+rotamer types
+residues
+larger database presently
+sidechain prediction method
+ramachandran map distribution
+dirichlet probability distributions
+data sample size
+similar mathematical form
+20 side chains counted
+yi rotamer probabilities
+g- rotameric states
+r3
+
+1 2 3
+r2 rotarners
+heavily populated regions
+methods
+experimental data
+observed experimental data
+rl = g- rotamer
+g- rl rotamer
+leu side chains
+prior distribution defined
+homology modeling situations
+side-chain types plotted
+dihedral averages depend
+make equal contributions
+resulting linear equations
+statistical analysis
+asn x2 distributions
+full ramachandran map
+angle experimental data
+classical statistics
+rotamer preferences
+r2 probabilities varying
+california san francisco
+shown graphical representations
+multinomial likelihood function
+weighting functions shown
+bayesian analysis
+rl = grl = g-
+
+=
+
+-30
+conformational energy studies
+lys rlr2 rotamers
+met
+
+r3 rotamers
+internal rotation problem
+provide reasonable estimates
+binding site
+limited data set
+press
+ape side chain
+phe rotamers demonstrate
+protein sci 5
+backbone-independent library
+4 1
+
+x0
+
+xi +
+xi
+x0
+
++
++-dependent data obtained
+ae charmm
+amino acid
+including previous data
+backbone-dependent library
+experimental data listed
+pro + phe
++
+
+r3 rotamers
+calculated assuming 7 heads
+calculated assuming 20 heads
+box function wb
+bayesian version
+bayesian method
+local minimum
+backbone-dependent distributions
+rotamer library
+high density
+molecular mechanics
+met r4 rotamers
+electrostatic interactions
+g- rl rotamers
+pitzer ks
+tional preferences
+protein chains
+5 18 protein chains
+132 protein chains
+steric clashes
+steric effects
+rotamer distributions
+rotamer type
+backbonedependent interactions
+ser oy
+largest probability
+peptide fragment
+lowest energy
+backbone-independent interactions
++
+
++
+
++
+8
+
+0
+-120 -180
+
+-60
+
+0
+
+60
+
+120
+
+180
+
+-180
+
+-120
+
+-60
+
+0
+
+60
+
+120
+
+180
+
+x2
+
+x2
+
+fig
+dunbrack rl jr
+angles
+
+rl rotamers
+ae
+xi
+
+2
+rotamer distribution
+steric analysis
+protein structure
+local interactions
+posterior density
+mol biol 198
+mol biol 213
+mol biol 163
+mol biol 193
+backbone-independent gauche
+rotamer conformations
+local backbone
+chem phys 38
+chem phys 8
+2-amino pentanoic
+posterior distributions
+side-chain prediction
+amino acids
+prior density
+side-chain type
+side-chain rotarners
+prior distributions
+weak +
+rotamer problem
+protein folding
+local xzminimum
+prediction prediction
+posterior distribution
+backbone-dependent averages
+backbone-dependent contexts
+table 2 shows
+neighboring dihedrals
+electron density
+low probabilities
+distributions due
+cancer research
+experimentalbackbone-dependentside-chainconformaprotein res 22
+achieved earlier
+torsional spectra
+resulting distribution
+prior distribution
+highest energy
+81 backbone-independent rotamers
+protein structures
+side chains
+>20 side chains
+dependent analysis
+side-chain conformations
+rotamer types
+conformational analysis
+amino principles
+weighting function
+simple hydrocarbons
+globular protein
+folded protein
+protein eng 1 3
+protein conformation
+protein folding-
+graphical analysis
+rotamer probabilities
+prediction rates
+dihedral strain
+rotamer designations
+rotamer pairs
+methyl groups
+graphical representations
+observed populations
+steric interactions
+local minima
+experimental distributions
+y4 rotamers
+molecular pharmacology
+weighting functions
+side-chain interactions
+figure 9a
+sparsely populated
+global minima
+weighted counts
+conformations correspond
+multinomial distribution
+full analysis
+rotameric states
+side-chain types
+rotarner library
+complete library
+rotamer rl =
+rl rotamer
+steric hindrance
+steric conflicts
+raw data
+comp chem 4
+plots demonstrates
+perform simulations
+highest probability
+cys sy
+-ppr plots
+energy surfaces
+biol 230592-612
+backbone dihedrals 4
+backbone dihedrals
+4 3g
+
+charmm
+rotameric state
+large probabilities
+side-chain conformation
+side-chain pairs
+side-chain rotmers
+side-chain conforphys 204
++ rotamer
+prior distributionparameters
+prior dis
+backbone-independent case
+ri rotamer
+energy calculations
+1
+
+prior data
+wperto derive
+wecan derive
+charmm calculations
+backbone-independent energies
+large regions
+protein molecules 1
+hybridized atoms
+conformationalenergy analysis
+inbackbone dihedrals
+dihedrals starting
+thebackbone dihedrals #
+prediction rate
+probability density
+sponding probabilities
+probabilities significantly
+data analysis
+data density
+sampling distributions
+joint probnbilir
+sample size
+trellis graphicsuser
+minimized x1values
+zimmerman & scheraga
+constructed carefully
+peak heights
+noted earlier
+conformation space
+methionine
+tertiary templates
+residue side-chain
+simple model
+side chainsdepend
+theleft-hand side
+substituted side
+side chainswithin 10
+right-hand side
+sidc chains
+rapid chains
+conditional probabilities
+conditional backboneindependentrotamerlibrarythereforeconsists
+averages conditional
+sparse regions
+yi rotamer
+crystal structures
+backbone conformations
+side-chain rotamers
+nonperiodic function
+val prohahilities
+nonperiodic data
+homology modeling
+kemp & pitzer
+san francisco
+aprior distribution
+sampling distribution
+probability distribution
+dirichlet distribution
+data distribution
+conformational analvsis
+conformational datastructure
+residue type
+conformational ensembles
+dihedral h-cc-
+dihedral degrees
+prior counts
+rl = grl =
+rotamer definitions
+structure databases
+sidechain conformations
+varying amount
+peptide theoretical
+strained conformations
+folded structure
+template structure
+secondary structure
+starting conformations
+sequence similarity
+target structure
+hybridized atom
+varying amounts
+methyl torschrauber
+probability surfaces
+eclipsed conformations
+recent years
+prediction program
+experimental probabilities
+syn-pentane interaction
+abinitio energy
+backbone atoms
+backbone atoms 1
+correct rotamers
+experimental measurements
+nonperiodic functions
+charmm probability
++ ] dihedrals
+folded states
+states dj
+experimental data
++-dependent probabilities
+syn-pentane interactions
+rotamers conditional
+side chain
+side chain =
+energy parameters
+x-ray crystallography
+overdetermined problem
+refinement ofpenicillopepsin
++-dependent densities
+single c6
+rotamer combinations
+extended database
+rotamer energies
+bond angles
+heavy atoms
+6 heavy atoms
+populated regions
+gauche interaction
+periodic function
+present library
+unfolded state
+original library
+full view
+small peak
+gaseous hydrocarbons
+longer hydrocarbons
+previous dihedral
+2
+3
+
+1
+
+2
+
+3
+
+met
+
+r21r1
+
+1
+normal distribution
+observed data
+similar variations
+similar chemistry
+weight similar
+cylbackbone interactions
+intermolecular interactions
+synpentane interactions
+thesyn-pentane interactions
+gauche interactions
+ramachandran map 180
+ramachandran map
+ramachandran gn
+data calculated
+side-chain entropy
+syn-pentane in-
+dihedral equal
+multinomial model
+backbone coordinates
+backbone atom
+large fraction
+3
+
+phe
+
+r21r1
+
+1
+
+541 6 1
+nh bond
+nmr structures
+backbone places
+high-resolution structures
+secondary structures
+backbone nj
+backbone conformation
++ greater
++ 3g
+accurate modeling
+previous calculations
+present analysis
+table 1 centered
+xirotamer probabilities
+probabilities determined
+data probabilities
+newman projection
+bar charts
+keller da
+yee dp
+leastsquares sense
+uniquely determined
+dipeptide unit
+dung & cornpton
+made based
+globular prosci 3
+enzyme substrate
+wiberg kb
+apparent shifts
+duax wl
+significant improvement
+site-directed mutagenesis
+polypeptide segments
+accepted april 28
+indicator function
+murphy wf
+binsb p-
+ppp+2g ++ 3
+bell labs
+sasisekharan & ponnuswamy
+ahu prohahilitics
+smaller magnitude
+sufficient magnitude
+high-energy conformation
+james mng
+parr rg
+sielecki ar
+ile resembles
+clore gm
+worth noting
+ifwe flip
+momany fa
+dirichlet function
+james & sielecki
+carlin jb
+drawn randomly
+cabios 8599-600
+quantitative fashion
+nuswamy & sasisekharan
+draw yr
+weight function
+solvent environment
+sternberg mje
+function wboxfor
+calcuthe lated
+packing trum
+provide estimates
+represented accurately
+thermodynamic implications
+wiberg & murcko
+vetterling wt
+phase transition
+non-neighboring dependencies
+murcko ma
+2-3-4-5 =
+national institutes
+scheraga ha
+newman projections
+median levels
+slightly biased
+xa
+
+ob
+x-ser dipeptides
+cooperative transitions
+goodness-of-fit measure
+received december 26
+bin centered
+ponder & richards
+strong similarity
+backboneues forp
+ile cyl
+articles cite
+chapman & hall
+7701 burholme avenue
+canonical values
+olafson bd
+ti ejk
+ponnuswamy & sasisekharan
+significant skew
+arotamer pairs
+angle averages
+structural tures
+rubin db
+shakhnovich & finkelstein
+strong variations
+backbone-conformation-independent nj
+richards fm
+stronger pull
+identical manner
+jare determined
+simulating draws
+teukolsky sa
+visual inspection
+systematic search
+complete estimates
+shifts inp
+becker & cleveland
+complete view
+0 c9
+0 c9
+stern hs
+computational effort
+fiebig km
+biochemistry 1 8 1256-1268
+marginally stable
+ponnuswamy pk
+vice versa
+flannery bp
+reprint requests
+heavy atom
+numerical recipes
+allosteric effector
+thomas pd
+observedsidegroupconformations tions
+murray hill
+great importance
+finkelstein av
+plausible conformation
+islam sa
+freedom separating
+backbonespatial restraints
+hooft rw
+unipress wh
+adm = #jm
+gaseous criteria
+prior information
+data cover
+spectroscopic data
+ohserved data
+existent data
+replicated data
+dexperimental data
+data set
+rotamers observed
++
+
+interaction
+residue types
+isolated regions
+occupied regions
+dark regions
+p-sheet regions
+wellpopulated regions
+superpopulation parameters
+angle parameters
+dependent part
+val cyl
+x2 = cp-cy
+full database
+gelin & karplus
+karplus & parr
+dunbrackrl jr
+dung jr
+resulting p-values
+chandrasekaran & ramachandran
+rl table 3
+flat functions
+ith residue
+thermodynamic functions
+large number
+coin flips
+perfect coin
+= gi rl =
+rl yhead
+rl = 2 panels
+greater detail
+derived
+50% sequence identity
+correlation coefficients
+analytical form
+likelihood function
+energy curves
+r31 rotamers
+specific rotamers
+not-so-rare rotamers
+occupied rotamers
+experimental thermodynamics
+y2 orientations
+california 94143-0450
+statistical
+previous data
+loglinear model
+model building
+glu r2
+cohen
+scribed
+cohen
+
+rb
+cohen
+
+nnr ~~
+dynamics calculations
++ bin
+determined
+
++
+cu
++
++ 4g
+{ 4 = ij = +
+p3 3 +
+hyperparameters xi
+xi averages
+figure conrinues
+figure 3 attempts
+figure 9b
+figure 2b
+figure 2a
+figure 7a
+figure 8a
+figure 8b
+weakly populated
+rely heavily
+proportionality constant
+weights point
+dielectric constant
+simulation draws
+probability minima
+previously compared
+g- } conformation
+g- panels
+half databases
+dill ka
+internal rotation
+hindered rotation
+secondary peaks
+smaller peaks
+database based
+data counts
+test statistic
+c6 atoms
+likelihood functions
+charmm energies
+x2 + 120
+r2 = 3 rotamers
+r2 rotamers
+1 2
+r2 rotamers
+assuming kt = 1
+compton dac
+relationship bromberg
+expression inside
+gelin br
+sutcliffe mj
+allowed sequencesfor
+organic molecules
+accurate representation
+ecepp predictions
+mcgregor mj
+x2 rotation
+frequencies predictable
+vibration frequencies
+small percentage
+expression forp
+observed ratio
+2 3
+rl rotamers
+rl rotamers
+pro rl 1
+interactions responsible
+interactions increase
+correlation coefficient
+proteins favor
+globular proteins
+proteins strictfunct
+proteins attain
+proteins evolve
+identical proteins
+homologous proteins
+unpopulated regions
+results presented
++
+rl =
++ rl =
+coin flipping
+pro
+
+rotamers
+biopolymers 10583-592
+gf ] positions
+biopolymers 10565-582
+biopolymers 1 7 1885-1 890
+box isshowninfigure 2
+rough estimate
+robust estimate
++ rotamers
+lab obtained
+website includes
+g- rotamers
+r4 1
+
+conformation
+r4 = llrl =
+previous work
+pon-
+
+downloaded
+corre-
+
+downloaded
+probability
+
+downloaded
++
+
++
++ +
+
+1
++ xi 4 =
+xi + 120
+normal model
++ ri =
+expectation values
+moult & james
+studied extensively
+carbon atom
+measurable quantities
+thr
+structural n-butane
+yielding values
+structural variables
+obstruct server
++dependent densities
+x3 orientation
+= ilc#ja
+draw values
+adding back
+nonpolar hydrogens
+nayeem & scheraga
+simply calculate
+xl = ccu-cp
+lewis pn
+maximum values
+solid bars
+functional forms
+deterpopulated values
+equivalent statement
+acceptable values
+sippl mj
+studied previously
+rotational barriers
+force constants
+-kl sin2
+size xo
+linear combination
+hayes fr
+good estimates
+half database
+data measured
+present data
+full range
+asp andasn
+asp conformation
+theta
+fig
+hci
+
+fig
+backbone-
+
+fig
+leu
+
+2p+4g
+ile leu
+full procedure
+dunbrack & karplus
+bromberg & dill
+thebackboneindependent case
+count data
+strong effect
+strong dependence
+sufficient information
+effect ofdipeptide
+xi angles
+table 1 limits
+coin 10 times
+rl = il4
+i76 1 76 i76
+176 176 176
+ser
+sutcliffe mcgregor
+1-2-3-4 = 0
+1-2-3-4 = -90
+largest
+denoted orlab
+-100
+
+100
+
+0
+-100
+
+0
+
+100
+
+-100
+
+0
+
+100
+
+-100
+
+0
+
+100
+
+6
+
+discussion
+understanding
+boltzmann calculation
+drastic ways
+pdb continues
+side-chaintorsional potentials
+point estimate
+first-order gelman
+relative ener
+pdb data
+scale parameter
+larger values
+times larger
+polar residues
+limited range
+p-values stay
+cohen
+
+department
+cohen fe
+make predictions
++ values
+figure 2c
+frequently performed
+svd equations
+force constant
+-+ 9w
+equation 2x
+matrix equation
+count rotamers
+evident experimentally
+lower probability
+5-20 kcal/mol
+3-6 kcal/mol
+results obtained
+backbone-independent
+polar sidechains
+central values
+brooks br
+allowed values
+subsequent paper
+assumed kt = 1
+cases shifts
+rz } rotamers
+program s-
+/ -dunbrack
+lys rl
+database energies
++ plot
+wbox
+
++
+-+
+= =
+
+rl =
+estimate values
+estimated counts
+results listed
+angles listed
+rare rotamers
+r4 = 114 = ba
+backbone-dependent
+dunbrack@cmpharm
+define rotamers
+roland
+initial values
+k2 determines
+taking account
+xz
+1
+
+0
+-100
+
+-100
+
+0
+
+loo 4
+
+-100
+
+0
+
+100
+
+-100
+
+0
+
+100
+
+-100
+
+0
+
+100
+higher values
+costs
+briefly
+abu
+traditional
+explained easily
+pullman & pullman
+arrows point
+complicated case
+central equation
+potential
+amino 1
+acid
+constraint energies
+protein
+rotamer
+} rotamer
+remaining deviations
+good approximation
+8
+
+leu
+
+rz
+range
+
+2 3
+1-2
+denoted defined
+aromatic
+clear distinction
+include values
+independent
+normalizing equation 7
+equation 12 proportional
+simple
+raw
+library
+9 kcal/mol higher
+steric
+total number
+effects
+populations
+lines
+cys
+chem 11
+side-chain
+large
+prior
+derive
+mol 83
+analysis
+dihedrals
+prediction
+# dihedrals
+density
+distributions
+genet 1
+sample
+nature
+1661-1681
+place
+minimum
+population
+expressions
+base
+due
+references
+tuffery
+side
+518 chains
+chains
+/ ni+
+dependent
+pitzer
+correspond
+distribution
+dihedral
+conformations
+x0
+cambridge
+wper
+structure
+4-120
+energy
+charmm
+states
+calculations
+refinement
+acids
+x-ray
+heavily
+compared
+atoms
+6 atoms
+periodic
+folding
+interaction
+full
+methods
+hydrocarbons
+met
+calculated
+similar
+interactions
+syn-pentane
+structures
+backbone
+phe
+types
+r3
+r3 =
+table 2
+table 1
+table 5
+table 6
+table 7
+table 4
+table
+probabilities
+limited
+affect
+dirichlet
+provide
+@ centered 10
+structural
+oxygen
+reasonable
+linear
+estimates
+result
+wb
+ile
+packing
+seattle
+internal
+predicting
+conformation
+$ dependencies
+panels
+models
+environment
+branched
+maps
+approximately 3
+size
+homology
+occupied 10
+article
+2g
+nmr
+weight
+includes
+represent
+method
+depend
+comparing
+gauche
+framework
+probability
+determined
+significant
+2g 2
+2 2g
+set
+close
+ensures
+sidechain
+based
+scale
+assuming
+averages
+bins
+including
+atom 1
+university
+dipeptide
+map
+frequency
+angle
+draws
+sasisekharan
+} conformation
+bins 170
+function
+demonstrate
+situations
+determination
+data
+regions
+parameters {
+parameters
+parameters 0
+val
+x2 = +78
+x2
+glu
+jr
+asn
+karplus
+residue
+functions
+r2
+r2 =
+27 r2
+r2 = 2
+r2 = 1
+coin
+rl
+rl = 1
+rl
+
+1
+
+2
+
+1 2 3
+
+2
+rl = 60
+rl =
+correlation
+likelihood
+3 rotamers
+rotamers
+coefficient
+previous
+california
+pro
+program
+y2
+found
+larger
+model
+chain
+cohen
+
+8
+cohen
++
+&+
++ 0
++ 1
++ 120
+[+
++ 60
++
+
+60
++ 240
++ -30
++ ]
+5 +
++ 180
++
+
+@ = -60
++ 90
++ -60
++ 150
++ 30
+~ 1 + 1 2 0
+{+
+xi
+2
+
+xi 7
+xi
+
+4
+
+=
+
+-240
+figure 1
+figure 2
+figure 3
+figure 4
+figure 5
+figure 6
+counts
+work
+ri
+peaks
+normal
+g- ]
+g- 1
+wnon-
+chandrasekaran
+equations 1 1
+half
+flipping
+minima
+modes
+g-]
+equations 18
+point
+simulation
+dill
+constant
+g-
+rotation
+equal
+database
+gln
+test
+2 test
+determine #
+determine
+unpopulated
+compton
+3
+
+1 2 3
+
+i76 1 76
+frequencies
+plotted
+predictions
+occur
+final 5%
+bromberg
+sutcliffe
+expression
+mcgregor
+central
+small
+bhat
+kt
+br
+calculating
+ape
+allowed
+final
+molecules
+accurate
+polar
+residues
+proteins
+results
+angles
+biopolymers 28
+make
+box
+box = 0
+yi@
+biopolymers
+average
+yi
+yi -60
+positions
+yi +60°
+estimate
+obtained
+website
+r4
+r4 =
+2
+
+3
+
+downloaded
+=
+
+downloaded
+1661
+
+downloaded
+downloaded
+dunbrack
+calculate
+entropy
+force
+brooks
+complicated
+explained
+times
+sippl
+combination
+responsible
+part 11
+xo
+lewis
+quantities
+weakly
+rely
+initial
+fraction
+nh
+nayeem
+values
+hydrogens
+definitions
+forms
+fr
+increase
+xl
+variables
+cmpharm
++dependent
+x3
+show
+ratio
+72 values
+obstruct
+equivalent
+pullman
+assumed
+n-butane
+original
+7 heads
+moult
+fe
+= il4
+good
+easily
+heads
+identity
+determines
+measured
+deviations
+bars
+normalizing
+carbon
+higher
+ba
+constraint
+proportional
+36 values
+department
+svd
+extensively
+noted
+sin2
+dynamics
+10 times
+account
+counted
+barriers
+curves
+k2 = 2
+taking
+adding
+~2c
+c6
+present
+#ja
+1-2
+distinction
+detail
+thermodynamics
+=
+
+sidechains
+classical
+previously
+pentane
+asp
+fig
+leu
+-100
+
+3
+
+fig
+100 0
+-100
+
+1100
+
+0
+
+100
+
+-100
+
+0
+
+100
+
+6
+fig
+listed
+defined
+count
+case
+total
+total #
+studies
+information
+combinations
+effect
+dependence
+energies
+shown
+approximation
+estimated
+plot
+rz
+ni+
+potentials
+form
+understanding
+s-
+years
+relative
+ways
+gelman
+rz =
+denoted
+remaining 20%
+pdb
+remaining
+wbox= 1
+calculation
+limits
+wbox
+parameter
+parameter 0
+range
+-180
+p-values
+range 30
+range
+
+30
+range
+
+0
+range
+range 0
+number
+lys
+procedure
+performed
+-+ -60
+-+
+-+
+-30
+clear
+-+ 120
+include
+-+ 30
+rare
+equation 25
+equation 13
+equation 14
+equation 1 1
+equation 1
+equation 2
+equation 3
+equation 7
+arrows
+lower
+define
+evident
+3 kcal/mol
+5 kcal/mol
+2 kcal/mol
+9 kcal/mol
+4 kcal/mol
+0 kcal/mol
+100 kcal/mol
+000 kcal/mol
+paper
+cases
+/
+/ = 60
+/ = 150
+~/
+/=
+desirable
+0
+
+0
+0
+ln
+
+0
+consists
+r3lri
+valr21#
+underpopulated
+pages
+xexp
+1940a
+consistent
+ehuod
+scrutinize
+lavery
+isdue
+o---hni
+3 = klr
+299-361
+pooling
+ethane
+yrep
+suitable
+proteins-comparison
+276-279
+unix
+mathsoft
+0 radians
+skewness
+kl = 20
+ujara
+law
+yue
+mation
+janin
+interpretation
+alternation
+157-171
+london
+//= -30
+affected
+4+60
+logs
+combining
+1067-1080
+clevelandws
+barrier
+therewe
+standard
+hand
+n-acetyl
+atjm
+vlo
+sterically
+top
+tulate
+hauptman
+compromise
+observations
+unconstrained
+postulate
+tool
+223-233
+wbux
+distance
+hformative
+collinear
+classes
+tion
+enables
+mine
+areshown
+gies
+-
+whereasthe
+troughs
+agm = $
+tyr
+isincorporated
+sum
+r2ir1
+probe
+keywords
+explain
+bas
+acknowledgments
+respond
+maigret
+well-documented
+sp3-sp
+approach
+//www
+tripled
+extent
+thep-unbranched
+iv
+improving
+variance
+enermarcuse
+concenregions
+ohuad
+9
+
+xi-120
+interest
+expected
+backboneindependent
+applied
+wfr
+etchebest
+con~
+conditioned
+ii
+tzb
+ic
+grown
+a-helices
+4 15-42 1
+0 18oo
+- 120
+- 240
+olkl
+materials
+n-ppr
+similarities
+ely
+ornsteinrl
+tides
+187-217
+/-60
+www
+rzrr3
+flatter
+oly
+asp-arg
+1547-1552
+ucsf
+bold
+minimization
+ol>
+ensure
+xi-120
+100
+
+0
+
+i1
+combine
+polypepbeckerra
+width
+forming
+differences
+what-
+true
+absent
+continuousover
+-chz-ch2-ch3
+pa 191 1 1
+abstract
+levitt
+check
+generally
+ne
+setting
+covariances
+update
+tribution
+chanhs
+n-
+assume
+bayesiandataanalysis
+supplement
+october 1
+000 steps
+technique
+finally
+analogous
+2 3
+
+i79
+688 470
+
+13
+emphasized
+997-1009
+= jry
+rblra
+occurrence
+threonyl
+rblro
+sign
+vriend
+265-268
+6
+5
+
+1 cti 0
+cl = 60
+3 klr2 =
+81267-1289
+address
+shift
+vectors
+hb}
+decouple
+nected
+marked
++3g
+n-acetyl-xxx-
+afford
+isalso
+asp-asn
+hope
+choice
+write
+optimal
+product
+applications
+produce
+sp
+-methylamide
+datation
+stability
+3
+
+66 i08
+1
+~/ziry~~~
+correspondence
+trated
+term
+gronenborn
+square
+ee
+denaturation
+ep
+hcr
+accomplish
+factors
+aromaticsidegroups
+theory
+possibility
+lys-phe
+bayes
+] called
+org
+sander
+shibatam
+directly
+xr
+affords
+1i
+ser-
+on-
+continuous
+4-60
+2
+
+04
+
+06
+
+08
+
+io
+
+00
+
+02
+
+01
+
+01
+
+00
+
+10
+nemethy
+generalization
+chemicalequilibria
+note
+closer
+printed
+pair
+sali
+r-pe
+@rep
+peptides
+precise
+supposition
+corner
+proportion
+santplin
+yield
+lnt
+6hrad
+vertical
+justified
+jz
+ehpod
+ji
+analyzed
+concentrated
+minimizes
+region
+jk
+period
+combines
+invert
+combined
+formed
+teins
+figures 3
+eiy
+variances
+situation
+dunbrack-jr
+operate
+/+120
+discrepancy
+cysteinyl
+figures
+io
+wpr
+xolab
+cr
+heringa
+ccr
+components
+captures
+ci
+aspect
+alsodirichlet
+marcus
+early
+grid
+satisfaction
+discarded
+hazout
+grants
+schrauber
+sybyl
+respect
+provided
+thermotamers
+decomposition
+refer
+comparison
+oi
+freeenergies
+philadelphia
+start
+bhead
+explaining
+- 180
+eh&
+ad
+al
+examine
+oht
+deviation
+a1
+170-184
+important
+included
+@mare
+typicalmolecularmechanicscalculationsfor
+5 -exo
+-6o
+r1 =
+caused
+lack
+follow
+kuszewski
+// = -120
+removal
+/xo
+health
+rclb
+4-0
+1681
+
+levitt
+bowerm
+higgins
+--
+list
+#jmand
+neighborhood
+perspective
+section
+contrast
+ranges
+increments
+published
+versity
+non-
+israel
+tested
+middle
+x4}
+dei
+compare
+f3
+pushes
+brary
+numbers
+984 360 156 15 96 245 107 190 94 i85 544
+11 157 8
+
+98
+goal
+= ailoandp
+idues
+fb
+resemble
+furthering
+a-helix
+enumeration
+y3
+solving
+vijayan
+alter
+dunhrack
+yn
+3
+
+gt
+reflected
+yz
+h-c-c-
+england
+775-792
+expect
+loops
+solved
+denotes
+favored
+121-152
+differ
+reason
+put
+morelli
+295-310
+divided
+guess
+interact
+assumption
+smoothed
+xl- 1 2 0
+bower
+fred
+peaked
+fold
+seryl
+-
+
+150
+7b
+~1+120
+lie
+x2rotamer
+norvalyl
+finding
+reach
+branching
+~ action
+5-0
+exp
+benedetti
+jinteractions
+minimizing
+relation
+find
+rblr
+wodak
+notation
+compiled
+closely
+investigate
+xb
+
+1
+arg
+probable
+= yijkl
+1
+-
+
+60
+oljki
+explore
+backbone-dependence
+rlrr2
+oiloh
+pl
+2
+
+ca-cp-cy-cs
+- 90
+p2
+institute
+optimization
+error
+rbiry
+i5 0
+ohpad
+rotors
+emphasize
+deletion
+proved
+bruccoleri
+jp0
+butyl
+bi>
+guaranteed
+source
+relevance
+evaluate
+r41rl
+agfi
+valine
+integer
+swaminathan
+yjlb
+intable 6
+1
+
+yijkl
+l990
+bo
+step
+montero
+completing
+optimized
+ci-
+wno
+8lv
+raising
+4+120
+consist
+influence
+char
+leucyl
+fixing
+application
+1
+
+materials
+10 tosses
+shakhnovichei
+oligopeptides
+algorithm
+kinetics
+-12oo-
+lysarg
+illustrated
+gc
+vl0
+cody
+4 constrained
+indicating
+phe-tyr
+eisenhaber
+cellular
+continued
+chinea
+l-15
+methylamide
+isthe 1
+2 xi-12oo
+insertion
+click
+bnumber
+334-340
+expressed
+spacing
+ojkli
+consideration
+extreme
+= pkl
+scaled
+p-sheets
+usa
+guideline
+examination
+panel
+proportions
+1/2
+teractions
+discreteness
+ova/
+topic
+integrating
+859-883
+process
+purposes
+singular
+1940b
+italics
+711-720
+functhere
+le
+ll
+li
+estimating
+choose
+practice
+mode
+smanual
+subset
+remove
+intramolecular
+predict 73%
+determining
+4a$
+staggered
+quality
+argos
+reflecting
++-dependence
+enforced
+instance
+accuracy
+connected
+url
+fact
+proteinscience
+text
+supported
+q5
+-
+
+-60
+means
++point
+areas
+determinants
+146-163
+cioilab = 1
+rein
+fixed
+sommerfeldt
+recently
+exploited
+written
+yz = +100
+= klr2 =
+restrictions
+padron
+butane
+subscribe
+cs
+xprior
+addition
+n-acetyl-
+n-ca-cp-cy
+283-296
+allothers
+skewed
+denote
+posteriordistribution
+uncertainty
+examines
+vi
+ave
+parts
+solution
+difficult
+http
+/-
+variety
+thought
+position
+/4
+r21ri
+r21rl
+16 io
+mathematically
+extends
+grow
+details
+increased
+mutations
+increases
+r21r
+helpful
+excluding
+qualitative
+copyright 0 1997
+thedifferences
+timeas
+40 tosses
+overlap
+e-mail
+informationinthedatabase
+limitations
+periodically
+stage
+extension
+column
+recognized
+theprior
+blundell
+ohrod
+utility
+quanta
+yrp
+ca-cp
+repeated
+insertions
+tosses
+ina
+4-
+variation
+resolution
+rule
+8 -173
+8 -174
+8 -178
+1 6
+16
+75
+4 -176
+4 -171
+@
+8 164
+2 1
+2
+
+76
+109
+103
+100
+12 12
+>50
+8 -69
+8 -65
+8 -63
+99
+98
+169 6
+91
+90
+10
+6
+95
+00
+
+-66
+1991
+1990
+1993
+1992
+1995
+1994
+1997
+1996
+2 -77
+284
+
+73 89 346
+
+3
+80
+
+-170
+8 2
+8 0
+69 80
+42 20
+42 22
+4 33
+63 26
+963 523 121 222
+
+4
+2 168
+2 169
+2 3 1 2
+
+68
+316 218 352 63 1
+
+11
+32 33
+5
+179
+7
+
+0
+00 84
+593 1
+2 -68
+3
+
+0
+36
+
+-160
+63 2
+4 = -60
+3 3
+94 12
+2 180
+> 20
+83
+
+13
+245 1
+176
+170
+2 3
+
+42
+1979
+3 -172
+176 2
+$%
+
+7
+1971
+7
+73
+$ = 5 180
+77 20
+1963
+0 67
+0 62
+576 83
+73 0
+17 0
+4 =
+11
+4 ~ $ ~
+7 67
+7 62
+74 35
+44 3
+2 3
+
+608 608 608
+78 13
+65 0
+03
+00
+01
+06
+07
+04
+05
+7 -85
+09
+7 -83
+67 20
+7 -67
+{ 4
+05 0
+6
+
+0
+55
+
+62
+62 0
+360 97 1
+0
+99
+1 1
+1 7
+1 4
+38 1
+1679
+160
+1671
+66 84
+00
+
+0
+00
+
+2
+3 -165
+100
+
+0
+
+-100
+
+3
+7
+67
+47 14
+24 3
+1978
+1974
+1973
+80%
+1970
+0 71
+4 6
+4 5
+33
+
+59
+7 -109
+6 5
+8 -43
+4 }
+1
+-93
+032 2
+58
+59
+56
+51
+52
+55
+~ ~
+8038
+7 58
+1 -179
+06 11
+3 9 2
+4 = -150
+1 = 1
+4 -120
+7 176
+88 57
+24 33
+4 -70
+4 -75
+64 3
+2 3
+
+229 393 200
+
+2 7
+5 69
+48 66
+9
+
+3
+50 57
+[4
+33
+13
+5
+
+80
+2 1 608
+1 2
+
+1119 608 2 3 608
+
+45 21 163 89 128
+39 25
+3
+-176
+3
+-179
+6 -14
+23 66
+4 = 60
+93
+} = { 1
+0
+97
+35 59
+0 88
+09
+
+54
+0
+~ ~
+
+155 222 229 113 146 162 149 139 166 181 104 167 194 166
+101
+
+156 148
+
+0
+16 32
+8
+
+0
+8
+
+1
+917
+
+64
+69 32
+42 15
+3
+1 2 3
+
+121
+467 1
+91 50
+25 89
+[
+9
+-178
+64 15
+08
+
+00
+
+10
+2
+
+1 2 3
+4 -67
+4 -69
+1 13
+72 3
+69
+
+-80
+95 3
+0
+75
+1
+4
+
+31
+9 -62
+9 -68
+43 12
+73
+
+84
+7 -72
+23 12
++90°
+96 45
+348 6
+64 0
+5
+61
+1
+4
+0 98
+5
+
+1
+
+136 55 27 542 313 436
+74 99 386
+
+62
+56 6
+56 1
+56 0
+2 3
+1 2 3 1 2 3
+26 2
+5 -87
+2 84
+7 30
+1 28
+2
+7
+
+41
+10
+13
+12
+15
+14
+17
+16
+19
+18
+46 0
+6 9
+22%
+575 1
+5 65
+5 66
+5 61
+7 175
+7 178
+5 -30
+31 16
+39 41
+1 -69
++60°
+9 -72
+61 18
+9 179
+180°
+9 5
+26
+
+76
+3
+8 69
+7 73
+8 62
+8 63
+-99
+-91
+-90
+068 4
+3 -63
+3 -65
+09
+3
+09
+9
+50 0
+50 7
+800 3
+8 -16
+284 1
+150
+9 -65
+60
+62
+63
+64
+65
+67
+4 89
+]
+-75
+270 5
+57 0
+1 179
+1 177
+78%
+5
+
+0
+5 147
+906 6
+9
+-66
+4
+613 80 59 4
+
+41
+6 86
+6 83
+43 62
+97 0
+1930
+1937
+-100
+
+0
+
+100
+
+-100
+
+0
+
+100
+
+4
+1 -75
+8 71
+-86
+-83
+-80
+3 -74
+1997 6
+81 24
+77 2
+4 97
+>
+7 18
+-170
+-177
+60%
+0 -169
+0 -165
+-60
+-66
+-67
+5
+2 3
+2 2
+2 5
+2 7
+2 6
+2 9
+4 = -240
+43 5
+9 29
+1 56
+5 150
+9 25
+24 17
+`
+3 73
+3 74
+1 24
+1 26
+5 -57
+30 30
+4 -92
+44 4
+44 0
+18 20
+3
+62
+4 10
+6 -57
+5 0
+6 25
+6
+55
+90 1
+1
+
+1
+6
+86 47
+3 -42
+66 31 60
+
+0
+6 77
+6 72
+2 3
+1 2
+
+21
+382
+
+5
+52 0
+088
+
+8
+0 -172
++60
+0
+
+0
+0
+
+5
+5
+0
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+-100
+
+0
+
+100
+09
+
+-176
+42 2
+2 -90
+7 70
+792 8
+71 58
+5 -67
+5 -66
+3 60
+1 = 9
+7
+1663
+4
+
+0
+4
+
+1
+4
+
+2
+5 1 8 0
+042 7
+72 39
+20 19
+180
+5 1 1
+6
+65
+$ 5 -40
+1 -13
+2
+86
+2 3
+2 1 2 3
+
+7 3
+5
+
+75
+2
+
+0
+77
+13
+77
+75
+72
+70
+21
+19
+79
+78
+2 24
+587 6
+2 26
+2 21
+2 22
+56
+
+-170
+3 178
+3 179
+53 1
+53 3
+6
+60
+8
+2 3
+1 2
+
+3
+1 2 3
+
+31
+915 1
+833 6
+9 -176
+9 -177
+9 -175
+4 58
+572 5
+2 -81
+#
+[ 4
+38
+24
+6 174
+5 170
+28 4
+28 5
+04 18
+79 4
+0
+
+30
+76
+
+0 3 5
+
+0
+9 89
+6 -75
+6 -70
+19 1
+05
+91
+37 0
+6
+71
+2
+-172
+$ = &
+97
+3
+9
+87 40
+{
+15
+
+-74
+62 35
+2 3
+
+-68
+$
+3
+
+-75
+92 0
+1
+77
+284 2 1
+677
+2 39
+9
+-179
+= -30
+91 4
+1 -177
+4
+66
+-30
+539 1
+54 0
+4 62
+29 7
+7 7
+7 1
+7 3
+21 31
++90
+0 -91
+71
+284 3
+
+1
+5 -81
+5 -82
+1 76
+1 74
+074 590
+
+72
+1 70
+0 -75
+9 77
+9 74
+9 70
+41 14
+= 3
+6 -66
+27 83
+952
+75 19
+0 -2
+251
+
+3
+2008
+34 0
+4
+
+-80
+34 6
+6 28
+6 22
+96 21
+93 9
+2 3
+
+639 611 2 76
+263 945 1
+7
+83
+592
+1
+68
+2
+
+1 2 3
+
+185 380 43
+22 754 508
+
+30
+4
+78
+= ~
+9 -104
+632 4
+6 11
+= $
+38
+33
+31
+30
+37
+36
+35
+34
+= 0
+= 1
+44 44
+0 -86
+&
+5 60
+1 62
+1 65
+29
+25
+1 80
+-120
+40 27
+2
+
+91
+9 63
+0 -65
+0 -62
+9 67
+9 68
+6 -92
+# 3
+7 66
+0 6
+9 60
+0 8
+4 22
+5 68
+3 -87
+3 -86
+48 0
+2 -169
+6 32
+6 30
+144
+88
+82
+80
+81
+87
+84
+1
+
+2 3
+2
+1 2 3
+
+7 5
+313 193 248
+
+0
+0 23
+0 26
+1980
+36 58
+98
+36
+6 69
+3 8
+3 =
+1989
+3 5
+408 349 95
+742 4
+09 3
+49 36
+09 9
+24
+15
+-180
+} =
+35 6
+66 0
+5 -179
+66 5
+5 -176
+5 -177
+5 -174
+5 -175
+*+120
+3 1 1
+39
+51
+6 -177
+0
+176
+=
+3 88
+20 4
+= 150
+0 -56
+}
+94 41
+7
+-69
+999
+998
+120
+8 -3
+18 55
+2 -178
+2 -177
+2 -172
+*
+4 = 30
+8 -83
+8 -86
+98 27
+98 24
+0 4
+{ #
+3 -90
+{ &
+2 61
+71 69
+= -60
+= { -60
+73%
+28
+5
+-172
+68 2
+~
+00
+83
+00
+89
+8 177
+8 179
+284
+9
+0
+23 4
+5 88
+5 83
+5 86
+5 84
+22 1
+987
+985
+12
+15
+284
+1
+166771680
+4 -150
+30
+52
+07
+1
+6 17
+2
+71
+15 0
+46 35
+1 5
+1986
+1987
+1983
+1988
+6 -171
+6 -170
+7 35
+10
+
+0
+2 73
+6 -179
+6 -178
+2 77
+7 -172
+7 -178
+7 -179
+3
+
+1
+
+2 3 3
+
+608 608 608 1
+{3
+{2
+1 0 0
+48
+4 21
+45
+42
+43
+40
+41
+4%
+07 7
+5 -156
+2 179
+2 3
+1 2 1 2 1 2 1 2 3 1 2 3 1 2 3
+4 = 150

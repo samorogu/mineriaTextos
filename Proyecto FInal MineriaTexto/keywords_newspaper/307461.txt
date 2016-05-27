@@ -1,0 +1,13 @@
+operons
+transcriptional
+network
+factors
+transcription
+motif
+interactions
+307461txt
+master
+motifs
+factor
+samorogu
+networks

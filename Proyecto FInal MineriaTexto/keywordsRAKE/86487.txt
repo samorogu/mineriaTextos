@@ -1,0 +1,1502 @@
+renilla luciferase reporter genes bearing 3 0 utr segments
+vivo expression specifi769
+
+© 2005 nature publishing group
+
+letters
+mann­whitney tests gave similar results
+expression profiling reveals off-target gene regulation
+lin-4 mediates temporal pattern formation
+european union marie curie fellowship
+shoji takeuchi4 & hiroyuki noji2
+limms/cnrs-iis
+senescence bypass screen identifies tbx2
+f1-atpase single molecules
+yannick rondelez1
+hela cells shifted hela gene expression
+/nature
+
+© 2005 nature publishing group
+
+letters
+tissue-specific mirnas enforce broad constraints
+f1 molecule underwent anticlockwise rotation
+sv40-driven renilla luciferaseexpressing plasmid
+glass-bound a3b3 stator part
+ten wild-type reporters exhibited significant
+marie curie cancer care
+yeast reporter strain dy1641
+771
+
+© 2005 nature publishing group
+
+letters
+figure 1 tissue-specific gene expression rankings
+mediates uv-induced tyrosinase expression
+established luciferase reporter system3
+mirna seed region contributes directly
+basic-helix­loop­helix-zipper protein
+one-sided kolmogorov­smirnov test
+fluorescent label reversed pairs
+/nature
+
+© 2005 nature publishing group
+metazoan mirnas directing cleavage reactions
+cleave highly mismatched substrates21
+human alternative pre-mrna splicing
+progressive multiple sequence alignment
+off-target sirna effects observed previously
+sv40-renilla luciferase reporter plasmid
+mediate negative posttranscriptional regulation
+experiment combining single-molecule manipulation
+experiments detected reduced mrna levels
+770
+© 2005 nature publishing group
+nature
+t-box transcription factor tbx2
+brachyury-related transcription factor tbx2
+exon­exon junction probes
+post-transcriptionally regulate gene expression
+firefly luciferase reporter plasmid
+mirnas exhibit strand bias
+cyclindependent kinase inhibitor p21
+multiple-turnover rnai enzyme complex
+detect physiologically relevant mirna
+gene ontology consortium terms26
+rosetta gene expression laboratory
+repressing key regulatory genes
+124mut9-10 signature highlighted brain tissues
+wilcoxon rank sum test
+human embryonic stem cells
+graphing relative gene expression
+nature
+
+figure 2 over-represented motifs
+off-target transcripts contained sites
+single f1 enzyme reached
+highly coupled atp synthesis
+/nature
+
+figure 3 microarray analysis
+evolutionarily conserved utr regions
+define tissue-specific gene expression
+motif discovery tool meme14
+relative luciferase values derived
+unique human unigene transcripts
+corpus callosum microarray samples
+firefly luciferase transfection control
+accumulated mirna complementary sites
+potential mirna binding sites
+772
+
+sequence analysis
+probe transcripts
+micrornas downregulate large numbers
+background cerebral cortex rankings
+human tissue expression atlas
+define metazoan cell types
+reduced message levels18
+cyclin-dependent kinase inhibitor
+human mirna sequence expressed
+results provide experimental support
+single f1 molecules
+embryonic stem cells
+tbx2 directly represses
+wilcoxon rank-sum test
+johnson1
+1 rosetta inpharmatics
+exhibit slow kinetics
+firefly luciferase activity
+rnai enzyme complex
+gene ontology consortium
+mutant 3 0 utr segments
+mutant utr segments
+stress-responsive p38 kinase
+rna-inducing silencing complex
+single-molecule experiments6­9 point
+atp-driven anticlockwise rotation
+monoclonal anti-c-kit antibody
+conservation-based bioinformatic predictions
+atp molecules produced
+competing interests statement
+position-specific gap penalties
+analytical method-- comparison
+energetically uphill reaction
+melanocyte-specific trp-1 promoter
+6-fl transparent container16
+predominantly negative regulators
+ncbi gene-centered resources
+published online 30 january 2005
+submicrometre-sized plastic bead9
+extremely small volume
+wholly owned subsidiary
+competing financial interests
+femtolitre-sized hermetic chambers
+asterisks denote instances
+rb1 expression vectors
+heterochronic gene lin-14
+produce tissue-specific signals
+muscle-specific gene twinfilin-2
+usf-1 transcription factor
+sequence motifs over-represented
+measuring luciferase activity
+potential binding sites
+putative binding sites
+human breast cancers
+metazoan mirnas6­9 led
+/nature
+
+significant propensity
+ubiquitous f0f1 complex
+point substitutions disrupting
+nucleic acids res
+p21 cip1 promoter
+exon junction microarrays
+ccaat-enhancer binding protein
+evolutionary time scales
+mutant reporter plasmids
+small interfering rna
+improved computational methods
+noncognate mirna typically
+natural mirna functions
+mirna interacting directly
+figure 4 microrna-directed repression
+inhibit mrna expression
+unwanted transcription factors
+small interfering rnas
+chronic myelogenous leukemia
+decreased productive translation
+inhibiting productive translation
+relative gene expression
+clustering analysis suggested
+setting motif width `
+sequence logo representation
+international cancer research
+overexpressed plant mirna4
+chimaeric mirnas showed
+mutant plasmid cotransfections
+helped find targets
+gene expression analysis
+5 0 phosphomonoester-producing rna endonuclease
+124mut9-10 duplex gave
+accurately predict downregulation
+potentially widespread influence
+individual bases represent
+versus fluorescence intensity
+mrna degradation machinery
+3 0 utr sequence motifs
+locuslink sequence accessions
+highly significant motifs
+cerebral cortex rankings
+generating tissue-specific signatures
+human melanoma cells
+human neuronal differentiation
+decreased mrna levels
+mammalian micrornas uncovers
+microarray analysis showed
+microarray analysis shows
+mammalian microrna targets
+microrna target selection
+geo accession number
+mirna target sites
+predominantly biological targets
+neural-specific gene synaptogyrin 1
+cerebral cortex relative
+wild-type plasmid cotransfections
+standard sirna experiments
+vertebrate mirna targets
+identifying mirna targets
+reveal additional determinants
+weight matrix choice
+mechanochemical coupling efficiency
+mirnas differentially influences
+human microrna targets
+mir-124-downregulated human utrs
+human tissue indices
+gene expression data
+supplementary information accompanies
+significantly downregulated probes
+downregulated gene sets
+longer motif sizes
+significant meme motifs
+mutant seed matches
+significantly downregulated gene
+hela cells transfected
+meme default parameters
+target mrnas
+lee
+hela genes downregulated
+luciferase reporters
+mirna seed region
+hypothesis recently supported
+messenger rna profile
+posttranscriptional regulation
+/nature
+
+letters
+chimaeric mirnas transfected
+downregulated signature 89% shared
+plant microrna targets
+expression profiling
+6-nt seed matches
+downregulated utrs versus
+cell type-specific mirnas
+delivering mir-1 shifts
+gene-expression reference set
+microarray analysis
+transfections
+usa 2 whitehead institute
+annotated unigene 3 0 utrs
+mouse microphthalmia locus
+100 nm rna duplexes
+174 annotated genes downregulated
+transcript levels observed
+observed mirna targets
+require additional repression
+mrna knockdown observed
+chip background signal
+mutant reporter
+predicted target genes
+mirna tissue specificity
+reporter plasmids
+microrna-directed cleavage
+mir-124 rna duplexes
+gave sets
+gene ontology
+transcription factor
+f1 molecule
+locuslink genes represented
+gene expression
+mir-124 downregulated genes
+expression atlas
+tk-renilla luciferase
+human cancer
+catalytic reactions
+geometric constraints
+hiroyuki fujita4
+cancer res
+hela cells
+transcription factors
+human cells
+anticlockwise direction
+productive translation
+sequence logo
+experimental support
+expression levels
+microarray signature 12
+target sites
+mirna sequence
+atp synthesis
+time point
+tissue-specific signal
+mutant plasmid
+mir-124 downregulated messages
+similar results
+tissue-specific mirnas
+luciferase values
+cerebral cortex
+potential activities
+fluorescent filament
+functional discovery
+vivo activity
+protein deriving
+conserved region
+messenger rna
+upregulated probes
+negative consequences
+directly responsible
+default parameters
+human mirnas
+downregulated signature
+observed directly
+metazoan mirnas
+dampen expression
+expression profile
+expression ratio
+expression profiles
+braf gene
+gene mda-6
+gene expression3
+gene encoding
+3 0 utr matches
+seed matches
+ugccuu sites
+46 human tissues13
+sequence weighting
+sequence logos
+mutant plasmids
+mechanical rotation
+mirna duplex
+plasmid construction
+puc19 plasmid
+transcript degradation
+additional experiments
+direct binding
+expression level
+tissue-specific micrornas
+microarray experiments
+similar procedure
+similar mechanisms
+highly expressed
+detect enrichment
+c33a cells
+clear cells
+significant differences
+discover motifs
+statistically significant
+transcript levels
+wild-type plasmid
+mirna targets
+adrenal cortex
+results suggest
+melanoma differentiation-
+results imply
+weight matrix
+ubiquitous form
+background sets
+unpublished results
+synthesized atp
+atp synthesis11­13
+mechanochemical transformation
+represses cdkn2a
+results demonstrate
+biomedical research
+gene ranks
+methods
+transfections
+relative heights
+total rna
+metazoan micrornas
+human muscle
+hoxb8 mrna
+mrna knockdown
+consensus sequence
+microarray platform
+microarray hybridizations
+supplementary information
+mirnas downregulate
+plant mirnas
+non-cognate mirna
+cognate mirna
+repression relative
+downregulated sets
+46 human tissues
+human tissues
+mrna repression
+tissue key
+standard deviation
+noncoding rnas
+differentially regulated
+micro rnas
+information content
+lymphoblastic leukemia
+lower levels
+valuable tool
+premyelocytic leukemia
+significantly downregulated
+kinetic analysis
+statistical analysis
+motif nucleotides
+cell types
+metazoan mirnas3
+nutritional signal
+offtarget effects
+genes downregulated
+174 genes downregulated
+downregulated genes
+consensus motifs
+locuslink genes
+000 locuslink genes
+transfected mirna
+observed motif
+transcript population
+previously appreciated
+transfection control
+independent experiments
+nature
+cities
+nature biotechnol
+nature rev
+nature struct
+key role
+tissuespecific mirnas
+mirnas interact
+meme findings
+meme expectation
+significantly differ
+mirnas noted
+on-target mirnas
+coding regions
+3 0 untranslated regions
+target genes
+significant overlap
+significant enrichment
+downregulated signatures
+downregulated transcripts
+locuslink database12
+differentially expressed
+transfection experiments
+direct targets
+supplementary note
+target recognition16
+supplementary discussion
+supplementary tables 1
+supplementary table 3
+target transcripts
+upregulated genes
+genes characterized
+expected motifs
+microarray data
+non-neural paralogue
+median intensity
+uaaggcacgcggugaaugcca/ gcauucaccgcgugccuuaau
+microfabrication techniques
+authors declare
+well-studied paralogues
+uggaauguaaggugaaugcca/ gcauucaccuuacauucaaua
+natl acad
+subcellular localizations
+efficient e2f-induced
+linsley1 & jason
+direct evidence
+smaller reflects
+takako nakashima2
+near-perfect complementarity9
+rotary motor
+speed proportional
+colorectal adenocarcinoma
+er-expression vector
+postcentral gyrus
+animal development
+venn diagram
+cdc25a phosphatase
+open bars
+functional classes
+molecular structure
+magnetic bead
+striking feature
+exact match
+401 terry avenue
+biological importance
+switching bases
+uaaggcaccgggugaaugcca/ gcauucacccggugccuuaau
+transcriptional response
+melanocyte development
+independent normalization
+1-kb segment
+randomly select
+intraventricular septum
+compelling evidence
+uggaauguaaagaaguauguaa/ acauacuucuuuacauucaaua
+uaaggcacgcagaaguauguaa/ acauacuucugcgugccuuaua
+philip garrett-engele1
+microfabrication technique
+subtle decreases
+upregulated transcripts
+andrew grimson2
+important contributions
+a3b3g subcomplex
+non-muscle paralogue
+prior knowledge
+accepted 22 december 2004
+leaf morphogenesis
+completely distinct
+magnetic field
+bone marrow
+promote activation
+magnetic tweezers15
+rneasy kit
+differentiation switch
+error model29
+background set
+partner motor
+lymph node
+expectation maximization
+shed light
+received 22 july
+hexamer frequencies
+genetically engineered
+hydrolyses atp1­5
+simplest interpretation
+easily isolated
+filled bars
+genome-wide survey
+wild type
+glass slide
+transcriptional apparatus
+ocular retardation
+mirna-mediated knockdown
+uaagcgacgcggugaaugcca/ gcauucaccgcgucgcuuaau
+combined
+
+height
+smaller signatures
+guillaume tresset1
+salivary gland
+polya tails
+strongest evidence
+p21-null mefs
+twinfilin isoforms
+error bars
+spinal cord
+unintentional reduction
+adrenal medulla
+magnetic tweezers
+tightly couple
+chosen randomly
+yasuyuki kato-yamada3
+caudate nucleus
+catalytic events
+primer design
+st paul
+optical microscope
+translationally repressed
+transcriptional fluctuations
+124mut5-6 signature
+transfected mirnas
+large number
+delivering mir-124
+mrna interactions
+annotated utrs
+mock transfection
+transfection efficiencies
+microarray work
+nature genet
+mirna-directed repression
+translational repression
+genes dev
+data support
+mutant mir-124
+mutant sequences
+downregulated utrs
+low levels
+risc endonuclease
+additional pairing
+preferentially expressed
+lowly expressed
+naturally expressed
+generally expressed
+hexamers complementary
+letters
+represented
+nature
+mir-1 results
+background distribution
+genome-wide level
+lower level
+mirna mutations
+brain mirna
+seed positions 2­8
+duplex sirnas
+brainexpressed micrornas
+orthologous utrs
+tissue survey
+tissue distributions
+vitro experiments
+aligned
+nature
+japan 4 cirmm
+skeletal muscle
+ugccuu site
+downregulated messages
+locuslink loci
+greater number
+tokyo 171-8501
+assign ranks
+one-gene overlap
+mouse orthologues
+documented overlap
+convincing enrichment
+tokyo 153-8505
+probable targets
+mir-124 targets
+mir-124 target
+distinct roles
+clockwise direction
+computationally search
+massachusetts institute
+significantly enriched
+lee_lim@merck
+physiological function
+primarily independent
+partial complementarity
+meme constructed
+culture replicates
+essential function
+newborn mice
+/rm/ repeatmasker
+john castle1
+caenorhabditis elegans
+agilent microarrays
+secondary effect
+sense strand27
+capturing aspects
+mirna-downregulated messages
+9 cambridge center
+mixture model
+functional sirnas
+mir-124 transfection
+supplementary fig
+mir-1 targets
+life science
+bases represents
+safety mechanism
+industrial science
+express mir-1
+length 10 illustrates
+plos biol
+mir-1 transfection
+tissue distribution
+goding@mcri
+japan 3 department
+/nature
+// www
+mir-1 set
+test
+directing
+screen
+ten
+detected
+identical manner
+define
+sirna
+1
+
+f1-atpase
+mir-124 values
+cloned sequences
+brain tissues
+expression
+gene
+tissue-specific
+rankings
+words cauucc
+highly
+human
+vivo
+rnai
+rotation
+genome biol
+unigene 161
+binding
+p21
+3 0 utr
+microrna
+similar
+significant
+motifs
+reached
+corpus
+rna
+relative
+samples
+experiment
+results
+mrna
+microarray
+mirna
+tool
+large
+f1
+levels
+analysis
+motif
+effects
+annotated
+background
+support
+plant
+downregulate
+activity
+control
+previously
+experiments
+nature 425
+nature
+773
+
+nature
+nature 417
+nature
+17
+mirnas
+significantly
+meme
+regions
+downregulated
+locuslink
+targets
+target
+genes
+6-nt
+microphthalmia
+provide
+provide 1
+specificity
+signatures
+5 0 region
+reference
+mrnas
+shared
+institute
+rank 1
+contained
+require
+reveal
+predicted
+124mut9-10
+duplexes
+differentiation
+100 nm
+transcripts
+transfections
+influence
+profile
+matrix
+supported
+bases
+intensity
+hypothesis
+downregulation
+sizes
+rank 46
+knockdown
+coupling
+transfection
+observed
+repression
+transfected
+wild-type
+dev
+expressed
+complementary
+level
+genet
+set
+micrornas
+utrs
+3 0 utrs
+tissue
+japan
+synaptogyrin
+usa 100
+consensus
+chip
+ugccuu
+usa
+synaptogyrin 2
+muscle
+data
+number
+represented
+mouse
+cell 115
+cell 110
+cell 116
+cell 102
+tokyo
+cell 74
+cell 75
+enrichment
+cell
+overlap
+ranks
+46 tissues
+tissues
+elegans
+aligned
+work
+messages
+vitro
+100 messages
+john
+roles
+merck
+manner
+expected
+role
+repeatmasker
+capturing
+values
+computationally
+microarrays
+model
+complementarity
+cambridge
+low
+cloned
+clockwise
+mirnas3
+sense
+probable
+primarily
+genome
+department
+replicates
+loci
+interactions
+mice
+words
+importance
+effect
+identical
+function
+massachusetts 02142
+distribution
+mir-124
+sequences
+sirnas
+risc
+represents
+mutations
+constructed
+brain
+enriched
+science
+science 302
+science 297
+science 251
+cauucc
+mechanism
+science 304
+science 301
+pairing
+fig
+mir-1
+length
+biol
+124mut5-6
+& goding
+positions 1­8
+positions 9
+positions 5
+www
+positions 2­7
+easty
+progression
+pruitt
+consistent
+chem
+blue
+selected
+mittnacht
+reported
+asymmetry
+lagos-quintana
+vogelstein
+& sazhina
+vigo
+uniq
+genomics
+right-
+cerebellum
+phosphorylated
+petersen
+wang
+transfecting
+r13
+seattle
+previously9
+previously5
+vance
+palatnik
+maintain
+davies
+clustalw30
+crucial
+wellbrock
+surprise
+estimate
+created
+plentiful
+1d
+g-subunit
+mislabelled
+regulator
+microphthalmia-
+strength
+-
+fitting
+forces
+phase
+acknowledgements
+doi
+observation
+calculated
+principle
+lewis
+implying
+stringent
+mir-124/1
+bertolotto
+sensitivity
+result
+discussions
+subject
+clustal
+vol 433
+approach
+extend
+wt
+essentially
+& ruvkun
+experimentally3
+requests
+described3
+mcandrew
+interest
+pancreas
+bladder
+ballotti
+conf
+amount
+plates
+possessed
+materials
+descending
+rotated
+assigned
+identify
+rotates
+thyroid
+lymphoma
+ease
+& cullen
+unification
+mirna-
+schwarz
+left-
+comments
+umek
+baskerville
+& gibson
+six-
+sense/antisense
+presence
+janz
+approximate
+class
+conservation
+decoded
+encodes
+underestimates
+attached
+//weblogo
+zeng
+cellugyrin
+& chen
+& lappalainen
+fell
+sw480
+burchard
+backward
+precedent
+concept
+switched
+arnheiter
+alternations
+chimir-1/124
+chimir-124/1
+burkitt
+prediction
+sirna5
+assistance
+reminiscent
+supporting
+development20
+hornyak
+shift
+plotted
+flexibility
+epididymus
+opposed
+cases
+believed
+heart
+chiu
+performed
+occur
+pink
+vital
+map
+cotransfection
+designed
+improving
+johnson
+differs
+hirst
+interesting
+correspondence
+mismatches
+sorted
+thymus
+owing
+lai
+17 february 2005
+shown
+jackson
+possibility
+animals1
+org
+remainder
+stillman
+turn
+oncogene 10
+long
+brain-
+1a
+1c
+1b
+1e
+biopolymers
+2institute
+transverse
+transcribed
+bailey
+green
+friedman
+pair
+duodenum
+average
+link
+show
+okura
+& zamore
+testis
+helin
+thompson
+ranking
+tk-
+hybridized
+yield
+college
+dexter
+rikkyo
+uk
+jacobs
+vartiainen
+filtering
+shih
+mirroring
+`neutral
+case
+hughes
+nishikawa
+//ftp
+hayes
+profiled
+3 0 orientation
+technology
+html
+extended
+maeda
+driven
+washington 98109
+armour
+embo
+inhibition
+colon
+mishybridized
+assembly
+k562
+& sudhof
+5 ng
+act
+johnston
+communication
+fisher
+log
+mammals
+jejunum
+ac
+al
+examine
+& tuschl
+briefly
+invest
+nelson
+doench
+tonsil
+sci
+caused
+lack
+removal
+lau2
+schadt
+sempere
+higgins
+250 ng
+contrast
+component
+berkeley
+two-tailed
+pellegrini
+pax-3
+& mcknight
+`zoops
+establish
+cd164
+constructs
+tested
+co-transfected
+cleavage1
+& ambros
+molt-4
+f0
+sharp
+e2f
+carreira
+cotransfected
+number3
+qiagen
+jiang
+ensembl
+developed
+gse2075
+paper
+susceptible
+yi
+sarkkinen
+speculate
+association
+oligofectamine
+2a
+2b
+found
+reduce
+idea
+melanocytes
+base
+defects
+muscle-
+leading
+percentage
+cyclin
+intensities
+incrementally
+ashburner
+lim
+liu
+base-pairing
+intell
+waf1
+ileum
+fetal
+phenomenon
+cdk
+bartel
+grafted
+compiled
+dermatol
+six-nucleotide
+wightman
+investigate
+vertebrates
+normalizing
+f21
+smallest
+& burge
+pictured
+hippocampus
+missing
+distinguish
+dharmacon
+due
+smit &
+liver
+plants
+murine
+hutvagner
+devised
+salminen
+p19arf
+percentages
+cleary
+haley
+mol
+prince
+yavuzer
+rotate
+separately
+hodgkinson
+play
+pronounced
+proc
+agreement
+carrington
+martinez
+size 10
+konyukhov
+specifically
+wildtype
+jones-rhoades
+retina
+curr
+likewise
+diverse
+kidney
+haynor
+coded
+confine
+1038/nature03315
+helping
+allowing
+5 0 end
+10 hz
+required
+uterus
+complex10
+yekta
+illustrated
+amplified
+indicating
+assay
+cellular
+& bartel
+micromanagers
+recruitment
+enclosed
+index
+3b
+3a
+body
+focused
+trachea
+addressed
+lim1
+occurred
+normalized
+amygdala
+animals
+weaker
+effectively
+reynolds
+prostate
+serrano
+hypothesize
+orange
+university
+identified
+subset
+galibert
+abrahams
+frequency
+measure
+invitrogen
+ref
+red
+& mizoguchi
+syngr2
+refseq
+interaction
+david
+repeats
+manuscript
+4b
+seq
+system
+stomach
+e363
+5 0 ends
+f11
+2 ng
+demonstration
+marais
+instance
+& sharp
+& ziff
+spleen
+pp60c-src
+twinfilin-1
+biogenesis
+syst
+organ
+cavet
+processed
+humans
+base 10
+identification
+thalamus
+variability
+janell
+conclude
+reconstitution
+addition
+1-subunit
+tissue-specificity
+sufficient
+ack2
+http
+frequently
+daudi
+compendium
+mech
+thought
+position
+matilainen
+folia
+purified
+ensmart
+& elkan
+& maglott
+brain10
+placenta
+khvorova
+arising
+growth
+peter
+refs 3
+weblogo
+masked
+biology
+analysed
+mitf
+column
+basis
+carrier
+hl-60
+introduced
+washington
+lung
+noticed
+& jayasena
+hs
+histogram
+ha
+1 mg
+int
+praha
+identities
+compared
+nonetheless
+bartz
+conclusion
+chance
+utrs--verified
+function3
+schelter1
+ptk9
+rhoades
+bartel2
+searched
+vertebrates3
+4a
+273
+275
+278
+101
+105
+96
+1993
+1995
+1994
+1999
+1998
+735­739
+40%
+2
+291­299
+1966
+116­123
+9779­9784
+25%
+2851­2857
+21920­21927
+1855­1864
+137­140
+34347­34355
+28­36
+0
+1991
+1669­1674
+322­328
+1
+513­520
+991­1008
+257­263
+5410­5420
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+200
+281­297
+3
+64
+855­862
+635­637
+1 77%
+209­216
+5
+5 0
+6
+5022­5031
+787­798
+363­364
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+47­59
+7
+396­400
+18%
+88%
+8
+949­954
+599­606
+109­126
+4
+9
+001
+288­292
+2002
+2003
+2000
+2001
+2004
+6379­6395
+25­29
+44%
+39
+38
+33
+32
+31
+30
+37
+36
+35
+34
+336­338
+5099­5108
+4673­4680
+438­442
+594­596
+2­7
+395­404
+2056­2060
+¼ 3 £ 10213
+199­208
+504­511
+2141­2144
+975­980
+46
+44
+45
+42
+43
+40
+41

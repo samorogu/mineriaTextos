@@ -1,0 +1,1012 @@
+danish national science research council
+european large subunit ribosomal rna database
+rights reserved
+
+3424
+
+nucleic acids research
+#
+
+2003 oxford university press
+
+nucleic acids research
+rna secondary structure prediction method today
+closely describing real rna structures
+stochastic context-free grammars
+bjarne knudsen*
+non-coding rna gene finding algorithm
+small subunit ribosomal rna
+noncoding rna gene detection
+lower left corner represents
+dk
+
+nucleic acids research
+thermo¨ ¨ dynamic controlled prediction
+base
+
+nucleic acids research
+change relative prior distributions
+rna secondary structure prediction based
+large subunit rrna databases
+2003
+
+abstract rna secondary structures
+points represent average results
+multiple related sequences improves predictions
+remove nonstandard base pairs
+predicting rna secondary structure
+eukaryotic srp rna database
+conserved base pairing patterns
+obtain related rna sequences
+thermodynamic parameters improve prediction
+point represents average results
+base pair binding probabilities
+progressive multiple sequence alignment
+square represent pairing probabilities
+rna secondary structure prediction
+supplementary material supplementary material
+treat
+
+introduction rna structures
+position specific gap penalties
+3426
+
+nucleic acids research
+3428
+
+nucleic acids research
+nucleic acids research
+rna structural sequence alignment
+stochastic context-free grammars
+nucleic acids res
+helixes enhances binding
+oxford ox1 3sy
+13 # oxford university press 2003
+rna virus genomes
+predicting rna structures
+south parks road
+rna secondary structure
+square represent probabilities
+10 eukaryotic srp rnas
+51 eukaryotic srp rnas
+bioinformatics research center
+mammalian protein metabolism
+expanded sequence dependence
+significant common sequence
+common secondary structures
+maximum likelihood estimates
+large distances imply
+13 bacterial srp rnas
+jotun hein1
+° birc
+stochastic context-free grammar
+weight matrix choice
+web-based server www
+van de peer
+large computation time
+large rna sequences
+predicts consensus structures
+gave good results
+neighbour joining algorithm
+give vital directions
+klebsiella pneumoniae rnase
+peter medawar building
+adjusting branch lengths
+uk
+received february 15
+optimal computer folding
+secondary structure prediction
+large evolutionary distances
+cambridge university press
+computation time substantially
+rna structure prediction
+form base pairs
+common structural prediction
+maximum obtainable average
+conserved secondary structure
+comparative sequence analysis
+prior probability distribution
+tree correspondingly pruned
+average sequence length
+maximum likelihood method
+explicit evolutionary model
+algorithmical improvements made
+efficient structure prediction
+web server returns
+single common structure
+maximum likelihood approach
+accuracy drops due
+maximum likelihood alignment
+reconstructing phylogenetic trees
+equilibrium partition function
+extended nucleotide alphabet
+loop rate matrix
+prediction accuracy varies
+left side shows
+kh-99 algorithm primarily
+biological sequence analysis
+50 random sequence combinations
+phylogenetic tree relating
+single rate matrix
+combining protein evolution
+combine energy calculations
+maximum pairwise distance
+base-pair rate matrix
+jukes­cantor model
+gapped sequence position
+genetic algorithm approach
+aligned rna sequences
+previous algorithm based
+jukes­cantor distances
+prediction accuracy rises
+european database
+clustalw alignment program
+nucleic acids
+original test set
+evolutionary information increases
+obvious individual structure
+method called pfold
+kh-99 method based
+highest expected number
+give improved results
+positions forming base-pairs
+srp rna
+single evolutionary tree
+evolutionary distance effect
+slightly longer stem
+clustalw alignments show
+bottom alignment shows
+oxford university
+rna folding
+pathogen research
+secondary structure
+secondary structures
+rna structure
+dot plot made
+rna structures
+supplementary material
+structural parameters
+maximum likelihood
+rna model
+academic press
+robustness pfold assumes
+large increase
+rna part
+ambiguous grammars
+specific sequence
+output introduction
+square plot
+branch lengths
+nonstandard pair
+automatic detection
+multiple formats
+multiple iterations
+gaps treating gaps
+rate matrix
+improves predictions
+rna sequences
+single sequence
+related sequences
+method improves
+sequence analysis
+computer prediction
+sequence weighting
+small differences
+computation times
+protein molecules
+evolutionary model
+pairing probabilities
+structure prediction
+prediction program
+structural elements
+structural analyses
+likelihood approach
+multiple sequences
+individual probabilities
+web server
+side shows
+phylogenetic analysis
+50 random combinations
+bk@birc
+specific range
+specific pair
+longer stem
+rate matrices
+sequence alignment
+structure predictions
+conserved structures
+single prediction
+accuracy increases
+accuracy rises
+de wachter
+de rijk
+biological processes
+individual predictions
+evolutionary trees
+evolutionary history
+pairwise distances
+structure motifs
+side note
+structure differences
+loop region
+obvious change
+free energy
+nested structure
+loop matchings
+mfold program
+posterior probabilities
+evolutionary distance
+prediction accuracies
+prediction significantly
+computational time
+kh99 model
+probabilistic model
+closely linked
+jukes-cantor model
+kh-99 method
+prediction accuracy
+kh-99 algorithm
+predicted structure
+results compared
+mfold results
+tmrna database
+single error
+work improves
+phylogenetic tree
+web page
+web site
+trna structure
+evolutionary information
+pairwise distance
+form pairs
+pairing position
+gapped sequences
+sequences due
+clustalw alignments
+method practically
+method remain
+method works
+rnaga method
+neighbor-joining method
+cyk algorithm
+algorithm practically
+larger numbers
+nar online
+main concerns
+coaxial stacking
+stem region
+helpful comments
+fl 32611-8525
+speech lang
+give rise
+bracket notation
+natl acad
+base-stacking interactions
+experimental investigations
+parenthesis notation
+stacking interactions
+answering questions
+computational properties
+dot plot
+length greater
+accepted april 5
+homology testing
+bmc bioinformatics
+largest improvement
+realistic scenario
+carlsberg foundation
+energy calculations
+simpler ideas
+higher accuracies
+øegh guldbergsgade 10
+high correlation
+fasta format
+dk/~compbio/pfold
+biological sequences
+small probability
+accuracy levels
+scfg model
+disallowing pairs
+sequencing errors
+correctly predicted
+incorrectly predicted
+predicted pair
+previous knowledge
+individual sequences
+alignment laid
+statistical alignment
+bottom alignment
+allowed structures
+identical probabilities
+trna genes
+extensive trna
+columns form
+single sequences
+column probabilities
+covariation information
+covariance information
+auxiliary information
+relevant information
+partial information
+test sets
+alignment errors
+calculations resemble
+positions 359­366 form
+positions 84­87 form
+kh-99 result
+methods enzymol
+test set
+methods resemble
+graph made
+computational methods
+standard methods
+single positions
+returning problem
+single column
+gca-trna sequences
+dna sequences
+unique sequences
+hypothetical sequences
+removing columns
+faster method
+probabilistic models
+early algorithms
+pfold reports
+pfold assumes
+lowest number
+1093/nar/gkg614
+
+pfold
+problems arise
+relevant number
+situation applies
+limited number
+treating gaps
+base-pair evolution
+alignment problem
+work makes
+include pairs
+work presents
+work reduces
+alignment columns
+trna sequences
+predicted individually
+important aspect
+treated correctly
+computational speed
+column pairs
+top alignment
+unknown nucleotides
+rna
+figure 3 shows
+posterior probability
+correct predictions
+tree estimation
+unknown nucleotide
+methods pfold
+sequences act
+average
+gaps represented
+nucleotides put
+calculated tree
+align sequences
+dots inside
+database
+left
+rnas
+thermodynamic
+databases
+point
+treat
+gap
+rrna
+16 matrix
+university
+evolutionary
+change
+jukes
+pairing
+based
+improved
+cantor
+structure
+structures
+probabilities
+prediction
+closely
+model
+time
+shows
+results
+single
+predictions
+50 distances
+distances
+conserved
+analysis
+method
+algorithm
+rnase
+treating
+plot
+obvious
+give
+bioinformatics
+base-pair
+combinations
+cambridge
+building 090
+base-pairs
+aligned
+length
+obtainable
+pair
+uk
+dot
+show
+trees
+expected
+effect
+bottom
+stem
+assumes
+robustness
+accuracy
+distance
+pairs
+approach
+errors
+unknown
+predicted
+alignment
+trna
+finding
+tree
+position
+information
+calculations
+scfg
+slightly
+methods
+made
+problem
+sequences
+40 sequences
+columns
+sets
+alignments
+include
+tmrna
+represented
+allowed
+algorithms
+grammar
+individually
+put
+number
+top
+set
+result
+pfold
+estimation
+dots
+situation
+identical
+problems
+act
+models
+faster
+gaps
+nucleotides
+positions
+positions 282­285
+positions 68­70
+500 positions
+knudsen
+evolution
+column
+work
+function
+treated
+nucleotide
+knowledge
+speed
+important
+probability
+align
+inside­
+calculated
+correct
+`correct
+13
+
+figure 2
+13
+
+figure 4
+figure 1
+13
+
+3427
+
+figure 7
+figure 3
+figure 5
+figure 6
+figure 7
+sci
+sch
+acknowledgements
+illustrated
+involved
+kleitman
+depend
+young
+neighbours
+thorne
+jakob
+brown
+fax
+advantage
+crosses
+ans-0604/20
+hyb
+higgins
+table 1
+tel
+estimated
+tet
+munro
+50 units
+section
+ebbe
+rub
+version
+satisfy
+evolving
+evaluating
+meg
+compilation
+felsenstein
+len
+lep
+exceptions
+consideration
+obtained
+gorodkin
+leaves
+implementation
+ribonuclease
+dro
+kishino
+durbin
+vib
+visible
+addressed
+winkelmans
+pp
+bre
+handled
+usa
+goodness-offit
+opposed
+type
+chem
+mitchison
+hein
+br-
+circumstances
+kle
+account
+avoiding
+unknowns
+1% chance
+making
+cae
+programming
+sph
+performed
+ma-
+andersen
+mouse
+discussion
+pedersen
+spe
+daimi
+explains
+sabina
+lae
+applications
+mac
+produce
+1department
+improving
+intervals [0
+data
+appendix 1
+wibling
+ste
+mccaskill
+oligoribonucleotides
+typ
+correspond
+øller
+tmrdb
+imagining
+interpretation
+13 3423­3428 doi
+developed
+symbols
+including
+biopolymers
+clo
+chosen
+interesting
+inclusion
+th-
+fig
+areas
+correspondence
+tri
+evol
+steger
+emphasised
+hyphens
+easily
+proteins
+zwieb
+krogh
+found
+luck
+weighted
+christian
+mueller
+ed
+revised
+wiuf
+frequency
+loops
+shown
+burks
+steinberg
+wuyts
+ja-
+denoted
+math
+bac
+pum
+illustrating
+ory
+complicated
+york
+estimate
+beginning
+florida
+wower
+9 tmrnas
+explored
+incorporated
+assumed
+kim
+quality
+size
+homologues
+construct
+imitate
+eddy
+rates
+percentage
+cope
+hum
+tool
+5 units
+horn
+pne
+siam
+saitou
+modelled
+accordance
+pieczenik
+comput
+sal
+summing
+rat
+close
+turner
+variables
+viewed
+wilson
+implemented
+-
+x-
+performance
+goldman
+prohibitive
+extending
+whichever
+nussinov
+takes
+considered
+li-
+counted
+looked
+lack
+8000 arhus
+zea
+chicken
+slow
+upwards
+situations
+ruin
+stormo
+clustal
+thompson
+ae-
+box 118525
+means
+reliabilities
+mul
+report
+written
+sprinzl
+produced
+denmark
+summary
+gibson
+graf
+deletions
+sensitivity
+notice
+aarhus
+ara
+evaluation
+user
+finally
+difficulties
+mel
+stadler
+hofacker
+email
+//www
+terms
+rivas
+parentheses
+cow
+equal
+ioudovitch
+lu-
+overview
+alc
+pol
+pom
+respect
+combines
+estimating
+yar
+reduction
+describes
+treatment
+field
+sufficient
+great
+input
+case
+reliable
+evaluated
+griggs
+fug
+diverse
+unpaired
+vol
+zuker
+par
+pas
+grant
+perform
+make
+parts
+potentially
+13
+
+references
+1
+widely
+sat
+difficult
+http
+fekete
+purpose
+robust
+programs
+acknowledge
+thu
+col
+mathews
+maizel
+generally
+xen
+chen
+effects
+alternative
+yer
+hom
+letting
+adding
+hae
+aspects
+samuelsson
+boxes
+mol
+pseudoknots
+`-
+success
+el-
+unix
+ros
+manuscript
+juan
+essential
+deal
+successfully
+fixing
+examples
+sa-
+pes
+lari
+proc
+pose
+analysed
+nei
+heyer
+proven
+discussed
+practical
+lyttle
+es-
+previously
+parsing
+included
+pyrimidine
+zoology
+cho
+statistics
+21-00-0283
+support
+knowing
+biol
+appl
+low
+stiegler
+removes
+link
+removed
+partially
+versions
+pseudoknot
+cin
+cir
+walter
+issue
+al
+cer
+rosenblad
+reliability
+au
+lyc
+inf
+gainesville
+grouped
+details
+department
+kinds
+pair-scfg
+includes
+appendix 2
+sides
+jones
+insertions
+assume
+265­279
+0
+1990
+363
+1998
+21­132
+270
+446­454
+33
+30
+35
+363­364
+401­414
+6
+262­288
+24­27
+91
+90
+183­185
+1991
+1994
+1997
+1996
+1999
+1
+4208­4217
+þ1 3523923704
+24
+25
+26
+20
+21
+22
+23
+28
+7
+297
+180
+2
+446­447
+10
+13
+12
+15
+14
+16
+19
+18
+1%
+4673­4680
+80%
+1969
+29
+8
+11
+[0
+35­56
+17
+13
+
+3425
+319
+314
+3
+27
+1059­1066
+911­940
+60
+250
+289
+368­376
+406­425
+þ1 3523927552
+<75%
+31
+9
+288
+1105­1119
+4
+133­148
+1978
+3724­3732
+9218­9222
+72­76
+302
+68­82
+666­673
+300
+175­177
+1987
+1981
+*
+1989
+991­999
+75%
+9­11
+935­947
+5
+114­124
+2002
+2003
+2000
+2001
+148­153

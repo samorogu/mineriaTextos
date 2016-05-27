@@ -1,0 +1,1949 @@
+cell mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 pc3 mcf7 mcf7 mcf7 ssmcf7 hl60 pc3 hl60 mcf7 mcf7 mcf7 skmel5 mcf7 mcf7 pc3 hl60 ssmcf7 mcf7 mcf7 mcf7 mcf7 score 1 0
+1
+
+rank 2 3 4 5 6 8 9 10 11 12 13 17 20 21 25 27 46 51 64 148 152 162 278
+
+perturbagen estradiol [988] estradiol [373] genistein [1015] estradiol [1079] estradiol [1021] alpha-estradiol [990] alpha-estradiol [403] estradiol [414] estradiol [121] genistein [1073] genistein [638] alpha-estradiol [1048] genistein [268] estradiol [365] genistein [382] genistein [267] alpha-estradiol [122] estradiol [387] estradiol [782] alpha-estradiol [702] genistein [703] alpha-estradiol [762] estradiol [665]
+cell mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 skmel5 mcf7 mcf7 mcf7
+
+score 1 0
+[413] valproic acid [410] valproic acid [458] valproic acid [409] valproic acid [1020] valproic acid [346] valproic acid [1078] valproic acid [629] valproic acid [347] valproic acid [989] valproic acid [433] trichostatin
+1
+
+rank 1 2 3 4 5 7 8 9 10 11 12 14 17 21 58 256 332 342
+
+perturbagen trifluoperazine [421] prochlorperazine [455] fluphenazine [490] thioridazine [417] chlorpromazine [419] thioridazine [422] trifluoperazine [910] thioridazine [1068] prochlorperazine [1053] thioridazine [1010] trifluoperazine [1004] fluphenazine [1075] prochlorperazine [995] fluphenazine [1017] fluphenazine [494] chlorpromazine [426] chlorpromazine [997] chlorpromazine [1055]
+
+dose 10 µ
+mcf7 mcf7 10 nm mcf7 10 nm 10 nm mcf7 10 nm ssmcf7 10 nm ssmcf7 mcf7 10 nm mcf7 10 µ
+cell mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7 mcf7
+
+score 0
+1
+
+rank 171 261 447 450 451 452 453
+
+perturbagen fulvestrant [704] fulvestrant [523] fulvestrant [367] fulvestrant [310] fulvestrant [985] fulvestrant [1076] fulvestrant [1043]
+
+100 nm mcf7 10 nm ssmcf7 10 µ
+cell pc3 ssmcf7 mcf7 mcf7 mcf7 mcf7 mcf7 score 0 0 -0
+[364] valproic acid [497] valproic acid [348] valproic acid [994] valproic acid [1002] valproic acid [1060] dose 10 µ
+mcf7 10 nm mcf7 10 nm hl60 10 nm hl60 pc3 10 nm pc3 10 µ
+1
+
+rank 6 15 22 27 80 127 216 257
+
+perturbagen haloperidol [418] clozapine [416] haloperidol [492] haloperidol [983] clozapine [1009] haloperidol [1041] haloperidol [1024] haloperidol [1082]
+
+dose 10 µ
+314 0 0
+
+rank 427 442 451
+
+perturbagen arachidonic acid [443] arachidonic acid [604] arachidonic acid [441]
+
+dose 10 µ
+[448] valproic acid [345] valproic acid [23] valproic acid [1047] trichostatin
+cell mcf7 mcf7 mcf7
+
+score -0
+mcf7 100 nm mcf7 mcf7 10 µ
+100 nm 100 nm 100 nm 10 mm 1 mm 1 mm 100 nm 10 mm 1 mm 1 mm 500 µ
+mcf7 10 nm 10 nm pc3
+
+fig
+rank perturbagen dose cell score
+mcf7 10 nm mcf7 1 µ
+acute 1 sirolimus [1059] 100 nm mcf7 1 lymphoblastic leukemia
+breast cancer epithelial cell line mcf7
+prochlorperazine
+
+cl
+
+thioridazine
+
+fluphenazine
+prostate cancer epithelial cell line pc3
+result 40 64 sirolimus [921] 100 nm mcf7 0
+979 2 sirolimus [987] 100 nm mcf7 100 barview
+mcf7 breast cancer line
+930 7 sirolimus [1045] 100 nm mcf7
+11 sirolimus [1022] 100 nm mcf7 0
+39 sirolimus [362] 100 nm hl60 0
+pattern-matching algoquery output rithms score
+60 35 sirolimus [402] 100 nm ssmcf7 0
+100 nm mcf7 0
+897 80 100 nm mcf7 0
+valproic acid
+valproic acid
+
+453
+connectivity map yielded high positive connectivity scores
+nonepithelial lines hl60
+alpha-estradiol
+research articles
+receiving high connectivity scores
+mode
+perturbagen vorinostat [1000] trichostatin
+yield consistently strong negative connectivity scores
+flt3-itd internal tandem duplication mutant
+estradiol
+yielded statistically significant negative connectivity
+connectivity map biological state reference database concept
+mcf7 cells
+1 mm 1 mm 100 nm 1 mm 50 µ
+genistein
+8 angstrom resolution reveals atomic details
+dose cell score 0
+positive
+
+negative
+
+1930
+
+29 september 2006
+
+vol 313
+
+science
+
+www
+hl60 cells
+arachidonic acid cascade
+large-scale community connectivity map project
+skmel5
+adipose tissue versus cell lines
+treating lncap prostate cancer cells
+included multiple compounds sharing molecular targets
+70s ribosome complexed science vol 313
+arachidonic acid instances
+suberoylanilide hydroxamic acid
+hsp90 inhibitors showed marked connectivity
+2008
+
+celerated neuronal cell death
+flt3 internal tandem duplication
+tzds promote weight gain
+arachidonic acid
+ssmcf7
+bcr-abl t315i point mutant
+high-throughput gene expression­based screen
+whole-animal studies precludes contemplating
+lymphoid cell line cem-c1
+peroxisome proliferatoractivated receptor gamma
+used--including dna methylation patterns
+cell lines yielded null
+drug-resistant versus drug-sensitive leukemia
+alternative signature-based patternmatching methods
+org
+
+science
+
+vol 313
+
+29 september 2006
+
+1931
+
+downloaded
+pc3
+rank-based pattern-matching strategy based
+modulate nuclear hormone signaling
+effective therapies remain elusive
+strong weak null strong
+antiestrogen fulvestrant received
+s5 table s1 signatures s1
+lowconcentration chlorpromazine treatments
+maximum attainable plasma concentrations
+obscures estrogen stimulation signals
+epidermal growth factor receptor
+positive connectivity score
+--received high connectivity scores
+bacterial 70s ribosome refined
+100 nm 100 nm 1 µ
+100 nm 100 nm 10 µ
+triterpenoid natural product gedunin
+ba/f3 cells ectopically expressing
+potent dual cyclooxygenase/lipoxygenase inhibitors
+comparing bone-marrow leukemic cells
+selective estrogen receptor modulators
+nonphenothiazine antipsychotics haloperidol
+7howard hughes medical institute
+howard hughes medical institute
+highest negative connectivity scores
+directly regulate gene expression
+null connectivity score
+2008
+
+research articles
+nectivity map
+530 104 sirolimus [326] 100 nm 20 bination
+mutant show increased sensitivity
+acute lymphoblastic leukemia
+including 15-delta prostaglandin j2
+bottom positive positive negative
+453
+
+453
+
+1932
+
+29 september 2006
+
+vol 313
+
+science
+
+www
+small molecules applied acutely
+connectivity map immediately suggests
+sirolimus reverses glucocorticoid resistance
+first-generation connectivity map perturbagens
+chlorpromazine
+
+cl
+164 distinct bioactive small-molecule perturbagens
+supporting online material
+www
+thioridazine
+fluphenazine
+connectivity map result suggests
+sirolimus conferred dexamethasone sensitivity
+reveal complex biological activities
+resistant cell line
+poorly characterized small molecules
+70s ribosome complexed
+cultured human cells treated
+reference cell line
+rank
+1
+
+rank 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 33 39 52 61 71 72 73 76 89 92 297 388 403 419
+external hdac inhibitor signature
+science web sites related
+genomewide mrna expression data
+vol 313 29 september 2006
+
+1933
+
+downloaded
+primary leukemia cells grown
+showed significant enrichment
+small molecules hdac inhibitors
+organic cell state
+gene set enrichment analysis
+human cell lines
+connectivity map data set
+``connectivity score
+connectivity score
+small molecules sharing
+up-regulated query genes tend
+connectivity map concept
+prostate cancer cells
+prochlorperazine
+10 diverse cell lines
+120
+
+453
+
+1934
+
+29 september 2006
+
+vol 313
+
+viability
+15-delta prostaglandin j2
+rat adipose tissue
+null score
+gedunin abrogated ar activity
+5harvard medical school
+highest connectivity scores
+fulvestrant
+2008 supporting online material
+trifluoperazine
+high connectivity scores
+community resource project
+cell-based small-molecule screens
+directly modulate transcription--
+10 nm sirolimus
+sufficiently high complexity
+selected hdac inhibitor instances
+mammalian cell culture
+diverse cell types
+rat versus human
+mutant interacting proteins
+estrogen receptor modulators
+natural estrogen receptor
+clear negative connectivity
+studied 164 distinct smallmolecule perturbagens
+revealed strong connectivity
+show strong connectivity
+cultured human cells
+oral antidiabetic agents
+aggregating ab1-42 peptide
+affymetrix genechip microarrays
+develop pattern-matching tools
+escherichia coli ribosome
+dna microarrays meets
+nondrug bioactive ``tool
+markedly lower affinity
+national cancer institute
+druglike physicochemical properties
+dana-farber cancer institute
+30s ribosomal subunits
+print issn 0036-8075
+bioactive small molecules
+including cell type
+uncharacterized small molecule
+inhibit prostaglandin synthesis
+haloperidol
+genes consistently regulated
+connectivity map analyses
+incomplete connectivity map
+expanded connectivity map
+mutant hsp90-interacting proteins
+online issn 1095-9203
+chlorpromazine
+identifying small molecules
+small molecules capable
+connect small molecules
+allen family foundation
+reveal cryptic subtypes
+heat shock protein 90
+predict cancer prognosis
+metal ion stabilizes
+detecting relevant signals
+discover unexpected connections--
+anti-apoptotic protein mcl1
+science vol 313
+
+www
+human genetic research
+show increased sensitivity
+including high-resolution figures
+open reading frames
+yield robust signals--
+phenol red-free medium
+internal phenothazine signature
+detect multiple components
+identify small molecules
+cell line
+connectivity map depends
+differential expression relative
+inhibitory rnas targeting
+potentially powerful tool
+65 days versus 6 hours
+analytical methods capable
+vivo studies suffer
+org
+
+29 september 2006
+
+1935
+
+downloaded
+org
+
+29 september 2006
+
+1929
+
+downloaded
+2008
+
+research articles
+culture
+extensively molecularly characterized
+intrabatch vehicle-treated control
+massachusetts general hospital
+provide substantial coverage
+limiting future utility
+untreated control cultures
+york avenue nw
+exhibit anti-inflammatory activity
+pearson correlation coefficient
+found strong connectivity
+culture medium composition
+study differed sharply
+mtor inhibitor sirolimus
+low
+
+broad institute
+acting immediately proximal
+estrogen receptor agonists
+dopamine receptor antagonists
+dose 1 µ
+lowest concentrations failed
+trna
+maria selmer
+dose
+129-gene estrogen signature
+confidently call connections
+obtain signatures related
+external query signatures
+aliphatic side chain
+plot shows means
+cambridge cb2 2qh
+estromimetic phenol red
+selected additional articles
+mrna expression assayed
+distinct cellular pathways
+[981] hc toxin [909] trichostatin
+chemical biology programs
+reference expression profiles
+cancer cell
+overcome dexamethasone resistance
+revert dexamethasone resistance
+collect query signatures
+histone deacetylase inhibitors
+early time point
+external 17b-estradiol signature
+biochemical studies demonstrated
+remaining instances reflect
+large public database
+880 16 sirolimus [1080] permutation p-
+median inhibitory concentration
+s11 references 24 july 2006
+distinguishable geneexpression profiles
+article cites 38 articles
+down- regulated genes
+query signature carries
+connectivity map approach
+chemical entities ee
+cell lines
+remaining phenothiazine instances
+expression profiles derived
+nonparametric statistical methods
+considered small molecules
+phenothiazine antipsychotic compounds
+authors contributed equally
+epithelial cells
+discover unknown mechanisms
+provide sufficient diversity
+generate testable hypotheses
+provide reliable data
+structurally distinct compounds
+include genes correlated
+explored query signatures
+vehicle controls applied
+determine precise estimates
+reference gene-expression profiles
+abrogating hsp90 function
+individual treatment instance
+gene-expression proof interest
+10 nm 1 µ
+lack estrogen receptors
+identify similar genes
+profiled multiple times
+cell types
+negative scores
+query signature consisted
+query signature consisting
+describe cellular responses
+obtaining structural data
+disease justin lamb
+disease
+justin lamb
+genes differentially expressed
+antipsychotics ultimately target
+s11 results s1
+representing 453 individual instances
+cell viability
+cell type
+phenothiazine query signature
+``positive connectivity
+query signature derived
+gene-expression signatures represent
+single technology platform
+``negative connectivity
+connectivity scores
+systematic genetic perturbation
+hierarchical clustering approach
+table s1
+clozapine
+2008
+
+research articles
+research articles
+biological state
+enrichment scores
+potential ad therapeutic
+down-regulated query genes
+connectivity map
+``connectivity map
+result suggests
+gene expression
+accepted 6 september 2006 10
+estrogen connectivity
+obtained similar results
+small molecules
+massachusetts institute
+primary targets
+breast carcinoma
+pattern-matching software
+high throughput
+ba/f3 cells
+brain tissue
+cem-c1 cells
+immediately proximal
+protein expression
+lncap cells
+810 30 sirolimus [1001] set
+biological connections--
+multiple batches
+inhibitory rnas
+query state
+indometacin instances made
+molecular biology
+androgen receptor
+glucocorticoid dexamethasone
+high levels
+biological responses
+multiple instances
+dna sequence
+bone-marrow samples
+gedunin-treated lncap
+target pathways
+signaling pathway
+histone deacetylase
+subtle signals
+cancer chemotherapy
+discovered directly
+6whitehead institute
+cancer ther
+high concentration
+archaeal ribosome
+poorly understood
+extensively characterized
+isi web
+mammalian biology
+obese state
+potent inducers
+result s1
+hdac inhibitors
+hsp90 inhibitor
+culture medium
+16 articles hosted
+high cost
+weaker connectivity
+expression profiles
+broad cancer
+analytical tools
+hsp90-interacting proteins
+cells grown
+primary cells
+molecular signature
+rigorous methods
+methods figs
+molecular mechanisms
+explored resistance
+bconnectivity map[
+biological states--physiological
+biological pathway
+biological process
+batch-to-batch biological
+hsp90 function
+org/cgi/content/full/313/5795/1929 downloaded
+small number
+cancer res
+453 horizontal lines
+side chain
+ar expression
+hierarchical clustering
+[1050] vorinostat [1058] trichostatin
+phenol red
+web-based tool
+chemical entities
+dexamethasone sensitivity
+reference profiles
+signature s1
+disease state
+hsp90 inhibitors
+online version
+entire set
+molecular context
+permutation p-
+dtl
+
+science
+title science
+data set
+justin@broad
+10 sirolimus instances
+reveal bconnections[
+systematically revealed
+colors applied
+reflect secondary
+metal ions
+nonphenothiazine antipsychotics
+biologically relevant
+primary substrate
+stably grown
+pure antiestrogen
+control consisting
+structurally dissimilar
+meliacae family
+hc toxin
+smallmolecule therapeutics
+signature consisted
+resources related
+org
+
+downloaded
+identify potential
+cell 114
+cell 102
+cell 83
+cell
+gene-expression responses
+rat tissues
+cellular response
+genetic construct--
+rat model
+biomedical research
+gedunin acting
+dexamethasone resistance
+genetic data
+science
+
+www
+query signatures
+gene-expression signatures
+open circles
+microarray platform
+therapeutic dosing
+technology platform
+cox2 inhibitors
+1 1 oid cells
+age-matched controls
+result s7
+specificity controls
+calmodulin inhibitors
+obtaining reprints
+act proximal
+obtaining permission
+precise calculation
+analytical method
+nonneural cells
+structural subclasses
+aromatase inhibitors
+growing cells
+unbiased hypotheses
+open questions
+ar protein
+50 mm
+2 mm 500 µ
+1 mm 500 µ
+1 mm
+10 mm
+clinical prognosis
+hsp90 inhibition
+phenothiazine antipyschotics
+phenothiazine signature
+hsp90 activity
+hsp90 pathway
+phenothiazine derivatives
+org science
+tertiary responses
+cell-free screen
+signature s11
+short-term culture
+additional experiments
+564 geneexpression profiles
+reference collection
+full details
+statistical significance
+geneexpression profiles
+gene-expression profiles
+cellular context
+cellular states
+files derived
+large number
+geneexpression signature
+signature derived
+genomic signatures
+userdefined signatures
+mtor dependent
+diverse perturbations
+query signature
+``query signature
+drug resistance
+geneexpression data
+gene-expression profiling
+gene-expression signature
+genetic perturbation
+chemical structures
+cells treated
+results depends
+potential treatments
+database shared
+genbank database
+database grows
+phenothiazine instances
+expressed relative
+dexamethasone concentation
+metabolite profiles
+hdacinhibitory activity
+transitory feature
+signature s9
+signature s8
+signature s7
+murphy iv
+leukotreine syntheses
+kolmogorov-smirnov statistic
+signal transduction
+perturbagens populate
+piperidine ring
+scored negatively
+vexing problems
+org/cgi/content/full/313/5795/1929#otherarticles
+rights reserved
+1 david peck
+representative experiment
+systemic administration
+microtiter plates
+albert weixlbaumer
+unduly sensitive
+registered trademark
+messenger rna
+ramak@mrc-lmb
+independent reports
+1 jim lerner
+robust estrogenic
+effectively administered
+conventional measures
+mechanisms underlying
+strongly correlated
+pediatric oncology
+piperazine group
+practicality limits
+long periods
+chevy chase
+highly sensitive
+triplicate determinations
+independent group
+hdacinhibitory level
+generic solution
+highresolution structures
+fundamental challenge
+result s2
+reporter assays
+vice versa
+org/cgi/content/full/313/5795/1929#related-content
+13-gene signature
+vehicle pair
+pharmacologic modulation
+0 glucocorticoid-resistant lymph0
+traditional method
+technical variation
+hills road
+rna interference
+rna source
+live animals
+apoptosis mediated
+functional annotation
+hdac-inhibitory activity
+genomic efforts
+sabine petry
+direct mechanisms
+gedunin-mediated inhibition
+1 jean-philippe brunet
+neurotransmitter receptors
+diet-induced obesity
+normal brain
+standard deviations
+mrc laboratory
+[instance id]
+transparent test
+signature s10
+result s3
+major drawback
+subunit structures
+pharmaceutical development
+researcher studying
+prevent slippage
+genome scale
+b-sheet content
+published weekly
+closed circles
+mtt reduction
+traditional read-outs
+1 michael reich
+elaborate optimization
+cerebral cortex
+intersubunit interface
+mimics ablation
+iubmb life 56
+developed ee
+major breakthrough
+years ago
+``pure antagonist
+american association
+rich description
+gel shifts
+san francisco
+nonparametric fashion
+buniversal language[
+signature received
+basic features
+biochemical followup
+subject collections
+transfer rna
+charcoal-stripped serum
+den boer
+wide diversity
+false-positive rates
+complete serum
+observations strengthen
+medicinal plants
+commercial databases
+strongly anticorrelated
+extreme test
+phenothiazine connections
+generate hypotheses
+analyzing data
+results show
+similar effects
+precise concentration
+reference profile
+pilot study
+landmark study
+separate study
+large collection
+gedunin modulates
+gedunin lowers
+gedunin signature
+drug candidate
+5 downregulated genes
+anti-estrogenic drug
+antiseizure drug
+contained 25 genes
+drug administration
+40 genes identified
+result suggested
+similar results
+13 nonsignature instances
+independent instances
+clinical trial
+profiles obtained
+clinical indication
+potential toxicities
+potential pitfalls
+treatment instance
+short-duration treatment
+treatment ``instance
+common gene-expression
+highest-scoring compounds
+batch effects
+functional experiments
+e-site trna
+patients exhibiting
+vivo exposure
+identified compounds
+permutation p-values
+physiological processes
+anti-estrogenic connections
+genome res
+functional connections
+find connections
+detect connections
+hospital boston
+signatures s4
+generate profiles
+real time
+signature s3
+signature s2
+1 ru wei
+potentially important
+updated information
+express pparg
+negatively connected
+org/cgi/collection/genetics information
+defined relative
+estrogen-free conditions
+pparg agonist
+2 guo wei
+recent report
+time points
+published report
+treatments performed
+functionally connected
+chemical structure
+gedunin treatment
+ad brain
+793 unabridged results
+unabridged results
+short duration
+widely observed
+common activity
+common mechanisms
+highly ranked
+optimal concentration
+therapeutic class
+existing drugs
+recognize drugs
+­approved drugs
+fda-approved drugs
+clinical effects
+physiological context
+signatures produced
+signature-definition parameters
+derive solely
+control perturbations
+give rise
+initially developed
+adverse effect
+findings confirm
+``positive
+comprehensive catalog
+positive
+accelerate progress
+present address
+fda approved
+1 haley hieronymus
+1 aravind subramanian
+gene-selection criteria
+generally applicable
+experimental activation
+previously discovered
+endogenous estrogens
+er activity
+opposite effect
+50s subunit
+expresses er
+specific settings
+facilitate interpretation
+dominant structure
+critical precursor
+mechanistic understanding
+empirical evidence
+crystal structure
+org/cgi/content/full/313/5795/1929/dc1 materials
+cases validated
+detect similarities
+standard approach
+context dependent
+systematic approach
+approach starts
+mrna levels
+disease states
+instances shown
+negative
+``negative
+potential interest
+ad patients
+treatment duration
+golub@broad
+broad range
+generate connections
+yield
+lesser extent
+rapid identification
+initial goal
+highwire press
+observed connections
+connections observed
+article appears
+uk
+
+www
+compound treatment
+scores
+profiled compounds
+internal
+concentrations reported
+recently identified
+study defined
+leukemia 17
+leukemia
+conconnections
+
+fig
+experiments demonstrate
+genetics http
+compound concentration
+rank-ordered list
+results demonstrate
+[873] trichostatin
+compound addition
+[1014] trichostatin
+[331] trichostatin
+practical limitations
+targets
+s5
+[992] trichostatin
+[1072] trichostatin
+harvard university
+trichostatin
+high-throughput
+ribosome
+[332] trichostatin
+[1112] trichostatin
+drug action
+barview showing
+connectivity
+expression
+gene
+prostaglandin
+estrogen
+lines
+sirolimus
+included
+distinct
+differences compared
+inhibitor
+s1
+hdac
+online
+reference
+daph analogs
+sensitivity
+science
+science 286
+science 313
+science 278
+effective
+applied
+refined
+sites
+reveal
+hughes
+characterized
+null
+factor
+strategy
+analysis
+enrichment
+related
+including
+result
+show
+inhibitors
+resolution
+regulated
+lamb
+cells
+resistance
+phenothiazine
+hsp90
+selected
+screen
+culture
+687 s11
+details
+derived
+similar
+signatures
+query
+778 query
+gene-expression
+chemical
+database
+dexamethasone
+profiles
+york
+type
+provide
+signature
+biochemical
+received
+ultimately
+antipsychotics
+agonists
+perturbagens
+nonparametric
+mechanisms
+correlation
+17b-estradiol
+detect
+technology
+early
+up-regulated
+references
+correlated
+describe
+indometacin
+represent
+lack
+activities
+viability
+authors
+activity
+systematic
+robust
+single
+vehicle
+control
+red
+times
+unknown
+instance
+receptors
+diversity
+abrogating
+8 up-regulated
+demonstrated
+equally
+utility
+data
+study
+gedunin
+genes
+129 genes
+000 genes
+drug
+broad
+ar
+instances
+clinical
+states
+treated
+context
+www
+potential
+treatment
+physiological
+obtained
+effects
+mrna
+bottom
+vivo
+experiments
+trna
+compounds
+concentrations
+perturbation
+expressed
+patients
+connections
+res
+org
+vorinostat
+report
+time
+s3
+s2
+representing
+cambridge
+rank-ordered
+antagonists
+information
+pparg
+dependent
+conditions
+collection
+levels
+89 down-regulated
+connected
+means
+wei
+down-regulated
+ad
+generate
+results
+disease
+observed
+interest
+studied
+shown
+duration
+concentration
+common
+ranked
+barview
+``barview
+drugs
+activation
+rise
+reported
+therapeutics
+interpretation
+perturbations
+estrogens
+harvard
+suggested
+similarities
+p-values
+golub
+criteria
+cases
+s4
+hieronymus
+derive
+developed [
+er
+considered
+resource
+settings
+profiled
+50s
+critical
+practical
+determine
+applicable
+catalog
+developed
+compound
+1132939
+
+structure
+findings
+parameters
+understanding
+empirical
+range
+fda
+uk
+structure
+1
+
+cost
+biomedical
+org/cgi/content/full/313/5795/1929/dc1
+university
+progress
+addition
+present
+effect
+subramanian
+limitations
+previously
+approach
+6 hours
+72 hours
+12 hours
+list
+demonstrate
+extent
+showing
+differences
+performed
+goal
+analogs
+defined
+produced
+profile
+made
+identification
+press
+compared
+showing 0
+article
+73 article
+found
+daph
+class
+recently
+boston
+important
+2008
+
+fig
+fig
+1
+
+fig
+971
+
+453
+
+453
+
+fig
+http
+action
+limited
+similarity
+khalid
+hata
+up-
+waring
+lancet 338
+dukes
+1 irene
+affect
+consistent
+feasibility
+chem
+established
+pharmacol
+represented
+interpret
+altshuler
+total
+shaded
+tolerated
+hanada
+md 20815
+17-dimethylaminogeldanamycin
+pursue
+aaas
+cited
+recovery
+green
+ligand
+weeks
+diseases
+amenable
+medicine
+duddeck
+formation
+saha
+created
+encouraging
+4center
+illustrate
+similarly
+top
+john
+ranging
+kubota
+kliewer
+begins
+hollander
+mine
+chiosis
+strength
+responsible
+brains
+assesses
+optimized
+unitless
+assessed
+doi
+observation
+principle
+ment
+wrobel
+plate
+cyclooxygenases
+schreiber
+med
+simplest
+//www
+discovery
+terms
+veer
+­cell-autonomous
+asked
+ganter
+basis
+particulars
+formalized
+suppress
+bladder
+3department
+exception
+characterizing
+phenothiazines
+tzd
+perform
+suggest
+opportunity
+left
+decreasing
+assigned
+advancement
+5a
+5c
+5b
+antiestrogens
+thiazolidindiones
+acad
+elderly
+carty
+kaspers
+presence
+1 kenneth
+reducing
+support
+approximate
+fibrils
+feinstein
+surprising
+moore
+conserved
+exist
+constructed
+nh
+melanoma
+scolnick
+tamoxifen
+interactions
+finally
+brown
+yeast
+5-dianilinophthalimide
+blood 89
+sign
+current
+elucidate
+rationalizes
+mda 435
+genet
+natsoulis
+commonly
+t24
+mcguire
+2department
+geldanamycins
+effort
+frasor
+cam
+4 paul
+december
+allowed
+serendipity
+s6
+bracketing
+yielding
+stability
+supplemented
+interesting
+correspondence
+6 todd
+n03
+stabilize
+wong
+ed
+viable
+mylari
+carr
+california
+e2
+tissing
+striking
+distal
+biol
+array
+org/
+gorre
+/cmap
+stereoisomer
+eliminated
+impractical
+require
+impinge
+accessed
+ann
+recover
+transcription
+note
+yajima
+1 steven
+adipogenesis
+1126/science
+black
+ranking
+boundary
+subtype
+predicted
+17-allylaminogeldanamycin
+j1
+vanderhoek
+dc 20005
+analyzed
+lopez
+discernible
+period
+sciencemag
+grants
+horikoshi
+oliver
+crawford
+6a
+6b
+spirit
+blat
+zembrowski
+1 joshua
+minimize
+laboratories
+researchers
+ic50
+actions
+mol
+world
+raloxifene
+served
+40 up-
+provided
+size
+pathogenesis
+refer
+notable
+nature 415
+comparison
+modell
+biomedicine
+meijerink
+direction
+ideally
+endocrinology 107
+rosen
+endocrinology 103
+poor
+astrup
+mimic
+sci
+children
+blanchard
+immunosuppressant
+--
+clemons
+golub1
+issues
+free
+colored
+nature 406
+egfr
+establish
+toxicol
+lander
+tested
+gonzalez-sierra
+compare
+scan
+share
+demonstrate--
+species
+maps
+larsen
+* frank
+wiley
+itd
+late
+detected
+food
+propose
+anticipated
+pieters
+2a
+week
+generation
+idea
+solved
+induced
+alzheimer
+members
+wakeling
+consequence
+mootha
+needed
+ma 02115
+recovered
+translation
+kink
+determined
+biotechnol
+sawyers
+blood 92
+blood 90
+vitro
+build
+finding
+ellwood-yen
+copyright 2006
+services
+measured
+saturate
+part
+paul
+relation
+impact
+wolfe
+ebert
+/permissions
+generalizable
+3b
+resolve
+querying
+ca 94158
+achieved
+2 scott
+toubro
+1 year
+hippocampus
+creating
+reverse
+dunham
+reasons
+lenhard
+create
+collected
+behavior
+ross
+tolliday
+drawbacks
+immunomodulators
+geldanamycin
+pomeroy
+demarcates
+derisi
+hypothesized
+conclusions
+sakurai
+forman
+resorted
+examples
+1 matthew
+prod
+proc
+weir
+step
+acho
+gsea
+conceivably
+specifically
+work
+ordered
+armstrong
+edwards
+haggarty
+nat
+generated
+blood 100
+methodologies
+required
+demonstrates
+glaser
+indicating
+g0
+bowler
+ryan
+replicates
+download
+power
+obvious
+3a
+chose
+dexamethasoneresistant
+explore
+focused
+notes
+1
+resulting
+composed
+hongo
+antidiabetics
+addressed
+usa
+commun
+historically
+pathol
+reproduce
+biophys
+17-dimethylamino-geldanamycin
+sought
+lehmann
+tied
+discussion
+envisage
+chosen
+estimating
+3 stephen
+greater
+horwitz
+17-allylamino-geldanamycin
+installment
+phytofig
+subset
+17a-estradiol
+diminished
+buchwald
+1* emily
+adopted
+biochem
+final
+pc3--
+chemicals
+providing
+clin
+dementia
+kelley
+commcf7 0
+mechanism
+mit
+troglitazone
+ringold
+supported
+queried
+gray
+attempting
+ability
+hits
+freely
+estimation
+ac
+respect
+rosiglitazone
+agonists--
+int
+yao
+treat
+define
+arises
+depend
+al
+rapamycin
+mda 468
+ms-27-275
+downregulation
+fielden
+1 eric
+compendium
+center
+thought
+* christine
+ricciarelli
+wagner
+purified
+ramakrishnan
+perou
+natl
+ma 02144
+ma 02142
+martin
+lipoxygenases
+tempered
+iyer
+e-mail
+masked
+pp
+obes
+panel
+recognized
+washington
+assess
+chronic
+van
+synthesized
+appl
+goals
+candidacy
+problem
+devise
+variety
+hennessy
+immunoblotting
+searched
+4b
+4c
+4a
+1200
+349
+421 0
+272
+1991
+1995
+1997
+1998
+399
+601 0
+175
+171
+37­40
+270
+809 0
+12953
+913 0
+15
+972 0
+109
+259
+931 0
+101
+38
+1 µ
+743 0
+1979
+803
+323
+1978
+58
+51
+50
+52
+537
+531
+530
+646 0
+788 0
+794 0
+151
+178­185
+552 0
+725 0
+2723
+582 0
+619 0
+961 -0
+0
+1999
+915 0
+14326
+846 0
+561 0
+528 0
+436
+747
+908 0
+147
+3344
+602 0
+1990
+914 0
+2
+620 0
+11
+10
+13
+12
+14
+17
+16
+19
+18
+426 0 0 0
+200
+26­28
+]
+680
+893 0
+50 µ
+922
+1929
+3
+957 0
+580 0
+64
+500
+15545
+^
+200 µ
+3867
+917 0
+563 0
+906 0
+219
+4
+634 0
+542 0
+680 0
+7371
+­1
+01 0
+10 µ
+µ
+2959
+926 0
+5
+2005
+807 0
+6
+1132939
+001 0
+610 0
+951 0
+730 0
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+616 0
+501 0 0 0 -0
+7
+882 0
+188
+884
+7*
+70
+899 0
+102
+8
+310
+733 0
+621 0
+918 0
+735 0
+0001
+0002
+þ1
+39
+1860
+376 0 0 0 0
+813 0
+9
+936 0
+969 0
+3041
+541 0
+675
+1522
+571 0
+524 0
+628 0
+%
+2002
+2003
+2000
+2001
+2006
+2004
+2008
+è22
+0 12
+0 10
+0 18
+33
+32
+31
+30
+37
+36
+35
+34
+539 0
+0021
+0621
+0 3
+1
+0 1
+0 0
+0 7
+0 6
+0 4
+2019
+4483
+602 -0
+1980
+749 -0
+929 0
+538 0
+753 0
+3406
+435 0
+843 -0
+0 2
+385 0
+1428
+989 -1
+507 0
+758 0
+42
+284
+267
+119
+*
+1989
+724
+40
+41
+590 0

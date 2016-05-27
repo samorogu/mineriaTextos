@@ -1,0 +1,1625 @@
+insight overview
+
+computational systems biology
+hiroaki kitano
+sony computer science laboratories
+eliminating
+207
+
+© 2002 nature publishing group
+
+insight overview
+communication
+escherichia coli activates alternative metabolic dynamics depending
+cln gene family form redundant pairs
+structurally stable network configurations increase insensitivity
+/nature
+
+© 2002 nature publishing group
+
+209
+
+insight overview
+21
+complex systems exhibiting highly optimized tolerance30
+dense overlapping regulons appeared frequently
+computational systems biology addresses questions fundamental
+human red blood cell metabolic network
+lambda phage decision circuit --
+machine learning approach 2nd edn
+homologous genes produce similar system behaviours
+kyoto
+
+© 2002 nature publishing group nature
+address critical scientific questions head-
+modules
+208
+
+© 2002 nature publishing group nature
+human intestinal absorption model based
+cell biological phenomena require calculation
+/nature
+
+insight overview
+
+clinical
+understand complex biological systems requires
+signal transduction knowledge environment <http
+stable switching action arises
+210
+
+© 2002 nature publishing group nature
+complex relationships involving multiple genes
+systematically perturbed metabolic network
+create commonly accepted repositories
+erato kitano symbiotic systems project
+international joint research grant
+p53-based cell-cycle arrest displays
+escherichia coli metabolic capabilities
+systematically identify network design patterns
+yeast two-hybrid assays produce
+test hypotheses
+
+figure 1 linkage
+reveal individual genetic susceptibilities
+current hand-crafted pathway maps
+/nature
+
+insight overview
+individual single nucleotide polymorphisms
+human red blood cells
+systems biology markup language
+budding yeast cell cycle
+fission yeast cell cycle
+functionally important genes simply
+form modular compartments isolated
+highthroughput quantitative experimental data18
+time-delayed negative feedback oscillators41
+predicting human adme parameters
+escherichia coli metabolic network
+signal transduction knowledge environment
+biological systems remains equivocal
+reject hypotheses
+
+hypothesis testing
+basic systems-biology research cycle
+map kinase cascade activated
+two-pronged attack
+computational biology
+absorption distribution metabolism excretion/toxicity
+archetypal genetic switch --
+attain similar system behaviours
+evolutionary conserved circuits exist
+complex engineering products --
+expanded stringent response model
+per3 genes encode proteins
+basic functional building blocks
+issue receiving considerable attention
+current control theory assumes
+international standard development area
+quantitative structure­activity relations
+feedback compensation circuit involving
+escherichia coli growth transitions
+make p53 stimulation effective
+test hypotheses
+
+experimental design
+integrating heterogeneous simulation models
+simply increasing p53 transcription
+drosophila embryogenesis remain robust
+red blood cells62­64
+model bacterial metabolic networks
+require extensive data sets
+industrial technology development organization
+current experimental molecular biology
+high-throughput quantitative data needed
+highly optimized tolerance
+clinical studies
+
+drug discovery
+degenerate paths involving
+brain­blood barrier
+address specific questions
+protein­protein interaction networks
+encode similar proteins
+yeast two-hybrid data
+de facto standard
+inducing cell-cycle arrest
+identify candidate lead compounds
+understand biological systems
+basic systems biology
+highly effective administration
+computational research --
+special coordination funds
+temporal information stores
+survive initial validation
+purely intuitive assaults
+passive permeation measurement
+nucleic acids res
+speculative scenarios illustrate
+statisticsbased theories --
+bmp morphogen gradient
+dna-dependent protein kinase
+segment polarity network
+synthetic oscillatory network
+unlike complex systems
+eukaryotic cell cycle
+systems therapy
+surpassing
+individual research groups
+drosophila embryonic patterning
+elements interact selectively
+computatoinal cell biology
+modular cell biology
+systems biology workbench
+notable larger simulations
+applying multiple constraints
+screen hypotheses
+
+synthesis
+integrating multiple scales
+predicting adme properties
+parallel virtual screening54
+non-trivial research topic
+futuristic approach proposes
+biological oscillation circuits10
+high-throughput computational study
+compensatory circuits break
+cell cycle research
+systems biology simulations
+basic functional circuits
+significantly reducing costs
+internalized egf receptors
+predictive adme simulation
+gene regulatory circuit
+experimental techniques
+
+experiment
+current control theory
+gene expression profiling
+epidermal growth factor
+interpreting biological systems
+biological systems rely
+systems biology approach
+therapeutic gene circuits
+drosophila circadian rhythm
+comparable system-level organization
+introduced genetic circuits
+identical elements interacting
+highly connected proteins
+gene regulatory circuits
+mere human-readable forms
+ataxia telangiectasia mutated
+limit cycle models
+autonomous units carrying
+open software platform
+convincing increasing numbers
+quickly ubiquitinate p53
+develop machine-executable models
+gene regulation database
+highly robust systems
+quantitative experimental approaches
+interlocked feedback model
+gene regulatory networks
+high-throughput virtual screening
+multiple drug regimes
+genetic toggle switch
+multiple drug therapies
+robust systems maintain
+positive feedback loops
+include protein­protein
+biological signaling systems
+support simulation-based research
+biochemical systems theory
+including defence systems
+randomly connected networks
+circadian rhythms based
+multiple drug systems
+systems biology institute
+internal egf receptors59
+large-scale networks show
+medical treatment regimes
+predict complex behaviours
+full-scale patient model
+functional genetic circuits
+biochemical networks coupled
+robust developmental module
+biological signaling pathways
+specific biological systems
+involve sophisticated approaches
+unrelated physiological outcomes
+insight cover
+hidden markov models
+design genetic circuits
+general system theory
+rationalizing drug discovery
+intricate biological models
+cellular signaling <http
+excessive mdm2 protein
+metabolic control analysis
+control cellular behaviours
+transcriptional regulation network
+genetic circuits
+
+development
+highly connected nodes
+molecular interaction networks
+functional biological networks
+treatment optimization
+
+`wet
+robust perfect adaptation
+specific elements involved
+integral feedback control
+represent essential features
+escherichia coli
+difficulty making predictions
+data patient model
+early adme/tox studies
+create virtual organs
+knowledge discovery
+
+models
+drug target protein
+provide desirable structures
+simple biochemical networks
+control cellular dynamics
+protein­dna interactions
+virtual human
+network --
+scientific questions
+symbiotic systems
+computer simulation
+identified common motifs
+fundamental science
+produce `complex
+traditional bioinformatics approaches
+sony
+stringent response
+alternative applications
+complex network
+complex behaviours
+computational biology
+complex systems
+`complex systems
+cell cycle
+human intestine51
+metabolic networks
+similar attempts
+systems biology
+increase transcription
+metabolic engineering
+highly connected
+clinical data
+explore questions
+computational approaches
+metabolic analysis8
+attack tolerance
+metabolic control62
+functional modules
+genetic circuit
+current paradigm
+network motifs
+modular circuits
+complex networks
+significantly increase
+large-scale organization
+overview
+complex interactions
+multiple genes
+signal propagation
+signal transduction42
+individual patients
+biological systems
+predictions based
+specific behaviours
+biochemical network
+requires integration
+tests hypotheses
+quantitative measurements
+multiple scales
+quantitative experiments18
+genetic circuits
+molecular biology
+highly relevant
+computational `dry
+computational power
+systems drug
+genetic networks
+feedback circuit
+mainstream attention
+kyoto encyclopedia
+produce coherent
+negative feedback21
+functionally diverse
+circuit patterns
+single-input modules
+signal-transduction cascade
+close linkage
+mdm2 activity
+internal parameters
+g1 arrest
+gene regulation
+multiple networks
+biological pathways
+cellular signaling
+control theory
+signaling networks
+p53 network
+detailed behaviours
+cell cycle24
+cell migration
+cell cycle7
+cell cycle6
+molecular model
+robust systems
+integral feedback
+discovering regulatory
+functional circuits
+hidden patterns
+simulation-based approaches
+candidate compounds
+biological circuits
+computational modelling
+dynamical systems
+systems designer
+gene regulations
+206
+
+knowledge discovery
+knowledge discovery
+simulation project
+world scientific
+simple elements
+genetic switches
+drug administration
+functional networks
+protein networks
+circuits exist
+biological system
+design patterns
+larger-scale simulations
+irreversible transitions
+multiple faces
+kinetic parameters
+susceptibility relationships
+frequently multifunctional
+multiple hierarchies
+bacterial chemotaxis
+transcription factors
+metaphase/anaphase transitions
+forming hypotheses
+system-level approach
+computational experiments
+model assessment
+mathematical model
+large-scale data
+virtual screening
+external environment
+experimental data
+biochemical networks
+molecularlevel knowledge
+pharmacological knowledge
+physiological knowledge
+specific interactions
+network functions
+feedback control
+model predictions
+exploratory research
+statistical theories
+early attempts
+false-positive outcomes
+physiome project
+expression profile2­4
+structural features
+combinatorial synthesis
+compensation mechanism
+medical practice
+connected preferentially
+approach attempts
+kitano@csl
+obvious form
+feed-forward loops
+toggle switches
+essential feature
+treatment design
+drug discovery
+transcriptional regulation
+biological oscillations
+biological facts
+protein structure
+target protein
+protein resulting
+protein universe
+393-amino-acid protein
+protein transport
+p53 protein
+circadian oscillator
+circadian rhythms
+circadian rhythm57
+computational modeling
+signalling circuits
+feedback loop
+robust networks
+modification patterns
+identical roles
+cellular rhythms
+large numbers
+cellular models
+identify roles
+comparative studies
+treatment discovery
+experimental observation
+experimental inquiry
+specific affinities
+systems designed
+designed systems
+scale-free networks
+power-law networks
+ényi networks
+biochemical oscillations
+biochemical reactions
+lead candidates
+transcriptional regulations
+system level44­46
+p53 system
+transcriptional regulators
+molecular antagonism
+drug discovery48­50
+drug discov
+drug deliv
+molecular weight
+protein properties
+make predictions
+`bang-bang control
+mitotic control
+feed-forward control
+development settings
+service development
+nature genet
+biological processes
+system-level approach5
+precision engineering
+treatment optimization
+engineering field
+reverse engineering
+treatment cycles
+functional genomics
+biological insights
+lead compounds
+promoting science
+bioinformatics research
+simulation-based analysis
+robust oscillations
+extremely robust
+feedback mechanisms
+nature biotechnol
+tumour suppression36
+large range
+earliest attempts
+cardiac excitation
+proteolytic degradation
+& lim tung
+connected hubs
+numerous groups38­41
+visible phenotype
+proteome projects
+key role
+hydrogen-bond donors
+cellular functions
+natl acad
+3-14-13 higashi-gotanda
+checkpoint controls
+plasma membranes
+binding site26
+computer-executable models
+spring-mass models
+large repository
+von dassow
+elastic bodies
+keio university
+simulation involves
+046135-1­046135-8
+s233­s240
+signal-transduction pathways43
+bacteria chemotaxis20
+exon­intron
+rendered ineffective
+simulation attempts
+oscillating reactions
+theoretical exploration
+suite 6a
+energetic field
+adme/tox models
+tumour suppressor
+c47­c52
+powerful foundation
+challenging enterprise
+mechanism-based adme/tox
+free lunch
+eds altman
+easily transferable
+intuitively attractive
+tokyo 150-0001
+chromosome dynamics
+observational enquiry
+classical physiology
+easily converted
+provided initially
+iterative cycles
+comparative survey
+power laws
+module evolved
+stage means
+estimate solubility
+integrative models
+high dosages
+estimated connectivity
+communication
+dynamic simulation
+hydrogen-bond acceptors
+statistical perspective32­34
+viability confirmed
+heavily biased
+notoriously noisy
+less-connected nodes33
+distinct branches
+whole-patient models
+tokyo 141-0022
+stochastic computation
+frog eggs
+physiological reactions
+cambirdge univ
+random failure
+structural stability
+ecological webs
+physically partitioning
+s83­s88
+practical innovations
+huge quantities
+significant side-effects
+binding affinity
+transactivates p21
+statistical discriminators
+move patients
+molecular-level models
+simplified models
+stock-market investor
+active p53
+biochemical processes
+spatial localization23
+general principles
+goodwin oscillator
+ambitious attempt
+identical functions
+stochastic simulation
+target values
+pathological condition
+eds meijer
+linguistic-based algorithms
+prime goal
+regulates p53
+combining computation
+road ahead
+renewed interest
+small dosages
+precision models
+revised continuously
+transactivates mdm2
+flux balance8
+memory devices
+drastically change
+structural dynamics
+preferential attachment
+kinetic parameters28
+japanese government
+software environments
+abnormal overexpression
+small sub-networks
+logic gates
+databases concerned
+regulondb database47
+efficient improvements
+proteomic analyses
+cytochrome p450
+3-14-1 hiyoshi
+eds fall
+pharmacokinetic models52­56
+bacteria chemotaxis20­22
+intercellular communications
+kanagawa 223-8522
+vivo studies
+popular notion
+theoretical underpinning
+`small world
+multiple aspects
+6-31-15 jingu-mae
+system analysis
+specific functions
+technology development
+organ model
+biological modularity
+pharmacokinetic predictions
+system-level analysis
+specific disease
+feedback mechanism
+drug targets
+cellular oscillators
+cellular multitasking
+macroscopic properties
+qualitative properties
+dynamical properties
+desired properties
+mit press
+specific element
+emergent properties
+advanced technology
+technology corporation
+biological complexity
+disease development
+function-driven identification
+pragmatic modelling
+target identification
+systematic surveys
+including physiome
+multipletarget identification
+japan science
+system-level understanding
+systems-based analysis
+bifurcation analysis
+kinetic analysis
+internal perturbations
+process engineering
+physical processes
+silico screening
+simulation-driven processes
+silico adme/tox
+differential equations
+system-oriented view
+integrated genomic
+mechanisms leading
+functions emerge
+complementary functions
+requiring integration
+stable
+silico predictions
+understood targets
+external stimuli
+popular targets
+cancer cells
+circuits function
+disease susceptibility
+traditional bioinformatics
+biological robustness
+providing predictions
+elegant experiments
+emerging importance
+california institute
+pharmaceutical industry
+empirical adme/tox
+genome sequences
+specifically targeting
+operating principles
+rapid progress
+dynamic behaviour
+underlying assumptions
+unresolved issues
+molecular noise
+substrate-depletion oscillators
+rice genome
+substantial advances
+side effects
+structure produces
+recent progress
+minor alterations
+long history16
+doubtless continue
+systematic analysis
+systematic process
+absorption
+providing insights
+/japanese ministry
+establish treatments
+anticancer drugs
+intrinsic complexity
+good examples
+silico experiments
+integrated process
+minor mutations
+diseased state
+iyengar reported
+genome analysis
+comprehensive analysis
+vivo experiments
+doyle emphasize
+methods typically
+dna damage
+self-determined evolution
+coli
+colleagues claim
+computational
+cycle
+environment
+normal functioning
+produce
+machine
+critical
+normal level
+external perturbations
+erato
+sufficient progress
+/nature
+network
+biology
+behaviours
+cell 103
+cell 11
+robustness analysis
+provide redundancy
+systems
+gene
+require
+drosophila
+theory
+relationships
+increasing
+switch
+create
+interaction
+frequently
+model
+genes
+knowledge
+approach
+form
+kitano
+activated
+remain
+pathway
+& kitano
+area
+building
+research
+polymorphisms
+http
+biological
+protein
+proteins
+circuits
+feedback
+make
+identify
+exist
+studies
+egf
+design
+experimental
+networks
+data
+molecular
+system
+growth
+lead
+regulation
+control
+development
+nature
+nature 419
+nature 411
+nature 387
+nature 408
+nature 407
+nature 406
+nature 403
+nature 402
+nature 397
+treatment
+engineering
+science
+science 284
+science 283
+science 292
+science 295
+science 296
+robust
+physiological
+study
+involve
+p53
+target
+screening
+mutated
+models
+making
+structures
+represent
+rhythms 14
+mdm2
+traditional
+common
+simple
+adaptation
+institute
+optimization
+patient
+simulation
+structure
+dynamics
+involved
+adme/tox
+including
+hypothesis
+forms
+units
+sets
+software
+predictions
+compounds
+biotechnol
+300 compounds
+dna
+properties
+press
+technology
+needed
+physiome
+identification
+modelling
+systematic
+analysis
+processes
+silico
+genomics
+japan
+functions
+vivo
+insights
+predict
+mechanisms
+normal
+100 equations
+providing
+nodes
+integration
+identified
+integrated
+view
+provide
+metabolism
+targets
+understanding
+external
+process
+cells
+bioinformatics 17
+bioinformatics 18
+bioinformatics
+disease
+experiments
+oscillators
+effects
+principles
+alterations
+targeting
+california 91125
+advances
+applications
+designed
+long
+forming
+industry
+multitasking
+behaviour
+evolved
+modularity
+organs
+empirical
+comprehensive
+continue
+genome
+issues
+assumptions
+encyclopedia
+produces
+element
+mechanism
+progress
+importance
+sufficient
+hubs
+damage
+perturbations
+complexity
+modeling
+drugs
+level
+ministry
+aspects
+functioning
+treatments
+issue
+examples
+organ
+mutations
+redundancy
+noise
+state
+& iyengar
+doyle
+methods 44
+methods
+function
+& doyle
+evolution
+colleagues
+robustness
+searls
+assembled
+toxicol
+berridge
+school
+dephosphorylation
+ueda
+degeneracy
+chen
+chem
+established
+organisms
+kanehisa
+selected
+revolutionize
+pharmacol
+refinement
+vogelstein
+vulnerability
+classification
+plenum
+type
+springer
+eng
+verify
+types
+pages 218­223
+onami
+order
+london
+neurospora
+manuscript
+components34
+overcome
+combination
+weng
+classified
+schemes
+crucial
+adapt
+medicine
+created
+atm
+days
+tolerant
+proteomics
+vitro
+biomed
+electronic
+agriculture
+jamshidi
+consistent
+enabled
+borisuk
+rao
+modern
+-
+shinagwa
+acknowledgements
+inconsistency
+mitigate
+doi
+principle
+incomplete
+heuristics
+lethal
+availability
+lessons
+situations
+pages 211­217
+biophys
+multitude
+observed
+result
+unable
+//www
+terms
+hours
+extracts
+& cross
+adapted
+expected
+life
+lauderdale
+applied
+beresford
+aim
+carlson
+& brunak
+tissue
+damaged
+hysteresis
+tyson
+pursued
+claims
+morohashi
+proposed
+halloy
+tinkelenberg
+cantor
+transformed
+insensitive
+survival
+whole-cell
+g1/
+sparse
+www
+deal
+& goto
+& huberman
+& frankcombe
+comments
+kohoku-ku
+elucidate
+hiroi
+vol 420
+ensure
+efforts
+meti
+modalities
+creation
+attempted
+cascante
+evidence
+bertalanffy
+ni
+reality
+& leibler
+pasadena
+xenobiotics
+goldbeter
+biocomput
+hucka
+fell
+erdö
+uncovered
+time
+sbml
+focus
+leads
+barkai
+graph
+compensate
+analogous
+advantage
+hagiwara
+fragile
+standards
+hypothetical
+prediction
+cost
+g2/
+guardian
+strategies
+anchoring
+appears
+healthy
+studied
+accomplished
+inference
+gonze
+centrality
+scope
+apparent
+validity
+cases
+reviews
+per2
+per1
+heart
+bankrupt
+shibuya
+parameter
+economy
+product
+surfing
+representation
+lethality
+scaling
+realistic
+repaired
+ed
+begun
+shown
+lipinski
+place
+origin
+cybernetics
+suspended
+impossible
+rudy
+org/
+barabasi
+realization
+baldi
+released
+buchman
+modelled
+pages 231­237
+hasty
+future
+ann
+winding
+org/>
+bailey
+considered
+cannon
+morphological
+subtype
+connections
+jeong
+marland
+review
+shen-orr
+jp
+refs 69­71
+enabling
+exploit
+stke
+combined
+fig
+engine
+direction
+formed
+& savageau
+& rapp
+verified
+pac
+constructed
+noble
+amenable
+singapore
+bassingthwaighte
+driven
+changing
+data-mining
+accountable
+components
+researchers
+guidet
+homeostasis
+& tyson
+physiology68
+leloup
+embo
+mol
+execution
+reduced
+14 november 2002
+genetics
+extensively
+notably
+sports
+symp
+central
+origins
+cambridge
+determine
+technologies
+& palsson
+neutralized
+al
+yokohama
+statuses
+administered
+proliferate
+phys
+dunker
+inhibited
+sci
+forget
+opportunities
+program
+apoptosis
+plausibility
+induce
+higgins
+phosphorylation
+afcs
+contrast
+millisecond
+segmentation
+ma
+search
+levine
+genes46
+tested
+& gally
+foundations
+producing
+evolves
+glucose25
+csete
+sense
+acts
+surpassed
+intended
+advice
+reflect
+shortcomings
+silico66
+developed
+trade
+wiener
+destruction
+archaea
+deformation
+yi
+hunter
+capability
+found
+characterized
+malfunction
+generation
+energy
+portland
+ibarra
+kyoda
+occurs
+reason
+conducted
+rooted
+relate
+number
+introduction
+amplifiers
+part
+jordan
+kind
+aims
+braziller
+fuelling
+novak
+pharmacokinetics
+concentration
+orders
+vulnerable
+built
+albert
+steady-state
+reflections
+exp
+& goldbeter
+organism
+degraded
+enzyme
+edelman
+& tarbit
+resolve
+bird
+set
+art
+achieved
+tended
+culture
+usa 98
+usa 99
+recently
+pages 224­230
+usa 97
+alon
+connection
+consideration
+& conway
+imai
+microbiol
+reliable
+error
+& rose
+widely
+levels
+purpose
+underlies
+tasks
+scale-free32
+modifications
+weiner
+schoeberl
+scale
+prog
+proc
+in-depth
+pages 238­245
+repair
+suppl
+called `
+biol
+controversial37
+metab
+mechanistic
+defined
+edwards
+application
+lane
+& barabasi
+results
+knock-
+manipulated
+telling
+obesity
+smalley
+& klein
+m31
+cybernetics16
+body
+nonlinearly
+degree
+exchange
+chang
+makes
+shepley
+named
+resolutions
+usa
+assuring
+& levine
+koonin
+challenge
+genomes
+animal
+establishment
+gardner
+adjust
+facilitated
+hartwell
+& collins
+landau
+magnitude
+activate
+illuminate
+bhalla
+flip-flops
+constitute
+measure
+pages 246­251
+rev
+ekins
+ref
+york
+segall
+heart--
+thorsson
+`upstream
+manipulation
+isolation
+linked
+studying
+accuracy
+eukaryotes
+50 companies
+elowitz
+analysis11
+eldar
+supported
+today 7
+1038/nature01254 1
+guet
+lukose
+words
+butina
+temporarily
+correlations
+variability
+& karp
+analogues
+efficiency
+problem
+puniyani
+cellml
+respect
+li
+addition
+received
+sensed
+sequence1
+present
+adamic
+surface
+education
+parts
+promoters
+effect
+diabetes
+ideker
+position
+restore
+accurate
+wagner
+selick
+& segall
+adv
+resolved
+devised
+nedo
+& novak
+success
+alternatively
+& wert
+podani
+e-mail
+limitations
+repressors
+carried
+alliance
+kegg
+construction
+made
+variations
+tissues
+ind
+permeability
+compared
+variety
+envisaged
+theor
+additionally
+lactose
+augmented
+271
+230­260
+13763­13768
+1995
+1997
+1996
+1999
+1998
+54­56
+1­36
+2538­2545
+1043­1058
+3­26
+243­249
+­
+616­618
+4649­4653
+1968
+1967
+2
+101­114
+188­192
+16
+929­934
+369­391
+1412­1427
+7927­7941
+304­308
+1979
+32
+59
+58
+55
+57
+51
+50
+53
+52
+54
+56
+401­406
+251­272
+1948
+59­75
+185­200
+1
+18­62
+11
+10
+13
+12
+15
+14
+17
+19
+18
+3
+111­114
+60
+61
+63
+64
+65
+66
+67
+68
+69
+41­42
+216
+64­68
+62
+1678­1682
+5
+307­310
+`
+195
+335­338
+6
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+305­316
+179
+7
+25­27
+1664­1669
+72
+71
+70
+210
+8
+1466­1470
+168­171
+286­287
+125­130
+339­342
+4
+9
+329­368
+69­85
+450­461
+945­950
+19­30
+217­279
+27­30
+381­387
+2002
+2000
+2001
+370­375
+39
+38
+33
+31
+30
+37
+36
+35
+34
+249­263
+337
+673­678
+81
+927­939
+193­200
+305­309
+109­116
+651­654
+378­382
+92­96
+289­306
+913­917
+49
+41
+4299­4307
+433­448
+48
+46
+47
+44
+45
+42
+43
+40
+1662­1664

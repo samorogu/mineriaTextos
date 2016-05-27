@@ -1,0 +1,791 @@
+lower dashed line denote significantly
+behavioral task comparing visual search
+s5 table s1 28 november 2006
+riken-mit neuroscience research center
+posterior parietal cortices timothy
+posterior parietal cortices
+timothy
+200-ms window starting 500 ms
+target location information reached significance
+org/cgi/content/full/315/5820/1860 supporting online material
+science web sites related
+target location­selective lip neurons
+supporting online material
+www
+salience automatically drew attention
+1138071
+
+1862
+
+30 march 2007
+
+vol 315
+
+science
+
+www
+multiple electrodes simultaneously implanted
+fef neurons began finding
+stroke grant r01ns035145
+nsf grant sbe0354378
+least-squares linear regression
+local interactions needed
+local field potentials
+york avenue nw
+flashing fire alarm
+print issn 0036-8075
+including high-resolution figures
+upper dashed line
+vertical black line
+online issn 1095-9203
+selected additional articles
+org science vol 315
+
+fig
+larger anatomical scale
+posterior parietal cortices
+visual array onset
+psychophysical testing showed
+lateral intraparietal area
+rendering comparisons difficult
+distractor independently differed
+figure 4b shows
+spike timing delays
+gray shaded regions
+carried significant information
+carry significant information
+parietal neurons signaled
+parietal neurons form
+selective lip cells
+reflect local enhancement
+neurons began finding
+area carried information
+vol 315 science www
+early population consisted
+significant cells expected
+selective lip neurons
+short time epochs
+frontal eye fields
+selective fef neurons
+enhance stimulus representations
+article cites 27 articles
+lateral prefrontal cortex
+selective lpfc neurons
+frequency band differed
+normalized cumulative sums
+simultaneously recorded electrodes
+target location information
+supporting material
+obscuring timing differences
+prefrontal neurons reflected
+org
+
+1860
+
+30 march 2007
+
+downloaded
+target location selectivity
+target selection occurs
+found neural correlates
+saccade [95% confidence interval
+found similar results
+lip neurons found
+selective neurons
+behavioral hallmarks
+reached significance
+dashed lines
+parietal cortices
+posterior cortex
+shaded regions
+stimulus representations
+isi web
+previous research
+sliding window
+visual target
+lower frequencies
+30 march 2007
+
+1861
+
+downloaded
+accepted 7 march 2007 10
+neural correlates
+online version
+15 articles hosted
+resources related
+science online
+frequency band
+task demands
+differed significantly
+95% confidence intervals
+selection occurs
+org/cgi/content/full/315/5820/1860#related-content
+org/cgi/content/full/315/5820/1860#otherarticles
+intertrial interval
+similar results
+eye position
+frontal cortices
+trial onset
+multiple comparisons
+target location
+visual attention
+began encoding
+significantly longer
+early populations
+showed selectivity
+early population
+updated information
+org/cgi/collection/neuroscience information
+current task
+parietal cortex
+neuron selective
+lip neurons
+neural comput
+trial epochs
+anatomical connections
+results suggest
+results illustrate
+cumulative sum
+cumulative distributions
+neuroscience http
+frequency bands
+fef neurons
+parietal areas
+significance levels
+national institute
+saliency maps
+american association
+methods figs
+parietofrontal networks
+higherfrequency bands
+remembered appearance
+pfc damage
+cognitive science
+macaca mulatta
+randomly located
+separate population
+firing rate
+lowerfrequency bands
+london ser
+attentional selection
+rights reserved
+give clues
+olitional shifts
+red circle
+obtaining reprints
+highwire press
+lost keys
+massachusetts institute
+properties inherent
+subject collections
+2d show
+registered trademark
+published weekly
+von stein
+resolve competition
+indirect evidence
+dynamic modulation
+picower institute
+reach significance
+title science
+dtl
+
+science
+randomization tests
+passed forward
+long-range communication
+statistical analyses
+respective contributions
+studies showing
+ekmiller@mit
+neurophysiological studies
+separate experiments
+turn engages
+bimodal gaussians
+perisaccadic period
+longer-range coupling
+obtaining permission
+neurological disorders
+target features
+target matched
+search task
+sensory cortex
+extrastriate cortex
+lpfc neurons
+distractors related
+2008
+
+reports
+frequency
+information flow
+cumulative distribution
+lpfc began
+brain area
+org
+
+downloaded
+neural activity
+lip < pfc
+reaction times
+top row
+interareal connections
+attended stimuli
+reaction time
+distant areas
+recording session
+bimodal distribution
+null distribution
+binomial distribution
+pfc < fef
+monkeys showed
+frontal cortex
+focused volitionally
+directly compared
+org/cgi/content/full/315/5820/1860/dc1 materials
+aligning trials
+conditions differing
+reverse order
+topdown effects
+average rts
+trends cognit
+emphasize synchrony
+lowfrequency synchrony
+higherfrequency synchrony
+localized synchrony
+interareal synchrony
+randomization test
+c2 test
+lfp coherence
+subtracting coherence
+coherence emphasizing
+average coherence
+emphasize coherence
+coherence statistic
+attention shift
+higher frequencies
+lpfc population
+combined data
+signals arise
+control attributed
+histograms shown
+procedure corrected
+signals derived
+frontal areas
+article appears
+shallower increase
+lip < fef
+50 ms afterward
+beginning 150 ms
+upper-
+
+fig
+longerlatency top-
+versus top-
+target 170 ms
+recording sessions
+brain areas
+times relative
+salient stimuli
+versus bottom-
+clear differences
+observed distribution
+left column
+2008
+
+reports
+
+top-
+search tasks
+miller* attention
+search coherence
+simultaneously
+50 electrodes
+online
+finding
+greater increase
+array
+significant
+802 neurons
+neurons
+implanted
+s1
+salience
+automatically
+significantly
+began
+parietal
+information
+area
+differed
+multiple
+selection
+enhance
+prefrontal
+downloaded
+2 shows
+science
+significance
+reflected
+population
+science 315
+science 299
+timing
+black
+science 291
+science 308
+selectivity
+target
+cortex
+cortex 1
+cortex 7
+www
+org
+lip
+row
+upper
+current
+reports
+trial
+normalized
+reflect
+times
+recording
+connections
+areas
+expected
+stimuli
+time
+frontal
+differences
+distribution
+fef
+found
+cognit
+24 sessions
+focused
+tasks
+order
+brain
+effects
+salient
+org/cgi/content/full/315/5820/1860/dc1
+relative
+clear
+rts
+activity
+observed
+conditions
+left
+recorded
+column
+flow
+compared
+trials
+synchrony
+test
+coherence
+attention
+frequencies
+lpfc
+corrected
+control
+data
+greater
+miller
+signals
+shown
+search
+20 article
+article
+increase
+233 ms
+100 ms
+23 ms
+162 ms
+35 ms
+25 ms
+272 ms
+120 ms
+6 ms
+70 ms
+22 ms
+77 ms
+32 ms
+40 ms
+33 ms
+124 ms]
+43 ms
+monkeys
+neuron 48
+neuron
+fig
+top-
+distractors
+http
+bottom-
+saccade
+aided
+sci
+rev
+suggests
+roy
+aligned
+depend
+e-mail
+factoring
+buschman
+details
+case
+stanton
+282 pairs
+condition
+presented
+supports
+list
+item
+55 hz
+= 6 × 10-5
+= 6 × 10-8
+degree
+co-spectrum
+free
+aid
+notes
+1
+technical
+involved
+studied
+amount
+popout
+nature 401
+addressed
+usa
+wurtz
+lfps
+memory
+robertson
+constantinidis
+tested
+neurosci
+chao
+reproduce
+maccully
+ermentrout
+aaas
+brown
+december
+cited
+sought
+reynolds
+andersen
+bisley
+corbetta
+earlier
+fits
+types
+fallah
+green
+representation
+bins
+ungerleider
+highlighted
+cereb
+34 hz
+correspondence
+number
+1b
+z-score
+stepped
+onethird
+level
+2a
+2c
+measure
+rt
+middle-frequency
+network
+gerstein
+19/60
+= 8 × 10-5
+imaging
+sejnowski
+attention-
+pairs
+chelazzi
+steinmetz
+manuscript
+knight
+1a
+org/
+ordering
+pare
+centered
+broadcast
+part
+habib
+jarvis
+nakahara
+henrickson
+determined
+accessed
+24/68
+psychol
+cohen
+kastner
+goldberg
+effectiveness
+bruce
+gelade
+services
+stimuli--
+measured
+peaked
+singer
+doi
+subtracted
+stronger
+inferred
+stoner
+ferraina
+supported
+hasegawa
+cell
+knowledge
+duncan
+1126/science
+iti
+engel
+traub
+< 10-5
+/permissions
+quantified
+pop-
+earl
+investigate
+95% ci
+contrast
+automatic
+constructing
+bichot
+result
+asaad
+shulman
+blatt
+< 10-25
+//www
+dc 20005
+comp
+hypothesis
+meaningful
+variance
+bottomup
+ci
+point
+color
+sciencemag
+salinas
+learning
+esposito
+int
+al
+philos
+17/68
+±1 sd
+orientation
+neurol
+middle
+technology
+capture
+baseline
+whittington
+one-quarter
+epoch
+trans
+infer
+treisman
+week
+attenuation
+driven
+koch
+robust
+neurophysiol
+shortly
+modes
+largely
+thought
+patterns
+desimone
+dimension
+8/58
+captured
+advancement
+source
+natl
+mitra
+emphasis
+identical
+department
+tomita
+schall
+acad
+palm
+dimensions
+annu
+comments
+ma 02139
+= 2 × 10-5
+proc
+sarnthein
+17/54
+power
+kopell
+copyright 2007
+itti
+= 4 × 10-5
+stimulation
+soc
+cambridge
+washington
+references
+psychophysiol
+rossi
+21/70
+rely
+support
+fast
+start
+eglin
+miyashita
+rorie
+sds
+overlapping
+histogram
+fries
+aertsen
+calculated
+moore
+computing
+wicherski
+grouped
+nat
+ohbayashi
+chance
+allowing
+suited
+variable
+40/78
+10 hz
+4a
+1867
+14
+1990
+717
+35
+21­23
+1560
+1997
+291
+25­27
+193
+194
+301
+529
+31
+= 0
+1138071
+699
+97
+1995
+1999
+233
+1
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+1991
+027
+704
+81
+87
+84
+7
+299
+51%
+14%
+11
+10
+13
+12
+15
+17
+18
+262
+98
+357
+201
+200
+28­30
+4­6
+**
+8
+15­19
+2
+16
+19
+315
+31%
+01
+05
+3
+611
+15­17
+900
+1073
+63
+1860
+167
+1273
+38
+30
+< 0
+2005
+9
+002
+001
+006
+009
+35%
+353
+4
+61
+56
+50
+535
+539
+421
+845
+1980
+*
+1989
+1­3
+6
+1200
+41
+5
+8­11
+474
+2002
+2003
+2000
+2001
+2007
+2004
+2008

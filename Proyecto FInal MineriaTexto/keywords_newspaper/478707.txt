@@ -1,0 +1,13 @@
+network
+interactions
+cells
+yeast
+proteins
+number
+growth
+master
+adult
+478707txt
+samorogu
+protein
+connected

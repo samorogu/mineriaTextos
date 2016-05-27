@@ -1,0 +1,1479 @@
+casp5
+pdb id
+1h40 1iznc 1m6yb 1nyn 1o0ub 1o12c
+
+casp5 id
+t0170 t0162 t0172 t0181 t0187 t0186 average 3 2 1 3
+
+length
+69 168 101 111 165 36 108
+modeller
+tasser modeller
+
+rmsdlocal*
+nrmsd 6 nrmsd 5 nrmsd 4 nrmsd 3 nrmsd 2 nrmsd 1 rmsd
+% nrmsd 6¶ nrmsd 5 nrmsd 4 nrmsd 3 nrmsd 2 nrmsd 1 2
+fold families share common substructures motifs
+experimental single protein molecule stretching data
+parallel hyperbolic monte carlo sampling
+ab initio lattice modeling approach
+developing efficient fold recognition algorithms
+sufficiently powerful fold recognition algorithm
+force field takes consensus information
+consistently bring template-based alignments closer
+force field includes multiple sources
+efficient fold recognition algorithms
+protein tertiary structure prediction problem
+tertiary consensus contact distance restraints
+modeller models versus loop length
+casp5 prediction season
+tasser models show obvious improvement
+template assembly refinement algorithm tasser
+brookhaven protein data bank
+high-resolution tertiary structure prediction
+similarly folded protein structures
+methods include comparative modeling
+demonstration represents significant progress
+ran-ranbp1­rangap protein complex
+casp5 folding experiment
+current protein data bank
+systematic protein structure classification
+maximum 35% pairwise sequence identity
+build physically reasonable structures
+protein structure prediction problem
+current pdb library
+yang zhang
+develop
+
+wunsch dynamic program
+comparative modeling program modeller
+state-of-the-art structure alignment algorithm
+modeller generates reasonable models
+largescale pdb test set
+protein structure modeling procedure
+comparative modeling threading approaches
+multiple-template-based sg pair potential
+thick lines signify templates
+protein-specific sg pair potential
+recently developed modeling algorithm
+monte carlo calculation
+tasser structure prediction methodology
+successfully build full-length models
+modeling unaligned loop regions
+structure alignment program sal
+tasser force field results
+comprehensive pdb benchmark set
+unaligned loop tail regions
+ran-ranbp1­rangap complex
+consensus tertiary restraints
+final model combination procedure
+includes consensus restraints
+low-to-moderateresolution experimental structures
+tasser refinements versus rmsd
+highest rmsd z-score obtained
+physically reasonable models
+protein structure prediction
+protein fold space
+consensus spatial information
+initial template alignments identified
+structure alignment algorithms
+highest structure density
+structure refinement noted
+error bars denote
+purely academic interest
+nucleic acids res
+health grants gm-37408
+final models show improvement
+comparative modeling approaches
+low-resolution experimental structures
+protein structure modelers
+force field construction
+protein-specific pair potential
+large scale test
+org cgi doi 10
+highest cluster density
+protein structure space
+irregular secondary structures
+template refinement process
+current structure library
+requisite resolution required
+long tail interacting
+combination weight factors
+recent investigations show
+optimized force field
+threading program prospector 3
+structure alignment algorithm
+tertiary topology varies
+current pdb library
+initial template-based alignments
+folds immediately raises
+produce buildable models
+cluster structure density
+structure alignment converges
+freely jointed chain
+structure alignments produced
+rigid block movements
+elemental building blocks
+predicted secondary structure
+benchmark test set
+comprehensive benchmark set
+14 lowest temperature replicas
+threading models tend
+tasser generates models
+380 unaligned loop regions
+unaligned loop regions
+secondary structure predictions
+active site identification
+single-domain protein structures
+casp5
+building full-length models
+resultant full-length models
+build full-length models
+initial guessed superposition
+highest rmsd z-score
+solved protein structures
+000 solved protein structures
+contact probability results
+side-chain contact probability
+homologous proteins removed
+structure comparison tools
+power-law fitting errors
+square fit equation
+representative examples showing
+loop length
+representative benchmark set
+jeffrey skolnick*
+center
+targets putatively adopt
+gaussian random chain
+spatial information provided
+state-of-theart structural alignments
+backbone structure packing
+higher accuracy confidence
+average sequence identity
+lower average rmsdlocal
+average length
+aligned region improves
+average rms deviation
+initial template alignment
+initial template alignments
+biochemical function annotation
+contact probability q0
+initial aligned regions
+solved pdb structures
+4
+
+1033
+
+biophysics
+
+recent work
+limited configuration entropy
+score matrix defined
+knowledge-based statistical potentials
+acceptable loop size
+tasser modeling results
+000 extrinsic targets structures
+important issue faced
+unaligned regions loops
+full-length model construction
+neighboring stem residues
+template library consists
+chain length
+target­ template pairs
+gapped regions equal
+consensus information
+length greater
+homologous proteins excluded
+identified multiple templates
+sal template alignments
+increasing loop size
+initial alignment coverage 75%
+average global rmsd
+find similar folds
+model quality relative
+tertiary restraints
+force field
+final models built
+aligned regions improved
+usa
+
+pnas
+
+january 25
+threading program
+final models improve
+model quality compared
+systematic demonstration
+total contact number
+hierarchical families
+protein structure
+similar folds found
+provide acceptable templates
+modeling procedure
+continuous fragments excised
+template-based approaches
+current pdb
+contact probability
+structure assembly
+skolnick
+
+pnas
+
+january 25
+sufficiently distorted
+tasser includes
+lower rmsdglobal cutoff
+modeller refinements
+tasser algorithm
+tasser refinement
+correct fold
+protein-folding problem
+unsolved problem
+tertiary topology
+spatial restraints
+benchmark set
+sal algorithm
+pair potential
+protein chain
+loop regions
+native model superposition
+structure alignment
+structure alignments
+protein eng
+target protein
+ran-binding protein
+entire complex
+reassembly procedure
+acceptable resolution
+biophysics
+
+methods
+thick backbones
+successfully identified
+contact occurs
+predicted structure
+structure superposition
+initial alignment
+loop region
+protein size
+template structures
+initial alignments
+template library
+initial template
+unaligned region
+gapped regions
+fold targets
+similar data
+modeling decreases
+x-ray structure
+structure clusters
+target structure
+structure based
+25% sequence identity
+sequence identity
+35% sequence identity
+conformational space
+fragment assembly
+protein lengths
+final alignment
+final alignments
+length
+modeled loop
+loop orientations
+single-domain structures
+rms deviation
+lines connecting
+methods biochem
+thin lines
+acceptable models
+full-length models
+spatial distance
+optimized potential
+discussion
+benchmark
+modeller models
+multiple templates
+target set
+large-scale set
+expected probability
+template alignments
+protein sci
+final models
+solved structures
+rmsdlocal measures
+decoy structures
+aligned pairs
+template identification
+homologous proteins
+conformational entropy
+optimal combination
+statistical potentials
+biological annotation
+active sites
+square fits
+fifty replicas
+representative examples
+knowledge-based potentials
+aligned regions
+average values
+weighted average
+pdb released
+well-aligned regions
+unaligned loops
+test proteins
+489 test proteins
+000 structure decoys
+structure decoys
+models relative
+higher rmsd
+previous approaches
+benchmark proteins
+predicted models
+modeling accuracy
+full-length model
+model construction
+low-resolution nmr
+random chain
+structural alignment
+tasser
+
+tasser
+tasser models
+shorter alignments
+alignments identified
+structural alignments
+unphysical alignments
+similar folds
+template topologies
+initial rmsd
+global orientation
+folding results
+relative orientation
+final model
+sal alignments
+full-length rmsd
+average rmsd
+aligned region
+continuous sequence
+backbone lengths
+tasser greater
+lower bound
+generate models
+refined models
+models farther
+models retain
+physical models
+average rmsds
+direct superposition
+similar results
+significant implications
+significant denseness
+core region
+excluded volume
+initial templates
+pnas
+
+january 25
+power versus
+chain connectivity
+entire chain
+global topology
+lowest rmsd
+significant improvement
+rmsdlocal denotes
+aligned correctly
+model quality
+predicted model
+template fragments
+clarendon press
+low-to-moderate resolutions
+linkage points
+internal conformations
+regularities correlations
+major challenge
+insertions deletions
+excluding homologues
+important question
+core identified
+foldable case
+foldable based
+random chains
+apparent saturation
+unpublished results
+corresponds approximately
+ny 14203 communicated
+numerous gaps
+901 washington street
+structurally aligning
+stephen berry
+gap penalties
+national academy
+solved based
+polymer dynamics
+review november 10
+local packing
+thin backbones
+national institutes
+limited number
+physical principles
+coordinate assignment
+trends biochem
+realistic situation
+bin width
+shift sets
+stronger dependence
+ligand docking
+red wire-frame
+drug discov
+structural genomics
+continuous translations
+finding suggests
+functional analysis
+``twilight zone
+rigid blocks
+case results
+defined based
+highly dense
+optimally satisfy
+correctly aligning
+tail cut
+side-chain group
+hydrogen bonds
+dashed line
+local conformation
+concluding remarks
+structural resemblance
+proteinmodeling procedures
+red runs
+relative rmsd
+82% alignment coverage
+79% alignment coverage
+alignment coverage
+low-resolution templates
+templates alignments
+complete set
+575 representative proteins
+sal results
+improvement occurs
+5-å improvement
+template coverage
+lower rmsd
+structure completeness
+single-domain proteins
+average rank
+combined potential
+native structure
+sal
+
+sal
+unknown sequence
+model selection
+fulllength model
+stem residues
+average magnitude
+aligned proteins
+loop
+
+fig
+size ranges
+small size
+tasser shows
+target proteins
+489 nonhomologous proteins
+100 training proteins
+query proteins
+singledomain proteins
+models built
+detailed comparison
+scaled contact-numbers
+partner chains
+scaled contact-number
+test cases
+local fragments
+move closer
+continuous fragments
+rmsd calculations
+4-å rmsd
+rmsd ranging
+sg contacts
+poorer quality
+left column
+results reported
+work consists
+previous work
+tasser failed
+native structures
+rmsd improvement
+rmsd improvement ``
+significant difference
+significant number
+longer coverage
+templates identified
+resulting templates
+top-scoring templates
+individual templates
+objective function
+7a shows
+4
+
+1031
+
+biophysics
+
+table 2
+accuracy cutoff
+including loops
+partially addressed
+practical ramifications
+detailed list
+fairly close
+intermolecular interactions
+needleman­
+
+abbreviations
+simulation trajectories
+success rate
+procedures lead
+hard challenge
+calculate q0
+accurate theory
+minimal observed
+curve denotes
+highly suggestive
+scatter plot
+simulations depending
+models generated
+prediction
+skolnick
+
+bling
+successful
+zhang
+energy terms
+prior conclusion
+jth residues
+entries added
+hand columns
+correlation coefficient
+remaining one-
+points serve
+principle solve
+term iv
+reliable strategy
+rmsdglobal measures
+rmsdglobal cutoff
+column shows
+489 medium-size proteins
+side including
+performed based
+table 1 presents
+algorithm
+denoted rmsd
+unknown sequences
+300-residue linkers
+targets proteins
+native state
+including tails
+3-å rmsd
+protein
+358 targets shifted
+424 targets shifted
+yang
+field
+spicker clustering
+build
+identify templates
+starting templates
+rmsd calculated
+contacting residues
+pair
+modeling
+structure 5
+structure
+skolnick@buffalo
+loop
+z-score
+threading
+comprehensive
+unaligned
+data
+versus
+doi
+set
+structures
+rmsdlocal
+34
+
+rmsdlocal*
+1
+library
+initial
+methodology
+combination
+show
+developed
+develop
+tail
+& wunsch
+recently
+construction
+skolnick
+
+fig
+average
+average 92%
+average 81%
+modeller
+pdb
+regions
+sg
+approaches
+potential
+cluster
+prospector 3
+alignment
+alignments
+template
+distance
+optimized
+closer
+quality
+sequence
+tasser
+representative
+lower
+folds
+models
+superposition
+significant
+similar
+excluded
+chain
+aligned
+consists
+excised
+increasing
+fit
+structural
+side-chain
+potentials
+target
+packing
+usa 101
+solved
+continuous
+3 score
+find
+cutoff
+predictions
+defined
+rigid
+results
+blocks
+identified
+configuration
+equal
+compared
+sal
+2 å improvement
+improvement
+model
+topology
+loops
+size
+proteins 29
+proteins 23
+proteins 37
+proteins 32
+proteins
+proteins 45
+proteins 53
+proteins 56
+proteins 48
+obtained
+terms
+including 100 60
+comparison
+fragments
+scaled
+chains
+*
+rmsd
+rmsd
+§rmsd
+*rmsd
+rmsd 4 å
+reported
+work
+provide
+decoys
+provided
+shifted
+improved
+lengths
+unknown
+rmsds
+column
+å coverage
+coverage
+90% coverage
+82% coverage
+70% coverage
+73% coverage
+templates
+2 shows
+shows
+energy
+built
+function
+accuracy
+total
+plot
+suggestive
+needleman
+side
+observed
+improve
+power-law
+trajectories
+simulations
+theory
+489 medium-size
+total 11
+combined
+power
+sci
+difference
+list
+practical
+found
+hard
+denotes
+denoted
+number
+failed
+close
+poorer
+cut
+clustering
+question
+spicker
+addressed
+move
+interactions
+q0
+sequences
+success
+lead
+contacting
+1073 pnas
+pnas
+rank
+issue
+& skolnick
+skolnick
+0407152101
+
+zhang
+zhang
+& zhang
+targets
+120 targets
+102 targets
+489 targets
+200 residues
+serve
+principle
+iv
+hand
+identify
+entries
+22 residues
+8 residues
+28 residues
+residues
+tails
+>4 residues
+correlation
+4 residues
+10 residues
+generated
+3-å
+complete
+900 residues
+strategy
+contacts
+buffalo
+3-
+1­84 residues
+magnitude
+one-
+conclusion
+rmsdglobal 7 å
+rmsdglobal
+02
+
+rmsdglobal*
+1
+rmsdglobal 3 å
+62
+
+rmsdglobal*
+1
+table 3
+table 2
+table 1
+performed
+starting
+0407152101
+
+table 1
+50 linkers
+linkers
+300 linkers
+completeness
+calculated
+native 6 å
+native 4 å
+native
+fig
+4
+
+1029 ­1034
+
+fig
+cases
+675 cases
+swindells
+summarized
+& hubbard
+consistent
+implemented
+selected
+2005
+
+vol
+& chothia
+flores
+fernandez
+sidechains
+1030 www
+kihara
+holm
+& edwards
+westbrook
+root
+il
+revisit
+answer
+types
+decreasing
+vary
+easier
+rt
+forty
+550 -
+rm
+barrier
+& morea
+estimate
+r1
+top
+percentage
+intell
+& honig
+1 å worse
+showed
+classes
+ran
+chem
+thornton
+-
+& ouyang
+circles
+blue
+observation
+mosimann
+implementation
+biophys
+fidelis
+contributes
+september 27
+reference
+decided
+result
+software [
+1a2kc
+received
+biologically
+008 520 37
+
+top
+basis
+applied
+seewald
+publicly
+employ
+ii
+conf
+madej
+make
+zemla
+kuhn-length
+brenner
+206 582 49
+
+align
+2
+& altschul
+desire
+www
+& levitt
+misoriented
+& fetrow
+opin
+rotations
+acad
+positive
+064 498 46
+
+align
+1
+fraction
+understandable
+true
+exist
+triangles
+constructed
+69
+
+r5
+jones
+rief
+focus
+/
+murzin
+finally
+dij
+level
+excellence
+address
+change
+195 984 647 300 20
+
+top
+suppl
+opposed
+& eisenberg
+appendix
+1032
+
+www
+& havel
+korner
+1jm7a
+designed
+date
+definitions
+argued
+protein-
+tramontano
+correspondence
+one-seventh
+psipred
+gibrat
+& bryant
+shown
+gerstein
+87
+
+ali
+100-
+& bourne
+sanchez
+threadingbased
+hyberts
+exists
+white
+representing
+generality
+recover
+wittinghofer
+sciences
+attempted
+sali
+considered
+drive
+peptides
+supposition
+threshold
+feng
+glusker
+yield
+summary
+comp
+article
+parentheses
+overview
+iterations
+50-
+deposited
+6c
+& sali
+1 dij 5
+converts
+rmali
+michie
+harrison
+struct
+bowie
+aspects
+orengo
+mol
+macarthur
+reduces
+reduced
+& james
+kolinski
+nature 415
+broken
+rearranging
+start
+low
+two-thirds
+terminus
+taylor
+general
+examine
+shindyalov
+phys
+reassem-
+included
+month
+anal
+fetrow
+residue
+contrast
+-proteins
+eye
+pearl
+helps
+propensities
+numbers
+sense
+goal
+moult
+bioinformatics
+enzymes
+ith
+oxford
+presented
+1034
+
+www
+members
+definition
+& gaub
+bioinformatics 20
+reinforced
+bhat
+weissig
+259 623 52
+
+top
+part
+authors
+biotechnol
+1b2ia
+motivation
+comput
+7b
+orders
+majority
+& pedersen
+cover
+reassembled
+factor
+melo
+meleshko
+ranked
+& kolinski
+sensitive
+point
+reasons
+lett
+partly
+optimization
+fiser
+guide
+mott
+41­200 aa
+distances
+impetus
+extracted
+guaranteed
+flowchart
+gm-48835
+rearrangement
+essential
+urgent
+annu
+integration
+proc
+stuart
+1xer
+statistics
+biol
+3
+
+rtali
+exploration
+arakaki
+highlight
+curr
+coincides
+research
+grouped
+nat
+& blundell
+200-
+berman
+issues
+bryant
+smaller
+chicago
+3c
+3a
+explore
+decrease
+kuhnlength
+science 253
+iii
+refine
+control
+demonstrating
+422 922 83
+
+top
+correspond
+gilliland
+perfect
+ln
+ln 0
+devel
+biomol
+university
+baxter
+related
+luthy
+rev
+1k5db
+improvements
+& vetter
+submitted
+curves
+rearranged
+fjc
+science 294
+text
+supported
+marti-renom
+means
+syst
+betancourt
+december 30
+invariant
+comparable
+ce
+maximize
+respect
+define
+unlike
+& sander
+examined
+hubbard
+infer
+science 273
+& orengo
+wagner
+natl
+martin
+ran-bp1
+-protein
+e-mail
+demonstrated
+introduced
+assess
+termini
+utility
+& thornton
+demonstrate
+distribution
+piece
+bearing
+int
+contribute
+variety
+details
+rank-
+zhou
+baker
+searched
+4b
+4a
+301­317
+739­747
+§
+4
+§
+2
+292
+27%
+536­540
+779­815
+10%
+102
+100
+94
+1991
+1993
+1992
+1995
+1994
+1997
+1996
+1999
+1998
+8 å
+7594­7599
+8 2
+740 100 1
+011 800 507 244 64 10 6
+793­802
+­
+291­295
+708 82 1
+25 å
+352­368
+1087­1096
+05 å
+244 1
+16
+05
+59
+
+*
+62 3
+17­20
+342 1
+423 1
+1970
+1 å
+57
+5%
+56
+10 1
+4 å
+236­244
+94 3
+150
+603 1
+326 1
+8­10
+0
+472 1
+192­201
+664 1
+27 å
+462 1
+528 1
+437
+434
+14­28
+4764­4767
+å*
+234
+1
+489 1
+549 1
+56 å
+87 å
+475­494
+56 1
+93­96
+1­72
+62%
+2
+11
+10
+13
+12
+15
+14
+17
+19
+18
+59­67
+200
+]
+4­7
+11­14
+9 5
+3
+21
+60
+61
+1133­1143
+283­287
+57 3
+173 519 1
+909­926
+4
+1093­1108
+[1]
+481 1
+386 1
+71
+247
+600
+339­353
+5
+51 å
+1145­1164
+2 1
+© 2005
+255 1
+369 1
+2 å
+90%
+235­242
+6
+447 1
+246 100 1
+797­815
+877 82 1
+¶
+å 1
+334­339
+5 å
+61%
+49%
+202 1
+24
+25
+26
+27
+20
+22
+23
+28
+29
+060 841 551 244 15
+
+*
+199 924 549 193 18 4
+7
+1753­1773
+97%
+487 1
+7%
+595­603
+74
+73
+70
+79
+488 1
+15­17
+79 3
+865­871
+510 82 1
+6 å
+9
+19 å
+å§
+1
+675
+7 å
+300
+301
+464 1
+92 å
+82 2
+å
+%
+1858­1870
+2002
+2003
+2000
+2001
+31 2
+2004
+71 2
+21­23
+448
+28 2
+352 100 1
+39
+38
+33
+32
+31
+30
+37
+36
+35
+34
+71 å
+443­453
+334
+167­198
+8
+662­666
+13%
+§
+35 å
+395 1
+631 1
+82
+70%
+80
+81
+84
+85
+670 1
+0 å
+009 498 2
+386
+15­20
+195­202
+323
+3 å
+2­6
+2­7
+502­518
+318 100 1
+0407152101
+665­678
+287
+88 å
+88 3
+164­170
+527 1
+478­480
+349 1
+489
+1986
+*
+291­325
+å
+1
+633 1
+83
+74 å
+48
+42
+43
+40
+41
+377­385

@@ -1,0 +1,995 @@
+future rewards differentially recruits cortico-basal ganglia loops
+stereotyped behaviours brings great biological advantages
+distributed modular architectures linking basal ganglia
+cortico-basal ganglia circuits represent neural equivalents
+passive learning task activate human striatum
+dorsolateral striatum preserve outcome expectancy
+neurons lacking in-trial phasic peri-event activity
+well-ingrained habit requires extensive repetition
+striatal neurons reflects dynamic encoding
+lacked detectable phasic peri-event activity
+plots show ^200-ms time windows
+composite neural activity scores based
+1159
+
+© 2005 nature publishing group
+
+letters
+
+nature
+cortico-basal ganglia loop processing12
+neural information processing systems vol
+detectable phasic task-responsive activity fired
+task-related ensemble firing successively formed
+simplified cortico-basal ganglia circuit
+cortico-basal ganglia loop processing
+avian basal ganglia-forebrain circuit
+basal ganglia structure implicated
+found equally striking lability
+composite neural scores based
+sensorimotor cortico-basal ganglia loop
+nontask-responsive population fell silent
+explore­exploit behaviour characteristic
+reflect neural representations related
+striatal neural activity predictive
+pre-trial 500-ms baseline period
+normalized per-neuron firing rates
+producing reduced mid-trial firing
+1158
+
+© 2005 nature publishing group
+
+nature
+© 2005 nature publishing group
+
+nature
+cortico-basal ganglia loops
+strongest per-unit firing occurred
+running times similarly fell
+task-responsive projection neurons responding
+pre-trial baseline firing rates
+day-by-day neural activity patterns
+average per-trial running times
+conditional reward-based t-maze task
+average per-trial firing rates
+cheetah data acquisition system
+total projection neuron population
+striatal output neuron firing
+cortico-basal ganglia circuits
+basal ganglia promote variability
+sharply tuned responses appeared
+task requires trial-and-error learning
+specific task events detected
+20 october 2005
+
+non-task-responsive neurons fired
+changing spike activity patterns
+rats undergoing consecutive acquisition
+phasic warning cue responses
+cortico-basal ganglia activity20­23
+dynamic neural representations
+© 2005 nature publishing group
+
+1161
+juvenile songbird requires
+basal ganglia circuit
+entire task run time
+composite neural scores
+peri-event peak timing
+error bars represent
+cortex-basal ganglia interaction
+building neural representations
+interactive memory systems
+striatal output neurons
+pre-trial baseline firing
+detectable task-related activity
+explore­exploit behaviour
+mid-trial firing increased
+direct neural analogue
+identify neural mechanisms
+basal ganglia activity
+dotted magenta line
+dotted green line
+authors contributed equally
+experiments leave open
+tetrode headstage assemblies
+competing financial interests
+competing motor programs
+solid purple line
+1038/nature04053
+
+letters
+activity
+activity declined sharply
+basal ganglia neurons
+per-trial spike distributions
+peri-event phasic responses
+candidate neurons fired
+trial-by-trial running times
+normalized firing rates
+entire procedure performed
+striatal projection neurons
+author information reprints
+peri-event time histograms
+average perneuron firing
+putative projection neurons
+fewer neurons responded
+cues previously triggering
+taskresponsive projection neurons
+reflect ongoing reorganization
+per-trial spike activity
+sharply tuned responses
+disrupt habit formation
+procedural memories
+terra
+rats successively trained
+spike progression index
+actual running times
+analyse population activity
+task-responsive population diminished
+sharpened responses developed
+adaptive motor control
+task-responsive projection neurons
+warning cue-responsive neurons
+spike activity decreased
+entire task performance5
+late activity shifted
+entire procedural performance
+conditional t-maze task
+trial-to-trial spike variability
+population spike activity
+20 october 2005
+
+letters
+
+modulation
+measured multiple parameters
+pseudo-colour scales shown
+cholinergic­ -monoaminergic interactions
+putative single units
+made long-term recordings
+reached nearasymptotic values
+phasic spike responses
+dot represents performance
+non-task-responsive projection neurons
+acquired taskrelated patterning
+projection neuron activity
+well-isolated units accepted
+neuronal firing occur
+increased neural exploration
+task-related response types
+reinstated original context
+spike firing patterns
+weighted neural measures
+rewardbased procedural task
+single site recorded
+successive trials leads
+auditory cues indicating
+learned procedure strengthened
+spike activity patterns
+pennsylvania state university
+solid blue line
+entire trial run
+cent correct performance
+performance accuracy increased
+task-related responses changed
+entire trial time
+temporal prediction errors
+spike activity continued
+start activity resembling
+early activity advanced
+entropy fell sharply
+percentage correct behaviour
+showing significant correlation
+actual behavioural accuracy
+in-trial activity
+entire maze runs
+rats received training
+task-responsive units calculated
+altered behavioural contexts
+trial performance time
+composite scores
+information processing
+basal ganglia
+successive acquisition training
+reacquisition training began
+scores normalized
+acquired spiking patterns
+neural firing
+striatal activity
+running times
+firing rates
+ensemble firing
+striatal neurons
+neural activity
+20 october 2005
+
+letters
+task-related activity
+projection neurons
+average activity
+baseline activity
+phasic-response windows
+neural data
+phasic responses
+task-responsive population
+human brain
+changing patterns
+ensemble patterns
+task-related responses
+changed successively
+spike activity
+neuronal population
+run times
+firing patterns
+auditory cues
+warning cue
+phasic peaks
+spike variability
+neural netw
+neural exploration
+neural analysis
+low rates
+error bars
+recordings began
+tuned preferentially
+learned behaviours
+^200-ms interval
+trial-and-error learning
+spike patterns
+spike responses
+average numbers
+task-irrelevant firing
+taskirrelevant firing
+permissions information
+-18
+
+supplementary information
+findings show
+sensorimotor striatum
+procedural behaviour
+physiological activity
+in-task activity
+found large-scale
+single sites
+multiple neurons
+behavioural procedure
+neurons dwindled
+consecutive days
+found major
+neurons returned
+neurons plotted
+define task-responsive
+actual time-frame
+neural exploitation
+habit formation4­8
+t-maze task
+successive training
+procedural learning
+habit learning
+spiking increased
+made consistently11
+authors declare
+university park
+indicating recording
+occur quickly
+late parts
+accepted 21 july 2005
+received 2 june
+fell abruptly
+spiking activity
+behavioural performance
+task events
+behavioural data
+waiting period
+unit activity
+neural restructuring
+average percentages
+correct responses
+behavioural responses
+correct run
+behavioural control
+motivational control
+run trajectories
+working memory
+units recorded
+temporal shifts
+memory functions
+temporal advance
+task time
+rats navigated
+key modulation
+global modulation
+illustrating correlation
+real-time modulation
+rats learned
+early activity
+acquired patterns
+time stamps
+behavioural accuracy
+time frame
+`expert neurons
+neurons classified
+reacquisition period
+optimal behaviour
+spiking patterns
+task selectivity
+task execution
+task representation
+unit data
+6 consecutive sessions
+significant correlation
+spike distribution
+longer needed
+evaluate behavioural
+multiple tetrodes
+cluster cutting
+in-house software
+naval research
+behavioural sequence
+substantia nigra
+cognitive sciences
+locomotion onset
+non-taskresponsive populations
+goal-directed action
+controlling action
+supplementary figs 2­5
+national institutes
+individual trials
+nodal points
+computational roles
+encoded salience
+vocal experimentation
+notoriously difficult
+progressively emphasized7
+synaptic organization
+cellular mechanism
+ccd camera
+0104 davey laboratory
+tone onset
+abrupt shifts
+dynamically reconfigured
+10-ms bins
+behavioural boundaries
+eds tesauro
+behavioural processes
+ready release
+illustrating strengthening
+action repertoires
+horizontal lines
+supplementary table 1
+supplementary table 2
+oxford univ
+dan hu1
+row represents
+computational model
+incorrect trials
+supplementary figs 2
+active organisms
+attractor states
+`fast learners
+action selection
+directly participate
+selection functions
+online version
+conditioned reflexes
+goal reaching
+functional anatomy
+recovered rapidly
+multiple dimensions
+steadily deteriorated
+pre-training levels
+32 khz sampling
+behavioural autonomy
+changed markedly
+highly correlated
+yasuo kubota1*
+competitive selection18­20
+reinforcement-based evaluation
+recorded chronically
+`slow learners
+cognitive neurosciences
+mcgovern institute
+initial `exploration
+remained elevated
+correct choices
+sudden shift
+standard deviations
+43 vassar street
+learning proceeds4­6
+behavioural learning
+learning dynamics
+graybiel1
+learning
+learning criterion
+instrumental learning
+associative learning
+reinforcement learning
+successful learning
+reward-related learning
+continued training
+behavioural training
+nature neurosci
+task runs
+supplementary methods
+initially acquired
+responses occurring
+units classified
+neuron relative
+training stage
+learning stage
+frontal cortex
+findings suggest
+reacquisition fits
+cerebral cortex
+widespread spiking
+extinction period
+reacquisition training
+plotted relative
+mit press
+over-training period
+initial acquisition
+acquisition held
+acquisition training
+maze runs
+plos biol
+typical peths
+receive reward
+turn onset
+trial start
+learning-related reduction
+primary correspondence
+eds houk
+peri-event
+middle parts
+abruptly rose
+proportion tripled
+detectable
+chocolate reward
+brain research
+group
+24­63 daily sessions
+slope threshold
+largely reversed
+focused selection
+supplementary fig
+training session
+training stages
+learning stages
+subsequent extinction
+fired
+response tuning
+vivid
+
+figure 3
+extinction training
+graybiel@mit
+establish habits
+massachusetts institute
+spikes concentrated
+exploitation phases
+extinction context
+behaviours
+formed
+progressive concentration
+firing
+baseline
+population
+activity
+task-responsive
+reflect
+neurons
+over-training session
+nature 413
+nature 433
+nature 431
+nature 414
+nature
+habit
+detected
+t-maze
+variability
+appeared
+reduced
+promote
+20 october 2005
+fell
+performance
+striatum
+patterns
+responses
+run
+units
+rats
+`non-task-responsive
+non-task-responsive
+accuracy
+time
+neuron 36
+behaviour
+neuron 38
+neuron
+task
+recorded
+multiple
+prediction
+interactions
+changed
+values
+pennsylvania 16802
+shown
+correct
+learned
+exploration
+trial
+behavioural
+40 trials
+continued
+training
+learning
+methods
+acquired
+stage
+runs
+significant
+vol 437
+reacquisition
+findings
+cortex 5
+spiking
+response
+context
+maze
+unit
+measures
+calculated
+relative
+press
+altered
+acquisition
+occurred
+exploitation
+`exploitation
+row
+`expert
+blue
+turn
+classified
+learning-related
+concentration
+proportion
+correspondence
+progressive
+phases
+distribution
+tuning
+middle
+peths
+percentages
+reward
+rose
+early
+occurring
+biol
+start
+houk
+interval
+entropy
+13 sessions
+brain
+session
+63 sessions
+stages 6­15
+stages 1­5
+stages 1­6
+stages
+focused
+reversed
+threshold
+restructuring
+fig
+extinction
+neurosci
+1160
+
+figure 4
+over-training
+figure 1
+figure 2
+habits
+graybiel
+& graybiel
+massachusetts 02139
+spikes
+massachusetts
+neurobiol
+remarkably
+contributions
+increase
+flaherty
+environment
+investigation
+recoding
+returning
+introduction
+responders
+randomness
+ceased
+enhance
+favoured
+averaged
+withheld
+regained
+knowlton
+time-shift
+redistributed
+2 & ann
+frank
+3c
+3b
+3a
+mink
+contrast
+3d
+met
+retraining
+represented
+implanted
+sharpening
+behav
+myers
+46-6133
+addressed
+photobeams
+plot
+dickinson
+usa
+2department
+beginning
+& fee
+pavlov
+initiated
+aligned
+cerebellum
+redistributions
+work
+learn
+trans
+shepherd
+process
+proportions
+spi
+interneurons
+end
+reynolds
+song
+acq
+ekeberg
+lesions
+extinguished
+act
+tied
+harlan
+sn
+fundamental
+order
+interpretation
+office
+cybern
+andalman
+cereb
+london
+affect
+window
+& beiser
+reilly
+eur
+anim
+return
+reappearance
+propose
+& redgrave
+1b
+james
+2d
+2e
+2f
+2a
+2b
+soc
+colour-coded
+npg
+dezhe
+ed
+& balleine
+idea
+olveczky
+principles
+factors
+hyman
+rev
+adjust
+health
+chunking
+goal-reaching
+rea
+red
+asymptote
+turning
+indices
+york
+packard
+estimate
+montague
+determining
+regaining
+davis
+number
+& barto
+salient
+width
+evolution
+top
+yin
+hillegaart
+1a
+1c
+1e
+1d
+underlie
+exposures
+accompany
+kubota
+serve
+part
+diminish
+& montague
+de-emphasized
+grey
+hall
+prescott
+& wise
+science 265
+turned
+rat
+linked
+viewed
+wilson
+academic
+berns
+-
+instructed
+materials
+aosaki
+subject
+kao
+tanaka
+acknowledgements
+sutton
+doi
+phil
+^1-
+ext
+connolly
+gazzaniga
+physics
+dover
+/nature
+touretzky
+re-emphasized
+1 department
+redistribution
+re-emerged
+black
+abutted
+routtenberg
+means
+reversal
+& kimura
+procedures
+reacquisition15­17
+paper
+view
+respond
+dopamine
+identified
+result
+ability
+plasticity
+poldrack
+mem
+thalamus
+& sejnowski
+demonstrate
+suppressed
+variance
+jog
+height
+respect
+addition
+rebounded
+absence
+context5
+spread
+collected
+¨ djurfeldt
+behaviour1­3
+observe
+evidence
+transl
+property
+computed
+reacquired
+doupe
+neuromodulation
+technology
+perform
+butcher
+advances
+development
+effect
+choice-arm
+requests
+inhibition
+left
+& leen
+metalearning
+proposed
+bouton
+actions
+& brainard
+neurocomputing 38­ -40
+day
+role
+hyland
+funded
+& davis
+lost
+cogn
+science 286
+e153
+loughry
+www
+bottom
+annu
+critical
+prog
+psychology 104­ -127
+analysed
+notably
+properties
+planning
+reinforcing
+ot
+cambridge
+neuralynx
+determine
+reducing
+question
+lond
+accords
+anrep
+mcclure
+gurney
+evident
+& wickens
+& cohen
+jin1
+behavioral
+1b­
+al
+& kim
+looked
+marking
+compared
+/reprintsandpermissions
+barto
+doya
+test
+models
+barnes1*
+neocortex
+occurrence
+thorn
+learning4­10
+& knowlton
+50
+15
+0
+1996
+1998
+19
+567­ -584
+215­ -232
+8
+1995
+1
+887­ -893
+¼ 5
+¼ 4
+¼ 3
+¼ 2
+¼ 0
+24­30
+24
+27
+21
+22
+23
+28
+29
+495­ -506
+1826­ -1831
+9
+&
+485­ -494
+82
+87
+84
+7
+20
+1994
+381­ -425
+*
+638­ -643
+546­ -550
+2
+11
+10
+13
+12
+14
+17
+16
+18
+74
+70
+119­ -136
+760­ -767
+3
+339­ -346
+-78
+
+3
+101­ -108
+1927
+573­ -579
+02
+09
+25
+26
+1745­ -1749
+137­ -160
+95­ -110
+181­ -189
+0002
+30
+¼ 20
+305­ -331
+001
+1978
+2002
+361­ -413
+563­ -593
+6­15
+4
+469­ -482
+1999
+69
+308
+67­ -70
+67­
+401­ -410
+1985
+6
+1­5
+1­6
+1890
+0001
+5
+2004
+2005
+1­
+2003
+2000
+2001

@@ -1,0 +1,354 @@
+4Department
+Tuffereau
+Diederichs
+Significant associations
+Department
+Supporting
+Forrest,1
+autosomal
+significance threshold
+endogenous
+probe-variant
+Tomizaki
+additional correction
+chemosensory
+Bystrykh
+Beazley,1
+transmission
+Radiation Facility
+Fredericksen
+bacterial
+attributable
+mutational
+assistance
+localization
+Bourgeois
+Duquerroy
+Jardetzky
+genotyping
+understanding
+Scherer,6,7
+Segmental
+7Department
+Distribution
+Kleinjan
+software development
+Computational
+Synchrotron Radiation
+technical
+Stranger,1
+different regulatory
+permutation
+Technology
+association analysis
+clone-probe
+classification
+different laboratory
+Physique
+clone-expression associations
+corrected threshold
+conventional
+Single-nucleotide
+Bioinformatics
+Nucleotide
+nonredundant
+Christine
+populations
+corrected
+Villigen
+disruption
+transient
+normalized
+Expression Expression
+SNP-associated
+following
+Tecnologie Biomediche-Sezione
+2Department
+long-distance associations
+Krissinel
+information
+respective
+CEU-CHB-YRI CEU-JPT-YRI
+Molecular Graphics
+Blumenthal
+intracellular
+Oleksiak
+Virology
+l'éducation nationale
+CEU-CHB-JPT-YRI CEU-CHB-JPT
+permutation threshold
+Churchill
+A-motility
+effective
+long-range
+redundant
+dispensable
+encompassing
+complexity
+Clone-expression association
+Chernomordik
+Heyningen
+exclusive
+correlation
+Biochemistry
+Microbiology
+Pritchard
+potential contribution
+Extensive
+clone-associated
+Scientific
+acknowledge
+permutation significance
+regulatory landscape
+imbalance
+stringency associations
+correspondence
+evolution
+Advancement
+compound
+comprehensive exploration
+phenotypic diversity
+susceptibility
+euchromatic
+realistic
+Canada/Ontario
+Bressanelli
+Scherrer Institut
+frequency
+CompLife
+Bonferroni correction
+stringent permutation
+Shaevitz,2 Patricia
+fellowship
+Chaudhry
+S-motility
+interactions
+University
+midpoint
+difficulty
+Ministère
+formation
+regulatory
+aglZ-yfp
+Cambridge
+Thorne,2
+September
+Lefrancois
+Baumeister
+consequence
+high-resolution
+Copyright
+Single-letter
+McCarroll
+flagella
+Kohlbacher
+Lippincott
+Downloaded
+regulation
+UGT2B17
+Association
+exploring
+retraction
+disequilibrium
+population
+expression variation
+Frequency
+Information
+coordinate Expression
+Bullough
+false-positive association
+Philadelphia
+manuscript
+substantial
+Crawford
+Williams
+FEBRUARY
+CEU-YRI CHB-JPT
+transcription
+mechanism
+satisfactory false-discovery
+CNV-expression associations
+adjusting
+single-nucleotide
+significant CNV-expression
+CEU-JPT-YRI CHB-JPT-YRI
+Statistical significance
+steady-state
+significant
+transcript
+Massachusetts Institute
+Panagiotis Deloukas,1
+observation
+elucidating
+duplication
+multiple populations
+selection
+genomewide
+accession
+Coordinates
+SNPexpression associations
+Expression VARiation
+threshold
+knowledge
+proportion
+Interrogation
+Carter,1
+structural variation
+permission
+heritable
+time-lapse
+different populations
+Washington
+microscopy
+GENEVAR
+reference
+reinforce
+individual
+comprehensive interrogation
+AglZ-YFP localization
+affecting expression
+populations Percentage
+numerous
+available
+comparable
+Dunning,2 Catherine
+AglZ­yellow fluorescent
+attention
+Tyler-Smith,1
+recherche
+Vandepol
+contribution
+expression
+experimental
+large-scale
+Stankiewicz
+expression association
+platform
+normalized quantitative
+trademark
+Leukemia
+California
+exhibition
+direction
+sufficient
+essential framework
+CEU-JPT CEU-YRI
+Adjusted
+clone-expression
+Marshall
+CHB-YRI JPT-YRI
+SNP-expression
+evaluated
+Somerville
+Nonetheless
+Integrative
+Motility
+clone-expression association
+comparative
+regression
+different
+phenotypic variation
+recurrent
+Variation
+3Department
+Zauberman
+Institute
+comprehensive
+Emmanouil
+Segretain
+multiallelic
+Nonredundant
+significant association
+Dermitzakis
+analysis
+bacterium Myxococcus
+Examples
+rod-shaped bacterium
+coordinate
+stringent
+Wellcome
+lymphoblastoid
+Springer-Verlag
+statistical replication
+association
+relevance
+Ferradosa
+hybridization
+Permutation threshold
+SNP-CNV
+largeinsert
+possible
+Consortium
+CEU-CHB CEU-JPT
+preference
+necessary
+Concertée Incitative
+recipient
+Oncology
+Grassi,3
+permuting
+specific
+individuals
+indication
+Pathology
+technologie
+International
+SNP-probe
+Benmansour
+Complexes
+reference individual
+significant associations
+genotypes
+CEU-CHB-JPT CEU-CHB-YRI
+SCIENCE
+confidence
+substratum
+Hartzell,3
+comparison
+December
+Consiglio Nazionale
+Evidence
+HighWire
+associations significant
+Strength
+Disorders
+Kruglyak
+functional
+CHB-JPT-YRI CEU-CHB
+Replication
+significant long-distance
+detectable
+UGT2B10
+UGT2B11
+CHB-JPT CHB-YRI
+Expression Phenotypes
+Thirty-four
+epistatic interactions
+Switzerland
+transcriptional repressor
+variation affecting
+robustness
+Bacterial
+expression associations
+contribute
+experimental variation
+chromosome
+Gram-negative rod-shaped
+higherresolution
+high-quality quantitative
+department
+Lymphoma
+Nationale
+Recherche
+variation
+genealogical
+important
+suppression
+structure
+Tavaré,2,8 Panagiotis
+Robinson
+Gerringer
+validation
+resolution
+enrichment
+regression coefficient

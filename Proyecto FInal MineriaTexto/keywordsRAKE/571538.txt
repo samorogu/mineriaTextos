@@ -1,0 +1,1398 @@
+snpscanner predictions 19 unique snps 6 unique snps 12 shared snps sequence-confirmed mutation chromosome iv
+general medical sciences grant r01 gm046406
+tao sang* crop domestication frequently began
+enable individual science vol 311 laboratory groups
+filtering criteria identified additional unique mutations
+genome sharing essentially complete sequence identity
+pew charitable trusts award 2000-002558
+wild grasses naturally shed mature grains
+predicted dna binding domain encoded
+high-density affymetrix yeast tiling microarrays
+tigr rice genome annotation database
+spontaneous single­base pair substitutions
+unsequenced laboratory yeast strain cen
+single dna microarray david gresham
+single dna microarray
+david gresham
+cereal domestication involved genetic loci
+--
+
+1934
+
+31 march 2006
+
+vol 311
+
+science
+
+www
+accepted 24 february 2006 published online 9 march 2006
+highly diverged sequenced strain yjm789
+confirmed unique nucleotide substitutions
+center grant p50 gm071508
+overlapping 25-nucleotide oligomers spaced
+nih grant r37 mh059520
+methods som text
+
+rice domestication
+detected single­base pair substitutions
+naturally shed ripe fruits
+detect single­ base pair indels
+independent spontaneous canr mutants isolated
+mcdonnell foundation grant 99-11t
+org
+
+science
+
+vol 311
+
+31 march 2006
+
+1933
+
+downloaded
+reducing shattering
+changbao li
+partially shed mature grains
+spontaneous drug resistance mutants
+tokyo biochemical research foundation
+phenotypic vol 311 science
+
+evaluation
+increased genome complexity presents
+fy3 spontaneous mutants corresponded
+single­base pair differences
+org/cgi/content/full/311/5769/1932 supporting online material
+characteristic gene expression patterns
+confirmed shattering differed invariably
+correctly predicted snps showed
+daughter cell­specific genes
+wild species caused shattering
+closely related wild species
+1124256
+
+supporting online material
+www
+supporting online material
+www
+genome-wide mutation detection facilitates
+snpscanner accurately predicts snps
+single homozygous diploid genome
+remaining wild a-genome species
+sulfur limitation 63 123 -- number
+preliminary genetic analysis tended
+selected 10 spontaneous canr mutants
+phenotypically distinguish f2 individuals
+snpscanner accurately predicts mutations
+additional 14 rice cultivars representing
+hybridized total genomic dna
+pm probe intensity caused
+single strain-specific mutations found
+multiple overlapping probes cover
+subsequent sequence analysis confirmed
+single­base pair
+chromosome iv
+expected nonclumpy phenotype predicted
+published online 28 march 2002
+published online 24 march 2005
+positive prediction signal shown
+genome-wide mutation detection approach
+compared genome-wide snp predictions
+closely related species--
+published online 4 august 2005
+key domestication transition
+strain dby11130 dby11131 dby11130
+online issn 1095-9203
+hybridized genomic dna
+positional cloning project
+strikingly mosaic structure
+assembly loc_os04 g57530
+minimal added cost
+pathogen helicobacter pylori
+york avenue nw
+world_s primary food
+nonfermentable carbon source
+probe_s gc content
+print issn 0036-8075
+successful sfp-based genotyping
+effective field harvest
+quantitative trait loci
+wild perennial species
+wild annual species
+wild grass species
+uehara memorial foundation
+terry fox foundation
+transient genome-wide mutagenesis
+traditional genetic techniques
+cultivars shared
+­amino acid insertion/deletion
+­ amino acid insertion/deletion
+archived stock culture
+è5-fold redundant coverage
+complete single-copy coverage
+som text figs
+qtl analysis located sh4
+whole-genome dna microarray
+correctly predicted snps
+vigorous hand shaking
+michigan state university
+difficult statistical problem
+methods
+
+genome-wide detection
+303 sequence-confirmed snps
+independent canr mutants
+2008
+
+tions correctly identified
+nonclumpy growth phenotype
+numerous independent cultures
+comparing hybridization intensities
+allowing intrastrain comparisons
+nucleic acids res
+yeast strain yjm789
+simple sequence repeat
+comprehensive genomic approaches
+wild progenitor suggested
+remained completely unknown
+mapping parents revealed
+amino acid substitution
+positive prediction signal
+fems yeast res
+high-quality predictions passing
+comparative genomic hybridization
+analyzed spontaneous mutants
+displayed low expression
+similar microarray design
+closely related genomes
+vol 311 science
+
+fig
+early mutation event
+genome estrain fy3
+pk shares ancestry
+outermost peak values
+large-scale gene duplication
+elim-
+
+reports
+inated
+2008
+
+reports
+nal threshold
+f2 population derived
+statistically detectable decreases
+progressively examining ssr
+6 million perfect match
+compares copy number
+dna sequencing technology
+similar redundant design
+unlinked suppressor mutation
+sequence-confirmed mutation
+single experimental hybridization
+national cancer institute
+targeted resequencing microarrays
+yeast strain subjected
+reference strain represented
+recent genetic analysis
+org
+
+31 march 2006
+
+1935
+
+downloaded
+escherichia coli grown
+experimentally verify mutations
+diploid genomes represents
+prediction signal threshold
+prediction signal
+
+404619-406181
+prediction signal thresholds
+predicted snps detected
+s13 references 23 december 2005
+red perturbs hybridization
+including high-resolution figures
+repetitive genomic features
+pk canr mutants
+single hybridization experiment
+489 f2 plants genotyped
+nucleotide sequence ctg--
+2008
+
+nucleotide sequence surrounding
+sequenced reference genome
+exclude common predictions
+snpscanner prediction signals
+saccharomyces cerevisiae strains
+representing entire genomes
+polymorphic sites present
+individual human genes
+undergone experimental evolution
+single dominant allele
+snpscanner signals obtained
+reliable phenotyping method
+entire yeast genome
+short oligonucleotides designed
+previously unknown function
+prediction sig-
+
+www
+reference genome background
+pk strain background
+variant nucleotide fall
+detect single mutations
+pk wild-type dna
+mutations strongly suggests
+continuous culture experiments
+precisely map sites
+hybridization intensity obtained
+identified can1 mutation
+cereal crop
+supporting material
+accepted 23 february 2006 10
+snpscanner predic200 fig
+mature grains
+article cites 29 articles
+molecular genetic basis
+analyzed haploid genomes
+s7 tables s1
+s3 references 12 december 2005
+largest phenotypic effect
+3-bp insertion/ deletion
+predicted deletion spans è1
+single-nucleotide sequence differences
+sequence analysis confirmed
+shed grains
+entire can1 gene
+predicted polymorphic site
+can1 locus identified
+prediction criteria
+cereal domestication
+rice chromosome 4
+spontaneous mutants
+previous qtl studies
+excellence grant
+sang@msu
+base substitutions
+414 additional predictions
+called 177 false positives
+rice domestication
+detected single-base deletions
+100 snps genome-wide
+wild species
+ripe grains
+pk can1 mutant
+complete coverage
+single hybridization
+10 canr mutants
+predicted snps
+1 david botstein
+1932
+
+31 march 2006
+
+www
+individual features
+1936
+
+31 march 2006
+
+www
+genome-wide detection
+981 high-quality snps
+000 high-quality snps
+chromosome xvi
+chromosome xi
+chromosome vii
+chromosome xii
+snp typically results
+red text
+sulfur limitation
+yef1695 mapping data
+science online
+sh4 shed
+yeast subjected
+yeast cultures
+strain fy3
+dna microarrays
+accurately predicted
+single peak
+single experiment
+single thymine
+published weekly
+additional characteristics
+independent hybridization
+continuous culture
+microarray ereferred
+comprehensive detection
+real snps
+snpscanner signal
+genome-wide prediction
+online version
+single snp
+low expression
+health research
+provide complete
+individual members
+preliminary screen
+increased frequency
+000 f2 seedlings
+highly reproducible
+complete knowledge
+physically located
+resources related
+individual laboratories
+homozygous recessive
+pk dna
+domestication process
+snpscanner confirmed
+suppressor mutation
+2008
+
+reports
+foundation
+boninchi foundation
+sumitomo foundation
+additional deletion
+126 base pairs
+base individually
+5 base pairs
+national institute
+hybridization intensity
+model predicts
+reference strain
+prediction signals
+genome-wide scale
+falsepositive predictions
+remaining predictions
+genomic variation
+cerevisiae genome
+fy3 interspersed
+pk background
+remains unknown
+daughter-specific expression
+snpscanner yielded 28
+similar analysis
+weedy rice
+signals obtained
+cultivated rice
+genetic analyses
+confirmed mutation
+independent deletions
+prediction signal
+mutation sites
+org/cgi/content/full/311/5769/1932#otherarticles
+8-bp insertion/deletion
+multiple experiments
+mutations predicted
+snp predictions
+identify snps
+accurately detect
+detect accurately
+mutations identified
+reference sequence
+genome res
+sequence differences
+entire sequence
+whole-genome analysis
+reference genome
+shattering alleles
+entire genome
+ancestral strain
+expected mutation
+early step
+hand tapped
+correctly identify
+statistical measure
+growth defect
+8 articles hosted
+phenotypic variance
+phenotypic variants
+resequencing arrays
+color represents
+remained refractory
+experimentally evolved
+nucleotide substitution
+sequence confirmed
+experimental evolution
+single ytm
+mutants obtained
+shattering qtl
+genetic basis
+strains dby11130
+grain shattering
+predict snps
+clumpy phenotype
+elevated signal
+expected phenotype
+signal strength
+aberrant phenotype
+unusual phenotype
+bprediction signal[
+genetic diversity
+independent clones
+sequence analysis
+detected mutants
+can1 mutants
+human mitochondrial
+short oligonucleotide
+short awns
+direct comparisons
+1 lewis-sigler institute
+comparatively low
+oligonucleotide microarrays
+molecular biology
+suppressor screens
+hybridization efficiency
+global comparisons
+can1 mutations
+nonpolymorphic reference
+sequence confirmation
+sequence variation
+sequence variants
+sequence divergence
+predicted snp
+sequence-level differences
+false positives
+top 10 predictions
+singlenucleotide differences
+experimental noise
+nucleotide resolution
+genome divergent
+gene function
+gene mapping
+nonreference genome
+array design
+org
+
+downloaded
+genomic approach 150
+1126/ science
+title science
+dtl
+
+science
+mutations 5¶ upstream
+anticipated mutations
+confirm mutations
+genomic sequences
+verified substitution
+substitution undermined
+single-base substitution
+mutation responsible
+previous studies
+nucleotide_s effect
+mutagenic effect
+dominant effect
+multiple samples
+adaptive evolution
+small effect
+snp prediction
+sites j558
+false negatives
+daughter-specific genes
+actual sites
+sites j343
+true positives
+studies identified
+analysis yielded 12
+molecular basis
+nonshattering phenotype
+1-bp substitution
+strain rm11-1a
+large effect
+predicted site
+predicted site 87
+ongoing development
+financially infeasible
+nutrient-limiting condition
+network centres
+false-positive rate
+normal development
+single-base insertion
+manufacturing defects
+06 chromosomal coordinate
+
+4
+american association
+technical support
+single-colony purification
+genic resolution
+upright tillers
+start codon
+challenging case
+initial screen
+greenhouse observations
+southeastern asia
+mutator phenotypes
+evolutionary biology
+heuristic filter
+sars coronavirus
+east lansing
+sufficiently sensitive
+plant biology
+photoperiod sensitivity
+org/cgi/content/full/311/5769/1927/dc1 materials
+evolutionary direction
+plausible explanation
+membrane protein
+rights reserved
+aids patient
+remains technically
+archival isolate
+abscission layer
+peripheral mitochondrial
+highwire press
+identifying heterozygosity
+subject collections
+physical distance
+isi web
+registered trademark
+sequencing technologies
+clumpiness segregates
+central 15 bases
+canadian network
+evolved strains
+reports
+collection
+batch conditions
+address questions
+total number
+ailing zhou
+quantitatively sensitive
+encodes chitinase
+canavanine sulfate
+named sh3
+priori knowledge
+canadian institutes
+obtaining reprints
+small number
+caenorhabditis elegans
+systematic error
+experiments means
+2 leonid kruglyak1
+distributional range
+nearnucleotide accuracy
+drosophila melanogaster
+manner analogous
+plant physiol
+biological questions
+3 joseph schacherer
+computationally removed
+eventually replaced
+obtaining permission
+initiated quickly
+detected qtl
+strain yef1695
+sativa genome
+hybridization data
+nivara identified
+predicted breakpoints
+d-serine predicted
+nucleotide diversity
+can1 locus
+sh4 allele
+large number
+large portions
+sequenceconfirmed snp
+cell separation
+repetitive regions
+25-base probe
+1-bp insertion
+probe density
+locus accounted
+7-kb region
+coding region
+table s3
+wild-type cen
+nivara allele
+integrative genomics
+direct comparison
+leonid@genomics
+dgresham@genomics
+nucleotide-level comparison
+nucleotide-resolution comparison
+human selection
+mutant contained
+mutant resistant
+sativa ssp
+oryza sativa
+nonreference genomes
+small genomes
+larger genomes
+princeton university
+large deletions
+nucleotide position
+likelihood ratio
+ultimate challenge
+nonshattering alleles
+subsequently excluded
+observed hybridization
+central challenge
+primarily responsible
+readily excluded
+gresham
+single-base deletion
+singlebase deletion
+1562-bp 50 deletion
+fcy1 genes
+analyzing data
+raw data
+allele-specific probes
+spans 1558 bp
+select plants
+single-nucleotide polymorphisms
+single-feature polymorphisms
+true polymorphisms
+table s2
+nivara parent
+nivara covering
+updated information
+org/cgi/collection/genetics information
+system succeeded
+peak defined
+/ snpscanner/
+comprehensively identify
+org/cgi/content/full/1123726/dc1 materials
+originally recovered
+plos biol
+transcription factor
+markers rc4123
+rm11-1a yielded
+complex genetics
+higher organisms
+1-bp deletion
+table s1
+alternative approach
+rufipogon detected
+7-kb sequences
+expressed sequences
+method relies
+chromosomal location
+snp_s position
+variants_ location
+single-nucleotide polymorphism
+polymorphism versus
+consistently found
+finally mapped
+ace2 encodes
+article appears
+plants grown
+common polymorphisms
+dby11131 generations
+retrotransposon insertions
+plos genet
+training set
+domestication
+successfully applied
+sh4 explained 69%
+microarray
+ace2 locus
+detect mismatches
+deletion breakpoints
+remaining accessions
+probes required
+snps
+737 snps
+online
+selection process
+loci
+nn genotypes
+model organisms
+isolated
+indels
+methods 2
+sequenced
+yjm789
+dna
+base
+grains
+ss genotype
+deleted amn1
+amn1 results
+yeast
+predictions
+snpscanner
+rice
+genetic
+detection
+genetics http
+species
+strain
+mutation
+downloaded
+cover
+intensity
+134 individuals
+pm
+predicted
+dby11130
+identified
+december
+polymorphic
+hybridization
+microarrays
+cell 107
+previously
+references
+prediction
+sequence
+entire
+differences
+nucleotide
+design
+mapping
+function
+genome
+mutants
+10 mutants
+science 298
+science
+science 281
+science 309
+science 296
+science 308
+science 311
+mutations
+obtained
+substitution
+confirmed
+genes
+sites
+detected 86
+detected 915
+detected
+can1
+analysis
+fall
+ssr
+experiment
+3-bp
+gene
+single-base
+dominant
+s3
+s7
+map
+experiments
+number
+population
+oligonucleotides
+single-nucleotide
+typically
+analyzed
+suggested
+strains
+6 million
+expected
+pk
+remaining
+suggests
+largest
+2008
+
+reports
+31
+sequencing
+www
+total
+peak
+detectable
+compared
+reports
+qtl
+large
+snp
+1-bp
+locus
+probe
+deletions
+grain
+detect
+s2
+dby11131
+region
+table 1
+10
+
+table 1
+common
+selected
+genomics
+comparison
+org
+grown
+sativa
+mutant
+basis
+genomes
+s1
+sh4
+nonshattering
+responsible
+studies
+process
+excluded
+challenge
+figs
+including
+likelihood
+diversity
+cultivars
+called
+deletion
+data
+probes
+shown
+distinguish
+plants
+site
+polymorphisms
+site -55
+nivara
+results
+organisms
+separation
+d-serine
+information
+genetics 163
+explained 6
+rm11-1a
+botstein
+biol
+markers
+top
+system
+genotype
+recovered
+regions
+transcription
+generations
+breakpoints
+/
+org/cgi/content/full/1123726/dc1
+model
+identify
+samples
+genetics
+genotypes
+deleted
+clones
+defined
+nn
+fcy1
+required
+approach
+yef1695
+method
+cen
+sequences
+position 548
+selection
+polymorphism
+position
+location
+found
+0 ace2
+observed
+ss
+mismatches
+rufipogon
+amn1
+30 article
+mapped
+article
+ace2
+predict
+set
+genet
+insertions
+fig
+princeton
+ytm
+applied
+accessions
+21 accessions
+http
+6 accessions
+2 bp
+25 bp
+7 bp
+bp
+limited
+gu
+sci
+858403g
+j344
+--sh3
+graph
+shendure
+involve
+supported
+citing
+rufipogon--distributed
+brown
+g5
+controls
+fewer
+herbert
+hazen
+pollack
+inversions
+unconscious
+volkman
+nj 08544
+discover
+recombinants
+chee
+s288c
+reproduce
+current
+indel
+cheng
+collins
+3a
+increasing
+contrast
+led
+sfps
+pratt
+amplification
+notes
+1
+commonly
+resulting
+intron
+498631c
+important
+addressed
+decrease
+trained
+514919c
+marker
+apply
+rarely
+detecting
+transformant
+usa
+2department
+maskos
+india
+ferea
+mismatch
+tested
+train
+cases
+by4716
+mm
+aaas
+cited
+sample
+chin
+numbers
+allowed
+sought
+made
+/permissions
+tzagoloff
+s5
+s4
+ellis
+fourth
+occur
+optimal
+upregulation
+experience
+aging
+southern
+retrotransposons
+125 mb
+thought
+3 maitreya
+green
+software
+expects
+s6
+ncic
+hacia
+fit
+gerrish
+rc4-123
+3 stephen
+main
+correspondence
+548348g
+15-bp
+nucleotides 404
+easily
+ytms
+james
+2d
+2c
+lenski
+characterized
+preceded
+rosenzweig
+determine
+generation
+investigated
+expect
+canada
+racki
+retained 77
+ns
+canvac
+32064c
+suggesting
+sh8--responsible
+free
+gap1
+estimate
+thymines
+ronald
+fixed
+retained
+derivation
+determining
+32924dt
+feasible
+davis
+occurrence
+677256c
+org/
+similarly
+1a
+chem
+clinton
+show
+consistent
+meridionalis
+part
+japonica
+impractical
+require
+crosses
+telomeres
+absence
+surprisingly
+accessed
+foss
+reg1
+1b
+cts1
+turner
+rm11damn1
+deutschbauer
+-
+majority
+entirety
+nuzhdin
+finding
+performance
+years
+albert
+resulted
+copyright 2006
+dieckmann
+services
+assessed
+brem
+doi
+considered
+average
+drive
+principle
+calculates
+fact
+include
+unreliable
+31844g
+matese
+winzeler
+1126/science
+noteworthy
+failed
+simplicity
+planted
+chemostats
+compare
+5-fluorocytosine
+daran-lapujade
+s288c-
+domesticated
+borevitz
+flanked
+mi 48824
+aep3
+scanning
+glumaepetula
+humans
+manufacture
+result
+terms
+storton
+budding
+exploited
+degree
+vaccines
+dc 20005
+immunotherapeutics
+hold
+//www
+recently
+ability
+colman-lerner
+2* douglas
+ranked
+extent
+received
+brody
+demonstrate 100
+interrogate
+ereals
+fulfilled
+department
+becam
+steinmetz
+mendelian
+characterization
+1123726 include
+inexpensively
+sciencemag
+sniegowski
+simply
+adaptation
+ruderfer
+addition
+devise
+d749y
+sufficient
+natl
+al
+covered
+3department
+margulies
+yvert
+whittle
+evaluating
+seeds
+nucleotides
+helfenbein
+ii
+characterize
+suggest
+arabidopsis
+virtually
+plates
+events
+week
+extended
+complemented
+fodor
+cross
+5 kb
+rm280
+nature 437
+modeled
+e25
+32757g
+indica
+smith
+advancement
+exon
+screened
+dunham
+aspects
+devised
+excluding
+unnecessary
+exploiting
+ecology
+phenomena
+espite
+acad
+brent
+kruglyak
+measurements
+maitra
+e-mail
+1 accession
+proc
+run
+elucidate
+embo
+nature 416
+affordability
+paper
+wong
+nature 387
+extension
+1360 kb
+reduced
+d-histidine
+1562bp
+presence
+washington
+assess
+tim13
+derive
+accumulated
+//genomics-pubs
+log
+reduction
+causative
+creation
+absent
+applying
+grew è12
+harvested
+nature
+1c
+pedicel
+a38p
+hahn
+exist
+deletion-- -50
+variety
+nat
+test
+e285
+j559
+includes
+chance
+fell
+included
+nasr
+algorithm
+recombination
+lying
+time
+014
+15
+94
+1149
+35
+1992
+012
+16
+216
+739
+4524
+è2
+279
+441
+102
+3­5
+32
+30
+37
+34
+3*
+3%
+6
+99
+95
+055 4
+1
+123
+24
+25
+26
+27
+20
+21
+23
+28
+29
+406
+15728
+9
+è30
+990%
+376
+8%
+86
+7
+16144
+513
+138
+621
+1997
+812
+179
+1996
+2
+065
+11
+10
+13
+17
+19
+18
+1%
+350
+398
+79
+1194
+8
+12
+14
+93
+3
+1333
+703
+22
+1728
+2003
+1123726
+63
+12963
+737
+^
+1117389
+31
+000
+96
+5
+
+4
+951
+326
+760
+4
+1675
+284
+1092
+1999
+12­17
+57
+259
+5%
+1108625
+1069516
+9721
+303
+305
+1932
+1998
+05
+
+4
+*
+752
+9­11
+1200
+0%
+2000
+2001
+5
+9%
+2005
+2002
+2006
+2004
+2008
+990

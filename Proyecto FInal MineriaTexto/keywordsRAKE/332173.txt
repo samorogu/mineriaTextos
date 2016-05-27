@@ -1,0 +1,1445 @@
+van der waals interaction connects distantly coupled sites
+standard polymerase chain reaction­ based techniques
+statistically uncoupled sites display mutational coupling energies
+ni­nitrilotriacetic acid agarose beads
+evidence sughoward hughes medical institute
+peptide scorpion toxins buries 15 residues
+statistical energy function describing evolutionary conservation
+fluorescence resonance energy transfer efficiency
+individual amino acid probabilities accounts
+100 nm enhanced green fluorescent protein
+howard hughes medical institute
+texas southwestern medical center
+org science vol 286 8 october 1999
+
+295
+
+downloaded
+org science vol 286 8 october 1999
+
+297
+
+downloaded
+org science vol 286 8 october 1999
+
+299
+
+downloaded
+accepted 1 september 1999
+
+evolutionarily conserved pathways
+stanford synchrotron radiation laboratory
+escherichia coli [strain bl21
+terminal carboxylate [val9 3 ala9
+statistical free energy separating sites
+equilibrium binding energy assay based
+rapid stimulusdependent channel inactivation
+interacting residues form connected pathways
+includes unexpected long-range interactions
+yellow stick model shows
+fluorescence resonance energy transfer
+double mutant cycle analysis
+individual statistical mechanical systems
+pdz domain tertiary structure shows
+thermodynamic mutant cycle analysis
+conventional statistical mechanical systems
+coupled positions describe energetic interactions
+core underlie long-distance propagation
+296
+
+8 october 1999 vol 286 science www
+298
+
+8 october 1999 vol 286 science www
+protein data bank file
+map functionally important sites
+underlying amino acid distributions
+empirical evolutionary conservation parameter
+pdz position 76 [thr7 3 phe7
+distantly related members exist
+amino acid distribution maps
+individual amino acid frequencies
+protein interaction surface propagates
+poz protein folds suggests
+measure mutational coupling energies
+result suggests energy propagation
+amino acid statistical energies
+poz protein interaction surfaces
+represented protein binding motifs
+peptide position directly interacting
+-pdz domain fusion proteins
+amino acid distribution significantly
+green fluorescent protein
+full primary sequence mapping
+interaction surface residues implicated
+fundamental energy unit kt
+conventional mechanical systems
+structure-based alignment techniques
+mutant cycle method
+mutant cycle analysis
+chemical character suggests
+accepted 3 september 1999
+
+www
+simple mechanical deformation
+primary sequence emerge
+mutational coupling energies
+mutational studies confirm
+selection constraints imposed
+practical considerations limit
+5323 harry hines boulevard
+play key roles
+horizontal line depicts
+key biological properties
+human growth hormone
+seemingly arbitrary manner
+genetics computer group
+microsoft excel format
+5-ml bed volume
+sterically connected path [77
+print issn 0036-8075
+characteristic recognition motif
+sites distantly positioned
+pdz fold family [made
+amino acid population
+arbitrary energy unit
+efficiently propagate energy
+energy function ranges
+efficient energy conduction
+individual amino acids
+-labeled interacting peptides
+protein interaction surfaces
+target sequence recognition [29
+subunits confer properties
+class ii domains bind
+guanylate kinase domain
+directly interacting position
+peptide concentrations covering
+cellular processes depend
+inv497 d4 ­d5
+wildtype gfp-pdz3psd-95 protein
+inv497 d3­d4
+transfer efficiencies measured
+inv497 d1­d2
+vcam-1 d1­d2
+structure-based manual alignment
+wild-type pdz3 average
+basic pharmacological sciences
+multiple sequence alignment
+shows psd95 protein
+inv497 d2­d3
+statistical energy function
+interaction surface [77] shows
+interaction surface account
+chymotrypsin specificity required
+fundamentally conserved features
+show stereo images
+amino acid residues
+secondary structure elements
+amino acid frequencies
+random sequence identity
+manual sequence alignments
+average sequence identity
+nucleic acids res
+ion channel subunits
+measure statistical interactions
+moderate conservation skewed
+studies addressing mechanisms
+large sequence divergence
+surface areas buried
+opposing protein surface
+amino acid distributions
+evolutionarily conserved pathways
+illustrate statistical coupling
+observed unexpected coupling
+evaluating statistical coupling
+boltzi3j mann distribution
+amino acid positions
+weakly conserved positions
+significantly statistically coupled
+statistical coupling energies
+target sequence specificity
+tmr-labeled peptide ligands
+juxtaposed coupled residues
+amino acid distribution
+follow energetic coupling
+energetically coupled pathways
+protein families
+steve
+nh2-terminal tmr adduct
+multiprotein signaling complexes
+protein families steve
+online issn 1095-9203
+smooth curve showing
+york avenue nw
+pdb code 1cwv
+ligand concentration tested
+entire pdz domain
+primary structure show
+statistical coupling energy
+protein interaction surface
+­pdz fusion protein
+apparent energetic connectivity
+energetic connectivity linking
+growing sequence data
+binomial density function
+expected local propagation
+functional macromolecular units
+observed amino acids
+multi-pdz protein psd-95
+mutually constrain evolution
+thermodynamic energetic connectivity
+c-type lectin structures
+statistical energetic consequence
+protein interaction modules
+position hydrogen bonds
+position 76 [his76 3 tyr76
+statistical energetic coupling
+representing evolutionary conservation
+measure energetic coupling
+binding energy assay
+binding energy depends
+functionally important site
+weakly conserved [position 0
+peptide ligand bound
+represent moderately conserved 0
+energetically coupled positions
+mapping statistical energies
+eukaryotic pdz domains
+274 eukaryotic pdz domains
+functional evolutionary constraint
+large-scale random mutagenesis
+active site contribute
+mapping energetic interactions
+measured coupling energies
+serine proteases show
+original structure determination
+pdz domain family
+color scale ranges
+pdz domain alignments
+poz fold families
+coupled positions distributed
+primary structure position
+physical energetic coupling
+antepenultimate peptide position
+14 pdz domain positions
+sites spatially close
+represent discrete states
+pdz domain sites
+statistical coupling patterns
+poz domains show
+statistical energy vector
+pdz position 76 shows
+pdz position 76 couples
+pdz sites predicted
+co-crystallized peptide ligand
+representative three-dimensional structure
+evolutionarily distant genomes
+statistical couplings emerged
+statistical coupling pattern
+eukaryotic nonredundant proteins
+498 unique eukaryotic proteins
+scalar multinomial probability
+article cites 40 articles
+psd-95 pdz domains
+binding site residue
+coupled sites fall
+distantly positioned
+quantitatively represent conservation
+approach uniquely represents
+including high-resolution figures
+energy transfer
+mutational coupling
+statistically uncoupled [32
+binding site residues
+subunit­ dependent
+
+fig
+standard deviation
+binding site positions [29
+amino acid
+residues interacting
+20 binomial probabilities
+energy unit
+energy propagation
+statistically coupled
+statistical energies
+peptide fluorescence
+energetic interactions
+acid frequencies
+protein folds
+fusion protein
+protein function
+org
+
+downloaded
+coupling shows
+statistical energy
+free energy
+uncoupled positions
+interaction surface
+moderately conserved
+thermodynamic coupling
+energetically coupled
+energy units
+coupling energy
+channel subunits
+coupled pathways
+poz domain
+protein surface
+evolutionary constraint
+residues form
+binding energies
+unexpected positions
+energetic interaction
+interaction modules
+individual measurement
+statistical coupling
+statistical analysis
+domains bind
+binding energy
+20 amino acids
+amino acids
+domain families
+peptide ligands
+coupled residues
+binding surface
+energetic coupling
+statistical couplings
+protein-protein interactions
+empirical observation
+aromaticaromatic interactions
+fundamental property
+target peptides
+pdz domain [51
+pdz domain
+pdz domain [
+analysis predicted
+energy distribution
+ligand specificity
+highly conserved
+conserved portion
+energetic connectivity
+binding peptide
+protein structure
+three-dimensional structure
+protein family
+ligand peptides
+thermodynamic mapping
+functional features
+178 poz domains
+poz domains
+functional coupling
+peptide positions
+coupled sites
+pdz family
+sequence evolution
+evolutionary data
+family show
+ligand positions
+cooperative interaction
+high-affinity interaction
+tertiary structure
+protein sites
+model system
+ordered pathways
+statistical mechanics
+statistical parameters
+fold families
+protein fold
+important determinant
+channel activity
+channel pores
+important step
+proper measure
+thermodynamically coupled
+positions show
+physical connectivity
+peptide titrations
+substrate peptide
+pdz domains
+connects
+large-scale mutagenesis
+map1a depends
+expected consequence
+final concentration
+56 articles hosted
+smoothly distributed
+cellular scaffolding
+bound substrate
+direct method
+fully buried
+optical density
+nonredundant database
+complete protein
+inv497 coordinates
+fold family
+evolutionary basis
+propagated coupling
+low coupling 0
+residues comprising
+catalytic residues
+residues composing
+full distribution
+antibody specificity
+substrate specificity
+receptor show
+atomic structure
+poz position 77
+distributions closer
+identify couplings
+quantitatively represents
+color scale
+observed number
+energy vectors
+energy distributes
+energy parsing
+binding isotherm
+binding buffer
+binding assays
+functional epitopes
+high-resolution mapping
+important discussions
+domain position 76
+small-scale studies
+conservation profile
+form -
+large body
+large factorials
+rat psd-95
+full mapping
+vcam-1 structures
+positions superimposed
+representative members
+dtl
+
+science
+title science
+sites categorized
+protein core
+represent conduits
+statistical predictions
+interaction site
+unique vector
+full pattern
+domains raises
+pdz position 76
+pdz position
+high-resolution structures
+tertiary structures
+energetic effect
+frozen aliquots
+cleared supernatants
+hot spots
+freshly diluted
+rama@chop
+microcal software
+systematic calculation
+largely unaffected
+unpublished material
+ligand-binding pocket
+storage buffer
+rights reserved
+october 1998
+isi web
+registered trademark
+terrific broth
+bjorkman lab
+4 å probe radius
+200 mm imidazole
+online version
+gray bars
+genes dev
+examined patterns
+dialyzed overnight
+intimin coordinates
+cooh-terminal fusions
+largely unknown
+signal transmission
+significantly change
+transition rates
+de vos
+flash frozen
+cd94 coordinates
+single-letter abbreviations
+hill equation
+emerged early
+square deviation
+mutants thereof
+wild-type background
+initial searches
+1 mm dithiothreitol
+black bars
+randomly observing
+binding-energy calculation
+single batch
+threonine hydroxyl
+site-directed mutagenesis
+organizing centers
+definitions guide
+burroughs-wellcome fund
+10 mm imidazole
+crystallographic software
+mediates homo-
+obtaining reprints
+elution buffer
+highwire press
+basic principles
+subject collections
+published weekly
+intuitive expectation
+reference state
+good indicator
+virtually exclusive
+assistant investigator
+critical reading
+opposite side
+state transitions
+inherent property
+state space
+investigator award
+obtaining permission
+american association
+transcription factors
+substantial increases
+systematically probe
+50 column volumes
+methods enzymol
+numbering scheme
+based
+xenon derivatization
+realistic goal
+isopropyl- -d-thiogalactopyranoside
+25 mm tris
+50 mm tris
+sequential establishment
+ribbon models
+arbitrarily scaled
+solid circles
+oligomerization interface
+protein site
+representative member
+colorimetric mapping
+fullscale mapping
+full-scale mapping
+protein sequences
+binomial probability
+multinomial probability
+functional information
+physical basis
+data collection
+unpublished data]
+quantitatively compared
+dispersed pattern
+pattern simplifies
+necessarily related
+resources related
+small fraction
+tmrlabeled class
+binding site
+msa representing
+long range
+reports
+family
+2 log-order range
+swiss-prot database
+large set
+energetic perturbation
+position carrying
+cooh-terminal position
+helpful discussions
+500 mm nacl
+total number
+signaling system
+100 mm nacl
+org/cgi/content/full/286/5438/295#otherarticles
+perturbation analysis
+binding measurements
+20element vector
+updated information
+org/cgi/collection/biochem information
+physical mechanism
+full msa
+data plotted
+distinct classes
+toxin molecule
+significant reorganization
+successively rotated
+acta crystallogr
+independent study
+selected subset
+free-energy change
+dissociation constant
+figure 3b
+opposite face
+established role
+45-kt * change
+created histograms
+rough description
+perturbed site
+antigenbinding site
+single site
+hypothetical site
+transform px
+ln
+
+px
+2008
+
+reports
+regulation
+additional sequences
+downloaded
+continuous pathway
+test case
+simultaneous mutations
+mutations chosen
+mutations introduced
+rama ranganathan*
+nature struct
+sampled msa
+small set
+position displays
+203 element vector
+structural basis
+evidence
+shows
+systems
+fluorescence
+connected
+equilibrium
+function
+determine px
+energies
+4 kt * [position 76
+gm1m2 gm1
+pathway occur
+article appears
+energy
+propagation
+surface
+interaction
+free
+pathways
+measure
+evolutionarily
+coupled
+domain
+finding consistent
+peptide
+represented
+implicated
+result
+significantly
+inv497
+protein
+alignment
+assay
+h76y mutation
+coupling
+residues [80
+residues
+residues 294
+residues 76
+analysis
+frequencies
+calculated gstat
+pdz
+45 kt * perturbation
+show
+biochemistry http
+structure
+508 nm
+distributions
+describe
+alignments
+identity
+600 nm
+binding
+conservation
+studies
+psd-95
+positions
+science 229
+science
+science 286
+science 255
+science 268
+science 271
+science 275
+science 278
+sites
+org
+represent
+fold
+distribution
+domains
+mutagenesis
+represents
+expected
+26] emerged
+spatially
+274 members
+online
+states
+members
+co-crystallized
+signaling
+measured
+dependent
+pdb
+determination
+showing
+scale
+including
+york
+serine
+figures
+patterns
+84 fall
+tmr
+made
+mapping
+data
+related
+pattern
+small
+class
+ii
+swiss-prot
+range
+evolution
+member
+structures
+structures [
+position 34
+position 57
+position 51
+position 76 [33
+position 63
+position 76
+position 76 [26
+position 148
+position 29
+position
+approach
+www
+core
+plotted
+org/cgi/content/full/286/5438/295
+number
+nacl
+system
+discussions
+vector
+basis
+information
+probability
+gm1m2
+study
+description
+structural
+principles
+created
+classes
+-
+background
+parsing
+rotated 180°
+face
+appears
+change
+predictions
+figure
+occur
+crystallogr
+molecule
+constant
+determine
+displays
+measurement
+significant 1
+distributes
+vectors
+role
+element
+subset
+effect
+compared
+site
+px
+set
+proteins 14
+proteins 11
+proteins
+2008
+
+reports
+2008
+
+reports
+19
+sequences
+distant
+consistent
+calculated
+test
+pathway
+211 article
+measurements
+article
+mechanism
+gm1
+mutations
+msa
+
+2
+h76y
+msa
+nature 388
+nature 382
+nature 392
+finding
+ranganathan
+mutation
+32 kt *
+kt*
+000 kt*
+kt
+83 kt *
+3 kt *
+kt *
+1 kt *
+31 kt *
+330 kt *
+4 kt *
+http
+biochemistry 28
+biochemistry 33
+biochemistry 34
+perturbation
+gstat 63
+gstat 3
+gstat 0
+gstat 34
+gstat
+2008
+
+fig
+fig
+pheasant
+assembled
+teaching
+miller
+bacon
+approximation
+chen
+chem
+brenman
+theory
+blue
+atoms
+reported
+gln
+shaker-class
+gly
+yamada
+m1
+m2
+holt
+rockford
+ma
+4 ala
+root
+aaas
+wang
+cited
+498 entries
+4 asp
+degenerate
+end
+atwell
+tetramethylrhodamine
+hypotheses
+davies
+socolich
+fit
+fn-iii 13­14
+t7f
+7 april 1999
+washed
+batch-bound
+chirino
+graphics 6
+channels
+similarly
+top
+perturbations
+predictable
+extracting
+tions 1
+wells
+boltzmann
+tyr
+perona
+doi
+yang
+dover
+lewis
+allostery
+maturation
+report
+patten
+ackers
+precluding
+schreiber
+songyang
+mut
+stampe
+//www
+tolman
+wi
+copyright 1999
+suggested
+ile
+molscript
+nomizu
+kolmakova-partensky
+wyman
+prewashed
+r770
+il
+grown
+clackson
+thr
+glu
+visualization
+neher
+advancement
+v9a
+transformed
+pdz3psd-95
+deviance
+altschul
+specific
+acad
+tsunoda
+bottom
+saltman
+slightly
+isberg
+tsien
+anderson
+povray
+casasnovas
+pileup
+floor
+onuffer
+generally
+nx
+jones
+graph
+technique
+environment
+finally
+abundance
+springer
+stehle
+roeper
+pnx 1
+cell 85
+current
+xplor
+understanding
+groups
+quenching
+licata
+bennett
+cases
+values
+1% tween-20
+mackinnon
+december
+performed
+winter
+divided
+designed
+compatibility
+northampton
+faseb
+2 asp
+derive
+correspondence
+views
+brunger
+kreusch
+begun
+honig
+eq
+emerges
+shown
+ph 8
+eluted
+possibility
+bardwell
+/y-x-
+doolittle
+origin
+sanchez
+stevens
+org/
+1a
+1c
+1b
+1e
+1d
+require
+accessed
+pro
+turner
+conversion
+phillips
+interior
+madison
+morrissey
+1126/science
+written
+helix
+aravind
+email
+relative
+biotechnology 13
+dc 20005
+similar
+pos
+sciencemag
+capable
+defined
+deposited
+deviances
+merrit
+fn-iii 8 ­9
+week
+conductors
+ross
+mol
+recipient
+output
+nonzero
+comparison
+choe
+act
+trypsin
+distributin
+esser
+communication
+references
+hidalgo
+valencia
+gfp
+regard
+grasp
+bowditch
+gests
+ssrl
+al
+examine
+invest
+fn-iii 12­13
+fn-iii 12­14
+sci
+prset-
+lack
+ala
+fn-iii 7­10
+difference
+/a-coo­
+sun
+contrast
+/i-coo­
+egfp
+4 ile
+aota
+gittelman
+select
+de3
+asn
+fn-iii 9 ­10
+corrected
+problem
+schillace
+neurosci
+sharp
+grishin
+ensemble
+amistat
+szilagyi
+advice
+qiagen
+derives
+response
+developed
+fersht
+scott
+energetics
+fanning
+fn-iii 7­ 8
+differed
+condigm1
+vaughn
+histidine
+goldstein
+2a
+2b
+lichtarge
+found
+kraulis
+characterized
+kjeldgaard
+perry
+surrounded
+induced
+evaluation
+asp
+phe
+matthews
+generate
+definition
+pairs
+indebted
+psi-blast
+temperature
+part
+scatterplot
+liu
+measures
+services
+pfaffinger
+velocity
+relation
+/permissions
+neuron 16
+neuron 11
+neuron 12
+1 error
+stirling
+notes
+
+14
+ser
+arg
+degree
+conditions
+4 hours
+point
+describes
+collected
+pierce
+ponting
+treisman
+development
+underlies
+redistribution
+leong
+raster3d
+valine
+nicholls
+petsko
+b-
+examples
+proc
+weis
+bioessays 19
+proportional
+isoleucine
+glrender
+biol
+cabral
+sections
+lockless
+barmat
+murphy
+groove
+curr
+lys
+pettigrew
+defines
+amounts
+leucine
+department
+prepared
+correlated
+gx
+gi
+pongs
+trp
+freire
+carter
+expressed
+experiment
+3d
+chose
+ibid
+leu
+resulting
+voorhis
+composed
+addressed
+usa
+nx
+
+21
+heim
+normalized
+koonin
+reproduce
+process
+high
+swmed
+hetero-oligomerization
+arrangement
+burley
+yeh ´
+demonstrating
+stratagene]
+rutter
+blake
+lu
+university
+soltis
+magnitude
+met
+frequency
+invitrogen
+red
+2 ile
+tx 75235­9050
+times
+/t-x-
+manuscript
+publication
+relations
+score 0
+wilkinson
+cys
+cultures
+gi 3
+cohen
+clin
+lysed
+rearranged
+dallas
+bourne
+sewing
+scrambled
+fact
+500 ml
+staff
+pharmacology
+changeux
+d50
+monod
+ability
+taking
+boyer
+wall
+ca
+respect
+forms
+addition
+16 june 1999
+define
+cell 38
+pertsemlidis
+ultsch
+zaharias
+indistinguishable
+infer
+thought
+fletterick
+sets
+stored
+natl
+identical
+doyle
+immediately
+shen
+noise
+reveal
+analyses
+carried
+washington
+hedstrom
+val
+synthesized
+daniels
+appl
+cells
+harvested
+stat
+inset
+ugarova
+342
+34]
+295
+271
+277
+20524
+98
+91
+93
+95
+96
+1993
+1992
+1994
+1997
+1996
+1999
+1998
+1377
+377
+24%
+243
+248
+178
+170
+1965
+761
+454 å2
+18
+01
+383
+100
+14 ­16
+80°
+564 å2
+15840
+57
+4 å
+0
+1995
+1125
+24756
+1
+149
+7961
+1991
+10856
+148]
+23
+76 0
+11
+10
+13
+12
+15
+14
+17
+16
+19
+1925 å2
+]
+835
+3
+26
+66
+67
+402
+696 å2
+210
+219
+84]
+1938
+1353
+5
+90°
+90]
+1849
+6
+24
+25
+27
+20
+21
+22
+28
+29
+4134
+173
+7
+869
+450 å2
+76
+75
+73
+79
+8
+2
+317
+4
+281
+89]
+9
+001
+267
+608 å2
+342 å2
+37°
+3133
+103 767
+307
+1249
+411 å2
+4457
+2008
+1067
+1664
+1086
+3389
+443
+39
+33
+32
+31
+30
+37
+36
+35
+34
+647
+649
+333
+23438
+946
+945
+131
+10118
+88
+80
+84
+8805
+1982
+481 å2
+*
+455
+5438
+469
+465
+1200
+285
+26]
+286
+266
+269
+268
+118
+257
+] 99
+1984
+1985
+4°
+1989
+1489
+44
+478

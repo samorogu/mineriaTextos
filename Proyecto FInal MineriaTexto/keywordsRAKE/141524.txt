@@ -1,0 +1,1212 @@
+cfp production rate [apparent molecules cell-1 min-1] cfp production rate -1 [apparent molecules cell-1 min ]
+apparent ci-yfp concentration [nm] apparent ci-yfp concentration [nm]
+alexander van oudenaarden*
+accurately predicting noise propagation
+chromosomally integrated l-phage pr promoters controlling cfp
+tier ii canada research chair
+cfp production rate correlated strongly
+tran-2 -1 0 1 2 3 4 5 6 7 8 repressor concentration scription factors
+biochemical parameters underlying transcriptional regulation
+individual selected lineage standard dev
+apparent molecule numbers divided
+´ ´ 3655 promenade sir william osler
+org
+
+science
+
+vol 307
+
+25 march 2005
+
+1965
+
+downloaded
+org
+
+science
+
+vol 307
+
+25 march 2005
+
+1963
+
+downloaded
+wild-type l-phage pr promoter
+chromosomally integrated target promoter
+showing slow fluctuations measurement errors
+shown production rates standard dev
+yellow fluorescent repressor fusion protein
+singlecell lineages departed substantially
+slowly varying cellular states
+identically regulated fluorescent proteins
+made substantial progress identifying
+controlling cyan fluorescent protein
+hill neous production rate
+independently segregating fluorescent particle
+target ptet-ciyfp pr-cfp promoter
+current models estimate grfs
+methods som text figs
+apparent molecule dimers
+bacteriophage lambda promoter pr
+cfp production rate increases
+designing noise-tolerant gene circuits
+human frontiers science program
+ci-yfp levels decrease sufficiently
+analyzed sister cell pairs
+apparent fluorescence intensity
+repressor yielding half-maximal expression
+cell cycle­ dependent oscillations
+gene regulation func1 tion
+cell cycle­related effects
+typical regulator dilution resolution
+greater time gene begins
+1962
+
+25 march 2005
+
+vol 307
+
+science www
+periodic cell-cycle oscillations due
+average protein production rate
+total fluorescence ytot 0 vy
+org/cgi/content/full/307/5717/1962 supporting online material
+single-cell level
+nitzan rosenfeld
+single-cell level nitzan rosenfeld
+versus ntot 0 n1 þ n2
+hill selected lineage or2*
+represent unknown regulation functions
+science web sites related
+slow extrinsic fluctuations give
+individual ci-yfp molecules
+protein partitioning enabled calibration
+active transcription factor concentration
+protein production rates fluctuate
+systematically vary repressor concentration
+extrinsic noise included fluctuations
+extrinsic noise encompasses fluctuations
+supporting online material www
+averaging individual data points
+expected binomial standard deviation
+intrinsic noise decays rapidly
+production rate
+
+downloaded
+modeling natural genetic circuits
+maximal production rate
+hypothetical production rate 2 1
+engineering research council
+produce significant effects
+fluorescent protein molecule
+particle segregates independently
+relative production rates
+normalizing production rates
+protein production eaveraged
+apparent numbers
+faithful signal propagation
+parameter pr pr
+fluorescent protein fusions
+purely transcriptional responses
+supporting online text
+supporting online material
+manipulating noise propagation
+single escherichia coli cells
+protein production rates
+plot kn1 ­ n2k=2
+concentration subsequently decreases
+authors contributed equally
+developmental cell-fate decisions
+york avenue nw
+dynamic observations permit
+burroughs wellcome fund
+print issn 0036-8075
+van oudenaarden
+selected additional articles
+expresses nonfluorescent ci-yfp
+ci-yfp concentration decreases
+ci-yfp levels decrease
+ciyfp represses production
+online issn 1095-9203
+production rates
+
+reports
+searle scholars program
+accurate cellular responses
+selected cell lineage
+cell cycle­dependent
+symmetric branch strain
+bsymmetric branch[ strain
+bregulator dilution[ method
+jn 2
+1 2
+
+2
+
+0
+
+pffiffiffiffiffiffiffiffi ntot =2
+transcriptional genetic circuits
+represent noise extrinsic
+total ci-yfp fluorescence
+cellular circuits operate
+newly divided cells
+individual protein fluorescence
+respective standard 2 2 10 deviations
+computational image analysis
+effective biochemical parameters
+observe gene regulation
+5 1
+
+total noise 2-
+cell produces cfp
+active transcription factors
+fluorescent reporter genes
+ci-yfp protein observed
+cell growth rate
+1964
+
+25 march 2005
+
+science www
+stable cellular factor
+built bl-cascade[ strains
+measure effective cooperativity
+symmetric branch experiments
+dif-
+
+ferent ways
+point mutant variant
+model successfully predicts
+pr-yfp pr-cfp
+
+table 1
+org/cgi/content/full/307/5717/1962/ dc1 materials
+including high-resolution figures
+stable cellular components
+red fluorescent proteins
+cfp target snapshots
+measure extrinsic noise
+repressor molecules
+yfp production rates
+hill function approximations
+similar repressor concentration
+global noise affecting
+individual division events
+total ciyfp fluorescence
+similar steady-state distribution
+modeling genetic circuits
+2008
+
+reports
+
+gene regulation
+fluorescence time-lapse microscopy
+cell cycle period
+determine key features
+significant cooperativity observed
+complex behavior exhibited
+8
+
+intrinsic noise 2-
+additional variation originating
+gene networks
+juan
+downstream gene products
+stochastic fluctuations arising
+understanding signal fidelity
+biochemical systems analysis
+average cell-cycle phase
+vivo biochemical parameters
+complex genetic networks
+upstream cellular components
+global cellular components
+natural gene circuits
+instantameasurement errors fit
+slow aperiodic fluctuations
+coli cell lineages
+gene copy number
+complex gene networks
+regulator dilution experiment
+individual living cells
+expression fluctuations propagate
+observed slow fluctuations
+gene regulation function
+molecular cell biology
+fluctuations typically persist
+cell cycle accumulate
+article cites 27 articles
+faster time scales
+consecutive data points
+cell volumes estimated
+or2*­l-cascade strain
+synthetic genetic networks
+daughter cells obeyed
+effective single-cell grf
+blue dots show
+5 1 0 1 2 3 4 5 time [cell cycles] 6 7
+
+0
+pc-tetr atc ptet-ciyfpy66f
+intrinsic noise results
+transcription factor concentrations
+4 tion rate
+fusion proteins
+org
+
+total yfp
+similar time scale
+fluorescent particle
+pr promoters
+dominant noise sources
+cfp production
+supporting material
+selected lineages
+production rates
+protein production
+2
+
+0
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140 160
+
+time [min]
+
+fig
+1106914
+
+noise propagation
+molecular biology http
+pr promoter
+notes movies s1
+faster rate
+accurately process
+vol 307
+
+magnitude
+repressor production
+transcriptional circuits
+standard deviation
+individual 104 ci-yfp 0
+genes dev
+cfp protein
+total cfp
+decays rapidly
+ci-yfp fluorescence
+measured expression correlations
+[unrepressed production 220
+regulator dilution
+cell-cycle phase
+resources related
+repressor concentration
+biochemical parameters
+molecules
+grf data provide
+cfp levels
+org
+
+downloaded
+complex web
+hill functions
+genetic program
+repressor protein
+cell lineage
+genetic circuits
+gene regulation
+target gene
+fluorescence signal
+typical deviation
+single-cell level
+complex systems
+ci-yfp partitioning
+cfp expression
+individual gene
+cell cycle
+effective cooperativity
+time-lapse microscopy
+tetracycline promoter
+daughters increases
+neighboring sites
+phage lambda
+systematically perturbed
+lineage tree
+tet-regulated promoter
+standard error
+cellular components
+protein partitioning
+extrinsic noise
+global factors
+binomial errors
+science online
+protein expression
+regulation function
+single gene
+genetic networks
+online version
+reaction rates
+natural networks
+accumulated protein
+total amounts
+25 kd [concentration
+program relies
+biochemical reactions
+slow fluctuations
+binomial distribution
+living cell
+cell cycles
+10 min ¡ tcorr
+tcorr è 40 min
+parameters wt
+fluorescence intensities
+fluctuates rapidly
+generally unknown
+cellcycle period
+34 articles hosted
+isi web
+escherichia coli
+cellular behavior
+cellular autofluorescence
+cellular processes
+largely unknown
+individual cells
+similar methods
+transcription factors
+partitioning errors
+è20% intrinsic noise
+intrinsic noise
+gene networks
+cell growth
+downstream gene
+fluctuations persist
+aperiodic fluctuations
+expression levels
+symmetric-branch strain
+systematic errors
+introduce errors
+ntot copies
+quantitative modeling
+sigma factors
+or2-mutated variant
+org/cgi/content/full/307/5717/1962#otherarticles
+1 nm 0 0
+point mutation
+molecular units
+exponential dilution
+intracellular signal
+grfs obtained
+genetic element
+org/cgi/content/full/307/5717/1962#related-content
+genetic switch
+nm
+extrinsic fluctuations
+single cells
+lactose repressor
+repressor dilutes
+tetracycline repressor
+extrinsic component
+extrinsic origin
+time scales
+express ci-yfp
+noise propagates
+transmitted noise
+characteristic level
+global pool
+variability observed
+natural sciences
+fluorescence data
+measurements provide
+lognormal distribution
+growth environments
+find vy
+produced cfp
+gene expression
+detailed analysis
+low numbers
+permits calibration
+methods introduced
+vivo calibration
+l-cascade strains
+cell history
+cell images
+cell cycle--
+growing cell
+cell densities
+cell press
+cell divides
+fourth gene
+gene product
+gene dosage
+upstream genes
+intrinsic fluctuations
+processes intrinsic
+or2 operator
+comparing expression
+movies s1
+log scale
+blackwell science
+title science
+dtl
+
+science
+stochastic variation
+global effect
+time scale
+single-cell grf
+rapid fluctuations
+remaining fluctuations
+makes fluctuations
+fluctuations longer
+data provide
+downstream genes
+saccharomyces cerevisiae
+results suggested
+continuous graph
+helpful discussions
+population averages
+native repressors
+copies received
+american association
+higher concentrations
+dashed/dotted 10 lines
+strains incorporate
+compared microcolonies
+metabolic apparatus
+experimental studies
+previous experiments
+concentrations unavoidable
+steady state
+family tree
+avano@mit
+obtaining reprints
+trends biochem
+constitutively transcribed
+require feedback
+reports
+s2
+koshland jr
+dna replicates
+orange circles
+dna replication
+significantly reduced
+weizmann institute
+fluctuates dynamically
+previous estimates
+integrated
+proper execution
+vivo values
+building synthetic
+9-min intervals
+rights reserved
+static bsnapshots[
+prohibits detection
+accepted 4 february 2005 10
+fundamental limit
+highwire press
+blue squares
+massachusetts institute
+subject collections
+total amount
+division event
+functional range
+registered trademark
+published weekly
+typically represented
+dominant source
+systems-level specifications
+solid lines
+higher organisms
+fundamental tradeoff
+distributed binomially
+undergo division
+repressors bound
+sibling relations
+seaver institute
+casi award
+transfer signals
+lysogeny switching
+average volume
+acknowledges support
+environmental conditions
+bicistronically transcribed
+square root
+satisfy
+
+rffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+quantitative characterization
+eukaryotic organisms
+h3g 1y6
+biological situations
+long periods
+turn downregulates
+mcgill university
+increasing slope
+ferrell jr
+externally controlled
+induction occurs
+equal probability
+obtaining permission
+time courses
+correlation time
+long time
+typical microcolony
+substantial variation
+single-valued function
+gene network
+daughter cells
+single-parameter fit
+one-parameter fit
+quantify noise
+vivo kd
+correlations presented
+increased kd
+adjacent genes
+housekeeping genes
+updated information
+org/cgi/collection/molec_biol information
+temporal dynamics
+aggregate effect
+identical pair
+synthetic network
+present difficulty
+identical copies
+non-linear dynamics
+present breakdown
+fast fluctuations
+components affect
+2008
+
+reports
+fig
+linear scale
+tcorr compared
+autocorrelation time
+rate
+40 rate
+melowitz@caltech
+fundamental aspects
+production
+monitored simultaneously
+microenvironmental differences
+red line
+lasting roughly
+varies twofold
+logarithmic steps
+transiently induced
+cooperative interactions
+technique based
+autocorrelation function
+or2* grf
+cooperative nature
+nature genet
+movie s3
+s3 29 october 2004
+divide produced
+promoters
+tetrþ background
+quantitative relation
+green line
+3 uri alon
+previous work
+applied physics
+recent
+department
+addressed deviations
+yfp genes
+article appears
+downloaded
+test genes
+root-mean-square error
+10 min
+5 min
+vitro
+
+fig
+pr
+measured grf
+grf show
+yellow
+concentration
+s6 references
+black crosses
+showing
+ci-yfp
+cfp
+8 cfp
+online
+protein
+circuits
+slow
+vary
+strain
+cyan
+current
+analyzed
+modeling
+due
+expected
+periodic
+rosenfeld
+dilution
+n2
+factors
+ntot
+n1
+repressor
+extrinsic
+noise
+level
+similar
+factor è2
+natural
+factor
+observed
+levels
+ciyfp
+substantial
+vy
+biology
+canada
+components
+3 cooperativity
+numbers
+l-cascade
+points
+analysis
+methods
+functions
+calibration
+cell
+gene
+intrinsic
+transcription
+partitioning
+or2*
+expression
+org
+science
+science 304
+science 287
+science 280
+science 269
+science 295
+science 297
+science 307
+fluctuations
+results
+synthetic
+division
+blue
+understanding
+daughter
+concentrations
+including
+coli
+pc-tetr
+accumulate
+fluctuate
+snapshots
+model
+number
+deviations
+dominant
+experiments
+ways
+strains
+notes
+1
+behavior
+materials
+sources
+vivo
+average
+time
+function
+cells
+fit
+measured
+kd
+show
+correlations
+www
+2008
+
+data
+genes
+data
+dynamics
+experiment
+information
+shown
+network
+atc
+estimated
+present
+error
+effect
+identical
+determine
+yfp
+tcorr 0 40
+tcorr
+s1
+2008
+
+autocorrelation
+fast
+autocorrelation
+variation
+crosses
+table 1
+interactions
+obtained
+s6
+s2
+process
+induced
+red
+linear
+based
+black
+express
+represented
+logarithmic
+twofold
+roughly
+root-mean-square
+caltech
+aspects
+test
+references
+differences
+monitored
+nature 403
+nature 427
+nature 422
+nature 262
+s3
+produced
+affect
+addressed
+quantify
+green
+tetr
+physics
+relation
+alon
+work
+department
+grf
+121 article
+article
+http
+amount
+amount 1 2 101 102 10 10
+microcolony
+fig
+savageau
+switched
+additionally
+induces
+spudich
+milo
+biol
+depend
+minj1
+9 molecule/cell
+father
+young
+environment
+indicating
+ttotal 0 45
+difference
+proc
+list
+depen0
+tcc 0 45
+anal
+phillips
+compensated
+oscillation
+hindered
+consistent
+design
+quebec
+maurer
+expressed
+3b
+3a
+contributes
+contrast
+dimerization
+degree
+5 mm3
+address
+physiology
+change
+1* jonathan
+montreal
+plotted
+gene-specific
+becskei
+unit
+clifford
+usa
+levine
+ozbudak
+predict
+call
+israel
+baverage
+rehovot
+holt
+corrected
+kurtser
+ma
+averaged
+reproduce
+sci
+scatter
+itzkovitz
+dedicates
+control
+aaas
+discriminated
+december
+cited
+arise
+times
+axis
+self-perpetuating
+s5
+explains
+gardner
+designed
+response
+types
+biochemistry 31
+shraiman
+overexpression
+elowitz
+hasty
+serrano
+order
+bins
+developed
+/e1 þ
+1 departments
+ærn
+swain
+polymerases
+down-regulates
+correspondence
+/9min
+
+0
+sharpness
+outlined
+rfp
+determines
+surette
+2a
+2b
+found
+characterized
+machleder
+8-
+reached
+ackers
+dodd
+org/cgi/content/full/307/5717/1962/dc1
+crucial
+darling
+issue
+shows
+trajectories
+free
+stochasticity
+pedraza
+top
+grossman
+/40min
+
+0
+rms
+comprises
+org/
+michelini
+daunert
+1a
+1c
+1b
+chem
+1d
+white
+2* michael
+yaakov
+part
+translation
+limiting
+ben-haim
+cluzel
+mangan
+metabolites
+generalized
+ca 91125
+davidson
+accuracy
+kam
+3division
+copyright 2005
+insets
+doi
+observation
+nonlinearity
+calculated
+consisted
+supported
+determined
+roda
+1126/science
+tintrinsic
+koblan
+raser
+/permissions
+quantified
+collins
+reconstruct
+reading
+rev
+result
+close
+techniques
+shen-orr
+drawn
+approach
+//www
+comparable
+terms
+amplitude
+dc 20005
+blake
+accessed
+reported
+leibler
+ci
+highlight
+isaacs
+sciencemag
+addisonwesley
+ribosomes
+basis
+trajectory
+quickly
+reduction
+cantor
+arkin
+al
+ptashne
+microbiol
+siggia
+producatc 103 0
+elowitz3
+bio
+technology
+descent
+highlighted
+potentially
+emphasize
+schematic
+grows
+week
+robust
+suggesting
+left
+shapiro
+mol
+shape
+/kd
+speed
+feliciano
+note
+instance
+advancement
+axtime
+natl
+ma 02139
+mirasoli
+embo
+devised
+step
+memory
+kishony
+continue
+output
+anhydrotetracycline
+unable
+shea
+reveals
+apply
+6 dence
+provided
+annu
+repression
+e-mail
+measuring
+laci
+pose
+alters
+properties
+meyer
+central
+thattai
+remains
+1 peter
+cambridge
+washington
+services
+acad
+lahav
+ed
+paulsson
+form
+2centre
+access
+codes
+problem
+minutes
+individuality
+operation
+yasha
+pasadena
+bsmeared
+cellj1
+seraphin
+ellis
+4d
+mayo
+mcadams
+inset
+4e
+0
+1669
+163
+814
+1652
+5948
+1998
+12795
+102
+[
+]
+
+0
+31
+36
+339
+335
+5 1
+15 255
+344
+10 120
+6
+24­26
+99
+94
+1997
+1
+147
+1811
+139
+24
+26
+27
+20
+21
+23
+28
+è40%
+895
+29
+415
+7
+7714
+625
+3 1
+650
+1992
+10
+13
+12
+15
+14
+17
+16
+18
+9 1
+25
+2528
+1962
+74
+è35%
+2
+1995
+3
+8
+11
+19
+785
+22
+è55%
+64
+69
+]
+4
+633
+100
+467
+^
+965
+323
+1106914
+597
+9
+1976
+6­10
+2­5
+76100
+30
+55
+57
+52
+à á
+302
+1980
+*
+1­5
+1183
+1200
+81
+2000
+5
+2004
+2005
+7­11
+2002
+2003
+2001
+2008

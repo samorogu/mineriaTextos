@@ -1,0 +1,396 @@
+represent
+identifying pathways
+similarity
+Majumder
+epigenetic silencing
+Follettie
+pathogenesis
+Benjamini
+complementary analysis
+Supporting
+amplification
+considerable background
+calculate
+technique
+autosomal
+Richards
+oxidative phosphorylation
+Suthanthiran
+downstream
+reasonable assessment
+Paulovichg
+shock-protein signaling
+cellular
+difference
+expression analysis
+Cytogenetic
+GENEPATTERN microarray
+Korsmeyer
+biological
+Dahlquist
+nonrandom
+consistent
+Telomerase up-regulated
+Contributed
+microarray analysis
+perspective
+Molecular Signature
+preliminary implementation
+web-based
+different insulin-related
+Filippova
+mutational
+reciprocal analysis
+Discussion Traditional
+signalling Telomerase
+experiment
+different p53-related
+component
+Dana­Farber
+molecular signature
+amalgamation
+Radiation sensitivity
+correlation structure
+simultaneous
+Technology
+Kolmogorov­Smirnov-like statistic
+Miyazaki
+significance threshold
+re-compute
+addressed
+SMichigan
+microarray experiment
+distribution corresponding
+Includes
+comparing
+Bioinformatics
+biological pathways
+rigorous evaluation
+particular
+Expression
+weighting
+enrichment analysis
+challenge
+p53-mediated
+enomewide expression
+Normalize
+telomerase
+nutrient-sensing pathways
+additional biological
+signalling Aminoacyl
+information
+running-sum statistic
+Salomonis
+methodology
+criterion
+Hatzfeld
+prognostic
+analyzing molecular
+collection
+empirical phenotype-based
+conservative correction
+cis-regulatory
+meaningful
+Glycolysis gluconeogenesis
+Signature Database
+correspond
+Randomly
+GSEA-like procedure
+correlation
+computational analysis
+interpretation
+identifying important
+experiments
+cardiovascular
+hypoxia-response
+Hypothesis
+biomedical
+chr5q31 chr13q14
+non-small
+inventory
+correspondence
+Gillettea
+glycolysis
+genomewide expression
+significant enrichment
+Calculation
+iDepartment
+Functional
+magnitude
+Lymphoblastoid
+Schluens
+mathematical description
+Adjustment
+Single-gene analysis
+Subramanian
+cytogenetic
+Interdisciplinary Engineering
+Enriched
+powerful analytical
+chr14q32 chr17q23
+Michigan
+modulation
+Chevassut
+induction
+University
+hematologic
+chromosomal
+Aminoacyl
+COMMENTARY leading-edge
+Cambridge
+tissue-specific expression
+jWhitehead Institute
+Yekutieli
+cellular proliferation
+probability
+annotated collection
+Significance
+Commentary
+perturbation
+signaling subpathway
+checkpoint
+regulation
+adenocarcinoma
+percentage
+Johansson
+asymmetric
+Mittmann
+Eriksson
+compensation
+corresponding leadingedge
+chrYq11
+Regulatory-motif
+Estimating
+increment
+inhibiting
+conventional single-gene
+eDepartment
+Pomeroyh
+computationally
+Patterson
+transcription
+Telomerase activation
+Brugarolas
+Appendix
+Subramaniana
+performance
+Independently
+deprivation down-regulated
+Although genomewide
+significant
+preliminary
+overestimation
+Massachusetts Institute
+differential expression
+Chromosome
+infrequency
+familywise-error
+Research
+specific metabolic
+malignant
+threshold
+Pacyna-Gengelbach
+implementation
+GADD45A
+proportion
+Ridderstrale
+analytic
+subsection
+leadingedge
+biochemical pathways
+dependent
+ontology information
+Interpretation
+metastatic progression
+Lockhart
+specific component
+Armstrong
+Overview
+signaling pathways
+analytical
+Cellular processes
+biological processes
+unpublished
+Eisenbart
+Specifically
+functional collection
+individual
+crosscorrelation
+reproducible
+discovery
+available
+gene-gene
+biosynthesis
+p53-signaling
+hypothesis
+interface
+Neighborhood
+resistant
+chr6q21 chr5q31
+traditional approach
+sensitive
+Beheshti
+enrichment statistic
+experimental
+synthesis-related
+cell-cycle
+background information
+GENETICS Although
+Comparing
+applicability
+Karayianni
+leading-edge analysis
+Leukemia
+normalized enrichment
+cumulative hypergeometric
+compelling
+interpreting genome-wide
+graphical
+corresponding
+efficacy
+largescale experiment
+Espinosa
+Silverman
+understand
+up-regulation
+Glutamate metabolism
+Hagemeijer
+hDepartment
+Enrichment Analysis
+gene-expression
+important functional
+Kulbokas
+phenotypic
+procedure
+Nonetheless
+experimental induction
+statistical analysis
+single-gene analysis
+upregulation
+different
+radiation
+microarray
+Importantly
+phenotype
+Ramaswamy
+platform-independent
+independent
+Institute
+reporting
+fold-change
+distinction
+positives
+compendium
+Mesirova
+consistency
+COMMENTARY
+Contreras
+Kobayashi
+subgroup
+Tsuchiya
+Abbreviations
+Examination
+lymphoblastoid
+biologist
+Lindblad-Toh
+lymphoma
+Magnanini
+genome-wide expression
+leading-edge
+Crunkhorn
+identical
+phenotype-based permutation
+cytogenetic alteration
+survival
+possible
+Hollander
+Estimation
+advanced
+Oncology
+Puigserver
+identifying
+permuting
+Bloomfield
+temperature-sensitive
+informative
+arbitrary
+Mathematical Description
+Bourquin
+collective
+biological knowledge
+metabolic
+rapamycin treatment
+Mukherjee
+Troyanskaya
+Nonparametric Statistical
+knowledge-based approach
+up-regulated
+dInstitute
+Glutamine deprivation
+McDonnell
+cancer-related
+Pasqualucci
+LaddAcosta
+comparison
+Altshuler
+Leading-Edge
+Pulmonary
+phenotypic distinction
+Lymphoblast
+different approach
+functional
+Approximately
+corresponding enrichment
+false-positive
+determine
+identifying individual
+additional
+approximate
+inasmuch
+clinical
+Mukherjeed
+Barbouti
+fDivision
+Interestingly
+Hutchinson
+histogram
+metabolic pathways
+Original
+applying
+reproductive
+cDepartment
+robustness
+leukemias Enriched
+Neurology
+demonstrate
+distribution
+Bhattacharjee
+empirical evaluation
+Feuerhake
+transcriptional
+contribute
+one-third
+conserved
+Hollstein
+lymphoid leukemia
+statistical significance
+chromosome
+inactivation
+coexpression
+signal-to-noise
+application
+conserved regulatory
+deviation
+chr13q14 chr14q32
+Barbanti-Brodano
+Stanford
+variation
+important
+Longwood
+supporting information
+standard Kolmogorov­Smirnov
+chromosomal fragility
+mitogen-activated
+Determine
+Biomedical Research
+angiogenesis

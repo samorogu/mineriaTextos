@@ -1,0 +1,1140 @@
+spikes representing adjacent place fields occur
+brain regions showing increased activity causally contribute
+human stroke patients show increased activity
+sleep represents off-line rehearsal needed
+evidently replaying behavioral events spanning ~10
+org/cgi/content/full/318/5853/1147/dc1 methods som text fig
+index vol 318 science
+
+1150
+
+16 november 2007
+
+www
+s1 table s1 references 9 august 2007
+applied positron emission tomography
+12 independently manipulable four-conductor electrodes
+regional cerebral blood flow
+org
+
+science
+
+vol 318
+
+16 november 2007
+
+1149
+
+downloaded
+cell pairs exhibiting strong reactivation
+applies quantitative behavioral evaluation
+3functional probe research laboratory
+frontal motor-related areas represent
+howard hughes medical institute
+molecular imaging research program
+recently encoded episodic memories
+bilateral primary motor cortex
+averaging binned firing rates
+reflect cumulative drift error
+2008
+
+time-dependent central compensatory mechanisms
+contralesional primary motor cortex
+science vol 318 16 november 2007
+
+www
+1148
+
+16 november 2007
+
+vol 318
+
+science
+
+www
+hippocampus reportedly replays events
+org/cgi/content/full/318/5853/1147 supporting online material
+estimating compression rate depended
+pre-task sleep showed strong matches
+pretask sleep period preceding
+bilateral early visual cortices
+arizona research laboratories division
+washington national primate center
+task cross-correlation peak times plotted
+motor cortical regions suggest
+supporting online material
+www
+ipsilateral ventral premotor cortex
+period showing strongest ev
+simultaneously recorded cell pairs
+task-induced neural activity patterns
+firing rate correlation matrix
+examined neural ensemble activity
+task-related neural activity patterns
+rat medial prefrontal cortex
+spinal cord injury
+
+finger
+indicating consistent temporal relationships
+graphs show histograms
+consolidation impairs subsequent performance
+supporting online material
+late recovery stage compared
+primary visual cortex
+showing strong similarity
+showing firing rate
+cell pairs showing
+bilateral premotor cortex
+early visual cortices
+medial prefrontal cortex
+post-task sleep peak times
+independent analytical methods
+sequentially ordered 14-
+post office box 432
+majority firing selectively
+abilities gradually recovered
+fingers remained impaired
+allowing simultaneous recording
+print issn 0036-8075
+lateral corticospinal tract
+neuralynx recording equipment
+narrow vertical slit
+strong linear relation
+online issn 1095-9203
+­theta cycle rate
+task-related neural patterns
+increased activity expanded
+higher order structures
+rat ventral striatum
+neural patterns representing
+central nervous system
+direct cortico-motoneuronal pathway
+indirect cortico-motoneuronal pathways
+single theta cycle
+reversible pharmacological inactivation
+completely impaired immediately
+5central research institute
+electrical brain stimulation
+multiple channel recording
+dexterous finger movements
+spinal interneuronal systems
+spinal cord injury
+found average ev values
+late recovery stage
+tem-
+
+plate matching
+explained variance exceeded 15%
+explained variance measures
+highest coincidence rate
+success rate recovered
+compression rates varied
+complete eight-element sequence
+finger dexterity recovers
+vertical bars indicating
+sliding 200-ms window
+early recovery stage
+memory recoding remains
+precision grip tasks
+multielectrode hippocampal recordings
+red vertical bands
+time frame coincides
+strong matches occurred
+time limitation imposed
+brain imaging studies
+remaining neuronal systems
+temporal patterns playing
+recent evidence implicating
+combined brain imaging
+multiple cell pairs
+mpfc function leads
+target bin size
+best-fit regression line
+york avenue nw
+including high-resolution figures
+figure 1b shows
+article cites 30 articles
+50-min running session
+peak compression rate
+disrupting mpfc activity
+macaque monkey results
+preferably macaque monkeys
+compression rates extracted
+cellpair firing-rate correlations
+sleep bin size
+column shows data
+c4/c5 l-cst lesion
+defined postoperative days 1
+template column order
+concurrently recorded cells
+mpfc cell pairs
+previous reactivation studies
+positive time windows
+negative time windows
+intrinsic processing speed
+initial sleep session
+sleep time frame
+recent memory sequences
+showed accelerated replay
+sequence task continuously
+spatial sequence task
+2008
+
+reports
+
+fast-forward playback
+behavioral events
+sleep peak times
+precision grip task
+matching cross-correlation peaks
+repetitive sequence task
+13 high reactivation sessions
+index finger
+specific time
+
+department
+post-task sleep data
+post-task sleep periods
+coincident spikes
+performed pet scanning
+premotor cortex
+behavioral rate
+activity increased
+increased activity
+prefrontal cortex
+remote memory retrieval
+window plotted
+neural activity
+table s1
+neural systems
+bilateral insula
+spinal cord
+finger movements
+cortical regions
+bin size
+cell pairs
+results suggest
+early recovery
+explained variance
+success rate
+compression rates
+peak firing
+neural patterns
+finger dexterity
+extensive regions
+neuronal firing
+visuomotor-related regions
+brain activity
+national institute
+brain areas
+temporal order
+observed mpfc replay
+compensation mechanisms
+cross-correlation matching
+contralesional accumbens
+precision grip
+strong matches
+behavioral constraints
+partial injury
+increased activation
+fast-forward playback
+prelimbic cortices
+org/cgi/content/full/318/5853/1147#otherarticles
+compressed task cross-correlations
+pre-task sleep
+sleep period
+monkey cortex
+sensorimotor cortex
+cerebellar cortex
+ev values
+neural circuits
+cortical areas
+recent memories
+2core research
+research suggests
+online version
+preoperative stage
+accelerated rate
+cell pair
+replaying patterns
+taskrelated activity
+pairwise activity
+slowwave activity
+postoperative days 90
+5 times compression
+temporal compression
+neuronal system
+cross-correlation plots
+side ipsilateral
+ipsilateral side
+10-ms bin
+average ev
+memory processing
+task period
+single pair
+intrinsic dynamics
+direct corticomotoneuronal
+completely lost
+inactivation experiments
+damaged pathways
+subpanel shows
+increased number
+central peaks
+brain res
+multiple repetitions
+multiple comparisons
+post-task sleep
+spatiotemporal patterns
+waking patterns
+defined lesion
+temporal structure
+recovery involves
+robust regression
+functional recovery
+dashed line
+normal regression
+similar results
+solid line
+faster rate
+remote memories
+compression factors
+firing-rate correlations
+maximum peak
+subsequent sleep
+task cross-correlation
+advanced studies
+1 month postoperative
+slopes indicating
+time window
+critical window
+neuronal mechanism
+rat ran
+cross-correlation peaks
+good matches
+long-term memories
+hippocampus-dependent memories
+org
+
+1147
+
+downloaded
+axis shows
+org
+
+downloaded
+memory consolidation
+sequence replay
+evolutional science
+title science
+dtl
+
+science
+offset times
+temporal offset
+mediate commands
+technical consulting
+rapid succession
+tisa@nips
+functional compensation
+american association
+1 sergei perfiliev
+animal model
+widely believed
+forward direction
+valley range
+open question
+gray bar
+5 tadashi isa1
+circular platform
+contralateral s2
+similar effect
+upper quartile
+50-min blocks
+drugs disruptive
+real time
+4 hideo tsukada
+score exceeding 4
+adaptive strategy
+rights reserved
+opposite pattern
+apparently plays
+kobe 650-0047
+repetitive nature
+obtaining reprints
+local maxima
+training recruits
+strongly skewed
+hamamatsu 434-8601
+oxford univ
+3 yosuke morichika
+random shuffling
+subject collections
+automatically extracted
+registered trademark
+published weekly
+transient impairment
+conduction speeds
+hundred milliseconds
+highest number
+chance levels
+hand muscles
+intraparietal sulcus
+kawaguchi 332-0012
+van acker
+2* hirotaka onoe
+activation pattern
+accepted 12 october 2007 10
+score exceeding 11
+contralateral hemisphere
+van rhoads
+contribute
+synaptic delays
+memory-consolidation theory
+effectively compressing
+unfolding suggests
+1148979
+
+yukio nishimura
+local injection
+contralateral accumbens
+slowwave oscillations
+physiological sciences
+mental health
+pet study
+masami tatsuno
+longitudinal study
+experimental apparatus
+replay window
+anterior cingulate
+processes critical
+resources related
+affected extremity
+poorly understood
+okazaki 444-8585
+hamamatsu photonics
+obtaining permission
+spike trains
+adaptive learning
+response characteristics
+hayama 240-0193
+neurological disorders
+sleep epochs
+sleep evolved
+sleep session
+sleep david
+sleep
+david
+sleep res
+sequence segments
+brain plasticity
+memory reactivation
+matching task
+lesion varies
+lesion site
+template matching
+sequential replay
+specific locations
+involve replay
+accelerated replay
+fast replay
+rat mpfc
+multiple cells
+cell-pair correlations
+sleep replay
+temporal extent
+updated information
+data collection
+longitudinal information
+org/cgi/collection/neuroscience information
+monkey shown
+previously shown
+highly compressed
+compression factor
+case studies
+postoperative stages
+mpfc tend
+mpfc lead
+match strength
+c5 segments
+present study
+grant ns020331
+grant mh046823
+*present address
+sleep cross-correlations
+rat hippocampus
+compared sleep
+time axis
+task block
+task performance
+small piece
+reward zones
+technology agency
+previously reported
+states induced
+stroke
+current study
+area implicated
+learning deficits
+key role
+contralateral m1
+patients
+estimates based
+neuronal basis
+lower quartile
+template columns
+important part
+neocortical control
+cerebellar vermis
+analysis requires
+significantly stronger
+initially assessed
+unique role
+article appears
+partially supported
+bruce@nsma
+data shown
+compressed relative
+distinct peaks
+peaks nearest
+sleep examples
+mediating retrieval
+representing
+mid-cervical segment
+developmental physiology
+observed replay
+measure called
+replay evident
+replay occurs
+task cross-correlations
+upper left
+template relative
+japan science
+analysis shown
+6graduate university
+top graph
+bottom graph
+sorted cross-correlations
+increased
+methods 8
+org/cgi/content/full/318/5853/1147/dc1
+showed
+references
+2008
+
+reports
+fig
+strong
+research
+online
+total number
+reversed templates
+activity
+neuroscience http
+recorded
+ev
+pairs
+consistent
+strongest
+brain
+replaying
+downloaded
+patterns
+times
+20 times
+values
+recovery
+l-cst
+target
+compression
+peak
+sequence
+studies
+indicating
+cortical
+www
+rat 1
+rat 2
+matches
+memories
+memory
+science
+science 287
+science 305
+science 265
+science 318
+science 297
+science 290
+science 304
+consolidation
+red
+examined
+reflect
+accelerated
+correlation
+1b
+performance
+windows
+average
+session
+scanning
+sequences
+combined
+speed
+extracted
+pet
+performed
+washington
+evidence
+monkey
+hippocampal
+time
+sleep
+lesion
+replay
+reactivation
+correlations
+~15%
+
+reports
+information
+data
+arizona
+relative
+2008
+
+reports
+24
+compressed
+shown
+org
+cross-correlations
+mpfc
+graph
+segments
+department
+grant
+including
+york
+strength
+present
+4 department
+offset
+periods
+compared
+axis
+task
+vermis
+small
+current
+template
+reported
+plasticity
+m1
+control
+analysis
+blocks
+nature 430
+induced
+occurs
+top
+number
+reversed
+part
+bruce
+assessed
+stronger
+based
+observed
+hippocampus
+article
+stages
+deficits
+hippocampus 6
+case
+technology
+supported
+lower
+reward
+role
+examples
+bottom
+area
+evident
+neuroscience
+faster
+peaks
+retrieval
+found
+cells
+sessions
+13 sessions
+factor
+extent
+66 sessions
+monkeys
+templates
+physiology
+total
+sorted
+measure
+locations
+segment
+basis
+left
+fig
+university
+http
+japan
+limited
+massimini
+concept
+sci
+kirino
+consolidated
+czurko
+cognit
+weingartner
+row
+nadel
+technique
+compensate
+preserved
+hillsdale
+alternating
+tetrodes
+lacking
+eds
+2 hours
+louie
+rats
+preop
+located
+durkin
+design
+run
+eurorehabilitation
+blue
+psychol
+ip-pmv
+100 ms
+cued
+3b
+3a
+hobson
+consisting
+contrast
+pavlides
+led
+lee
+mem
+neuron 36
+nonexistent
+hours
+steriade
+obtained
+notes
+1
+reactivated
+3-
+discontinuous
+scaled
+addressed
+trained
+support
+kaczmarek
+ash
+usa
+takehara
+bontempi
+mcclelland
+hoffman
+neurosci
+iii
+cerebellum
+account
+hour
+recall
+averaged
+reproduce
+learn
+roop
+iamiceli
+trans
+dropped
+aaas
+months
+wang
+process
+december
+ghilardi
+przybyslawski
+divided
+lesions
+nadasdy
+menzaghi
+mcnaughton
+aging
+wiley
+derived
+tied
+psychiatry 20
+departure
+software
+behav
+food
+episodes
+birds
+3 weeks
+hhmi 52003749
+reilly
+weeks
+correspondence
+greater
+half
+day
+kudrimoti
+margoliash
+2a
+2b
+riken
+week
+series
+group
+expect
+day 7
+network
+quantify
+rev
+increase
+rostral
+mediated
+suggesting
+dees
+free
+750 ms
+included
+created
+cortex-dependent
+davis
+mello
+origin
+nunez
+neuron 29
+omitted
+memory-guided
+whidbee
+org/
+1a
+observations
+ribeiro
+eichenbaum
+ratio
+difficult
+bower
+measured
+az 85724­5115
+6% versus 11%
+cowen
+accessed
+buzsaki
+cohen
+grasp
+quadrants
+takashima
+constrained
+border
+sem
+wilson
+milner
+-
+finding
+day 99
+jp
+
+1
+play
+precluded
+reach
+services
+frankland
+doi
+goyal
+accounted
+neurol
+parker
+maquet
+uprety
+mcnaughton*
+ensembles
+1126/science
+proportion
+amzica
+/permissions
+biophysics
+winson
+primates
+csicsvari
+scoville
+h215o
+computed
+motionlessness
+humans
+pads
+crosscorrelation
+euston
+meltzer
+sweden
+connection
+6 transection
+lipa
+approach
+//www
+wa 98195
+variability
+accord
+dc 20005
+rapidly
+hypothesis
+ji
+thumb
+suggested
+taking
+microdrives
+unclear
+cm
+color
+sciencemag
+pp
+implanted
+addition
+sara
+expected
+outliers
+fire
+sufficient
+al
+coherent
+sokendai
+c4
+middle
+behavior
+nakao
+peigneux
+ii
+neurons
+seattle
+neuron 44
+2 × 750 ms
+sensitive
+barnes
+day 14
+parts
+tononi
+perimeter
+attenuation
+student
+3 months
+maviel
+magnified
+hypothesized
+identify
+patel
+stickgold
+stengel
+120 neurons
+v1/v2
+smith
+advancement
+erlbaum
+musial
+r-cbf
+natl
+identical
+tests
+nat
+schirmer
+philos
+press
+identifying
+talton
+öteborg
+conclusion
+reduced
+valleys
+co-m1
+skaggs
+duration
+cns
+squire
+e-mail
+proc
+participation
+motoneurons
+reaching
+huber
+silva
+copyright 2007
+analyses
+ccording
+assuming 6
+spikes/bin
+14 ms
+soc
+60 min
+assess
+acad
+fellous
+proportional
+existed
+rows
+transfer
+independence
+biol
+7 smaller
+takehara-nishiuchi
+lowest
+marr
+mcgaugh
+histogram
+repeated
+construction
+neurosurg
+removed
+subcortical
+tucson
+kawahara
+distribution
+matsuki
+ac
+keefe
+quantification
+examine
+accounting
+work
+putamen
+details
+se-40530
+test
+suppl
+dave
+scores
+neocortex
+hirase
+pennartz
+noncued
+portion
+4c
+restored
+4a
+3252
+812
+2070
+1997
+1996
+149
+102
+100
+33
+32
+34
+246
+241
+19­21
+6
+< 0
+96
+1995
+1994
+1999
+756
+1
+145
+24
+26
+27
+20
+21
+22
+23
+28
+29
+29­31
+~10%
+2907
+1993
+391
+84
+143
+7
+248
+235­246
+100%
+1998
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+103
+881
+1971
+9897
+~5
+831
+78
+1147
+6446
+80%
+8
+2
+419
+01
+3
+25
+1983
+5­7
+31
+30
+9
+676
+1957
+45
+225­246
+4
+262
+535
+11%
+9497
+~1
+185­210
+1984
+*
+1989
+22%
+1­4
+1148979
+1183
+606
+1200
+15%
+500
+2003
+2000
+40
+5
+4%
+4090
+8­16
+2005
+5049
+2002
+2001
+2006
+2007
+2004
+2008

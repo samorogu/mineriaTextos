@@ -1,0 +1,13 @@
+matrix
+database
+gapped
+score
+master
+psiblast
+sequences
+samorogu
+protein
+blast
+alignments
+238188txt
+alignment

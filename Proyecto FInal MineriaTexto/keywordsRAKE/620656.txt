@@ -1,0 +1,1299 @@
+170000 putative regulator cst13 leu2 mat ura3 hap1 sir3 unknown unknown
+
+754
+
+26 april 2002 vol 296 science www
+fatty acid metabolism subtelomerically encoded helicases mitochondrial msn2/4-dependent induction
+daughter cell separation leucine biosynthesis mating uracil biosynthesis heme
+mitogen-activated protein kinase­regulated ets transcription factor elk-1
+washington university basic local alignment search tool
+california vineyard
+
+752
+
+26 april 2002 vol 296 science www
+genes
+fred hutchinson cancer research center
+generated sur2 / embryonic stem cells
+putative subtelomerically encoded helicases
+mitogen-activated protein kinase pathway required
+expression levels showing complex inheritance patterns
+org science vol 296 26 april 2002
+
+755
+
+downloaded
+org science vol 296 26 april 2002
+
+753
+
+downloaded
+accepted 19 march 2002 published online 28 march 2002
+dunn provided genetic footprinting data
+specific activation domains stimulate transcription
+hap1 binding site consensus sequence
+previously defined mitochondrial expression cluster
+linkages illustrate indirect transcriptional effects
+genechip yeast genome s98 microarrays
+assess protein-protein interaction data sets
+nih postdoctoral fellowship gm64268
+winter provided helpful discussion
+dna binding regulatory transcription factors
+heme-dependent transcriptional activator hap1
+howard hughes medical institute
+accepted 14 march 2002
+
+genetic dissection
+studying naturally occurring alleles
+simple genomic sequence comparisons
+s288c flo8 null mutation
+099 nematode open reading frames
+multiple bioinformatic data sets
+cell wall protein responsible
+parent undergoing log-phase growth
+mata leu2 0 ura3 0 ho
+column shows expression levels
+exhibit detectable sequence similarity
+large interaction data sets
+human mediator subunit sur2
+sur2 mediator subunit
+jennitte
+regulates early adenovirus genes
+org/cgi/content/full/296/5568/752 supporting online material
+uracil biosynthesis pathways
+map kinase pathway
+randomly assigning parent genotypes
+scale bar represents 100 kb
+adenovirus e1a conserved region 3
+elk-1 requires recruitment
+nearby bins contained 5 linkages
+loci represent natural polymorphisms
+budding yeast saccharomyces cerevisiae
+columns show expression levels
+mitochondrial ribosomal proteins
+requires ergosterol metabolism
+1528 genes showed differential expression
+acid linkage bin ii
+amino acid site
+6215 open reading frames
+differentially expressed messages implies
+hot acid phenol
+segregant variance ­ parent variance
+tetrad analysis showed 1 flocculent
+leucine biosynthesis
+80% protein sequence alignment
+fatty acid
+total parental expression differences
+vertical bar represents
+sage university papers
+dna microarray technology
+regulate heme synthesis
+s288c hap1 allele
+adenovirus e1a protein
+large transcriptional effects
+transcriptional silencer active
+reduces transcriptional activation
+genomewide expression patterns
+authors contributed equally
+empirical permutation tests
+1100 fairview avenue north
+mcdonnell centennial fellow
+print issn 0036-8075
+including high-resolution figures
+sur2 prevents activation
+nucleic acids res
+biosynthetic en-
+
+zymes
+potent activation domain
+gene encoding hap1
+transgressive segregation implies
+single pair showed linkage
+widespread transcriptional effects
+functional genomic data
+metazoan mediator subunit
+online issn 1095-9203
+subtle effects obscured
+effects undoubtedly vary
+advanced quantitative techniques
+resulting genetic map
+messages 18 21 28 7 28 16 94 19 common function budding
+mammalian mediator component
+functionally related based
+genetic footprint data
+illustrating transgressive segregation
+activated-ras multivulva phenotype
+rm hap1 alleles
+yeast protein-protein interactions
+trans-acting regulatory polymorphisms
+natural isolate collected
+behavioral quantitative phenotypes
+budding yeast rachel
+path analysis based
+budding yeast
+rachel
+rna polymerase ii
+transcription factor
+transcription factors msn2
+two-hybrid array method [
+previous array experiments
+york avenue nw
+single-cell organism grown
+regulates flo1 expression
+regulatory genetic variation
+strongest effect accounted
+exhibit structural homology
+two-color experiment involved
+data set occur
+unusually large number
+global expression levels
+putative orthologs
+cst13
+correlation coefficient rx
+sir3
+putative ortholog
+10 bins contained 5 linkages
+parallel analysis data
+rna cleanup protocol
+called transgressive segregation
+real data set
+standard laboratory strain
+genes mat
+interacting proteins contributes
+distinct mediator subunits
+reliable genetic markers
+closely related genes
+parental difference relative
+similar rates simply
+gene expression typically
+flocculent segregants sharing
+2008
+
+reports
+served similarity
+differentially expressed message
+message differentially expressed
+linkages remained significant
+chromosome xii genotypes
+results strongly suggest
+genetic linkage analysis
+molecular biology http
+major loci explaining
+daughter cells
+sterol metabolism
+rm alleles showed
+gene expression levels
+opposite parental genotype
+found profound differences
+annotated group members
+engineered auxotrophies linked
+genomic dna
+570 messages showed linkage
+sur2 subunit
+interacting proteins evolve
+linkage fell largely
+global patterns
+-4 binding site
+transcription factors
+by4716 rna reference
+saccharomyces cerevisiae
+stanford university
+expect 53 false-positive linkages
+protein interaction
+mat
+genetic dissection
+causal model shown
+science online
+largely responsible
+published weekly
+specific combinations
+homodimeric protein
+real data
+regulatory region
+tetrad showed 2
+interaction data
+differentially expressed
+transcription elongation
+transcription initiation
+single tetrad
+expression levels
+helpful discussions
+quantitative phenotype
+sur2 forms
+org/cgi/content/full/296/5568/752#otherarticles
+anaerobic growth
+sur2 suppress
+s288c derivative
+unit variance
+rneasy columns
+/segregant variance
+oligonucleotide microarrays
+represents spearman
+cdna microarrays
+org
+
+downloaded
+supplemental material
+group shares 52 genes
+title science
+dtl
+
+science
+transcriptional regulation
+data set
+core data
+mating type
+highly complex
+pol ii
+natural variation
+method previously
+laboratory strain
+2-megadalton complex
+online version
+show linkage
+fitness effects
+randomly distributed
+randomly assigned 6
+statistically assess
+parallel analysis
+genetic basis
+genetic variation
+genetic architecture
+showed linkage
+308 showed linkage
+transcription control
+transcript levels
+produce
+
+www
+parental differences
+standard deviation
+perturbed pathways
+mata lys2 0
+nematode orf
+molecular bridge
+causal connections
+transacting alleles
+22 false-positive differences
+engineered knockouts
+qiagen columns
+wild isolate
+organism-level phenotypes
+resources related
+results show
+cis-acting alleles
+measured expression
+expression lies
+expression differences
+expression level
+expression pattern
+results showed
+rna isolation
+single method
+expressed specifically
+message levels
+structural homology
+3 nonflocculent segregation
+trans-acting modulators
+sage publications
+structural similarity
+heme
+uracil
+flo8 encodes
+genetic marker
+flo8 gene
+simulated data
+wild strain
+strain identity
+hap1
+interacting proteins
+simultaneously interacting
+related function
+linkage analysis
+ura3
+similar numbers
+similar distributions
+leu2
+previously shown
+opposite effect
+defined medium
+parent act
+found online
+parental genotype
+genetic markers
+trans-acting loci
+similar rates
+gene expression
+detect linkage
+linkage region
+linkage act
+2 marker segregation
+repeated 100 times
+associate investigator
+gaussian distributions
+numerically solved
+traditionally focused
+santa clara
+liquid culture
+american association
+kanamycin resistance
+randomization procedure
+false positive
+thousand oaks
+944 nonessential proteins
+highly heritable
+1 andrej shevchenko
+segregating variation
+auxotrophic deletions
+ri1i2 possibility
+* rebecca clinton
+* gael yvert
+ty1 insertion
+haploid derived
+select oligos
+alternative hypotheses
+reports
+context
+centromere position
+2 anna shevchenko
+rights reserved
+de leeuw
+log ratios
+wilcoxon-mann-whitney test
+identical sites
+org/cgi/content/full/296/5568/ 750/dc1
+trends microbiol
+quickly cross-referenced
+yeast orf
+lod scores 9
+short deletion
+integrate signals
+obtaining reprints
+black circle
+haploid derivatives
+highwire press
+future analyses
+newbury park
+select diploids
+subject collections
+constrained sites
+chromatin context
+registered trademark
+cis-acting modulators
+statistical test
+100 articles hosted
+20-kb bins
+rapid assessment
+chromosomal order
+protocolid 2058&versionno 1
+fitness ef0
+fluors reversed
+2008
+
+reports
+differences
+iso-1 cytochrome
+multiprotein complexes
+colored red
+dashed line
+6217 yeast orfs
+1 gang wang
+¨ leonid kruglyak
+find application
+vulva development
+unlike experiments
+coevolutionary hypothesis
+genepix software
+social sciences
+true positives
+upstream region
+statistically significant
+technical assistance
+shaker bath
+isi web
+fx conditional
+chi-square test
+positive controls
+greater complexity
+leucine
+polygenic basis
+inferred positions
+obtaining permission
+statistical theory
+multiple loci
+single genes
+multiple tfs
+linkages plotted
+expression difference
+expression measurements
+correctly linked
+linked region
+observed similarity
+evolutionary rates
+observed 3422 differences
+observed variation
+equal effect
+strong effect
+observed differences
+fitness effect
+opposite direction
+flocculation phenotype
+simulations showed
+results imply
+base pair
+modulator loci
+mapping loci
+loci contributing
+cis-acting loci
+dna-bound tfs
+chromosome xvi
+linkage function
+parents showed
+detected linkage
+marker lies
+additional 262 messages
+messages linking
+updated information
+random distribution
+org/cgi/collection/molec_biol information
+flo1 encodes
+supplementary information
+indirectly affect
+poisson distribution
+parent strains
+flo1 gene
+gene controlling
+trends genet
+single locus
+loci involved
+respective genes
+linked marker
+high rate
+evolutionary rate
+org
+
+references
+aligned sequences
+interactors influences
+caenorhabditis elegans
+/
+lee hartwell
+correlations presented
+controlled environment
+transcript abundance
+3312 markers covered 99%
+notes
+
+treated
+robert mortimer
+reciprocal searches
+affymetrix instructions
+true difference
+rank correlation
+interprotein coevolution
+essential proteins
+developed algorithms
+center
+acidic conditions
+found linkage
+loci detected
+5 loci affect
+linked bin
+found sites
+group 8 consists
+group 6 consists
+enhancer regions
+upstream regions
+nature biotechnol
+sequence
+small number
+found 385 linkages
+segregants inheriting
+40 haploid segregants
+73 crossovers observed
+40 segregants separated
+protein
+regulated
+leonid@fhcrc
+differences expected
+median proportion
+excluding self-linkages
+uetz assisted
+explain evolutionarily
+polymorphism affecting
+loci account
+linkages expected
+marker genotype
+accurate estimate
+2 4 contingency table
+tfs interact
+small fraction
+mating
+loci found
+locus explaining
+1220 messages differed
+article appears
+supplementary fig
+transcription
+625 interactions identified
+activation
+downloaded
+80% alignment
+rfk correlations
+hughes
+nature genet
+3*
+sur2
+washington
+independent cultures
+genome location
+cell 107
+cell 102
+cell
+cell 12
+sample labeled
+science
+science 285
+science 282
+science 281
+science 296
+science 274
+science 278
+group 1 2 3 4 5 6 7 8 number
+rm values
+binding
+data
+complex
+expected number
+online
+effects
+budding
+flocculent
+assess
+polymorphisms
+defined
+genetic
+levels
+showed
+www
+alleles
+yeast
+mediator
+total
+common
+yeast 14
+yeast 10
+interaction
+expression
+rna
+cells
+expressed
+segregation
+e1a
+multiple
+analysis
+parent
+linkage
+similarity
+segregant
+shares
+grown
+method
+msn2
+york
+2008
+
+reports
+proteins
+variation
+evolve
+members
+org
+regulate
+flo1
+significant
+bins
+homology
+experiments
+set
+auxotrophies
+region
+by4716
+suggest
+protocol
+explaining
+differences
+611 bins
+called
+allele
+linkages
+5 linkages
+linked
+rates
+observed
+effect
+results
+involved
+pair
+loci
+message
+10 kb
+interactions
+tfs
+20 kb
+chromosome
+ho
+34 function
+function
+marker
+1528 messages
+messages
+570 messages
+affect
+30 subunits
+information
+regulation
+detected
+5 10 5 fell
+110000 xii
+subunits
+reference
+670000 xii
+model
+fell
+encodes
+distribution
+gene
+2008
+
+gene
+gene 248
+genet
+16 genes
+18 genes
+genes
+11 genes
+570 genes
+28 genes
+94 genes
+19 genes
+1500 genes
+6215 genes
+rate
+bin
+rm
+genotype
+markers
+difference
+elegans
+developed
+type
+account
+labeled
+control
+correlation
+interactors
+abundance
+crossovers
+orf
+qiagen
+interact
+notes
+
+22
+controlled
+hartwell
+correlations
+1165 differed
+conditions
+strains
+sequences
+orfs
+location
+direction
+reciprocal
+independent
+coevolution
+12 measurements
+rfk 10 8
+mortimer
+essential
+simulated
+flocculation
+references
+cultures
+medium
+affymetrix
+lys2
+genome
+shown
+found
+group 1
+group
+group 5
+group 7
+nature 403
+nature 387
+regions
+expect
+number
+nature 411
+nature 415
+segregants
+40 segregants
+724 expected
+explain
+proportion
+uetz
+affecting
+fhcrc
+self-linkages
+expected
+sample
+identified
+http
+table 1
+values
+estimate
+100 simulations
+fraction
+simulations
+locus
+article
+315 article
+parents
+fig
+sci
+eds
+query
+synthetic
+physiological
+1 2k
+finally
+excluded
+caused
+brown
+sone
+rawson
+alternatives
+1069516 include
+end-labeled
+p-
+cavalieri
+categories
+believed
+harbor
+herbert
+lashkari
+koretke
+noted
+averaged
+consistent
+estimates
+rivera
+combined
+sum
+current
+3c
+berk1
+romano
+drawing
+groups
+yll007c
+brachmann
+obtained
+causton
+heredity 83
+makes
+fourfold
+churchill
+rosenberg
+hartl
+giniger
+dnasei
+explained
+addressed
+lupas
+apply
+mittmann
+usa
+suzzi
+citing
+substitutions
+cross-hybridize
+chr
+estimated
+becam
+1/3
+archer
+mismatch
+rm/rm
+550000 iii
+cases
+origin
+]/2k
+crosses
+equation
+work
+reproduce
+lindgren
+sandberg
+chin
+trans
+aaas
+process
+december
+cited
+purchased
+analyzed
+conversely
+end
+provide
+divided
+digested
+range
+doolittle
+fourth
+agglutination
+3 january 2002
+lab
+iwasaki
+lysine
+hybridized
+3 fect
+ambiguous
+correspond
+green
+jain
+counted
+lockhart
+ito
+rm11-1a
+fraser
+existence
+warren
+jin
+presence
+hirsh
+correspondence
+evol
+org/cgi/content/full/1069516/dc1
+units
+half
+james
+applied
+2b
+fields
+90000 iii
+characterized
+2 arnold
+yil101c
+ed
+measure
+category
+groups 2
+botstein
+rev
+mason
+nominal
+suggesting
+independence
+ramos
+org/
+gaisne
+] listed
+grishin
+davis
+manuscript
+stevens
+tata
+variables
+devicente
+carry
+quality
+smaller
+barabasi
+co-regulated
+white
+hundred
+structures
+ranging
+townsend
+derisi
+lists
+part
+replicates
+valencia
+wodicka
+copy
+biochem
+telomeres
+interacts
+1/
+subcomplex
+underexpressed
+strengthen
+zuckerkandl
+yil060w
+wilson
+isolated
+note
+kaplan
+text
+blue
+begin
+regard
+reality
+probability
+copyright 2002
+kan
+trap/med100
+petrov
+assessed
+cy3
+brem
+doi
+considered
+clear
+eisen
+duplication
+5 december 2001
+grigoriev
+follow
+phenomenon
+knock-
+detection
+supported
+delrow
+relation
+inconsistent
+threshold
+feng
+dividing
+1126/science
+kron
+wayne
+inherited
+winzeler
+thousands
+/sfields/yplm/data/new2h
+/permissions
+means
+compiled
+partitioning
+yielded
+drawn
+carries
+1030000 xiv
+evolution
+schwikowski
+discovery
+computed
+cyc7
+cyc1
+cy5
+result
+close
+jeong
+nap
+cis
+wa
+ways
+email
+//www
+ends
+recently
+dc 20005
+hits {
+detecting
+rm/
+hits
+polsinelli
+doerge
+lewisbeck
+tanksley
+gottschling
+conclude
+//depts
+ca
+mutations
+lake
+sciencemag
+reported
+fazzio
+pp
+addition
+e1a-cr3
+ensured
+olson
+eightfold
+sufficient
+observe
+understand
+dickerson
+brazeau
+neal
+promoter
+garvik
+carlson
+marked 1
+metazoa
+rif
+affected
+seattle
+twofold
+cross
+remodel
+member
+html
+products
+difficult
+week
+amplified
+compared
+/viewprotocol
+furman
+services
+directly
+sequenced
+bb32
+gavin
+genetics 134
+genetics 138
+saunders
+cherry
+yll009c
+smith
+advancement
+samples
+natl
+actors
+chloroform
+d4-100
+mol
+sequencing
+colman-lerner
+approach
+efficiency
+acad
+kerr
+/rm
+hybridizations
+examples
+images
+chromosomes
+[ln
+brent
+describing
+annu
+recorded
+comments
+kobayashi
+proc
+coller
+performed
+inter0
+490000 xv
+gibbons
+shaken
+panel
+comparison
+carried
+verdiere
+chou
+sequence-specific
+jsp
+markianos
+observation
+slightly
+al
+bound
+paper
+determine
+burton
+reducing
+comparing
+cantin
+oltvai
+biol
+start
+dong
+hartman
+analyze
+lowest
+175 rpm
+link
+wu-blastp
+macmillan
+berk
+made
+arrays
+frequency
+xbp1
+mitochondria
+curr
+moore
+wa 98109
+chervitz
+reliability
+exist
+primig
+1 107 cells/ml
+looked
+functions
+generally
+iyer
+rieseberg
+eberle
+gifts
+chance
+1 greg
+yoshimoto
+heritability
+pincus
+tested
+assume
+fact
+searched
+jansen
+0
+97
+1993
+585
+29%
+-4
+195
+6479
+59%
+1543
+901
+33
+31
+30
+36
+34
+{
+3513
+6
+98
+92
+95
+1995
+1994
+1997
+1996
+1999
+1998
+231
+1
+147
+1528
+141
+67
+49%
+1194
+24
+25
+26
+27
+20
+21
+22
+23
+28
+29
+10 10
+1956
+82%
+39%
+86
+87
+415
+7
+2 10 6
+109
+963
+1359
+3­29
+623
+*
+450
+40%
+517
+97%
+180
+2
+185
+13­39
+11
+10
+13
+12
+15
+14
+17
+16
+19
+18
+6215
+2022
+2698
+389
+11038
+1968
+32%
+20%
+1046
+680
+}
+36%
+4 ­7
+8
+5 10 5
+363
+2069
+02
+3
+361
+388
+573
+62
+256
+190000
+1200
+167
+32
+30°
+9
+005
+1977
+1976
+1971
+323
+4
+675
+4569
+50
+53
+63
+115
+6450
+1069516
+10 7
+1257
+308
+739
+03
+84%
+752
+1­4
+46
+44
+41
+5
+12369
+2002
+2000
+2001
+6239
+2008

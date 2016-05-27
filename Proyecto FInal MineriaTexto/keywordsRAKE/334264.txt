@@ -1,0 +1,1375 @@
+detect densely connected subgraphs potentially representing biological modules
+autosomal recessive motor disorder called mast syndrome
+3unite de recherche en biologie moleculaire
+fonds national de la recherche scientifique
+human protein­protein interaction network
+´ jean-francois rual1*
+facultes notre-dame de la paix
+assessed characteristics include shared mouse phenotype
+yeast protein interaction network evolves rapidly
+eliminate systematically de novo auto-activators19
+solid blue edges represent binary lci interactions
+yield statistically significant correlation supports
+recombinationally cloned open reading frames
+vivo coaffinity purification glutathione s-transferase
+dashed blue edges represent non-binary interactions
+roth2 & marc vidal1
+
+systematic mapping
+binary protein­protein interactions detectable
+bottom panels show expression controls
+small pools offer high sensitivity
+initial phenotypic testing evaluated growth
+1175
+
+© 2005 nature publishing group
+
+letters
+
+nature
+© 2005 nature publishing group
+
+1177
+
+letters
+
+nature
+© 2005 nature publishing group
+
+1173
+
+letters
+
+nature
+cancer systems biology human interactome version 1
+yeast two-hybrid inducible reporter genes
+yeast protein­ -protein interaction network
+international human genome sequencing consortium
+co-affinity purification gst pulldown assays
+mips mammalian protein-protein interaction database
+human binary protein­protein interactions
+estimating biological false positive interactions
+eliminate self-activator baits prior
+gateway-cloned open reading frames
+ccsb-hi1 lci lci-core lci-non-core
+protein pairs
+
+0
+identified functionally enriched mcode complexes
+intracellular endosomal/trans-golgi transportation vesicles
+incomplete sampling limits conclusions
+proteome-scale human yeast twohybrid map
+ewing sarcoma related protein
+protein-pair characteristics
+protein pairs
+4howard hughes medical institute
+dfci strategic planning initiative
+support includes taplin funds
+technical false positives arise
+biological false positives separately
+human alternative pre-mrna splicing
+mcode graph clustering algorithm27
+approximately power-law degree distribution
+yeast two-hybrid reporter assays
+removed lower confidence interactions
+high-throughput yeast two-hybrid pipeline
+encompasses protein pairs encoded
+© 2005 nature publishing group
+
+nature
+keck foundation grant awarded
+ellison foundation grant awarded
+first-draft human protein-interaction map
+high-throughput yeast two-hybrid system
+high-throughput yeast two-hybrid screens
+large protein interaction networks
+common upstream dna sequence
+human genome changed strategies
+high-throughput yeast two-hybrid strategy
+short characteristic path length
+20 october 2005
+
+stringent phenotype testing
+co-affinity purification experiments yield
+collapsed yeast two-hybrid ists
+067 lci direct binary interactions
+caenorhabditis elegans early embryogenesis
+human protein reference database
+google scholar literature databases
+small characteristic path length
+shows interactions largely segregated
+yeast two-hybrid data sets
+human interactome network originates
+biomolecular interaction network database
+ccsb-hi1 interactions increases markedly
+mechanisms underlying interactome evolution
+technical false positive rate
+systematic experimental mapping approaches
+human interactome network systematically
+independent co-affinity purification assay
+comprehensive human interactome map
+top panels shows presence
+1178
+
+© 2005 nature publishing group
+20 october 2005
+
+letters
+
+lci pairs
+gst­bait fusion proteins
+comprehensive human interactome project
+ccsb-hi1 data set increases
+share upstream motif p-
+shared gene ontology annotation
+61 rue de bruxelles
+shared upstream motif
+bottom panels represent
+share mouse phenotype p-
+technical false positives
+yeast two-hybrid system
+yeast two-hybrid screens
+high clustering coefficient
+exhibit high clustering
+ccsb-hi1 lci lci-core lci-non-core
+
+0
+yeast two-hybrid methodology
+754 yeast two-hybrid interactions--
+protein interaction map
+yeast protein interactome
+exhaustive two-hybrid screens
+protein interaction networks
+co-affinity purification assays
+co-affinity purification-positive assays
+spastic paraplegia 21 protein
+protein­protein interactions
+protein interaction mapping
+approaching systems biology
+dana-farber cancer institute
+cancer systems biology
+including yeast two-hybrid
+yeast two-hybrid edges
+interaction sequence tags
+nih/nci grant awarded
+high-throughput orf cloning
+yeast two-hybrid interactions
+non-binary lc interactions
+lacz reporter genes
+haploid yeast cells
+424 interaction pairs appeared
+mass spectrometry experiments20
+competing financial interests
+plasmid-shuffling counter selection
+seemingly contradicting findings
+6agencourt bioscience corporation
+dynamically organized modularity
+gal4 dna-binding domain
+neurite outgrowth inhibitor
+exon junction microarrays
+polymerase chain reaction
+mast syndrome
+proteome-scale protein expression
+067 binary lc interactions
+formulate biological models25
+connect biological processes
+studying cellular networks
+sparsely sampled networks
+human interactome map
+emerging human interactome
+interacting protein pairs
+co-affinity purification experiments
+author contributions experiments
+dfci high-tech fund
+human 293t cells
+sampled interactome networks
+human orfeome v1
+apparent banding pattern
+evidence-type segregation apparent
+online mendelian inheritance
+characterizing gene sets
+apparently positive result
+proteomic data sets10
+proteome-scale affinity purification
+human interactome project
+human interactome network
+nucleic acids res
+authors contributed equally
+pearson correlation coefficients
+alternative splice variants
+yeast two-hybrid matrix
+human orfeome version 1
+co-affinity purification-positive interactions
+reliable biological models
+supplementary tables s2
+highly connected proteins
+protein pairs tested
+supplementary data vi
+supplementary data xiv
+supplementary data ix
+supplementary data xv
+supplementary data viii
+supplementary data xi
+supplementary data iii
+supplementary data ii
+supplementary data iv
+supplementary data vii
+supplementary data xii
+supplementary data xiii
+lci data sets
+molecular interaction database
+supplementary table s4
+supplementary table s7
+supplementary table s1
+supplementary table s8
+published online 28 september 2005
+gateway recombinational cloning
+finding molecular
+
+complexes
+future interactome versions
+harvard medical school
+interactome network graph
+adjusted success rate
+redundant duplicate genes
+spg21 protein localizes
+ccsb-hi1 interaction pairs
+comprehensive two-hybrid analysis
+earlier large-scale studies
+gal4 activation domain
+definition excludes dynamic
+increasingly confident subsets
+myc­prey fusions
+lc data sets
+supplementary table s2
+potential interactions predicted
+defined biological processes1
+000 primary positive colonies
+mouse genome database
+treat interactome maps
+complex biological networks
+mammalian gene collection
+author information reprints
+ccsb-hi1 network appears
+initial `search space
+graph layout algorithm
+disease gene identification
+200 distinct protein-coding genes
+elegans orfeome version 1
+combined ccsb-hi1­lci
+revealed global topological
+424 ccsb-hi1 interactions involving
+424 ccsb-hi1 interactions involve
+gene ontology annotation
+detect interactions
+molecular machines involved
+tested pairwise interactions
+drosophila case study
+his3 selective marker
+fifteen representative examples
+inherent inspection bias
+functional genomic data
+identified 424 interacting pairs
+evolutionary classes tend
+additional biological evidence
+ccsb-hi1 data set
+supplementary table s6
+provided laboratory support
+ccsb-hi1­lc networks
+2-hop network neighbourhood
+enriched functional terms
+yeast twohybrid
+describes interactions reported
+yeast two-hybrid
+binary interactions
+unannotated proteins present
+highly connected
+total search space
+called ccsb-hi1
+bottom panels
+protein networks
+protein pairs
+protein complexes
+high-throughput version
+20 october 2005
+
+letters
+omim disease association
+shared characteristic
+co-affinity purification
+dashed curve
+google scholar
+proteome-scale map
+specific phenotype
+protein interactions
+yeast genome
+interaction network
+protein-protein interactions
+left column represents
+human interactome
+cancer biology
+1038/nature04209
+
+letters
+lci interaction
+mouse biology
+human network
+interactome networks
+human `orfeome
+human orfeome
+lci-hypercore interactions found
+solid curve
+`small world
+human genome
+affinity purification
+protein classes
+protein transport
+blue edges
+initial version
+column shows
+`interactome mapping
+individual pools
+systems level
+interactome network
+online version
+yeast two-hybrid-
+yeast proteome
+interactome data
+bait mated
+network graph
+describes pairs
+gene pairs
+ccsb-hi1 interaction
+lci pairs
+gene ontology
+nih/nigms awarded
+protein pair
+supplementary data
+human disease
+dna sequencing
+caenorhabditis elegans
+recombinational cloning
+disease mechanisms
+systematically searching
+data set
+success rate
+human genome18
+diverse human
+human diseases
+human reticulon 3
+human health
+human promoters 0
+genome res
+fusion proteins
+technical assistance
+splice variants
+layout algorithm
+euchromatic sequence
+largely free
+100 cloned orfs
+myc­prey
+genetic strategy
+bottom panel
+curated databases
+including lci
+interaction information
+biological chemistry
+biological attributes
+biological interest
+biological relevance
+biological atlas
+biological properties8
+lci interactions
+20 october 2005
+
+table 1
+search space
+positive colonies
+nature genet
+interactome maps
+ccsb-hi1 pairs
+lc data
+mammalian genomes22
+david_hill@dfci
+version defined
+marc_vidal@dfci
+mouse tissues
+genome annotation
+functional genomic
+ccsb-hi1 network
+additional versions
+additional characteristic
+apparent discrepancy
+diploid cells
+experimental errors
+static graph
+network properties
+expanded network
+biological hypotheses
+systematic analysis
+comprehensive analysis
+orfeome meeting
+biological information
+ccsb-hi1 data
+reproducibility rate
+79 lc interactions
+251 scored positive
+lc interactions
+data analyses
+data provide
+data obtained
+000 protein-coding genes
+human genetics
+table summarizes
+increasingly detailed
+potential circularity
+working definition
+accepted 8 september 2005
+authors declare
+topological properties
+highconfidence subsets
+gene symbols
+predictive models
+100 gateway-cloned orfs
+357 ccsb-hi1 interactions
+ccsb-hi1 interactions
+experimental verification
+resulting network
+physical interactions
+interactions tested
+interactions present
+lcihypercore interactions
+literature-derived interactions
+molecular pharmacology
+expression studies
+expression measurements
+correlated expression
+functional annotation
+supplementary information
+positive clones
+verification rate
+selective media
+drosophila melanogaster7
+representative samples
+drosophila melanogaster
+highly specific
+representative examples
+2-hop neighbourhood
+inspection bias
+successive versions
+`inspection bias
+initial platform
+systematic discovery
+represent
+two-reporter-positive colonies
+evolutionary classes
+evolutionary conservation
+evolutionary class
+top panel
+functional consequences
+tested space
+functional organization
+left column
+functional maps
+sequencing staff
+functional relatedness
+considered technical
+interacting proteins
+functional properties
+disease relationships
+resulting interactions
+supplementary fig
+positive diploids
+red edges
+orthologous genes
+genes implicated
+genome biol
+functional analysis
+evidence labels
+saccharomyces cerevisiae
+tong hao1
+messenger rnas
+hierarchical organization
+subsequently tested
+nono ayivi-guedehoussou1
+fritz_roth@hms
+matija dreze1
+genome-wide survey
+baylor plaza
+higher likelihood
+carlene fraughton1
+perfectly sensitive
+dog genomes22
+neck surgery
+received 21 july
+baylor college
+important step
+exogenous assay
+sebiha cevik1
+amelie dricot1
+ten times
+increasing thickness
+stuart milstein1
+uniformly present
+kavitha venkatesan1*
+febs lett
+jean vandenhaute3
+lynn doucette-stamm6
+correlated expression30
+endoplasmic reticulum
+d471­ -d475
+estelle llamosas1
+44 binney street
+ad-y-dependent manner
+correlates significantly
+remains elusive
+camille bex1
+administrative assistance
+natl acad
+alex smolyar1
+stephanie bosak6
+neuroendocrine differentiation29
+sharing knowledge
+detailed description
+niels klitgord1
+2521 stockton blvd
+lci-hypercore interactions
+evident separation
+philippe lamesch1
+regulatory motifs
+agencourt biosciences
+demonstrating binding
+reverse proteomics
+low levels
+`gold standard
+dynamic features
+lane positions
+tomoko hirozane-kishikawa1
+mike boxem1
+automated method
+d262­ -d266
+jennifer rosenberg1
+ning li1
+flanking left
+significantly over-represented
+siming li1
+janghoo lim4
+reynaldo sequerra6
+christophe simon1
+excluding polymorphic
+successively increasing
+2003 nsf fellowship
+enhanced levels
+giovanni franklin2
+interacting partner
+computational analyses
+research tool
+randomly permuted
+individual steps
+present addresses
+250 longwood ave
+lci suggests
+selective medium
+complete collection
+vidal laboratory
+624 interactions supported
+275 interactions supported
+resulting constructs
+verification rates
+appealing hypotheses
+provide hypotheses
+entry clones
+retained clones
+interactions verified
+complementary information
+permissions information
+ccsb-hi1 proteins
+middle column
+classified proteins
+lineage-specific proteins
+proteins tested
+membrane proteins
+proteins specific
+hybrid proteins
+proteins involved
+ccsb-hi1 represents
+rnt4 belongs
+supporting evidence
+red circles
+model organisms
+rnt4 shares
+lane pair
+yellow nodes
+green nodes
+middle panel
+main component
+6 whittier place
+genuinely observed
+pcr amplification
+pubmed entries
+california davis
+provide insight
+partially addressed
+assessed
+db inserts
+previously described17
+db vectors
+existing literature-curated
+biases exist
+500 cummings center
+suite 7j
+bmc bioinformatics 4
+100 individual db-
+preferential addition
+vulval development
+community resource
+121 omim disease-
+interaction
+stan korsmeyer
+ad vectors
+total number
+work represents
+blue
+human
+`human
+length 1
+map
+ad-orf fragments
+mating process
+grant
+gst
+lci-non-core
+sensitivity
+growth
+evaluated
+vivo
+cancer
+number expected
+nature 436
+nature 403
+nature 430
+nature 431
+nature 411
+nature 415
+nature 434
+nature
+`interactome
+interactome
+comprehensive
+systematic
+597 pairs
+s2
+`mammalian
+experiments
+172 complexes
+mapping
+mouse
+project
+support
+network
+positive
+data
+set
+database
+table 1
+correlation
+ists
+evolution
+stringent
+presence
+distribution
+lci
+edges
+438 edges
+interactions
+molecular
+484 interactions
+800 interactions
+expression
+20 october 2005
+
+8
+20 october 2005
+lci-core
+characteristic
+top
+lc
+elegans
+space
+sequencing
+disease
+annotation
+genes
+ccsb-hi1
+assay
+activation
+provided
+reported
+involved
+studies
+tested
+78 £ 10246
+share
+share
+s6
+maps
+`2-hop
+association
+identified
+revealed
+examples
+p-
+classes
+his3
+present
+case
+bias
+complex
+left
+65 £ 10218
+share
+54 £ 10227
+share
+omim
+defined
+identified 102
+evidence
+analysis
+harvard
+total
+hypotheses
+clones
+resulting
+verification
+enriched
+information
+proteins
+417 proteins
+549 proteins
+1176
+
+proteins
+organisms
+supporting
+200 matrix
+rnt4
+found
+red
+represents
+pair
+matrix
+lci-hypercore
+nodes
+784 nodes
+addressed
+suggests
+spg21
+work
+process
+pcr
+fig
+platform
+place
+features
+number
+diploids
+pubmed
+literature-curated
+mating
+db
+observed
+discovery
+orfs
+middle
+partner
+insight
+searching
+genetics
+component
+
+0
+fragments
+california 95817
+previously
+biol
+medium
+ad-orf
+supported
+addition
+& vidal
+suite 7200
+disease-
+bioinformatics 21
+bioinformatics 19
+db-
+resource
+100 disease-
+expected
+verified
+development
+center
+-93 vidal
+biases
+complete
+1 center
+suite 2450
+korsmeyer
+ad
+considered
+610
+
+na 1
+lack
+results
+& hogue
+markers
+query
+zoghbi4
+cases
+row
+under-representation
+eppig
+berriz
+massachusetts 01081
+list
+overlaps
+song
+linked
+suggesting
+usa 98
+michael
+dip
+gilliland
+mason
+amplified
+selected
+mutations
+eventually
+yeast-mating
+gal1
+clingingsmith
+bird
+contrast
+pediatrics
+188 ad-
+explore
+address
+represented
+re-tested
+huda
+products
+king
+examining
+neuropathol
+protein-pairs
+368
+
+na 2
+uetz
+rollins
+usa
+2department
+peri
+depicted
+type
+generate 10
+fractions
+pull-
+benefiting
+validity
+co-expressed
+helped
+figure 1
+integrating
+s4a
+evolved
+common23
+sci
+dedicated
+formstecher
+expanding
+benz
+performed
+hit
+mgd
+s5
+occur
+livingston
+5000 namur
+218
+
+na 5
+lan
+proc
+1174
+
+shown
+response
+types
+man
+branches
+bind
+correspond
+s3
+order
+houston
+neighbourhoods
+memory
+developed
+ccsbhi1
+interpreted
+joanna
+auto-activation
+tendency
+scoring
+li
+detected
+db-orf
+lethality
+coordinated
+lci-
+huang
+terms24
+evol
+outlined
+ews
+& oltvai
+science 287
+university
+/nature
+2a
+2b
+2c
+difficult
+147
+
+na 1
+interactions11­15
+individually
+generation
+co-occurrence
+neurology
+& fraser
+measure
+avoided
+shown
+funding
+robert
+`y2h
+goa
+explain
+investigation
+medicine
+ref
+integrated
+`metazoan
+conceived
+derived
+confirms
+members
+estimate
+sander
+npg
+participants
+david
+interact
+manuscript
+cell 104
+relate
+wong2
+improvements
+specificity
+sikorski5
+quality
+necessarily
+xie
+barabasi
+1a
+schema
+hub
+johnson
+explanation
+lehner
+fromont-racine
+connections
+transferred
+absence
+ad-188ys
+understanding
+autoactivators
+19 presidential
+boston
+argument
+1b
+discussions
+rat
+sharyl
+phenotyping
+goldberg2
+mint
+dynamics
+betel
+paths
+isolated
+`1-hop
+note
+r63
+reboul
+overexpression
+306
+
+na 2
+importantly
+cycloheximide
+`guilt
+initiated
+comparison
+albala1
+observation
+science 302
+calculated
+frederick
+otolaryngology
+-41 giot
+fact
+applied
+phenomenon
+ito
+one-
+determine
+function
+
+0
+interpretation
+determined
+availability
+partners
+based
+proportion
+vol 437
+`eukaryotic
+5arcbay
+columns
+pcr-amplify
+space-
+gunsalus
+/reprintsandpermissions
+astrocytoma
+paper
+finishing
+explanations
+www
+reveals
+humans
+localize
+close
+jeong
+mol
+materials
+comparable
+ability
+s5a­
+centrality
+hypothesis
+grow
+& legrain
+`3-hop
+linkage
+s4b
+figures
+argue
+asked
+sequenced
+conclude
+co-directed
+corresponds
+co-apþ
+funcassociate
+rual
+written
+mice--
+informed
+188 ad-orfs
+nih/nhgri
+xenarios
+metazoan
+understand
+cusick1
+publicly
+zhang2
+96-
+guide
+proteome3­7
+correspondence
+larger
+surprisingly
+accounting
+interacts
+& roth
+suggest
+zanzoni
+texas 77030
+marto
+uniprot
+complemented
+sacramento
+rain
+co-ap2
+figure 2
+figure 3
+identity
+bryant
+¸ gabriel
+thought
+woburn
+science 303
+wagner
+gavin
+pagel
+showed
+family
+han
+rtn4
+smith
+massachusetts 02115
+transformed
+`interologs
+format
+term
+clin
+acknowledgements
+belgium
+45 mini-libraries
+sorting
+hill1
+beverly
+regulated
+ad-
+bader
+requests
+`scaffold
+apply
+s1b
+s1a
+scale
+novelty
+extensively
+overlap
+debra
+masked
+funcassociate28
+gene-
+biased
+massachusetts ´ ´ ´ 02115
+repository
+analysed
+hrtn3
+francis
+discussed
+chance
+greatly
+mixed
+198
+
+na 2
+mccowan
+arqule
+artefact
+massachusetts 01915
+mammals
+predictions
+`y2h/lci-negative
+accounts
+accepting
+methods
+rows
+surprising
+orkin
+interactors
+gibbons2
+fraction
+resulted
+berriz2
+function
+head
+regard
+doi
+gain
+lcicore
+logic
+mccue
+frequency
+similar
+ewsr1
+describe
+al
+conserved
+reliability
+controlled
+identities
+compared
+drafts
+walhout
+role
+department
+3 utrs
+node
+generated
+studied
+variable
+neuroscience
+camon
+union
+pool
+methodologies
+departments
+starting
+81%
+931­ -945
+303­ -305
+53 £ 10220 2
+05 £ 10220 3
+`
+91 £ 10243 7
+45 £ 10256 3
+40 £ 102137 4
+146 0
+74 £ 102405 3
+488 0
+10%
+100
+33
+34
+3%
+49 £ 10228 6
+85%
+2128­ -2135
+6
+338­ -345
+2363­ -2371
+94
+1997
+1999
+90 £ 10243 3
+2502­ -2504
+55%
+137 0
+33 £ 10289
+
+0
+1
+14 £ 1024 9
+2141­ -2144
+130 0
+4569­ -4574
+25
+26
+27
+22
+28
+616 0
+24
+059 0
+47 £ 102139 5
+62%
+70%
+29
+063 0
+03 £ 102280
+¼ 1 £ 1024
+7
+870 0
+086 0
+513
+1727­ -1736
+88­
+2
+376­ -384
+3 £ 1025
+257 0
+13
+15
+17
+16
+19
+18
+# 0
+1%
+115 0
+333­ -339
+861­ -865
+352
+021 0
+-7 30
+20
+þ
+84 £ 102100
+
+0
+128 0
+8
+11
+036 0
+10
+12
+14
+1128­ -1134
+72 £ 102120 1
+05
+243 0
+3
+21
+78%
+2003
+6%
+25%
+65
+116­ -122
+2000
+35­
+233 0
+270 0
+3 £ 10217
+336 0
+656 0
+1283­ -1292
+9
+248­ -250
+57 £ 10212 7
+2002
+31
+204 0
+53 £ 1023 4
+21%
+540­ -543
+32
+4
+5
+¼ 3 £ 1023
+30
+77 £ 1023 3
+410 0
+70 £ 10232 1
+41­ -42
+300
+68 £ 10228 1
+200 £ 7
+141­ -147
+23
+*
+277­ -282
+14 £ 1027 5
+471 0
+623­ -627
+832­ -834
+228 0
+4%
+6 £ 10220
+2004
+2005
+1­
+49 £ 10220 5
+6 £ 10256
+2001
+250 0
+135­ -140

@@ -1,0 +1,1363 @@
+false posit+ + + ive rate f1
+teichmann3
+1 medical
+
+research council biostatistics unit
+schematic diagram showing predicted domain­domain contacts
+bioinformatics
+structural bioinformatics
+
+original paper
+
+vol
+3 medical research council laboratory
+explicit asymptotic null distribution due
+experimental genomic interaction data suggests contacts
+making domain­domain contact predictions based
+genomic protein­protein interaction data sets
+computationally inferring protein domain interactions
+experimentally observed interacting pairs e1
+= log x11 + log x22
+dataset ito core non-core uetz mips
+large-scale interaction data sets extend
+protein quaternary structure file server
+red edges represent superfamily pairs
+uk
+
+1
+
+introduction
+
+proteins frequently bind
+investigating short functional sites
+usual statistical association tests
+human protein complex [zheng
+2004 advance access publication october 27
+insertion­deletion mismatch repair
+large-scale interaction assays produce
+dna repair protein muts
+interacting protein pairs satisfying condition 1
+phenomenon called remote homology
+yeast open reading frames
+making statistical inference based
+brookhaven protein data bank
+rigorous alternative approach due
+interrogating protein interaction networks
+1
+
+experimental data
+
+broadly speaking
+experimental protein­ protein interaction data
+require specific cellular conditions
+interacting protein pairs
+tom
+predictions provide basic structural information
+inferring domain­domain interactions
+shaded symbols represent superfamilies
+domain­domain contact prediction results
+similar structural prediction problem
+identify protein interactions fall
+includes domain superfamilies paired
+protein­protein interaction maps
+identify interacting protein pairs
+domain­domain contact--protein interactions
+superfamily pairs form physical contacts
+pairwise protein interaction aimed
+final false negative estimate
+combine genomic interaction data
+interacting protein pairs
+
+table 1
+potentially interacting domain pair
+high throughput approaches generally
+predicted domain­domain contact
+complete three-dimensional atomic structure
+interacting protein pairs
+
+fig
+predicting domain­domain contacts
+predicting domain­ domain contacts
+large-scale interaction data set
+involved likelihood maximization procedure
+ito data set comprises
+single domain­domain contact
+potential domain­domain contacts
+domain­domain contact predictions
+large scale statistical prediction
+domain contact predictions based
+predict domain­domain contacts
+protein interactions involve contacts
+interacting protein pairs
+
+p-values
+prediction methods correctly predict
+superfamily library release number 1
+analyse large-scale sets
+genomic data sets
+log odds ratio
+baseline success rate
+large-scale data sets
+false discovery rate
+genomic interaction data
+low throughput approaches
+hidden markov models
+oxford university press 2004
+detect remote homology
+generated intense interest
+attracted considerable interest
+2 dipartimento di informatica
+università di pavia
+cullin repeat domain
+90% confidence interval based
+unlike existing approaches
+false negative rate
+short peptide motif
+nucleic acids res
+false positive rate
+domain pairs directly
+simulating data drawn
+merging data reflecting
+high throughput approaches
+5032 interacting protein pairs
+705 interacting protein pairs
+interacting protein pairs
+experimentally observed interaction
+global null hypothesis
+statistical issues arise
+statistical issues mentioned
+`skp1 dimerization domainlike
+larger protein complexes
+
+domains
+outperform naive prediction
+short protein motif
+includes proteins paired
+largescale interaction determination
+expected success rate
+replicate data sets
+consecutive letter pairs
+domain­domain contacts
+amino acid sequence
+affects protein interaction
+signify physical binding
+domain­domain contact
+protein quaternary structure
+false negative rates
+complete three-dimensional structure
+null hypothesis hj
+biological evidence suggests
+pdb identifier 1ldk
+true three-dimensional configuration
+cell regulatory systems
+obtaining domain assignments
+pqs satisfying conditions 1
+protein­ protein interaction
+protein­protein interaction
+mips data sets
+protein pair interacting
+interacting protein pair
+protein­protein contacts
+false positive rates
+specifically false positive
+ancestral gene sequences
+superfamily pairs falling
+superfamily pairs directly
+method performs significantly
+protein interaction data
+interaction data sets
+high throughput approach
+yeast protein interactome
+yeast two-hybrid technique
+sophisticated simulation technique
+lowest error rate
+binomial distribution assumption
+single domain superfamily
+potential contacts increases--
+high throughput techniques
+rigorous statistical measure
+domain contact predictions
+combined data set
+pairwise interactions released
+binary interaction data
+consecutive superfamily pairs
+success rates obtained
+maximum likelihood method
+protein­protein interactions
+1093/bioinformatics/bti086
+
+statistical analysis
+re-assign domain superfamilies
+score domain pairs
+predict structural aspects
+true contacts arose
+potential contact picked
+data sets overlap
+sufficiently low p-
+716 superfamily pairs lie
+contained 1931 superfamily pairs
+predicting protein interactions
+scop superfamily pairs
+pairs incorrectly included
+global null pr
+insufficient test data
+constituent domain superfamilies
+superfamily pair coming
+pooled data set
+data
+
+994
+
+statistical analysis
+mips data set
+pairwise interactions selected
+extracting structural information
+shuffle domain superfamilies
+modular eukaryotic proteins
+p-values outperformed prediction
+comprehensive two-hybrid analysis
+false negative probability
+pqs protein pairs
+protein pairs domains
+error bars correspond
+proteins remains fixed
+protein interactions obtained
+superfamily contacts observed
+ito data set
+eliminating null orfs
+superfamilies 3035 orfs remained
+physical interactions obtained
+protein interaction domains
+scop superfamily interactions
+uetz data set
+yeast two-hybrid experiments
+schematic representation
+observed statistics s0
+making predictions
+superfamilies form contacts
+pqs reveals contacts
+statistically significant role
+mismatch repair
+superfamily pairs assigned
+3
+
+shuffling algorithms
+
+pr
+identify pairs
+assume fixed probabilities
+edges satisfying
+large expected number
+original set
+superfamily interactions found
+interacting pairs
+high rate
+assigned scop superfamilies
+genomic experiments
+domain pairs
+false negative
+null hypothesis
+structural aspects
+elm server
+domain binding
+single domain
+protein pairs
+false positive
+larger scale
+predicted contacts
+data sets
+log x21
+x11 = ej
+prediction based
+quaternary states
+protein interaction
+mips data
+predicted contact
+domain superfamily
+experimental data
++ = pr
+prediction problem
+statistically rigorous
++ f-
+interaction data
+eliminating `null
+physical contacts
+three-dimensional conformation
+potentially thousands
+structural prespective
+structural subunits
+atomic level
+shaded yellow
+structural biology
+blue edges
+large sets
+explicit information
+domain superfamilies
+domain assignments
+atpase domain
+domain combinations
+domain architectures
+domain content
+domain pair
+domain composition
+domain level
+5
+
+predicting contacts
+complete set
+predictions condition
+observed sets
+false positives
+contacts lie
+extracting contacts
+statistical approach
+716 superfamily pairs
+superfamily pairs
+log x12
+protein structure
+physical contact
+observed data
+three-domain protein
+protein cdc53
+protein pair
+yeast two-hybrid
+structural classification
+sequence homology
+protein interactions
+705 protein interactions
+experimental error
+uk
+
+received
+consecutive superfamilies
+table 1 summarizes
+ignoring issues
+table 1 lists
+protein complexes
+basic assumption
+protein sequences
+potential contacts
+physical interactions
+bars correspond
+interacting proteins
+high accuracy
+domain assignment
+genome res
+domains interacting
+data set
+pairwise interactions
+pooled set
+exceed s0
+selected examples
+cellular functions
+specifically single-base
+satisfy condition 3
+experimental verification
+experimental errors
+experimental set-
+basic idea
+eukaryotic proteomes
+998
+
+statistical analysis
+1000
+
+statistical analysis
+996
+
+statistical analysis
+structural information
+domain hmms
+pqs satisfying
+scop superfamilies
+proteins involve
+erroneous predictions
+interaction partners
+249 uetz
+fig
+form contacts
+binary complexes
+potential contact
+pairs occur
+role played
+great biological
+biological processes
+hatched bars
+bioinformatics
+experimental techniques
+larger complexes
+prediction method
+protein function
+mips database
+loops correspond
+231 test pairs
+potential benefits
+large amount
+contacts ej
+constituent atoms
+scop classification
+interaction experiments
+structures contained
+provide details
+protein domains
+superfamily labels
+superfamily library
+superfamily pair
+true contact
+contact physically
+term contact
+comprehensive analysis
+scop database
+superfamily interactions
+interactions observed
+observed set
+ito interactions
+3d structure
+domain-level structure
+predicting
+
+published
+experimental methods
+contacts occur
+large part
+natl acad
+carlo berzuini1
+facility coupled
+distinct ways
+saccharomyces cerevisiae
+x-ray crystallography
+simplest form
+von mering
+trends biochem
+pms1­msh3
+x21 = nj
+computational burden
+marginal frequency
+comparative assessment
+`building blocks
+2004
+
+abstract motivation
+trends genet
+simple model
+separate chains
+predictive approach
+marginal frequencies
+mlh1­msh3
+common approach
+stronger levels
+explicitly reported
+simply pick
+correction term
+illustrated schematically
+expression depends
+simply choose
+predictive power
+saccaromyces cerevisiae
+black lines
+simple approach
+powerful approach
+correlated sequence-signatures
+madan babu3
+pages 993­1001 doi
+pms1­msh6
+diverse implications
+molecular biology
+common ancestor
+mlh1­msh6
+main graph
+main motivation
+min{fk+
+uk/ personal/thomas/protein_files
+integrative approach
+prediction methods
+make predictions
+approximately 15 × 103 interactions
+transient interactions
+interactions obtained
+individual interactions
+yeast interactions
+larger number
+pqs reveals
+observed score
+eliminating orfs
+proteins skp1
+yeast genome
+genome inform
+re-assign domains
+entire genome
+contacts represented
+paper presents
+paper proposes
+small region
+computational techniques
+small compared
+data-simulation method
+method outperforms
+permutation method
+simplest method
+simple method
+case predicting
+predictive scheme
+highest score
+statistics exceed
+large number
+potential number
+performing experiments
+experiments [yamanaka
+crystallographic experiments
+superfamily assignment
+genome sequences
+shapes correspond
+expected number
+vast array
+occur frequently
+2 × 2 array xrs
+detailed analysis
+analysis extends
+analysis expands
+simplifying assumption
+valid assumption
+small part
+constituent domains
+included provided
+assignment procedure
+yeast orfs
+ej =
+ip
+core part
++
+test thousands
+unknown structure
+lowest p-
+smaller numbers
+observational uncertainty
+pair occurs
+structure-based assembly
+factor depends
+meaningful comparisons
+internet resource
+partially maintains
+3
+
+results
+
+results
+superfamilies represented
+adjacent gap
+vast space
+diverged considerably
+present-day variety
+2
+
+assigning p-values
+assigns p-values
+interactions determined
+interactions satisfied
+pqs entries
+combining core
+proteins expressed
+separate proteins
+identical proteins
+single-domain proteins
+individual proteins
+multi-domain proteins
+classifying domains
+domains belonging
+enzymatic domains
+observe domains
+repeated domains
+small number
+generate measure
+figure 4 shows
+figure 2 shows
+severely limited
+limited selection
+limited range
+figure 3 shows
+random permutation
+smallest p-
+higher p-
+represent
+poorly conserved
+necessarily approximate
+work raises
+conditional probability
+implicit assumptions
+small affect
+statistics s1
+ip
+
+=
+
+× pr
+entire proteome
+approximate estimates
+important goal
+random sequences
+multiple testing
+references
+aloy
+nj = nij
+determine structures
+pqs database
+domains found
+precise nature
+em algorithm
+proteins database
+total number
+combining domains
+stage reflects
+x22 =
+predicted
+distribution
+domain
+domains mediating
+based
+= /  ¯ pr
+fact occur
+comparing scores
+minimum p-
+generate p-values
+approaches
+pj represents
+section describes
+assign p-values
+protein
+sets
+evidence present
+nye@mrc-bsu
+null
+pairs
+provide
+likelihood
+negative
+uk
+ranked list
+data
+4
+
+data
+deng scores
+proteins interact
+high
+shuffled string
+mips
+28
+
+mips
+
+582
+
+¯
+predicting
+october 5
+= hj
+rates
+/ ek
+require
+homology
+experimental
+combine
+condition
+generally
+sprinzak scores
+prediction
+predictions
+interaction
+fig
+contacts
+`motif
+0185 fixed
+`non-core
+non-core
+sequence
+large
+error
+superfamily
+contact
+observed
+expected
+ito
+ito 1019
+structure
+overlap
+yeast
+assignments
+superfamilies
+cell
+obtained
+involved
+shuffle
+pdb
+measure
+estimate
+pair
+uetz
+approach
+procedure
+frequently
+library
+form
+true
+assume
+interactions
+705 interactions
+set
+genome
+predict
+complexes
+paper
+sequences
+ej
+techniques
+method
+small
+statistics
+scheme
+part
+score
+7 core
+`core
+38 core
+experiments
+191 core
+4 core
+results
+classification
+found
+ip
+database
+probabilities
+structures
+occur
+array
+5 describes
+combining
+simulation
+significant
+analysis
+assumption
+6335 orfs
+orfs
+assignment
+included
+make
+test
+number
+2
+
+methods
+methods
+= pr
+¯ pr
+pr
+hmms
+assembly
+represented
+published
+total
+comparing
+stage
+reflects
+factor
+minimum
+numbers
+f-
+meaningful
+satisfied
+affect
+s1
+idea
+space
+unknown
+occurs
+maintains
+determined
+resource
+shuffling
+mrc-bsu
+1 pj = ×
+uncertainty
+ranked
+gap
+present
+mediating
+shapes
+determine
+function
+x12 =
+diverged
+functions
+variety
+details
+p-values
+information
+pqs
+proteins
+domains
+domains
+
+1
+limited
+figure
+generate
+figure 1
+figure 5
+random
+assigned
+scores
+p-
+work
+assumptions
+shuffled
+assign
+represents
+probability
+necessarily
+/
+conserved
+proteome
+estimates
+case
+deng
+important
+string
+evidence
+nye
+fact
+aloy
+nij
+testing
+nij = 0
+interact
+ek }
+ek
+section 4
+section 2
+section 3
+list
+nature
+nature 416
+algorithm
+sprinzak
+sci
+fitch
+follow
+calculate
+re-calculating
+show
+removal
+finally
+fischer
+stable
+include
+indicating
+alber
+supported
+advantage
+desirable
+choice
+bringing
+markers
+evolved
+--
+positions
+unrelated
+weil
+recall
+favoured
+pichaud
+`expert
+harder
+literature
+consists
+chen
+davis
+reviews
+giving
+hochberg
+remain
+suh
+serrano
+uk/superfamily/comb
+understanding
+downloaded
+explore
+groups
+observing
+5% corresponds
+hubbard
+receive
+study
+denominator
+pooling
+survey
+suggestion
+makes
+involves
+control
+proportion
+f2
+marked
+addressed
+trained
+prokaryotes
+sarah
+russell
+usa
+examined
+1 introduces
+concatenating
+estimated
+criteria
+type
+`training
+successful
+training
+improve
+tested
+controlling
+investigation
+cases
+eubacterial
+opin
+abundance
+account
+equation
+chiba
+mehta
+cam
+learn
+believed
+compare
+weaker
+give
+sample
+performed
+employs
+counting
+unordered
+soc
+s2
+write
+feature
+meiosis
+vital
+linding
+rudd
+martin
+collection
+teichmann
+expect 5%
+gilks1
+fn
+natural
+bottcher
+hypotheses
+complexity
+üldener
+sn
+sun
+order
+interact--
+produces
+developed
+displayed
+genomes
+tan
+brannetti
+regions
+difference
+acknowledge
+chosen
+exact
+methodology
+coordinates
+fruitful
+absence
+degrees
+categories
+benjamini
+correspondence
+incompleteness
+affected
+combination
+introduce
+1
+
+notation
+june 3
+68 × 103 iterations
+classified
+applied
+mode
+en
+sattath
+revised
+reduce
+related
+gaps
+yoshida
+expect
+`sprinzak-score
+extract
+event
+network
+quality
+denotes
+mediated
+statist
+possibility
+standard
+difficulty
+homologous
+members
+e2
+--algorithms
+geometry
+impose
+times
+pattern
+incorporated
+ability
+kim
+over-represented
+biol
+similarly
+achieved
+construct
+imposing
+observations
+korkin
+park
+frishman
+costantini
+representing
+relative
+seventy-
+future
+n-terminal
+wealth
+italy
+well-
+ceulemans
+element
+topf
+strength
+thornton
+note
+majority
+margalit
+green
+measures
+archaeal
+snel
+eukaryotes
+sali
+sakaki
+considered
+calculated
+adopt
+mrc-lmb
+elucidating
+accounted
+nye1
+thomas
+one-
+threshold
+trivial
+explain
+brenner
+distributed
+unable
+screening
+morgenstern
+legrain
+kind
+made
+cameron
+struc
+compute
+nk
+sistemistica
+evolution
+murzin
+fields
+`deng-score
+mewes
+view
+computed
+fail
+terms
+concern
+5 × 10-4
+attempting
+complement
+//www
+preserve
+recently
+screen
+restricting
+7 × 10-4
+extent
+distinguish
+suggested
+puntervoll
+parts
+mokrejs
+chothia
+giot
+addressing
+mannhaupt
+maximize
+hattori
+basis
+nr
+
+806 3669 948 1281
+
+240 859 344 630
+
+65 95 60 10
+create
+defined
+fdr
+walter
+website
+formed
+repertoire
+denote
+exception
+hughey
+reliable
+aim
+replaced
+applies
+focussed
+notation
+drawbacks
+wojcik
+bias
+owing
+oliver
+interacts
+confirmed
+develop
+descent
+perform
+html
+sprinzak-score
+nik
+practice
+http
+effect
+driven
+relies
+recognized
+henrick
+thought
+simulated
+gemund
+left
+bottom
+interactions--
+obtain
+gavin
+detail
+ozawa
+questions
+accepted
+extracted
+cornell
+source
+ausiello
+easily
+leutwein
+mol
+harder--
+mayer
+noted
+picking
+pawson
+mellwig
+deal
+arrows
+deng-score
+bork
+nonetheless
+dimensions
+lead
+proc
+demonstrated
+measuring
+process
+4
+
+discussion
+elucidate
+//supfam
+broken
+step
+offset
+play
+analysing
+comparison
+column
+discussed
+practical
+addition
+ensure
+constraints
+cambridge
+letters
+presence
+previously
+sections 2
+bound
+assess
+mitosis
+karplus
+area
+assumed
+support
+question
+gough
+thirdly
+briefly
+futile
+fraction
+chabanis-davidson
+a2
+superti-furga
+zhang
+regard
+apic
+mattingsdal
+science
+removed
+groupings
+datasets
+consist
+attached
+scop--
+gauthier
+clear
+ac
+curr
+significance
+ak
+statistic
+influence
+al
+12 august 2003
+consensus
+ng
+grouped
+interested
+nr
+contacting
+category
+mdm30
+symbol
+shown
+a1
+a3
+september 1
+coverage
+krause
+factors
+ünsterkoetter
+organism
+fritz
+rule
+cagney
+nash
+representative
+0
+36­36]
+6
+311­325
+5896­5901
+313
+536­540
+303
+= 5
+2303­2313]
+99
+1995
+1998
+993
+1
+310
+7 2005
+21
+409
+346­352
+705
+417
+358­361
+171­176
+1001
+2
+923­929
+13
+14
+17
+19
+313­324
+1540­1548
+919­923
+98
+327
+20%
+3625­3630
+681­692
+995
+997
+10
+999
+7 60
+311
+445­452
+3
+31­34
+267­275
+909­919
+61
+4569­4574
+403
+1983
+163
+2026­2029
+623­627
+= 1
+31
+4
+7
+26%
+=
+57
+5%
+30
+399­403
+5
+660
+247
+0185
+300
+853
+555
+2182
+6882
+289­300
+%
+23
+1564
+2002
+2003
+2000
+2001
+2004
+42­50
+12

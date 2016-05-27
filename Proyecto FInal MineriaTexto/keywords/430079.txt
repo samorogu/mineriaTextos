@@ -1,0 +1,724 @@
+irradiance
+represent
+two-dimensional
+similarity
+history-dependent
+desirable
+spike-triggered
+quadrature
+luminance
+electrical responses
+Blakemore
+contributions
+reluctant
+responsiveness
+McLaughlin
+amplification
+physiological
+Expression
+Chichilnisky
+Elaborations
+Simoncelli
+spatiotemporal structure
+capturing
+generation mechanisms
+presentation
+different neurophysiological
+advantage
+orthogonal
+Ramcharan
+sensitivity regulation
+explainable correlation
+orientations
+peripheral
+half-squaring
+additional fundamental
+difference
+Experimental
+corticocortical communication
+Evaluating
+transmission
+Independence
+electrophysiology
+convenience
+circuitry
+arbitrary combination
+perceptual
+inspection
+cross-correlate
+nonlinear mechanisms
+Oftentimes
+Nonlinear
+receptivefield parameters
+Fortunately
+receptive-field organization
+consistent
+prediction
+higher-order
+perspective
+Nakayama
+nonlinear receptive
+attributable
+depression
+Responses
+specification
+experiment
+excitatory
+dynamical nonlinear
+reconstruction
+successful functional
+Additional investigation
+biological mechanism
+processing
+editorial
+presynaptic
+component
+Departments
+understanding
+neurophysiological mechanism
+selective
+Gazzaniga
+orientation selectivity
+reverse-correlation procedure
+Carandini
+white-noise
+naturalistic
+Computational
+distinctness
+technical
+appropriate predictive
+spike-triggered averaging
+ineffective
+procedure
+published
+inseparable receptive
+eigenvectors identified
+Technology
+half-squared
+regardless
+projection
+classification
+problematic
+inhibitory phenomena
+spatiotemporal receptive
+functional characterization
+photoreception
+functional organization
+summation
+illumination
+Evaluation
+orientation
+biophysical
+simple-cell receptive
+consumption
+Efficiency
+likelihood
+predictions
+Quantifying variability
+predictability
+comparing
+Ophthalmology
+Adaptation
+Neuroscience
+theoretical
+contrast­response functions
+significant eigenvectors
+established quantitative
+schematic
+neurophysiology
+Stimulus optimization
+Receptive-field structure
+interaction
+normalized
+particular
+coextensive
+first-order
+extracellular recording
+Two-dimensional
+Characterization
+challenge
+information processing
+mammalian
+Extraclassical receptive
+linearized reverse-correlation
+combinatorial explosion
+determining
+spontaneous
+sinusoidal
+natural-looking
+decorrelation
+dichoptic mechanisms
+weighting
+rescaling
+interneurons
+overfitting
+information
+regularization
+straightforward
+discussion
+dependent
+antidromic stimulation
+Significant
+symposium
+widespread
+Normalization
+EnrothCugell
+simplicity
+description
+half-wave rectifying
+Fitzpatrick
+additional nonlinear
+likelihood estimation
+complexcell receptive
+orientation-spatial frequency
+horizontal
+meaningful
+Carterette
+effective
+receptive-field structure
+luminance modulation
+complexity
+experimental conditions
+negligible
+representation
+bright-dark
+contrastresponse
+phase-separated
+understand computation
+interpretation
+feedback
+nonlinear transformation
+nonparametric
+integrate-and-fire
+transmission efficiency
+experiments
+existence
+Enroth-Cugell
+Fitzhugh
+Triggered
+informative dimensions
+correlate
+Smith-Kettlewell
+Orientation selectivity
+conveying
+rectification
+mini-symposium
+push­pull
+combination
+Einhauser
+Receptive
+salamander
+cross-validation procedure
+framework
+regularization procedure
+formidable challenge
+continuum
+identified
+realistic
+magnitude
+thalamocortical
+reasonable
+phase-invariant complex-cell
+Developmental
+Timecourse
+dichotomy
+generation
+Jagadeesh
+thorough understanding
+circadian
+constitute
+frequency
+Passaglia
+irritation
+Gauselman
+laboratory
+nonlinearities
+Crossorientation suppression
+important nonlinear
+Higher-order
+different predictions
+Maintained
+meaningful comparison
+nonlinear transducer
+Neuroscience Institute
+Lorenceau
+Discharge
+evaluation
+single-unit
+magnocellular
+Hochstein
+perception
+top-down information
+second-order Volterra/Wiener
+University
+According
+Tsherbach
+receptive-field modulation
+approaches
+threedimensional
+complicated
+disposition
+Correlation
+nonlinear properties
+center­surround organization
+beginning
+information transmission
+definition
+Cambridge
+Spatially
+measurement variability
+Spectral-temporal receptive
+binocular interaction
+spatial-frequency
+efficient framework
+invitation
+time-varying
+responses independent
+Copyright
+Eggermont
+strategic
+simple-cell receptive-field
+quadratic nonlinearity
+Intracortical
+impossible
+Tolhurst,3
+facilitation
+bottom-up
+hyperbolic
+Pattern-specific attentional
+recruiting
+Precision
+stimulation
+Ecological
+intermediate
+statement
+Y/magnocellular
+neurotransmitter
+anesthetized
+Physiology
+exploring
+relationship
+explanation
+frequency-selective
+assumption
+parvocellular
+predictable
+predicting responses
+second-order mechanisms
+percentage
+population
+structural constraint
+photoreceptor
+nonlinear contributions
+Zaghloul
+straightforward receptive-field
+Receptive-field
+depolarization
+intensities
+amplitude
+rationalization
+modulatory
+interactive
+contrast-normalization
+Traditionally
+Mini-Symposium
+Benardete
+fluctuation
+correction
+conventional
+higher-level
+geniculate
+prevalent root-mean-square
+Goal-related
+naturalistic experimental
+functional architecture
+Optometry
+correlation coefficient
+convenient
+digitized photograph
+substantial excitation
+sensitiviy
+Predicting responses
+objective
+performance
+measuring complex-cell
+OFF-center
+contextual modulation
+nonlinear functional
+integration properties
+unanticipated influence
+brisk-transient
+incomplete reflection
+extrastriate
+overestimation
+additional excitatory
+simple-cell summation
+nonlinearity
+Melanopsin-expressing
+attentional modulation
+Obtaining
+Inclusion
+Volterra/Wiener regression
+principle
+complex-cell
+prevalent luminance
+nonlinear stimulus­response
+threshold nonlinearity
+closed-loop
+phenomenon
+one-dimensional
+correlation procedure
+directional selectivity
+linearized spatiotemporal
+intrinsic variability
+Background
+threshold
+Half-squaring
+Contrast­response functions
+Inhibitory
+resemblance
+knowledge
+parameters
+proportion
+Hodgkin-Huxley equations
+linear­nonlinear­Poisson
+Fiorentini
+sensitivities
+ommatidia
+photoreceptors
+antagonism
+Nevertheless
+hypothesizing
+Vorobyov
+Organization
+first-stage
+evolution
+substrate
+rectifying nonlinearity
+Searching
+Efficient
+architecture
+adherence
+monochromatic
+predictive
+multiplying
+explainable responses
+intrinsic photosensitivity
+sensitivity
+California Institute
+Spike-triggered
+intensity
+different mechanisms
+Handbook
+spatiotemporal summation
+nonlinear phenomena
+Performance
+intensive representation
+Olshausen,6
+nonspecific suppression
+integrated responses
+nonPoisson
+inhibitory
+subsequent
+random-bar
+artificial
+Neurophysiol
+Hierarchical
+identification
+Preliminary
+affecting
+invariant
+suppressive eigenvectors
+conditions
+ensembles
+discovery
+available
+variability
+responses
+Determining
+second-order
+conditions approximating
+hypothesis
+full-field
+quantitatively predicting
+neuroanatomy
+information maximization
+Filtering
+stochastic integrate-and-fire
+tractable
+influential
+postulate
+sensitive
+connection
+subthreshold
+Marmarelis
+contribution
+Neurocomputing
+experimental
+collecting
+sigmoidal
+characterization
+advancement
+short-term adaptation
+movement-sensitive
+adaptation
+sequences
+anatomical mechanisms
+understanding complex-cell
+Conclusion
+considering
+complication
+intracellular
+Functional circuitry
+Real-time performance
+Steveninck
+reduction
+contrast­response
+California
+Segregation
+Comparison
+determinant
+diversity
+precision
+understand
+nonclassical receptive
+conception
+originate
+appearance
+refractory
+classical receptive
+evaluating
+promising
+Shapstrong
+characterizing
+Additional
+Nonetheless
+determination
+Furthermore
+Surprisingly
+optimistic
+movements
+Correspondence
+different
+Understanding
+simple-cell definition
+Different mechanisms
+Importantly
+nonclassical modulation
+Suppression
+modification
+Processing
+3Department
+Recovering
+difficult
+breakdown
+independent
+literature
+high-frequency
+Institute
+DeAngelis
+spike-triggered covariance
+continuous subthreshold
+experimenter
+spatiotemporal phase-separated
+supposing
+invariance
+normalization
+naturalistic free-viewing
+Luminance
+visualization procedure
+sparseness
+Geniculate
+Spatiotemporal receptive
+efficient
+consistency
+center­surround receptive
+parametric
+dimension
+Nonspecific suppression
+Tranchina
+frequency responses
+Conclusions
+push­pull inhibition
+proximity
+significant eigenvector
+direction-selective
+bandwidth
+Reconstruction
+inference
+alternative
+Molecular
+Obermeyer
+low-level
+successful quantitative
+feedforward
+Przybyszewski
+interocular suppression
+timescale
+generator
+Extending
+particular orientation
+phase-sensitive responses
+attractive
+Although
+Smirnakis
+transformation
+Eigenvectors
+lower-level
+saturation
+increased
+secondorder
+preexisting
+frequency selectivity
+four-part definition
+inhibition
+second-order polynomial
+background
+nonoptimal
+Simple-cell receptive
+prominent
+Spatiotemporal
+necessary
+cognitive
+hyperpolarization
+qualitative
+identifying
+sine-wave
+arbitrary
+invaluable
+explainable
+stationary
+essential
+satisfactory
+Theunissen
+classical
+illustrious precedent
+Olshavsen
+orientation-selective
+Functional
+selectivity
+Application
+Mukherjee
+development
+4Molecular
+dimensions
+Relationship
+integration
+instantaneous
+physiology
+regression procedure
+psychophysical experiments
+phase-invariance nonlinearity
+Contextual
+Sejnowski
+conference
+complex-cell receptive
+inaccurate
+predicting
+agreement
+postnatal
+Neurophysiological
+approximating
+Typically
+properties
+Characterizing
+comparison
+mechanism intrinsic
+extension
+nonclassical receptive-field
+contrast-dependent
+Estimating spatio-temporal
+instantaneous nonlinear
+Directional selectivity
+misleading
+Analyzing
+Neurobiol
+quantitative predictions
+Gillespie
+computational
+significant
+trast­response functions
+Intracellular
+functional
+excitatory eigenvectors
+neuroscience
+proportional
+integrateand-fire-or-burst
+Increasing
+koniocellular
+extraction
+systematic variability
+twodimensional
+transform
+pseudorandom spatiotemporal
+Spatiotemporal organization
+phase-independent responses
+nonlinear summation
+perceptual adaptation
+unresponsive
+insensitivity
+functional properties
+Interestingly
+Olshausen
+sophisticated
+idealized
+expansive nonlinearity
+Prickaerts
+convolving
+convergence
+additional understanding
+Contribution
+subcortical
+surprising
+minisymposium
+receptive
+spatiotemporal-chromatic
+exploration
+tractable description
+linear­nonlinear
+microelectrode
+heterogeneous
+nonlinear represent
+distribution
+Olveczky
+computing
+quantitative approaches
+universal
+influence
+one-third
+half-wave rectification
+accounting
+neurophysiological experiments
+functions
+Francisco
+calibration
+Derrington
+inactivation
+important consideration
+application
+interested
+two-stage
+non-Poisson
+least-square
+arithmetic
+explaining
+perpendicular
+excitation
+X/parvocellular
+Summation
+veritical
+References
+discharge
+Gallant,5,6
+spatio-temporal receptive
+individual
+algorithm
+Prediction
+Quantitative
+Sunderland
+presenting
+Interdependence
+inaccuracy
+O'Connor
+validation
+proximate
